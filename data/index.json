@@ -1,0 +1,53 @@
+{
+  "batches": [
+    "2026w42",
+    "2026w42b"
+  ],
+  "ips": [
+    "2026w42-1",
+    "2026w42-2",
+    "2026w42-3",
+    "2026w42-4",
+    "2026w42-5",
+    "2026w42-6",
+    "2026w42b-1",
+    "2026w42b-2",
+    "2026w42b-3",
+    "2026w42b-4",
+    "2026w42b-5",
+    "2026w42b-6"
+  ],
+  "reviews": [
+    "2026w42-2",
+    "2026w42-5"
+  ],
+  "pools": [
+    "color-13h2gze",
+    "color-16l8onr",
+    "color-18fhxza",
+    "color-1g05oeo",
+    "color-1ik1v35",
+    "color-1kcbfns",
+    "color-1kiw1xm",
+    "color-1ld1vyr",
+    "color-1m7sas",
+    "color-1v02dci",
+    "color-86iwf6",
+    "color-c7ojaz",
+    "color-ofbpja",
+    "color-uhxuy1",
+    "color-ysnsa5",
+    "material-10fcrjx",
+    "material-1p0nspt",
+    "material-1x9k1u2",
+    "material-gg1isc",
+    "material-r99j7",
+    "material-so456y",
+    "origin-1746d0s",
+    "palette-1bof3f3",
+    "palette-1ia3g8n",
+    "palette-cdqmur",
+    "palette-d409tv"
+  ],
+  "updated": "2026-10-18T15:39:06+00:00"
+}

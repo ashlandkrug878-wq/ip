@@ -1,8 +1,16 @@
-name: Generate images
+name: Pipeline
+
+# Runs whenever board data or the image queue changes:
+# 1. rebuild data/index.json for the website
+# 2. add base-image jobs for new IPs (skipping 淘汰)
+# 3. generate pending images if IMAGE_API_KEY is configured
+# Commits made here use GITHUB_TOKEN, which does not retrigger this workflow.
 
 on:
   push:
+    branches: [main]
     paths:
+      - "data/**"
       - "queue/image-jobs.json"
   workflow_dispatch:
 
@@ -10,17 +18,21 @@ permissions:
   contents: write
 
 concurrency:
-  group: generate-images
+  group: pipeline
   cancel-in-progress: false
 
 jobs:
-  generate:
+  run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Rebuild data index
+        run: python scripts/build_index.py
+      - name: Queue base images for new IPs
+        run: python scripts/build_queue.py
       - name: Generate pending images
         env:
           IMAGE_API_KEY: ${{ secrets.IMAGE_API_KEY }}
@@ -29,12 +41,16 @@ jobs:
         run: python scripts/generate_images.py
       - name: Commit results
         run: |
-          git config user.name "image-bot"
-          git config user.email "image-bot@users.noreply.github.com"
-          git add images queue/image-jobs.json
+          git config user.name "pipeline-bot"
+          git config user.email "pipeline-bot@users.noreply.github.com"
+          git add data/index.json images queue/image-jobs.json
           if git diff --cached --quiet; then
             echo "nothing to commit"
-          else
-            git commit -m "Generate images from queue"
-            git push
+            exit 0
           fi
+          git commit -m "Pipeline: update index, queue and images"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1
