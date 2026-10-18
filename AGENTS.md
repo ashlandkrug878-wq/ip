@@ -75,3 +75,16 @@
 - `status`：`pending` 待出图、`done` 已完成、`failed` 失败（失败原因写在 `note`）
 - 出图工具只处理 `pending` 的任务，完成后把图存到 `output`，把 `status` 改成 `done`
 - 上色、表情等需要参考图的任务，会多一个 `reference` 字段，指向 `images/` 里已有的图
+
+## 给 ChatGPT：在对话里出图并上传
+
+用户没有配置出图 API 时，由 ChatGPT 在对话里出图后上传。每次按这个顺序：
+
+1. 读 `queue/image-jobs.json`，找出 `status` 为 `pending` 的任务；用户指定了方案名或 id 时只做那几个
+2. 每个任务用 `prompt_en` 出图（不要改动提示词里的造型描述，不要加任何现有 IP、品牌或艺术家的名字）；需要参考图时先读 `reference` 指向的图
+3. 把图上传到任务的 `output` 路径。格式不是 png 时（例如 webp、jpg），把文件名后缀改成实际格式，并同步改掉任务里的 `output`
+4. 在同一次提交里更新 `queue/image-jobs.json`：只改这个任务的 `status` 为 `done`，`note` 写 `ChatGPT 出图`；其他任务和字段一律不动
+5. 提交说明写成 `出图：<方案名> <任务 id>`，直接提交到 `main`
+6. 一次最多处理 6 个任务；出图失败的把 `status` 改成 `failed`，原因写进 `note`
+
+上传后选品板网站会在下次刷新时把图显示在方案卡上。不要修改 `data/reviews/`、`data/pools/` 和 `index.html`。
