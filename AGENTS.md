@@ -8,7 +8,7 @@
 |---|---|---|---|
 | Claude（第一步） | 抓原点、生成 IP 方案、写基础形象提示词 | `skills/chaowan-ip-lab/`、`data/reviews/`、`data/pools/`（只读原点池） | `data/batches/`、`data/ips/` |
 | 用户 | 在选品板网站上标保留、待优化、淘汰，写批注，存素材池 | 选品板网站 https://ashlandkrug878-wq.github.io/ip/ | 网站直接提交到 `data/reviews/`、`data/pools/` |
-| 出图工具 | 按任务队列出图 | `queue/image-jobs.json` | `images/<方案 id>/`，并更新队列里的状态 |
+| 出图工具或 ChatGPT | 按任务队列出图（ChatGPT 的做法见文末） | `queue/image-jobs.json` | `images/<方案 id>/`，并更新队列里的状态 |
 | Claude（第二步）或其他 AI | 诊断、配色选材、插画、表情包、故事、系列、产品化 | `skills/chaowan-ip-studio/`、`ip-archives/`、`images/`、`data/pools/` | `ip-archives/`、`queue/image-jobs.json` |
 
 ## 文件
@@ -41,15 +41,6 @@
 2. 运行 `python scripts/build_index.py` 和 `python scripts/build_queue.py`，一起提交推送
 3. 推送后 `.github/workflows/generate-images.yml` 会再跑一遍索引和队列，并在配置了密钥时出图
 4. 用户的选择、批注、素材池由网站写入，不要覆盖 `data/reviews/` 和 `data/pools/` 里已有的文件
-
-## 用 ChatGPT 出图（不走 API）
-
-1. 读 `queue/image-jobs.json`，挑出 `status` 为 `pending` 的任务，一次做 1 到 3 个
-2. 用任务里的 `prompt_en`（或 `prompt_zh`）出图，尺寸按 `size`，不要往提示词里加任何现有 IP、品牌或艺术家的名字
-3. 把图以 PNG 存到任务的 `output` 路径，例如 `images/2026w42b-2/base-01.png`，不要改文件名或目录
-4. 在同一次提交里，把该任务的 `status` 改成 `done`，`note` 写上 `ChatGPT`；出不了的改成 `failed` 并在 `note` 写原因
-5. 只改这两个位置（图片文件和队列里对应任务的字段），不要动 `data/`、`skills/`、`index.html`
-6. 提交说明写 `出图：<方案名> base-01`
 
 ## 出图任务队列格式
 
