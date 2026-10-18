@@ -1,0 +1,58 @@
+{
+  "ip": "2026w42b-1",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "裹着翅膀倒挂打盹的小蝙蝠",
+  "axes": {
+    "archetype": "动物 · 小蝙蝠",
+    "silhouette": "团子，倒挂成上窄下圆的水滴",
+    "mark": "脚 · 两只小钩爪扣住横杆倒挂",
+    "face": "眼睛一条闭合弧线，小尖牙一颗",
+    "emotion": "面无表情 · 打盹"
+  },
+  "odd": "身体倒过来，脸在最下方",
+  "line": "圆润均匀中粗线",
+  "why": "它倒挂着替你值班，所以可以一直闭着眼：「挂」本来就是它休息的方式。你去生活，它在这儿睡着也算在岗。",
+  "spec": {
+    "outline": "倒挂水滴：上端是两只钩爪抓着一根横杆，往下是裹紧的翅膀形成的圆团，脸在最下端",
+    "volume": "大：翅膀裹成的身体团；中：倒过来的头；小：两只钩爪和两只小三角耳（朝下）",
+    "face": "脸倒置，两只闭合的弧线眼（弧口朝上，因为倒着），中间一颗小尖牙从嘴线露出；没有鼻子和腮红",
+    "structure": "钩爪是唯一挂点，身体靠重力垂直下垂，翅膀边缘在身体正面交叠一次"
+  },
+  "crop": "记忆点在脚。头像裁切后靠倒置的脸和朝下的三角耳认，倒过来本身就很特别，可以过",
+  "collide": "蝙蝠题材常见于万圣节周边；差别在倒挂打盹和裹翅膀的整体团形，不画常见的张开翅膀",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "倒挂和闭眼能否一眼读出"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "钩爪、身体团、耳朵在剪影里是否分开"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "水滴加两个钩"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小后钩爪可能看不清"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换材质成立；去掉横杆仍可读成倒挂"
+    ]
+  ],
+  "zh": "原创角色造型线稿，一只倒挂打盹的小蝙蝠。整体是倒过来的水滴：最上方两只小钩爪扣住一根横杆，往下是用翅膀紧紧裹住的圆团身体，翅膀边缘在身体正面交叠一次，脸在最下端。脸是倒置的：两只闭合的弧线眼，一颗小尖牙从短短的嘴线露出，两只小三角耳朝下；没有鼻子和腮红，神情平静地睡着。纯白背景，黑色圆润均匀中粗线线稿，主体正面全身居中，只有线条，不上色、不打阴影、不画材质纹理。画面右下角放一个同一角色、同一姿态的纯黑实心剪影，高度约为主体的六分之一。避免：不要画成张开翅膀的飞行姿势，不要正着站，不要画写实蝙蝠的皮膜骨骼。",
+  "enp": "Original character concept line art, a tiny bat napping upside down. The whole figure is an inverted teardrop: at the top two small hooked feet grip a horizontal bar, below them a round body tightly wrapped in its own wings with the wing edges overlapping once on the front, and the face at the very bottom. The face is upside down: two closed arc eyes, one small fang peeking from a short mouth line, two small triangular ears pointing downward; no nose, no blush, calmly asleep. Pure white background, black line drawing with clean rounded lines of even medium weight, single character, full body, front view, centered. Line only: no color, no shading, no material texture. In the lower right corner, a small solid black filled silhouette of the same character in the same pose, about one sixth of the main figure's height. Avoid: no spread wings or flying pose, not standing upright, no realistic membrane bones.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-19",
+  "trial": true
+}

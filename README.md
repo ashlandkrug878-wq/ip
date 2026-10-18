@@ -4,16 +4,13 @@
 
 ## 怎么流转
 
-```
-Claude 第一步（每周）          你                     出图工具                 Claude 第二步 / 其他 AI
-抓原点、生成方案      →   选品板网站选择批注   →   按队列出基础形象图   →   诊断、配色选材、插画、表情包…
-写入 data/ 和队列         直接提交到 data/           写入 images/              写入 ip-archives/ 和新的出图任务
-```
+工作流分三步，每步之后你在选品板网站上挑选：
 
-1. **第一步**：Claude 每周按 `skills/chaowan-ip-lab` 生成一期方案，写进 `data/`，并把每个方案的基础形象提示词加进 `queue/image-jobs.json`
-2. **你选择**：在选品板网站 https://ashlandkrug878-wq.github.io/ip/ 上标保留、待优化、淘汰，写批注，存素材池。网站直接把改动提交到 `data/reviews/` 和 `data/pools/`
-3. **出图**：`.github/workflows/generate-images.yml` 在 `data/` 或队列变动时自动运行：重建网站索引、给新方案加出图任务、读取队列里待出图的任务，调用你配置的出图接口，图存进 `images/`
-4. **第二步**：Claude 或其他 AI 按 `skills/chaowan-ip-studio` 读 IP 档案和图片，继续做配色选材、插画、表情包等，需要出图的再加进队列
+1. **第一步 · 表达**：Claude 按 `skills/chaowan-ip-lab` 从原点生成表达卡（洞察、圈层、一句表达、情绪范围），写进 `data/ips/`。你在网站「① 表达」挑保留
+2. **第二步 · 找形**：Claude 按 `skills/chaowan-ip-form` 给保留的表达出 6 个黑白线稿方向，写进 `data/forms/`。你在「② 找形」复制提示词去出线稿、上传、挑选；保留的再裂变 4 个，满意后锁定，生成 IP 档案
+3. **第三步 · 定型与内容**：Claude 按 `skills/chaowan-ip-studio` 以锁定线稿为参考，从你的素材池配色选材、渲染、出三视图，再做表情包、故事、系列和打样。锁定的 IP 出现在「③ 定型」
+
+流水线：`data/` 或出图队列变动时，`.github/workflows/generate-images.yml` 自动重建网站索引、给新的方案和形加出图任务，配置了出图密钥时自动出图。
 
 给 AI 看的详细说明在 `AGENTS.md`。
 
@@ -23,9 +20,9 @@ Claude 第一步（每周）          你                     出图工具      
 |---|---|
 | `AGENTS.md` | 给所有 AI 的说明和规则 |
 | `workflow/` | 工作流文档 |
-| `skills/` | 两个 skill：第一步 chaowan-ip-lab，第二步 chaowan-ip-studio |
+| `skills/` | 三个 skill：第一步 chaowan-ip-lab（表达），第二步 chaowan-ip-form（找形），第三步 chaowan-ip-studio（定型、内容、产品） |
 | `index.html` | 选品板网站 |
-| `data/` | 选品板数据：每期内容、方案、你的选择、你的素材池 |
+| `data/` | 选品板数据：每期内容、表达卡、形、你的选择、你的素材池 |
 | `ip-archives/` | 选中 IP 的档案 |
 | `queue/` | 出图任务队列 |
 | `images/` | 生成的图 |
@@ -39,8 +36,9 @@ Claude 第一步（每周）          你                     出图工具      
 - 不连接时是只读模式，任何人能看
 - 点"连接 GitHub 以保存"，粘贴一个只给 `ip` 仓库、Contents 读写权限的细粒度令牌，之后的选择、批注、素材池会直接提交到仓库
 - 令牌只存在你自己浏览器里，不会进仓库。换设备要重新粘贴；不用了可以在 GitHub 设置里删除令牌
-- 页面每两分钟和切回页面时自动刷新；出好的基础形象图会显示在方案卡上
-- 不用 API 出图时：方案详情里点「复制英文提示词」，去 ChatGPT 出图，下载原图后点「上传图片」，网站会压缩并存进 `images/`，同时把队列里的任务标成已完成
+- 页面按阶段分栏：① 表达、② 找形、③ 定型、本期素材、我的素材池
+- 页面每两分钟和切回页面时自动刷新；上传的图会显示在卡片上
+- 不用 API 出图时：详情里点「复制英文提示词」，去 ChatGPT 出图，下载原图后点上传，网站会压缩并存进 `images/`，同时把队列里的任务标成已完成
 
 开启方法：仓库 Settings → Pages → Source 选 Deploy from a branch，分支 `main`，目录 `/ (root)`。
 

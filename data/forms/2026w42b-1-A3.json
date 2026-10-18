@@ -1,0 +1,58 @@
+{
+  "ip": "2026w42b-1",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "粘在桌沿、快要滴下去的软糖",
+  "axes": {
+    "archetype": "抽象形 · 一滴拉长的软糖",
+    "silhouette": "几何块 · 水滴，上细下圆",
+    "mark": "整体轮廓 · 被拉长的细颈",
+    "face": "宽眼距小点眼，波浪形紧闭的嘴",
+    "emotion": "内收 · 憋着撑住"
+  },
+  "odd": "细颈长度约为身体的一半",
+  "line": "圆润均匀中粗线",
+  "why": "它不是挂，是粘：快要掉下去了还在撑。「你去生活」的代价是它一直这么悬着，憋着不说。",
+  "spec": {
+    "outline": "上端一小块扁平地粘在桌沿上，往下拉出一段细颈，末端是饱满的圆滴",
+    "volume": "大：底部圆滴（全部重量）；中：细颈；小：粘在桌沿的扁平顶和两只贴在圆滴两侧的短小手",
+    "face": "脸在圆滴中上部，两只小圆点眼间距很宽（约头宽的一半），嘴是一条小波浪线，紧闭",
+    "structure": "只有顶部一处粘连点，细颈连续过渡到圆滴，没有分离的头和身体"
+  },
+  "crop": "记忆点是整体轮廓。头像只剩圆滴时，靠宽眼距和波浪嘴认，偏弱；辅助特征可在圆滴顶部加一道被拉伸的细纹",
+  "collide": "水滴、史莱姆类形象很多；差别在拉长的细颈和粘在桌沿的状态，不画成圆胖果冻",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "拉长的细颈是否是第一眼记住的东西"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "细颈在剪影里不能断开"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "一条线加一个圆"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小后细颈可能太细"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换成蜂蜜、年糕、口香糖仍成立"
+    ]
+  ],
+  "zh": "原创角色造型线稿，一滴粘在桌沿、被拉长快要滴下去的软糖。上端一小块扁平地粘在桌沿上，往下拉出一段细颈，长度约为身体的一半，末端是饱满的圆滴，全部重量都在圆滴里。圆滴中上部是脸：两只小圆点眼间距很宽，约为圆滴宽度的一半，嘴是一条紧闭的小波浪线，神情是憋着在撑。圆滴两侧贴着两只很短的小手。没有分开的头和身体。纯白背景，黑色圆润均匀中粗线线稿，主体正面全身居中，只有线条，不上色、不打阴影、不画材质纹理。画面右下角放一个同一角色、同一姿态的纯黑实心剪影，高度约为主体的六分之一。避免：不要画成圆胖的果冻，不要让细颈断开，不要加水珠或液体飞溅。",
+  "enp": "Original character concept line art, a drop of soft candy stuck to the edge of a desk and stretched, about to drip. The top is a small flattened patch stuck to the desk edge, from it a thin neck stretches down, about half the body length, ending in a full round drop that carries all the weight. The face sits in the upper middle of the drop: two tiny dot eyes set very wide apart, about half the drop's width, and a small tightly closed wavy mouth, holding on with a strained look. Two very short little hands pressed to the sides of the drop. No separate head and body. Pure white background, black line drawing with clean rounded lines of even medium weight, single character, full body, front view, centered. Line only: no color, no shading, no material texture. In the lower right corner, a small solid black filled silhouette of the same character in the same pose, about one sixth of the main figure's height. Avoid: not a round chubby jelly, the neck must not break, no droplets or splashes.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-19",
+  "trial": true
+}

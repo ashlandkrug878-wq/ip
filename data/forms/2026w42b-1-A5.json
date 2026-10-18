@@ -1,0 +1,58 @@
+{
+  "ip": "2026w42b-1",
+  "round": "A",
+  "n": 5,
+  "parent": "",
+  "title": "搭在屏幕上的围巾精灵",
+  "axes": {
+    "archetype": "怪兽精灵 · 长条软体",
+    "silhouette": "横长条，对折搭成倒 U",
+    "mark": "姿态 · 身体对折搭在屏幕顶上，两端垂下",
+    "face": "一端是脸：半闭眼，一颗门牙",
+    "emotion": "内收 · 放空"
+  },
+  "odd": "尾端有一圈流苏",
+  "line": "圆润均匀中粗线",
+  "why": "像你挂在椅子上的那条围巾：你走了，它还替你搭在那儿保暖这个位置，一边垂着脸发呆。",
+  "spec": {
+    "outline": "一条又长又扁的软体，从中间对折搭在显示器上沿，前后两端垂下，前端略长",
+    "volume": "大：长条身体；中：前端的脸部圆头；小：后端的一圈短流苏和身体下沿两对很短的小脚",
+    "face": "前端圆头上两只半闭眼，上眼皮弧线平缓，嘴是一条短横线，中间露一颗方门牙",
+    "structure": "对折处平贴屏幕上沿，是唯一受力点；两端靠重力垂直下落"
+  },
+  "crop": "记忆点是姿态。头像只剩前端圆头时，靠半闭眼加一颗门牙认，可以过",
+  "collide": "长条软体角色常见于毛毛虫类；差别在对折搭挂的姿态和尾端流苏",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "对折搭挂的姿态能否一眼读出"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "倒 U 形在剪影里很清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "一条折线加一个圆头"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小后流苏会糊"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉屏幕仍能读成搭着"
+    ]
+  ],
+  "zh": "原创角色造型线稿，一条长长的围巾精灵搭在显示器上沿。身体是又长又扁的软条，从中间对折搭过一段显示器上沿，前后两端垂下，前端略长。前端是圆圆的脸：两只半闭的眼睛，上眼皮是平缓的弧线，嘴是一条短横线，中间露出一颗方门牙，神情放空。后端是一圈短流苏。身体下沿有两对很短的小脚。纯白背景，黑色圆润均匀中粗线线稿，主体正面全身居中，只有线条，不上色、不打阴影、不画材质纹理。画面右下角放一个同一角色、同一姿态的纯黑实心剪影，高度约为主体的六分之一。避免：不要画成毛毛虫的节段，不要画针织纹理，不要把两端画成一样长。",
+  "enp": "Original character concept line art, a long scarf-like spirit draped over the top edge of a computer monitor. The body is a long flat soft strip folded in the middle over a short section of the monitor's top edge, both ends hanging down, the front end slightly longer. The front end is a round face: two half-closed eyes with gently curved upper lids, a short straight mouth line with one square front tooth showing, a zoned-out look. The back end finishes in a ring of short fringe. Two pairs of very short tiny feet along the lower edge of the body. Pure white background, black line drawing with clean rounded lines of even medium weight, single character, full body, front view, centered. Line only: no color, no shading, no material texture. In the lower right corner, a small solid black filled silhouette of the same character in the same pose, about one sixth of the main figure's height. Avoid: no caterpillar segments, no knit texture, the two ends must not be the same length.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-19",
+  "trial": true
+}

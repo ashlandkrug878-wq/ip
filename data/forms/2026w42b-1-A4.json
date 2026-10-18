@@ -1,0 +1,58 @@
+{
+  "ip": "2026w42b-1",
+  "round": "A",
+  "n": 4,
+  "parent": "",
+  "title": "头是衣架挂钩的小人",
+  "axes": {
+    "archetype": "类人 · 小人身体加衣架头",
+    "silhouette": "大头小身 · 三角头",
+    "mark": "头顶 · 衣架的问号挂钩",
+    "face": "眼睛在三角底边上方一条横线里，无嘴",
+    "emotion": "面无表情"
+  },
+  "odd": "头是一个空心三角衣架",
+  "line": "圆润均匀中粗线",
+  "why": "它天生就是用来挂的：把自己挂在你的椅背上，像一件你没带走的外套，替你占着位置。",
+  "spec": {
+    "outline": "头是空心的等腰三角衣架，顶端一个问号形挂钩；下面挂着一个很小的圆身体，像一件挂着的小外套",
+    "volume": "大：三角衣架头；中：问号挂钩；小：圆身体和细短的四肢，身体宽度约为头宽的三分之一",
+    "face": "三角内部底边上方画一条横向窄长的眼带，带里两只小椭圆眼；无嘴无鼻，三角内其余留空",
+    "structure": "挂钩钩住一根椅背横杆，头和身体之间一段很短的细颈，四肢自然下垂"
+  },
+  "crop": "记忆点在头部，裁切后最好认",
+  "collide": "头部是物件的类人角色有不少，但衣架头未见于头部 IP；注意三角头的比例不要接近通用 Logo",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "挂钩和三角头能否先于身体被记住"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "空心三角在剪影里会变成实心，要靠挂钩认"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "问号、三角、小圆"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小后最好认"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换皮成立"
+    ]
+  ],
+  "zh": "原创角色造型线稿，一个头是衣架的小人。头部是一个空心的等腰三角衣架，顶端是一个问号形挂钩，钩在一根椅背横杆上；三角内部底边上方有一条横向窄长的眼带，带里两只小椭圆眼，没有嘴和鼻子，其余留空，表情平静。三角底下通过一段很短的细颈连着一个很小的圆身体，宽度约为头宽的三分之一，细短的四肢自然下垂，像一件挂着的小外套。纯白背景，黑色圆润均匀中粗线线稿，主体正面全身居中，只有线条，不上色、不打阴影、不画材质纹理。画面右下角放一个同一角色、同一姿态的纯黑实心剪影，高度约为主体的六分之一。避免：不要画衣服纹理和纽扣，不要让三角填实，不要加嘴。",
+  "enp": "Original character concept line art, a tiny person whose head is a clothes hanger. The head is a hollow isosceles triangle hanger with a question-mark hook at its top, hooked over a chair-back rail. Inside the triangle, just above the bottom edge, a narrow horizontal eye band holds two small oval eyes; no mouth, no nose, the rest left empty, calm expression. Below the triangle a very short thin neck connects to a very small round body about one third the head's width, with short thin limbs hanging loosely, like a small coat left on a hook. Pure white background, black line drawing with clean rounded lines of even medium weight, single character, full body, front view, centered. Line only: no color, no shading, no material texture. In the lower right corner, a small solid black filled silhouette of the same character in the same pose, about one sixth of the main figure's height. Avoid: no clothing texture or buttons, do not fill in the triangle, no mouth.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-19",
+  "trial": true
+}

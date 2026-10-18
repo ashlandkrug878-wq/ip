@@ -1,0 +1,58 @@
+{
+  "ip": "2026w42b-1",
+  "round": "A",
+  "n": 6,
+  "parent": "",
+  "title": "被提着后颈、一脸安详的软猫",
+  "axes": {
+    "archetype": "动物类人 · 小猫",
+    "silhouette": "竖长条，身体完全松弛下垂",
+    "mark": "姿态 · 后颈被一个小夹子提起，四肢和身体全部垂软",
+    "face": "眯成弧线的满足眼，猫嘴 ω",
+    "emotion": "反差 · 被挂着却很安详"
+  },
+  "odd": "身体被拉长到约头高的三倍",
+  "line": "圆润均匀中粗线",
+  "why": "被提着后颈的猫会一下子放弃抵抗：它把「被挂在这里」当成休息。你去生活，它在这儿彻底躺平。",
+  "spec": {
+    "outline": "顶端一个小夹子夹住后颈，下面是圆猫头，再往下身体松垮地拉长成竖条，四肢和尾巴全部垂直下垂",
+    "volume": "大：拉长的身体；中：圆猫头；小：夹子、两只三角耳、四只小爪和一条细尾",
+    "face": "两只眯成向上弧线的满足眼，猫嘴 ω 形，小三角鼻；没有胡须",
+    "structure": "夹子是唯一挂点，夹在头后上方；身体从头下方直接垂下，没有任何支撑"
+  },
+  "crop": "记忆点是姿态。头像只剩猫头时就是一只普通的眯眼猫，偏弱；辅助特征可以让头顶保留夹子",
+  "collide": "猫是最拥挤的原型；眯眼猫脸接近很多猫系 IP，差别只能靠被提起的拉长身体，要警惕",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "拉长下垂的身体是否先于猫脸被记住"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "竖长条在剪影里很清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "圆、长条、夹子"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小后夹子可能看不见"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换皮成立，但去掉夹子后姿态难读"
+    ]
+  ],
+  "zh": "原创角色造型线稿，一只被小夹子提着后颈、彻底放松的小猫。最上方一个小夹子夹住猫头后上方，下面是圆圆的猫头和两只三角耳，再往下身体松垮地拉长成竖条，长度约为头高的三倍，四只小爪和一条细尾巴全部垂直下垂。脸上两只眯成向上弧线的满足眼，小三角鼻，ω 形猫嘴，没有胡须，神情很安详。纯白背景，黑色圆润均匀中粗线线稿，主体正面全身居中，只有线条，不上色、不打阴影、不画材质纹理。画面右下角放一个同一角色、同一姿态的纯黑实心剪影，高度约为主体的六分之一。避免：不要画胡须，不要让四肢抓东西，不要画成正常坐姿的猫。",
+  "enp": "Original character concept line art, a small cat held up by the scruff with a tiny clip and completely relaxed. At the very top a small clip pinches the back of the cat's head; below it a round cat head with two triangular ears, and below that the body hangs limp and stretched into a tall strip, about three times the head's height, with four little paws and a thin tail all dangling straight down. Face: two content eyes squeezed into upward arcs, a tiny triangle nose, an omega-shaped cat mouth, no whiskers, a peaceful look. Pure white background, black line drawing with clean rounded lines of even medium weight, single character, full body, front view, centered. Line only: no color, no shading, no material texture. In the lower right corner, a small solid black filled silhouette of the same character in the same pose, about one sixth of the main figure's height. Avoid: no whiskers, paws not gripping anything, not a normal sitting cat.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-19",
+  "trial": true
+}
