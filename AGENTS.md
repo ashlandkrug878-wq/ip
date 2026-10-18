@@ -71,11 +71,13 @@
 
 用户没有配置出图 API 时，由 ChatGPT 在对话里出图后上传。每次按这个顺序：
 
-1. 读 `queue/image-jobs.json`，找出 `status` 为 `pending` 的任务；用户指定了方案名或 id 时只做那几个
-2. 每个任务用 `prompt_en` 出图（不要改动提示词里的造型描述，不要加任何现有 IP、品牌或艺术家的名字）；需要参考图时先读 `reference` 指向的图
-3. 把图上传到任务的 `output` 路径。格式不是 png 时（例如 webp、jpg），把文件名后缀改成实际格式，并同步改掉任务里的 `output`
-4. 在同一次提交里更新 `queue/image-jobs.json`：只改这个任务的 `status` 为 `done`，`note` 写 `ChatGPT 出图`；其他任务和字段一律不动
+**一个对话只做一个任务。** 上传图片要把整张图的数据放进对话，原图很大，一次做多个或传原图会撑爆对话长度。
+
+1. 读 `queue/image-jobs.json`，找出第一个 `status` 为 `pending` 的任务；用户指定了方案名或 id 时只做那一个。不要把整个队列内容复述出来
+2. 用 `prompt_en` 出图（不要改动提示词里的造型描述，不要加任何现有 IP、品牌或艺术家的名字）；需要参考图时先读 `reference` 指向的图
+3. **先压缩再上传**：用代码把图缩到最长边 768 像素，存成 webp，质量 80，文件控制在 150KB 以内（超了就把质量降到 70 或尺寸降到 640）。文件名用 `output` 的路径，后缀改成 `.webp`，例如 `images/2026w42-1/base-01.webp`
+4. 在同一次提交里更新 `queue/image-jobs.json`：只改这个任务的 `output`（改成 .webp 路径）、`status` 改为 `done`、`note` 写 `ChatGPT 出图`；其他任务和字段一律不动
 5. 提交说明写成 `出图：<方案名> <任务 id>`，直接提交到 `main`
-6. 一次最多处理 6 个任务；出图失败的把 `status` 改成 `failed`，原因写进 `note`
+6. 出图失败的把 `status` 改成 `failed`，原因写进 `note`。上传失败时不要反复重试，告诉用户把图下载下来，交给 Claude 上传
 
 上传后选品板网站会在下次刷新时把图显示在方案卡上。不要修改 `data/reviews/`、`data/pools/` 和 `index.html`。
