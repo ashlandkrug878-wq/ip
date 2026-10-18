@@ -42,6 +42,15 @@
 3. 推送后 `.github/workflows/generate-images.yml` 会再跑一遍索引和队列，并在配置了密钥时出图
 4. 用户的选择、批注、素材池由网站写入，不要覆盖 `data/reviews/` 和 `data/pools/` 里已有的文件
 
+## 用 ChatGPT 出图（不走 API）
+
+1. 读 `queue/image-jobs.json`，挑出 `status` 为 `pending` 的任务，一次做 1 到 3 个
+2. 用任务里的 `prompt_en`（或 `prompt_zh`）出图，尺寸按 `size`，不要往提示词里加任何现有 IP、品牌或艺术家的名字
+3. 把图以 PNG 存到任务的 `output` 路径，例如 `images/2026w42b-2/base-01.png`，不要改文件名或目录
+4. 在同一次提交里，把该任务的 `status` 改成 `done`，`note` 写上 `ChatGPT`；出不了的改成 `failed` 并在 `note` 写原因
+5. 只改这两个位置（图片文件和队列里对应任务的字段），不要动 `data/`、`skills/`、`index.html`
+6. 提交说明写 `出图：<方案名> base-01`
+
 ## 出图任务队列格式
 
 `queue/image-jobs.json` 是一个数组，每个任务：
