@@ -158,9 +158,11 @@ details.builder[open] summary::after{content:"收起"}
 .connpanel ol{margin:0;padding-left:20px;color:var(--muted);font-size:13px}
 .connpanel input{font:inherit;font-family:var(--mono);font-size:13px;padding:6px 10px;border:1px solid var(--line);border-radius:6px;background:var(--sunk);color:var(--fg);flex:1;min-width:0}
 .connrow{display:flex;gap:8px;flex-wrap:wrap}
-.cimg{display:block;width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:11px 11px 0 0;background:var(--sunk)}
+.cimg{display:block;width:100%;aspect-ratio:1/1;object-fit:contain;border-radius:11px 11px 0 0;background:var(--sunk)}
 .dimg{width:100%;max-width:360px;border-radius:10px;border:1px solid var(--line)}
 .pending{font-size:12px;color:var(--muted)}
+.upl{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.upl label{cursor:pointer}
 *{box-sizing:border-box}
 html,body{margin:0}
 [hidden]{display:none !important}
@@ -274,7 +276,8 @@ function card(i){
   </article>`;
 }
 function ipJobs(id){return JOBS.filter(j=>j.ip===id);}
-function ipImage(id){const j=ipJobs(id).find(j=>j.status==="done"&&/^images\/[\w./-]+\.(png|jpe?g|webp)$/i.test(j.output||""));return j?j.output:null;}
+const LOCALIMG={};
+function ipImage(id){if(LOCALIMG[id])return LOCALIMG[id];const j=ipJobs(id).find(j=>j.status==="done"&&/^images\/[\w./-]+\.(png|jpe?g|webp)$/i.test(j.output||""));return j?j.output+(j.v?"?v="+encodeURIComponent(j.v):""):null;}
 function renderGrid(){
   const g=$("grid");let list=batchIps();
   if(filter==="未处理")list=list.filter(i=>!REVIEWS[i.id]?.status);else if(filter!=="全部")list=list.filter(i=>REVIEWS[i.id]?.status===filter);
@@ -296,6 +299,7 @@ function renderDrawer(){
      <div class="expr">${esc(i.expr)}</div>
      <div class="row-between">${statusBtns(i.id)}<span class="note">${esc(i.type)}</span></div>
      ${(()=>{const im=ipImage(i.id);if(im)return `<img class="dimg" src="${esc(im)}" alt="${esc(i.name)} 基础形象">`;const j=ipJobs(i.id)[0];return j?`<span class="pending">出图状态：${esc({pending:"排队中",failed:"失败",done:"已完成"}[j.status]||j.status)}${j.status==="failed"&&j.note?"（"+esc(String(j.note).slice(0,120))+"）":""}</span>`:"";})()}
+     <div class="upl"><label class="btn pri" for="upl-${esc(i.id)}">${ipImage(i.id)?"换一张图":"上传图片"}</label><input type="file" id="upl-${esc(i.id)}" accept="image/png,image/jpeg,image/webp" data-upl="${esc(i.id)}" hidden><button type="button" class="btn" data-act="copy" data-id="${esc(i.id)}" data-v="en">复制英文提示词</button><span class="note" id="uplmsg-${esc(i.id)}">复制提示词去 ChatGPT 出图，下载原图后点上传</span></div>
      <textarea id="note-${esc(i.id)}" placeholder="批注：喜欢什么、想改什么、为什么淘汰。下一期会照着调整">${esc(r.note||"")}</textarea>
      <div class="row-between"><span class="note" id="saved-${esc(i.id)}">${r.updatedAt?"已保存 "+new Date(r.updatedAt).toLocaleString("zh-CN",{month:"numeric",day:"numeric",hour:"2-digit",minute:"2-digit"}):(TOKEN?"还没有选择":"连接 GitHub 后可保存")}</span><button type="button" class="btn pri" data-act="note" data-id="${esc(i.id)}">保存批注</button></div>
    </div>
@@ -436,6 +440,54 @@ async function saveBuild(){
   try{await queueWrite(async()=>{await putJson(`data/pools/${id}.json`,doc,`选品板：存入色系池 ${nm}`);await touchIndex("pools",id,true);});POOLS[id]=doc;BUILD={main:null,aux:[],accent:null,neutral:[]};activeRole="main";renderAll();const b=$("builderBox");if(b)b.open=true;const m=$("pal-msg");if(m)m.textContent="已存入色系池";}
   catch(e){msg.textContent="没有保存成功："+e.message;}
 }
+async function compressImage(file){
+  const url=URL.createObjectURL(file);
+  try{
+    const img=await new Promise((ok,no)=>{const im=new Image();im.onload=()=>ok(im);im.onerror=()=>no(new Error("图片打不开"));im.src=url;});
+    const tries=[[1024,.85],[1024,.75],[768,.75],[640,.7]];
+    let blob=null;
+    for(const [max,q] of tries){
+      const k=Math.min(1,max/Math.max(img.naturalWidth,img.naturalHeight));
+      const c=document.createElement("canvas");c.width=Math.round(img.naturalWidth*k);c.height=Math.round(img.naturalHeight*k);
+      c.getContext("2d").drawImage(img,0,0,c.width,c.height);
+      blob=await new Promise(r=>c.toBlob(r,"image/webp",q));
+      if(!blob||blob.type!=="image/webp")blob=await new Promise(r=>c.toBlob(r,"image/jpeg",q));
+      if(blob&&blob.size<=300*1024)break;
+    }
+    return blob;
+  }finally{URL.revokeObjectURL(url);}
+}
+function blobB64(blob){return new Promise((ok,no)=>{const r=new FileReader();r.onload=()=>ok(String(r.result).split(",")[1]);r.onerror=()=>no(new Error("读取图片失败"));r.readAsDataURL(blob);});}
+async function putFileB64(path,b64,msg){for(let tries=0;tries<3;tries++){const sha=await shaOf(path);const body={message:msg,content:b64,branch:BRANCH};if(sha)body.sha=sha;const r=await fetch(API+encodeURI(path),{method:"PUT",headers:{...hdrs(),"Content-Type":"application/json"},body:JSON.stringify(body)});if(r.ok)return;if(r.status!==409&&r.status!==422)throw new Error("上传失败 "+r.status);await new Promise(s=>setTimeout(s,800));}throw new Error("上传失败：仓库同时有其他改动，请稍后再试");}
+async function uploadImage(id,file){
+  const msg=t=>{const m=$("uplmsg-"+id);if(m)m.textContent=t;};
+  if(!TOKEN){openConnect();return;}
+  if(!file)return;
+  if(!/^image\/(png|jpeg|webp)$/.test(file.type)){msg("只支持 png、jpg、webp 图片");return;}
+  const ip=IPS.find(x=>x.id===id);const nm=ip?.name||id;
+  try{
+    msg("正在压缩…");
+    const blob=await compressImage(file);if(!blob)throw new Error("压缩失败");
+    const ext=blob.type==="image/webp"?"webp":"jpg";
+    const path=`images/${id}/base-01.${ext}`;
+    msg(`正在上传（${Math.round(blob.size/1024)}KB）…`);
+    const b64=await blobB64(blob);
+    await queueWrite(async()=>{
+      await putFileB64(path,b64,`出图：${nm} 网站上传`);
+      const q=(await readJson("queue/image-jobs.json"))||[];
+      const now=new Date().toISOString();
+      let j=q.find(x=>x.ip===id&&x.kind==="base");
+      if(!j){j={id:`${id}-base-01`,ip:id,name:nm,kind:"base",prompt_en:ip?.enp||"",prompt_zh:ip?.zh||"",size:"1024x1024",created:now.slice(0,10)};q.push(j);}
+      j.output=path;j.status="done";j.note="网站上传";j.v=now;
+      await putJson("queue/image-jobs.json",q,`出图：${nm} 标记已完成`);
+      JOBS=q;
+    });
+    LOCALIMG[id]=URL.createObjectURL(blob);
+    renderGrid();if(openId===id)renderDrawer();
+    msg("已上传到仓库");
+  }catch(e){msg("没有上传成功："+e.message);}
+}
+document.addEventListener("change",e=>{const t=e.target;if(t&&t.dataset&&t.dataset.upl){uploadImage(t.dataset.upl,t.files&&t.files[0]);t.value="";}});
 function openConnect(){$("connPanel").hidden=false;$("tokenInput").focus();}
 
 /* ---------- events ---------- */
