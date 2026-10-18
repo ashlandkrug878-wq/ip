@@ -9,10 +9,10 @@
     "where": "小红书工位改造和桌搭话题、图书馆打卡",
     "who": "22 到 35 岁白领；大学生和考研考公党"
   },
-  "collide": "表达仍和 GOHO 的懒懒相近，靠功能形态拉开。淡紫色在毛绒里不算拥挤。",
+  "collide": "修订版需对照实际图检查整体相似性，重点比较轮廓、五官比例和识别组合；通用元素本身不作撞车结论。",
   "egg": "打工人版工牌写\"工号 0000 · 今日在岗\"；学生版写\"座位已占 · 人在食堂\"；隐藏款写\"已下班\"。",
   "en": "GUAGUA",
-  "enp": "A designer toy of a small fluff ball in soft lilac ribbed-knit texture, 1-head round body. The focal point is two extra-long droopy arms ending in small round hands, hooked over the top edge of a computer monitor so the body hangs in front of the screen. Very wide-set half-closed eyes, blank zoned-out expression, a single-line mouth. A tiny neon-yellow ID badge on its chest. Visible knit texture, soft bendable arms. Plain light grey background, soft studio lighting, full-body front view.",
+  "enp": "Original knitted GUAGUA variant, keeping the same identity as the dusty-blue version: a single wide flattened bean silhouette with no legs and no separate head or neck, gently flattened top and a subtle central indentation in the lower contour. Low-set horizontal oval eyes sit about one eye-width apart, mostly covered by straight upper lids, revealing small flat charcoal pupils. A very short horizontal mouth and a large empty forehead create the blank expression. No nose, blush or realistic eyeballs. Two thick flattened arms emerge continuously from the upper side shoulders, each about twice the body height. They reach upward over a dark-gray monitor rim; thick rounded hands bend backward behind it to make two clear supported hanging points. The body hangs between them. Soft peaceful-lilac fine rib-knit covers the body and arms; a separate finely woven smooth facial zone carries simple embroidery, with matching fine-velvet rounded hands. One tiny neon-yellow ID tag hangs near the lower body edge. Entire character plus only a short monitor rim, slight front three-quarter view, plain light-gray background and neutral soft light. No feet, arms growing from the crown, coarse facial knit, text, logos or office clutter.",
   "expr": "我替你挂在这儿，你去生活",
   "fore": "用到：Peaceful Lilac 平和淡紫（A，12 到 24 个月）做主色；Space for Solace 罗纹针织（B，6 到 12 个月）做手感。签名色保留荧光黄工牌",
   "insight": {
@@ -31,19 +31,31 @@
     ],
     [
       "外壳",
-      "怪兽精灵小毛团 · 1 头身团子加两条超长下垂手臂，末端是圆形小手 · 招牌姿势：双臂挂在显示器上沿 · 叠音命名"
+      "无腿的一头身横宽扁豆，双臂由左右上侧肩根发出；末端圆手反折扣住屏沿，垂挂重心居中。"
     ],
     [
       "头部",
-      "团子头 [公共] · 宽眼距 [反常] · 半垂眼 [公共] · 一条线嘴 [公共]"
+      "低位宽眼距扁椭圆眼，平直上眼皮压住大半眼睛，炭黑短平嘴；脸中部留平整刺绣区域。"
     ],
     [
       "视觉",
-      "平和淡紫 + 荧光黄工牌（签名色）· 极简 · 罗纹针织"
+      "平和淡紫细罗纹针织身与长臂；面部细密平织，五官刺绣；圆手同色细丝绒，荧光黄工牌。"
     ],
     [
       "商业",
       "屏幕夹挂件 · 59 至 79 元 · 节点：开工季、考试周、年终"
+    ],
+    [
+      "造型依据",
+      "针织功能挂件 × 平面刺绣脸；扁豆脸、低位放空眼和长臂挂屏动作，延续挂挂身份。"
+    ],
+    [
+      "结构与工艺",
+      "平和淡紫细罗纹针织身与长臂；面部细密平织，五官刺绣；圆手同色细丝绒，荧光黄工牌。"
+    ],
+    [
+      "本次迭代",
+      "与第一期共享扁豆轮廓和眼位，针织只是外壳变量；补清厚臂、圆手及屏幕后挂点。"
     ]
   ],
   "links": [
@@ -60,40 +72,153 @@
       "url": "https://fashionunited.uk/news/fashion/wgsn-and-coloro-key-colours-for-autumn-winter-2027-28/2025091783967"
     }
   ],
-  "mark": "挂在屏幕上的姿态，加上胸前的荧光黄工牌。",
+  "mark": "扁豆脸、低位放空眼和长臂挂屏动作，延续挂挂身份。",
   "name": "挂挂 v2",
-  "odd": "2 处：宽眼距、超长手臂。手臂末端的圆形小手让它在小尺寸下读成手，不是线。",
+  "odd": "造型焦点：针织功能挂件 × 平面刺绣脸。不按反常标签数量判定质量，实际轮廓与表情仍待验证。",
   "order": 1,
   "origin": "第 1 期挂挂的优化版：毛色改为 2027 秋冬平和淡紫，手感改为罗纹针织；手臂末端加圆形小手，解决缩小后像两根线的问题；新增学生版工牌，打开破圈路径",
-  "risk": "工位场景仍是主要依赖；淡紫色在毛绒上容易偏灰，打样要看色卡。",
+  "risk": "针织伸缩和长臂承重待验证，圆手回弯处不应与屏幕穿插。",
   "tests": [
     [
-      "闭眼",
-      "通过",
-      "挂着的姿态"
+      "记忆点",
+      "待验证",
+      "需看修订图是否同时读到：扁豆脸、低位放空眼和长臂挂屏动作，延续挂挂身份。"
     ],
     [
       "剪影",
-      "通过",
-      "长手臂加圆手"
+      "待验证",
+      "需制作纯黑轮廓，检查大体块与连接是否仍清楚。"
     ],
     [
-      "简笔画",
-      "通过",
-      ""
+      "简化",
+      "待验证",
+      "需做低细节线稿，检查：低位宽眼距扁椭圆眼，平直上眼皮压住大半眼睛，炭黑短平嘴；脸中部留平整刺绣区域。"
     ],
     [
       "缩小",
-      "通过",
-      "圆形小手解决了上一版的问题"
+      "待验证",
+      "需查看手机缩图；小配件与面部工艺仍待实物打样。"
     ],
     [
       "换皮",
-      "通过",
-      ""
+      "待验证",
+      "需另做换材质或去可拆道具版本；保留角色主体与关键功能结构。"
     ]
   ],
   "timing": "治愈的同侧，钻进打工人工位，再用学生版延伸到图书馆",
   "type": "自嘲型",
-  "zh": "一只平和淡紫色罗纹针织质感的小毛团潮玩，1 头身圆团子，最突出的是两条超长、下垂的手臂，手臂末端是圆圆的小手，正挂在一台显示器的上沿，身体垂在屏幕前面。两只眼睛间距很宽、半垂着、表情放空，一条线的嘴。胸前挂着一个荧光黄色小工牌。可见针织纹理，柔软可弯。纯浅灰背景，柔和棚拍光，正面全身构图。"
+  "zh": "原创挂挂的针织版本，与雾灰蓝版本保持相同身份：无腿、无分离头颈的一头身横宽扁豆轮廓，上缘平缓，下缘中间轻凹。低位的两只横向扁椭圆眼间隔约一眼宽，平直上眼皮压住大半眼睛，露出平面炭黑小瞳点；嘴是极短横线，大额头留白，无鼻、腮红或写实眼球。两条厚扁长臂从身体左右上侧肩根连续伸出，约为身体高度两倍，向上搭过深灰显示器上沿，末端加厚圆手反折到屏幕后方，形成两个清楚挂点，身体自然垂在中间。平和淡紫细罗纹针织覆盖身体和双臂，正脸单独一块细密平织区域配简洁刺绣五官，圆手用同色细丝绒，只在身体下缘挂一小片荧光黄工牌。完整展示角色及一小段屏沿，正面略侧视，中性柔光，浅灰背景。不要脚，不要把手臂接在头顶，不要粗针织纹理覆盖五官，不加文字、品牌或办公杂物。",
+  "revision_history": [
+    {
+      "revision": 1,
+      "archived_at": "2026-10-19",
+      "snapshot": {
+        "batch": "2026w42b",
+        "circle": {
+          "breakout": "学生证版本让同一个矛盾覆盖两个圈层",
+          "buy": "工位毛绒、桌搭摆件、屏幕挂件",
+          "name": "打工人，延伸到考试党",
+          "share": "工位或书桌桌搭照",
+          "signs": "摸鱼、工牌、今日在岗、已读",
+          "where": "小红书工位改造和桌搭话题、图书馆打卡",
+          "who": "22 到 35 岁白领；大学生和考研考公党"
+        },
+        "collide": "表达仍和 GOHO 的懒懒相近，靠功能形态拉开。淡紫色在毛绒里不算拥挤。",
+        "egg": "打工人版工牌写\"工号 0000 · 今日在岗\"；学生版写\"座位已占 · 人在食堂\"；隐藏款写\"已下班\"。",
+        "en": "GUAGUA",
+        "enp": "A designer toy of a small fluff ball in soft lilac ribbed-knit texture, 1-head round body. The focal point is two extra-long droopy arms ending in small round hands, hooked over the top edge of a computer monitor so the body hangs in front of the screen. Very wide-set half-closed eyes, blank zoned-out expression, a single-line mouth. A tiny neon-yellow ID badge on its chest. Visible knit texture, soft bendable arms. Plain light grey background, soft studio lighting, full-body front view.",
+        "expr": "我替你挂在这儿，你去生活",
+        "fore": "用到：Peaceful Lilac 平和淡紫（A，12 到 24 个月）做主色；Space for Solace 罗纹针织（B，6 到 12 个月）做手感。签名色保留荧光黄工牌",
+        "insight": {
+          "act": "把工位摆满毛绒玩具，布置成情绪空间",
+          "conflict": "想逃离，又不能也不敢真的离开",
+          "depth": "深层：不是喜欢可爱的东西，而是把牢笼布置得可爱一点",
+          "scene": "晚上十点，还在工位上；考试周的图书馆座位",
+          "source": "2026 生活趋势报告",
+          "state": "在一个没法离开的地方，给自己造一个能喘气的角落",
+          "unsaid": "我不是爱这里，我只是需要在这里活下去"
+        },
+        "layers": [
+          [
+            "内容",
+            "主载体实物潮玩（工位）· 次载体表情包 · 动作种子：从屏幕边上慢慢滑下去，又一点点爬回来"
+          ],
+          [
+            "外壳",
+            "怪兽精灵小毛团 · 1 头身团子加两条超长下垂手臂，末端是圆形小手 · 招牌姿势：双臂挂在显示器上沿 · 叠音命名"
+          ],
+          [
+            "头部",
+            "团子头 [公共] · 宽眼距 [反常] · 半垂眼 [公共] · 一条线嘴 [公共]"
+          ],
+          [
+            "视觉",
+            "平和淡紫 + 荧光黄工牌（签名色）· 极简 · 罗纹针织"
+          ],
+          [
+            "商业",
+            "屏幕夹挂件 · 59 至 79 元 · 节点：开工季、考试周、年终"
+          ]
+        ],
+        "links": [
+          {
+            "t": "2026 生活趋势报告（腾讯新闻）",
+            "url": "https://news.qq.com/rain/a/20260815A07UKZ00"
+          },
+          {
+            "t": "2027 面料趋势（Design News Now）",
+            "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+          },
+          {
+            "t": "2027/28 秋冬关键色（FashionUnited）",
+            "url": "https://fashionunited.uk/news/fashion/wgsn-and-coloro-key-colours-for-autumn-winter-2027-28/2025091783967"
+          }
+        ],
+        "mark": "挂在屏幕上的姿态，加上胸前的荧光黄工牌。",
+        "name": "挂挂 v2",
+        "odd": "2 处：宽眼距、超长手臂。手臂末端的圆形小手让它在小尺寸下读成手，不是线。",
+        "order": 1,
+        "origin": "第 1 期挂挂的优化版：毛色改为 2027 秋冬平和淡紫，手感改为罗纹针织；手臂末端加圆形小手，解决缩小后像两根线的问题；新增学生版工牌，打开破圈路径",
+        "risk": "工位场景仍是主要依赖；淡紫色在毛绒上容易偏灰，打样要看色卡。",
+        "tests": [
+          [
+            "闭眼",
+            "通过",
+            "挂着的姿态"
+          ],
+          [
+            "剪影",
+            "通过",
+            "长手臂加圆手"
+          ],
+          [
+            "简笔画",
+            "通过",
+            ""
+          ],
+          [
+            "缩小",
+            "通过",
+            "圆形小手解决了上一版的问题"
+          ],
+          [
+            "换皮",
+            "通过",
+            ""
+          ]
+        ],
+        "timing": "治愈的同侧，钻进打工人工位，再用学生版延伸到图书馆",
+        "type": "自嘲型",
+        "zh": "一只平和淡紫色罗纹针织质感的小毛团潮玩，1 头身圆团子，最突出的是两条超长、下垂的手臂，手臂末端是圆圆的小手，正挂在一台显示器的上沿，身体垂在屏幕前面。两只眼睛间距很宽、半垂着、表情放空，一条线的嘴。胸前挂着一个荧光黄色小工牌。可见针织纹理，柔软可弯。纯浅灰背景，柔和棚拍光，正面全身构图。"
+      }
+    }
+  ],
+  "prompt_revision": 2,
+  "revision": {
+    "number": 2,
+    "date": "2026-10-19",
+    "summary": "与第一期共享扁豆轮廓和眼位，针织只是外壳变量；补清厚臂、圆手及屏幕后挂点。",
+    "delivery": "conversation",
+    "skill": "lab-v1.6/studio-v1.2"
+  }
 }

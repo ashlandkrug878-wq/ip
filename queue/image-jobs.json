@@ -4,143 +4,368 @@
     "ip": "2026w42-1",
     "name": "崩崩",
     "kind": "base",
-    "prompt_en": "A designer toy plush charm of a small chubby child, 1.5-head proportion. On top of its head sits a prominent tomato-red flame-shaped squishy blob, the main focal point, with slow-rebound silicone texture. Round face, angry slanted brows, small black bead eyes, puffed cheeks, fists clenched, one foot stamping. Cream-white short-pile plush body, no extra accessories. Vinyl face with plush body, keychain loop on top. Matte, slightly fuzzy texture, light grey background, soft studio lighting, full-body front view.",
-    "prompt_zh": "一只 1.5 头身的团子小孩潮玩，头顶长着一团番茄红色、火苗形状的软胶\"火气团\"，火气团是主角、体积明显、表面有慢回弹的硅胶质感。圆脸，倒竖的八字眉，黑色豆豆眼，两颊气鼓鼓地鼓起来，双手攥拳、一只脚在跺地。奶白色短绒身体，无多余装饰。搪胶毛绒挂件形态，顶部有挂扣。哑光、微绒质感，浅灰背景，柔和棚拍光，正面全身构图。",
+    "prompt_en": "Original vinyl-and-plush character BENG BENG, a compact emotion sculpture with 1.5-head proportions. A wide rounded-trapezoid head has a slightly flattened crown, a very short chin and compressed cushion-like cheek planes, never a round baby face. A thick tomato-red three-lobed squishy flame grows from a broad base inset into the crown; all lobes lean together, the main lobe slightly buckled. It is a solid squeeze element, not real fire. Short heavy downward brows, narrow crescent eyes and tiny inward-looking black pupils create a compressed horizontal expression; an off-center short bent line is the mouth. No baby nose, eyelashes or airbrushed cheek blush. An extremely short cream plush torso sits below the oversized head. Large mitten fists rest at its sides and one tiny foot lifts slightly: a frozen exasperated pause, not an attacking pose. Matte vinyl faceplate, restrained short-pile plush body, soft slow-rebound silicone concept flame and a tiny metal hanging loop. Full-body front three-quarter product concept, soft neutral light, plain light-gray background and margin. No clothing, realistic skin, fur microphotography, flame lighting, text or logos.",
+    "prompt_zh": "原创搪胶毛绒角色崩崩，情绪雕塑式造型，1.5头身。头是横宽的圆角梯形，顶部略平，下巴很短，两侧脸颊像被压紧的软垫，不是圆脸宝宝。头顶三瓣番茄红软火焰向同一侧弯，宽底嵌入头顶，中间主瓣略塌，形成可捏的厚实体轮廓，不是真实火焰。短粗的下压眉、扁窄半月眼、小黑瞳构成紧绷横向表情，嘴为偏侧短折线；没有婴儿鼻、睫毛或渐变腮红。躯干极短，奶白短绒身体，拳套形大手垂在身体两侧，一只小脚微抬，姿态像气到停顿而非攻击。脸罩哑光搪胶，火气团柔软慢回弹硅胶概念件，仅小型金属挂环。全身正面略偏三分之四，中性柔光，浅灰背景，留白完整。无文字和品牌；不添加衣服、写实皮肤、绒毛微距或火光特效。",
     "size": "1024x1024",
-    "status": "pending",
-    "output": "images/2026w42-1/base-01.png",
+    "status": "awaiting_upload",
+    "output": "images/2026w42-1/base-02.webp",
     "created": "2026-10-18",
-    "note": ""
+    "note": "修订图在对话中生成，等待用户上传；旧版信息已保留在 history。",
+    "history": [
+      {
+        "archived_at": "2026-10-19",
+        "snapshot": {
+          "id": "2026w42-1-base-01",
+          "ip": "2026w42-1",
+          "name": "崩崩",
+          "kind": "base",
+          "prompt_en": "A designer toy plush charm of a small chubby child, 1.5-head proportion. On top of its head sits a prominent tomato-red flame-shaped squishy blob, the main focal point, with slow-rebound silicone texture. Round face, angry slanted brows, small black bead eyes, puffed cheeks, fists clenched, one foot stamping. Cream-white short-pile plush body, no extra accessories. Vinyl face with plush body, keychain loop on top. Matte, slightly fuzzy texture, light grey background, soft studio lighting, full-body front view.",
+          "prompt_zh": "一只 1.5 头身的团子小孩潮玩，头顶长着一团番茄红色、火苗形状的软胶\"火气团\"，火气团是主角、体积明显、表面有慢回弹的硅胶质感。圆脸，倒竖的八字眉，黑色豆豆眼，两颊气鼓鼓地鼓起来，双手攥拳、一只脚在跺地。奶白色短绒身体，无多余装饰。搪胶毛绒挂件形态，顶部有挂扣。哑光、微绒质感，浅灰背景，柔和棚拍光，正面全身构图。",
+          "size": "1024x1024",
+          "status": "pending",
+          "output": "images/2026w42-1/base-01.png",
+          "created": "2026-10-18",
+          "note": ""
+        }
+      }
+    ],
+    "prompt_revision": 2
   },
   {
     "id": "2026w42-2-base-01",
     "ip": "2026w42-2",
     "name": "挂挂",
     "kind": "base",
-    "prompt_en": "A designer toy of a small dusty-blue long-pile fluff ball, 1-head round body, with two extra-long droopy arms hooked over the top edge of a computer monitor so the body hangs in front of the screen. Very wide-set, half-closed eyes, blank zoned-out expression, a single-line mouth. A tiny neon-yellow ID badge on its chest. Long fluffy plush texture, bendable soft arms. Office desk setting, blurred background, natural side light, close-up shot.",
-    "prompt_zh": "一只雾灰蓝色长绒小毛团潮玩，身体是 1 头身的圆团子，最突出的是两条超长、下垂的手臂，正挂在一台显示器的上沿，身体垂在屏幕前面。两只眼睛间距很宽、半垂着、表情放空，一条线的嘴。胸前挂着一个荧光黄色小工牌。长绒质感，手臂柔软可弯。办公桌场景，背景虚化，自然侧光，近景构图。",
+    "prompt_en": "Original functional screen-hanging plush GUAGUA, one single wide flattened bean-shaped spirit with no separate neck and no legs. A gently flattened upper contour and a subtle central indentation along the lower edge shape the body. Two low-set horizontal oval eyes sit a full eye-width apart, mostly covered by straight plush upper eyelids, revealing flat charcoal pupils without glassy eyeballs. A very short horizontal mouth and generous empty forehead create a zoned-out expression; no nose or blush. Two thick flattened long arms emerge continuously from the upper side shoulders, rise over a monitor edge, and terminate in rounded thick hands bent backward behind the screen. The body hangs between the two supported contact points. Each arm is about twice the body height, visibly an arm, not an ear or a cord. Dusty gray-blue long pile only on the outer body rim and back; a closely sheared face with restrained embroidered features; matching fine velvet arms. One small neon-yellow flat ID tag near the lower body edge. Show the entire character and only a short dark-gray monitor rim in a slight front three-quarter view, plain light-gray background, neutral soft light. No desk clutter, extra legs, text, logos or fur microdetail obscuring form.",
+    "prompt_zh": "原创屏幕挂件挂挂，一头身横宽扁豆形小精灵，无分离头颈、无腿。身体上缘平缓，下缘中间轻凹，低位宽眼距的两只横向扁椭圆眼，上眼皮是平直绒面边界，压住大半眼睛，只露平面炭黑瞳点；嘴是一条极短横线，大片额头留白，无写实眼球、无鼻和腮红。两条厚扁的长手臂从身体左右上侧肩根连续伸出，向上越过显示器边缘，圆钝加厚的小手向后反折扣住屏幕后方，身体垂在两个挂点之间；臂长约身体高度两倍，连接清楚，不是耳朵或两根绳。雾灰蓝长绒只在身体背部和外圈，正脸短剪绒配极简刺绣五官，长臂用同色细密丝绒，小荧光黄工牌贴近下缘。完整展示角色与必要的一小段深灰屏沿，正面略侧视，中性柔光，浅灰背景。无办公室杂物、文字或品牌，不增加腿，不用毛发细节掩盖轮廓。",
     "size": "1024x1024",
-    "status": "pending",
-    "output": "images/2026w42-2/base-01.png",
+    "status": "awaiting_upload",
+    "output": "images/2026w42-2/base-02.webp",
     "created": "2026-10-18",
-    "note": ""
+    "note": "修订图在对话中生成，等待用户上传；旧版信息已保留在 history。",
+    "history": [
+      {
+        "archived_at": "2026-10-19",
+        "snapshot": {
+          "id": "2026w42-2-base-01",
+          "ip": "2026w42-2",
+          "name": "挂挂",
+          "kind": "base",
+          "prompt_en": "A designer toy of a small dusty-blue long-pile fluff ball, 1-head round body, with two extra-long droopy arms hooked over the top edge of a computer monitor so the body hangs in front of the screen. Very wide-set, half-closed eyes, blank zoned-out expression, a single-line mouth. A tiny neon-yellow ID badge on its chest. Long fluffy plush texture, bendable soft arms. Office desk setting, blurred background, natural side light, close-up shot.",
+          "prompt_zh": "一只雾灰蓝色长绒小毛团潮玩，身体是 1 头身的圆团子，最突出的是两条超长、下垂的手臂，正挂在一台显示器的上沿，身体垂在屏幕前面。两只眼睛间距很宽、半垂着、表情放空，一条线的嘴。胸前挂着一个荧光黄色小工牌。长绒质感，手臂柔软可弯。办公桌场景，背景虚化，自然侧光，近景构图。",
+          "size": "1024x1024",
+          "status": "pending",
+          "output": "images/2026w42-2/base-01.png",
+          "created": "2026-10-18",
+          "note": ""
+        }
+      }
+    ],
+    "prompt_revision": 2
   },
   {
     "id": "2026w42-3-base-01",
     "ip": "2026w42-3",
     "name": "卷卷",
     "kind": "base",
-    "prompt_en": "A designer toy of a small standing lamb, 1.5-head proportion. The focal point is its two horns: each horn is a half-unwound coil of acacia-yellow yarn with a loose thread hanging down. Oatmeal-white curly fleece body, curly fringe, sleepy eyes squeezed into lines, faint blush, hugging one of its yarn horns with both arms. Knitted plush texture with visible yarn detail. Warm beige background, soft lighting, full-body front view.",
-    "prompt_zh": "一只 1.5 头身的小羊潮玩，直立，最突出的是头顶两只羊角：每只角都是一卷半松开的金合欢黄色毛线，线头垂下来一截。燕麦白色卷毛身体，卷毛刘海，困到眯成一条线的眼睛，淡淡腮红，双手抱着自己的一只毛线角。针织毛绒质感，能看到毛线纹理。暖米色背景，柔和光线，正面全身构图。",
+    "prompt_en": "Original lamb character JUANJUAN, 1.5-head proportions with a broad rounded-square head, short chin, wide low-hanging ears and a small pear-shaped torso with tiny feet. Acacia-yellow yarn horns form two thick flattened spirals of only two broad turns: one tightly coiled, one partially unwound with a single short loose end. No intricate braided ornament. Keep the oatmeal-colored matte vinyl face clean: two low-set angular closed-eye lines at slightly different heights, short level brows and a tiny inverted-arc mouth express stubborn exhaustion rather than a sweet smile. Both hands hug the lower edge of the loosened horn with readable contact, shoulders tucked inward. Only three broad rounded curl masses sit on the crown. Sparse cream loop-pile fabric on the torso contrasts with low-detail face and limbs; yarn texture stays confined to the horn. Entire figure, slight front three-quarter product concept, warm light-gray background, neutral soft light. No clothes, text, realistic sheep muzzle, knitted facial surface or photographic fur detail.",
+    "prompt_zh": "原创小羊角色卷卷，1.5头身，偏方圆的大头、短下颌，低垂宽耳向两侧摊开，身体是上窄下宽的小梨形，脚很小。两只金合欢黄毛线角是厚扁的两层大螺旋，一只卷紧，另一只半松开，只有一根短线头向下垂；不是复杂编织雕花。燕麦米色脸是干净的哑光搪胶面，两条低位折线眼一高一低，短平眉，小小倒弧嘴，神情逞强又没电，不做甜笑和大腮红。双手抱住松开的羊角下缘，肩膀缩着，清楚显示手与角的接触。头顶只有三团宽圆卷毛体块，身体使用少量奶白圈圈绒，手脚和脸保持低细节，角的毛线纹理只作局部。正面略侧的完整产品概念图，暖浅灰背景，中性柔光。无衣物、文字、写实羊鼻和密集针织脸，不靠毛发摄影感展示质感。",
     "size": "1024x1024",
-    "status": "pending",
-    "output": "images/2026w42-3/base-01.png",
+    "status": "awaiting_upload",
+    "output": "images/2026w42-3/base-02.webp",
     "created": "2026-10-18",
-    "note": ""
+    "note": "修订图在对话中生成，等待用户上传；旧版信息已保留在 history。",
+    "history": [
+      {
+        "archived_at": "2026-10-19",
+        "snapshot": {
+          "id": "2026w42-3-base-01",
+          "ip": "2026w42-3",
+          "name": "卷卷",
+          "kind": "base",
+          "prompt_en": "A designer toy of a small standing lamb, 1.5-head proportion. The focal point is its two horns: each horn is a half-unwound coil of acacia-yellow yarn with a loose thread hanging down. Oatmeal-white curly fleece body, curly fringe, sleepy eyes squeezed into lines, faint blush, hugging one of its yarn horns with both arms. Knitted plush texture with visible yarn detail. Warm beige background, soft lighting, full-body front view.",
+          "prompt_zh": "一只 1.5 头身的小羊潮玩，直立，最突出的是头顶两只羊角：每只角都是一卷半松开的金合欢黄色毛线，线头垂下来一截。燕麦白色卷毛身体，卷毛刘海，困到眯成一条线的眼睛，淡淡腮红，双手抱着自己的一只毛线角。针织毛绒质感，能看到毛线纹理。暖米色背景，柔和光线，正面全身构图。",
+          "size": "1024x1024",
+          "status": "pending",
+          "output": "images/2026w42-3/base-01.png",
+          "created": "2026-10-18",
+          "note": ""
+        }
+      }
+    ],
+    "prompt_revision": 2
   },
   {
     "id": "2026w42-4-base-01",
     "ip": "2026w42-4",
     "name": "晒晒",
     "kind": "base",
-    "prompt_en": "A designer toy of a small standing cat, 2-head proportion, with caramel tan short fur. The focal point is a crisp white sunglasses-shaped tan line across its face with strong contrast. Sunglasses with sea-teal lenses pushed up on top of its head, cat ears, small triangle cat mouth, relaxed confident expression, hands on hips. Short plush texture. Bright beach sunlight, pale sand background, full-body front view.",
-    "prompt_zh": "一只 2 头身、直立的小猫潮玩，小麦焦糖色短毛，脸上最突出的是一圈墨镜形状的白色晒痕，晒痕边缘清楚、对比强烈。墨镜推在头顶，镜片是海王绿色，猫耳，小三角猫嘴，表情松弛自信，双手叉腰。短绒质感。明亮海边阳光，浅沙色背景，正面全身构图。",
+    "prompt_en": "Original graphic tan-line cat SHAISHAI, a two-head-proportion vinyl-and-plush character. Its head is a broad rounded hexagon with wide cheek planes and a short jaw; two low triangular ears splay outward. A narrow-shouldered pear torso ends in wide flattened feet, with a small hook-shaped tail. A single connected white sunglasses-shaped tan-line mask crosses the caramel face, joined across the nose bridge. Treat it as crisp flat pad printing, not white eye rings and not actual glasses. Low-set elongated eyes tilt slightly upward under compressed lids, with flat charcoal pupils and no iris or glass eyeballs. A small angular cat mouth sits off-center, relaxed and self-assured. No whiskers, realistic muzzle, modeled animal nose or blush. Thick rounded sea-teal sunglasses rest on the crown, hands tucked at the hips, weight shifted toward one foot. Matte vinyl face and caramel short velvet body, clean color blocks with restrained seams. Entire figure, slight front three-quarter view, warm light-gray background and neutral soft studio light. No beach scene, clothes, text or realistic animal fur.",
+    "prompt_zh": "原创晒痕猫晒晒，2头身的图形化搪胶毛绒。头是横宽的圆角六边形，脸颊宽、下颌短，两个低矮三角耳向外撇；窄肩梨形小身体配两只宽扁脚，一条短钩形尾巴。焦糖色的脸上有一整块连通的白色墨镜形晒痕，鼻梁处相连，平面移印、边界清楚，不能画成白眼圈或真的眼镜。两只低位横长眼稍挑起，眼皮轻压，瞳孔是平面炭黑色，没有虹膜和镜面眼球；小折角猫嘴偏向一侧，松弛自信。无胡须、写实鼻口和腮红。海王绿色厚圆框墨镜推在头顶，双手插在胯侧，重心稍偏一脚。哑光搪胶脸与焦糖短丝绒身体，平整色块、少量接缝；全身正面略侧、浅暖灰背景、中性棚光。无海滩布景、文字、额外服饰、拟真动物毛流。",
     "size": "1024x1024",
-    "status": "pending",
-    "output": "images/2026w42-4/base-01.png",
+    "status": "awaiting_upload",
+    "output": "images/2026w42-4/base-02.webp",
     "created": "2026-10-18",
-    "note": ""
+    "note": "修订图在对话中生成，等待用户上传；旧版信息已保留在 history。",
+    "history": [
+      {
+        "archived_at": "2026-10-19",
+        "snapshot": {
+          "id": "2026w42-4-base-01",
+          "ip": "2026w42-4",
+          "name": "晒晒",
+          "kind": "base",
+          "prompt_en": "A designer toy of a small standing cat, 2-head proportion, with caramel tan short fur. The focal point is a crisp white sunglasses-shaped tan line across its face with strong contrast. Sunglasses with sea-teal lenses pushed up on top of its head, cat ears, small triangle cat mouth, relaxed confident expression, hands on hips. Short plush texture. Bright beach sunlight, pale sand background, full-body front view.",
+          "prompt_zh": "一只 2 头身、直立的小猫潮玩，小麦焦糖色短毛，脸上最突出的是一圈墨镜形状的白色晒痕，晒痕边缘清楚、对比强烈。墨镜推在头顶，镜片是海王绿色，猫耳，小三角猫嘴，表情松弛自信，双手叉腰。短绒质感。明亮海边阳光，浅沙色背景，正面全身构图。",
+          "size": "1024x1024",
+          "status": "pending",
+          "output": "images/2026w42-4/base-01.png",
+          "created": "2026-10-18",
+          "note": ""
+        }
+      }
+    ],
+    "prompt_revision": 2
   },
   {
     "id": "2026w42-6-base-01",
     "ip": "2026w42-6",
     "name": "潮潮",
     "kind": "base",
-    "prompt_en": "A designer toy of a small water sprite, 2-head proportion, sea-teal skin. The focal point is its hair made of clear jelly-like water droplets, with drops dripping from the tips. Large solid black eyes without pupils, tiny dot nose, single-line mouth, a touch of coral blush. Holding a small clear puddle in both hands. Matte soft-vinyl body, glossy transparent hair. Rain-streaked window background, cool soft light, full-body front view.",
-    "prompt_zh": "一只 2 头身的小水妖潮玩，海王绿色皮肤，最突出的是头发：由透明果冻质感的水滴组成，水滴正从发梢往下滴。全黑、没有瞳孔的大眼睛，小圆点鼻子，一条线的嘴，脸颊一点珊瑚粉。双手捧着一个小小的透明水坑。身体哑光软胶质感，头发透明发亮。雨后玻璃窗背景，冷色柔光，正面全身构图。",
+    "prompt_en": "Original damp-emotion water spirit CHAOCHAO, a sculpted blind-box figure with two-head proportions. A broad forehead tapers into a short pointed chin; the small water-pouch torso ends in two wide flat leaf-shaped feet. Hair consists of exactly four broad thick smoky-teal translucent droplet masses over the crown and sides, with blunt hanging tips physically connected to the head. These are solid sculptural parts, never flowing water or floating splashes. Two low-set tall black eyes are widely separated and lightly compressed by straight upper lids, executed as flat pad printing rather than glass beads. A tiny dot nose, a short mouth drooping off-center, and one small coral line on each cheek convey sensitive melancholy. Clean matte sea-teal soft-vinyl body with no skin pores or scales; limited translucency and restrained highlights in the hair. Two short arms extend from the torso and support a shallow flat clear puddle tray, palms touching its underside with readable contact. Entire figure, front three-quarter product view, plain light-gray background, even soft light. No rainy window, wet realistic skin, pointed ears, eyelashes, floating droplets or elaborate glass refraction.",
+    "prompt_zh": "原创情绪潮湿的小水妖潮潮，2头身雕塑盲盒。头部上宽下收，宽额头配短尖下巴，身体像一只小水袋，下缘两只宽扁叶片脚。头发仅由四片烟青色半透明的厚水滴大体块组成，覆盖头顶和两侧，末端圆钝下垂并与头部连接，不是真实流动的水，不漂浮飞溅。两只低位竖长全黑眼间距宽，上端被平直眼皮轻压，眼睛为平面移印而非玻璃珠；小鼻点、向一侧低落的短嘴，脸颊各一小条珊瑚粉线。海王绿色身体是干净的哑光软胶，表面无皮肤、鳞片和毛孔；头发有限半透明，少量柔和高光。短臂从身体两侧伸出，共同托住一块浅平的透明水坑盘，手掌实际贴住盘底，盘不悬空。完整三分之四前视，浅灰背景，均匀柔光。无雨窗、写实湿皮肤、尖耳、睫毛、漂浮水滴或玻璃折射特效。",
     "size": "1024x1024",
-    "status": "pending",
-    "output": "images/2026w42-6/base-01.png",
+    "status": "awaiting_upload",
+    "output": "images/2026w42-6/base-02.webp",
     "created": "2026-10-18",
-    "note": ""
+    "note": "修订图在对话中生成，等待用户上传；旧版信息已保留在 history。",
+    "history": [
+      {
+        "archived_at": "2026-10-19",
+        "snapshot": {
+          "id": "2026w42-6-base-01",
+          "ip": "2026w42-6",
+          "name": "潮潮",
+          "kind": "base",
+          "prompt_en": "A designer toy of a small water sprite, 2-head proportion, sea-teal skin. The focal point is its hair made of clear jelly-like water droplets, with drops dripping from the tips. Large solid black eyes without pupils, tiny dot nose, single-line mouth, a touch of coral blush. Holding a small clear puddle in both hands. Matte soft-vinyl body, glossy transparent hair. Rain-streaked window background, cool soft light, full-body front view.",
+          "prompt_zh": "一只 2 头身的小水妖潮玩，海王绿色皮肤，最突出的是头发：由透明果冻质感的水滴组成，水滴正从发梢往下滴。全黑、没有瞳孔的大眼睛，小圆点鼻子，一条线的嘴，脸颊一点珊瑚粉。双手捧着一个小小的透明水坑。身体哑光软胶质感，头发透明发亮。雨后玻璃窗背景，冷色柔光，正面全身构图。",
+          "size": "1024x1024",
+          "status": "pending",
+          "output": "images/2026w42-6/base-01.png",
+          "created": "2026-10-18",
+          "note": ""
+        }
+      }
+    ],
+    "prompt_revision": 2
   },
   {
     "id": "2026w42b-1-base-01",
     "ip": "2026w42b-1",
     "name": "挂挂 v2",
     "kind": "base",
-    "prompt_en": "A designer toy of a small fluff ball in soft lilac ribbed-knit texture, 1-head round body. The focal point is two extra-long droopy arms ending in small round hands, hooked over the top edge of a computer monitor so the body hangs in front of the screen. Very wide-set half-closed eyes, blank zoned-out expression, a single-line mouth. A tiny neon-yellow ID badge on its chest. Visible knit texture, soft bendable arms. Plain light grey background, soft studio lighting, full-body front view.",
-    "prompt_zh": "一只平和淡紫色罗纹针织质感的小毛团潮玩，1 头身圆团子，最突出的是两条超长、下垂的手臂，手臂末端是圆圆的小手，正挂在一台显示器的上沿，身体垂在屏幕前面。两只眼睛间距很宽、半垂着、表情放空，一条线的嘴。胸前挂着一个荧光黄色小工牌。可见针织纹理，柔软可弯。纯浅灰背景，柔和棚拍光，正面全身构图。",
+    "prompt_en": "Original knitted GUAGUA variant, keeping the same identity as the dusty-blue version: a single wide flattened bean silhouette with no legs and no separate head or neck, gently flattened top and a subtle central indentation in the lower contour. Low-set horizontal oval eyes sit about one eye-width apart, mostly covered by straight upper lids, revealing small flat charcoal pupils. A very short horizontal mouth and a large empty forehead create the blank expression. No nose, blush or realistic eyeballs. Two thick flattened arms emerge continuously from the upper side shoulders, each about twice the body height. They reach upward over a dark-gray monitor rim; thick rounded hands bend backward behind it to make two clear supported hanging points. The body hangs between them. Soft peaceful-lilac fine rib-knit covers the body and arms; a separate finely woven smooth facial zone carries simple embroidery, with matching fine-velvet rounded hands. One tiny neon-yellow ID tag hangs near the lower body edge. Entire character plus only a short monitor rim, slight front three-quarter view, plain light-gray background and neutral soft light. No feet, arms growing from the crown, coarse facial knit, text, logos or office clutter.",
+    "prompt_zh": "原创挂挂的针织版本，与雾灰蓝版本保持相同身份：无腿、无分离头颈的一头身横宽扁豆轮廓，上缘平缓，下缘中间轻凹。低位的两只横向扁椭圆眼间隔约一眼宽，平直上眼皮压住大半眼睛，露出平面炭黑小瞳点；嘴是极短横线，大额头留白，无鼻、腮红或写实眼球。两条厚扁长臂从身体左右上侧肩根连续伸出，约为身体高度两倍，向上搭过深灰显示器上沿，末端加厚圆手反折到屏幕后方，形成两个清楚挂点，身体自然垂在中间。平和淡紫细罗纹针织覆盖身体和双臂，正脸单独一块细密平织区域配简洁刺绣五官，圆手用同色细丝绒，只在身体下缘挂一小片荧光黄工牌。完整展示角色及一小段屏沿，正面略侧视，中性柔光，浅灰背景。不要脚，不要把手臂接在头顶，不要粗针织纹理覆盖五官，不加文字、品牌或办公杂物。",
     "size": "1024x1024",
-    "status": "done",
-    "output": "images/2026w42b-1/base-01.webp",
+    "status": "awaiting_upload",
+    "output": "images/2026w42b-1/base-02.webp",
     "created": "2026-10-18",
-    "note": "网站上传",
-    "v": "2026-10-18T16:37:08.296Z"
+    "note": "修订图在对话中生成，等待用户上传；旧版信息已保留在 history。",
+    "v": "2026-10-18T16:37:08.296Z",
+    "history": [
+      {
+        "archived_at": "2026-10-19",
+        "snapshot": {
+          "id": "2026w42b-1-base-01",
+          "ip": "2026w42b-1",
+          "name": "挂挂 v2",
+          "kind": "base",
+          "prompt_en": "A designer toy of a small fluff ball in soft lilac ribbed-knit texture, 1-head round body. The focal point is two extra-long droopy arms ending in small round hands, hooked over the top edge of a computer monitor so the body hangs in front of the screen. Very wide-set half-closed eyes, blank zoned-out expression, a single-line mouth. A tiny neon-yellow ID badge on its chest. Visible knit texture, soft bendable arms. Plain light grey background, soft studio lighting, full-body front view.",
+          "prompt_zh": "一只平和淡紫色罗纹针织质感的小毛团潮玩，1 头身圆团子，最突出的是两条超长、下垂的手臂，手臂末端是圆圆的小手，正挂在一台显示器的上沿，身体垂在屏幕前面。两只眼睛间距很宽、半垂着、表情放空，一条线的嘴。胸前挂着一个荧光黄色小工牌。可见针织纹理，柔软可弯。纯浅灰背景，柔和棚拍光，正面全身构图。",
+          "size": "1024x1024",
+          "status": "done",
+          "output": "images/2026w42b-1/base-01.webp",
+          "created": "2026-10-18",
+          "note": "网站上传",
+          "v": "2026-10-18T16:37:08.296Z"
+        }
+      }
+    ],
+    "prompt_revision": 2
   },
   {
     "id": "2026w42b-2-base-01",
     "ip": "2026w42b-2",
     "name": "嗯嗯",
     "kind": "base",
-    "prompt_en": "A designer toy of a small puppy, 1.5-head proportion, cream-white short plush. The focal point is its left ear: a glossy luminous cobalt-blue vintage telephone receiver, while the right ear is a normal soft floppy ear, asymmetric. The puppy tilts its head, pointing the receiver ear forward, small black bead eyes, tiny dot nose, mouth slightly open as if saying 'mm-hm'. Minimal, no extra clothing. Vinyl-face plush charm format. Plain light grey background, soft studio lighting, three-quarter full-body view.",
-    "prompt_zh": "一只 1.5 头身的小狗潮玩，奶油白短绒，最突出的是左边的耳朵：它是一只亮面的明亮钴蓝色复古电话听筒，右边是普通的软软垂耳，不对称。小狗歪着头，把听筒耳朵对着前方，黑色豆豆眼，小圆点鼻子，小嘴微微张开像在说\"嗯\"。极简，无多余服装。搪胶毛绒挂件形态。纯浅灰背景，柔和棚拍光，四分之三侧全身构图。",
+    "prompt_en": "Original listening puppy ENEN, a 1.5-head-proportion vinyl-and-plush character. A wide forehead and straight cheek sides extend into an elongated rounded jaw, never a standard round baby face. Two very small short vertical oval eyes sit at slightly different heights near the middle of the face. A tiny horizontal oval nose is slightly broad; a short vertical mouth slit sits off the nose centerline, as if replying a beat late. No large glassy eyes, smile, blush or realistic dog muzzle. The right ear is broad flat cream plush; the left ear is a slim luminous cobalt-blue vintage telephone receiver hanging naturally down the side of the face. Its blunt rounded ends widen slightly around a narrow curved middle, each end carrying only three shallow dimples. Do not make a headset. The head tilts slightly toward the receiver, shoulders drawn in, a small bean torso with flat broad little feet and relaxed short arms. Cream matte-vinyl face, fine short velvet body and right ear, cobalt soft-vinyl receiver, clean material boundaries. Whole figure in front three-quarter view, light-gray background, neutral soft light; shape before fur detail. No clothing, extra props, text, realistic dog fur or glass-bead eyes.",
+    "prompt_zh": "原创倾听小狗嗯嗯，1.5头身搪胶毛绒。头部宽额、脸颊平直，下颌往下拉成长圆弧，不是标准圆宝宝；两只很小的短竖椭圆眼一高一低，靠近面部中段，横椭圆小鼻略宽，嘴为偏离鼻子中线的一条短竖缝，像慢半拍地应一声。没有大眼珠、笑脸、腮红和写实狗口鼻。右耳是宽扁奶油白垂耳；左耳是一只沿脸侧自然下垂的细长明亮钴蓝复古电话听筒，两端圆钝略宽、中段窄弯，端部各三枚浅凹点，不能变成头戴式耳机。头朝听筒侧微倾，肩膀稍缩，小豆形身体，宽扁小脚，短手垂着。奶油白哑光搪胶脸、细短丝绒身体与右耳，钴蓝软胶听筒，边界干净。全身前侧三分之四，浅灰背景，中性柔光，造型先于毛发纹理。无服饰、额外配件、文字、动物写实毛流或玻璃珠眼。",
     "size": "1024x1024",
-    "status": "pending",
-    "output": "images/2026w42b-2/base-01.png",
+    "status": "awaiting_upload",
+    "output": "images/2026w42b-2/base-02.webp",
     "created": "2026-10-18",
-    "note": ""
+    "note": "修订图在对话中生成，等待用户上传；旧版信息已保留在 history。",
+    "history": [
+      {
+        "archived_at": "2026-10-19",
+        "snapshot": {
+          "id": "2026w42b-2-base-01",
+          "ip": "2026w42b-2",
+          "name": "嗯嗯",
+          "kind": "base",
+          "prompt_en": "A designer toy of a small puppy, 1.5-head proportion, cream-white short plush. The focal point is its left ear: a glossy luminous cobalt-blue vintage telephone receiver, while the right ear is a normal soft floppy ear, asymmetric. The puppy tilts its head, pointing the receiver ear forward, small black bead eyes, tiny dot nose, mouth slightly open as if saying 'mm-hm'. Minimal, no extra clothing. Vinyl-face plush charm format. Plain light grey background, soft studio lighting, three-quarter full-body view.",
+          "prompt_zh": "一只 1.5 头身的小狗潮玩，奶油白短绒，最突出的是左边的耳朵：它是一只亮面的明亮钴蓝色复古电话听筒，右边是普通的软软垂耳，不对称。小狗歪着头，把听筒耳朵对着前方，黑色豆豆眼，小圆点鼻子，小嘴微微张开像在说\"嗯\"。极简，无多余服装。搪胶毛绒挂件形态。纯浅灰背景，柔和棚拍光，四分之三侧全身构图。",
+          "size": "1024x1024",
+          "status": "pending",
+          "output": "images/2026w42b-2/base-01.png",
+          "created": "2026-10-18",
+          "note": ""
+        }
+      }
+    ],
+    "prompt_revision": 2
   },
   {
     "id": "2026w42b-3-base-01",
     "ip": "2026w42b-3",
     "name": "落落",
     "kind": "base",
-    "prompt_en": "A designer toy of a small cream-white dough-like creature, 1.5-head round body. The focal point is a bright red map location pin growing from the top of its head, shaped like an upside-down teardrop, clearly prominent. Small black bead eyes, faint blush, single-line smile. Holding a tiny blank city card in both hands. Short plush texture, clean plain body. Plain light grey background, soft studio lighting, full-body front view.",
-    "prompt_zh": "一只 1.5 头身的米白色小面团潮玩，最突出的是头顶长着一枚鲜红色的地图定位针，形状像倒过来的水滴，体积明显。黑色豆豆眼，淡淡腮红，一条线的微笑。双手捧着一张小小的空白城市卡片。短绒质感，素体干净。纯浅灰背景，柔和棚拍光，正面全身构图。",
+    "prompt_en": "Original settling-in spirit LUOLUO, 1.5-head proportions, a broad flattened ivory dough-like head over a tiny torso and two outward-splayed rounded-square feet. The red location pin is integrated into a thick soft hood wrapping the crown and back of the head, not a tall symbol stuck on top. A short blunt point tops the red contour, which curves down both sides around a wide low ivory face opening. It suggests a map location silhouette without a giant circular hole. Two low-set tiny horizontal rectangular eyes have straight upper edges and wide spacing, rendered as flat charcoal graphics. An extremely small off-center U-shaped mouth, no nose and no blush, gives the earnest air of a newcomer making a home. Short arms emerge from the torso and physically pinch a small blank ivory city card at the chest. Matte soft-vinyl face, fine short ivory velvet body, and a solid red soft-vinyl hood with blunt edges; no realistic fur. Whole figure, slight front three-quarter product view, neutral soft light and plain light-gray background. Clean red and ivory color blocks. No writing, city logos, extra luggage or realistic animal features.",
+    "prompt_zh": "原创落户小精灵落落，1.5头身，宽扁米白面团头配很小的身体，双脚是朝外摊开的圆角方块。红色定位针不作为高高插在头顶的符号，而是融合成包住头顶和后脑的一圈厚软帽壳：顶部一枚短圆尖，红色外轮廓向下包到两侧，正面开出宽扁米白脸面，整体能联想到地图落点但没有巨大圆孔。两只低位小横方眼、平直上边、间距宽，眼睛是炭黑平面图形；一枚极小偏位U形嘴，不画鼻子和腮红，表情像刚搬来、认真安顿的小住客。双手从小身体两侧伸出，实际夹住胸前一张小小的米白空白城市卡。脸为哑光软胶，身体米白细短丝绒，定位红帽壳为实心圆钝软胶，没有拟真毛发。全身正面略侧，浅灰背景，中性柔光，清晰的红与米白色块。无文字、城市标志、额外行李或写实动物五官。",
     "size": "1024x1024",
-    "status": "pending",
-    "output": "images/2026w42b-3/base-01.png",
+    "status": "awaiting_upload",
+    "output": "images/2026w42b-3/base-02.webp",
     "created": "2026-10-18",
-    "note": ""
+    "note": "修订图在对话中生成，等待用户上传；旧版信息已保留在 history。",
+    "history": [
+      {
+        "archived_at": "2026-10-19",
+        "snapshot": {
+          "id": "2026w42b-3-base-01",
+          "ip": "2026w42b-3",
+          "name": "落落",
+          "kind": "base",
+          "prompt_en": "A designer toy of a small cream-white dough-like creature, 1.5-head round body. The focal point is a bright red map location pin growing from the top of its head, shaped like an upside-down teardrop, clearly prominent. Small black bead eyes, faint blush, single-line smile. Holding a tiny blank city card in both hands. Short plush texture, clean plain body. Plain light grey background, soft studio lighting, full-body front view.",
+          "prompt_zh": "一只 1.5 头身的米白色小面团潮玩，最突出的是头顶长着一枚鲜红色的地图定位针，形状像倒过来的水滴，体积明显。黑色豆豆眼，淡淡腮红，一条线的微笑。双手捧着一张小小的空白城市卡片。短绒质感，素体干净。纯浅灰背景，柔和棚拍光，正面全身构图。",
+          "size": "1024x1024",
+          "status": "pending",
+          "output": "images/2026w42b-3/base-01.png",
+          "created": "2026-10-18",
+          "note": ""
+        }
+      }
+    ],
+    "prompt_revision": 2
   },
   {
     "id": "2026w42b-4-base-01",
     "ip": "2026w42b-4",
     "name": "方方",
     "kind": "base",
-    "prompt_en": "A designer toy shaped like a round ancient coin with a square hole, maize-yellow. The focal point is the square hole in the center: a tiny face peeks out of it, small black bead eyes, small cat-like mouth, faint blush. Two tiny stubby hands stick out from the sides, cupped together in a respectful greeting. A small vermilion cord knot tied on top. Glossy soft vinyl texture with slightly worn edges. Plain light grey background, soft studio lighting, front view.",
-    "prompt_zh": "一枚圆形铜钱造型的拟物潮玩，玉米黄色，最突出的是中间的方孔：一张小脸正从方孔里探出来，黑色豆豆眼、小猫嘴、淡淡腮红。铜钱两侧伸出两只小短手，正抱拳作揖。顶部系着一个朱红色小绳结。亮面软胶质感，边缘有轻微磨旧的纹理。纯浅灰背景，柔和棚拍光，正面构图。",
+    "prompt_en": "Original coin-object character FANGFANG, a modern graphic sculptural charm with no separate body and no feet. A thick slightly flattened maize-yellow circular shell has blunt rounded edges and only one shallow perimeter groove. At its center is a rounded-square opening containing a smaller recessed cream rounded-square face, separated from the shell by a clear shadow gap. Two low-set narrow black eye slots have straight tops and curved bottoms, spaced slightly close together, above one short level mouth. The expression is earnestly deadpan: no cat mouth, nose or blush. Tiny hands emerge from the left and right edges of the central opening and clasp in a greeting along its lower edge, never decorative relief patterns. A single small vermilion cord loop at the top, not a complex ornamental knot. Uniform satin-matte vinyl shell and warm cream face with strong clean color blocking. No gold metal, antique bronze, distressing, cloud motifs, writing or religious symbols. Entire character in near-front product view with a slight angle showing thickness, neutral soft light and plain light-gray background, one character only.",
+    "prompt_zh": "原创铜钱拟物角色方方，现代图形雕塑挂件，无独立身体、无脚。一个厚而略扁的玉米黄色圆币壳，外缘圆钝，仅一圈浅压边；中心是圆角方孔，孔内缩着一张更小的奶油白圆角方脸，留出明显阴影间隙。两道低位、上平下圆的窄黑眼槽，间距略窄，一条短平嘴，认真搞钱的冷幽默表情，无猫嘴、鼻子和腮红。两只小短手从方孔左右边缘伸出，在孔下缘抱拳，不能变成侧面浮雕花纹。顶部只有一枚小朱红单环绳结，不加复杂中国结。币壳为均匀半哑光搪胶，内脸略暖白，色块清晰；不做黄金、仿古铜、磨损、祥云、文字或宗教符号。完整正面微侧产品图，浅灰背景，中性柔光，轮廓简洁且有厚度，整张只一个角色。",
     "size": "1024x1024",
-    "status": "pending",
-    "output": "images/2026w42b-4/base-01.png",
+    "status": "awaiting_upload",
+    "output": "images/2026w42b-4/base-02.webp",
     "created": "2026-10-18",
-    "note": ""
+    "note": "修订图在对话中生成，等待用户上传；旧版信息已保留在 history。",
+    "history": [
+      {
+        "archived_at": "2026-10-19",
+        "snapshot": {
+          "id": "2026w42b-4-base-01",
+          "ip": "2026w42b-4",
+          "name": "方方",
+          "kind": "base",
+          "prompt_en": "A designer toy shaped like a round ancient coin with a square hole, maize-yellow. The focal point is the square hole in the center: a tiny face peeks out of it, small black bead eyes, small cat-like mouth, faint blush. Two tiny stubby hands stick out from the sides, cupped together in a respectful greeting. A small vermilion cord knot tied on top. Glossy soft vinyl texture with slightly worn edges. Plain light grey background, soft studio lighting, front view.",
+          "prompt_zh": "一枚圆形铜钱造型的拟物潮玩，玉米黄色，最突出的是中间的方孔：一张小脸正从方孔里探出来，黑色豆豆眼、小猫嘴、淡淡腮红。铜钱两侧伸出两只小短手，正抱拳作揖。顶部系着一个朱红色小绳结。亮面软胶质感，边缘有轻微磨旧的纹理。纯浅灰背景，柔和棚拍光，正面构图。",
+          "size": "1024x1024",
+          "status": "pending",
+          "output": "images/2026w42b-4/base-01.png",
+          "created": "2026-10-18",
+          "note": ""
+        }
+      }
+    ],
+    "prompt_revision": 2
   },
   {
     "id": "2026w42b-5-base-01",
     "ip": "2026w42b-5",
     "name": "搭搭",
     "kind": "base",
-    "prompt_en": "A designer toy pair of two small children standing side by side, 2-head proportion, one in soft lilac and one in maize yellow. The focal point is a jigsaw-puzzle shape on top of each head, one with a tab and one with a slot, so they fit together. Both have small black bead eyes, single-line mouths, short hair, each reaching one hand toward the other. Short plush texture, minimal. Plain light grey background, soft studio lighting, full-body front view.",
-    "prompt_zh": "两个 2 头身的小孩潮玩并排站着，一个平和淡紫色、一个玉米黄色，最突出的是两人头顶各有一块拼图结构，一个是凸起、一个是凹口，正好能扣在一起。两人都是黑色豆豆眼、一条线的嘴、短发，各伸出一只手指向对方。短绒质感，极简。纯浅灰背景，柔和棚拍光，正面全身构图。",
+    "prompt_en": "Original paired companion characters DADA, two figures with two-head proportions standing side by side in one image, separated by a small gap rather than joined. Both have wide rounded-square heads, short rounded-square torsos and broad flat feet. Cream matte-vinyl faces are inset into colored short-velvet head shells; no realistic hair and no crown accessories. The peaceful-lilac figure on the left has a thick blunt jigsaw tab growing naturally from the side of its head facing its companion. The maize-yellow figure on the right has a matching rounded recess on the corresponding side. These forms are integrated into the outer head contours, never cutting through the face or piercing the skull. Features sit low within generous empty faces: two short horizontal black eye bars and a level small mouth on lilac; gently slanted short black eye bars and an off-center mouth corner on yellow. They feel like relaxed temporary companions with no need for forced conversation. One small hand from each torso reaches toward the other without clasping; the other arms hang naturally. Clean restrained velvet seams, matte soft-vinyl hands, feet and faces, thick blunt sculptural construction. Entire pair in a slight front three-quarter product view, light-gray background and neutral soft light. No text, outfit patterns, hair, hearts, baby smiles or extra characters.",
+    "prompt_zh": "原创成对搭子角色搭搭，同一张图两个2头身小人并排，彼此留少量空隙，不拼接到一起。两者都是横宽圆角方头、短方圆身体和宽扁脚，奶油白哑光搪胶脸嵌在彩色短丝绒头壳里，没有写实头发或头顶装饰。左边平和淡紫，靠近同伴的头侧自然伸出一个厚圆钝拼图凸块；右边玉米黄，对应头侧是同尺寸圆凹口；结构融入头的外侧边缘，不切开脸，也不做洞穿头部。两张脸五官都低位且留白多：淡紫角色两条短横黑眼、短平嘴，玉米黄角色两条轻斜短黑眼、一枚偏嘴角，像不用尬聊的临时同路人。小手从身体侧伸向对方但不握住，另一手自然垂着。丝绒壳有少量干净接缝，手脚和脸是哑光软胶，造型厚实圆钝。完整双人正面略侧产品图，浅灰背景，中性柔光。无文字、服装花纹、头发、爱心、婴儿笑脸或额外角色。",
     "size": "1024x1024",
-    "status": "pending",
-    "output": "images/2026w42b-5/base-01.png",
+    "status": "awaiting_upload",
+    "output": "images/2026w42b-5/base-02.webp",
     "created": "2026-10-18",
-    "note": ""
+    "note": "修订图在对话中生成，等待用户上传；旧版信息已保留在 history。",
+    "history": [
+      {
+        "archived_at": "2026-10-19",
+        "snapshot": {
+          "id": "2026w42b-5-base-01",
+          "ip": "2026w42b-5",
+          "name": "搭搭",
+          "kind": "base",
+          "prompt_en": "A designer toy pair of two small children standing side by side, 2-head proportion, one in soft lilac and one in maize yellow. The focal point is a jigsaw-puzzle shape on top of each head, one with a tab and one with a slot, so they fit together. Both have small black bead eyes, single-line mouths, short hair, each reaching one hand toward the other. Short plush texture, minimal. Plain light grey background, soft studio lighting, full-body front view.",
+          "prompt_zh": "两个 2 头身的小孩潮玩并排站着，一个平和淡紫色、一个玉米黄色，最突出的是两人头顶各有一块拼图结构，一个是凸起、一个是凹口，正好能扣在一起。两人都是黑色豆豆眼、一条线的嘴、短发，各伸出一只手指向对方。短绒质感，极简。纯浅灰背景，柔和棚拍光，正面全身构图。",
+          "size": "1024x1024",
+          "status": "pending",
+          "output": "images/2026w42b-5/base-01.png",
+          "created": "2026-10-18",
+          "note": ""
+        }
+      }
+    ],
+    "prompt_revision": 2
   },
   {
     "id": "2026w42b-6-base-01",
     "ip": "2026w42b-6",
     "name": "格格",
     "kind": "base",
-    "prompt_en": "A designer toy of a small girl, 2-head proportion. The focal point is that her whole silhouette has pixel-stepped edges and her surface shows individual cylindrical fuse beads, with one bead deliberately the wrong color and slightly crooked. Two square beads as eyes, a single horizontal-line mouth, two pink beads as blush, holding one bead in her hand. Low-saturation multicolor palette, matte bead-textured surface. Plain light grey background, soft studio lighting, full-body front view.",
-    "prompt_zh": "一个 2 头身的小女孩潮玩，最突出的是整个身体和头部的轮廓都是像素阶梯状的边缘，表面能看到一颗颗圆柱形的拼豆颗粒，其中一颗颜色故意不对、微微歪着。两颗方形豆子做眼睛，一条横线的嘴，两颗粉色豆子做腮红，手里捏着一颗豆子。低饱和的多彩配色，颗粒感哑光表面。纯浅灰背景，柔和棚拍光，正面全身构图。",
+    "prompt_en": "Original handmade-pixel girl GEGE, a two-head-proportion sculptural charm with a wide rounded-square head, short trapezoid dress torso and broad rounded-square shoes. Russet hair forms only three large stepped levels around the head and two short blocky side pigtails, not a dense mosaic. The face is one smooth flat cream matte-vinyl rounded-square panel: two low-set small black square eyes, a short horizontal mouth deliberately offset by one grid unit, and two tiny muted-clay square cheek marks, with empty forehead space. No holes, knitting or dense bead texture on the face. Fuse-bead references are confined to sparse chunky cylindrical segments along the outer hair and lower dress hem, with shallow dimples at the ends. Exactly one crooked maize-yellow bead sits on the side of the hair, a deliberate color mismatch; one small hand visibly pinches a matching loose bead. Muted-clay trapezoid dress, harbor-blue broad shoes, cream hands and feet, large clear color blocks and matte surfaces with real sculptural thickness. Whole figure in a slight front three-quarter product view, plain light-gray background and even soft light. No all-over perforations, realistic child anatomy, intricate clothing prints, lettering or extra props.",
+    "prompt_zh": "原创手作像素女孩格格，2头身雕塑挂件，宽圆角方头、短梯形裙身、宽方圆鞋。红棕色头发以三级大阶梯构成外沿，两侧各一束短方块辫，不是密集马赛克。脸是一整块平整奶油白哑光软胶方面板，两枚低位小黑方眼，中间一条短横嘴故意向一侧偏一格，两块很小的灰陶粉方腮，额头留白；面部没有孔洞、编织和密集颗粒。拼豆感只在发沿与裙下缘体现为少量粗圆柱小段、浅凹端面；头发侧边只有一颗玉米黄的歪豆，与周围颜色不同，手里捏着一颗同色豆，握持清楚。灰陶粉梯形裙、海港蓝宽鞋、奶白手脚，清晰的大色块，表面哑光，轮廓有厚度。正面略侧全身产品概念图，浅灰背景、均匀柔光。无全身密集孔洞、写实小孩、复杂服饰图案、文字或额外道具。",
     "size": "1024x1024",
-    "status": "pending",
-    "output": "images/2026w42b-6/base-01.png",
+    "status": "awaiting_upload",
+    "output": "images/2026w42b-6/base-02.webp",
     "created": "2026-10-18",
-    "note": ""
+    "note": "修订图在对话中生成，等待用户上传；旧版信息已保留在 history。",
+    "history": [
+      {
+        "archived_at": "2026-10-19",
+        "snapshot": {
+          "id": "2026w42b-6-base-01",
+          "ip": "2026w42b-6",
+          "name": "格格",
+          "kind": "base",
+          "prompt_en": "A designer toy of a small girl, 2-head proportion. The focal point is that her whole silhouette has pixel-stepped edges and her surface shows individual cylindrical fuse beads, with one bead deliberately the wrong color and slightly crooked. Two square beads as eyes, a single horizontal-line mouth, two pink beads as blush, holding one bead in her hand. Low-saturation multicolor palette, matte bead-textured surface. Plain light grey background, soft studio lighting, full-body front view.",
+          "prompt_zh": "一个 2 头身的小女孩潮玩，最突出的是整个身体和头部的轮廓都是像素阶梯状的边缘，表面能看到一颗颗圆柱形的拼豆颗粒，其中一颗颜色故意不对、微微歪着。两颗方形豆子做眼睛，一条横线的嘴，两颗粉色豆子做腮红，手里捏着一颗豆子。低饱和的多彩配色，颗粒感哑光表面。纯浅灰背景，柔和棚拍光，正面全身构图。",
+          "size": "1024x1024",
+          "status": "pending",
+          "output": "images/2026w42b-6/base-01.png",
+          "created": "2026-10-18",
+          "note": ""
+        }
+      }
+    ],
+    "prompt_revision": 2
+  },
+  {
+    "id": "2026w42-5-base-01",
+    "ip": "2026w42-5",
+    "name": "静静",
+    "kind": "base",
+    "size": "1024x1024",
+    "created": "2026-10-19",
+    "history": [],
+    "prompt_en": "Original attention-protection character JINGJING, two-head proportions, a little humanoid gently closing into its own cocoon. The identity is a self-enclosing sculptural silhouette, with no lamp on the head. Two thick cushion-like midnight-blue shell panels wrap from the back of the head around the seated body. Their rounded edges curl inward without fully closing, making a broad upper mass that tapers downward. Head slightly bowed, knees hugged inside the shell, arms concealed, only two oversized broad rounded shoe tips protruding at the base with clear ground contact. A wide cream matte-vinyl face has three simple flat short fringe segments and two low-set straight closed-eye lines, one a little lower. A thick soft collar covers the mouth area; leave the forehead and cheeks empty, with no nose, smile or blush. One tiny warm-yellow closure tab sits in the central chest seam, signaling paused connection, not emitting light. Midnight-blue velvet shell, darker blue soft-vinyl shoes and a clean face; yellow is a single tiny accent. Entire figure in front three-quarter product view, light-gray background, even neutral soft light. No lamps, electronics, bedside scenery, text, extra decorations, astronaut helmet or mechanical armor.",
+    "prompt_zh": "原创注意力保护角色静静，2头身，像把自己温柔合拢的小人形茧，核心是自我包裹的雕塑轮廓，不要头顶灯泡。两片厚软垫状的夜蓝色外壳从后脑包到身体，左右边缘向内合拢但不完全闭死，形成上宽下收的圆角轮廓；头略垂，抱膝坐，双臂藏在软壳里，只有两只夸张的宽圆鞋头从底部伸出，身体有明确落地接触。脸是横宽的奶油白哑光软胶面，三块平面短刘海，五官集中在下半部：两条平直闭眼，一侧稍低；厚软领盖住嘴部，额头与脸颊留白，无鼻、笑脸或腮红。一小段暖黄色封口拉片夹在胸前壳缝，表示暂停连接，不发光。夜蓝丝绒外壳、深蓝软胶鞋、干净脸面，颜色仅在封口处一点暖黄。完整三分之四前视产品概念图，浅灰背景、均匀中性柔光。无电器、灯、床头场景、文字或附加装饰，避免宇航员头盔和机械铠甲。",
+    "prompt_revision": 2,
+    "status": "awaiting_upload",
+    "output": "images/2026w42-5/base-02.webp",
+    "note": "修订图在对话中生成，等待用户上传；旧版信息已保留在 history。"
   }
 ]

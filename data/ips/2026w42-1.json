@@ -9,10 +9,10 @@
     "where": "小红书、抖音评论区、微博",
     "who": "18 到 30 岁，学生和职场新人"
   },
-  "collide": "最接近长草颜团子（头上长东西）和 WAKUKU 的情绪挂件。区别在于可以被捏的互动材质，以及发泄而不是治愈的方向。",
+  "collide": "修订版需对照实际图检查整体相似性，重点比较轮廓、五官比例和识别组合；通用元素本身不作撞车结论。",
   "egg": "吊牌写\"今日已崩 1 次\"；隐藏款火气团是蓝色，写着\"已冷静\"。",
   "en": "BENGBENG",
-  "enp": "A designer toy plush charm of a small chubby child, 1.5-head proportion. On top of its head sits a prominent tomato-red flame-shaped squishy blob, the main focal point, with slow-rebound silicone texture. Round face, angry slanted brows, small black bead eyes, puffed cheeks, fists clenched, one foot stamping. Cream-white short-pile plush body, no extra accessories. Vinyl face with plush body, keychain loop on top. Matte, slightly fuzzy texture, light grey background, soft studio lighting, full-body front view.",
+  "enp": "Original vinyl-and-plush character BENG BENG, a compact emotion sculpture with 1.5-head proportions. A wide rounded-trapezoid head has a slightly flattened crown, a very short chin and compressed cushion-like cheek planes, never a round baby face. A thick tomato-red three-lobed squishy flame grows from a broad base inset into the crown; all lobes lean together, the main lobe slightly buckled. It is a solid squeeze element, not real fire. Short heavy downward brows, narrow crescent eyes and tiny inward-looking black pupils create a compressed horizontal expression; an off-center short bent line is the mouth. No baby nose, eyelashes or airbrushed cheek blush. An extremely short cream plush torso sits below the oversized head. Large mitten fists rest at its sides and one tiny foot lifts slightly: a frozen exasperated pause, not an attacking pose. Matte vinyl faceplate, restrained short-pile plush body, soft slow-rebound silicone concept flame and a tiny metal hanging loop. Full-body front three-quarter product concept, soft neutral light, plain light-gray background and margin. No clothing, realistic skin, fur microphotography, flame lighting, text or logos.",
   "expr": "崩一下也没关系，捏完我就好了",
   "fore": "用到：能量补给者（A，12 到 24 个月）。升级建议：身体加圈圈绒（Awaken 主题），和光滑的捏捏火气团形成触感反差",
   "insight": {
@@ -35,19 +35,31 @@
     ],
     [
       "外壳",
-      "类人小孩 · 1.5 头身团子 · 招牌姿势：攥拳跺脚 · 叠音命名"
+      "横宽圆角梯形头，平顶短下巴；两侧脸颊像被压紧的软垫。极短躯干藏在头下，大块拳套手与小脚形成收放。"
     ],
     [
       "头部",
-      "圆头 [公共] · 头顶一团火苗形软胶火气团 [反常] · 倒竖八字眉 [公共] · 豆豆眼 [公共] · 鼓腮 [公共]"
+      "短粗下压眉与扁窄半月眼连成紧绷的横向表情；瞳点偏内，嘴是偏向一侧的短折线；不画婴儿鼻和渐变腮红。"
     ],
     [
       "视觉",
-      "奶白身体 + 番茄红火气团（签名色）· 极简 · 身体短绒，火气团是慢回弹的硅胶捏捏"
+      "脸罩哑光搪胶；身体奶白短绒；头顶番茄红三瓣火气团为柔软慢回弹概念件，底部嵌入头顶。"
     ],
     [
       "商业",
       "搪胶毛绒挂件，火气团可捏 · 69 至 89 元 · 隐藏款是蓝色冷静火 · 节点：期末周、年终述职季"
+    ],
+    [
+      "造型依据",
+      "情绪雕塑 × 可捏搪胶毛绒；压扁的横向怒脸、拳套小手与三瓣软火焰共同识别，移除挂扣仍成立。"
+    ],
+    [
+      "结构与工艺",
+      "脸罩哑光搪胶；身体奶白短绒；头顶番茄红三瓣火气团为柔软慢回弹概念件，底部嵌入头顶。"
+    ],
+    [
+      "本次迭代",
+      "把通用生气宝宝改成低重心的方圆团子；火气团与头部轮廓融合，五官不再靠婴儿感和鼓腮解释愤怒。"
     ]
   ],
   "links": [
@@ -64,40 +76,157 @@
       "url": "https://www.wgsn.com/en/blogs/consumer-profiles-will-shape-market-2027"
     }
   ],
-  "mark": "头顶的火气团。情绪被做成看得见的东西，捏它就是帮它消气，直接指向表达。",
+  "mark": "压扁的横向怒脸、拳套小手与三瓣软火焰共同识别，移除挂扣仍成立。",
   "name": "崩崩",
-  "odd": "1 处：火气团。单个、轮廓清楚、从头顶往外长，读成装饰，不会像异常。",
+  "odd": "造型焦点：情绪雕塑 × 可捏搪胶毛绒。不按反常标签数量判定质量，实际轮廓与表情仍待验证。",
   "order": 1,
   "origin": "Crashout 情绪失控 + 捏捏解压",
-  "risk": "发泄情绪可能被看成负面；捏捏和毛绒两种材质结合，会增加工艺成本。",
+  "risk": "火气团的慢回弹与搪胶头连接待打样；是否能读成自嘲而非暴怒待用户看图判断。",
   "tests": [
     [
-      "闭眼",
-      "通过",
-      "记住的是头顶的火"
+      "记忆点",
+      "待验证",
+      "需看修订图是否同时读到：压扁的横向怒脸、拳套小手与三瓣软火焰共同识别，移除挂扣仍成立。"
     ],
     [
       "剪影",
-      "通过",
-      "火苗轮廓清楚"
+      "待验证",
+      "需制作纯黑轮廓，检查大体块与连接是否仍清楚。"
     ],
     [
-      "简笔画",
-      "通过",
-      "一个圆加一团火"
+      "简化",
+      "待验证",
+      "需做低细节线稿，检查：短粗下压眉与扁窄半月眼连成紧绷的横向表情；瞳点偏内，嘴是偏向一侧的短折线；不画婴儿鼻和渐变腮红。"
     ],
     [
       "缩小",
-      "通过",
-      "火气团在挂件尺寸也明显"
+      "待验证",
+      "需查看手机缩图；小配件与面部工艺仍待实物打样。"
     ],
     [
       "换皮",
-      "通过",
-      "换衣服后火气团还在"
+      "待验证",
+      "需另做换材质或去可拆道具版本；保留角色主体与关键功能结构。"
     ]
   ],
   "timing": "站在主流对面：从被治愈，到允许发泄",
   "type": "允许型",
-  "zh": "一只 1.5 头身的团子小孩潮玩，头顶长着一团番茄红色、火苗形状的软胶\"火气团\"，火气团是主角、体积明显、表面有慢回弹的硅胶质感。圆脸，倒竖的八字眉，黑色豆豆眼，两颊气鼓鼓地鼓起来，双手攥拳、一只脚在跺地。奶白色短绒身体，无多余装饰。搪胶毛绒挂件形态，顶部有挂扣。哑光、微绒质感，浅灰背景，柔和棚拍光，正面全身构图。"
+  "zh": "原创搪胶毛绒角色崩崩，情绪雕塑式造型，1.5头身。头是横宽的圆角梯形，顶部略平，下巴很短，两侧脸颊像被压紧的软垫，不是圆脸宝宝。头顶三瓣番茄红软火焰向同一侧弯，宽底嵌入头顶，中间主瓣略塌，形成可捏的厚实体轮廓，不是真实火焰。短粗的下压眉、扁窄半月眼、小黑瞳构成紧绷横向表情，嘴为偏侧短折线；没有婴儿鼻、睫毛或渐变腮红。躯干极短，奶白短绒身体，拳套形大手垂在身体两侧，一只小脚微抬，姿态像气到停顿而非攻击。脸罩哑光搪胶，火气团柔软慢回弹硅胶概念件，仅小型金属挂环。全身正面略偏三分之四，中性柔光，浅灰背景，留白完整。无文字和品牌；不添加衣服、写实皮肤、绒毛微距或火光特效。",
+  "revision_history": [
+    {
+      "revision": 1,
+      "archived_at": "2026-10-19",
+      "snapshot": {
+        "batch": "2026w42",
+        "circle": {
+          "breakout": "短视频捏爆挑战，路人不需要背景也看得懂",
+          "buy": "捏捏、解压玩具、减压文具",
+          "name": "发疯文学圈 + 打工人",
+          "share": "捏火气团的短视频，配\"今日已崩\"",
+          "signs": "发疯、破防、崩了、精神状态良好",
+          "where": "小红书、抖音评论区、微博",
+          "who": "18 到 30 岁，学生和职场新人"
+        },
+        "collide": "最接近长草颜团子（头上长东西）和 WAKUKU 的情绪挂件。区别在于可以被捏的互动材质，以及发泄而不是治愈的方向。",
+        "egg": "吊牌写\"今日已崩 1 次\"；隐藏款火气团是蓝色，写着\"已冷静\"。",
+        "en": "BENGBENG",
+        "enp": "A designer toy plush charm of a small chubby child, 1.5-head proportion. On top of its head sits a prominent tomato-red flame-shaped squishy blob, the main focal point, with slow-rebound silicone texture. Round face, angry slanted brows, small black bead eyes, puffed cheeks, fists clenched, one foot stamping. Cream-white short-pile plush body, no extra accessories. Vinyl face with plush body, keychain loop on top. Matte, slightly fuzzy texture, light grey background, soft studio lighting, full-body front view.",
+        "expr": "崩一下也没关系，捏完我就好了",
+        "fore": "用到：能量补给者（A，12 到 24 个月）。升级建议：身体加圈圈绒（Awaken 主题），和光滑的捏捏火气团形成触感反差",
+        "insight": {
+          "act": "捏硅胶捏捏解压；在评论区用\"发疯文学\"表达崩溃",
+          "conflict": "想发脾气，又不能对人发",
+          "depth": "深层：落在\"想发泄\"和\"不能伤人\"的矛盾上",
+          "scene": "工位、宿舍，情绪突然上头的时候",
+          "source": "2026 生活趋势报告（捏捏）；德国青年年度词候选 Crashout；WGSN 2027 能量补给者画像",
+          "state": "不是想被安慰，而是想把火气安全地放掉",
+          "unsaid": "我不想冷静，我只想有个东西让我捏爆"
+        },
+        "layers": [
+          [
+            "内核",
+            "一点就炸、消气很快 · 单人，可以出一个冷静搭子"
+          ],
+          [
+            "内容",
+            "出身短视频小剧场 · 主载体短视频直播 · 次载体实物潮玩 · 经典动作：头顶冒火，被捏一下就瘪下去叹气"
+          ],
+          [
+            "外壳",
+            "类人小孩 · 1.5 头身团子 · 招牌姿势：攥拳跺脚 · 叠音命名"
+          ],
+          [
+            "头部",
+            "圆头 [公共] · 头顶一团火苗形软胶火气团 [反常] · 倒竖八字眉 [公共] · 豆豆眼 [公共] · 鼓腮 [公共]"
+          ],
+          [
+            "视觉",
+            "奶白身体 + 番茄红火气团（签名色）· 极简 · 身体短绒，火气团是慢回弹的硅胶捏捏"
+          ],
+          [
+            "商业",
+            "搪胶毛绒挂件，火气团可捏 · 69 至 89 元 · 隐藏款是蓝色冷静火 · 节点：期末周、年终述职季"
+          ]
+        ],
+        "links": [
+          {
+            "t": "2026 生活趋势报告（腾讯新闻）",
+            "url": "https://news.qq.com/rain/a/20260815A07UKZ00"
+          },
+          {
+            "t": "德国青年年度词候选（Euronews）",
+            "url": "https://arabic.euronews.com/2026/10/10/crashout-ragebait-or-peak-this-is-the-youth-word-of-the-year-2026"
+          },
+          {
+            "t": "2027 消费者画像（WGSN）",
+            "url": "https://www.wgsn.com/en/blogs/consumer-profiles-will-shape-market-2027"
+          }
+        ],
+        "mark": "头顶的火气团。情绪被做成看得见的东西，捏它就是帮它消气，直接指向表达。",
+        "name": "崩崩",
+        "odd": "1 处：火气团。单个、轮廓清楚、从头顶往外长，读成装饰，不会像异常。",
+        "order": 1,
+        "origin": "Crashout 情绪失控 + 捏捏解压",
+        "risk": "发泄情绪可能被看成负面；捏捏和毛绒两种材质结合，会增加工艺成本。",
+        "tests": [
+          [
+            "闭眼",
+            "通过",
+            "记住的是头顶的火"
+          ],
+          [
+            "剪影",
+            "通过",
+            "火苗轮廓清楚"
+          ],
+          [
+            "简笔画",
+            "通过",
+            "一个圆加一团火"
+          ],
+          [
+            "缩小",
+            "通过",
+            "火气团在挂件尺寸也明显"
+          ],
+          [
+            "换皮",
+            "通过",
+            "换衣服后火气团还在"
+          ]
+        ],
+        "timing": "站在主流对面：从被治愈，到允许发泄",
+        "type": "允许型",
+        "zh": "一只 1.5 头身的团子小孩潮玩，头顶长着一团番茄红色、火苗形状的软胶\"火气团\"，火气团是主角、体积明显、表面有慢回弹的硅胶质感。圆脸，倒竖的八字眉，黑色豆豆眼，两颊气鼓鼓地鼓起来，双手攥拳、一只脚在跺地。奶白色短绒身体，无多余装饰。搪胶毛绒挂件形态，顶部有挂扣。哑光、微绒质感，浅灰背景，柔和棚拍光，正面全身构图。"
+      }
+    }
+  ],
+  "prompt_revision": 2,
+  "revision": {
+    "number": 2,
+    "date": "2026-10-19",
+    "summary": "把通用生气宝宝改成低重心的方圆团子；火气团与头部轮廓融合，五官不再靠婴儿感和鼓腮解释愤怒。",
+    "delivery": "conversation",
+    "skill": "lab-v1.6/studio-v1.2"
+  }
 }

@@ -9,10 +9,10 @@
     "where": "小红书旅行和户外话题",
     "who": "20 到 30 岁，爱出门的人"
   },
-  "collide": "最接近三丽鸥日晒主题展里的黑皮 Kitty。区别在于晒痕是常驻记忆点，表达是自我定义，而不是季节限定皮肤。",
+  "collide": "修订版需对照实际图检查整体相似性，重点比较轮廓、五官比例和识别组合；通用元素本身不作撞车结论。纯黑剪影可能仍是常见猫形，晒痕是图形识别重点。",
   "egg": "晒痕形状做成系列：泳镜痕、帽檐痕、手表痕，打工人限定是工牌带子痕。",
   "en": "SAISAI",
-  "enp": "A designer toy of a small standing cat, 2-head proportion, with caramel tan short fur. The focal point is a crisp white sunglasses-shaped tan line across its face with strong contrast. Sunglasses with sea-teal lenses pushed up on top of its head, cat ears, small triangle cat mouth, relaxed confident expression, hands on hips. Short plush texture. Bright beach sunlight, pale sand background, full-body front view.",
+  "enp": "Original graphic tan-line cat SHAISHAI, a two-head-proportion vinyl-and-plush character. Its head is a broad rounded hexagon with wide cheek planes and a short jaw; two low triangular ears splay outward. A narrow-shouldered pear torso ends in wide flattened feet, with a small hook-shaped tail. A single connected white sunglasses-shaped tan-line mask crosses the caramel face, joined across the nose bridge. Treat it as crisp flat pad printing, not white eye rings and not actual glasses. Low-set elongated eyes tilt slightly upward under compressed lids, with flat charcoal pupils and no iris or glass eyeballs. A small angular cat mouth sits off-center, relaxed and self-assured. No whiskers, realistic muzzle, modeled animal nose or blush. Thick rounded sea-teal sunglasses rest on the crown, hands tucked at the hips, weight shifted toward one foot. Matte vinyl face and caramel short velvet body, clean color blocks with restrained seams. Entire figure, slight front three-quarter view, warm light-gray background and neutral soft studio light. No beach scene, clothes, text or realistic animal fur.",
   "expr": "我晒成我喜欢的样子",
   "fore": "现在用的海王绿属于\"现在\"。升级建议：墨镜镜片换成 Luminous Blue（A，2027）；毛色可以用 Russet 红棕（A，2027/28 秋冬）做秋冬款",
   "insight": {
@@ -35,19 +35,31 @@
     ],
     [
       "外壳",
-      "动物类人，猫 · 2 头身 · 招牌姿势：墨镜推到头顶，叉腰 · 叠音命名"
+      "2头身，横宽六边形圆角猫头，耳短而外撇；窄肩梨形身体，大而扁的脚，细尾弯成短钩。"
     ],
     [
       "头部",
-      "脸上墨镜形状的白色晒痕 [专属] · 小麦焦糖色毛 [反常] · 猫耳 [公共] · 小三角猫嘴 [公共] · 头顶墨镜 [公共]"
+      "白色墨镜晒痕为连通的平面眼罩色区；低位扁长眼向上挑一点，炭黑平瞳，无真实虹膜；短折角猫嘴略偏。"
     ],
     [
       "视觉",
-      "小麦焦糖色 + 白色晒痕 + 海王绿墨镜 · 极简 · 短绒"
+      "焦糖色短丝绒身与哑光搪胶脸；白晒痕移印边缘清晰；海王绿墨镜为厚圆钝树脂件。"
     ],
     [
       "商业",
       "搪胶毛绒挂件 · 约 89 元 · 稀缺：不同晒痕形状的海岛限定 · 节点：2027 年夏季，现在设计、明年 5 月上市"
+    ],
+    [
+      "造型依据",
+      "图形猫 × 平面晒痕色块；外撇耳、横宽脸、白眼罩晒痕和松弛偏嘴；墨镜摘掉仍有身份。"
+    ],
+    [
+      "结构与工艺",
+      "焦糖色短丝绒身与哑光搪胶脸；白晒痕移印边缘清晰；海王绿墨镜为厚圆钝树脂件。"
+    ],
+    [
+      "本次迭代",
+      "去掉写实猫毛、虹膜和胡须；用横宽脸、外撇短耳和一整块晒痕建立平面图形感。"
     ]
   ],
   "links": [
@@ -64,40 +76,157 @@
       "url": "https://www.nbd.com.cn/articles/2026-03-14/4292384.html"
     }
   ],
-  "mark": "脸上的白色眼镜晒痕。它是一个新的专属元素，也是表达本身：晒成什么样我说了算。",
+  "mark": "外撇耳、横宽脸、白眼罩晒痕和松弛偏嘴；墨镜摘掉仍有身份。",
   "name": "晒晒",
-  "odd": "1 处：小麦色毛。晒痕本身是专属元素，不算反常。",
+  "odd": "造型焦点：图形猫 × 平面晒痕色块。不按反常标签数量判定质量，实际轮廓与表情仍待验证。",
   "order": 4,
   "origin": "猫消费增速超过狗 + 晒黑成为主角 + 我可以这样活",
-  "risk": "季节性强；剪影普通，识别靠颜色，做成单色周边时会弱。",
+  "risk": "晒痕形状的图形识别强于纯黑剪影；搪胶与短绒的焦糖色差待打样。",
   "tests": [
     [
-      "闭眼",
-      "通过",
-      "记住的是白色眼镜晒痕"
+      "记忆点",
+      "待验证",
+      "需看修订图是否同时读到：外撇耳、横宽脸、白眼罩晒痕和松弛偏嘴；墨镜摘掉仍有身份。"
     ],
     [
       "剪影",
-      "存疑",
-      "猫的轮廓普通，识别主要靠颜色"
+      "待验证",
+      "需制作纯黑轮廓，检查大体块与连接是否仍清楚。"
     ],
     [
-      "简笔画",
-      "通过",
-      "猫脸加一圈眼镜形空白"
+      "简化",
+      "待验证",
+      "需做低细节线稿，检查：白色墨镜晒痕为连通的平面眼罩色区；低位扁长眼向上挑一点，炭黑平瞳，无真实虹膜；短折角猫嘴略偏。"
     ],
     [
       "缩小",
-      "通过",
-      "晒痕的对比度高"
+      "待验证",
+      "需查看手机缩图；小配件与面部工艺仍待实物打样。"
     ],
     [
       "换皮",
-      "通过",
-      "晒痕保留"
+      "待验证",
+      "需另做换材质或去可拆道具版本；保留角色主体与关键功能结构。"
     ]
   ],
   "timing": "站在主流对面：从白净乖巧，到自己定义的漂亮",
   "type": "允许型",
-  "zh": "一只 2 头身、直立的小猫潮玩，小麦焦糖色短毛，脸上最突出的是一圈墨镜形状的白色晒痕，晒痕边缘清楚、对比强烈。墨镜推在头顶，镜片是海王绿色，猫耳，小三角猫嘴，表情松弛自信，双手叉腰。短绒质感。明亮海边阳光，浅沙色背景，正面全身构图。"
+  "zh": "原创晒痕猫晒晒，2头身的图形化搪胶毛绒。头是横宽的圆角六边形，脸颊宽、下颌短，两个低矮三角耳向外撇；窄肩梨形小身体配两只宽扁脚，一条短钩形尾巴。焦糖色的脸上有一整块连通的白色墨镜形晒痕，鼻梁处相连，平面移印、边界清楚，不能画成白眼圈或真的眼镜。两只低位横长眼稍挑起，眼皮轻压，瞳孔是平面炭黑色，没有虹膜和镜面眼球；小折角猫嘴偏向一侧，松弛自信。无胡须、写实鼻口和腮红。海王绿色厚圆框墨镜推在头顶，双手插在胯侧，重心稍偏一脚。哑光搪胶脸与焦糖短丝绒身体，平整色块、少量接缝；全身正面略侧、浅暖灰背景、中性棚光。无海滩布景、文字、额外服饰、拟真动物毛流。",
+  "revision_history": [
+    {
+      "revision": 1,
+      "archived_at": "2026-10-19",
+      "snapshot": {
+        "batch": "2026w42",
+        "circle": {
+          "breakout": "晒痕形状系列，打工人版是工牌带子痕",
+          "buy": "旅行纪念品、猫周边",
+          "name": "旅行户外党 + 猫派",
+          "share": "把玩偶放进旅行照里",
+          "signs": "晒痕、黑皮、出片",
+          "where": "小红书旅行和户外话题",
+          "who": "20 到 30 岁，爱出门的人"
+        },
+        "collide": "最接近三丽鸥日晒主题展里的黑皮 Kitty。区别在于晒痕是常驻记忆点，表达是自我定义，而不是季节限定皮肤。",
+        "egg": "晒痕形状做成系列：泳镜痕、帽檐痕、手表痕，打工人限定是工牌带子痕。",
+        "en": "SAISAI",
+        "enp": "A designer toy of a small standing cat, 2-head proportion, with caramel tan short fur. The focal point is a crisp white sunglasses-shaped tan line across its face with strong contrast. Sunglasses with sea-teal lenses pushed up on top of its head, cat ears, small triangle cat mouth, relaxed confident expression, hands on hips. Short plush texture. Bright beach sunlight, pale sand background, full-body front view.",
+        "expr": "我晒成我喜欢的样子",
+        "fore": "现在用的海王绿属于\"现在\"。升级建议：墨镜镜片换成 Luminous Blue（A，2027）；毛色可以用 Russet 红棕（A，2027/28 秋冬）做秋冬款",
+        "insight": {
+          "act": "日晒海岛主题展里黑皮 Kitty 成为主角；晒黑雪王盲盒热销",
+          "conflict": "想被夸好看，又不想按别人的标准好看",
+          "depth": "中层偏深：矛盾成立，但圈层不够具体",
+          "scene": "夏天出游回来",
+          "source": "2026 生活趋势报告；三文娱 2026 上半年潮玩榜单",
+          "state": "想用不标准的美宣告自己",
+          "unsaid": "我晒黑了，但我觉得我现在最好看"
+        },
+        "layers": [
+          [
+            "内核",
+            "松弛、自信、爱出门 · 单人"
+          ],
+          [
+            "内容",
+            "出身品牌原创 · 主载体视觉海报 · 次载体实物潮玩 · 经典动作：摘下墨镜，露出白色晒痕"
+          ],
+          [
+            "外壳",
+            "动物类人，猫 · 2 头身 · 招牌姿势：墨镜推到头顶，叉腰 · 叠音命名"
+          ],
+          [
+            "头部",
+            "脸上墨镜形状的白色晒痕 [专属] · 小麦焦糖色毛 [反常] · 猫耳 [公共] · 小三角猫嘴 [公共] · 头顶墨镜 [公共]"
+          ],
+          [
+            "视觉",
+            "小麦焦糖色 + 白色晒痕 + 海王绿墨镜 · 极简 · 短绒"
+          ],
+          [
+            "商业",
+            "搪胶毛绒挂件 · 约 89 元 · 稀缺：不同晒痕形状的海岛限定 · 节点：2027 年夏季，现在设计、明年 5 月上市"
+          ]
+        ],
+        "links": [
+          {
+            "t": "2026 生活趋势报告（腾讯新闻）",
+            "url": "https://news.qq.com/rain/a/20260815A07UKZ00"
+          },
+          {
+            "t": "2026 上半年潮玩市场（36氪）",
+            "url": "https://www.36kr.com/p/3875690969640969"
+          },
+          {
+            "t": "情绪消费洞察报告（每日经济新闻）",
+            "url": "https://www.nbd.com.cn/articles/2026-03-14/4292384.html"
+          }
+        ],
+        "mark": "脸上的白色眼镜晒痕。它是一个新的专属元素，也是表达本身：晒成什么样我说了算。",
+        "name": "晒晒",
+        "odd": "1 处：小麦色毛。晒痕本身是专属元素，不算反常。",
+        "order": 4,
+        "origin": "猫消费增速超过狗 + 晒黑成为主角 + 我可以这样活",
+        "risk": "季节性强；剪影普通，识别靠颜色，做成单色周边时会弱。",
+        "tests": [
+          [
+            "闭眼",
+            "通过",
+            "记住的是白色眼镜晒痕"
+          ],
+          [
+            "剪影",
+            "存疑",
+            "猫的轮廓普通，识别主要靠颜色"
+          ],
+          [
+            "简笔画",
+            "通过",
+            "猫脸加一圈眼镜形空白"
+          ],
+          [
+            "缩小",
+            "通过",
+            "晒痕的对比度高"
+          ],
+          [
+            "换皮",
+            "通过",
+            "晒痕保留"
+          ]
+        ],
+        "timing": "站在主流对面：从白净乖巧，到自己定义的漂亮",
+        "type": "允许型",
+        "zh": "一只 2 头身、直立的小猫潮玩，小麦焦糖色短毛，脸上最突出的是一圈墨镜形状的白色晒痕，晒痕边缘清楚、对比强烈。墨镜推在头顶，镜片是海王绿色，猫耳，小三角猫嘴，表情松弛自信，双手叉腰。短绒质感。明亮海边阳光，浅沙色背景，正面全身构图。"
+      }
+    }
+  ],
+  "prompt_revision": 2,
+  "revision": {
+    "number": 2,
+    "date": "2026-10-19",
+    "summary": "去掉写实猫毛、虹膜和胡须；用横宽脸、外撇短耳和一整块晒痕建立平面图形感。",
+    "delivery": "conversation",
+    "skill": "lab-v1.6/studio-v1.2"
+  }
 }

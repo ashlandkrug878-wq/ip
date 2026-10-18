@@ -9,10 +9,10 @@
     "where": "小红书情绪话题、深夜的社交平台评论区",
     "who": "18 到 28 岁，独居或住宿舍"
   },
-  "collide": "耳朵类记忆点有大耳狗、史迪奇、玲娜贝儿，但都是对称的大耳朵；嗯嗯是不对称、而且是物件，拉得开。",
+  "collide": "修订版需对照实际图检查整体相似性，重点比较轮廓、五官比例和识别组合；通用元素本身不作撞车结论。",
   "egg": "吊牌写\"嗯嗯，我在\"；隐藏款的听筒线是卷曲的电话线，绕成一颗心。",
   "en": "ENEN",
-  "enp": "A designer toy of a small puppy, 1.5-head proportion, cream-white short plush. The focal point is its left ear: a glossy luminous cobalt-blue vintage telephone receiver, while the right ear is a normal soft floppy ear, asymmetric. The puppy tilts its head, pointing the receiver ear forward, small black bead eyes, tiny dot nose, mouth slightly open as if saying 'mm-hm'. Minimal, no extra clothing. Vinyl-face plush charm format. Plain light grey background, soft studio lighting, three-quarter full-body view.",
+  "enp": "Original listening puppy ENEN, a 1.5-head-proportion vinyl-and-plush character. A wide forehead and straight cheek sides extend into an elongated rounded jaw, never a standard round baby face. Two very small short vertical oval eyes sit at slightly different heights near the middle of the face. A tiny horizontal oval nose is slightly broad; a short vertical mouth slit sits off the nose centerline, as if replying a beat late. No large glassy eyes, smile, blush or realistic dog muzzle. The right ear is broad flat cream plush; the left ear is a slim luminous cobalt-blue vintage telephone receiver hanging naturally down the side of the face. Its blunt rounded ends widen slightly around a narrow curved middle, each end carrying only three shallow dimples. Do not make a headset. The head tilts slightly toward the receiver, shoulders drawn in, a small bean torso with flat broad little feet and relaxed short arms. Cream matte-vinyl face, fine short velvet body and right ear, cobalt soft-vinyl receiver, clean material boundaries. Whole figure in front three-quarter view, light-gray background, neutral soft light; shape before fur detail. No clothing, extra props, text, realistic dog fur or glass-bead eyes.",
   "expr": "我说不出好听的话，但我一直在听",
   "fore": "用到：Luminous Blue（A，12 到 24 个月）做听筒耳朵的签名色，2027 的主题恰好是连接；能量补给者对 AI 的怀疑（A）支持\"不完美回应\"的角度",
   "insight": {
@@ -31,19 +31,31 @@
     ],
     [
       "外壳",
-      "动物类人，小狗 · 1.5 头身 · 招牌姿势：歪着头，用听筒耳朵对着你 · 叠音命名"
+      "1.5头身，宽额头到长圆下颌，侧边宽垂耳，头向听筒侧微倾；小豆身体和宽扁脚。"
     ],
     [
       "头部",
-      "一只耳朵是正常的垂耳 [公共]，另一只是复古电话听筒 [反常] · 豆豆眼 [公共] · 小圆点鼻 [公共] · 微微张开的小嘴 [公共]"
+      "两只小短竖椭圆眼一高一低，小横椭圆鼻，嘴为偏位短竖缝；没有大眼珠、甜笑和腮红。"
     ],
     [
       "视觉",
-      "奶油白 + Luminous Blue 听筒（签名色）· 极简 · 短绒加亮面搪胶听筒"
+      "奶油白搪胶脸与短丝绒身；一只耳朵为钴蓝细听筒软胶，端部圆钝，只有三枚凹点。"
     ],
     [
       "商业",
       "搪胶毛绒挂件和床头公仔 · 69 至 129 元 · 节点：考试周、深夜、年末"
+    ],
+    [
+      "造型依据",
+      "倾听型小狗 × 不对称雕塑；不对称低垂耳、长下颌、偏位小竖嘴与倾听动作共同识别。"
+    ],
+    [
+      "结构与工艺",
+      "奶油白搪胶脸与短丝绒身；一只耳朵为钴蓝细听筒软胶，端部圆钝，只有三枚凹点。"
+    ],
+    [
+      "本次迭代",
+      "听筒缩为能读成耳朵的细长结构；用长脸下颌、横鼻与略不对称眼位建立笨拙倾听感。"
     ]
   ],
   "links": [
@@ -60,40 +72,153 @@
       "url": "https://www.wgsn.com/en/blogs/colour-year-2027-luminous-blue"
     }
   ],
-  "mark": "一只耳朵是复古电话听筒。它永远在听，所以耳朵变成了接听的样子。",
+  "mark": "不对称低垂耳、长下颌、偏位小竖嘴与倾听动作共同识别。",
   "name": "嗯嗯",
-  "odd": "1 处：听筒耳朵。单个、轮廓清楚，从头部往外长，读成装饰。",
+  "odd": "造型焦点：倾听型小狗 × 不对称雕塑。不按反常标签数量判定质量，实际轮廓与表情仍待验证。",
   "order": 2,
   "origin": "向 AI 要陪伴 + 能量补给者对 AI 的怀疑",
-  "risk": "情绪向陪伴赛道拥挤；如果表达只停在\"陪你\"，会和很多治愈系撞车，要守住\"笨拙但真实\"的反差。",
+  "risk": "听筒重量可能让头部偏坠；本体的辨识与耳朵结构需实际图检查。",
   "tests": [
     [
-      "闭眼",
-      "通过",
-      "听筒耳朵"
+      "记忆点",
+      "待验证",
+      "需看修订图是否同时读到：不对称低垂耳、长下颌、偏位小竖嘴与倾听动作共同识别。"
     ],
     [
       "剪影",
-      "存疑",
-      "听筒在剪影里可能像普通的翘耳"
+      "待验证",
+      "需制作纯黑轮廓，检查大体块与连接是否仍清楚。"
     ],
     [
-      "简笔画",
-      "通过",
-      ""
+      "简化",
+      "待验证",
+      "需做低细节线稿，检查：两只小短竖椭圆眼一高一低，小横椭圆鼻，嘴为偏位短竖缝；没有大眼珠、甜笑和腮红。"
     ],
     [
       "缩小",
-      "通过",
-      "蓝色听筒对比强"
+      "待验证",
+      "需查看手机缩图；小配件与面部工艺仍待实物打样。"
     ],
     [
       "换皮",
-      "通过",
-      ""
+      "待验证",
+      "需另做换材质或去可拆道具版本；保留角色主体与关键功能结构。"
     ]
   ],
   "timing": "站在主流对面：不是完美的安慰，而是笨拙但真实的在场",
   "type": "反差型",
-  "zh": "一只 1.5 头身的小狗潮玩，奶油白短绒，最突出的是左边的耳朵：它是一只亮面的明亮钴蓝色复古电话听筒，右边是普通的软软垂耳，不对称。小狗歪着头，把听筒耳朵对着前方，黑色豆豆眼，小圆点鼻子，小嘴微微张开像在说\"嗯\"。极简，无多余服装。搪胶毛绒挂件形态。纯浅灰背景，柔和棚拍光，四分之三侧全身构图。"
+  "zh": "原创倾听小狗嗯嗯，1.5头身搪胶毛绒。头部宽额、脸颊平直，下颌往下拉成长圆弧，不是标准圆宝宝；两只很小的短竖椭圆眼一高一低，靠近面部中段，横椭圆小鼻略宽，嘴为偏离鼻子中线的一条短竖缝，像慢半拍地应一声。没有大眼珠、笑脸、腮红和写实狗口鼻。右耳是宽扁奶油白垂耳；左耳是一只沿脸侧自然下垂的细长明亮钴蓝复古电话听筒，两端圆钝略宽、中段窄弯，端部各三枚浅凹点，不能变成头戴式耳机。头朝听筒侧微倾，肩膀稍缩，小豆形身体，宽扁小脚，短手垂着。奶油白哑光搪胶脸、细短丝绒身体与右耳，钴蓝软胶听筒，边界干净。全身前侧三分之四，浅灰背景，中性柔光，造型先于毛发纹理。无服饰、额外配件、文字、动物写实毛流或玻璃珠眼。",
+  "revision_history": [
+    {
+      "revision": 1,
+      "archived_at": "2026-10-19",
+      "snapshot": {
+        "batch": "2026w42b",
+        "circle": {
+          "breakout": "\"嗯嗯\"本身就是所有人都在用的回复，表情包可以直接破圈",
+          "buy": "睡眠用品、AI 陪伴应用会员、陪伴型毛绒",
+          "name": "深夜倾诉党、社恐",
+          "share": "床头合影，配\"今晚只说给它听\"",
+          "signs": "嗯嗯、在吗、没事、我就说说",
+          "where": "小红书情绪话题、深夜的社交平台评论区",
+          "who": "18 到 28 岁，独居或住宿舍"
+        },
+        "collide": "耳朵类记忆点有大耳狗、史迪奇、玲娜贝儿，但都是对称的大耳朵；嗯嗯是不对称、而且是物件，拉得开。",
+        "egg": "吊牌写\"嗯嗯，我在\"；隐藏款的听筒线是卷曲的电话线，绕成一颗心。",
+        "en": "ENEN",
+        "enp": "A designer toy of a small puppy, 1.5-head proportion, cream-white short plush. The focal point is its left ear: a glossy luminous cobalt-blue vintage telephone receiver, while the right ear is a normal soft floppy ear, asymmetric. The puppy tilts its head, pointing the receiver ear forward, small black bead eyes, tiny dot nose, mouth slightly open as if saying 'mm-hm'. Minimal, no extra clothing. Vinyl-face plush charm format. Plain light grey background, soft studio lighting, three-quarter full-body view.",
+        "expr": "我说不出好听的话，但我一直在听",
+        "fore": "用到：Luminous Blue（A，12 到 24 个月）做听筒耳朵的签名色，2027 的主题恰好是连接；能量补给者对 AI 的怀疑（A）支持\"不完美回应\"的角度",
+        "insight": {
+          "act": "打开 AI 聊天倾诉；文章数据：39% 的年轻人会向 AI 寻求建议或陪伴",
+          "conflict": "渴望连接，又害怕被拒绝；AI 不会拒绝，但它的回应完美得不真实",
+          "depth": "深层：落在\"怕被拒\"和\"嫌它假\"的矛盾上",
+          "scene": "深夜，睡不着的时候",
+          "source": "人人都是产品经理关于年轻人孤独与 AI 陪伴的文章；WGSN 2027 能量补给者画像",
+          "state": "想被听见，但不想被评判，也不想欠人情",
+          "unsaid": "我知道它不是真的懂我，可它从来不嫌我烦"
+        },
+        "layers": [
+          [
+            "内容",
+            "主载体表情包 · 次载体实物潮玩（床头）· 动作种子：把听筒耳朵贴到你脸边，点点头说嗯嗯"
+          ],
+          [
+            "外壳",
+            "动物类人，小狗 · 1.5 头身 · 招牌姿势：歪着头，用听筒耳朵对着你 · 叠音命名"
+          ],
+          [
+            "头部",
+            "一只耳朵是正常的垂耳 [公共]，另一只是复古电话听筒 [反常] · 豆豆眼 [公共] · 小圆点鼻 [公共] · 微微张开的小嘴 [公共]"
+          ],
+          [
+            "视觉",
+            "奶油白 + Luminous Blue 听筒（签名色）· 极简 · 短绒加亮面搪胶听筒"
+          ],
+          [
+            "商业",
+            "搪胶毛绒挂件和床头公仔 · 69 至 129 元 · 节点：考试周、深夜、年末"
+          ]
+        ],
+        "links": [
+          {
+            "t": "年轻人与 AI 陪伴（人人都是产品经理）",
+            "url": "https://www.woshipm.com/it/6308579.html"
+          },
+          {
+            "t": "2027 消费者画像（WGSN）",
+            "url": "https://www.wgsn.com/en/blogs/consumer-profiles-will-shape-market-2027"
+          },
+          {
+            "t": "2027 年度色 Luminous Blue（WGSN）",
+            "url": "https://www.wgsn.com/en/blogs/colour-year-2027-luminous-blue"
+          }
+        ],
+        "mark": "一只耳朵是复古电话听筒。它永远在听，所以耳朵变成了接听的样子。",
+        "name": "嗯嗯",
+        "odd": "1 处：听筒耳朵。单个、轮廓清楚，从头部往外长，读成装饰。",
+        "order": 2,
+        "origin": "向 AI 要陪伴 + 能量补给者对 AI 的怀疑",
+        "risk": "情绪向陪伴赛道拥挤；如果表达只停在\"陪你\"，会和很多治愈系撞车，要守住\"笨拙但真实\"的反差。",
+        "tests": [
+          [
+            "闭眼",
+            "通过",
+            "听筒耳朵"
+          ],
+          [
+            "剪影",
+            "存疑",
+            "听筒在剪影里可能像普通的翘耳"
+          ],
+          [
+            "简笔画",
+            "通过",
+            ""
+          ],
+          [
+            "缩小",
+            "通过",
+            "蓝色听筒对比强"
+          ],
+          [
+            "换皮",
+            "通过",
+            ""
+          ]
+        ],
+        "timing": "站在主流对面：不是完美的安慰，而是笨拙但真实的在场",
+        "type": "反差型",
+        "zh": "一只 1.5 头身的小狗潮玩，奶油白短绒，最突出的是左边的耳朵：它是一只亮面的明亮钴蓝色复古电话听筒，右边是普通的软软垂耳，不对称。小狗歪着头，把听筒耳朵对着前方，黑色豆豆眼，小圆点鼻子，小嘴微微张开像在说\"嗯\"。极简，无多余服装。搪胶毛绒挂件形态。纯浅灰背景，柔和棚拍光，四分之三侧全身构图。"
+      }
+    }
+  ],
+  "prompt_revision": 2,
+  "revision": {
+    "number": 2,
+    "date": "2026-10-19",
+    "summary": "听筒缩为能读成耳朵的细长结构；用长脸下颌、横鼻与略不对称眼位建立笨拙倾听感。",
+    "delivery": "conversation",
+    "skill": "lab-v1.6/studio-v1.2"
+  }
 }

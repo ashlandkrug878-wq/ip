@@ -9,10 +9,10 @@
     "where": "小红书转运话题、寺庙打卡",
     "who": "20 到 32 岁"
   },
-  "collide": "雪王、蛋黄哥也是拟物，但没有铜钱；避开了所有宗教人物形象。",
+  "collide": "修订版需对照实际图检查整体相似性，重点比较轮廓、五官比例和识别组合；通用元素本身不作撞车结论。",
   "egg": "背面刻着\"月老勿扰\"；隐藏款是一枚不营业的铜钱，方孔里挂着\"今日休市\"。",
   "en": "FANGFANG",
-  "enp": "A designer toy shaped like a round ancient coin with a square hole, maize-yellow. The focal point is the square hole in the center: a tiny face peeks out of it, small black bead eyes, small cat-like mouth, faint blush. Two tiny stubby hands stick out from the sides, cupped together in a respectful greeting. A small vermilion cord knot tied on top. Glossy soft vinyl texture with slightly worn edges. Plain light grey background, soft studio lighting, front view.",
+  "enp": "Original coin-object character FANGFANG, a modern graphic sculptural charm with no separate body and no feet. A thick slightly flattened maize-yellow circular shell has blunt rounded edges and only one shallow perimeter groove. At its center is a rounded-square opening containing a smaller recessed cream rounded-square face, separated from the shell by a clear shadow gap. Two low-set narrow black eye slots have straight tops and curved bottoms, spaced slightly close together, above one short level mouth. The expression is earnestly deadpan: no cat mouth, nose or blush. Tiny hands emerge from the left and right edges of the central opening and clasp in a greeting along its lower edge, never decorative relief patterns. A single small vermilion cord loop at the top, not a complex ornamental knot. Uniform satin-matte vinyl shell and warm cream face with strong clean color blocking. No gold metal, antique bronze, distressing, cloud motifs, writing or religious symbols. Entire character in near-front product view with a slight angle showing thickness, neutral soft light and plain light-gray background, one character only.",
   "expr": "缘分随缘，钱要到位",
   "fore": "用到：Maize 玉米黄（A，2027/28 秋冬）替代俗气的金色；能量补给者的荒诞幽默（A）支撑自嘲的语气",
   "insight": {
@@ -31,19 +31,31 @@
     ],
     [
       "外壳",
-      "拟物，一枚铜钱 · 无身体，圆形整体，带两只小短手 · 招牌姿势：双手抱拳作揖 · 叠音命名"
+      "厚圆币壳、方圆角中央孔，内嵌一张更小的圆角方脸，无独立身体和脚；小短手从孔边探出抱拳。"
     ],
     [
       "头部",
-      "整张脸在铜钱中间的方孔里 [专属] · 豆豆眼 [公共] · 小猫嘴 [公共] · 腮红 [公共]"
+      "眼睛是两道上平下圆的低位窄黑槽，间距略窄；嘴为短平横线，表情认真到好笑，无腮红。"
     ],
     [
       "视觉",
-      "玉米黄铜钱 + 朱红绳结（签名色）· 极简 · 亮面搪胶或薄片亚克力"
+      "玉米黄半哑光搪胶币壳、奶油白内脸、朱红单环绳结，表面平整，仅一圈浅压边。"
     ],
     [
       "商业",
       "手机壳夹卡 + 挂件 · 19 至 49 元 · 稀缺：开工日限定 · 节点：春节、开工日、考试季、双十一"
+    ],
+    [
+      "造型依据",
+      "铜钱拟物 × 方孔冷幽默；外圆内方的大色块、缩在方孔里的冷脸和小作揖手势。"
+    ],
+    [
+      "结构与工艺",
+      "玉米黄半哑光搪胶币壳、奶油白内脸、朱红单环绳结，表面平整，仅一圈浅压边。"
+    ],
+    [
+      "本次迭代",
+      "去掉仿古花纹、旧金属磨损、猫嘴和底脚；用厚圆外壳与方孔里的小方脸形成现代图形张力。"
     ]
   ],
   "links": [
@@ -52,40 +64,145 @@
       "url": "https://daoinsights.com/opinions/what-is-xuanxue-and-why-does-it-provide-so-much-comfort-to-young-people/"
     }
   ],
-  "mark": "脸在铜钱的方孔里。外圆内方，只露出一张认真搞钱的小脸。",
+  "mark": "外圆内方的大色块、缩在方孔里的冷脸和小作揖手势。",
   "name": "方方",
-  "odd": "0 处反常，记忆点本身是专属元素：拟物加方孔脸。",
+  "odd": "造型焦点：铜钱拟物 × 方孔冷幽默。不按反常标签数量判定质量，实际轮廓与表情仍待验证。",
   "order": 4,
   "origin": "只求财不求缘 + 能量补给者的荒诞幽默",
-  "risk": "玄学题材有政策敏感度，必须避开宗教人物和宗教符号；自嘲语气把握不好会显得俗。",
+  "risk": "方孔内脸与双手的小尺寸读数待验证；避免仿古吉祥物与真实招财承诺。",
   "tests": [
     [
-      "闭眼",
-      "通过",
-      "方孔里的脸"
+      "记忆点",
+      "待验证",
+      "需看修订图是否同时读到：外圆内方的大色块、缩在方孔里的冷脸和小作揖手势。"
     ],
     [
       "剪影",
-      "通过",
-      "圆形带方孔"
+      "待验证",
+      "需制作纯黑轮廓，检查大体块与连接是否仍清楚。"
     ],
     [
-      "简笔画",
-      "通过",
-      "一个圆加一个方"
+      "简化",
+      "待验证",
+      "需做低细节线稿，检查：眼睛是两道上平下圆的低位窄黑槽，间距略窄；嘴为短平横线，表情认真到好笑，无腮红。"
     ],
     [
       "缩小",
-      "通过",
-      ""
+      "待验证",
+      "需查看手机缩图；小配件与面部工艺仍待实物打样。"
     ],
     [
       "换皮",
-      "存疑",
-      "换成其他颜色后，铜钱感会变弱"
+      "待验证",
+      "需另做换材质或去可拆道具版本；保留角色主体与关键功能结构。"
     ]
   ],
   "timing": "站在主流对面：用自嘲的玄学代替温柔的治愈",
   "type": "自嘲型",
-  "zh": "一枚圆形铜钱造型的拟物潮玩，玉米黄色，最突出的是中间的方孔：一张小脸正从方孔里探出来，黑色豆豆眼、小猫嘴、淡淡腮红。铜钱两侧伸出两只小短手，正抱拳作揖。顶部系着一个朱红色小绳结。亮面软胶质感，边缘有轻微磨旧的纹理。纯浅灰背景，柔和棚拍光，正面构图。"
+  "zh": "原创铜钱拟物角色方方，现代图形雕塑挂件，无独立身体、无脚。一个厚而略扁的玉米黄色圆币壳，外缘圆钝，仅一圈浅压边；中心是圆角方孔，孔内缩着一张更小的奶油白圆角方脸，留出明显阴影间隙。两道低位、上平下圆的窄黑眼槽，间距略窄，一条短平嘴，认真搞钱的冷幽默表情，无猫嘴、鼻子和腮红。两只小短手从方孔左右边缘伸出，在孔下缘抱拳，不能变成侧面浮雕花纹。顶部只有一枚小朱红单环绳结，不加复杂中国结。币壳为均匀半哑光搪胶，内脸略暖白，色块清晰；不做黄金、仿古铜、磨损、祥云、文字或宗教符号。完整正面微侧产品图，浅灰背景，中性柔光，轮廓简洁且有厚度，整张只一个角色。",
+  "revision_history": [
+    {
+      "revision": 1,
+      "archived_at": "2026-10-19",
+      "snapshot": {
+        "batch": "2026w42b",
+        "circle": {
+          "breakout": "开工日和考试季的祝福礼物，所有人都能送",
+          "buy": "财神卡、手串、转运小物、寺庙文创",
+          "name": "玄学祈福圈 + 打工人",
+          "share": "手机壳里夹着它，配\"今日已接财\"",
+          "signs": "转运、接好运、搞钱、开工大吉",
+          "where": "小红书转运话题、寺庙打卡",
+          "who": "20 到 32 岁"
+        },
+        "collide": "雪王、蛋黄哥也是拟物，但没有铜钱；避开了所有宗教人物形象。",
+        "egg": "背面刻着\"月老勿扰\"；隐藏款是一枚不营业的铜钱，方孔里挂着\"今日休市\"。",
+        "en": "FANGFANG",
+        "enp": "A designer toy shaped like a round ancient coin with a square hole, maize-yellow. The focal point is the square hole in the center: a tiny face peeks out of it, small black bead eyes, small cat-like mouth, faint blush. Two tiny stubby hands stick out from the sides, cupped together in a respectful greeting. A small vermilion cord knot tied on top. Glossy soft vinyl texture with slightly worn edges. Plain light grey background, soft studio lighting, front view.",
+        "expr": "缘分随缘，钱要到位",
+        "fore": "用到：Maize 玉米黄（A，2027/28 秋冬）替代俗气的金色；能量补给者的荒诞幽默（A）支撑自嘲的语气",
+        "insight": {
+          "act": "抢财神红包，月老红包几乎无人领取；把财神卡夹进手机壳；盘手串、敲赛博木鱼",
+          "conflict": "嘴上说不信，手上很诚实",
+          "depth": "深层：落在\"不信\"和\"万一\"的矛盾上",
+          "scene": "春节、开工日、考试前",
+          "source": "DaoInsights 关于年轻人玄学消费的文章",
+          "state": "对未来没把握，想抓住一点可控的好运",
+          "unsaid": "我也知道没用，但万一呢"
+        },
+        "layers": [
+          [
+            "内容",
+            "主载体实物潮玩（手机壳夹卡、挂件）· 次载体表情包 · 动作种子：从方孔里探出脸来眨眼"
+          ],
+          [
+            "外壳",
+            "拟物，一枚铜钱 · 无身体，圆形整体，带两只小短手 · 招牌姿势：双手抱拳作揖 · 叠音命名"
+          ],
+          [
+            "头部",
+            "整张脸在铜钱中间的方孔里 [专属] · 豆豆眼 [公共] · 小猫嘴 [公共] · 腮红 [公共]"
+          ],
+          [
+            "视觉",
+            "玉米黄铜钱 + 朱红绳结（签名色）· 极简 · 亮面搪胶或薄片亚克力"
+          ],
+          [
+            "商业",
+            "手机壳夹卡 + 挂件 · 19 至 49 元 · 稀缺：开工日限定 · 节点：春节、开工日、考试季、双十一"
+          ]
+        ],
+        "links": [
+          {
+            "t": "年轻人的玄学消费（DaoInsights）",
+            "url": "https://daoinsights.com/opinions/what-is-xuanxue-and-why-does-it-provide-so-much-comfort-to-young-people/"
+          }
+        ],
+        "mark": "脸在铜钱的方孔里。外圆内方，只露出一张认真搞钱的小脸。",
+        "name": "方方",
+        "odd": "0 处反常，记忆点本身是专属元素：拟物加方孔脸。",
+        "order": 4,
+        "origin": "只求财不求缘 + 能量补给者的荒诞幽默",
+        "risk": "玄学题材有政策敏感度，必须避开宗教人物和宗教符号；自嘲语气把握不好会显得俗。",
+        "tests": [
+          [
+            "闭眼",
+            "通过",
+            "方孔里的脸"
+          ],
+          [
+            "剪影",
+            "通过",
+            "圆形带方孔"
+          ],
+          [
+            "简笔画",
+            "通过",
+            "一个圆加一个方"
+          ],
+          [
+            "缩小",
+            "通过",
+            ""
+          ],
+          [
+            "换皮",
+            "存疑",
+            "换成其他颜色后，铜钱感会变弱"
+          ]
+        ],
+        "timing": "站在主流对面：用自嘲的玄学代替温柔的治愈",
+        "type": "自嘲型",
+        "zh": "一枚圆形铜钱造型的拟物潮玩，玉米黄色，最突出的是中间的方孔：一张小脸正从方孔里探出来，黑色豆豆眼、小猫嘴、淡淡腮红。铜钱两侧伸出两只小短手，正抱拳作揖。顶部系着一个朱红色小绳结。亮面软胶质感，边缘有轻微磨旧的纹理。纯浅灰背景，柔和棚拍光，正面构图。"
+      }
+    }
+  ],
+  "prompt_revision": 2,
+  "revision": {
+    "number": 2,
+    "date": "2026-10-19",
+    "summary": "去掉仿古花纹、旧金属磨损、猫嘴和底脚；用厚圆外壳与方孔里的小方脸形成现代图形张力。",
+    "delivery": "conversation",
+    "skill": "lab-v1.6/studio-v1.2"
+  }
 }

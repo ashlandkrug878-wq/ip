@@ -9,10 +9,10 @@
     "where": "小红书上岸经验、考试论坛",
     "who": "20 到 30 岁"
   },
-  "collide": "表达和 GOHO 的懒懒（卷不起来的打工人）相近，要拉开：卷卷是卷过头，不是卷不起来。外形靠毛线角区分。",
+  "collide": "修订版需对照实际图检查整体相似性，重点比较轮廓、五官比例和识别组合；通用元素本身不作撞车结论。",
   "egg": "毛线角的线头可以拉出一截，挂着一张\"今日 KPI\"小卡。",
   "en": "JUANJUAN",
-  "enp": "A designer toy of a small standing lamb, 1.5-head proportion. The focal point is its two horns: each horn is a half-unwound coil of acacia-yellow yarn with a loose thread hanging down. Oatmeal-white curly fleece body, curly fringe, sleepy eyes squeezed into lines, faint blush, hugging one of its yarn horns with both arms. Knitted plush texture with visible yarn detail. Warm beige background, soft lighting, full-body front view.",
+  "enp": "Original lamb character JUANJUAN, 1.5-head proportions with a broad rounded-square head, short chin, wide low-hanging ears and a small pear-shaped torso with tiny feet. Acacia-yellow yarn horns form two thick flattened spirals of only two broad turns: one tightly coiled, one partially unwound with a single short loose end. No intricate braided ornament. Keep the oatmeal-colored matte vinyl face clean: two low-set angular closed-eye lines at slightly different heights, short level brows and a tiny inverted-arc mouth express stubborn exhaustion rather than a sweet smile. Both hands hug the lower edge of the loosened horn with readable contact, shoulders tucked inward. Only three broad rounded curl masses sit on the crown. Sparse cream loop-pile fabric on the torso contrasts with low-detail face and limbs; yarn texture stays confined to the horn. Entire figure, slight front three-quarter product concept, warm light-gray background, neutral soft light. No clothes, text, realistic sheep muzzle, knitted facial surface or photographic fur detail.",
   "expr": "卷不动了，就把自己卷成一团",
   "fore": "升级建议：毛线角从金合欢黄换成 Maize 玉米黄（A，2027/28 秋冬）；毛线角用 Ritual 主题的钩织工艺（B）",
   "insight": {
@@ -35,19 +35,31 @@
     ],
     [
       "外壳",
-      "动物类人，羊 · 1.5 头身 · 招牌姿势：抱着自己的毛线角 · 叠音命名，双关卷毛和内卷"
+      "1.5头身，横宽低垂耳、偏方圆脸、上窄下宽身体；两只扁螺旋羊角形成不对称，一边松开线头。"
     ],
     [
       "头部",
-      "两只角是两卷半松开的毛线 [反常] · 卷毛刘海 [公共] · 困到眯成线的眼睛 [公共] · 腮红 [公共]"
+      "两条低位折线眼一高一低，短平眉，嘴为很小的倒弧；脸中部留大块干净区域。"
     ],
     [
       "视觉",
-      "燕麦白 + 金合欢黄毛线角（签名色）· 中等 · 针织手感"
+      "脸为暖燕麦米哑光搪胶；身体少量圈圈绒；角为金合欢黄粗毛线压成两层大螺旋，不满脸针织。"
     ],
     [
       "商业",
       "毛绒公仔和搪胶毛绒挂件 · 春节礼盒约 199 元 · 隐藏款：躺躺，毛线全部拆开、平躺的羊 · 节点：2027 年春节"
+    ],
+    [
+      "造型依据",
+      "卷曲雕塑 × 局部毛圈；一紧一松的扁毛线角、低垂耳和抱角缩肩姿态。"
+    ],
+    [
+      "结构与工艺",
+      "脸为暖燕麦米哑光搪胶；身体少量圈圈绒；角为金合欢黄粗毛线压成两层大螺旋，不满脸针织。"
+    ],
+    [
+      "本次迭代",
+      "把全身针织纹理改为大块卷曲轮廓；毛线角有一松一紧的节奏，表情改为逞强到没电。"
     ]
   ],
   "links": [
@@ -60,40 +72,153 @@
       "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677118.shtml"
     }
   ],
-  "mark": "毛线做的羊角。生肖的识别点和内卷的表达在同一个元素上。",
+  "mark": "一紧一松的扁毛线角、低垂耳和抱角缩肩姿态。",
   "name": "卷卷",
-  "odd": "1 处：角换成毛线（材质错位），从头顶往外长，读成装饰。",
+  "odd": "造型焦点：卷曲雕塑 × 局部毛圈。不按反常标签数量判定质量，实际轮廓与表情仍待验证。",
   "order": 3,
   "origin": "2027 羊年 + 内卷",
-  "risk": "生肖窗口短，春节后要靠内卷的表达延续；羊在潮玩里少见，认知度要验证。",
+  "risk": "角的线头须避免易脱落与缠绕；大卷曲造型的裁片与装配待打样。",
   "tests": [
     [
-      "闭眼",
-      "通过",
-      "记住的是毛线角"
+      "记忆点",
+      "待验证",
+      "需看修订图是否同时读到：一紧一松的扁毛线角、低垂耳和抱角缩肩姿态。"
     ],
     [
       "剪影",
-      "通过",
-      "两个螺旋角很清楚"
+      "待验证",
+      "需制作纯黑轮廓，检查大体块与连接是否仍清楚。"
     ],
     [
-      "简笔画",
-      "通过",
-      "两个螺旋就是它"
+      "简化",
+      "待验证",
+      "需做低细节线稿，检查：两条低位折线眼一高一低，短平眉，嘴为很小的倒弧；脸中部留大块干净区域。"
     ],
     [
       "缩小",
-      "通过",
-      ""
+      "待验证",
+      "需查看手机缩图；小配件与面部工艺仍待实物打样。"
     ],
     [
       "换皮",
-      "通过",
-      "换衣服后毛线角还在"
+      "待验证",
+      "需另做换材质或去可拆道具版本；保留角色主体与关键功能结构。"
     ]
   ],
   "timing": "治愈的同侧，借生肖节点切入",
   "type": "自嘲型",
-  "zh": "一只 1.5 头身的小羊潮玩，直立，最突出的是头顶两只羊角：每只角都是一卷半松开的金合欢黄色毛线，线头垂下来一截。燕麦白色卷毛身体，卷毛刘海，困到眯成一条线的眼睛，淡淡腮红，双手抱着自己的一只毛线角。针织毛绒质感，能看到毛线纹理。暖米色背景，柔和光线，正面全身构图。"
+  "zh": "原创小羊角色卷卷，1.5头身，偏方圆的大头、短下颌，低垂宽耳向两侧摊开，身体是上窄下宽的小梨形，脚很小。两只金合欢黄毛线角是厚扁的两层大螺旋，一只卷紧，另一只半松开，只有一根短线头向下垂；不是复杂编织雕花。燕麦米色脸是干净的哑光搪胶面，两条低位折线眼一高一低，短平眉，小小倒弧嘴，神情逞强又没电，不做甜笑和大腮红。双手抱住松开的羊角下缘，肩膀缩着，清楚显示手与角的接触。头顶只有三团宽圆卷毛体块，身体使用少量奶白圈圈绒，手脚和脸保持低细节，角的毛线纹理只作局部。正面略侧的完整产品概念图，暖浅灰背景，中性柔光。无衣物、文字、写实羊鼻和密集针织脸，不靠毛发摄影感展示质感。",
+  "revision_history": [
+    {
+      "revision": 1,
+      "archived_at": "2026-10-19",
+      "snapshot": {
+        "batch": "2026w42",
+        "circle": {
+          "breakout": "生肖年礼物，长辈也能接受",
+          "buy": "新年生肖礼物、考试吉祥物",
+          "name": "考研考公党 + 打工人",
+          "share": "新年桌搭、送给同事的礼物",
+          "signs": "卷、上岸、KPI、祝我顺利",
+          "where": "小红书上岸经验、考试论坛",
+          "who": "20 到 30 岁"
+        },
+        "collide": "表达和 GOHO 的懒懒（卷不起来的打工人）相近，要拉开：卷卷是卷过头，不是卷不起来。外形靠毛线角区分。",
+        "egg": "毛线角的线头可以拉出一截，挂着一张\"今日 KPI\"小卡。",
+        "en": "JUANJUAN",
+        "enp": "A designer toy of a small standing lamb, 1.5-head proportion. The focal point is its two horns: each horn is a half-unwound coil of acacia-yellow yarn with a loose thread hanging down. Oatmeal-white curly fleece body, curly fringe, sleepy eyes squeezed into lines, faint blush, hugging one of its yarn horns with both arms. Knitted plush texture with visible yarn detail. Warm beige background, soft lighting, full-body front view.",
+        "expr": "卷不动了，就把自己卷成一团",
+        "fore": "升级建议：毛线角从金合欢黄换成 Maize 玉米黄（A，2027/28 秋冬）；毛线角用 Ritual 主题的钩织工艺（B）",
+        "insight": {
+          "act": "一边说\"卷不动了\"，一边继续熬",
+          "conflict": "想停下，又怕落后",
+          "depth": "深层，但没有直接来源，属于推测",
+          "scene": "年末述职、考研考公冲刺",
+          "source": "推测，下一期需要找证据",
+          "state": "疲惫但停不下",
+          "unsaid": "我也想躺，但我不敢"
+        },
+        "layers": [
+          [
+            "内核",
+            "疲惫但可爱、认真过头、爱逞强 · 可以和躺躺组成对手搭档"
+          ],
+          [
+            "内容",
+            "出身品牌原创 · 主载体实物潮玩 · 次载体表情包 · 经典动作：把自己卷成毛线球滚走"
+          ],
+          [
+            "外壳",
+            "动物类人，羊 · 1.5 头身 · 招牌姿势：抱着自己的毛线角 · 叠音命名，双关卷毛和内卷"
+          ],
+          [
+            "头部",
+            "两只角是两卷半松开的毛线 [反常] · 卷毛刘海 [公共] · 困到眯成线的眼睛 [公共] · 腮红 [公共]"
+          ],
+          [
+            "视觉",
+            "燕麦白 + 金合欢黄毛线角（签名色）· 中等 · 针织手感"
+          ],
+          [
+            "商业",
+            "毛绒公仔和搪胶毛绒挂件 · 春节礼盒约 199 元 · 隐藏款：躺躺，毛线全部拆开、平躺的羊 · 节点：2027 年春节"
+          ]
+        ],
+        "links": [
+          {
+            "t": "2027 羊年春节指南",
+            "url": "https://chinese-culture-app.onrender.com/guide/chinese-new-year-2027"
+          },
+          {
+            "t": "新疆小羊走红（中国新闻网）",
+            "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677118.shtml"
+          }
+        ],
+        "mark": "毛线做的羊角。生肖的识别点和内卷的表达在同一个元素上。",
+        "name": "卷卷",
+        "odd": "1 处：角换成毛线（材质错位），从头顶往外长，读成装饰。",
+        "order": 3,
+        "origin": "2027 羊年 + 内卷",
+        "risk": "生肖窗口短，春节后要靠内卷的表达延续；羊在潮玩里少见，认知度要验证。",
+        "tests": [
+          [
+            "闭眼",
+            "通过",
+            "记住的是毛线角"
+          ],
+          [
+            "剪影",
+            "通过",
+            "两个螺旋角很清楚"
+          ],
+          [
+            "简笔画",
+            "通过",
+            "两个螺旋就是它"
+          ],
+          [
+            "缩小",
+            "通过",
+            ""
+          ],
+          [
+            "换皮",
+            "通过",
+            "换衣服后毛线角还在"
+          ]
+        ],
+        "timing": "治愈的同侧，借生肖节点切入",
+        "type": "自嘲型",
+        "zh": "一只 1.5 头身的小羊潮玩，直立，最突出的是头顶两只羊角：每只角都是一卷半松开的金合欢黄色毛线，线头垂下来一截。燕麦白色卷毛身体，卷毛刘海，困到眯成一条线的眼睛，淡淡腮红，双手抱着自己的一只毛线角。针织毛绒质感，能看到毛线纹理。暖米色背景，柔和光线，正面全身构图。"
+      }
+    }
+  ],
+  "prompt_revision": 2,
+  "revision": {
+    "number": 2,
+    "date": "2026-10-19",
+    "summary": "把全身针织纹理改为大块卷曲轮廓；毛线角有一松一紧的节奏，表情改为逞强到没电。",
+    "delivery": "conversation",
+    "skill": "lab-v1.6/studio-v1.2"
+  }
 }

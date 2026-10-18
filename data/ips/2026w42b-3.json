@@ -9,10 +9,10 @@
     "where": "抖音、小红书旅行和痛包话题",
     "who": "20 到 30 岁，爱出门、爱收集"
   },
-  "collide": "和新疆小羊的定制玩法相近，但形象不同；也和长草颜团子一样是头上长东西，但含义和形状完全不同。",
+  "collide": "修订版需对照实际图检查整体相似性，重点比较轮廓、五官比例和识别组合；通用元素本身不作撞车结论。",
   "egg": "每只附一张空白户口卡，让用户写名字和落户地；城市限定款的卡上印当地方言。",
   "en": "LUOLUO",
-  "enp": "A designer toy of a small cream-white dough-like creature, 1.5-head round body. The focal point is a bright red map location pin growing from the top of its head, shaped like an upside-down teardrop, clearly prominent. Small black bead eyes, faint blush, single-line smile. Holding a tiny blank city card in both hands. Short plush texture, clean plain body. Plain light grey background, soft studio lighting, full-body front view.",
+  "enp": "Original settling-in spirit LUOLUO, 1.5-head proportions, a broad flattened ivory dough-like head over a tiny torso and two outward-splayed rounded-square feet. The red location pin is integrated into a thick soft hood wrapping the crown and back of the head, not a tall symbol stuck on top. A short blunt point tops the red contour, which curves down both sides around a wide low ivory face opening. It suggests a map location silhouette without a giant circular hole. Two low-set tiny horizontal rectangular eyes have straight upper edges and wide spacing, rendered as flat charcoal graphics. An extremely small off-center U-shaped mouth, no nose and no blush, gives the earnest air of a newcomer making a home. Short arms emerge from the torso and physically pinch a small blank ivory city card at the chest. Matte soft-vinyl face, fine short ivory velvet body, and a solid red soft-vinyl hood with blunt edges; no realistic fur. Whole figure, slight front three-quarter product view, neutral soft light and plain light-gray background. Clean red and ivory color blocks. No writing, city logos, extra luggage or realistic animal features.",
   "expr": "你在哪，我就在哪落户",
   "fore": "现在用的是\"现在\"时间窗的需求证据。可以引入 Russet 红棕（A）做秋冬款的定位针颜色",
   "insight": {
@@ -27,23 +27,35 @@
   "layers": [
     [
       "内容",
-      "主载体实物潮玩 · 次载体短视频（城市打卡）· 动作种子：把头顶的定位针插进一张地图里"
+      "主载体实物潮玩 · 次载体城市打卡短视频 · 动作种子：抱着城市卡把双脚落在新地方"
     ],
     [
       "外壳",
-      "怪兽精灵，小面团 · 1.5 头身团子 · 招牌姿势：双手捧着一张城市小卡片 · 叠音命名，取落户、落脚之意"
+      "1.5头身，宽扁面团头，上部一圈定位针红色软壳构成短尖轮廓；小身体和两只朝外的方圆脚。"
     ],
     [
       "头部",
-      "头顶长着一枚红色定位针 [反常] · 豆豆眼 [公共] · 腮红 [公共] · 一条线微笑 [公共]"
+      "两只低位小横方眼，平直眼顶，间距宽；很小的偏位U嘴，留白平整，不用圆珠眼。"
     ],
     [
       "视觉",
-      "米白素体 + 定位针红（签名色）· 极简 · 短绒"
+      "米白细短丝绒与哑光搪胶脸；红色定位软壳为实心圆钝件，不悬空、不打孔；卡片空白。"
     ],
     [
       "商业",
       "素体加可换配件的挂件，可做城市限定定位卡 · 49 至 79 元 · 稀缺：城市限定 · 节点：国庆、暑假、春节返乡"
+    ],
+    [
+      "造型依据",
+      "落户面团 × 融合定位轮廓；短尖红定位轮廓、宽扁低位脸和捧卡外八脚；卡片移除仍保留身份。"
+    ],
+    [
+      "结构与工艺",
+      "米白细短丝绒与哑光搪胶脸；红色定位软壳为实心圆钝件，不悬空、不打孔；卡片空白。"
+    ],
+    [
+      "本次迭代",
+      "将高耸定位针缩成头顶与后脑融合的红色软帽结构；新增宽脸低位眼、下坐脚和抱卡姿态，不再只靠红色附件。"
     ]
   ],
   "links": [
@@ -52,40 +64,145 @@
       "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677118.shtml"
     }
   ],
-  "mark": "头顶的定位针。它在哪里，哪里就是它的户口。",
+  "mark": "短尖红定位轮廓、宽扁低位脸和捧卡外八脚；卡片移除仍保留身份。",
   "name": "落落",
-  "odd": "1 处：头顶的定位针。单个、清楚，读成头饰。",
+  "odd": "造型焦点：落户面团 × 融合定位轮廓。不按反常标签数量判定质量，实际轮廓与表情仍待验证。",
   "order": 3,
   "origin": "新疆小羊定制和上户口",
-  "risk": "定制玩法依赖线下或供应链能力；素体太简单时容易被模仿。",
+  "risk": "此版重构定位针的结构表达；卡片与双手固定方式和小尺寸辨识待验证。",
   "tests": [
     [
-      "闭眼",
-      "通过",
-      "红色定位针"
+      "记忆点",
+      "待验证",
+      "需看修订图是否同时读到：短尖红定位轮廓、宽扁低位脸和捧卡外八脚；卡片移除仍保留身份。"
     ],
     [
       "剪影",
-      "通过",
-      "头顶的针形轮廓"
+      "待验证",
+      "需制作纯黑轮廓，检查大体块与连接是否仍清楚。"
     ],
     [
-      "简笔画",
-      "通过",
-      "一个团子加一个倒水滴"
+      "简化",
+      "待验证",
+      "需做低细节线稿，检查：两只低位小横方眼，平直眼顶，间距宽；很小的偏位U嘴，留白平整，不用圆珠眼。"
     ],
     [
       "缩小",
-      "通过",
-      ""
+      "待验证",
+      "需查看手机缩图；小配件与面部工艺仍待实物打样。"
     ],
     [
       "换皮",
-      "通过",
-      ""
+      "待验证",
+      "需另做换材质或去可拆道具版本；保留角色主体与关键功能结构。"
     ]
   ],
   "timing": "治愈的同侧，但核心是专属感：每一只都不一样",
   "type": "陪伴型",
-  "zh": "一只 1.5 头身的米白色小面团潮玩，最突出的是头顶长着一枚鲜红色的地图定位针，形状像倒过来的水滴，体积明显。黑色豆豆眼，淡淡腮红，一条线的微笑。双手捧着一张小小的空白城市卡片。短绒质感，素体干净。纯浅灰背景，柔和棚拍光，正面全身构图。"
+  "zh": "原创落户小精灵落落，1.5头身，宽扁米白面团头配很小的身体，双脚是朝外摊开的圆角方块。红色定位针不作为高高插在头顶的符号，而是融合成包住头顶和后脑的一圈厚软帽壳：顶部一枚短圆尖，红色外轮廓向下包到两侧，正面开出宽扁米白脸面，整体能联想到地图落点但没有巨大圆孔。两只低位小横方眼、平直上边、间距宽，眼睛是炭黑平面图形；一枚极小偏位U形嘴，不画鼻子和腮红，表情像刚搬来、认真安顿的小住客。双手从小身体两侧伸出，实际夹住胸前一张小小的米白空白城市卡。脸为哑光软胶，身体米白细短丝绒，定位红帽壳为实心圆钝软胶，没有拟真毛发。全身正面略侧，浅灰背景，中性柔光，清晰的红与米白色块。无文字、城市标志、额外行李或写实动物五官。",
+  "revision_history": [
+    {
+      "revision": 1,
+      "archived_at": "2026-10-19",
+      "snapshot": {
+        "batch": "2026w42b",
+        "circle": {
+          "breakout": "城市定位卡可以和文旅、景区合作",
+          "buy": "定制玩偶、旅行纪念品、痛包和吧唧",
+          "name": "旅行党 + 痛包党",
+          "share": "在每个城市的地标前拍它，配\"今天落户在这里\"",
+          "signs": "上户口、家长、个人限定、出片",
+          "where": "抖音、小红书旅行和痛包话题",
+          "who": "20 到 30 岁，爱出门、爱收集"
+        },
+        "collide": "和新疆小羊的定制玩法相近，但形象不同；也和长草颜团子一样是头上长东西，但含义和形状完全不同。",
+        "egg": "每只附一张空白户口卡，让用户写名字和落户地；城市限定款的卡上印当地方言。",
+        "en": "LUOLUO",
+        "enp": "A designer toy of a small cream-white dough-like creature, 1.5-head round body. The focal point is a bright red map location pin growing from the top of its head, shaped like an upside-down teardrop, clearly prominent. Small black bead eyes, faint blush, single-line smile. Holding a tiny blank city card in both hands. Short plush texture, clean plain body. Plain light grey background, soft studio lighting, full-body front view.",
+        "expr": "你在哪，我就在哪落户",
+        "fore": "现在用的是\"现在\"时间窗的需求证据。可以引入 Russet 红棕（A）做秋冬款的定位针颜色",
+        "insight": {
+          "act": "游客为一只定制小羊拍下全程，带着家乡定位拍视频给它上户口，评论区自称家长",
+          "conflict": "生活在批量生产的世界里，却想要独一份",
+          "depth": "深层：不是买纪念品，而是给一个东西赋予身份",
+          "scene": "旅行途中、回到家乡",
+          "source": "中国新闻网关于新疆小羊走红的报道",
+          "state": "想让一个东西真正属于自己，有来处、有身份",
+          "unsaid": "我想要一个只属于我的，哪怕它很小"
+        },
+        "layers": [
+          [
+            "内容",
+            "主载体实物潮玩 · 次载体短视频（城市打卡）· 动作种子：把头顶的定位针插进一张地图里"
+          ],
+          [
+            "外壳",
+            "怪兽精灵，小面团 · 1.5 头身团子 · 招牌姿势：双手捧着一张城市小卡片 · 叠音命名，取落户、落脚之意"
+          ],
+          [
+            "头部",
+            "头顶长着一枚红色定位针 [反常] · 豆豆眼 [公共] · 腮红 [公共] · 一条线微笑 [公共]"
+          ],
+          [
+            "视觉",
+            "米白素体 + 定位针红（签名色）· 极简 · 短绒"
+          ],
+          [
+            "商业",
+            "素体加可换配件的挂件，可做城市限定定位卡 · 49 至 79 元 · 稀缺：城市限定 · 节点：国庆、暑假、春节返乡"
+          ]
+        ],
+        "links": [
+          {
+            "t": "新疆小羊走红（中国新闻网）",
+            "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677118.shtml"
+          }
+        ],
+        "mark": "头顶的定位针。它在哪里，哪里就是它的户口。",
+        "name": "落落",
+        "odd": "1 处：头顶的定位针。单个、清楚，读成头饰。",
+        "order": 3,
+        "origin": "新疆小羊定制和上户口",
+        "risk": "定制玩法依赖线下或供应链能力；素体太简单时容易被模仿。",
+        "tests": [
+          [
+            "闭眼",
+            "通过",
+            "红色定位针"
+          ],
+          [
+            "剪影",
+            "通过",
+            "头顶的针形轮廓"
+          ],
+          [
+            "简笔画",
+            "通过",
+            "一个团子加一个倒水滴"
+          ],
+          [
+            "缩小",
+            "通过",
+            ""
+          ],
+          [
+            "换皮",
+            "通过",
+            ""
+          ]
+        ],
+        "timing": "治愈的同侧，但核心是专属感：每一只都不一样",
+        "type": "陪伴型",
+        "zh": "一只 1.5 头身的米白色小面团潮玩，最突出的是头顶长着一枚鲜红色的地图定位针，形状像倒过来的水滴，体积明显。黑色豆豆眼，淡淡腮红，一条线的微笑。双手捧着一张小小的空白城市卡片。短绒质感，素体干净。纯浅灰背景，柔和棚拍光，正面全身构图。"
+      }
+    }
+  ],
+  "prompt_revision": 2,
+  "revision": {
+    "number": 2,
+    "date": "2026-10-19",
+    "summary": "将高耸定位针缩成头顶与后脑融合的红色软帽结构；新增宽脸低位眼、下坐脚和抱卡姿态，不再只靠红色附件。",
+    "delivery": "conversation",
+    "skill": "lab-v1.6/studio-v1.2"
+  }
 }

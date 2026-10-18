@@ -9,10 +9,10 @@
     "where": "小红书工位改造和桌搭话题、通勤路上",
     "who": "22 到 35 岁，一二线城市白领"
   },
-  "collide": "表达和 GOHO 的打工人 IP 懒懒相近，外形和 Chiikawa 的小团子有点近。区别在于功能形态，它是一个真的能挂在工位上的东西。",
+  "collide": "修订版需对照实际图检查整体相似性，重点比较轮廓、五官比例和识别组合；通用元素本身不作撞车结论。",
   "egg": "胸前小工牌写\"工号 0000 · 今日在岗\"；隐藏款工牌写\"已下班\"。",
   "en": "GUAGUA",
-  "enp": "A designer toy of a small dusty-blue long-pile fluff ball, 1-head round body, with two extra-long droopy arms hooked over the top edge of a computer monitor so the body hangs in front of the screen. Very wide-set, half-closed eyes, blank zoned-out expression, a single-line mouth. A tiny neon-yellow ID badge on its chest. Long fluffy plush texture, bendable soft arms. Office desk setting, blurred background, natural side light, close-up shot.",
+  "enp": "Original functional screen-hanging plush GUAGUA, one single wide flattened bean-shaped spirit with no separate neck and no legs. A gently flattened upper contour and a subtle central indentation along the lower edge shape the body. Two low-set horizontal oval eyes sit a full eye-width apart, mostly covered by straight plush upper eyelids, revealing flat charcoal pupils without glassy eyeballs. A very short horizontal mouth and generous empty forehead create a zoned-out expression; no nose or blush. Two thick flattened long arms emerge continuously from the upper side shoulders, rise over a monitor edge, and terminate in rounded thick hands bent backward behind the screen. The body hangs between the two supported contact points. Each arm is about twice the body height, visibly an arm, not an ear or a cord. Dusty gray-blue long pile only on the outer body rim and back; a closely sheared face with restrained embroidered features; matching fine velvet arms. One small neon-yellow flat ID tag near the lower body edge. Show the entire character and only a short dark-gray monitor rim in a slight front three-quarter view, plain light-gray background, neutral soft light. No desk clutter, extra legs, text, logos or fur microdetail obscuring form.",
   "expr": "我替你挂在这儿，你去生活",
   "fore": "现在用的是\"现在\"时间窗的信号，前瞻性弱。升级建议：毛色从雾灰蓝换成 Peaceful Lilac 平和淡紫（A，12 到 24 个月）；长绒换成 Space for Solace 的罗纹针织手感（B）",
   "insight": {
@@ -35,19 +35,31 @@
     ],
     [
       "外壳",
-      "怪兽精灵小毛团 · 1 头身团子加两条超长下垂手臂 · 招牌姿势：双臂挂在显示器上沿，身体垂下来 · 叠音命名"
+      "一头身横宽扁豆形身体，下缘微凹；双臂从左右上侧伸出，末端加厚圆手反折挂住屏沿，无腿。"
     ],
     [
       "头部",
-      "团子头 [公共] · 宽眼距 [反常] · 半垂眼 [公共] · 一条线嘴 [公共] · 无耳朵"
+      "脸部低位两只横向扁椭圆眼，直上眼皮压住大半，眼距约一眼宽；平面炭黑瞳点，细短平嘴。"
     ],
     [
       "视觉",
-      "雾灰蓝长绒 + 荧光黄小工牌（签名色）· 极简 · 长绒"
+      "雾灰蓝长绒限在身体背部与外圈；正脸短剪绒搭配刺绣眼；手臂为同色丝绒包覆，荧光黄工牌作小点缀。"
     ],
     [
       "商业",
       "屏幕夹挂件，手臂内置可弯骨架 · 59 至 79 元 · 稀缺：部门限定工牌 · 节点：开工季、年终"
+    ],
+    [
+      "造型依据",
+      "功能毛绒 × 横向放空表情；扁豆形、低位宽眼距和反折长臂形成身份；工牌只是彩蛋。"
+    ],
+    [
+      "结构与工艺",
+      "雾灰蓝长绒限在身体背部与外圈；正脸短剪绒搭配刺绣眼；手臂为同色丝绒包覆，荧光黄工牌作小点缀。"
+    ],
+    [
+      "本次迭代",
+      "补清肩根到手掌的连接，使用有厚度的长臂，长绒只留在身体外圈；不再让眼球和毛发主导造型。"
     ]
   ],
   "links": [
@@ -56,40 +68,149 @@
       "url": "https://news.qq.com/rain/a/20260815A07UKZ00"
     }
   ],
-  "mark": "挂在屏幕上的姿态。长手臂是身体上的记忆点，但它有功能（挂住显示器），所以成立。",
+  "mark": "扁豆形、低位宽眼距和反折长臂形成身份；工牌只是彩蛋。",
   "name": "挂挂",
-  "odd": "2 处：宽眼距、超长手臂。宽眼距让脸显得放空；长手臂单根、轮廓清楚，像装饰。",
+  "odd": "造型焦点：功能毛绒 × 横向放空表情。不按反常标签数量判定质量，实际轮廓与表情仍待验证。",
   "order": 2,
   "origin": "工位变成情绪空间",
-  "risk": "依赖工位场景，学生人群吸引力弱；可弯骨架会增加结构成本。",
+  "risk": "挂点摩擦力和可弯骨架需实测，图片不证明能承重；两臂不得误读成长耳。",
   "tests": [
     [
-      "闭眼",
-      "通过",
-      "记住的是挂着的姿态"
+      "记忆点",
+      "待验证",
+      "需看修订图是否同时读到：扁豆形、低位宽眼距和反折长臂形成身份；工牌只是彩蛋。"
     ],
     [
       "剪影",
-      "通过",
-      "两条长手臂非常明显"
+      "待验证",
+      "需制作纯黑轮廓，检查大体块与连接是否仍清楚。"
     ],
     [
-      "简笔画",
-      "通过",
-      "一个团子加两条线"
+      "简化",
+      "待验证",
+      "需做低细节线稿，检查：脸部低位两只横向扁椭圆眼，直上眼皮压住大半，眼距约一眼宽；平面炭黑瞳点，细短平嘴。"
     ],
     [
       "缩小",
-      "存疑",
-      "手臂缩小后容易像两根线"
+      "待验证",
+      "需查看手机缩图；小配件与面部工艺仍待实物打样。"
     ],
     [
       "换皮",
-      "通过",
-      "换颜色后姿态还在"
+      "待验证",
+      "需另做换材质或去可拆道具版本；保留角色主体与关键功能结构。"
     ]
   ],
   "timing": "治愈的同侧，但钻进打工人工位这个细分圈层",
   "type": "自嘲型",
-  "zh": "一只雾灰蓝色长绒小毛团潮玩，身体是 1 头身的圆团子，最突出的是两条超长、下垂的手臂，正挂在一台显示器的上沿，身体垂在屏幕前面。两只眼睛间距很宽、半垂着、表情放空，一条线的嘴。胸前挂着一个荧光黄色小工牌。长绒质感，手臂柔软可弯。办公桌场景，背景虚化，自然侧光，近景构图。"
+  "zh": "原创屏幕挂件挂挂，一头身横宽扁豆形小精灵，无分离头颈、无腿。身体上缘平缓，下缘中间轻凹，低位宽眼距的两只横向扁椭圆眼，上眼皮是平直绒面边界，压住大半眼睛，只露平面炭黑瞳点；嘴是一条极短横线，大片额头留白，无写实眼球、无鼻和腮红。两条厚扁的长手臂从身体左右上侧肩根连续伸出，向上越过显示器边缘，圆钝加厚的小手向后反折扣住屏幕后方，身体垂在两个挂点之间；臂长约身体高度两倍，连接清楚，不是耳朵或两根绳。雾灰蓝长绒只在身体背部和外圈，正脸短剪绒配极简刺绣五官，长臂用同色细密丝绒，小荧光黄工牌贴近下缘。完整展示角色与必要的一小段深灰屏沿，正面略侧视，中性柔光，浅灰背景。无办公室杂物、文字或品牌，不增加腿，不用毛发细节掩盖轮廓。",
+  "revision_history": [
+    {
+      "revision": 1,
+      "archived_at": "2026-10-19",
+      "snapshot": {
+        "batch": "2026w42",
+        "circle": {
+          "breakout": "学生的图书馆座位有同样的矛盾，可以出学生证版本",
+          "buy": "工位毛绒、桌搭摆件、屏幕挂件",
+          "name": "打工人",
+          "share": "工位桌搭照、开会时的偷拍",
+          "signs": "摸鱼、工牌、已读、今日在岗",
+          "where": "小红书工位改造和桌搭话题、通勤路上",
+          "who": "22 到 35 岁，一二线城市白领"
+        },
+        "collide": "表达和 GOHO 的打工人 IP 懒懒相近，外形和 Chiikawa 的小团子有点近。区别在于功能形态，它是一个真的能挂在工位上的东西。",
+        "egg": "胸前小工牌写\"工号 0000 · 今日在岗\"；隐藏款工牌写\"已下班\"。",
+        "en": "GUAGUA",
+        "enp": "A designer toy of a small dusty-blue long-pile fluff ball, 1-head round body, with two extra-long droopy arms hooked over the top edge of a computer monitor so the body hangs in front of the screen. Very wide-set, half-closed eyes, blank zoned-out expression, a single-line mouth. A tiny neon-yellow ID badge on its chest. Long fluffy plush texture, bendable soft arms. Office desk setting, blurred background, natural side light, close-up shot.",
+        "expr": "我替你挂在这儿，你去生活",
+        "fore": "现在用的是\"现在\"时间窗的信号，前瞻性弱。升级建议：毛色从雾灰蓝换成 Peaceful Lilac 平和淡紫（A，12 到 24 个月）；长绒换成 Space for Solace 的罗纹针织手感（B）",
+        "insight": {
+          "act": "把工位摆满毛绒玩具，布置成情绪空间",
+          "conflict": "想逃离，又不能也不敢真的离开",
+          "depth": "深层：不是\"喜欢可爱的东西\"，而是\"把牢笼布置得可爱一点\"",
+          "scene": "晚上十点，还在工位上",
+          "source": "2026 生活趋势报告",
+          "state": "在一个没法离开的地方，给自己造一个能喘气的角落",
+          "unsaid": "我不是爱这里，我只是需要在这里活下去"
+        },
+        "layers": [
+          [
+            "内核",
+            "慵懒放空、很能撑 · 可以发展成同事群像"
+          ],
+          [
+            "内容",
+            "出身品牌原创 · 主载体实物潮玩（工位）· 次载体表情包 · 经典动作：从屏幕边上慢慢滑下去，又一点点爬回来"
+          ],
+          [
+            "外壳",
+            "怪兽精灵小毛团 · 1 头身团子加两条超长下垂手臂 · 招牌姿势：双臂挂在显示器上沿，身体垂下来 · 叠音命名"
+          ],
+          [
+            "头部",
+            "团子头 [公共] · 宽眼距 [反常] · 半垂眼 [公共] · 一条线嘴 [公共] · 无耳朵"
+          ],
+          [
+            "视觉",
+            "雾灰蓝长绒 + 荧光黄小工牌（签名色）· 极简 · 长绒"
+          ],
+          [
+            "商业",
+            "屏幕夹挂件，手臂内置可弯骨架 · 59 至 79 元 · 稀缺：部门限定工牌 · 节点：开工季、年终"
+          ]
+        ],
+        "links": [
+          {
+            "t": "2026 生活趋势报告（腾讯新闻）",
+            "url": "https://news.qq.com/rain/a/20260815A07UKZ00"
+          }
+        ],
+        "mark": "挂在屏幕上的姿态。长手臂是身体上的记忆点，但它有功能（挂住显示器），所以成立。",
+        "name": "挂挂",
+        "odd": "2 处：宽眼距、超长手臂。宽眼距让脸显得放空；长手臂单根、轮廓清楚，像装饰。",
+        "order": 2,
+        "origin": "工位变成情绪空间",
+        "risk": "依赖工位场景，学生人群吸引力弱；可弯骨架会增加结构成本。",
+        "tests": [
+          [
+            "闭眼",
+            "通过",
+            "记住的是挂着的姿态"
+          ],
+          [
+            "剪影",
+            "通过",
+            "两条长手臂非常明显"
+          ],
+          [
+            "简笔画",
+            "通过",
+            "一个团子加两条线"
+          ],
+          [
+            "缩小",
+            "存疑",
+            "手臂缩小后容易像两根线"
+          ],
+          [
+            "换皮",
+            "通过",
+            "换颜色后姿态还在"
+          ]
+        ],
+        "timing": "治愈的同侧，但钻进打工人工位这个细分圈层",
+        "type": "自嘲型",
+        "zh": "一只雾灰蓝色长绒小毛团潮玩，身体是 1 头身的圆团子，最突出的是两条超长、下垂的手臂，正挂在一台显示器的上沿，身体垂在屏幕前面。两只眼睛间距很宽、半垂着、表情放空，一条线的嘴。胸前挂着一个荧光黄色小工牌。长绒质感，手臂柔软可弯。办公桌场景，背景虚化，自然侧光，近景构图。"
+      }
+    }
+  ],
+  "prompt_revision": 2,
+  "revision": {
+    "number": 2,
+    "date": "2026-10-19",
+    "summary": "补清肩根到手掌的连接，使用有厚度的长臂，长绒只留在身体外圈；不再让眼球和毛发主导造型。",
+    "delivery": "conversation",
+    "skill": "lab-v1.6/studio-v1.2"
+  }
 }

@@ -9,10 +9,10 @@
     "where": "拼豆店、小红书手作话题",
     "who": "18 到 28 岁，学生和年轻白领"
   },
-  "collide": "像素风在游戏 IP 里常见，但作为实体潮玩的表面材质少见。",
+  "collide": "修订版需对照实际图检查整体相似性，重点比较轮廓、五官比例和识别组合；通用元素本身不作撞车结论。",
   "egg": "每只身上都有一颗颜色不对的豆子，是故意的；附送的图纸上写\"歪了算你赢\"。",
   "en": "GEGE",
-  "enp": "A designer toy of a small girl, 2-head proportion. The focal point is that her whole silhouette has pixel-stepped edges and her surface shows individual cylindrical fuse beads, with one bead deliberately the wrong color and slightly crooked. Two square beads as eyes, a single horizontal-line mouth, two pink beads as blush, holding one bead in her hand. Low-saturation multicolor palette, matte bead-textured surface. Plain light grey background, soft studio lighting, full-body front view.",
+  "enp": "Original handmade-pixel girl GEGE, a two-head-proportion sculptural charm with a wide rounded-square head, short trapezoid dress torso and broad rounded-square shoes. Russet hair forms only three large stepped levels around the head and two short blocky side pigtails, not a dense mosaic. The face is one smooth flat cream matte-vinyl rounded-square panel: two low-set small black square eyes, a short horizontal mouth deliberately offset by one grid unit, and two tiny muted-clay square cheek marks, with empty forehead space. No holes, knitting or dense bead texture on the face. Fuse-bead references are confined to sparse chunky cylindrical segments along the outer hair and lower dress hem, with shallow dimples at the ends. Exactly one crooked maize-yellow bead sits on the side of the hair, a deliberate color mismatch; one small hand visibly pinches a matching loose bead. Muted-clay trapezoid dress, harbor-blue broad shoes, cream hands and feet, large clear color blocks and matte surfaces with real sculptural thickness. Whole figure in a slight front three-quarter product view, plain light-gray background and even soft light. No all-over perforations, realistic child anatomy, intricate clothing prints, lettering or extra props.",
   "expr": "拼歪了也是我",
   "fore": "用到：Wondermode 好玩的不完美（B，6 到 12 个月），用拼豆颗粒表面对抗 AI 图的平滑",
   "insight": {
@@ -31,19 +31,31 @@
     ],
     [
       "外壳",
-      "人，小女孩 · 2 头身 · 招牌姿势：手里捏着一颗豆子 · 叠音命名，取格子之意"
+      "2头身，宽方头加三级阶梯发沿，短梯形裙身和方圆鞋；两束短发呈像素块，轮廓有大中小节奏。"
     ],
     [
       "头部",
-      "整个头部轮廓是像素阶梯状的边缘，看得见一颗颗豆子 [反常] · 两颗方形豆子做眼睛 [公共] · 一条横线嘴 [公共] · 腮红是两颗粉色豆子 [公共]"
+      "平整奶油白圆角方面板，两枚低位小方眼，一枚偏一格的短横嘴，淡粉小方腮仅两块。"
     ],
     [
       "视觉",
-      "多彩但低饱和的豆子色 · 中等 · 颗粒感表面"
+      "奶白哑光软胶面，红棕发块、灰陶粉裙、海港蓝鞋；局部圆柱豆仅浅凹，不满脸孔洞。"
     ],
     [
       "商业",
       "PVC 或搪胶挂件 + 附送图纸的拼豆套装 · 39 至 89 元 · 节点：寒暑假、手作季"
+    ],
+    [
+      "造型依据",
+      "手作像素女孩 × 局部拼豆；三级阶梯发沿、方块五官、偏一格嘴与唯一歪黄豆。"
+    ],
+    [
+      "结构与工艺",
+      "奶白哑光软胶面，红棕发块、灰陶粉裙、海港蓝鞋；局部圆柱豆仅浅凹，不满脸孔洞。"
+    ],
+    [
+      "本次迭代",
+      "保留阶梯轮廓与歪豆彩蛋，面部改为平整色块；颗粒集中在发沿、裙边和一颗错位豆。"
     ]
   ],
   "links": [
@@ -60,40 +72,153 @@
       "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
     }
   ],
-  "mark": "像素阶梯状的身体边缘，看得见一颗颗豆子，有一颗是歪的。",
+  "mark": "三级阶梯发沿、方块五官、偏一格嘴与唯一歪黄豆。",
   "name": "格格",
-  "odd": "1 处：拼豆颗粒表面。",
+  "odd": "造型焦点：手作像素女孩 × 局部拼豆。不按反常标签数量判定质量，实际轮廓与表情仍待验证。",
   "order": 6,
   "origin": "拼豆手工 + 好玩的不完美",
-  "risk": "颗粒表面量产难度和成本不确定；像素风可能被读成游戏周边。",
+  "risk": "表面颗粒、边缘厚度和可拆豆均需打样；不是可直接投产的拼豆图纸。",
   "tests": [
     [
-      "闭眼",
-      "通过",
-      "像素边缘"
+      "记忆点",
+      "待验证",
+      "需看修订图是否同时读到：三级阶梯发沿、方块五官、偏一格嘴与唯一歪黄豆。"
     ],
     [
       "剪影",
-      "通过",
-      "阶梯状轮廓"
+      "待验证",
+      "需制作纯黑轮廓，检查大体块与连接是否仍清楚。"
     ],
     [
-      "简笔画",
-      "通过",
-      "画格子就行"
+      "简化",
+      "待验证",
+      "需做低细节线稿，检查：平整奶油白圆角方面板，两枚低位小方眼，一枚偏一格的短横嘴，淡粉小方腮仅两块。"
     ],
     [
       "缩小",
-      "存疑",
-      "颗粒细节缩小后变模糊"
+      "待验证",
+      "需查看手机缩图；小配件与面部工艺仍待实物打样。"
     ],
     [
       "换皮",
-      "通过",
-      ""
+      "待验证",
+      "需另做换材质或去可拆道具版本；保留角色主体与关键功能结构。"
     ]
   ],
   "timing": "站在主流对面：对抗 AI 式的光滑完美",
   "type": "允许型",
-  "zh": "一个 2 头身的小女孩潮玩，最突出的是整个身体和头部的轮廓都是像素阶梯状的边缘，表面能看到一颗颗圆柱形的拼豆颗粒，其中一颗颜色故意不对、微微歪着。两颗方形豆子做眼睛，一条横线的嘴，两颗粉色豆子做腮红，手里捏着一颗豆子。低饱和的多彩配色，颗粒感哑光表面。纯浅灰背景，柔和棚拍光，正面全身构图。"
+  "zh": "原创手作像素女孩格格，2头身雕塑挂件，宽圆角方头、短梯形裙身、宽方圆鞋。红棕色头发以三级大阶梯构成外沿，两侧各一束短方块辫，不是密集马赛克。脸是一整块平整奶油白哑光软胶方面板，两枚低位小黑方眼，中间一条短横嘴故意向一侧偏一格，两块很小的灰陶粉方腮，额头留白；面部没有孔洞、编织和密集颗粒。拼豆感只在发沿与裙下缘体现为少量粗圆柱小段、浅凹端面；头发侧边只有一颗玉米黄的歪豆，与周围颜色不同，手里捏着一颗同色豆，握持清楚。灰陶粉梯形裙、海港蓝宽鞋、奶白手脚，清晰的大色块，表面哑光，轮廓有厚度。正面略侧全身产品概念图，浅灰背景、均匀柔光。无全身密集孔洞、写实小孩、复杂服饰图案、文字或额外道具。",
+  "revision_history": [
+    {
+      "revision": 1,
+      "archived_at": "2026-10-19",
+      "snapshot": {
+        "batch": "2026w42b",
+        "circle": {
+          "breakout": "附送图纸，让用户自己拼一个，DIY 本身就是传播",
+          "buy": "拼豆套装、手作材料、DIY 课程",
+          "name": "手作党",
+          "share": "拼的过程延时视频和成品照",
+          "signs": "拼豆、烫豆、图纸、歪了",
+          "where": "拼豆店、小红书手作话题",
+          "who": "18 到 28 岁，学生和年轻白领"
+        },
+        "collide": "像素风在游戏 IP 里常见，但作为实体潮玩的表面材质少见。",
+        "egg": "每只身上都有一颗颜色不对的豆子，是故意的；附送的图纸上写\"歪了算你赢\"。",
+        "en": "GEGE",
+        "enp": "A designer toy of a small girl, 2-head proportion. The focal point is that her whole silhouette has pixel-stepped edges and her surface shows individual cylindrical fuse beads, with one bead deliberately the wrong color and slightly crooked. Two square beads as eyes, a single horizontal-line mouth, two pink beads as blush, holding one bead in her hand. Low-saturation multicolor palette, matte bead-textured surface. Plain light grey background, soft studio lighting, full-body front view.",
+        "expr": "拼歪了也是我",
+        "fore": "用到：Wondermode 好玩的不完美（B，6 到 12 个月），用拼豆颗粒表面对抗 AI 图的平滑",
+        "insight": {
+          "act": "花几个小时一颗颗拼出一个图案，再拿熨斗烫平",
+          "conflict": "想做到完美，又喜欢手作那点歪",
+          "depth": "中层偏深：状态有来源，矛盾属于推测",
+          "scene": "周末的拼豆店、宿舍桌上",
+          "source": "新华网把拼豆手工列为情绪消费品类；矛盾为推测",
+          "state": "在一个什么都很快的世界里，找一件慢慢做、能看见进度的事",
+          "unsaid": "不完美的地方，才证明是我做的"
+        },
+        "layers": [
+          [
+            "内容",
+            "主载体实物潮玩加 DIY 套装 · 次载体短视频（拼的过程）· 动作种子：一颗豆子从身上掉下来，它慌忙捡起来按回去"
+          ],
+          [
+            "外壳",
+            "人，小女孩 · 2 头身 · 招牌姿势：手里捏着一颗豆子 · 叠音命名，取格子之意"
+          ],
+          [
+            "头部",
+            "整个头部轮廓是像素阶梯状的边缘，看得见一颗颗豆子 [反常] · 两颗方形豆子做眼睛 [公共] · 一条横线嘴 [公共] · 腮红是两颗粉色豆子 [公共]"
+          ],
+          [
+            "视觉",
+            "多彩但低饱和的豆子色 · 中等 · 颗粒感表面"
+          ],
+          [
+            "商业",
+            "PVC 或搪胶挂件 + 附送图纸的拼豆套装 · 39 至 89 元 · 节点：寒暑假、手作季"
+          ]
+        ],
+        "links": [
+          {
+            "t": "情绪消费与心价比（新华网）",
+            "url": "https://www.news.cn/fashion/20260820/72afefc3f28e4ac2ae6071a2fb6923f9/c.html"
+          },
+          {
+            "t": "拼豆走红（虎嗅）",
+            "url": "https://www.huxiu.com/article/4862945.html?f=rss"
+          },
+          {
+            "t": "2027 面料趋势（Design News Now）",
+            "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+          }
+        ],
+        "mark": "像素阶梯状的身体边缘，看得见一颗颗豆子，有一颗是歪的。",
+        "name": "格格",
+        "odd": "1 处：拼豆颗粒表面。",
+        "order": 6,
+        "origin": "拼豆手工 + 好玩的不完美",
+        "risk": "颗粒表面量产难度和成本不确定；像素风可能被读成游戏周边。",
+        "tests": [
+          [
+            "闭眼",
+            "通过",
+            "像素边缘"
+          ],
+          [
+            "剪影",
+            "通过",
+            "阶梯状轮廓"
+          ],
+          [
+            "简笔画",
+            "通过",
+            "画格子就行"
+          ],
+          [
+            "缩小",
+            "存疑",
+            "颗粒细节缩小后变模糊"
+          ],
+          [
+            "换皮",
+            "通过",
+            ""
+          ]
+        ],
+        "timing": "站在主流对面：对抗 AI 式的光滑完美",
+        "type": "允许型",
+        "zh": "一个 2 头身的小女孩潮玩，最突出的是整个身体和头部的轮廓都是像素阶梯状的边缘，表面能看到一颗颗圆柱形的拼豆颗粒，其中一颗颜色故意不对、微微歪着。两颗方形豆子做眼睛，一条横线的嘴，两颗粉色豆子做腮红，手里捏着一颗豆子。低饱和的多彩配色，颗粒感哑光表面。纯浅灰背景，柔和棚拍光，正面全身构图。"
+      }
+    }
+  ],
+  "prompt_revision": 2,
+  "revision": {
+    "number": 2,
+    "date": "2026-10-19",
+    "summary": "保留阶梯轮廓与歪豆彩蛋，面部改为平整色块；颗粒集中在发沿、裙边和一颗错位豆。",
+    "delivery": "conversation",
+    "skill": "lab-v1.6/studio-v1.2"
+  }
 }

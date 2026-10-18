@@ -9,12 +9,12 @@
     "where": "小红书数字排毒话题、豆瓣小组",
     "who": "20 到 30 岁，一二线城市，工作或学习中高频被打扰的人"
   },
-  "collide": "和星星人都有发光的意象。区别在于表达相反：星星人是去照亮别人，静静是想把自己关掉。",
-  "egg": "灯的三种颜色是暗号：绿色可以聊，黄色别艾特我，红色已关机。",
+  "collide": "修订版需对照实际图检查整体相似性，重点比较轮廓、五官比例和识别组合；通用元素本身不作撞车结论。",
+  "egg": "封口拉片停在胸前表示“今天暂停连接”；可以在后续内容中用开合程度表达在线状态，不靠发光。",
   "en": "JINGJING",
-  "enp": "A designer toy of a small child sitting and hugging its knees, 2-head proportion. The focal point is a tiny round signal lamp on top of its head, glowing soft warm yellow. Short hair with straight bangs, eyes closed, single-line mouth, calm expression. Night-blue pajama-like outfit. Soft vinyl texture, semi-translucent lamp cover. Dim bedroom nightstand scene, the lamp is the only light source, close-up shot.",
+  "enp": "Original attention-protection character JINGJING, two-head proportions, a little humanoid gently closing into its own cocoon. The identity is a self-enclosing sculptural silhouette, with no lamp on the head. Two thick cushion-like midnight-blue shell panels wrap from the back of the head around the seated body. Their rounded edges curl inward without fully closing, making a broad upper mass that tapers downward. Head slightly bowed, knees hugged inside the shell, arms concealed, only two oversized broad rounded shoe tips protruding at the base with clear ground contact. A wide cream matte-vinyl face has three simple flat short fringe segments and two low-set straight closed-eye lines, one a little lower. A thick soft collar covers the mouth area; leave the forehead and cheeks empty, with no nose, smile or blush. One tiny warm-yellow closure tab sits in the central chest seam, signaling paused connection, not emitting light. Midnight-blue velvet shell, darker blue soft-vinyl shoes and a clean face; yellow is a single tiny accent. Entire figure in front three-quarter product view, light-gray background, even neutral soft light. No lamps, electronics, bedside scenery, text, extra decorations, astronaut helmet or mechanical armor.",
   "expr": "别问静静是谁，今天我不在线",
-  "fore": "用到：隐私守护者（A，12 到 24 个月）。升级建议：灯光签名色改成 Luminous Blue，蓝光代表\"已关机\"，比红色更温和",
+  "fore": "沿用注意力保护与隐私守护者的原点；此次重点是重做具象化，不新增趋势事实，也不以流行色替代造型。",
   "insight": {
     "act": "关掉通知、开勿扰模式；趋势报告把\"注意力保护\"列为关键词",
     "conflict": "怕错过消息，又被消息淹没",
@@ -31,23 +31,35 @@
     ],
     [
       "内容",
-      "出身品牌原创 · 主载体实物潮玩（床头）· 次载体表情包（勿扰状态）· 经典动作：拍一下头顶的灯，灯变红就是勿扰"
+      "主载体实物角色摆件 · 次载体表情包 · 动作种子：把软壳轻轻合拢，暂时收起自己"
     ],
     [
       "外壳",
-      "类人小孩 · 2 头身 · 招牌姿势：抱膝坐 · 叠音命名"
+      "2头身闭合茧形轮廓；宽扁头罩像两片厚软垫围成，身体抱膝缩在壳内，只有两只大鞋头露出。"
     ],
     [
       "头部",
-      "头顶一盏小信号灯 [反常] · 闭眼 [公共] · 一条线嘴 [公共] · 齐刘海短发 [公共]"
+      "齐刘海改为三块平面短发，低位两条平直闭眼，半张脸被横向软领覆盖，无嘴部装饰。"
     ],
     [
       "视觉",
-      "夜蓝 + 灯光暖黄（签名色）· 极简 · 软搪胶，灯罩夜光"
+      "夜蓝壳用丝绒质感，奶油白脸为哑光软胶，壳边一小段暖黄封口拉片，不发光。"
     ],
     [
       "商业",
-      "搪胶夜灯摆件 + 挂件 · 99 至 129 元 · 隐藏款：彩虹灯 · 节点：考试季、年末"
+      "软胶或搪胶毛绒摆件候选；开合机构与工艺另行验证，本次不保留夜灯功能"
+    ],
+    [
+      "造型依据",
+      "注意力保护 × 自我包裹雕塑；两片合拢软壳、低位闭眼与露出的鞋头；不靠头顶灯泡和卧室布景。"
+    ],
+    [
+      "结构与工艺",
+      "夜蓝壳用丝绒质感，奶油白脸为哑光软胶，壳边一小段暖黄封口拉片，不发光。"
+    ],
+    [
+      "本次迭代",
+      "按你对旧具象化的批注重做：取消头顶灯泡，把“暂时关机”变成可合拢的软壳和收起的身体。"
     ]
   ],
   "links": [
@@ -60,40 +72,153 @@
       "url": "https://www.wgsn.com/en/blogs/consumer-profiles-will-shape-market-2027"
     }
   ],
-  "mark": "头顶的小灯。灯是开关，开着就是在线，关掉就是我想静静。",
+  "mark": "两片合拢软壳、低位闭眼与露出的鞋头；不靠头顶灯泡和卧室布景。",
   "name": "静静",
-  "odd": "2 处：头顶的灯、夜光材质。灯单个、轮廓清楚，像头饰。",
+  "odd": "造型焦点：注意力保护 × 自我包裹雕塑。不按反常标签数量判定质量，实际轮廓与表情仍待验证。",
   "order": 5,
   "origin": "注意力保护舱 + 我想静静",
-  "risk": "发光功能成本高；我想静静这个梗可能偏老，需要看年轻人的反应。",
+  "risk": "这是基于注意力原点的新具象化候选，旧版淘汰状态仍保留；软壳开合结构与姿态稳定需验证。",
   "tests": [
     [
-      "闭眼",
-      "通过",
-      "记住的是头顶的灯"
+      "记忆点",
+      "待验证",
+      "需看修订图是否同时读到：两片合拢软壳、低位闭眼与露出的鞋头；不靠头顶灯泡和卧室布景。"
     ],
     [
       "剪影",
-      "通过",
-      "头顶的小灯轮廓清楚"
+      "待验证",
+      "需制作纯黑轮廓，检查大体块与连接是否仍清楚。"
     ],
     [
-      "简笔画",
-      "通过",
-      ""
+      "简化",
+      "待验证",
+      "需做低细节线稿，检查：齐刘海改为三块平面短发，低位两条平直闭眼，半张脸被横向软领覆盖，无嘴部装饰。"
     ],
     [
       "缩小",
-      "通过",
-      ""
+      "待验证",
+      "需查看手机缩图；小配件与面部工艺仍待实物打样。"
     ],
     [
       "换皮",
-      "通过",
-      "灯保留"
+      "待验证",
+      "需另做换材质或去可拆道具版本；保留角色主体与关键功能结构。"
     ]
   ],
   "timing": "治愈的同侧，但换了角度：不是被安慰，而是被允许消失",
   "type": "留白型",
-  "zh": "一个 2 头身的小孩潮玩，抱膝坐着，头顶最突出的是一盏小小的圆形信号灯，灯正发出柔和的暖黄色光。齐刘海短发，闭着眼睛，一条线的嘴，表情平静。夜蓝色的睡衣式服装。软胶质感，灯罩半透明。昏暗的卧室床头柜场景，灯是唯一光源，近景构图。"
+  "zh": "原创注意力保护角色静静，2头身，像把自己温柔合拢的小人形茧，核心是自我包裹的雕塑轮廓，不要头顶灯泡。两片厚软垫状的夜蓝色外壳从后脑包到身体，左右边缘向内合拢但不完全闭死，形成上宽下收的圆角轮廓；头略垂，抱膝坐，双臂藏在软壳里，只有两只夸张的宽圆鞋头从底部伸出，身体有明确落地接触。脸是横宽的奶油白哑光软胶面，三块平面短刘海，五官集中在下半部：两条平直闭眼，一侧稍低；厚软领盖住嘴部，额头与脸颊留白，无鼻、笑脸或腮红。一小段暖黄色封口拉片夹在胸前壳缝，表示暂停连接，不发光。夜蓝丝绒外壳、深蓝软胶鞋、干净脸面，颜色仅在封口处一点暖黄。完整三分之四前视产品概念图，浅灰背景、均匀中性柔光。无电器、灯、床头场景、文字或附加装饰，避免宇航员头盔和机械铠甲。",
+  "revision_history": [
+    {
+      "revision": 1,
+      "archived_at": "2026-10-19",
+      "snapshot": {
+        "batch": "2026w42",
+        "circle": {
+          "breakout": "灯的三种颜色暗号可以做成表情包，所有人都能用",
+          "buy": "睡眠用品、香薰、白噪音、手机收纳盒",
+          "name": "断联派、社恐、独居者",
+          "share": "床头夜灯的照片，配\"今天关机\"",
+          "signs": "已读不回、勿扰模式、电量 1%",
+          "where": "小红书数字排毒话题、豆瓣小组",
+          "who": "20 到 30 岁，一二线城市，工作或学习中高频被打扰的人"
+        },
+        "collide": "和星星人都有发光的意象。区别在于表达相反：星星人是去照亮别人，静静是想把自己关掉。",
+        "egg": "灯的三种颜色是暗号：绿色可以聊，黄色别艾特我，红色已关机。",
+        "en": "JINGJING",
+        "enp": "A designer toy of a small child sitting and hugging its knees, 2-head proportion. The focal point is a tiny round signal lamp on top of its head, glowing soft warm yellow. Short hair with straight bangs, eyes closed, single-line mouth, calm expression. Night-blue pajama-like outfit. Soft vinyl texture, semi-translucent lamp cover. Dim bedroom nightstand scene, the lamp is the only light source, close-up shot.",
+        "expr": "别问静静是谁，今天我不在线",
+        "fore": "用到：隐私守护者（A，12 到 24 个月）。升级建议：灯光签名色改成 Luminous Blue，蓝光代表\"已关机\"，比红色更温和",
+        "insight": {
+          "act": "关掉通知、开勿扰模式；趋势报告把\"注意力保护\"列为关键词",
+          "conflict": "怕错过消息，又被消息淹没",
+          "depth": "深层：落在\"怕错过\"和\"被淹没\"的矛盾上，不是简单的\"想安静\"",
+          "scene": "睡前、通勤、周末",
+          "source": "2026 生活趋势报告；WGSN 2027 隐私守护者画像",
+          "state": "想暂时从所有人身边消失，但不是讨厌谁",
+          "unsaid": "我不是不回你，是我今天没电了"
+        },
+        "layers": [
+          [
+            "内核",
+            "平静、内向但不丧 · 单人，可以和崩崩成为对手"
+          ],
+          [
+            "内容",
+            "出身品牌原创 · 主载体实物潮玩（床头）· 次载体表情包（勿扰状态）· 经典动作：拍一下头顶的灯，灯变红就是勿扰"
+          ],
+          [
+            "外壳",
+            "类人小孩 · 2 头身 · 招牌姿势：抱膝坐 · 叠音命名"
+          ],
+          [
+            "头部",
+            "头顶一盏小信号灯 [反常] · 闭眼 [公共] · 一条线嘴 [公共] · 齐刘海短发 [公共]"
+          ],
+          [
+            "视觉",
+            "夜蓝 + 灯光暖黄（签名色）· 极简 · 软搪胶，灯罩夜光"
+          ],
+          [
+            "商业",
+            "搪胶夜灯摆件 + 挂件 · 99 至 129 元 · 隐藏款：彩虹灯 · 节点：考试季、年末"
+          ]
+        ],
+        "links": [
+          {
+            "t": "2026 生活趋势报告（腾讯新闻）",
+            "url": "https://news.qq.com/rain/a/20260815A07UKZ00"
+          },
+          {
+            "t": "2027 消费者画像（WGSN）",
+            "url": "https://www.wgsn.com/en/blogs/consumer-profiles-will-shape-market-2027"
+          }
+        ],
+        "mark": "头顶的小灯。灯是开关，开着就是在线，关掉就是我想静静。",
+        "name": "静静",
+        "odd": "2 处：头顶的灯、夜光材质。灯单个、轮廓清楚，像头饰。",
+        "order": 5,
+        "origin": "注意力保护舱 + 我想静静",
+        "risk": "发光功能成本高；我想静静这个梗可能偏老，需要看年轻人的反应。",
+        "tests": [
+          [
+            "闭眼",
+            "通过",
+            "记住的是头顶的灯"
+          ],
+          [
+            "剪影",
+            "通过",
+            "头顶的小灯轮廓清楚"
+          ],
+          [
+            "简笔画",
+            "通过",
+            ""
+          ],
+          [
+            "缩小",
+            "通过",
+            ""
+          ],
+          [
+            "换皮",
+            "通过",
+            "灯保留"
+          ]
+        ],
+        "timing": "治愈的同侧，但换了角度：不是被安慰，而是被允许消失",
+        "type": "留白型",
+        "zh": "一个 2 头身的小孩潮玩，抱膝坐着，头顶最突出的是一盏小小的圆形信号灯，灯正发出柔和的暖黄色光。齐刘海短发，闭着眼睛，一条线的嘴，表情平静。夜蓝色的睡衣式服装。软胶质感，灯罩半透明。昏暗的卧室床头柜场景，灯是唯一光源，近景构图。"
+      }
+    }
+  ],
+  "prompt_revision": 2,
+  "revision": {
+    "number": 2,
+    "date": "2026-10-19",
+    "summary": "按你对旧具象化的批注重做：取消头顶灯泡，把“暂时关机”变成可合拢的软壳和收起的身体。",
+    "delivery": "conversation",
+    "skill": "lab-v1.6/studio-v1.2"
+  }
 }

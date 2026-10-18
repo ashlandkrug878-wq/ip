@@ -63,7 +63,7 @@
 ```
 
 - `kind`：`base` 基础形象、`lineart` 线稿、`color` 上色、`turnaround` 设定图、`sticker` 表情、`poster` 海报
-- `status`：`pending` 待出图、`done` 已完成、`failed` 失败（失败原因写在 `note`）
+- `status`：`pending` 待自动出图、`awaiting_upload` 对话出图后待用户上传、`done` 已上传完成、`failed` 失败（失败原因写在 `note`）
 - 出图工具只处理 `pending` 的任务，完成后把图存到 `output`，把 `status` 改成 `done`
 - 上色、表情等需要参考图的任务，会多一个 `reference` 字段，指向 `images/` 里已有的图
 
@@ -83,3 +83,10 @@
 6. 出图失败的把 `status` 改成 `failed`，原因写进 `note`。上传失败时不要反复重试，告诉用户把图下载下来，交给 Claude 上传
 
 上传后选品板网站会在下次刷新时把图显示在方案卡上。不要修改 `data/reviews/`、`data/pools/` 和 `index.html`。
+
+## 提示词修订与用户手动上传
+
+- 方案的 `prompt_revision` 表示当前造型提示词版本，旧方案快照保留在 `revision_history`；不要覆盖用户的选择与批注。
+- 用户明确要求在对话中出图、自己上传时，对应任务设为 `awaiting_upload`，自动出图脚本只处理 `pending`，不能因为没有仓库图片把它重新入队。
+- 更新队列提示词时把旧任务快照存入 `history`；`output` 使用当前修订版路径，如 `images/<ip>/base-02.webp`。
+- 选品板上传会按当前 `prompt_revision` 选择文件名并记录 `image_revision`；新版本使用新路径，不覆盖上一版图片。`done` 仅表示仓库已有图，不表示审美或工艺检查通过。

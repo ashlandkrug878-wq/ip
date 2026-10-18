@@ -9,10 +9,10 @@
     "where": "小红书找搭子帖、青年夜校、旅行目的地",
     "who": "20 到 30 岁，独自在大城市的人"
   },
-  "collide": "成对的形式和线条小狗相近，但线条小狗是情侣，搭搭是阶段性的陌生搭子。拼图元素在文创里常见，专属性一般。",
+  "collide": "修订版需对照实际图检查整体相似性，重点比较轮廓、五官比例和识别组合；通用元素本身不作撞车结论。",
   "egg": "吊牌写\"本次同路 · 有效期到下一站\"。",
   "en": "DADA",
-  "enp": "A designer toy pair of two small children standing side by side, 2-head proportion, one in soft lilac and one in maize yellow. The focal point is a jigsaw-puzzle shape on top of each head, one with a tab and one with a slot, so they fit together. Both have small black bead eyes, single-line mouths, short hair, each reaching one hand toward the other. Short plush texture, minimal. Plain light grey background, soft studio lighting, full-body front view.",
+  "enp": "Original paired companion characters DADA, two figures with two-head proportions standing side by side in one image, separated by a small gap rather than joined. Both have wide rounded-square heads, short rounded-square torsos and broad flat feet. Cream matte-vinyl faces are inset into colored short-velvet head shells; no realistic hair and no crown accessories. The peaceful-lilac figure on the left has a thick blunt jigsaw tab growing naturally from the side of its head facing its companion. The maize-yellow figure on the right has a matching rounded recess on the corresponding side. These forms are integrated into the outer head contours, never cutting through the face or piercing the skull. Features sit low within generous empty faces: two short horizontal black eye bars and a level small mouth on lilac; gently slanted short black eye bars and an off-center mouth corner on yellow. They feel like relaxed temporary companions with no need for forced conversation. One small hand from each torso reaches toward the other without clasping; the other arms hang naturally. Clean restrained velvet seams, matte soft-vinyl hands, feet and faces, thick blunt sculptural construction. Entire pair in a slight front three-quarter product view, light-gray background and neutral soft light. No text, outfit patterns, hair, hearts, baby smiles or extra characters.",
   "expr": "只同路一段，也算数",
   "fore": "前瞻性弱，主要是现在的现象。可以用 Peaceful Lilac 和 Maize 做两只的撞色（A）",
   "insight": {
@@ -27,23 +27,35 @@
   "layers": [
     [
       "内容",
-      "主载体实物潮玩（成对挂件）· 次载体短视频 · 动作种子：两只头顶的拼图块咔一声扣在一起"
+      "主载体成对挂件 · 次载体短视频 · 动作种子：头侧靠近扣合，再各自松开离开，短暂同路也成立"
     ],
     [
       "外壳",
-      "类人，两个小孩 · 2 头身 · 招牌姿势：一只手伸向旁边 · 叠音命名"
+      "两个2头身小人，横宽圆角方头和方圆身体，无写实头发；相向头侧一凸一凹，分开也完整。"
     ],
     [
       "头部",
-      "头顶一块拼图凸起或凹口，两只正好扣上 [反常] · 豆豆眼 [公共] · 一条线嘴 [公共] · 短发 [公共]"
+      "低位两条短黑眼，一位横眼平嘴，一位略斜眼偏嘴；不靠豆豆眼甜笑，脸部大留白。"
     ],
     [
       "视觉",
-      "两只撞色：平和淡紫和玉米黄 · 极简 · 短绒"
+      "平和淡紫和玉米黄短丝绒衣壳、奶油白哑光搪胶脸和手脚；接缝少，拼图结构圆钝。"
     ],
     [
       "商业",
       "磁吸成对挂件 · 两只 99 元左右 · 节点：毕业季、旅行旺季、双十一"
+    ],
+    [
+      "造型依据",
+      "阶段搭子 × 可独立的拼图小人；横宽方圆双人轮廓、头侧互补缺口和各自成立的冷幽默小脸。"
+    ],
+    [
+      "结构与工艺",
+      "平和淡紫和玉米黄短丝绒衣壳、奶油白哑光搪胶脸和手脚；接缝少，拼图结构圆钝。"
+    ],
+    [
+      "本次迭代",
+      "拼图关系融入两人的头侧轮廓，而非插在头顶；用同一套方圆体块与互补眼神支撑搭档关系。"
     ]
   ],
   "links": [
@@ -52,40 +64,145 @@
       "url": "https://www.xinhuanet.com/fashion/20260403/3bac26722c6340d8a36ed88d30787ccd/c.html"
     }
   ],
-  "mark": "头顶的拼图块。两只扣在一起时才完整，分开也各自成立。",
+  "mark": "横宽方圆双人轮廓、头侧互补缺口和各自成立的冷幽默小脸。",
   "name": "搭搭",
-  "odd": "1 处：头顶的拼图结构。",
+  "odd": "造型焦点：阶段搭子 × 可独立的拼图小人。不按反常标签数量判定质量，实际轮廓与表情仍待验证。",
   "order": 5,
   "origin": "搭子社交",
-  "risk": "拼图元素不够专属，容易被认为是普通的闺蜜款文创；需要更强的记忆点。",
+  "risk": "磁吸与拼合结构仅为概念，头侧不能穿插或卡住脸部；单只辨识待换皮图验证。",
   "tests": [
     [
-      "闭眼",
-      "存疑",
-      "拼图块可能记不住"
+      "记忆点",
+      "待验证",
+      "需看修订图是否同时读到：横宽方圆双人轮廓、头侧互补缺口和各自成立的冷幽默小脸。"
     ],
     [
       "剪影",
-      "通过",
-      "头顶的凸起"
+      "待验证",
+      "需制作纯黑轮廓，检查大体块与连接是否仍清楚。"
     ],
     [
-      "简笔画",
-      "通过",
-      ""
+      "简化",
+      "待验证",
+      "需做低细节线稿，检查：低位两条短黑眼，一位横眼平嘴，一位略斜眼偏嘴；不靠豆豆眼甜笑，脸部大留白。"
     ],
     [
       "缩小",
-      "通过",
-      ""
+      "待验证",
+      "需查看手机缩图；小配件与面部工艺仍待实物打样。"
     ],
     [
       "换皮",
-      "通过",
-      ""
+      "待验证",
+      "需另做换材质或去可拆道具版本；保留角色主体与关键功能结构。"
     ]
   ],
   "timing": "治愈的同侧，讲轻关系",
   "type": "允许型",
-  "zh": "两个 2 头身的小孩潮玩并排站着，一个平和淡紫色、一个玉米黄色，最突出的是两人头顶各有一块拼图结构，一个是凸起、一个是凹口，正好能扣在一起。两人都是黑色豆豆眼、一条线的嘴、短发，各伸出一只手指向对方。短绒质感，极简。纯浅灰背景，柔和棚拍光，正面全身构图。"
+  "zh": "原创成对搭子角色搭搭，同一张图两个2头身小人并排，彼此留少量空隙，不拼接到一起。两者都是横宽圆角方头、短方圆身体和宽扁脚，奶油白哑光搪胶脸嵌在彩色短丝绒头壳里，没有写实头发或头顶装饰。左边平和淡紫，靠近同伴的头侧自然伸出一个厚圆钝拼图凸块；右边玉米黄，对应头侧是同尺寸圆凹口；结构融入头的外侧边缘，不切开脸，也不做洞穿头部。两张脸五官都低位且留白多：淡紫角色两条短横黑眼、短平嘴，玉米黄角色两条轻斜短黑眼、一枚偏嘴角，像不用尬聊的临时同路人。小手从身体侧伸向对方但不握住，另一手自然垂着。丝绒壳有少量干净接缝，手脚和脸是哑光软胶，造型厚实圆钝。完整双人正面略侧产品图，浅灰背景，中性柔光。无文字、服装花纹、头发、爱心、婴儿笑脸或额外角色。",
+  "revision_history": [
+    {
+      "revision": 1,
+      "archived_at": "2026-10-19",
+      "snapshot": {
+        "batch": "2026w42b",
+        "circle": {
+          "breakout": "两人各买一只的社交属性，天然带传播",
+          "buy": "情侣款和闺蜜款小物、旅行纪念品",
+          "name": "搭子社交圈",
+          "share": "两只拼在一起拍照，再各自带走",
+          "signs": "搭子、拼饭、同路、散了也好",
+          "where": "小红书找搭子帖、青年夜校、旅行目的地",
+          "who": "20 到 30 岁，独自在大城市的人"
+        },
+        "collide": "成对的形式和线条小狗相近，但线条小狗是情侣，搭搭是阶段性的陌生搭子。拼图元素在文创里常见，专属性一般。",
+        "egg": "吊牌写\"本次同路 · 有效期到下一站\"。",
+        "en": "DADA",
+        "enp": "A designer toy pair of two small children standing side by side, 2-head proportion, one in soft lilac and one in maize yellow. The focal point is a jigsaw-puzzle shape on top of each head, one with a tab and one with a slot, so they fit together. Both have small black bead eyes, single-line mouths, short hair, each reaching one hand toward the other. Short plush texture, minimal. Plain light grey background, soft studio lighting, full-body front view.",
+        "expr": "只同路一段，也算数",
+        "fore": "前瞻性弱，主要是现在的现象。可以用 Peaceful Lilac 和 Maize 做两只的撞色（A）",
+        "insight": {
+          "act": "在评论区找旅行搭子、饭搭子；陌生人结伴同游，分开后不一定再联系",
+          "conflict": "想要个人空间，又需要结伴的安全感",
+          "depth": "深层：给阶段性的关系一个正当的名分",
+          "scene": "旅行、吃饭、上夜校",
+          "source": "新华网关于年轻人搭子社交的报道",
+          "state": "想要陪伴，但不想要负担",
+          "unsaid": "我们不用做一辈子的朋友，今天一起就够了"
+        },
+        "layers": [
+          [
+            "内容",
+            "主载体实物潮玩（成对挂件）· 次载体短视频 · 动作种子：两只头顶的拼图块咔一声扣在一起"
+          ],
+          [
+            "外壳",
+            "类人，两个小孩 · 2 头身 · 招牌姿势：一只手伸向旁边 · 叠音命名"
+          ],
+          [
+            "头部",
+            "头顶一块拼图凸起或凹口，两只正好扣上 [反常] · 豆豆眼 [公共] · 一条线嘴 [公共] · 短发 [公共]"
+          ],
+          [
+            "视觉",
+            "两只撞色：平和淡紫和玉米黄 · 极简 · 短绒"
+          ],
+          [
+            "商业",
+            "磁吸成对挂件 · 两只 99 元左右 · 节点：毕业季、旅行旺季、双十一"
+          ]
+        ],
+        "links": [
+          {
+            "t": "年轻人搭子社交（新华网）",
+            "url": "https://www.xinhuanet.com/fashion/20260403/3bac26722c6340d8a36ed88d30787ccd/c.html"
+          }
+        ],
+        "mark": "头顶的拼图块。两只扣在一起时才完整，分开也各自成立。",
+        "name": "搭搭",
+        "odd": "1 处：头顶的拼图结构。",
+        "order": 5,
+        "origin": "搭子社交",
+        "risk": "拼图元素不够专属，容易被认为是普通的闺蜜款文创；需要更强的记忆点。",
+        "tests": [
+          [
+            "闭眼",
+            "存疑",
+            "拼图块可能记不住"
+          ],
+          [
+            "剪影",
+            "通过",
+            "头顶的凸起"
+          ],
+          [
+            "简笔画",
+            "通过",
+            ""
+          ],
+          [
+            "缩小",
+            "通过",
+            ""
+          ],
+          [
+            "换皮",
+            "通过",
+            ""
+          ]
+        ],
+        "timing": "治愈的同侧，讲轻关系",
+        "type": "允许型",
+        "zh": "两个 2 头身的小孩潮玩并排站着，一个平和淡紫色、一个玉米黄色，最突出的是两人头顶各有一块拼图结构，一个是凸起、一个是凹口，正好能扣在一起。两人都是黑色豆豆眼、一条线的嘴、短发，各伸出一只手指向对方。短绒质感，极简。纯浅灰背景，柔和棚拍光，正面全身构图。"
+      }
+    }
+  ],
+  "prompt_revision": 2,
+  "revision": {
+    "number": 2,
+    "date": "2026-10-19",
+    "summary": "拼图关系融入两人的头侧轮廓，而非插在头顶；用同一套方圆体块与互补眼神支撑搭档关系。",
+    "delivery": "conversation",
+    "skill": "lab-v1.6/studio-v1.2"
+  }
 }
