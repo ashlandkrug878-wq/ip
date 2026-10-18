@@ -1,0 +1,99 @@
+{
+  "batch": "2026w42",
+  "circle": {
+    "breakout": "生肖年礼物，长辈也能接受",
+    "buy": "新年生肖礼物、考试吉祥物",
+    "name": "考研考公党 + 打工人",
+    "share": "新年桌搭、送给同事的礼物",
+    "signs": "卷、上岸、KPI、祝我顺利",
+    "where": "小红书上岸经验、考试论坛",
+    "who": "20 到 30 岁"
+  },
+  "collide": "表达和 GOHO 的懒懒（卷不起来的打工人）相近，要拉开：卷卷是卷过头，不是卷不起来。外形靠毛线角区分。",
+  "egg": "毛线角的线头可以拉出一截，挂着一张\"今日 KPI\"小卡。",
+  "en": "JUANJUAN",
+  "enp": "A designer toy of a small standing lamb, 1.5-head proportion. The focal point is its two horns: each horn is a half-unwound coil of acacia-yellow yarn with a loose thread hanging down. Oatmeal-white curly fleece body, curly fringe, sleepy eyes squeezed into lines, faint blush, hugging one of its yarn horns with both arms. Knitted plush texture with visible yarn detail. Warm beige background, soft lighting, full-body front view.",
+  "expr": "卷不动了，就把自己卷成一团",
+  "fore": "升级建议：毛线角从金合欢黄换成 Maize 玉米黄（A，2027/28 秋冬）；毛线角用 Ritual 主题的钩织工艺（B）",
+  "insight": {
+    "act": "一边说\"卷不动了\"，一边继续熬",
+    "conflict": "想停下，又怕落后",
+    "depth": "深层，但没有直接来源，属于推测",
+    "scene": "年末述职、考研考公冲刺",
+    "source": "推测，下一期需要找证据",
+    "state": "疲惫但停不下",
+    "unsaid": "我也想躺，但我不敢"
+  },
+  "layers": [
+    [
+      "内核",
+      "疲惫但可爱、认真过头、爱逞强 · 可以和躺躺组成对手搭档"
+    ],
+    [
+      "内容",
+      "出身品牌原创 · 主载体实物潮玩 · 次载体表情包 · 经典动作：把自己卷成毛线球滚走"
+    ],
+    [
+      "外壳",
+      "动物类人，羊 · 1.5 头身 · 招牌姿势：抱着自己的毛线角 · 叠音命名，双关卷毛和内卷"
+    ],
+    [
+      "头部",
+      "两只角是两卷半松开的毛线 [反常] · 卷毛刘海 [公共] · 困到眯成线的眼睛 [公共] · 腮红 [公共]"
+    ],
+    [
+      "视觉",
+      "燕麦白 + 金合欢黄毛线角（签名色）· 中等 · 针织手感"
+    ],
+    [
+      "商业",
+      "毛绒公仔和搪胶毛绒挂件 · 春节礼盒约 199 元 · 隐藏款：躺躺，毛线全部拆开、平躺的羊 · 节点：2027 年春节"
+    ]
+  ],
+  "links": [
+    {
+      "t": "2027 羊年春节指南",
+      "url": "https://chinese-culture-app.onrender.com/guide/chinese-new-year-2027"
+    },
+    {
+      "t": "新疆小羊走红（中国新闻网）",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677118.shtml"
+    }
+  ],
+  "mark": "毛线做的羊角。生肖的识别点和内卷的表达在同一个元素上。",
+  "name": "卷卷",
+  "odd": "1 处：角换成毛线（材质错位），从头顶往外长，读成装饰。",
+  "order": 3,
+  "origin": "2027 羊年 + 内卷",
+  "risk": "生肖窗口短，春节后要靠内卷的表达延续；羊在潮玩里少见，认知度要验证。",
+  "tests": [
+    [
+      "闭眼",
+      "通过",
+      "记住的是毛线角"
+    ],
+    [
+      "剪影",
+      "通过",
+      "两个螺旋角很清楚"
+    ],
+    [
+      "简笔画",
+      "通过",
+      "两个螺旋就是它"
+    ],
+    [
+      "缩小",
+      "通过",
+      ""
+    ],
+    [
+      "换皮",
+      "通过",
+      "换衣服后毛线角还在"
+    ]
+  ],
+  "timing": "治愈的同侧，借生肖节点切入",
+  "type": "自嘲型",
+  "zh": "一只 1.5 头身的小羊潮玩，直立，最突出的是头顶两只羊角：每只角都是一卷半松开的金合欢黄色毛线，线头垂下来一截。燕麦白色卷毛身体，卷毛刘海，困到眯成一条线的眼睛，淡淡腮红，双手抱着自己的一只毛线角。针织毛绒质感，能看到毛线纹理。暖米色背景，柔和光线，正面全身构图。"
+}

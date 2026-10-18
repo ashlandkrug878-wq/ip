@@ -1,0 +1,52 @@
+{
+  "cred": "",
+  "detail": "",
+  "fromBatch": "2026w42b",
+  "fromTitle": "第 2 期 · 10 月第 3 周加跑",
+  "hex": "",
+  "links": [
+    {
+      "t": "2027/28 秋冬关键色（FashionUnited）",
+      "url": "https://fashionunited.uk/news/fashion/wgsn-and-coloro-key-colours-for-autumn-winter-2027-28/2025091783967"
+    },
+    {
+      "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+      "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+    }
+  ],
+  "name": "安稳秋冬系",
+  "roles": [
+    {
+      "hex": "#8A3F2A",
+      "name": "Russet 红棕",
+      "role": "主色"
+    },
+    {
+      "hex": "#24483A",
+      "name": "Deep Green 深绿",
+      "role": "辅助色"
+    },
+    {
+      "hex": "#6B2A2A",
+      "name": "Red Mahogany 红木棕",
+      "role": "辅助色"
+    },
+    {
+      "hex": "#E9DFCF",
+      "name": "燕麦米",
+      "role": "中性色"
+    },
+    {
+      "hex": "#E8B83A",
+      "name": "Maize 玉米黄",
+      "role": "点缀色"
+    }
+  ],
+  "savedAt": "2026-10-18T14:53:05.633Z",
+  "source": "",
+  "tone": "暖调、中低明度的大地色系；稳重、可靠，适合秋冬限定和礼盒",
+  "toy": "",
+  "type": "palette",
+  "use": "",
+  "window": ""
+}

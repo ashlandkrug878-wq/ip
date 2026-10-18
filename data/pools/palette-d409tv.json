@@ -1,0 +1,48 @@
+{
+  "cred": "",
+  "detail": "",
+  "fromBatch": "2026w42b",
+  "fromTitle": "第 2 期 · 10 月第 3 周加跑",
+  "hex": "",
+  "links": [
+    {
+      "t": "2027/28 秋冬关键色（FashionUnited）",
+      "url": "https://fashionunited.uk/news/fashion/wgsn-and-coloro-key-colours-for-autumn-winter-2027-28/2025091783967"
+    }
+  ],
+  "name": "撞色搭子系",
+  "roles": [
+    {
+      "hex": "#C9B8DD",
+      "name": "Peaceful Lilac 平和淡紫",
+      "role": "主色"
+    },
+    {
+      "hex": "#E8B83A",
+      "name": "Maize 玉米黄",
+      "role": "辅助色"
+    },
+    {
+      "hex": "#F4EFE6",
+      "name": "奶油白",
+      "role": "中性色"
+    },
+    {
+      "hex": "#2B2A30",
+      "name": "炭黑",
+      "role": "中性色"
+    },
+    {
+      "hex": "#8A3F2A",
+      "name": "Russet 红棕",
+      "role": "点缀色"
+    }
+  ],
+  "savedAt": "2026-10-18T14:53:07.308Z",
+  "source": "",
+  "tone": "两个主角各占一色：淡紫和玉米黄互补，中性色统一；适合成对产品",
+  "toy": "",
+  "type": "palette",
+  "use": "",
+  "window": ""
+}

@@ -1,0 +1,47 @@
+{
+  "cred": "",
+  "detail": "",
+  "fromBatch": "2026w42b",
+  "fromTitle": "第 2 期 · 10 月第 3 周加跑",
+  "hex": "",
+  "links": [
+    {
+      "t": "2027/28 秋冬关键色（FashionUnited）",
+      "url": "https://fashionunited.uk/news/fashion/wgsn-and-coloro-key-colours-for-autumn-winter-2027-28/2025091783967"
+    },
+    {
+      "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+      "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+    }
+  ],
+  "name": "平和淡紫系",
+  "roles": [
+    {
+      "hex": "#C9B8DD",
+      "name": "Peaceful Lilac 平和淡紫",
+      "role": "主色"
+    },
+    {
+      "hex": "#C9A0C4",
+      "name": "Foxglove 毛地黄紫粉",
+      "role": "辅助色"
+    },
+    {
+      "hex": "#F4EFE6",
+      "name": "奶油白",
+      "role": "中性色"
+    },
+    {
+      "hex": "#E8B83A",
+      "name": "Maize 玉米黄",
+      "role": "点缀色"
+    }
+  ],
+  "savedAt": "2026-10-18T14:52:52.576Z",
+  "source": "",
+  "tone": "冷调、高明度、低饱和；柔和，带一点未来感。主色大面积用在身体，玉米黄只在记忆点上出现",
+  "toy": "",
+  "type": "palette",
+  "use": "",
+  "window": ""
+}

@@ -1,0 +1,99 @@
+{
+  "batch": "2026w42b",
+  "circle": {
+    "breakout": "\"嗯嗯\"本身就是所有人都在用的回复，表情包可以直接破圈",
+    "buy": "睡眠用品、AI 陪伴应用会员、陪伴型毛绒",
+    "name": "深夜倾诉党、社恐",
+    "share": "床头合影，配\"今晚只说给它听\"",
+    "signs": "嗯嗯、在吗、没事、我就说说",
+    "where": "小红书情绪话题、深夜的社交平台评论区",
+    "who": "18 到 28 岁，独居或住宿舍"
+  },
+  "collide": "耳朵类记忆点有大耳狗、史迪奇、玲娜贝儿，但都是对称的大耳朵；嗯嗯是不对称、而且是物件，拉得开。",
+  "egg": "吊牌写\"嗯嗯，我在\"；隐藏款的听筒线是卷曲的电话线，绕成一颗心。",
+  "en": "ENEN",
+  "enp": "A designer toy of a small puppy, 1.5-head proportion, cream-white short plush. The focal point is its left ear: a glossy luminous cobalt-blue vintage telephone receiver, while the right ear is a normal soft floppy ear, asymmetric. The puppy tilts its head, pointing the receiver ear forward, small black bead eyes, tiny dot nose, mouth slightly open as if saying 'mm-hm'. Minimal, no extra clothing. Vinyl-face plush charm format. Plain light grey background, soft studio lighting, three-quarter full-body view.",
+  "expr": "我说不出好听的话，但我一直在听",
+  "fore": "用到：Luminous Blue（A，12 到 24 个月）做听筒耳朵的签名色，2027 的主题恰好是连接；能量补给者对 AI 的怀疑（A）支持\"不完美回应\"的角度",
+  "insight": {
+    "act": "打开 AI 聊天倾诉；文章数据：39% 的年轻人会向 AI 寻求建议或陪伴",
+    "conflict": "渴望连接，又害怕被拒绝；AI 不会拒绝，但它的回应完美得不真实",
+    "depth": "深层：落在\"怕被拒\"和\"嫌它假\"的矛盾上",
+    "scene": "深夜，睡不着的时候",
+    "source": "人人都是产品经理关于年轻人孤独与 AI 陪伴的文章；WGSN 2027 能量补给者画像",
+    "state": "想被听见，但不想被评判，也不想欠人情",
+    "unsaid": "我知道它不是真的懂我，可它从来不嫌我烦"
+  },
+  "layers": [
+    [
+      "内容",
+      "主载体表情包 · 次载体实物潮玩（床头）· 动作种子：把听筒耳朵贴到你脸边，点点头说嗯嗯"
+    ],
+    [
+      "外壳",
+      "动物类人，小狗 · 1.5 头身 · 招牌姿势：歪着头，用听筒耳朵对着你 · 叠音命名"
+    ],
+    [
+      "头部",
+      "一只耳朵是正常的垂耳 [公共]，另一只是复古电话听筒 [反常] · 豆豆眼 [公共] · 小圆点鼻 [公共] · 微微张开的小嘴 [公共]"
+    ],
+    [
+      "视觉",
+      "奶油白 + Luminous Blue 听筒（签名色）· 极简 · 短绒加亮面搪胶听筒"
+    ],
+    [
+      "商业",
+      "搪胶毛绒挂件和床头公仔 · 69 至 129 元 · 节点：考试周、深夜、年末"
+    ]
+  ],
+  "links": [
+    {
+      "t": "年轻人与 AI 陪伴（人人都是产品经理）",
+      "url": "https://www.woshipm.com/it/6308579.html"
+    },
+    {
+      "t": "2027 消费者画像（WGSN）",
+      "url": "https://www.wgsn.com/en/blogs/consumer-profiles-will-shape-market-2027"
+    },
+    {
+      "t": "2027 年度色 Luminous Blue（WGSN）",
+      "url": "https://www.wgsn.com/en/blogs/colour-year-2027-luminous-blue"
+    }
+  ],
+  "mark": "一只耳朵是复古电话听筒。它永远在听，所以耳朵变成了接听的样子。",
+  "name": "嗯嗯",
+  "odd": "1 处：听筒耳朵。单个、轮廓清楚，从头部往外长，读成装饰。",
+  "order": 2,
+  "origin": "向 AI 要陪伴 + 能量补给者对 AI 的怀疑",
+  "risk": "情绪向陪伴赛道拥挤；如果表达只停在\"陪你\"，会和很多治愈系撞车，要守住\"笨拙但真实\"的反差。",
+  "tests": [
+    [
+      "闭眼",
+      "通过",
+      "听筒耳朵"
+    ],
+    [
+      "剪影",
+      "存疑",
+      "听筒在剪影里可能像普通的翘耳"
+    ],
+    [
+      "简笔画",
+      "通过",
+      ""
+    ],
+    [
+      "缩小",
+      "通过",
+      "蓝色听筒对比强"
+    ],
+    [
+      "换皮",
+      "通过",
+      ""
+    ]
+  ],
+  "timing": "站在主流对面：不是完美的安慰，而是笨拙但真实的在场",
+  "type": "反差型",
+  "zh": "一只 1.5 头身的小狗潮玩，奶油白短绒，最突出的是左边的耳朵：它是一只亮面的明亮钴蓝色复古电话听筒，右边是普通的软软垂耳，不对称。小狗歪着头，把听筒耳朵对着前方，黑色豆豆眼，小圆点鼻子，小嘴微微张开像在说\"嗯\"。极简，无多余服装。搪胶毛绒挂件形态。纯浅灰背景，柔和棚拍光，四分之三侧全身构图。"
+}

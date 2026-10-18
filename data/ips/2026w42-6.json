@@ -1,0 +1,99 @@
+{
+  "batch": "2026w42",
+  "circle": {
+    "breakout": "梅雨季城市话题",
+    "buy": "香薰、雨声白噪音、情绪手账",
+    "name": "敏感内向型",
+    "share": "雨天窗边的照片",
+    "signs": "emo、湿度、下雨天",
+    "where": "小红书情绪话题、网易云评论区",
+    "who": "18 到 28 岁"
+  },
+  "collide": "和汉顿都是绿色水生角色。区别在于汉顿是丑萌哀怨，潮潮是诡萌温柔，加上透明材质。",
+  "egg": "吊牌写\"今日湿度 87%\"，给情绪低落但不想被说丧的人。",
+  "en": "CHAOCHAO",
+  "enp": "A designer toy of a small water sprite, 2-head proportion, sea-teal skin. The focal point is its hair made of clear jelly-like water droplets, with drops dripping from the tips. Large solid black eyes without pupils, tiny dot nose, single-line mouth, a touch of coral blush. Holding a small clear puddle in both hands. Matte soft-vinyl body, glossy transparent hair. Rain-streaked window background, cool soft light, full-body front view.",
+  "expr": "我只是情绪有点潮湿，不是坏掉了",
+  "fore": "用到：Wondermode 的色彩晕染和幻想感（B）、感官二元（C）。升级建议：肤色从海王绿换成 Deep Green 深绿（A，2027/28 秋冬），更沉稳",
+  "insight": {
+    "act": "说自己 emo、丧，但不想被安慰",
+    "conflict": "想被理解，又怕被说负能量",
+    "depth": "深层，但属于推测",
+    "scene": "阴雨天、深夜",
+    "source": "推测，下一期需要找证据",
+    "state": "低落，但不是坏掉了",
+    "unsaid": "我只是今天有点湿，你别急着把我晒干"
+  },
+  "layers": [
+    [
+      "内核",
+      "低落但温柔、敏感、会照顾人 · 单人"
+    ],
+    [
+      "内容",
+      "出身品牌原创 · 主载体视觉海报 · 次载体实物潮玩 · 经典动作：走到哪滴到哪，留下一串小水坑"
+    ],
+    [
+      "外壳",
+      "怪兽精灵，小水妖 · 2 头身 · 招牌姿势：双手捧着一个小水坑 · 叠音命名，潮同时指潮湿和潮玩"
+    ],
+    [
+      "头部",
+      "透明果冻水滴状头发，一直在滴 [反常] · 海王绿肤色 [反常] · 全黑无瞳大眼 [专属] · 小圆点鼻 [公共] · 一条线嘴 [公共]"
+    ],
+    [
+      "视觉",
+      "海王绿 + 透明 + 一点珊瑚粉腮红 · 中等 · 透明果冻加哑光软胶"
+    ],
+    [
+      "商业",
+      "首发 PVC 盲盒（透明部件做不了毛绒）· 约 69 元 · 隐藏款：晴天潮潮，干透的版本 · 节点：梅雨季、雨天主题"
+    ]
+  ],
+  "links": [
+    {
+      "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+      "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+    },
+    {
+      "t": "2027 面料趋势（Design News Now）",
+      "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+    }
+  ],
+  "mark": "透明的、在滴水的头发。潮湿被做成可爱的样子，就是表达本身。",
+  "name": "潮潮",
+  "odd": "2 处：透明水滴头发、海王绿肤色。头发单个成形、往下滴，像头饰；肤色是整体识别色。",
+  "order": 6,
+  "origin": "Neptune Green 海王绿 + 钟摆往怪和诡",
+  "risk": "透明材质成本高、量产难；诡萌离大众较远；首发只能做 PVC，和优先毛绒的原则冲突。",
+  "tests": [
+    [
+      "闭眼",
+      "通过",
+      "记住的是透明滴水的头发"
+    ],
+    [
+      "剪影",
+      "存疑",
+      "水滴发的剪影可能像普通卷发"
+    ],
+    [
+      "简笔画",
+      "通过",
+      ""
+    ],
+    [
+      "缩小",
+      "存疑",
+      "透明细节缩小后看不清"
+    ],
+    [
+      "换皮",
+      "通过",
+      "头发和肤色保留"
+    ]
+  ],
+  "timing": "站在主流对面：诡萌",
+  "type": "允许型",
+  "zh": "一只 2 头身的小水妖潮玩，海王绿色皮肤，最突出的是头发：由透明果冻质感的水滴组成，水滴正从发梢往下滴。全黑、没有瞳孔的大眼睛，小圆点鼻子，一条线的嘴，脸颊一点珊瑚粉。双手捧着一个小小的透明水坑。身体哑光软胶质感，头发透明发亮。雨后玻璃窗背景，冷色柔光，正面全身构图。"
+}

@@ -1,0 +1,91 @@
+{
+  "batch": "2026w42b",
+  "circle": {
+    "breakout": "两人各买一只的社交属性，天然带传播",
+    "buy": "情侣款和闺蜜款小物、旅行纪念品",
+    "name": "搭子社交圈",
+    "share": "两只拼在一起拍照，再各自带走",
+    "signs": "搭子、拼饭、同路、散了也好",
+    "where": "小红书找搭子帖、青年夜校、旅行目的地",
+    "who": "20 到 30 岁，独自在大城市的人"
+  },
+  "collide": "成对的形式和线条小狗相近，但线条小狗是情侣，搭搭是阶段性的陌生搭子。拼图元素在文创里常见，专属性一般。",
+  "egg": "吊牌写\"本次同路 · 有效期到下一站\"。",
+  "en": "DADA",
+  "enp": "A designer toy pair of two small children standing side by side, 2-head proportion, one in soft lilac and one in maize yellow. The focal point is a jigsaw-puzzle shape on top of each head, one with a tab and one with a slot, so they fit together. Both have small black bead eyes, single-line mouths, short hair, each reaching one hand toward the other. Short plush texture, minimal. Plain light grey background, soft studio lighting, full-body front view.",
+  "expr": "只同路一段，也算数",
+  "fore": "前瞻性弱，主要是现在的现象。可以用 Peaceful Lilac 和 Maize 做两只的撞色（A）",
+  "insight": {
+    "act": "在评论区找旅行搭子、饭搭子；陌生人结伴同游，分开后不一定再联系",
+    "conflict": "想要个人空间，又需要结伴的安全感",
+    "depth": "深层：给阶段性的关系一个正当的名分",
+    "scene": "旅行、吃饭、上夜校",
+    "source": "新华网关于年轻人搭子社交的报道",
+    "state": "想要陪伴，但不想要负担",
+    "unsaid": "我们不用做一辈子的朋友，今天一起就够了"
+  },
+  "layers": [
+    [
+      "内容",
+      "主载体实物潮玩（成对挂件）· 次载体短视频 · 动作种子：两只头顶的拼图块咔一声扣在一起"
+    ],
+    [
+      "外壳",
+      "类人，两个小孩 · 2 头身 · 招牌姿势：一只手伸向旁边 · 叠音命名"
+    ],
+    [
+      "头部",
+      "头顶一块拼图凸起或凹口，两只正好扣上 [反常] · 豆豆眼 [公共] · 一条线嘴 [公共] · 短发 [公共]"
+    ],
+    [
+      "视觉",
+      "两只撞色：平和淡紫和玉米黄 · 极简 · 短绒"
+    ],
+    [
+      "商业",
+      "磁吸成对挂件 · 两只 99 元左右 · 节点：毕业季、旅行旺季、双十一"
+    ]
+  ],
+  "links": [
+    {
+      "t": "年轻人搭子社交（新华网）",
+      "url": "https://www.xinhuanet.com/fashion/20260403/3bac26722c6340d8a36ed88d30787ccd/c.html"
+    }
+  ],
+  "mark": "头顶的拼图块。两只扣在一起时才完整，分开也各自成立。",
+  "name": "搭搭",
+  "odd": "1 处：头顶的拼图结构。",
+  "order": 5,
+  "origin": "搭子社交",
+  "risk": "拼图元素不够专属，容易被认为是普通的闺蜜款文创；需要更强的记忆点。",
+  "tests": [
+    [
+      "闭眼",
+      "存疑",
+      "拼图块可能记不住"
+    ],
+    [
+      "剪影",
+      "通过",
+      "头顶的凸起"
+    ],
+    [
+      "简笔画",
+      "通过",
+      ""
+    ],
+    [
+      "缩小",
+      "通过",
+      ""
+    ],
+    [
+      "换皮",
+      "通过",
+      ""
+    ]
+  ],
+  "timing": "治愈的同侧，讲轻关系",
+  "type": "允许型",
+  "zh": "两个 2 头身的小孩潮玩并排站着，一个平和淡紫色、一个玉米黄色，最突出的是两人头顶各有一块拼图结构，一个是凸起、一个是凹口，正好能扣在一起。两人都是黑色豆豆眼、一条线的嘴、短发，各伸出一只手指向对方。短绒质感，极简。纯浅灰背景，柔和棚拍光，正面全身构图。"
+}

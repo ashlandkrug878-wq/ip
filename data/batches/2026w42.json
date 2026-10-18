@@ -1,0 +1,796 @@
+{
+  "colors": [
+    {
+      "cred": "A",
+      "detail": "WGSN 与 Coloro 2027 年度色，参照青金石和钴蓝，神秘又古怪，主题是连接",
+      "hex": "#2350C8",
+      "links": [
+        {
+          "t": "2027 年度色 Luminous Blue（WGSN）",
+          "url": "https://www.wgsn.com/en/blogs/colour-year-2027-luminous-blue"
+        }
+      ],
+      "name": "Luminous Blue 明亮蓝",
+      "use": "人人会用，适合当签名色，不要当主色",
+      "window": "12 到 24 个月"
+    },
+    {
+      "cred": "A",
+      "detail": "2027/28 秋冬关键色，秋天的土地和成熟的果实，稳重自信",
+      "hex": "#8A3F2A",
+      "links": [
+        {
+          "t": "2027/28 秋冬关键色（FashionUnited）",
+          "url": "https://fashionunited.uk/news/fashion/wgsn-and-coloro-key-colours-for-autumn-winter-2027-28/2025091783967"
+        }
+      ],
+      "name": "Russet 红棕",
+      "use": "秋冬款主色或配件色",
+      "window": "12 到 24 个月"
+    },
+    {
+      "cred": "A",
+      "detail": "2027/28 秋冬关键色，柔和、带一点未来感",
+      "hex": "#C9B8DD",
+      "links": [
+        {
+          "t": "2027/28 秋冬关键色（FashionUnited）",
+          "url": "https://fashionunited.uk/news/fashion/wgsn-and-coloro-key-colours-for-autumn-winter-2027-28/2025091783967"
+        }
+      ],
+      "name": "Peaceful Lilac 平和淡紫",
+      "use": "适合做主色，毛绒上要防偏灰",
+      "window": "12 到 24 个月"
+    },
+    {
+      "cred": "A",
+      "detail": "2027/28 秋冬关键色，温暖明亮，乐观",
+      "hex": "#E8B83A",
+      "links": [
+        {
+          "t": "2027/28 秋冬关键色（FashionUnited）",
+          "url": "https://fashionunited.uk/news/fashion/wgsn-and-coloro-key-colours-for-autumn-winter-2027-28/2025091783967"
+        }
+      ],
+      "name": "Maize 玉米黄",
+      "use": "可以替代俗气的金色",
+      "window": "12 到 24 个月"
+    },
+    {
+      "cred": "A",
+      "detail": "2027/28 秋冬关键色，优雅神秘，可以替代黑色",
+      "hex": "#24483A",
+      "links": [
+        {
+          "t": "2027/28 秋冬关键色（FashionUnited）",
+          "url": "https://fashionunited.uk/news/fashion/wgsn-and-coloro-key-colours-for-autumn-winter-2027-28/2025091783967"
+        }
+      ],
+      "name": "Deep Green 深绿",
+      "use": "暗色系 IP 的主色",
+      "window": "12 到 24 个月"
+    },
+    {
+      "cred": "A",
+      "detail": "Pantone 2026 秋冬时装周色，介于蓝绿之间",
+      "hex": "#3E8E87",
+      "links": [
+        {
+          "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+          "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+        }
+      ],
+      "name": "Neptune Green 海王绿",
+      "use": "已经在用，判断饱和度",
+      "window": "现在"
+    },
+    {
+      "cred": "A",
+      "detail": "Pantone 2026 秋冬时装周色，新的主打黄",
+      "hex": "#E6C34A",
+      "links": [
+        {
+          "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+          "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+        }
+      ],
+      "name": "Acacia 金合欢黄",
+      "use": "已经在用",
+      "window": "现在"
+    },
+    {
+      "cred": "A",
+      "detail": "Pantone 2026 秋冬时装周色，柔和浪漫的淡紫粉",
+      "hex": "#C9A0C4",
+      "links": [
+        {
+          "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+          "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+        }
+      ],
+      "name": "Foxglove 毛地黄紫粉",
+      "use": "已经在用",
+      "window": "现在"
+    },
+    {
+      "cred": "A",
+      "detail": "Pantone 2026 秋冬时装周色，偏米色的尘粉",
+      "hex": "#C9A08E",
+      "links": [
+        {
+          "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+          "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+        }
+      ],
+      "name": "Muted Clay 灰陶粉",
+      "use": "低饱和底色",
+      "window": "现在"
+    },
+    {
+      "cred": "A",
+      "detail": "Pantone 2026 秋冬时装周色，比荧光绿更收敛",
+      "hex": "#8DB86A",
+      "links": [
+        {
+          "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+          "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+        }
+      ],
+      "name": "Green Envy 柔绿",
+      "use": "已经在用",
+      "window": "现在"
+    },
+    {
+      "cred": "A",
+      "detail": "Pantone 2026 秋冬时装周色，带紫调的红",
+      "hex": "#8E3B45",
+      "links": [
+        {
+          "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+          "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+        }
+      ],
+      "name": "Arabian Spice 香料红",
+      "use": "已经在用",
+      "window": "现在"
+    },
+    {
+      "cred": "A",
+      "detail": "Pantone 2026 秋冬时装周色，鲜艳的玫红",
+      "hex": "#C2307A",
+      "links": [
+        {
+          "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+          "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+        }
+      ],
+      "name": "Festival Fuchsia 节庆玫红",
+      "use": "点缀色",
+      "window": "现在"
+    },
+    {
+      "cred": "A",
+      "detail": "Pantone 2026 秋冬时装周色，樱桃红加巧克力棕",
+      "hex": "#6B2A2A",
+      "links": [
+        {
+          "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+          "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+        }
+      ],
+      "name": "Red Mahogany 红木棕",
+      "use": "已经在用",
+      "window": "现在"
+    },
+    {
+      "cred": "A",
+      "detail": "Pantone 2026 秋冬时装周色，海岸感的蓝",
+      "hex": "#2F5F8F",
+      "links": [
+        {
+          "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+          "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+        }
+      ],
+      "name": "All Aboard 海港蓝",
+      "use": "已经在用",
+      "window": "现在"
+    },
+    {
+      "cred": "A",
+      "detail": "Pantone 2026 秋冬时装周色，暗橄榄绿",
+      "hex": "#5A5A33",
+      "links": [
+        {
+          "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+          "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+        }
+      ],
+      "name": "Burnt Olive 焦橄榄",
+      "use": "已经在用",
+      "window": "现在"
+    }
+  ],
+  "date": "2026-10-18",
+  "materials": [
+    {
+      "cred": "B",
+      "detail": "Awaken 自然主题：干爽手感的毛圈布",
+      "links": [
+        {
+          "t": "2027 面料趋势（Design News Now）",
+          "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+        }
+      ],
+      "name": "圈圈绒",
+      "toy": "圈圈毛绒、羊羔绒身体",
+      "window": "6 到 12 个月"
+    },
+    {
+      "cred": "B",
+      "detail": "Awaken 自然主题：环状流苏",
+      "links": [
+        {
+          "t": "2027 面料趋势（Design News Now）",
+          "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+        }
+      ],
+      "name": "流苏与毛圈边",
+      "toy": "耳朵或衣服边缘的毛圈装饰",
+      "window": "6 到 12 个月"
+    },
+    {
+      "cred": "B",
+      "detail": "Awaken 自然主题：仿木纹、压纹",
+      "links": [
+        {
+          "t": "2027 面料趋势（Design News Now）",
+          "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+        }
+      ],
+      "name": "木纹与颗粒感",
+      "toy": "哑光颗粒漆、仿木纹 PVC",
+      "window": "6 到 12 个月"
+    },
+    {
+      "cred": "B",
+      "detail": "Wondermode 幻想主题",
+      "links": [
+        {
+          "t": "2027 面料趋势（Design News Now）",
+          "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+        }
+      ],
+      "name": "丝绒",
+      "toy": "植绒表面",
+      "window": "6 到 12 个月"
+    },
+    {
+      "cred": "B",
+      "detail": "Wondermode 幻想主题：颜色像云一样晕开",
+      "links": [
+        {
+          "t": "2027 面料趋势（Design News Now）",
+          "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+        }
+      ],
+      "name": "色彩晕染",
+      "toy": "渐变喷涂、扎染毛绒",
+      "window": "6 到 12 个月"
+    },
+    {
+      "cred": "B",
+      "detail": "Wondermode 幻想主题：错视转印、叠画",
+      "links": [
+        {
+          "t": "2027 面料趋势（Design News Now）",
+          "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+        }
+      ],
+      "name": "错视印花",
+      "toy": "布面错视印花、假衣服印花",
+      "window": "6 到 12 个月"
+    },
+    {
+      "cred": "B",
+      "detail": "Space for Solace 疗愈主题：提花绗缝",
+      "links": [
+        {
+          "t": "2027 面料趋势（Design News Now）",
+          "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+        }
+      ],
+      "name": "绗缝",
+      "toy": "绗缝毛绒、被子感身体",
+      "window": "6 到 12 个月"
+    },
+    {
+      "cred": "B",
+      "detail": "Space for Solace 疗愈主题：有节奏的罗纹",
+      "links": [
+        {
+          "t": "2027 面料趋势（Design News Now）",
+          "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+        }
+      ],
+      "name": "罗纹针织",
+      "toy": "针织罗纹毛绒",
+      "window": "6 到 12 个月"
+    },
+    {
+      "cred": "B",
+      "detail": "Ritual 传统工艺主题：立体丝带刺绣",
+      "links": [
+        {
+          "t": "2027 面料趋势（Design News Now）",
+          "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+        }
+      ],
+      "name": "丝带刺绣",
+      "toy": "刺绣贴布、立体绣花配件",
+      "window": "6 到 12 个月"
+    },
+    {
+      "cred": "B",
+      "detail": "Ritual 传统工艺主题：带镜片的钩织",
+      "links": [
+        {
+          "t": "2027 面料趋势（Design News Now）",
+          "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+        }
+      ],
+      "name": "镜面钩织",
+      "toy": "钩织配件加亮片",
+      "window": "6 到 12 个月"
+    },
+    {
+      "cred": "C",
+      "detail": "轻盈透明的材质势头很强，和厚实触感并置",
+      "links": [
+        {
+          "t": "2027 面料趋势（Trendalytics，赞助内容）",
+          "url": "https://trendalytics.co/insights/fabric-trends-2027-data-backed-textile-texture-forecast"
+        }
+      ],
+      "name": "透明薄纱",
+      "toy": "透明或半透明搪胶、果冻胶部件",
+      "window": "6 到 12 个月"
+    },
+    {
+      "cred": "B",
+      "detail": "慢回弹的解压材质，已经是情绪消费品类",
+      "links": [
+        {
+          "t": "2026 生活趋势报告（腾讯新闻）",
+          "url": "https://news.qq.com/rain/a/20260815A07UKZ00"
+        }
+      ],
+      "name": "硅胶捏捏",
+      "toy": "慢回弹捏捏部件，和毛绒结合",
+      "window": "现在"
+    }
+  ],
+  "origins": [
+    {
+      "links": [
+        {
+          "t": "2026 生活趋势报告（腾讯新闻）",
+          "url": "https://news.qq.com/rain/a/20260815A07UKZ00"
+        }
+      ],
+      "name": "工位变成情绪空间",
+      "source": "年轻人把工位布置成放满毛绒玩具的情绪空间",
+      "status": "入选",
+      "to": "挂挂"
+    },
+    {
+      "links": [
+        {
+          "t": "2026 生活趋势报告（腾讯新闻）",
+          "url": "https://news.qq.com/rain/a/20260815A07UKZ00"
+        }
+      ],
+      "name": "捏捏解压",
+      "source": "硅胶捏捏成为解压消费",
+      "status": "入选",
+      "to": "崩崩"
+    },
+    {
+      "links": [
+        {
+          "t": "德国青年年度词候选（Euronews）",
+          "url": "https://arabic.euronews.com/2026/10/10/crashout-ragebait-or-peak-this-is-the-youth-word-of-the-year-2026"
+        }
+      ],
+      "name": "Crashout 情绪失控",
+      "source": "德国青年年度词候选，指情绪爆发、彻底失控",
+      "status": "入选",
+      "to": "崩崩"
+    },
+    {
+      "links": [
+        {
+          "t": "2027 羊年春节指南",
+          "url": "https://chinese-culture-app.onrender.com/guide/chinese-new-year-2027"
+        }
+      ],
+      "name": "2027 羊年",
+      "source": "春节在 2027 年 2 月",
+      "status": "入选",
+      "to": "卷卷"
+    },
+    {
+      "links": [
+        {
+          "t": "情绪消费洞察报告（每日经济新闻）",
+          "url": "https://www.nbd.com.cn/articles/2026-03-14/4292384.html"
+        }
+      ],
+      "name": "猫消费增速超过狗",
+      "source": "2025 年城市猫消费增速 5.2%，狗 3.2%",
+      "status": "入选",
+      "to": "晒晒"
+    },
+    {
+      "links": [
+        {
+          "t": "2026 生活趋势报告（腾讯新闻）",
+          "url": "https://news.qq.com/rain/a/20260815A07UKZ00"
+        },
+        {
+          "t": "2026 上半年潮玩市场（36氪）",
+          "url": "https://www.36kr.com/p/3875690969640969"
+        }
+      ],
+      "name": "晒黑成为主角",
+      "source": "日晒海岛主题展里黑皮 Kitty 是主角；晒黑雪王盲盒上榜",
+      "status": "入选",
+      "to": "晒晒"
+    },
+    {
+      "links": [
+        {
+          "t": "2026 生活趋势报告（腾讯新闻）",
+          "url": "https://news.qq.com/rain/a/20260815A07UKZ00"
+        }
+      ],
+      "name": "从甜美庇护到我可以这样活",
+      "source": "趋势报告对怀旧与自我表达的观察",
+      "status": "入选",
+      "to": "晒晒"
+    },
+    {
+      "links": [
+        {
+          "t": "2026 生活趋势报告（腾讯新闻）",
+          "url": "https://news.qq.com/rain/a/20260815A07UKZ00"
+        }
+      ],
+      "name": "注意力保护舱",
+      "source": "趋势报告关键词：注意力保护、心流",
+      "status": "入选",
+      "to": "静静"
+    },
+    {
+      "links": [
+        {
+          "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+          "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+        }
+      ],
+      "name": "Neptune Green 海王绿",
+      "source": "Pantone 2026 秋冬时装周色",
+      "status": "入选",
+      "to": "潮潮"
+    },
+    {
+      "links": [
+        {
+          "t": "星星人与审美迁移（紫牛新闻）",
+          "url": "https://www.yzwb.net/news/ch/202608/t20260821_384929.html"
+        },
+        {
+          "t": "2026 上半年潮玩市场（36氪）",
+          "url": "https://www.36kr.com/p/3875690969640969"
+        }
+      ],
+      "name": "治愈系饱和，往怪和诡摆动",
+      "source": "星星人代表的软萌治愈正在收获市场好感，审美在迁移",
+      "status": "入选",
+      "to": "潮潮"
+    },
+    {
+      "links": [
+        {
+          "t": "德国青年年度词候选（Euronews）",
+          "url": "https://arabic.euronews.com/2026/10/10/crashout-ragebait-or-peak-this-is-the-youth-word-of-the-year-2026"
+        }
+      ],
+      "name": "Ragebait 被激怒",
+      "source": "德国青年年度词候选",
+      "status": "备选",
+      "to": "可以留作某个 IP 的对手角色"
+    },
+    {
+      "links": [
+        {
+          "t": "三季度潮玩市场（36氪）",
+          "url": "https://www.36kr.com/p/4016778336833665"
+        }
+      ],
+      "name": "AI 潮玩 + NFC 互动",
+      "source": "新品牌的盲盒附带 NFC 卡，配合 App 数字互动",
+      "status": "备选",
+      "to": "属于玩法，可以叠加到任何方案"
+    },
+    {
+      "links": [
+        {
+          "t": "三季度潮玩市场（36氪）",
+          "url": "https://www.36kr.com/p/4016778336833665"
+        },
+        {
+          "t": "2026 生活趋势报告（腾讯新闻）",
+          "url": "https://news.qq.com/rain/a/20260815A07UKZ00"
+        }
+      ],
+      "name": "城市印象与重构附近",
+      "source": "城市印象系列；趋势报告的重构附近",
+      "status": "备选",
+      "to": "更适合做已有 IP 的系列"
+    },
+    {
+      "links": [
+        {
+          "t": "德国青年年度词候选（Euronews）",
+          "url": "https://arabic.euronews.com/2026/10/10/crashout-ragebait-or-peak-this-is-the-youth-word-of-the-year-2026"
+        }
+      ],
+      "name": "Peak 极致",
+      "source": "德国青年年度词候选",
+      "status": "淘汰",
+      "to": "太抽象，放不进一个画面"
+    },
+    {
+      "links": [
+        {
+          "t": "Z 世代怀念 2016（Campaign）",
+          "url": "https://www.campaignlive.co.uk/article/why-gen-z-is-nostalgic-for-a-year-they-never-lived-through/4n2seq5tp1nw5xt9j03ttk8152"
+        }
+      ],
+      "name": "2026 是新的 2016",
+      "source": "海外媒体报道 Z 世代怀念 2016",
+      "status": "淘汰",
+      "to": "只拿到标题，信息不足"
+    },
+    {
+      "links": [
+        {
+          "t": "2027 消费者画像（WGSN）",
+          "url": "https://www.wgsn.com/en/blogs/consumer-profiles-will-shape-market-2027"
+        }
+      ],
+      "name": "Guardians of Privacy 隐私守护者",
+      "source": "WGSN 2027 消费者画像：抗拒永远在线和过度曝光",
+      "status": "入选",
+      "to": "静静"
+    },
+    {
+      "links": [
+        {
+          "t": "2027 消费者画像（WGSN）",
+          "url": "https://www.wgsn.com/en/blogs/consumer-profiles-will-shape-market-2027"
+        }
+      ],
+      "name": "Energisers 能量补给者",
+      "source": "WGSN 2027 消费者画像：用玩乐消化愤怒，偏爱荒诞",
+      "status": "入选",
+      "to": "崩崩"
+    }
+  ],
+  "palettes": [
+    {
+      "fit": "挂挂 v2、疗愈和陪伴类形象",
+      "links": [
+        {
+          "t": "2027/28 秋冬关键色（FashionUnited）",
+          "url": "https://fashionunited.uk/news/fashion/wgsn-and-coloro-key-colours-for-autumn-winter-2027-28/2025091783967"
+        },
+        {
+          "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+          "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+        }
+      ],
+      "name": "平和淡紫系",
+      "roles": [
+        {
+          "hex": "#C9B8DD",
+          "name": "Peaceful Lilac 平和淡紫",
+          "role": "主色"
+        },
+        {
+          "hex": "#C9A0C4",
+          "name": "Foxglove 毛地黄紫粉",
+          "role": "辅助色"
+        },
+        {
+          "hex": "#F4EFE6",
+          "name": "奶油白",
+          "role": "中性色"
+        },
+        {
+          "hex": "#E8B83A",
+          "name": "Maize 玉米黄",
+          "role": "点缀色"
+        }
+      ],
+      "tone": "冷调、高明度、低饱和；柔和，带一点未来感。主色大面积用在身体，玉米黄只在记忆点上出现"
+    },
+    {
+      "fit": "卷卷秋冬款、方方礼盒",
+      "links": [
+        {
+          "t": "2027/28 秋冬关键色（FashionUnited）",
+          "url": "https://fashionunited.uk/news/fashion/wgsn-and-coloro-key-colours-for-autumn-winter-2027-28/2025091783967"
+        },
+        {
+          "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+          "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+        }
+      ],
+      "name": "安稳秋冬系",
+      "roles": [
+        {
+          "hex": "#8A3F2A",
+          "name": "Russet 红棕",
+          "role": "主色"
+        },
+        {
+          "hex": "#24483A",
+          "name": "Deep Green 深绿",
+          "role": "辅助色"
+        },
+        {
+          "hex": "#6B2A2A",
+          "name": "Red Mahogany 红木棕",
+          "role": "辅助色"
+        },
+        {
+          "hex": "#E9DFCF",
+          "name": "燕麦米",
+          "role": "中性色"
+        },
+        {
+          "hex": "#E8B83A",
+          "name": "Maize 玉米黄",
+          "role": "点缀色"
+        }
+      ],
+      "tone": "暖调、中低明度的大地色系；稳重、可靠，适合秋冬限定和礼盒"
+    },
+    {
+      "fit": "嗯嗯、静静这类讲连接与断联的形象",
+      "links": [
+        {
+          "t": "2027 年度色 Luminous Blue（WGSN）",
+          "url": "https://www.wgsn.com/en/blogs/colour-year-2027-luminous-blue"
+        },
+        {
+          "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+          "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+        }
+      ],
+      "name": "明亮连接系",
+      "roles": [
+        {
+          "hex": "#2350C8",
+          "name": "Luminous Blue 明亮蓝",
+          "role": "主色"
+        },
+        {
+          "hex": "#2F5F8F",
+          "name": "All Aboard 海港蓝",
+          "role": "辅助色"
+        },
+        {
+          "hex": "#F4EFE6",
+          "name": "奶油白",
+          "role": "中性色"
+        },
+        {
+          "hex": "#C2307A",
+          "name": "Festival Fuchsia 节庆玫红",
+          "role": "点缀色"
+        }
+      ],
+      "tone": "冷调、高饱和的蓝系；神秘又古怪。年度色人人会用，这里把它放在主色，靠玫红点缀拉开"
+    },
+    {
+      "fit": "潮潮、诡萌和暗黑方向",
+      "links": [
+        {
+          "t": "2027/28 秋冬关键色（FashionUnited）",
+          "url": "https://fashionunited.uk/news/fashion/wgsn-and-coloro-key-colours-for-autumn-winter-2027-28/2025091783967"
+        },
+        {
+          "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+          "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+        }
+      ],
+      "name": "深绿诡萌系",
+      "roles": [
+        {
+          "hex": "#24483A",
+          "name": "Deep Green 深绿",
+          "role": "主色"
+        },
+        {
+          "hex": "#3E8E87",
+          "name": "Neptune Green 海王绿",
+          "role": "辅助色"
+        },
+        {
+          "hex": "#5A5A33",
+          "name": "Burnt Olive 焦橄榄",
+          "role": "辅助色"
+        },
+        {
+          "hex": "#E9DFCF",
+          "name": "燕麦米",
+          "role": "中性色"
+        },
+        {
+          "hex": "#C9A0C4",
+          "name": "Foxglove 毛地黄紫粉",
+          "role": "点缀色"
+        }
+      ],
+      "tone": "深色绿系，可以替代黑色；优雅、神秘，适合站在治愈主流对面的形象"
+    },
+    {
+      "fit": "方方、卷卷春节款",
+      "links": [
+        {
+          "t": "2027/28 秋冬关键色（FashionUnited）",
+          "url": "https://fashionunited.uk/news/fashion/wgsn-and-coloro-key-colours-for-autumn-winter-2027-28/2025091783967"
+        },
+        {
+          "t": "2027 年度色 Luminous Blue（WGSN）",
+          "url": "https://www.wgsn.com/en/blogs/colour-year-2027-luminous-blue"
+        },
+        {
+          "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+          "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+        }
+      ],
+      "name": "暖阳玉米系",
+      "roles": [
+        {
+          "hex": "#E8B83A",
+          "name": "Maize 玉米黄",
+          "role": "主色"
+        },
+        {
+          "hex": "#C9A08E",
+          "name": "Muted Clay 灰陶粉",
+          "role": "辅助色"
+        },
+        {
+          "hex": "#F4EFE6",
+          "name": "奶油白",
+          "role": "中性色"
+        },
+        {
+          "hex": "#2350C8",
+          "name": "Luminous Blue 明亮蓝",
+          "role": "点缀色"
+        }
+      ],
+      "tone": "暖调、高明度的黄系；乐观、明亮，适合节日和祝福类产品"
+    }
+  ],
+  "timing": "当下主流是软萌治愈，而且正在变拥挤。趋势报告提到年轻人的需求正从\"被治愈\"走向\"被赋能\"、从\"甜美庇护\"走向\"我可以这样活\"。所以这一期有一半方案站在主流对面（发泄、宣告、诡萌），另一半在治愈的同侧但换了角度。",
+  "title": "第 1 期 · 2026 年 10 月第 3 周",
+  "tradeoff": "六个方案分成两组：崩崩、晒晒、潮潮站在主流对面（发泄、自我定义、诡萌），更稀缺但风险更高；挂挂、卷卷、静静在治愈的同侧换了角度，更稳。按载体看，崩崩和挂挂最适合短视频和工位场景；卷卷受 2027 年春节的时间限制；静静和潮潮的工艺最复杂。",
+  "version": "1.1"
+}

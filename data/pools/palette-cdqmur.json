@@ -1,0 +1,47 @@
+{
+  "cred": "",
+  "detail": "",
+  "fromBatch": "2026w42b",
+  "fromTitle": "第 2 期 · 10 月第 3 周加跑",
+  "hex": "",
+  "links": [
+    {
+      "t": "2027 年度色 Luminous Blue（WGSN）",
+      "url": "https://www.wgsn.com/en/blogs/colour-year-2027-luminous-blue"
+    },
+    {
+      "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+      "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+    }
+  ],
+  "name": "明亮连接系",
+  "roles": [
+    {
+      "hex": "#2350C8",
+      "name": "Luminous Blue 明亮蓝",
+      "role": "主色"
+    },
+    {
+      "hex": "#2F5F8F",
+      "name": "All Aboard 海港蓝",
+      "role": "辅助色"
+    },
+    {
+      "hex": "#F4EFE6",
+      "name": "奶油白",
+      "role": "中性色"
+    },
+    {
+      "hex": "#C2307A",
+      "name": "Festival Fuchsia 节庆玫红",
+      "role": "点缀色"
+    }
+  ],
+  "savedAt": "2026-10-18T14:53:03.226Z",
+  "source": "",
+  "tone": "冷调、高饱和的蓝系；神秘又古怪。年度色人人会用，这里把它放在主色，靠玫红点缀拉开",
+  "toy": "",
+  "type": "palette",
+  "use": "",
+  "window": ""
+}

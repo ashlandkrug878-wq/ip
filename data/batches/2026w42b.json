@@ -1,0 +1,473 @@
+{
+  "colors": [
+    {
+      "cred": "A",
+      "detail": "WGSN 与 Coloro 2027 年度色，参照青金石和钴蓝，神秘又古怪，主题是连接",
+      "hex": "#2350C8",
+      "links": [
+        {
+          "t": "2027 年度色 Luminous Blue（WGSN）",
+          "url": "https://www.wgsn.com/en/blogs/colour-year-2027-luminous-blue"
+        }
+      ],
+      "name": "Luminous Blue 明亮蓝",
+      "use": "人人会用，适合当签名色，不要当主色",
+      "window": "12 到 24 个月"
+    },
+    {
+      "cred": "A",
+      "detail": "2027/28 秋冬关键色，秋天的土地和成熟的果实，稳重自信",
+      "hex": "#8A3F2A",
+      "links": [
+        {
+          "t": "2027/28 秋冬关键色（FashionUnited）",
+          "url": "https://fashionunited.uk/news/fashion/wgsn-and-coloro-key-colours-for-autumn-winter-2027-28/2025091783967"
+        }
+      ],
+      "name": "Russet 红棕",
+      "use": "秋冬款主色或配件色",
+      "window": "12 到 24 个月"
+    },
+    {
+      "cred": "A",
+      "detail": "2027/28 秋冬关键色，柔和、带一点未来感",
+      "hex": "#C9B8DD",
+      "links": [
+        {
+          "t": "2027/28 秋冬关键色（FashionUnited）",
+          "url": "https://fashionunited.uk/news/fashion/wgsn-and-coloro-key-colours-for-autumn-winter-2027-28/2025091783967"
+        }
+      ],
+      "name": "Peaceful Lilac 平和淡紫",
+      "use": "适合做主色，毛绒上要防偏灰",
+      "window": "12 到 24 个月"
+    },
+    {
+      "cred": "A",
+      "detail": "2027/28 秋冬关键色，温暖明亮，乐观",
+      "hex": "#E8B83A",
+      "links": [
+        {
+          "t": "2027/28 秋冬关键色（FashionUnited）",
+          "url": "https://fashionunited.uk/news/fashion/wgsn-and-coloro-key-colours-for-autumn-winter-2027-28/2025091783967"
+        }
+      ],
+      "name": "Maize 玉米黄",
+      "use": "可以替代俗气的金色",
+      "window": "12 到 24 个月"
+    },
+    {
+      "cred": "A",
+      "detail": "2027/28 秋冬关键色，优雅神秘，可以替代黑色",
+      "hex": "#24483A",
+      "links": [
+        {
+          "t": "2027/28 秋冬关键色（FashionUnited）",
+          "url": "https://fashionunited.uk/news/fashion/wgsn-and-coloro-key-colours-for-autumn-winter-2027-28/2025091783967"
+        }
+      ],
+      "name": "Deep Green 深绿",
+      "use": "暗色系 IP 的主色",
+      "window": "12 到 24 个月"
+    }
+  ],
+  "date": "2026-10-18T2",
+  "learned": "第 1 期你把挂挂标为待优化，没有写批注，所以这一期出了挂挂 v2，改的是颜色、手感、缩小后的可读性，并加了学生版。其他方案你还没有标记，这一期没有调整方向。",
+  "materials": [
+    {
+      "cred": "B",
+      "detail": "拼豆手工被列为情绪消费品类",
+      "links": [
+        {
+          "t": "情绪消费与心价比（新华网）",
+          "url": "https://www.news.cn/fashion/20260820/72afefc3f28e4ac2ae6071a2fb6923f9/c.html"
+        },
+        {
+          "t": "拼豆走红（虎嗅）",
+          "url": "https://www.huxiu.com/article/4862945.html?f=rss"
+        }
+      ],
+      "name": "拼豆颗粒",
+      "toy": "颗粒感表面，或附图纸的 DIY 拼豆套装",
+      "window": "现在"
+    },
+    {
+      "cred": "B",
+      "detail": "新疆小羊用亮片、宝石、腮红、小帽子一对一定制",
+      "links": [
+        {
+          "t": "新疆小羊走红（中国新闻网）",
+          "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677118.shtml"
+        }
+      ],
+      "name": "一对一定制装饰",
+      "toy": "素体加可换配件",
+      "window": "现在"
+    },
+    {
+      "cred": "A",
+      "detail": "2027 年度色建议用在亮面、金属、漆面质感上",
+      "links": [
+        {
+          "t": "2027 年度色 Luminous Blue（WGSN）",
+          "url": "https://www.wgsn.com/en/blogs/colour-year-2027-luminous-blue"
+        }
+      ],
+      "name": "亮面漆面与金属感",
+      "toy": "亮面搪胶、电镀部件",
+      "window": "12 到 24 个月"
+    },
+    {
+      "cred": "B",
+      "detail": "Space for Solace 疗愈主题",
+      "links": [
+        {
+          "t": "2027 面料趋势（Design News Now）",
+          "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+        }
+      ],
+      "name": "罗纹针织",
+      "toy": "针织罗纹毛绒",
+      "window": "6 到 12 个月"
+    },
+    {
+      "cred": "B",
+      "detail": "Wondermode 幻想主题，好玩的不完美",
+      "links": [
+        {
+          "t": "2027 面料趋势（Design News Now）",
+          "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+        }
+      ],
+      "name": "丝绒",
+      "toy": "植绒表面",
+      "window": "6 到 12 个月"
+    }
+  ],
+  "origins": [
+    {
+      "links": [
+        {
+          "t": "2026 生活趋势报告（腾讯新闻）",
+          "url": "https://news.qq.com/rain/a/20260815A07UKZ00"
+        }
+      ],
+      "name": "工位变成情绪空间",
+      "source": "年轻人把工位布置成放满毛绒玩具的情绪空间（第 1 期已用，这一期给挂挂 v2 延续使用）",
+      "status": "入选",
+      "to": "挂挂 v2"
+    },
+    {
+      "links": [
+        {
+          "t": "年轻人与 AI 陪伴（人人都是产品经理）",
+          "url": "https://www.woshipm.com/it/6308579.html"
+        }
+      ],
+      "name": "向 AI 要陪伴",
+      "source": "39% 的年轻人会向 AI 聊天机器人寻求建议或陪伴，约 30% 感到被朋友群体排除在外",
+      "status": "入选",
+      "to": "嗯嗯"
+    },
+    {
+      "links": [
+        {
+          "t": "新疆小羊走红（中国新闻网）",
+          "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677118.shtml"
+        }
+      ],
+      "name": "新疆小羊定制和上户口",
+      "source": "摊主一对一定制走红，游客拍视频给小羊上户口，联名店 7 月成交额环比增长 1540%",
+      "status": "入选",
+      "to": "落落"
+    },
+    {
+      "links": [
+        {
+          "t": "年轻人的玄学消费（DaoInsights）",
+          "url": "https://daoinsights.com/opinions/what-is-xuanxue-and-why-does-it-provide-so-much-comfort-to-young-people/"
+        }
+      ],
+      "name": "只求财不求缘",
+      "source": "财神红包被快速抢光，月老红包几乎无人领取；财神卡、手串流行",
+      "status": "入选",
+      "to": "方方"
+    },
+    {
+      "links": [
+        {
+          "t": "年轻人搭子社交（新华网）",
+          "url": "https://www.xinhuanet.com/fashion/20260403/3bac26722c6340d8a36ed88d30787ccd/c.html"
+        }
+      ],
+      "name": "搭子社交",
+      "source": "旅行搭子、饭搭子、技能搭子；兼顾独处与联结，关系多为阶段性",
+      "status": "入选",
+      "to": "搭搭"
+    },
+    {
+      "links": [
+        {
+          "t": "情绪消费与心价比（新华网）",
+          "url": "https://www.news.cn/fashion/20260820/72afefc3f28e4ac2ae6071a2fb6923f9/c.html"
+        },
+        {
+          "t": "拼豆走红（虎嗅）",
+          "url": "https://www.huxiu.com/article/4862945.html?f=rss"
+        }
+      ],
+      "name": "拼豆手工",
+      "source": "拼豆手工被列为情绪消费品类",
+      "status": "入选",
+      "to": "格格"
+    },
+    {
+      "links": [
+        {
+          "t": "2027 面料趋势（Design News Now）",
+          "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+        }
+      ],
+      "name": "好玩的不完美",
+      "source": "2027 面料趋势 Wondermode：用好玩的不完美对抗算法式的精致",
+      "status": "入选",
+      "to": "格格"
+    },
+    {
+      "links": [
+        {
+          "t": "年轻人与 AI 陪伴（人人都是产品经理）",
+          "url": "https://www.woshipm.com/it/6308579.html"
+        }
+      ],
+      "name": "48% 更愿意待在卧室",
+      "source": "关于年轻人孤独的文章引用的调查",
+      "status": "备选",
+      "to": "和静静一类形象太近，暂不单独成方案"
+    },
+    {
+      "links": [
+        {
+          "t": "情绪消费与心价比（新华网）",
+          "url": "https://www.news.cn/fashion/20260820/72afefc3f28e4ac2ae6071a2fb6923f9/c.html"
+        }
+      ],
+      "name": "心价比",
+      "source": "从性价比转向心价比",
+      "status": "备选",
+      "to": "作为所有方案的背景"
+    },
+    {
+      "links": [
+        {
+          "t": "情绪消费与心价比（新华网）",
+          "url": "https://www.news.cn/fashion/20260820/72afefc3f28e4ac2ae6071a2fb6923f9/c.html"
+        }
+      ],
+      "name": "猎奇解压玩具被批评",
+      "source": "个别解压玩具传递畸形价值观",
+      "status": "备选",
+      "to": "风险信号：崩崩的发泄要可爱，不能变成猎奇"
+    },
+    {
+      "links": [
+        {
+          "t": "年轻人的玄学消费（DaoInsights）",
+          "url": "https://daoinsights.com/opinions/what-is-xuanxue-and-why-does-it-provide-so-much-comfort-to-young-people/"
+        }
+      ],
+      "name": "宗教形象商业化被叫停",
+      "source": "某茶饮品牌的佛像梗产品被下架",
+      "status": "备选",
+      "to": "风险信号：方方只用民间铜钱，不碰宗教人物"
+    },
+    {
+      "links": [
+        {
+          "t": "2027 消费者画像（WGSN）",
+          "url": "https://www.wgsn.com/en/blogs/consumer-profiles-will-shape-market-2027"
+        }
+      ],
+      "name": "Energisers 能量补给者",
+      "source": "WGSN 2027 画像：用玩乐和荒诞消化负面情绪，对 AI 持怀疑态度",
+      "status": "入选",
+      "to": "方方、嗯嗯"
+    },
+    {
+      "links": [
+        {
+          "t": "2027 羊年春节指南",
+          "url": "https://chinese-culture-app.onrender.com/guide/chinese-new-year-2027"
+        },
+        {
+          "t": "新疆小羊走红（中国新闻网）",
+          "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677118.shtml"
+        }
+      ],
+      "name": "2027 羊年 + 小羊玩偶已经在热",
+      "source": "春节在 2027 年 2 月；新疆小羊玩偶 2026 年夏天已经出圈",
+      "status": "备选",
+      "to": "给卷卷补上需求证据"
+    }
+  ],
+  "palettes": [
+    {
+      "fit": "挂挂 v2、疗愈和陪伴类形象",
+      "links": [
+        {
+          "t": "2027/28 秋冬关键色（FashionUnited）",
+          "url": "https://fashionunited.uk/news/fashion/wgsn-and-coloro-key-colours-for-autumn-winter-2027-28/2025091783967"
+        },
+        {
+          "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+          "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+        }
+      ],
+      "name": "平和淡紫系",
+      "roles": [
+        {
+          "hex": "#C9B8DD",
+          "name": "Peaceful Lilac 平和淡紫",
+          "role": "主色"
+        },
+        {
+          "hex": "#C9A0C4",
+          "name": "Foxglove 毛地黄紫粉",
+          "role": "辅助色"
+        },
+        {
+          "hex": "#F4EFE6",
+          "name": "奶油白",
+          "role": "中性色"
+        },
+        {
+          "hex": "#E8B83A",
+          "name": "Maize 玉米黄",
+          "role": "点缀色"
+        }
+      ],
+      "tone": "冷调、高明度、低饱和；柔和，带一点未来感。主色大面积用在身体，玉米黄只在记忆点上出现"
+    },
+    {
+      "fit": "嗯嗯、静静这类讲连接与断联的形象",
+      "links": [
+        {
+          "t": "2027 年度色 Luminous Blue（WGSN）",
+          "url": "https://www.wgsn.com/en/blogs/colour-year-2027-luminous-blue"
+        },
+        {
+          "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+          "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+        }
+      ],
+      "name": "明亮连接系",
+      "roles": [
+        {
+          "hex": "#2350C8",
+          "name": "Luminous Blue 明亮蓝",
+          "role": "主色"
+        },
+        {
+          "hex": "#2F5F8F",
+          "name": "All Aboard 海港蓝",
+          "role": "辅助色"
+        },
+        {
+          "hex": "#F4EFE6",
+          "name": "奶油白",
+          "role": "中性色"
+        },
+        {
+          "hex": "#C2307A",
+          "name": "Festival Fuchsia 节庆玫红",
+          "role": "点缀色"
+        }
+      ],
+      "tone": "冷调、高饱和的蓝系；神秘又古怪。年度色人人会用，这里把它放在主色，靠玫红点缀拉开"
+    },
+    {
+      "fit": "卷卷秋冬款、方方礼盒",
+      "links": [
+        {
+          "t": "2027/28 秋冬关键色（FashionUnited）",
+          "url": "https://fashionunited.uk/news/fashion/wgsn-and-coloro-key-colours-for-autumn-winter-2027-28/2025091783967"
+        },
+        {
+          "t": "Pantone 2026 秋冬时装周色（Marie Claire）",
+          "url": "https://www.marieclaire.com/fashion/pantone-new-york-fashion-week-fall-2026-fashion-color-trends/"
+        }
+      ],
+      "name": "安稳秋冬系",
+      "roles": [
+        {
+          "hex": "#8A3F2A",
+          "name": "Russet 红棕",
+          "role": "主色"
+        },
+        {
+          "hex": "#24483A",
+          "name": "Deep Green 深绿",
+          "role": "辅助色"
+        },
+        {
+          "hex": "#6B2A2A",
+          "name": "Red Mahogany 红木棕",
+          "role": "辅助色"
+        },
+        {
+          "hex": "#E9DFCF",
+          "name": "燕麦米",
+          "role": "中性色"
+        },
+        {
+          "hex": "#E8B83A",
+          "name": "Maize 玉米黄",
+          "role": "点缀色"
+        }
+      ],
+      "tone": "暖调、中低明度的大地色系；稳重、可靠，适合秋冬限定和礼盒"
+    },
+    {
+      "fit": "搭搭、成对和情侣款",
+      "links": [
+        {
+          "t": "2027/28 秋冬关键色（FashionUnited）",
+          "url": "https://fashionunited.uk/news/fashion/wgsn-and-coloro-key-colours-for-autumn-winter-2027-28/2025091783967"
+        }
+      ],
+      "name": "撞色搭子系",
+      "roles": [
+        {
+          "hex": "#C9B8DD",
+          "name": "Peaceful Lilac 平和淡紫",
+          "role": "主色"
+        },
+        {
+          "hex": "#E8B83A",
+          "name": "Maize 玉米黄",
+          "role": "辅助色"
+        },
+        {
+          "hex": "#F4EFE6",
+          "name": "奶油白",
+          "role": "中性色"
+        },
+        {
+          "hex": "#2B2A30",
+          "name": "炭黑",
+          "role": "中性色"
+        },
+        {
+          "hex": "#8A3F2A",
+          "name": "Russet 红棕",
+          "role": "点缀色"
+        }
+      ],
+      "tone": "两个主角各占一色：淡紫和玉米黄互补，中性色统一；适合成对产品"
+    }
+  ],
+  "timing": "当下主流仍是软萌治愈。这一期的信号集中在\"关系\"上：年轻人向 AI 要陪伴、和陌生人结成阶段性的搭子、给一只定制小羊\"上户口\"、只抢财神红包不碰月老红包。几乎每个信号背后都是同一个矛盾：想要连接，又怕连接带来的负担。所以这一期多数方案在治愈的同侧，但把\"被安慰\"换成了\"轻一点的关系\"；方方和格格站在主流对面，走自嘲和不完美。",
+  "title": "第 2 期 · 10 月第 3 周加跑",
+  "tradeoff": "这一期多数方案讲轻关系：嗯嗯是一直在听，搭搭是只同路一段，落落是给东西一个户口；方方和格格走自嘲和不完美。落落和方方有最直接的已付费证据（定制小羊、财神卡），嗯嗯可以和上一期的静静组成一对。",
+  "version": "1.2"
+}
