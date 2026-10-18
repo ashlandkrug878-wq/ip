@@ -72,10 +72,11 @@
     "prompt_en": "A designer toy of a small fluff ball in soft lilac ribbed-knit texture, 1-head round body. The focal point is two extra-long droopy arms ending in small round hands, hooked over the top edge of a computer monitor so the body hangs in front of the screen. Very wide-set half-closed eyes, blank zoned-out expression, a single-line mouth. A tiny neon-yellow ID badge on its chest. Visible knit texture, soft bendable arms. Plain light grey background, soft studio lighting, full-body front view.",
     "prompt_zh": "一只平和淡紫色罗纹针织质感的小毛团潮玩，1 头身圆团子，最突出的是两条超长、下垂的手臂，手臂末端是圆圆的小手，正挂在一台显示器的上沿，身体垂在屏幕前面。两只眼睛间距很宽、半垂着、表情放空，一条线的嘴。胸前挂着一个荧光黄色小工牌。可见针织纹理，柔软可弯。纯浅灰背景，柔和棚拍光，正面全身构图。",
     "size": "1024x1024",
-    "status": "pending",
-    "output": "images/2026w42b-1/base-01.png",
+    "status": "done",
+    "output": "images/2026w42b-1/base-01.webp",
     "created": "2026-10-18",
-    "note": ""
+    "note": "网站上传",
+    "v": "2026-10-18T16:37:08.296Z"
   },
   {
     "id": "2026w42b-2-base-01",
