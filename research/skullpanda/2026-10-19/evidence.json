@@ -1,0 +1,528 @@
+{
+  "as_of": "2026-10-19",
+  "sources": [
+    {
+      "id": "A01",
+      "title": "SKULLPANDA CAGE-UNCAGE Singapore announcement and creator annex",
+      "url": "https://www.stb.gov.sg/about-stb/media-publications/media-centre/skullpanda-cage-uncage-showcase-to-make-international-debut-at-the-national-museum-of-singapore-/",
+      "publisher": "Singapore Tourism Board / National Museum of Singapore",
+      "publication_date": "2025-11-19",
+      "accessed_at": "2026-10-19",
+      "source_type": "primary_institution",
+      "access_status": "正文已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "官方介绍作者为中国艺术家 Xiong Miao、North Studio 创办者，2018年创作SKULLPANDA；附件补充随后成立玩具工作室LazyNorth。"
+        },
+        {
+          "type": "self_report",
+          "text": "角色以不同形态穿行不同世界、寻找真实自我；展览围绕情绪、命运、规则、探索、生命、方向。"
+        },
+        {
+          "type": "fact",
+          "text": "新加坡展期2025-12-12至2026-02-22；限定周边须购票并参观后购买，每张票每款限1，售完即止；早鸟优先购买不保证存货。"
+        }
+      ],
+      "boundary": "这是官方履历与展览规则，创作年份非版权登记日期；不证明成交量、参观人次、合同归属。",
+      "related_urls": [
+        "https://isomer-user-content.by.gov.sg/1/70b86428-1bd5-4903-9b44-2d1dd9f57efb/ABOUT%20SKULLPANDA%20AND%20XIONG%20MIAO.pdf"
+      ]
+    },
+    {
+      "id": "A02",
+      "title": "对话SKULLPANDA系列创作者熊喵：在广袤无垠中寻找真实",
+      "url": "https://www.sohu.com/a/728838613_121119353",
+      "publisher": "搜狐账号转载《卷宗Wallpaper*》采访",
+      "publication_date": "2023-10-17",
+      "accessed_at": "2026-10-19",
+      "source_type": "creator_interview_repost",
+      "access_status": "正文已读",
+      "claims": [
+        {
+          "type": "self_report",
+          "text": "2020年万圣节前与泡泡玛特的首次合作系列为密林古堡；合作之前已创作角色一年多。"
+        },
+        {
+          "type": "self_report",
+          "text": "创作流程涉及二维记录想法、三维设计及与工厂沟通量产限制。"
+        }
+      ],
+      "boundary": "作者采访经转载，非原刊页面；首系列年份可用，未核精确首发日；不采用瞬时售罄数字或合同独占推断。",
+      "related_urls": []
+    },
+    {
+      "id": "A03",
+      "title": "POP MART 2024 Annual Report, Revenue by IPs p26",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0423/2025042300687.pdf",
+      "publisher": "POP MART / HKEX",
+      "publication_date": "2025-04-23",
+      "accessed_at": "2026-10-19",
+      "source_type": "primary_financial_filing",
+      "access_status": "正文已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "SKULLPANDA 2024收入1,308,262人民币千元，占集团收入10.0%；2023比较值1,024,788千元，占16.3%。"
+        },
+        {
+          "type": "fact",
+          "text": "表将自主产品分艺术家IP与授权IP；SKULLPANDA列在艺术家IP。"
+        }
+      ],
+      "boundary": "读取相关IP表与上下文，非逐页全读。集团财报按IP收入，不是全球IP总GMV、授权金、利润或作者收入；自主产品不等于版权买断。",
+      "related_urls": []
+    },
+    {
+      "id": "A04",
+      "title": "POP MART 2025 Annual Results, Revenue by IPs p33",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0325/2026032500285.pdf",
+      "publisher": "POP MART / HKEX",
+      "publication_date": "2026-03-25",
+      "accessed_at": "2026-10-19",
+      "source_type": "primary_financial_filing",
+      "access_status": "正文已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "2025全年SKULLPANDA收入3,539,542人民币千元，占集团9.5%；2024比较值1,308,262千元，占10.0%。"
+        }
+      ],
+      "boundary": "年度业绩公告相关表已读，非逐页全读。集团口径按IP收入；非单系列销量；不据此推断版权合同。",
+      "related_urls": []
+    },
+    {
+      "id": "A05",
+      "title": "POP MART 2026 Interim Results, Revenue by IPs p30",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000353.pdf",
+      "publisher": "POP MART / HKEX",
+      "publication_date": "2026-08-20",
+      "accessed_at": "2026-10-19",
+      "source_type": "primary_financial_filing",
+      "access_status": "正文已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "截至6月30日六个月：2026年SKULLPANDA收入1,551,211人民币千元、集团占比9.0%；2025同期1,220,504千元、8.8%。"
+        }
+      ],
+      "boundary": "2026半年未审计业绩公告；不能和2025全年直接计算增长，不能乘2冒充全年预测。已读相关表及上下文。",
+      "related_urls": []
+    },
+    {
+      "id": "A06",
+      "title": "SKULLPANDA The Sound Series Figures",
+      "url": "https://www.popmart.com/en-US/products/1317/skullpanda-the-sound-series-figures",
+      "publisher": "POP MART US",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "primary_product",
+      "access_status": "正文已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "页面发售日2024-06-28，材质ABS/PVC/MAGNET，高3.94英寸，整盒12款不重复，15岁以上。"
+        },
+        {
+          "type": "fact",
+          "text": "其它官方商品页推荐栏列该商品US$19.99。"
+        }
+      ],
+      "boundary": "美国站页面规格与当前推荐列表价；不是全球首发证明、国内价格或销量。价格非结算页，税未核。",
+      "related_urls": []
+    },
+    {
+      "id": "A07",
+      "title": "SKULLPANDA The Ink Plum Blossom Series Figures",
+      "url": "https://www.popmart.com/en-US/products/720/skullpanda-the-ink-plum-blossom-series-figures",
+      "publisher": "POP MART US",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "primary_product",
+      "access_status": "正文已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "页面发售日2023-11-03，ABS/Hardware/Magnet/PVC，高3.14英寸，整盒12款不重复，15岁以上。"
+        },
+        {
+          "type": "fact",
+          "text": "官方推荐栏US$19.99。"
+        }
+      ],
+      "boundary": "美国地区官方规格；款式表显示隐藏款不等于一整盒保证获得隐藏款。",
+      "related_urls": []
+    },
+    {
+      "id": "A08",
+      "title": "SKULLPANDA The Mirage Series Figures",
+      "url": "https://www.popmart.com/en-US/products/2141/skullpanda-the-mirage-series-figures",
+      "publisher": "POP MART US",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "primary_product",
+      "access_status": "正文已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "页面发售日2025-04-03，PVC/ABS/Electronic Component，高11.4cm/4.49英寸，整盒9款不重复，15岁以上。"
+        },
+        {
+          "type": "fact",
+          "text": "官方推荐栏US$21.99。"
+        }
+      ],
+      "boundary": "材质写电子元件，不凭此推断每款的灯光、声效或交互功能。",
+      "related_urls": []
+    },
+    {
+      "id": "A09",
+      "title": "SKULLPANDA You Found Me! Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/3676",
+      "publisher": "POP MART US",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "primary_product",
+      "access_status": "正文已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "官网线上发售2025-09-11 19:00，时区页面写PST；不含挂绳高13.5cm，外壳PVC/ABS/Polyester，填充Polyester，15岁以上。"
+        }
+      ],
+      "boundary": "当前正文未提取出价格；搜索摘要出现$36.99但未由可读正文重复核到，因此价格null。不把它当2025全年增长原因的独立因果证据。",
+      "related_urls": []
+    },
+    {
+      "id": "A10",
+      "title": "SKULLPANDA The Sound Series Shoulder Bag",
+      "url": "https://www.popmart.com/us/products/1352/skullpanda-the-sound-series-shoulder-bag",
+      "publisher": "POP MART US",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "primary_product",
+      "access_status": "正文已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "发售2024-06-28；12.6×14.17×4.72英寸；外层50%PU/50%HDPE，里料100%TERYLENE，其它Zinc Alloy/PVC；15岁以上。"
+        },
+        {
+          "type": "fact",
+          "text": "官方推荐栏US$31.99。"
+        }
+      ],
+      "boundary": "商品类目为包袋，不是同尺寸搪胶公仔；美国站标价不做人民币汇率比较。",
+      "related_urls": []
+    },
+    {
+      "id": "A11",
+      "title": "SKULLPANDA The Sound Series Handheld Mirror",
+      "url": "https://www.popmart.com/us/products/1353/skullpanda-the-sound-series-handheld-mirror",
+      "publisher": "POP MART US",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "primary_product",
+      "access_status": "正文已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "发售2024-06-28；5×6.5cm；TPU/ABS/ALLOY；15岁以上。"
+        },
+        {
+          "type": "fact",
+          "text": "同站Sound商品推荐栏列手持镜US$12.99；本页推荐栏支持Sound手办$19.99、Ink手办$19.99、Mirage手办$21.99、Sound肩包$31.99。"
+        }
+      ],
+      "boundary": "推荐栏静态价格非结算保证；正文规格不是镜面材质检测报告。",
+      "related_urls": []
+    },
+    {
+      "id": "A12",
+      "title": "POP MART US Returns & Replacements",
+      "url": "https://www.popmart.com/en-US/help/returns-refunds",
+      "publisher": "POP MART US",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "primary_policy",
+      "access_status": "正文已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "商业售后政策写收货15天内凭购买证明申请；不支持跨区域售后；非质量原因不喜欢款式及非整盒购买重复，不属于该政策接收范围。"
+        },
+        {
+          "type": "fact",
+          "text": "页面同时注明商业保证不影响美国适用法下不可放弃的消费者权利。"
+        }
+      ],
+      "boundary": "是当前美国站规则，不是中国法判断，不是SKULLPANDA特定投诉或不良率。规则可变；只解释随机购买及地区售后摩擦。",
+      "related_urls": []
+    },
+    {
+      "id": "A13",
+      "title": "泡泡玛特新款盲盒印错字，POP MART被印为POP MAET",
+      "url": "https://www.yzwb.net/news/ch/202511/t20251106_286100.html",
+      "publisher": "扬子晚报 / 紫牛新闻",
+      "publication_date": "2025-11-06",
+      "accessed_at": "2026-10-19",
+      "source_type": "original_reporter_fieldwork",
+      "access_status": "正文已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "记者当天到国金中心店查看餐桌系列样品，确认头后品牌标识为POP MAET。"
+        },
+        {
+          "type": "self_report",
+          "text": "店员告诉记者前晚接公司通知该系列下架，后续事宜不清楚。"
+        }
+      ],
+      "boundary": "记者查到样品不代表全部批次；店员反馈不能扩写为全球召回；未找到正式召回公告或最终售后结果。文末2024小夜灯事件非已核同IP，不纳入。",
+      "related_urls": []
+    },
+    {
+      "id": "A14",
+      "title": "暗黑、咒怨、丧系：泡泡玛特玩具盲盒遭家长质疑",
+      "url": "https://news.k618.cn/dj/202205/t20220510_18321404.html",
+      "publisher": "未来网（记者凌萌）",
+      "publication_date": "2022-05-10",
+      "accessed_at": "2026-10-19",
+      "source_type": "original_media_interview",
+      "access_status": "正文已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "记者记录部分家长对SKULLPANDA密林古堡等的骷髅、眼泪、幽暗风格反感，也记录购买者欣喜评论。"
+        },
+        {
+          "type": "self_report",
+          "text": "店铺客服将风格解释为朋克而非暗黑。"
+        }
+      ],
+      "boundary": "这是有名有时的审美分歧案例，不是代表性用户调查；不采纳文中暗黑导致未成年人心理伤害的因果断言，不把全品牌投诉总量归属该IP。",
+      "related_urls": []
+    },
+    {
+      "id": "S01",
+      "title": "官方角色与作者介绍",
+      "url": "https://www.popmart.com/en-ID/ip/skullpanda/8e18316d-1226-452e-8244-98cc3da2129d",
+      "publisher": "POP MART",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "primary",
+      "access_status": "正文已读",
+      "boundary": "作者及品牌自述；不当作消费者调查。"
+    },
+    {
+      "id": "S02",
+      "title": "熊喵与IP运营团队采访",
+      "url": "https://news.sina.cn/sx/2022-12-15/detail-imxwucxt6610460.d.html?vt=4",
+      "publisher": "新视线／新浪转载",
+      "publication_date": "2022-12-15",
+      "accessed_at": "2026-10-19",
+      "source_type": "creator_interview_repost",
+      "access_status": "正文及配图已读",
+      "boundary": "原采访的转载，作者定位与工艺表述为自述；仿陶瓷不等于基材为陶瓷。"
+    },
+    {
+      "id": "S03",
+      "title": "NUYOU专访SKULLPANDA设计师",
+      "url": "https://www.nuyou.com.sg/lifestyle/designer-trending-toy-skullpanda-talks-about-her-cool-creations",
+      "publisher": "NUYOU",
+      "publication_date": "2021-11-08",
+      "accessed_at": "2026-10-19",
+      "source_type": "creator_interview",
+      "access_status": "正文已读",
+      "boundary": "采访中称两侧球型辫子；2022访谈称耳球。使用中性结构词，不裁定某一历史叫法错误。"
+    },
+    {
+      "id": "S04",
+      "title": "美国官网当前产品合集",
+      "url": "https://www.popmart.com/en-US/collection/skullpanda",
+      "publisher": "POP MART US",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "primary",
+      "access_status": "正文已读",
+      "boundary": "当前美元列价，不是国内售价、成本或结算含税价格；新旧系列同列不等于热销排名。"
+    },
+    {
+      "id": "S05",
+      "title": "The Warmth温度系列官方商品",
+      "url": "https://www.popmart.com/en-US/products/9/skullpanda-the-warmth-series",
+      "publisher": "POP MART US",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "primary",
+      "access_status": "正文已读",
+      "boundary": "美国页发售日2022-12-29，采访提及2022-11-10；地区与口径不同，不能当日期矛盾直接覆盖。"
+    },
+    {
+      "id": "S06",
+      "title": "每天认识一个 IP｜SKULLPANDA",
+      "url": "https://xhslink.cn/o/8nmo3fbt94w",
+      "publisher": "工位IP集（求关注）／小红书",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "user_social_post",
+      "access_status": "指定笔记正文与5图已读；搜索被登录墙阻挡",
+      "boundary": "页面显示09-22辽宁，未显示年份；5图正文已读，评论区无可读评论；营销性数字逐项另核。"
+    }
+  ],
+  "timeline": [
+    [
+      "2018",
+      "作者创作角色；是创作履历年份，不是首个盲盒或版权登记日期。",
+      "fact",
+      [
+        "A01",
+        "S01"
+      ]
+    ],
+    [
+      "2020",
+      "万圣节前与泡泡玛特首次合作推出《密林古堡》。精确首发日未核。",
+      "self_report",
+      [
+        "A02"
+      ]
+    ],
+    [
+      "2022",
+      "《温度》把闭眼、休息和日常动作带入系列；采访提及11月10日，现美国页标12月29日发售。",
+      "fact",
+      [
+        "S02",
+        "S05"
+      ]
+    ],
+    [
+      "2023–2024",
+      "《Ink Plum Blossom》与《The Sound》分别以植物意象、情绪变化组织款式。美国页日期为2023-11-03、2024-06-28。",
+      "fact",
+      [
+        "A06",
+        "A07"
+      ]
+    ],
+    [
+      "2025",
+      "扩展到You Found Me!毛绒挂件；新加坡展官方公告将体验与限定周边购买连接。",
+      "fact",
+      [
+        "A09",
+        "A01"
+      ]
+    ],
+    [
+      "2026-08",
+      "公司公布2026上半年业绩；SKULLPANDA按IP收入15.51211亿元。",
+      "fact",
+      [
+        "A05"
+      ]
+    ]
+  ],
+  "numbers": [
+    {
+      "metric": "集团按IP确认收入",
+      "value": 1308262,
+      "unit": "人民币千元",
+      "period": "2024全年",
+      "scope": "POP MART集团；不是GMV、授权金、利润或作者收入",
+      "type": "fact",
+      "sources": [
+        "A03"
+      ]
+    },
+    {
+      "metric": "集团按IP确认收入",
+      "value": 3539542,
+      "unit": "人民币千元",
+      "period": "2025全年",
+      "scope": "POP MART集团；不是GMV、授权金、利润或作者收入",
+      "type": "fact",
+      "sources": [
+        "A04"
+      ]
+    },
+    {
+      "metric": "集团按IP确认收入",
+      "value": 1220504,
+      "unit": "人民币千元",
+      "period": "2025上半年",
+      "scope": "POP MART集团；不是GMV、授权金、利润或作者收入",
+      "type": "fact",
+      "sources": [
+        "A05"
+      ]
+    },
+    {
+      "metric": "集团按IP确认收入",
+      "value": 1551211,
+      "unit": "人民币千元",
+      "period": "2026上半年",
+      "scope": "POP MART集团；不是GMV、授权金、利润或作者收入",
+      "type": "fact",
+      "sources": [
+        "A05"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "同一个角色，可以承载互不相同的自我状态。",
+      "type": "inference",
+      "evidence": "作者探索身份的定位与Sound情绪命名、Warmth日常动作相互对应。",
+      "boundary": "能说明系列的组织逻辑，不能证明这是收入增长的独立原因。",
+      "sources": [
+        "S01",
+        "S02",
+        "A06"
+      ]
+    },
+    {
+      "claim": "识别保留在脸部关系，主题可以在头饰与材质上变化。",
+      "type": "inference",
+      "evidence": "V01–V06都可见大头、紧凑鼻口与突出唇部；闭眼、睁眼、头盔及配色存在变体。",
+      "boundary": "不是每款必须带双球，未做盲测识别率；摄影与供给也影响吸引力。",
+      "sources": [
+        "A06",
+        "A07",
+        "A09",
+        "S05"
+      ]
+    },
+    {
+      "claim": "把情绪从陈列物带到随身使用。",
+      "type": "inference",
+      "evidence": "手办、毛绒挂件、包与镜子在官方产品体系中共存。",
+      "boundary": "证明载体扩张；各品类销量、复购与用户动机未知。",
+      "sources": [
+        "A06",
+        "A09",
+        "A10",
+        "A11"
+      ]
+    }
+  ],
+  "gaps": [
+    "未取得作者与泡泡玛特合同，不断言版权买断、独占期限或分成。",
+    "首个合作系列为密林古堡；更早艺术家原作售卖记录与精确首发日未核。",
+    "单SKU销量、版税、利润、复购率、二级市场成交及2026全年收入未知。",
+    "指定小红书5图已读，但无可用评论；两组搜索被登录墙阻挡，不能构造代表性用户画像。",
+    "官方标准三视图、基础母版、背面与内部连接结构未取得；当款正面不代表整个IP标准设定。",
+    "纯文字V1、V2均未通过；参考辅助V2仅通过可见正面二维转绘的有限范围。",
+    "英文、重复稳定性、侧背面、实物概念与原创转译未实测，停留在平面阶段。",
+    "未取得餐桌错印事件的正式召回或最终处理结果；审美分歧个案不能量化总体差评率。"
+  ],
+  "unknown_numbers": {
+    "royalties": null,
+    "profit": null,
+    "sku_sales": null,
+    "repurchase": null,
+    "china_gmv": null,
+    "revenue_2026_full_year": null
+  }
+}

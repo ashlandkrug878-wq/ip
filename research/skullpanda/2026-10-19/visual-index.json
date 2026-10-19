@@ -1,0 +1,233 @@
+[
+  {
+    "image_id": "V01",
+    "subject_id": "skullpanda-the-forest",
+    "title": "The Forest｜本轮唯一实测对象",
+    "image_type": "official_product",
+    "source_page_url": "https://www.popmart.com/en-US/products/720/skullpanda-the-ink-plum-blossom-series-figures",
+    "original_image_url": "https://prod-global-static.oss-us-east-1.aliyuncs.com/globalAdmin/1714397726056____the-forest_____.png",
+    "observed_at": "2026-10-19",
+    "page_published_at": null,
+    "product_released_at": "2023-11-03",
+    "image_created_at": null,
+    "save_status": "saved_for_research",
+    "sha256": "1b178533df08c1884970cec2932e390b8fe471a83551522eb4e9b3fe49ae34fa",
+    "local_path": "/workspace/scratch/49527ac7d143/skullpanda-research/refs/forest.png",
+    "public_distribution": "reference_only_external_url",
+    "rights": "原图归创作者及相应权利人；本页外链引用，不重新托管。",
+    "visual_inspected": true,
+    "observed_features": "灰橄榄短发与紧凑枯叶冠；睁开的金色圆眼盘、眼下痣、灰棕嘟唇；浅护框连接双黑球。坐姿短身，左右鞋底桃橙／灰褐不对称。",
+    "visual_language": "轮廓用横向双球展开；眼盘与鼻口集中，颜色承担枯叶主题而非全IP身份。",
+    "official_settings": "探索不同世界和身份，见S01；不能从照片反推未公布人设。",
+    "interpretation": {
+      "type": "inference",
+      "mechanism": "轮廓用横向双球展开；眼盘与鼻口集中，颜色承担枯叶主题而非全IP身份。",
+      "alternative": "渠道、稀缺、摄影与发行规模也可能影响偏好，图片不能证明购买因果。"
+    },
+    "original_transfer_direction": "用季节与姿态表达状态；新设计必须另建头脸和识别组合。",
+    "material_and_structure": "ABS／金属件／磁铁／PVC为系列规格；无法确认每个部件分别用哪种材料，背面和内连接未知。",
+    "presentation": "官方商品正面，400×400",
+    "limitations": "ABS／金属件／磁铁／PVC为系列规格；无法确认每个部件分别用哪种材料，背面和内连接未知。",
+    "sources": [
+      "A07"
+    ]
+  },
+  {
+    "image_id": "V02",
+    "subject_id": "skullpanda",
+    "title": "The Sound｜Joy",
+    "image_type": "official_product",
+    "source_page_url": "https://www.popmart.com/en-US/products/1317/skullpanda-the-sound-series-figures",
+    "original_image_url": "https://prod-global-biz.popmart.com/globalAdmin/1788506211851_eccbc87e4b5ce2fe28308fd9f2a7baf3.jpg",
+    "observed_at": "2026-10-19",
+    "page_published_at": null,
+    "product_released_at": "2024-06-28",
+    "image_created_at": null,
+    "save_status": "saved_for_research",
+    "sha256": "f82ee71348c94af5590ef2c3deac051659e1f27cbbe094d612a1fb289cf98e56",
+    "local_path": "/workspace/scratch/49527ac7d143/skullpanda-research/refs/joy.jpg",
+    "public_distribution": "reference_only_external_url",
+    "rights": "原图归创作者及相应权利人；本页外链引用，不重新托管。",
+    "visual_inspected": true,
+    "observed_features": "闭眼、上扬短唇、青色长弧发束与双球，橙色半透明感侧翼，前伸手持粉色兔形物；后方弧架和底面延伸。",
+    "visual_language": "青橙对比与向外伸展姿态形成轻快感，是研究推断；不是所有款都只有暗色。",
+    "official_settings": "探索不同世界和身份，见S01；不能从照片反推未公布人设。",
+    "interpretation": {
+      "type": "inference",
+      "mechanism": "青橙对比与向外伸展姿态形成轻快感，是研究推断；不是所有款都只有暗色。",
+      "alternative": "渠道、稀缺、摄影与发行规模也可能影响偏好，图片不能证明购买因果。"
+    },
+    "original_transfer_direction": "借用姿态与色彩明度共同表达情绪的方法，不复制头盔及发束。",
+    "material_and_structure": "透明感与金属感为照片观感；系列材料ABS/PVC/磁铁，不由高光推断镀层或具体透光参数。",
+    "presentation": "官方斜侧商品场景",
+    "limitations": "透明感与金属感为照片观感；系列材料ABS/PVC/磁铁，不由高光推断镀层或具体透光参数。",
+    "sources": [
+      "A06"
+    ]
+  },
+  {
+    "image_id": "V03",
+    "subject_id": "skullpanda",
+    "title": "The Sound｜Serenity",
+    "image_type": "official_product",
+    "source_page_url": "https://www.popmart.com/en-US/products/1317/skullpanda-the-sound-series-figures",
+    "original_image_url": "https://prod-global-biz.popmart.com/globalAdmin/1788506220904_1679091c5a880faf6fb5e6087eb1b2dc.jpg",
+    "observed_at": "2026-10-19",
+    "page_published_at": null,
+    "product_released_at": "2024-06-28",
+    "image_created_at": null,
+    "save_status": "saved_for_research",
+    "sha256": "9d5d0f0885a4c7133bd83f7200990b33882d30528182d981b1a010f78adb1099",
+    "local_path": "/workspace/scratch/49527ac7d143/skullpanda-research/refs/serenity.jpg",
+    "public_distribution": "reference_only_external_url",
+    "rights": "原图归创作者及相应权利人；本页外链引用，不重新托管。",
+    "visual_inspected": true,
+    "observed_features": "黑色包头结构、银色杆珠装饰、闭眼与绿灰眼妆、红晕短唇；双掌上翻，长片衣袖落向脚边。",
+    "visual_language": "向下垂落的线与闭眼形成安静、仪式化感；复杂装饰服从脸部中心。",
+    "official_settings": "探索不同世界和身份，见S01；不能从照片反推未公布人设。",
+    "interpretation": {
+      "type": "inference",
+      "mechanism": "向下垂落的线与闭眼形成安静、仪式化感；复杂装饰服从脸部中心。",
+      "alternative": "渠道、稀缺、摄影与发行规模也可能影响偏好，图片不能证明购买因果。"
+    },
+    "original_transfer_direction": "可研究垂直节奏如何调节情绪，但另设独立脸型、连接与服装结构。",
+    "material_and_structure": "图中水纹是场景，不是商品附送水盘的证据；内部支撑、杆件强度和可动性未知。",
+    "presentation": "官方斜正面场景",
+    "limitations": "图中水纹是场景，不是商品附送水盘的证据；内部支撑、杆件强度和可动性未知。",
+    "sources": [
+      "A06"
+    ]
+  },
+  {
+    "image_id": "V04",
+    "subject_id": "skullpanda",
+    "title": "The Warmth｜Loosening 放轻松",
+    "image_type": "official_product",
+    "source_page_url": "https://www.popmart.com/en-US/products/9/skullpanda-the-warmth-series",
+    "original_image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789116787226_5e46c5311fffc3d9f09b6bfa482b5612.jpg",
+    "observed_at": "2026-10-19",
+    "page_published_at": null,
+    "product_released_at": "2022-12-29",
+    "image_created_at": null,
+    "save_status": "saved_for_research",
+    "sha256": "14401f806372ed04a0e3db32d415c7f97a5a08f8b1c6ff228ec557dc82267071",
+    "local_path": "/workspace/scratch/49527ac7d143/skullpanda-research/refs/loosening.jpg",
+    "public_distribution": "reference_only_external_url",
+    "rights": "原图归创作者及相应权利人；本页外链引用，不重新托管。",
+    "visual_inspected": true,
+    "observed_features": "奶油白短发、闭眼、粉红眼颊与小嘟唇，身体靠在木桶边；头盔放在前景，毛巾在头上。",
+    "visual_language": "摘下装备仍可通过脸部与唇形辨认；放松来自动作语境，不只来自粉色。",
+    "official_settings": "探索不同世界和身份，见S01；不能从照片反推未公布人设。",
+    "interpretation": {
+      "type": "inference",
+      "mechanism": "摘下装备仍可通过脸部与唇形辨认；放松来自动作语境，不只来自粉色。",
+      "alternative": "渠道、稀缺、摄影与发行规模也可能影响偏好，图片不能证明购买因果。"
+    },
+    "original_transfer_direction": "用“从工作姿态转入休息”的动作变化表达情绪；不是给所有角色加浴桶。",
+    "material_and_structure": "商品为ABS/PVC，釉亮观感不等于陶瓷；桶的木纹也不证明真木。未取得后视图。",
+    "presentation": "官方近景，有浅景深",
+    "limitations": "商品为ABS/PVC，釉亮观感不等于陶瓷；桶的木纹也不证明真木。未取得后视图。",
+    "sources": [
+      "S05"
+    ]
+  },
+  {
+    "image_id": "V05",
+    "subject_id": "skullpanda",
+    "title": "You Found Me!｜Darkness",
+    "image_type": "official_product",
+    "source_page_url": "https://www.popmart.com/us/products/3676",
+    "original_image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784530904919_4152c212bab5a0d91f41e6e2c9157ef4.jpg",
+    "observed_at": "2026-10-19",
+    "page_published_at": null,
+    "product_released_at": "2025-09-11",
+    "image_created_at": null,
+    "save_status": "saved_for_research",
+    "sha256": "5f82514219e2b77cd4dc580382e7a19d5f74f2934a68334c397521cb5cd7eaab",
+    "local_path": "/workspace/scratch/49527ac7d143/skullpanda-research/refs/darkness.png",
+    "public_distribution": "reference_only_external_url",
+    "rights": "原图归创作者及相应权利人；本页外链引用，不重新托管。",
+    "visual_inspected": true,
+    "observed_features": "黑色长绒外层、深色卷刘海、闭眼、额头月牙、两侧圆垫和胸前星形点缀；主体与沙发人物形成超大比例。",
+    "visual_language": "硬脸与蓬松外壳提供不同细节尺度；圆垫延续横向记忆点，载体由陈列走向携带。",
+    "official_settings": "探索不同世界和身份，见S01；不能从照片反推未公布人设。",
+    "interpretation": {
+      "type": "inference",
+      "mechanism": "硬脸与蓬松外壳提供不同细节尺度；圆垫延续横向记忆点，载体由陈列走向携带。",
+      "alternative": "渠道、稀缺、摄影与发行规模也可能影响偏好，图片不能证明购买因果。"
+    },
+    "original_transfer_direction": "借硬软材质分工与随身场景；新角色需另建五官、头饰及图案。",
+    "material_and_structure": "这是宣传场景，不能量取巨型实物尺寸；产品规格挂件不含绳13.5cm，外层PVC/ABS/聚酯、填充聚酯。",
+    "presentation": "官方比例夸张的场景宣传图",
+    "limitations": "这是宣传场景，不能量取巨型实物尺寸；产品规格挂件不含绳13.5cm，外层PVC/ABS/聚酯、填充聚酯。",
+    "sources": [
+      "A09"
+    ]
+  },
+  {
+    "image_id": "V06",
+    "subject_id": "skullpanda",
+    "title": "The Warmth｜系列日常群像",
+    "image_type": "interview_image",
+    "source_page_url": "https://news.sina.cn/sx/2022-12-15/detail-imxwucxt6610460.d.html?vt=4",
+    "original_image_url": "https://k.sinaimg.cn/n/spider20221215/12/w500h312/20221215/6bec-8d193fe61a175b1433f47a859cc6e288.png/w700d1q75cms.jpg?by=cms_fixed_width",
+    "observed_at": "2026-10-19",
+    "page_published_at": "2022-12-15",
+    "product_released_at": null,
+    "image_created_at": null,
+    "save_status": "saved_for_research",
+    "sha256": "0b5652327f37db941c122b1e5c601eb00b2d3131b22a28c79e6c0f639af0c144",
+    "local_path": "/workspace/scratch/49527ac7d143/skullpanda-research/refs/warmth2.jpg",
+    "public_distribution": "reference_only_external_url",
+    "rights": "原图归创作者及相应权利人；本页外链引用，不重新托管。",
+    "visual_inspected": true,
+    "observed_features": "多个闭眼角色在阅读、抱物、坐卧等日常姿态中出现；浅米白、淡粉与绿地背景搭配。",
+    "visual_language": "同一脸部语法覆盖不同生活时刻，温柔系列反证“只能暗黑”的归类。",
+    "official_settings": "探索不同世界和身份，见S01；不能从照片反推未公布人设。",
+    "interpretation": {
+      "type": "inference",
+      "mechanism": "同一脸部语法覆盖不同生活时刻，温柔系列反证“只能暗黑”的归类。",
+      "alternative": "渠道、稀缺、摄影与发行规模也可能影响偏好，图片不能证明购买因果。"
+    },
+    "original_transfer_direction": "先整理新角色真实的一天，再设计有内容差异的动作系列。",
+    "material_and_structure": "本图分辨率仅适合群体构图与色彩关系，不能判断每款印刷、缝隙或细部工艺。",
+    "presentation": "采访配图，500×312，人物较小",
+    "limitations": "本图分辨率仅适合群体构图与色彩关系，不能判断每款印刷、缝隙或细部工艺。",
+    "sources": [
+      "S02"
+    ]
+  },
+  {
+    "image_id": "V07",
+    "subject_id": "skullpanda",
+    "title": "作者采访｜手绘工序片段",
+    "image_type": "interview_image",
+    "source_page_url": "https://news.sina.cn/sx/2022-12-15/detail-imxwucxt6610460.d.html?vt=4",
+    "original_image_url": "https://k.sinaimg.cn/n/spider20221215/164/w500h464/20221215/32ba-9da61378c00c82ec4b3ddd311588f6a7.png/w700d1q75cms.jpg?by=cms_fixed_width",
+    "observed_at": "2026-10-19",
+    "page_published_at": "2022-12-15",
+    "product_released_at": null,
+    "image_created_at": null,
+    "save_status": "saved_for_research",
+    "sha256": "eccea2297db2725c8de9398344cabd892d55e0979c9b1807ac1693e39b3a7c56",
+    "local_path": "/workspace/scratch/49527ac7d143/skullpanda-research/refs/warmth1.jpg",
+    "public_distribution": "reference_only_external_url",
+    "rights": "原图归创作者及相应权利人；本页外链引用，不重新托管。",
+    "visual_inspected": true,
+    "observed_features": "双手持米白小躯干，用细笔绘制褐色枝叶纹；画面只见躯干与腿部，没有完整头部。",
+    "visual_language": "微小纹样能形成近看层次；不能用此图宣称所有量产件均手工描绘。",
+    "official_settings": "探索不同世界和身份，见S01；不能从照片反推未公布人设。",
+    "interpretation": {
+      "type": "inference",
+      "mechanism": "微小纹样能形成近看层次；不能用此图宣称所有量产件均手工描绘。",
+      "alternative": "渠道、稀缺、摄影与发行规模也可能影响偏好，图片不能证明购买因果。"
+    },
+    "original_transfer_direction": "为新产品规定远看轮廓与近看细节的层级，量产方案另行打样。",
+    "material_and_structure": "这是创作／绘制过程片段，不是量产工艺、成本、良率或材料检测证明。",
+    "presentation": "采访近景，500×464",
+    "limitations": "这是创作／绘制过程片段，不是量产工艺、成本、良率或材料检测证明。",
+    "sources": [
+      "S02"
+    ]
+  }
+]

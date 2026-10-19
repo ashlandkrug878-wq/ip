@@ -1,0 +1,29 @@
+{
+  "observed_at": "2026-10-19",
+  "supplied_note": {
+    "url": "https://xhslink.cn/o/8nmo3fbt94w",
+    "note_id": "6ab2341f0000000034002c88",
+    "author": "工位IP集（求关注）",
+    "title": "每天认识一个 IP｜SKULLPANDA",
+    "display_date": "09-22 辽宁",
+    "year": null,
+    "images_fully_read": 5,
+    "comments_read": 0,
+    "comments_state": "页面显示空评论区",
+    "likes_observed": 46,
+    "collections_observed": 17
+  },
+  "queries": [
+    {
+      "query": "SKULLPANDA 品牌介绍",
+      "status": "登录后查看搜索结果",
+      "readable_results": 0
+    },
+    {
+      "query": "SKULLPANDA 产品汇总",
+      "status": "登录后查看搜索结果",
+      "readable_results": 0
+    }
+  ],
+  "source_limits": "单条介绍笔记，不是购买者样本；内页图片未确认原始出处，不能替代官方结构参考。"
+}

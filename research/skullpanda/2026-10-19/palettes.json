@@ -1,0 +1,55 @@
+{
+  "scope": "The Forest单款",
+  "colors": [
+    {
+      "name": "奶油白",
+      "hex": "#EEE8D5",
+      "role": "主色／中性色",
+      "position": "脸和胸腹",
+      "basis": "屏幕目测近似；非官方色号",
+      "image_id": "V01"
+    },
+    {
+      "name": "灰橄榄",
+      "hex": "#AAA782",
+      "role": "辅色",
+      "position": "短发与折叶",
+      "basis": "屏幕目测近似；非官方色号",
+      "image_id": "V01"
+    },
+    {
+      "name": "枯叶褐",
+      "hex": "#A68C69",
+      "role": "主题色",
+      "position": "头顶卷叶与身体细纹",
+      "basis": "屏幕目测近似；非官方色号",
+      "image_id": "V01"
+    },
+    {
+      "name": "暗橄榄",
+      "hex": "#41443B",
+      "role": "结构对比",
+      "position": "左右球",
+      "basis": "屏幕目测近似；非官方色号",
+      "image_id": "V01"
+    },
+    {
+      "name": "浅卡其",
+      "hex": "#C9C49E",
+      "role": "结构色",
+      "position": "U形护框",
+      "basis": "屏幕目测近似；非官方色号",
+      "image_id": "V01"
+    },
+    {
+      "name": "桃橙",
+      "hex": "#D99476",
+      "role": "局部点缀",
+      "position": "画面左鞋底",
+      "basis": "屏幕目测近似；非官方色号",
+      "image_id": "V01"
+    }
+  ],
+  "signature_color": null,
+  "notes": "不能将本单款低饱和植被配色升级成全IP固定色。"
+}
