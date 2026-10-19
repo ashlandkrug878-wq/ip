@@ -24,6 +24,7 @@ description: 潮玩 IP 工作流第一步（v2.0）：从原点找到表达。�
 | `references/rules.md` | 定表达、检查、批量学习时读 |
 | `references/dimensions.md` | 写内核、圈层、内容、时机时读第 1 到 4 层和第 7 到 9 层；第 5、6 层（外壳、视觉）属于找形 |
 | `references/benchmarks.md` | 表达撞车检查时读，看"表达"和"规律摘要" |
+| 仓库 `data/studies/*.json` | 判断时机和表达是否拥挤时读。第 0 步研究的对标卡，看 `expression`、`pendulum`、`mechanisms` |
 
 ## 两种入口
 

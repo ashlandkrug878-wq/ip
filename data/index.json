@@ -25,6 +25,10 @@
     "2026w42b-1-A5",
     "2026w42b-1-A6"
   ],
+  "studies": [
+    "the-monsters",
+    "xingxingren"
+  ],
   "reviews": [
     "2026w42-1",
     "2026w42-2",
@@ -59,5 +63,5 @@
     "palette-cdqmur",
     "palette-d409tv"
   ],
-  "updated": "2026-10-18T17:41:07+00:00"
+  "updated": "2026-10-19T06:57:01+00:00"
 }

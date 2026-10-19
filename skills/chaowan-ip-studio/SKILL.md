@@ -11,6 +11,7 @@ description: 潮玩 IP 工作流第三步（v2.0）：形已经锁定之后，�
 
 - **标准输入**：第二步交来的 IP 档案（仓库 `ip-archives/IP档案_<名字>_vN.md`）和锁定线稿（档案"参考图"一节的路径）
 - **素材池**：用户在选品板上存的色系池、单色收藏、材质池，是配色和选材的来源（见 `references/pools.md`）
+- **对标卡**：仓库 `data/studies/*.json`，第 0 步研究的结果。系列节奏、首发和爆款品类、投产门槛可以参照它的 `product`、`numbers`、`for_skills.studio`，但不照搬具体配色组合
 - **没有档案时**（用户直接带着自己的形象来）：先走模块 1 诊断，诊断最后按 `references/bible.md` 补一份 IP 档案
 - 用户只有表达、还没有形，建议用 chaowan-ip-form；连表达都没有，建议用 chaowan-ip-lab
 

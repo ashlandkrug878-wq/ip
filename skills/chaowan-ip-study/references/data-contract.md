@@ -1,19 +1,22 @@
 # 档案数据契约 v1
 
+深挖档使用。速查和标准档只需要对标卡（`card.md`）和报告；深挖档的 archive.json 完成后，仍要把结论汇总进对标卡。
+
 目录：文件；实体；声明；来源；视觉；状态；检查。
 
 ## 文件
 
 `research/<subject-id>/<YYYY-MM-DD>/`：
-- report.md：摘要及A–L全文、各表、视觉拆解、提示词、方法卡与缺口；重要结论附声明或证据ID。
-- archive.json：下面全部集合；可拆表给网站，但保留ID关系。
+- report.md：摘要及A–L全文、各表、视觉拆解、机制卡、方法卡与缺口；重要结论附声明或证据ID。
+- archive.json：下面全部集合；可拆表，但保留ID关系。
+- 对标卡另存仓库 `data/studies/<subject-id>.json`，是网站和其他 skill 读取的入口。
 - assets/：确实可留存的图，不含无权再分发的拷贝。
 
-网站开发与发布单独授权。不要写入选品板原有data/reviews、data/pools、图片生成队列，不把案例图当原创资产。
+不要写入选品板的 data/reviews、data/pools、图片生成队列，不把案例图当原创资产。
 
 ## 顶层
 
-schema_version、revision、publications、color_system、form_spec、head_face_profile、narrative_system、action_library、series_matrix、recognition_checks、audience_insights、repo_audit、subject_id、cutoff_date、observed_at、markets、status、entities、claims、evidence、events、products、accounts、content_samples、user_evidence、images、visual_analyses、character_rules、prompt_layers、methods、gaps、coverage。
+schema_version、revision、publications、color_system、form_spec、head_face_profile、narrative_system、action_library、series_matrix、recognition_checks、audience_insights、repo_audit、subject_id、cutoff_date、observed_at、markets、status、entities、claims、evidence、events、products、accounts、content_samples、user_evidence、images、visual_analyses、character_rules、mechanism_cards、methods、gaps、coverage。
 
 日期为ISO8601；日期精度只有年份时存YYYY，不补01-01。未知用null，已确认没有该项才用空数组并解释。统计窗口、采集日、事件发生日分开。
 
@@ -45,15 +48,13 @@ images：image_id、subject_id、type、product_ids、event_ids、version、crea
 
 visual_analyses：analysis_id、image_id、viewed、resolution_limit、observed_features、official_settings、interpretation、material_and_structure、presentation、limitations。
 character_rules：identity_invariants、expression_invariants、variables、medium_adaptations、uncertain；每项关联image_ids及证据。
-prompt_layers：disclaimer、sample_descriptions（关联图）、mechanisms、original_translation（新brief、fixed、variables、flat_zh/en、product_zh/en、risks）。
-
-prompt_validation：每条可执行提示词的版本、目标对象／范围／载体、完整文本及语言、纯文字或参考图模式、参考图ID、实际输出图路径、tested_at、逐项视觉对照、修订原因、status（draft／testing／revise／blocked／ready）。正式网页提示词只引用ready的已测版本；无法判断关键身份或颜色时不得ready。生成图单列AI测试来源，不混入官方证据图索引。只测一种语言时不宣称双语均通过。修改正式词后重新验证，保存历史版本。
+mechanism_cards：card_id、image_ids、visible_features、perception、expression_or_need、role_in_content_or_product、evidence_ids、alternatives、boundary、borrowable（可以借的机制）、not_borrowable（专属识别组合）。不包含任何出图提示词。
 methods：method_id、problem、claim_ids、image_ids、mechanism、conditions、counterexamples、failure_boundary、design_implication、experiment、metric、rejection_condition、evidence_level。
 
 ## 状态与覆盖
 
 status：in_progress／partial／complete。
-coverage：每模块A–L及visuals/prompts/cross_case对应status、evidence_ids、limitations；未研究不得标complete，单例cross_case标not_applicable。
+coverage：每模块A–L及visuals/cross_case对应status、evidence_ids、limitations；未研究不得标complete，单例cross_case标not_applicable。
 gaps：gap_id、module、status（unknown/partially_verified/not_found/blocked/conflicting）、question、searched、impact、next_action。
 
 ## 完成前检查

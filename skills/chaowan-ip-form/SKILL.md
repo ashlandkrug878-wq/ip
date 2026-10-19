@@ -25,6 +25,7 @@ description: 潮玩 IP 工作流第二步「找形」（v1.0）：把一张已�
 | `references/head.md` | 设计五官和头脸时读 |
 | `references/checks.md` | 撞车、外壳与内核、五项测试、禁止项，交付前读 |
 | `references/benchmarks.md` | 撞车检查时读。33 个 IP 的识别组合 |
+| 仓库 `data/studies/*.json` | 撞车检查时先读。第 0 步研究的对标卡，有来源，优先于 benchmarks |
 | `references/handoff.md` | 用户锁定一个形后读。IP 档案模板 |
 
 ## 输入

@@ -1,0 +1,291 @@
+{
+  "id": "the-monsters",
+  "name": "THE MONSTERS",
+  "aliases": [
+    "精灵天团",
+    "LABUBU",
+    "Zimomo",
+    "Tycoco"
+  ],
+  "tier": "quick",
+  "status": "partial",
+  "cutoff_date": "2026-10-19",
+  "updated": "2026-10-19",
+  "summary": "2015 年的绘本精灵，2019 年签约泡泡玛特，2024 年经明星晒图全球爆发，2025 年成为第一个年收入破百亿的 IP；2026 上半年开始回落。最值得看的是「丑萌」外形 + 角色群 + 毛绒挂件的组合，以及单一 IP 依赖的风险。",
+  "owner": {
+    "creator": "龙家升（Kasing Lung），香港出生、荷兰长大的艺术家",
+    "operator": "泡泡玛特",
+    "relation": "2019 年起独家授权",
+    "since": "2019",
+    "sources": [
+      "s-hku-labubu"
+    ]
+  },
+  "origin": {
+    "path": [
+      "绘本出版",
+      "艺术家潮玩"
+    ],
+    "year": "2015",
+    "story": "受北欧神话启发创作的精灵角色群，最早以绘本角色形式存在，早期市场反响平淡",
+    "sources": [
+      "s-hku-labubu",
+      "s-woshipm-labubu"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2015",
+      "event": "创作 THE MONSTERS 精灵角色群（LABUBU、Zimomo、Tycoco 等）",
+      "type": "fact",
+      "sources": [
+        "s-hku-labubu"
+      ]
+    },
+    {
+      "date": "2018",
+      "event": "LABUBU 第一个盲盒推出（与 2019 年签约的先后关系待核实）",
+      "type": "fact",
+      "sources": [
+        "s-hku-labubu"
+      ]
+    },
+    {
+      "date": "2019",
+      "event": "与泡泡玛特签独家授权",
+      "type": "fact",
+      "sources": [
+        "s-hku-labubu"
+      ]
+    },
+    {
+      "date": "2024",
+      "event": "明星在社交媒体晒图，后被泰国官方用作旅游推广，全球破圈",
+      "type": "fact",
+      "sources": [
+        "s-hku-labubu"
+      ]
+    },
+    {
+      "date": "2025",
+      "event": "全年收入 141.6 亿元，成为泡泡玛特第一个破百亿的 IP",
+      "type": "fact",
+      "sources": [
+        "s-yicai-2025ar"
+      ]
+    },
+    {
+      "date": "2026 上半年",
+      "event": "收入 44.54 亿元，同比下降 7.5%",
+      "type": "fact",
+      "sources": [
+        "s-jiemian-farm"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "丑一点、坏一点也很可爱（研究归纳，非官方口号）",
+    "sentence_type": "反差",
+    "basis": "inferred",
+    "sources": [
+      "s-woshipm-labubu"
+    ]
+  },
+  "core": {
+    "personality": "调皮、野、不完美",
+    "emotion": "反差",
+    "action": "龇着牙坏笑，却很好抱",
+    "basis": "inferred"
+  },
+  "insight": {
+    "scene": "",
+    "behavior": "把毛绒挂件挂在包上出门",
+    "state": "",
+    "conflict": "想要可爱，又不想要乖巧的可爱",
+    "unsaid": "我也不是完美的乖孩子",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "年轻消费者，之后扩展到海外和明星粉丝",
+    "where": "社交媒体、线下门店",
+    "buy": "盲盒、毛绒挂件",
+    "signs": "",
+    "share": "包挂、开箱",
+    "breakout": "明星晒图 → 东南亚 → 全球"
+  },
+  "pendulum": {
+    "position": "丑萌怪趣",
+    "against": "甜美治愈和暗黑酷之后，「丑萌」显得新鲜（研究推断）"
+  },
+  "form": {
+    "archetype": "怪兽精灵",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "五官",
+      "头顶"
+    ],
+    "mark": "一排锯齿状尖牙（报道写九颗）+ 一对长尖耳",
+    "face": "不对称的圆睁双眼，坏笑露牙；毛发蓬乱",
+    "emotion": "反差",
+    "odd": "尖牙放在可爱的毛绒脸上",
+    "density": "中等",
+    "naming": "叠音",
+    "group": "角色群"
+  },
+  "collide_combo": "长尖耳 + 一排尖牙坏笑 + 毛绒精灵。不要用「尖耳 + 露一排牙的坏笑」组合",
+  "color": {
+    "mode": "多色系列",
+    "main": "随系列变化",
+    "signature": "",
+    "notes": "港大文章提到改版后肤色更浅、毛发为奶白；本次未拆色板"
+  },
+  "materials": "盲盒手办；毛绒和搪胶毛绒挂件；冰箱贴、手机壳等周边",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "短视频"
+  },
+  "product": {
+    "first_category": "盲盒手办",
+    "hit_category": "搪胶毛绒",
+    "hit_product": "毛绒挂件系列（具体系列未核实）",
+    "price_band": "",
+    "sources": [
+      "s-hku-labubu",
+      "s-yicai-2025ar"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "IP 收入",
+      "value": 141.6,
+      "unit": "亿元，同比 +365.7%",
+      "period": "2025 全年",
+      "type": "fact",
+      "sources": [
+        "s-yicai-2025ar"
+      ]
+    },
+    {
+      "metric": "IP 收入",
+      "value": 44.54,
+      "unit": "亿元，同比 -7.5%",
+      "period": "2026 上半年",
+      "type": "fact",
+      "sources": [
+        "s-jiemian-farm"
+      ]
+    },
+    {
+      "metric": "泡泡玛特毛绒品类收入（全公司，非单 IP）",
+      "value": 187.1,
+      "unit": "亿元，同比 +560.6%",
+      "period": "2025 全年",
+      "type": "fact",
+      "sources": [
+        "s-yicai-2025ar"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "明星自发晒图带来海外破圈",
+      "type": "fact",
+      "evidence": "港大文章记录 2024 年明星晒图后的连锁反应",
+      "boundary": "曝光在先不等于它导致了长期增长；同时还有门店扩张",
+      "sources": [
+        "s-hku-labubu"
+      ]
+    },
+    {
+      "claim": "根据消费者反馈改版（肤色更浅、毛发奶白），降低「丑」的门槛",
+      "type": "self_report",
+      "evidence": "港大文章提到三代改版",
+      "boundary": "改版和销量的因果没有单独证据",
+      "sources": [
+        "s-hku-labubu"
+      ]
+    },
+    {
+      "claim": "毛绒挂件让潮玩从摆在家里变成挂在包上被看见，带动传播",
+      "type": "inference",
+      "evidence": "2025 年毛绒成为泡泡玛特第一大品类",
+      "boundary": "全公司数字，不能全部归给这个 IP",
+      "sources": [
+        "s-yicai-2025ar"
+      ]
+    },
+    {
+      "claim": "单一 IP 依赖导致回落风险",
+      "type": "fact",
+      "evidence": "2026 上半年收入同比下降；业绩发布后股价下跌",
+      "boundary": "下降原因（供给、热度、替代品）未拆",
+      "sources": [
+        "s-jiemian-farm",
+        "s-yicai-2025ar"
+      ]
+    }
+  ],
+  "counterexamples": "2015 至 2019 年作为绘本角色反响平淡；2026 上半年开始回落",
+  "theory": {
+    "shell": "尖耳、尖牙、乱毛的怪兽小精灵",
+    "core": "不完美、调皮的反差可爱",
+    "shadow": "外壳专属组合很强，不是公共元素堆出来的",
+    "two_layers": {
+      "surface": "丑萌、好抱、明星同款",
+      "deep": "角色群和北欧精灵世界观给收藏者"
+    },
+    "validation": "付费证据很强（收入、全球门店）；也有退热证据"
+  },
+  "for_skills": {
+    "lab": "反差型「丑萌」已经被它占住，再做反差要换一种反差，例如反差在动作或场景上",
+    "form": "可以借：把一个「不该可爱的五官」放进可爱的整体，形成记忆点；不能借：长尖耳 + 尖牙坏笑的组合",
+    "studio": "首发盲盒，靠毛绒挂件爆发；改版降低审美门槛；要警惕单一 IP 依赖，尽早规划角色群"
+  },
+  "gaps": [
+    "绘本的出版社、出版年和语种未核实",
+    "第一个盲盒（2018）和签约泡泡玛特（2019）的先后关系有冲突",
+    "首个搪胶毛绒系列的名称、日期和价格未核实",
+    "小红书未检索",
+    "没有看图，外形字段用的是报道描述和对标库",
+    "人人都是产品经理的文章提到的「首批 5000 只、39 元」为单一来源，未采用"
+  ],
+  "sources": [
+    {
+      "id": "s-hku-labubu",
+      "title": "The IP strategy behind Pop Mart's overnight popularity（港大经管学院专栏）",
+      "url": "https://hkubs.hku.hk/sc/research/thought-leadership/hkej-column/the-ip-strategy-behind-pop-marts-overnight-popularity",
+      "publisher": "港大经管学院 / 信报专栏",
+      "published": "2025-04-16",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "s-woshipm-labubu",
+      "title": "LABUBU 发展复盘（人人都是产品经理）",
+      "url": "https://www.woshipm.com/marketing/6229433.html",
+      "publisher": "人人都是产品经理",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "s-yicai-2025ar",
+      "title": "泡泡玛特2025年营收371.2亿元（第一财经）",
+      "url": "https://www.yicai.com/news/103103386.html",
+      "publisher": "第一财经",
+      "published": "2026-03-25",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "s-jiemian-farm",
+      "title": "星星人农场系列再现秒空（界面新闻）",
+      "url": "https://m.jiemian.com/article/14964216.html",
+      "publisher": "界面新闻",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    }
+  ],
+  "archive": null
+}

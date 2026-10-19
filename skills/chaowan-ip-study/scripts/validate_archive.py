@@ -11,7 +11,7 @@ def validate(folder):
     errors = []
     tables = {'entities':'entity_id','claims':'claim_id','evidence':'evidence_id','events':'event_id','products':'product_id','accounts':'account_id','content_samples':'content_id','user_evidence':'user_evidence_id','images':'image_id','visual_analyses':'analysis_id','methods':'method_id','gaps':'gap_id'}
     if data.get('schema_version') == '1.1': tables['publications'] = 'publication_id'
-    for key in ['schema_version','subject_id','cutoff_date','observed_at','markets','status','coverage','character_rules','prompt_layers',*tables]:
+    for key in ['schema_version','subject_id','cutoff_date','observed_at','markets','status','coverage','character_rules',*tables]:
         if key not in data: errors.append(f'missing top-level {key}')
     if data.get('schema_version') == '1.1':
         for key in ['revision','color_system','form_spec','head_face_profile','narrative_system','action_library','series_matrix','recognition_checks','audience_insights','repo_audit']:

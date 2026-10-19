@@ -1,0 +1,13 @@
+interface:
+  display_name: 潮玩 IP 研究 · 第 0 步
+  short_description: 研究已有 IP 为什么成功或失败，产出对标卡给表达、找形、定型三个 skill 使用
+  default_prompt: 使用 $chaowan-ip-study 对指定 IP 做速查档研究，按 references/card.md 写对标卡到 data/studies/，并运行 validate_card.py。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

@@ -170,6 +170,14 @@ details.builder[open] summary::after{content:"收起"}
 .round{display:flex;flex-direction:column;gap:12px}
 .round h3{font-size:14px;margin:4px 0 0}
 .fid{font-family:var(--mono);font-size:12px;color:var(--accent);margin-right:6px}
+.stable{overflow-x:auto;border:1px solid var(--line);border-radius:12px;background:var(--surface)}
+.stable table{border-collapse:collapse;width:100%;min-width:860px;font-size:13px}
+.stable th,.stable td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+.stable th{font-weight:500;color:var(--muted);background:var(--sunk);white-space:nowrap}
+.stable tr[data-act]{cursor:pointer}
+.stable tr[data-act]:hover td{background:var(--accent-soft)}
+.stable td b{font-weight:600}
+.tierchip{font-size:11px;border-radius:5px;padding:1px 6px;background:var(--sunk);border:1px solid var(--line);color:var(--muted);white-space:nowrap}
 .lockflag{font-size:11px;color:var(--keep);background:var(--keep-soft);border-radius:5px;padding:1px 7px}
 .upl{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
 .upl label{cursor:pointer}
@@ -186,6 +194,7 @@ button,select,textarea,input{font:inherit;color:inherit}
     <h1>潮玩 IP 选品板</h1>
     <label class="note" for="batchSel" style="display:flex;align-items:center;gap:8px">期数 <select class="sel" id="batchSel"></select></label>
     <div class="seg" role="tablist" aria-label="视图">
+      <button role="tab" id="tab-study" data-tab="study" aria-selected="false">研究库<small id="c-study"></small></button>
       <button role="tab" id="tab-ips" data-tab="ips" aria-selected="true">① 表达<small id="c-ips"></small></button>
       <button role="tab" id="tab-form" data-tab="form" aria-selected="false">② 找形<small id="c-form"></small></button>
       <button role="tab" id="tab-lock" data-tab="lock" aria-selected="false">③ 定型<small id="c-lock"></small></button>
@@ -210,6 +219,11 @@ button,select,textarea,input{font:inherit;color:inherit}
     <details class="info" id="info"><summary id="infoSum">本期说明</summary><div class="infobody" id="infoBody"></div></details>
     <div class="row-between"><div class="seg sm" id="filters" role="group" aria-label="按状态筛选"></div><span class="note">只看你的选择和批注，下一期按它们调整</span></div>
     <div class="grid" id="grid"><div class="empty"><b>正在载入本期方案</b><span>每期的方案会自动出现在这里。</span></div></div>
+  </section>
+
+  <section class="panel" id="p-study" hidden>
+    <div class="row-between"><span class="note">第 0 步研究的对标卡：别人为什么成功或失败。分类用和表达、找形同一套词，方便横着比</span></div>
+    <div id="studyBody"></div>
   </section>
 
   <section class="panel" id="p-form" hidden>
@@ -238,7 +252,7 @@ button,select,textarea,input{font:inherit;color:inherit}
 <aside class="drawer" id="drawer" hidden role="dialog" aria-modal="true" aria-labelledby="dTitle"></aside>
 
 <script>
-let FORMS=[],formIp=null,JOBS=[],BATCHES=[],IPS=[],REVIEWS={},POOLS={},cur=null,filter="全部",tab="ips",matTab="palette",poolTab="palette",openId=null,canWrite=true;
+let STUDIES=[],FORMS=[],formIp=null,JOBS=[],BATCHES=[],IPS=[],REVIEWS={},POOLS={},cur=null,filter="全部",tab="ips",matTab="palette",poolTab="palette",openId=null,canWrite=true;
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const STATUSES=["保留","待优化","淘汰"];
@@ -265,7 +279,7 @@ function setTabs(el,list,active,key){el.innerHTML=list.map(([k,l,n])=>`<button r
 function renderTop(){
   const sel=$("batchSel");sel.innerHTML=BATCHES.map(b=>`<option value="${esc(b.id)}" ${b.id===cur?"selected":""}>${esc(b.title)}</option>`).join("")||`<option>还没有任何一期</option>`;
   document.querySelectorAll("[data-tab]").forEach(t=>t.setAttribute("aria-selected",t.dataset.tab===tab));
-  $("p-ips").hidden=tab!=="ips";$("p-form").hidden=tab!=="form";$("p-lock").hidden=tab!=="lock";$("p-mat").hidden=tab!=="mat";$("p-pool").hidden=tab!=="pool";
+  $("p-study").hidden=tab!=="study";$("c-study").textContent=STUDIES.length||"";$("p-ips").hidden=tab!=="ips";$("p-form").hidden=tab!=="form";$("p-lock").hidden=tab!=="lock";$("p-mat").hidden=tab!=="mat";$("p-pool").hidden=tab!=="pool";
   $("c-form").textContent=FORMS.length||"";$("c-lock").textContent=FORMS.filter(f=>f.locked).length||"";
   const B=curBatch()||{};
   $("c-ips").textContent=batchIps().length||"";
@@ -318,7 +332,7 @@ function renderGrid(){
 function openDrawer(id){openId=id;renderDrawer();$("shade").hidden=false;$("drawer").hidden=false;const t=$("dClose");if(t)t.focus();}
 function closeDrawer(){openId=null;$("shade").hidden=true;$("drawer").hidden=true;}
 function renderDrawer(){
-  if(!openId)return;if(FORMS.find(x=>x.id===openId)){renderFormDrawer();return;}const i=IPS.find(x=>x.id===openId);if(!i){closeDrawer();return;}
+  if(!openId)return;if(STUDIES.find(x=>x.id===openId)){renderStudyDrawer();return;}if(FORMS.find(x=>x.id===openId)){renderFormDrawer();return;}const i=IPS.find(x=>x.id===openId);if(!i){closeDrawer();return;}
   const legacy=!!(i.enp||i.zh);
   const r=REVIEWS[i.id]||{};const ins=i.insight;const ci=i.circle;const os=ipOrigins(i);
   const sec=(t,h)=>h?`<div class="sec"><h3>${t}</h3>${h}</div>`:"";
@@ -404,6 +418,43 @@ function renderFormDrawer(){
     ${sec("线稿提示词",`<div class="prompt"><div><b>中文</b><button type="button" class="btn" data-act="copy" data-id="${esc(f.id)}" data-v="zh">复制</button></div><span>${esc(f.zh)}</span></div><div class="prompt"><div><b>English</b><button type="button" class="btn" data-act="copy" data-id="${esc(f.id)}" data-v="en">复制</button></div><span>${esc(f.enp||"")}</span></div>`)}
    </div>`;
 }
+const TIER={quick:"速查",standard:"标准",deep:"深挖"};
+const jn=v=>Array.isArray(v)?v.join("、"):(v??"");
+function renderStudies(){
+  const el=$("studyBody");if(!loaded){el.innerHTML="";return;}
+  if(!STUDIES.length){el.innerHTML=`<div class="empty"><b>还没有对标卡</b><span>让 Claude 或 ChatGPT 用 chaowan-ip-study 研究一个 IP，对标卡会出现在这里。</span></div>`;return;}
+  const rows=STUDIES.slice().sort((a,b)=>String(b.updated||"").localeCompare(String(a.updated||"")));
+  el.innerHTML=`<div class="stable"><table><thead><tr><th>IP</th><th>原型</th><th>轮廓</th><th>记忆点</th><th>情绪</th><th>句式</th><th>钟摆</th><th>主载体</th><th>首发 → 爆款</th><th>档</th></tr></thead><tbody>${rows.map(c=>{const f=c.form||{};return `<tr data-act="open" data-id="${esc(c.id)}"><td><b>${esc(c.name)}</b></td><td>${esc(f.archetype)}</td><td>${esc(f.silhouette)}</td><td>${esc(jn(f.mark_position))}</td><td>${esc(f.emotion)}</td><td>${esc(c.expression?.sentence_type)}</td><td>${esc(c.pendulum?.position)}</td><td>${esc(c.carrier?.primary)}</td><td>${esc(c.product?.first_category)} → ${esc(c.product?.hit_category)}</td><td><span class="tierchip">${esc(TIER[c.tier]||c.tier)}${c.status==="partial"?" · 未完成":""}</span></td></tr>`;}).join("")}</tbody></table></div>`;
+}
+function renderStudyDrawer(){
+  const c=STUDIES.find(x=>x.id===openId);if(!c){closeDrawer();return;}
+  const sec=(t,h)=>h?`<div class="sec"><h3>${t}</h3>${h}</div>`:"";
+  const kv=pairs=>`<div class="kv">${pairs.filter(([,v])=>v!=null&&v!=="").map(([k,v])=>`<span>${k}</span><span>${esc(v)}</span>`).join("")}</div>`;
+  const S={};(c.sources||[]).forEach(x=>S[x.id]=x);
+  const refs=ids=>(ids||[]).map(i=>S[i]&&safeUrl(S[i].url)?`<a href="${esc(S[i].url)}" target="_blank" rel="noopener noreferrer">${esc(S[i].publisher||"来源")} ↗</a>`:"").join(" ");
+  const TY={fact:"已核实",self_report:"官方或作者自述",inference:"研究推断",hypothesis:"待验证"};
+  const f=c.form||{},t=c.theory||{},fs=c.for_skills||{};
+  $("drawer").innerHTML=`<div class="dhead">
+     <div class="row-between"><h2 id="dTitle">${esc(c.name)} <span class="tierchip">${esc(TIER[c.tier]||c.tier)}${c.status==="partial"?" · 未完成":""}</span></h2><button type="button" class="btn" id="dClose" data-act="close">关闭</button></div>
+     <div class="note">${esc(jn(c.aliases))} · 截止 ${esc(c.cutoff_date)}</div>
+     <div class="expr">${esc(c.summary)}</div>
+   </div>
+   <div class="dbody">
+    ${sec("给我们三个 skill 的启发",kv([["表达 lab",fs.lab],["找形 form",fs.form],["定型 studio",fs.studio],["别撞的组合",c.collide_combo]]))}
+    ${sec("权属与起源",kv([["作者",c.owner?.creator],["运营",c.owner?.operator],["关系",c.owner?.relation],["起盘路径",jn(c.origin?.path)],["起源",(c.origin?.year||"")+" · "+(c.origin?.story||"")]]))}
+    ${(c.timeline||[]).length?sec("时间线",`<div class="layers">${c.timeline.map(e=>`<div><span>${esc(e.date)}</span><span>${esc(e.event)} <span class="note">${esc(TY[e.type]||"")}</span> ${refs(e.sources)}</span></div>`).join("")}</div>`):""}
+    ${sec("表达与内核",kv([["表达",c.expression?.line],["句式",c.expression?.sentence_type],["性格",c.core?.personality],["情绪",c.core?.emotion],["它在做什么",c.core?.action],["钟摆",(c.pendulum?.position||"")+" · "+(c.pendulum?.against||"")]]))}
+    ${sec("洞察与圈层",kv([["状态",c.insight?.state],["矛盾",c.insight?.conflict],["没说出口的话",c.insight?.unsaid],["是谁",c.circle?.who],["已经在买",c.circle?.buy],["怎么晒",c.circle?.share],["破圈",c.circle?.breakout]]))}
+    ${sec("外形（五条轴）",kv([["原型",f.archetype],["轮廓",f.silhouette],["记忆点",jn(f.mark_position)+" · "+(f.mark||"")],["五官",f.face],["情绪",f.emotion],["反常点",f.odd],["细节密度",f.density],["命名",f.naming],["单角色或群",f.group]]))}
+    ${sec("色彩、材质、产品",kv([["配色方式",c.color?.mode],["主色",c.color?.main],["签名色",c.color?.signature],["说明",c.color?.notes],["材质",c.materials],["主载体",c.carrier?.primary],["次载体",c.carrier?.secondary],["首发品类",c.product?.first_category],["爆款品类",c.product?.hit_category],["爆款",c.product?.hit_product],["价格",c.product?.price_band]]))}
+    ${(c.numbers||[]).length?sec("数字",`<div class="layers">${c.numbers.map(n=>`<div><span>${esc(n.period)}</span><span>${esc(n.metric)}：${esc(n.value)} ${esc(n.unit)} <span class="note">${esc(TY[n.type]||"")}</span> ${refs(n.sources)}</span></div>`).join("")}</div>`):""}
+    ${(c.mechanisms||[]).length?sec("机制",`<div class="layers">${c.mechanisms.map(m=>`<div><span>${esc(TY[m.type]||m.type)}</span><span>${esc(m.claim)}<br><span class="note">依据：${esc(m.evidence)}；边界：${esc(m.boundary)}</span> ${refs(m.sources)}</span></div>`).join("")}</div>`):""}
+    ${sec("用你的理论看",kv([["外壳",t.shell],["内核",t.core],["有没有别人的影子",t.shadow],["表层给路人",t.two_layers?.surface],["深层给圈层",t.two_layers?.deep],["相信腿不相信嘴",t.validation]]))}
+    ${sec("反例",esc(c.counterexamples))}
+    ${(c.gaps||[]).length?sec("还没查清的",`<ul>${c.gaps.map(g=>`<li>${esc(g)}</li>`).join("")}</ul>`):""}
+    ${sec("来源",`<div class="links">${(c.sources||[]).filter(x=>safeUrl(x.url)).map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">${esc(x.title)} ↗</a>`).join("")}</div>`)}
+   </div>`;
+}
 function renderLock(){
   const g=$("lockGrid");if(!loaded){g.innerHTML="";return;}
   const list=FORMS.filter(f=>f.locked);
@@ -467,7 +518,7 @@ function renderPools(){
   if(poolTab==="palette"){body.innerHTML=`<div class="pals">${arr.map(p=>`<div class="pal">${stripHtml(p.roles||[])}<div class="palbody"><h3>${esc(p.name)}${p.custom?` <span class="tag">自己组的</span>`:""}</h3><span class="note">${esc(p.tone||"")}</span>${rolesHtml(p.roles||[])}<div class="palfoot"><span class="note">来自 ${esc(p.fromTitle||"")}</span>${rm(p)}</div></div></div>`).join("")}</div>`;return;}
   body.innerHTML=`<div class="plist">${arr.map(p=>`<div class="pitem">${poolTab==="color"?`<span class="dot" style="background:${okHex(p.hex)}"></span>`:`<span></span>`}<div style="min-width:0"><div class="nm">${esc(p.name)}</div><div class="dt">${esc(p.detail||p.toy||p.source||"")}</div>${p.note?`<div class="dt">批注：${esc(p.note)}</div>`:""}</div><div class="act"><span class="note">来自 ${esc(p.fromTitle||"")}</span>${rm(p)}</div>${(p.links||[]).length?`<div style="grid-column:1/-1">${linksHtml(p.links)}</div>`:""}</div>`).join("")}</div>`;
 }
-function renderAll(){renderTop();renderInfo();renderFilters();renderGrid();renderForms();renderLock();renderMat();renderPools();if(openId)renderDrawer();}
+function renderAll(){renderTop();renderInfo();renderFilters();renderGrid();renderStudies();renderForms();renderLock();renderMat();renderPools();if(openId)renderDrawer();}
 
 /* ---------- GitHub storage ---------- */
 const OWNER="ashlandkrug878-wq",REPO="ip",BRANCH="main";
@@ -486,14 +537,14 @@ async function putJson(path,obj,msg){for(let tries=0;tries<3;tries++){const sha=
 async function delFile(path,msg){const sha=await shaOf(path);if(!sha)return;const r=await fetch(API+encodeURI(path),{method:"DELETE",headers:{...hdrs(),"Content-Type":"application/json"},body:JSON.stringify({message:msg,sha,branch:BRANCH})});if(!r.ok)throw new Error("删除失败 "+r.status);}
 let chain=Promise.resolve();
 function queueWrite(fn){const p=chain.then(fn);chain=p.catch(()=>{});return p;}
-async function touchIndex(col,id,add){const idx=(await readJson("data/index.json"))||{batches:[],ips:[],forms:[],reviews:[],pools:[]};const s=new Set(idx[col]||[]);if(add)s.add(id);else s.delete(id);idx[col]=[...s].sort();idx.updated=new Date().toISOString();await putJson("data/index.json",idx,"选品板：更新索引");}
+async function touchIndex(col,id,add){const idx=(await readJson("data/index.json"))||{batches:[],ips:[],forms:[],studies:[],reviews:[],pools:[]};const s=new Set(idx[col]||[]);if(add)s.add(id);else s.delete(id);idx[col]=[...s].sort();idx.updated=new Date().toISOString();await putJson("data/index.json",idx,"选品板：更新索引");}
 async function loadAll(){
   try{
     const idx=await readJson("data/index.json");if(!idx)throw new Error("仓库里还没有 data/index.json");
     const get=async(col)=>{const out={};const ids=idx[col]||[];for(let i=0;i<ids.length;i+=8){const part=await Promise.all(ids.slice(i,i+8).map(async id=>[id,await readJson(`data/${col}/${id}.json`).catch(()=>null)]));part.forEach(([id,d])=>{if(d)out[id]=d;});}return out;};
-    const [b,ip,fm,rv,pl]=await Promise.all([get("batches"),get("ips"),get("forms"),get("reviews"),get("pools")]);
+    const [b,ip,fm,st,rv,pl]=await Promise.all([get("batches"),get("ips"),get("forms"),get("studies"),get("reviews"),get("pools")]);
     BATCHES=Object.entries(b).map(([id,d])=>({id,...d})).sort((x,y)=>String(y.date).localeCompare(String(x.date)));
-    IPS=Object.entries(ip).map(([id,d])=>({id,...d}));FORMS=Object.entries(fm).map(([id,d])=>({id,...d}));REVIEWS=rv;POOLS=pl;
+    IPS=Object.entries(ip).map(([id,d])=>({id,...d}));FORMS=Object.entries(fm).map(([id,d])=>({id,...d}));STUDIES=Object.entries(st).map(([id,d])=>({...d,id}));REVIEWS=rv;POOLS=pl;
     if(!cur||!BATCHES.find(x=>x.id===cur))cur=BATCHES[0]?.id||null;
     loaded=true;loadError="";
   }catch(e){loadError=String(e.message||e);}
