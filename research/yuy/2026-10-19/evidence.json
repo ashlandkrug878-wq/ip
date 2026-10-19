@@ -1,0 +1,368 @@
+{
+  "subject": "小玉 YUY／Yuy玉",
+  "research_date": "2026-10-19",
+  "status": "partial",
+  "creator_public_name": "角闪石族族长",
+  "creator_legal_name": null,
+  "creator_birth_year": null,
+  "operating_group": "TOP TOY",
+  "ownership_summary": "2026-03-31申请稿列小玉为自有IP；定义包括拥有或独家授权。广州角闪石族艺术文化公司51%股权有一手披露；2025年11月入股月份仅媒体转述。特定角闪玉登记已披露，不外推全部著作权。",
+  "numbers": [],
+  "hit_category": null,
+  "sources": [
+    {
+      "id": "S01",
+      "title": "TOP TOY International Group Limited 港交所申请版本（草拟本）",
+      "url": "https://www1.hkexnews.hk/app/sehk/2026/108384/documents/sehk26033103585_c.pdf",
+      "publisher": "TOP TOY／香港交易所",
+      "source_type": "primary_company_listing_application",
+      "family": "toptoy_20260331_application",
+      "publication_date": "2026-03-31",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_pdf_downloaded_and_relevant_sections_read",
+      "supports": [
+        "正文p113–114广州角闪石族艺术文化公司51%股权及剩余49%持有人LIU Xingfeng",
+        "正文p134小玉列为自有IP，p135定义自有为拥有或持有独家授权",
+        "附录IV-17角闪玉版权登记：持有人广州角闪石族艺术文化有限责任公司，黔作登字2025-F-01713939，2025-07-10",
+        "p135全部自有IP2025产品收入198.8百万元"
+      ],
+      "limitations": [
+        "草稿可能修改，不是最终招股书",
+        "未找到2025年11月入股月份原始交易记录",
+        "公司股权不等于角色版权百分比",
+        "特定登记不代表全部作品版权链",
+        "所有自有IP收入不能归给小玉"
+      ],
+      "related_urls": [
+        "https://www.hkexnews.hk/app/sehk/2026/108384/a131512/sehk26033103601_c.pdf"
+      ],
+      "local_pdf": "refs/toptoy-prospectus-20260331.pdf",
+      "local_text": "refs/toptoy-prospectus-20260331.txt"
+    },
+    {
+      "id": "S02",
+      "title": "角闪石族族长新浪账号",
+      "url": "https://www.sina.cn/media/5709568683",
+      "publisher": "角闪石族族长",
+      "source_type": "creator_social_profile",
+      "family": "creator_sina",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "profile_full_read; historical_posts_snippet_only",
+      "supports": [
+        "账号名称与yuy简介",
+        "索引含2025年6月作品及周边文案"
+      ],
+      "limitations": [
+        "未取得最早小红书原帖",
+        "历史动态仅搜索索引",
+        "出生年、法定姓名、国籍和学历没有直接履历核验"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "YUY进入48家TOP TOY门店发售公告",
+      "url": "https://www.sina.cn/news/detail/5293416905705893.html",
+      "publisher": "TOPTOY官方认证微博",
+      "source_type": "primary_brand_social",
+      "family": "toptoy_launch_202605",
+      "publication_date": "2026-04-30",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_post_read",
+      "supports": [
+        "5月1日起48店发售毛绒挂件、包、发饰、手机壳、服饰",
+        "品牌自述自由、未完成却完整的角色表达"
+      ],
+      "limitations": [
+        "日期是2026年，不是2025年",
+        "48店为渠道动作，不是销量",
+        "无单SKU尺寸材料价格"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "YUY Beautiful Girl Series Plush Blind Box",
+      "url": "https://gotoptoy.com/products/yuy-beautiful-girl-series-plush-blind-box?variant=46566441386134",
+      "publisher": "TOP TOY官方海外商城",
+      "source_type": "primary_brand_store",
+      "family": "toptoy_global_store",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_and_product_html_read; official_domain_crosslink_verified",
+      "supports": [
+        "所选随机单盲USD29.99",
+        "六盒套装与两款手机挂绳为不同商品选项",
+        "手机挂绳Glamorous Queen SKU6942873609109和Vintage Girl SKU6942873609116的HTML价格各USD23.99",
+        "首页列Yuy为Original Characters"
+      ],
+      "limitations": [
+        "尺寸栏无信息，正文无材料",
+        "集合页最低价23.99不是单盲价",
+        "海外端盒页面和HTML显示不一致，未采用",
+        "公开价格是访问时点，不是大陆首发价"
+      ],
+      "related_urls": [
+        "https://toptoyglobal.com/",
+        "https://toptoyglobal.com/store/37.html",
+        "https://gotoptoy.com/collections/yuy"
+      ],
+      "image_url": "https://gotoptoy.com/cdn/shop/files/4_24a9fdeb-86b9-4943-b7ed-5baf8500f00f.jpg?v=1790240764&width=1920",
+      "local_html": "refs/beautiful-girl.html"
+    },
+    {
+      "id": "S05",
+      "title": "都在往五角场跑！超治愈小玉来啦",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32954572",
+      "publisher": "上海杨浦官方微信／澎湃政务号",
+      "source_type": "primary_local_event_report",
+      "family": "yangpu_popup_202604",
+      "publication_date": "2026-04-12",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read",
+      "supports": [
+        "上海五角场合生汇2026-04-10至05-08快闪",
+        "草莓花环华东限定、云南兔、趴趴、布丁玉大头等具名产品",
+        "部分匿名受访者正向感受及现场热门款补货"
+      ],
+      "limitations": [
+        "政府传播内容具有促消费宣传语境",
+        "匿名访谈不是总体满意度抽样",
+        "后续商场客流11万/16万不是IP客流",
+        "后续100万元单日销售主体未拆清，不纳IP收入"
+      ],
+      "related_urls": [
+        "https://www.jfdaily.com/sgh/detail?id=1736938"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "排队1小时、日销数十万，丑萌女孩成商场爆单王",
+      "url": "https://www.tmtpost.com/8087112.html",
+      "publisher": "天下网商／钛媒体转载",
+      "source_type": "media_report_with_site_observation",
+      "family": "tianxiawangshang_202607",
+      "publication_date": "2026-07-31",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_article_body_read",
+      "supports": [
+        "2026-07-30杭州中心现场商品剩余款式和补货情况",
+        "挂件79–89元，金色鱼尾89元的现场价格",
+        "媒体回溯2025年初创作和2025成都COSMO展览",
+        "代购挑脸及角色内容关系的报道"
+      ],
+      "limitations": [
+        "页面显示2026-07-31；其他平台8月转载不改变现场事件日期",
+        "作者00后视传履历为媒体转述",
+        "西湖醋鱼灵感文中为据说，未确认",
+        "日销20万元转引杭州新闻，不是独立审计",
+        "暂无线上店是当时观察，不是截至10月仍成立"
+      ],
+      "related_urls": [
+        "https://www.cyzone.cn/article/841791.html",
+        "https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikzqsr2793972.shtml"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "不完美女孩占领商场中庭，TOP TOY又捧出一个潮玩新顶流",
+      "url": "https://www.jiemian.com/article/14880580.html",
+      "publisher": "剁椒Spicy／Jolene（界面JMedia）",
+      "source_type": "media_analysis",
+      "family": "spicy_20260805",
+      "publication_date": "2026-08-05",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_relevant_article_sections_read",
+      "supports": [
+        "角闪石族族长创作与粉丝互动的媒体回溯",
+        "2025年11月投资月份的企业查询转述",
+        "成都2025年5月首展的回溯",
+        "地方快闪销售战报转述"
+      ],
+      "limitations": [
+        "2025年11月未取得原始交易记录",
+        "文中51%与超过51%写法不一致，以申请稿51%为准",
+        "同文同时讨论上秋子，不能把其争议移给小玉",
+        "商标代理变更不证明完整法律控制合同",
+        "媒体战报非IP年度审计收入"
+      ],
+      "related_urls": [
+        "https://www.sohu.com/a/1059160736_120619691",
+        "https://www.cyzone.cn/article/842267.html"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "热门素人IP在手 TOP TOY在等大结果",
+      "url": "https://news.pedaily.cn/202610/570050.shtml",
+      "publisher": "全天候科技／投资界授权转载",
+      "source_type": "media_report_with_industry_interviews",
+      "family": "allweather_20261010",
+      "publication_date": "2026-10-10",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_article_read",
+      "supports": [
+        "2026-09-25 Beautiful Girl进入全渠道的报道",
+        "商业化先验证再铺货的行业受访者观点",
+        "2026年全国快闪与品牌合作时间线"
+      ],
+      "limitations": [
+        "匿名行业受访者观点不是因果证明",
+        "文章公司整体收入亏损不能归给小玉",
+        "商场战报与既有材料重叠，不算重复独立验证",
+        "YOYO与小玉为不同角色"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "TOPTOY推出YUY玉 Beautiful Girl系列毛绒盲盒",
+      "url": "https://www.mokihub.com/acgn-express/model-news/9786.html",
+      "publisher": "MOKIHUB／来源模玩迷",
+      "source_type": "secondary_product_release",
+      "family": "mowanmI_product_release_202609",
+      "publication_date": "2026-09-29",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_article_read",
+      "supports": [
+        "2026-09-25发售",
+        "6常规1隐藏",
+        "人民币89元单抽、534元6盒的媒体所述官方价"
+      ],
+      "limitations": [
+        "非品牌原始商品规格页面",
+        "中文款名有疑似错字，最终需官方图核字",
+        "没有材料或高度正文",
+        "不能作为销量或爆款证据"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "YUY Beautiful Girl Im Not Flawed confirmed style",
+      "url": "https://toysez.com/products/yuy-beautiful-girl-plush-blind-box-series-im-not-flawed-confirmed-style",
+      "publisher": "TOYSEZ",
+      "source_type": "third_party_retailer",
+      "family": "toysez_listings",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "full_product_page_read",
+      "supports": [
+        "零售商称2026-09-25发布、约15cm、聚酯纤维",
+        "拆盒确认款而非原封随机盲盒"
+      ],
+      "limitations": [
+        "仅零售商规格，无官方包装核验",
+        "TAL是商家自有鉴定体系，非独立公证",
+        "同站Love in the Garden普通/隐藏页冲突，弃用隐藏名字与1/72概率",
+        "销售倒计时和库存提示不作真实销量数据"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "小玉快闪店人挤人",
+      "url": "https://www.sina.cn/news/detail/5314532927869244.html",
+      "publisher": "魏星Starsiii",
+      "source_type": "individual_social_purchase_report",
+      "family": "ugc_weixing_20260627",
+      "publication_date": "2026-06-27",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_post_read",
+      "supports": [
+        "用户描述杭州与北京拥挤并购买黑皮款"
+      ],
+      "limitations": [
+        "单一直接用户样本，无代表性",
+        "未确认商业合作关系",
+        "没有材质或质量检查"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "最火素人小玉yuy成为今年IP联名王？",
+      "url": "https://socialbeta.com/article/111338",
+      "publisher": "SocialBeta",
+      "source_type": "secondary_marketing_analysis",
+      "family": "socialbeta_yuy_2026",
+      "publication_date": "2026-09-04",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_relevant_article_sections_read",
+      "supports": [
+        "服饰、数码、餐饮、家居的联名路径报道",
+        "复述2025年11月51%股权信息",
+        "内容到渠道的研究线索"
+      ],
+      "limitations": [
+        "多个业绩数字明确转引剁椒，不算独立 corroboration",
+        "本轮未逐一找到合作品牌原始页，不把全部合作作为已核事实"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Yuy × CASETiFY 官方合作产品页",
+      "url": "https://www.casetify.cn/influencer/yuy",
+      "publisher": "CASETiFY",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "full_listing_read",
+      "supports": [
+        "官方列出Yuy联名手机壳及磁吸支架等商品"
+      ],
+      "limitations": [
+        "不采用动态地区价格；合作合同及销量未知"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "每天认识一个IP——小玉（Yuy / 玉 yuy）",
+      "url": "https://xhslink.cn/o/5KO68Rk6ZEJ",
+      "publisher": "品牌显微镜🔬／小红书",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "partial",
+      "supports": [
+        "用户指定研究入口",
+        "作者在可见评论承认第5张配图混入小满"
+      ],
+      "limitations": [
+        "只查看第1、5、6张图及3条可见评论",
+        "界面日期10-05无年份",
+        "配图无原始授权来源，不作为官方设定母版"
+      ]
+    }
+  ],
+  "excluded_or_unverified_sources": [
+    {
+      "url": "https://post.smzdm.com/p/a2609xon/",
+      "access_status": "full_page_read",
+      "reason": "明确标内容由AI生成；所谓原始评论/点赞未可追溯，不作为用户采样或产品规格证据"
+    },
+    {
+      "url": "https://post.smzdm.com/p/a82xlx97/",
+      "access_status": "snippet_only; full_open_timeout",
+      "reason": "负评聚合未核原帖，不采用"
+    },
+    {
+      "url": "https://ir.miniso.com/Interim-Annual-Reports",
+      "access_status": "index_read; linked_pdf_fetch_failed",
+      "reason": "能确认2025年报和2026中报列出，但未声称通读"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1815846/000110465926048172/mnso-20251231x20f.htm",
+      "access_status": "failed_content_length_limit",
+      "reason": "未据此提供YUY财务数字"
+    }
+  ],
+  "access_gaps": [
+    "最早小红书作品准确公开日期未回溯",
+    "作者完整个人履历未取得",
+    "2025年11月投资原始交易文件未取得",
+    "大部分具体SKU官方材料与尺寸未取得",
+    "负面原始消费者样本不足",
+    "IP独立销量、利润与年度营收未披露或未找到",
+    "小红书入口全文与部分图片、可见评论已读；两组站内搜索均出现登录墙。"
+  ],
+  "dedup_notes": [
+    "剁椒在界面搜狐创业邦等转载算一个家族",
+    "天下网商在多平台转载算一个家族",
+    "SocialBeta引用剁椒的销量不增加独立验证次数",
+    "主站官网及海外店为同一品牌来源"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "subject_id": "yuy",
+  "earliest_creation": {
+    "date": "2025年初",
+    "precision": "媒体回溯；原帖未知",
+    "sources": [
+      "S06",
+      "S07"
+    ]
+  },
+  "first_exhibition": {
+    "date": "2025年5月",
+    "place": "成都COSMO",
+    "precision": "媒体回溯，具体日未核",
+    "sources": [
+      "S07"
+    ]
+  },
+  "formal_book": null,
+  "isbn": null,
+  "first_merchandise": null,
+  "copyright_registration": {
+    "work": "角闪玉",
+    "date": "2025-07-10",
+    "number": "黔作登字2025-F-01713939",
+    "holder": "广州角闪石族艺术文化有限责任公司",
+    "sources": [
+      "S01"
+    ],
+    "boundary": "特定作品登记，不等于诞生日或全部版权链。"
+  }
+}

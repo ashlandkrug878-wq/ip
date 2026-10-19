@@ -1,0 +1,32 @@
+{
+  "target": "V01",
+  "method": "目测近似，非像素统计、官方色号或生产标准",
+  "fixed_across_ip": false,
+  "colors": [
+    {
+      "hex": "#1E1E1B",
+      "region": "黑发与主线"
+    },
+    {
+      "hex": "#F0C29F",
+      "region": "暖桃肤色"
+    },
+    {
+      "hex": "#E49785",
+      "region": "淡红脸颊"
+    },
+    {
+      "hex": "#FFFFFF",
+      "region": "白裙与袜"
+    },
+    {
+      "hex": "#F5D947",
+      "region": "手持黄星"
+    },
+    {
+      "hex": "#48A7CD",
+      "region": "蓝星项链"
+    }
+  ],
+  "lighting": "原图背景有暖黄色，白底重建可能改变主观色感；印刷和实物另做色样。"
+}

@@ -1,0 +1,384 @@
+{
+  "id": "yuy",
+  "name": "小玉 YUY",
+  "aliases": [
+    "小玉",
+    "Yuy",
+    "YUY",
+    "yuy玉",
+    "玉 yuy"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-19",
+  "updated": "2026-10-19",
+  "summary": "从可自我投射的女孩插画走向随身商品；面部配置比固定发型更稳定。参考辅助二维接近，纯文字尚未通过。",
+  "owner": {
+    "creator": "角闪石族族长（公开名；法定姓名未核）",
+    "operator": "TOP TOY；广州角闪石族艺术文化公司相关",
+    "relation": "申请稿列自有IP，定义包括拥有或独家授权；不等同于全部版权买断。51%为相关公司股权。",
+    "since": null,
+    "sources": [
+      "S01",
+      "S02"
+    ]
+  },
+  "origin": {
+    "path": [
+      "网络插画"
+    ],
+    "year": "2025（媒体回溯）",
+    "story": "从社交平台插画到展览、快闪与商品；最早原帖和首个产品未锁定。",
+    "sources": [
+      "S06",
+      "S07"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2025 年初",
+      "event": "媒体回溯：创作者从小红书发布女孩插画开始；最早原帖日期尚未取得。",
+      "type": "self_report",
+      "sources": [
+        "S06",
+        "S07"
+      ]
+    },
+    {
+      "date": "2025 年 5 月",
+      "event": "媒体回溯成都 COSMO 展览与周边路径；不据此认定精确首作日或首个 SKU。",
+      "type": "self_report",
+      "sources": [
+        "S07"
+      ]
+    },
+    {
+      "date": "2025-07-10",
+      "event": "申请稿附录披露特定作品「角闪玉」登记日期；不是角色诞生日。",
+      "type": "fact",
+      "sources": [
+        "S01"
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "event": "TOP TOY 申请稿列小玉为自有 IP；该定义包括拥有或持有独家授权。",
+      "type": "fact",
+      "sources": [
+        "S01"
+      ]
+    },
+    {
+      "date": "2026-04-10 → 05-08",
+      "event": "上海五角场合生汇华东首站快闪，出现限定公仔及多类周边。",
+      "type": "self_report",
+      "sources": [
+        "S05"
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "event": "官方前一日宣布进入 48 家门店，涵盖毛绒挂件、包、发饰、手机壳、服饰。",
+      "type": "self_report",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "event": "媒体报道 Beautiful Girl 毛绒盲盒发售；现有官方海外商品页可交叉确认系列存在。",
+      "type": "self_report",
+      "sources": [
+        "S08",
+        "S09",
+        "S04"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "尚未完成，也可以完整地存在。",
+    "sentence_type": "允许",
+    "basis": "inferred",
+    "sources": [
+      "S03"
+    ]
+  },
+  "core": {
+    "personality": "自由、自洽、敏感",
+    "emotion": "内收",
+    "action": "举星、落泪、变成花，以及走入日常用品。",
+    "basis": "inferred"
+  },
+  "insight": {
+    "scene": "头像、日常情绪分享、挂包和手机随身配件",
+    "behavior": "借角色表达当下状态，选择适合自己的版本",
+    "state": "希望普通与不完美也能被容纳",
+    "conflict": "想被理解，又不想被一种精致标准规定",
+    "unsaid": "我不必每时每刻都表现得完美",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "插画与角色周边用户；没有年龄性别占比样本",
+    "where": "小红书、微博、快闪店、常规门店与合作品牌渠道",
+    "buy": "单一用户购入与现场报道可见，复购率未知",
+    "signs": "大黑瞳、窄眼白、雀斑、小鼻嘴的关系",
+    "share": "角色场景与个人情绪，买到的款式及探店经历",
+    "breakout": "多载体与渠道扩大触达；增量成效未量化"
+  },
+  "pendulum": {
+    "position": "丑萌怪趣",
+    "against": "研究归纳：保留不规整感回应完美形象压力；不表示受众都认为角色丑，也无全市场稀缺性证明。"
+  },
+  "form": {
+    "archetype": "类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "五官",
+      "头型"
+    ],
+    "mark": "大面积黑瞳与少量眼白、雀斑、紧凑小鼻嘴形成面部配置",
+    "face": "近圆黑瞳与不完全对称的视线；目标V01为C形鼻与极小开口嘴",
+    "emotion": "内收",
+    "odd": "巨大眼睛与极小鼻嘴的尺度反差",
+    "density": "中等",
+    "naming": "人名",
+    "group": "单角色"
+  },
+  "collide_combo": "不要把近圆巨黑瞳＋窄眼白＋C形小鼻＋细雀斑＋该头脸比例整组搬作新IP；仅换发色或衣服不足以原创。",
+  "color": {
+    "mode": "多色系列",
+    "main": "高频黑白与暖肤色；主题花朵、衣服、发色变化",
+    "signature": "未核得全角色固定色；黑发白裙只是本次目标版本",
+    "notes": "色板为V01目测近似，非官方Pantone或印刷标准"
+  },
+  "materials": "二维原图有颗粒与不规则线；毛绒商品可见绒面、刺绣及布料拼接，官方材料配比与尺寸未核。",
+  "carrier": {
+    "primary": "其他",
+    "secondary": "实物潮玩"
+  },
+  "product": {
+    "first_category": null,
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "按地区与时点分列：2026-09-25大陆首发媒体称单盲89元；2026-10-19官方海外所选单盲USD29.99。",
+    "sources": [
+      "S04",
+      "S09"
+    ]
+  },
+  "numbers": [],
+  "mechanisms": [
+    {
+      "claim": "五官配置提供辨认，发型与穿着承接多种生活状态。",
+      "type": "inference",
+      "evidence": "V01、V03、V04与V05–V07跨图仍可见大黑瞳、窄眼白、雀斑及小鼻嘴关系。",
+      "boundary": "样本归纳，不是官方全系列不变规则；普通大眼或雀斑单独并不专属。",
+      "sources": [
+        "S03",
+        "S04",
+        "S12"
+      ]
+    },
+    {
+      "claim": "可投射的普通状态，让内容具备被当作自己的可能。",
+      "type": "inference",
+      "evidence": "品牌自由与完整的表达，及举星、花朵、落泪画面。",
+      "boundary": "接受自己是研究解释；未做受众访谈，不能证明其导致购买。",
+      "sources": [
+        "S03",
+        "S12"
+      ]
+    },
+    {
+      "claim": "从图片进入挂件、手机配件等日常载体，增加接触场景。",
+      "type": "inference",
+      "evidence": "官方门店多品类发售和CASETiFY合作页；有单一用户购入记录。",
+      "boundary": "SKU存在与购买个案不能推出全渠道盈利、复购或联名成效。",
+      "sources": [
+        "S03",
+        "S04",
+        "S11",
+        "S13"
+      ]
+    }
+  ],
+  "counterexamples": "未找到足以核实的失败系列或独立负面样本。排队、限购、缺货还可能由低库存、商场位置、节假日或代购造成；不归因于角色设计。AI生成的负评汇编已排除。",
+  "theory": {
+    "shell": "识别落在五官配置及比例，非黑发白裙的固定装扮。",
+    "core": "将自由和接纳自己放入日常场景；不是完整故事宇宙的证明。",
+    "shadow": "大眼、雀斑和女孩本属公共元素，识别依赖组合、创作者内容语境及持续传播。",
+    "two_layers": {
+      "surface": "可亲近、可随身携带的女孩",
+      "deep": "读者可能把不同画面代入自己的状态；这是待访谈验证的假设。"
+    },
+    "validation": "有购买个案和现场商品观察；无可审计IP年度数据，不能以流量或商场客流代替付费。"
+  },
+  "for_skills": {
+    "lab": "候选启发：先找到用户不愿被规定的生活状态，再写允许式表达；需要访谈验证，避免只贴自爱口号。",
+    "form": "候选启发：固定面部关系并允许系列变化；本轮纯文字未通过，暂停原创找形，不借用专属识别组合。",
+    "studio": "候选启发：按头像、随身配件、毛绒分别处理信息密度；先做实物材料与洗护验证。当前暂停实物概念生成。"
+  },
+  "gaps": [
+    "最早创作原帖、完整世界观及正式出版物未找到。",
+    "作者法定身份、完整版权链和独家合同范围未核。",
+    "首个商品、最畅销SKU及IP独立营收、利润、销量、复购未知。",
+    "官方正侧背母版缺失，研究目标仅为特定可见二维画面。",
+    "大多数SKU官方尺寸、材料、内部结构和量产包装未核。",
+    "原始负面购买样本不足；未形成近30天社媒样本或人口统计。",
+    "纯文字三轮均有明显偏差；参考图辅助接近不解除纯文字关卡。",
+    "英文、黑白找形、实物概念和原创迁移均未测试，暂停后续。"
+  ],
+  "sources": [
+    {
+      "id": "research-web",
+      "title": "小玉 YUY完整调研网页与四轮平面实测",
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/yuy/2026-10-19/",
+      "publisher": "本研究归档",
+      "published": "2026-10-19",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S01",
+      "title": "TOP TOY International Group Limited 港交所申请版本（草拟本）",
+      "url": "https://www1.hkexnews.hk/app/sehk/2026/108384/documents/sehk26033103585_c.pdf",
+      "publisher": "TOP TOY／香港交易所",
+      "published": "2026-03-31",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S02",
+      "title": "角闪石族族长新浪账号",
+      "url": "https://www.sina.cn/media/5709568683",
+      "publisher": "角闪石族族长",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "partial"
+    },
+    {
+      "id": "S03",
+      "title": "YUY进入48家TOP TOY门店发售公告",
+      "url": "https://www.sina.cn/news/detail/5293416905705893.html",
+      "publisher": "TOPTOY官方认证微博",
+      "published": "2026-04-30",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S04",
+      "title": "YUY Beautiful Girl Series Plush Blind Box",
+      "url": "https://gotoptoy.com/products/yuy-beautiful-girl-series-plush-blind-box?variant=46566441386134",
+      "publisher": "TOP TOY官方海外商城",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S05",
+      "title": "都在往五角场跑！超治愈小玉来啦",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32954572",
+      "publisher": "上海杨浦官方微信／澎湃政务号",
+      "published": "2026-04-12",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S06",
+      "title": "排队1小时、日销数十万，丑萌女孩成商场爆单王",
+      "url": "https://www.tmtpost.com/8087112.html",
+      "publisher": "天下网商／钛媒体转载",
+      "published": "2026-07-31",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S07",
+      "title": "不完美女孩占领商场中庭，TOP TOY又捧出一个潮玩新顶流",
+      "url": "https://www.jiemian.com/article/14880580.html",
+      "publisher": "剁椒Spicy／Jolene（界面JMedia）",
+      "published": "2026-08-05",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S08",
+      "title": "热门素人IP在手 TOP TOY在等大结果",
+      "url": "https://news.pedaily.cn/202610/570050.shtml",
+      "publisher": "全天候科技／投资界授权转载",
+      "published": "2026-10-10",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S09",
+      "title": "TOPTOY推出YUY玉 Beautiful Girl系列毛绒盲盒",
+      "url": "https://www.mokihub.com/acgn-express/model-news/9786.html",
+      "publisher": "MOKIHUB／来源模玩迷",
+      "published": "2026-09-29",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S10",
+      "title": "YUY Beautiful Girl Im Not Flawed confirmed style",
+      "url": "https://toysez.com/products/yuy-beautiful-girl-plush-blind-box-series-im-not-flawed-confirmed-style",
+      "publisher": "TOYSEZ",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S11",
+      "title": "小玉快闪店人挤人",
+      "url": "https://www.sina.cn/news/detail/5314532927869244.html",
+      "publisher": "魏星Starsiii",
+      "published": "2026-06-27",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S12",
+      "title": "最火素人小玉yuy成为今年IP联名王？",
+      "url": "https://socialbeta.com/article/111338",
+      "publisher": "SocialBeta",
+      "published": "2026-09-04",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S13",
+      "title": "Yuy × CASETiFY 官方合作产品页",
+      "url": "https://www.casetify.cn/influencer/yuy",
+      "publisher": "CASETiFY",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S15",
+      "title": "每天认识一个IP——小玉（Yuy / 玉 yuy）",
+      "url": "https://xhslink.cn/o/5KO68Rk6ZEJ",
+      "publisher": "品牌显微镜🔬／小红书",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "partial"
+    }
+  ],
+  "archive": "research/yuy/2026-10-19/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/yuy/2026-10-19/",
+  "prompt_gate": {
+    "pure_text_gate_passed": false,
+    "reference_assisted_ready": [
+      "reference-v1"
+    ],
+    "downstream_status": "blocked",
+    "user_approved": false
+  },
+  "publication": {
+    "date": "2026-10-19",
+    "destination": "选品板研究库 / GitHub Pages",
+    "user_authorized": true,
+    "note": "用户确认归档；纯文字未通过状态保留。生成图压缩为768px webp，完整图保留原审阅网页。"
+  }
+}
