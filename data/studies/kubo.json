@@ -1,0 +1,384 @@
+{
+  "id": "kubo",
+  "name": "KUBO",
+  "aliases": [
+    "kubo"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-19",
+  "updated": "2026-10-19",
+  "summary": "以寸头、大头短身和低位半眯眼承接外冷内暖的反差；参考辅助二维已接近，纯文字仍未通过。",
+  "owner": {
+    "creator": "BAO",
+    "operator": "POP MART 泡泡玛特",
+    "relation": "官方艺术家署名及商品开发销售关系可核；版权归属与授权合同细节未知",
+    "since": null,
+    "sources": [
+      "K01",
+      "K02"
+    ]
+  },
+  "origin": {
+    "path": [
+      "艺术家潮玩"
+    ],
+    "year": null,
+    "story": "零售商称2022诞生，未得一手确认；本档最早明确官方SKU日期为美国站2023-08-19，不等于角色生日。",
+    "sources": [
+      "K01",
+      "K02",
+      "K09"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2023-08-19",
+      "event": "Walks of Life · 美国官方页标注日期",
+      "type": "self_report",
+      "sources": [
+        "K02"
+      ]
+    },
+    {
+      "date": "2024-01-12",
+      "event": "Select Your Character",
+      "type": "self_report",
+      "sources": [
+        "K03"
+      ]
+    },
+    {
+      "date": "2024-07-19",
+      "event": "Breathing In · 加拿大官方页",
+      "type": "self_report",
+      "sources": [
+        "K04"
+      ]
+    },
+    {
+      "date": "11月29日／年份未列",
+      "event": "24/7 YOU；不把零售商的2024归档当官方年份",
+      "type": "self_report",
+      "sources": [
+        "K05"
+      ]
+    },
+    {
+      "date": "2025-05-23",
+      "event": "LOVE WINS · 单体手办",
+      "type": "self_report",
+      "sources": [
+        "K07"
+      ]
+    },
+    {
+      "date": "2025-08-07 19:00 PST",
+      "event": "City of Sunset · 保留美国站原时区标记",
+      "type": "self_report",
+      "sources": [
+        "K06"
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "event": "媒体刊载BAO创作访谈；这是报道日期",
+      "type": "self_report",
+      "sources": [
+        "K08"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "外表冷静，内心温暖；忠于自己的真实。",
+    "sentence_type": "反差",
+    "basis": "official_paraphrase",
+    "sources": [
+      "K01"
+    ]
+  },
+  "core": {
+    "personality": "自主、果断、外冷内暖",
+    "emotion": "反差",
+    "action": "通过兴趣、衣装和日常情境表达真实自我",
+    "basis": "官方设定与研究观察分列于正文"
+  },
+  "insight": {
+    "scene": "桌面陈列、主题收藏与晒图",
+    "behavior": "按主题挑款、寻找旧系列和单体",
+    "state": "希望既有态度又可亲近",
+    "conflict": "外表不热情，仍有温柔与在意",
+    "unsaid": "不必一直微笑，仍可以是温暖的人",
+    "basis": "研究假设，未经过用户访谈验证"
+  },
+  "circle": {
+    "who": "潮玩收藏者与主题款爱好者；年龄性别分布未知",
+    "where": "官方渠道、小红书单篇、Reddit收藏社区",
+    "buy": "盲盒与明确款式单体；无复购率",
+    "signs": "寸头、低位半眯眼、主题衣装与脸部标记",
+    "share": "收藏目录、晒单与具体小细节",
+    "breakout": "主题和周边可能增加入口，跨圈层转化未证实"
+  },
+  "pendulum": {
+    "position": "其他",
+    "note": "街头冷酷外壳与温暖内核",
+    "against": "研究判断：区别于持续微笑的甜美表达；没有足够证据证明诞生时该方向稀缺"
+  },
+  "form": {
+    "archetype": "类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "头型",
+      "五官"
+    ],
+    "mark": "短寸头轮廓与低位半眯眼的组合",
+    "face": "宽额、短眉、低位眼、极小嘴；瞳孔位置和装饰随款变化",
+    "emotion": "内收",
+    "odd": "有态度的少年面孔放在短壮小体量上",
+    "density": "中等",
+    "naming": "其他",
+    "note": "名称词源未核实",
+    "group": "单角色"
+  },
+  "collide_combo": "寸头宽额＋低位半眯眼＋小嘴＋短壮比例＋具体鼻梁和颊纹的完整组合不可直接搬作新IP。",
+  "color": {
+    "mode": "多色系列",
+    "main": "随主题变化",
+    "signature": "暂无证据确立全IP唯一签名色",
+    "notes": "V04金发反证黑发绝对固定；本轮色板只对应Toughness视觉估计"
+  },
+  "materials": "代表SKU列ABS/PVC；City of Sunset还列电子组件；LOVE WINS列PVC。不能据此概括所有款。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "授权图案"
+  },
+  "product": {
+    "first_category": null,
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "美国官方相关商品列表：所选5个盲盒SKU USD15.99–19.99，LOVE WINS单体USD29.99；2026-10-19观察，非中国售价或历史首发价",
+    "sources": [
+      "K02",
+      "K03",
+      "K04",
+      "K05",
+      "K06",
+      "K07"
+    ]
+  },
+  "numbers": [],
+  "mechanisms": [
+    {
+      "claim": "把识别集中在头型与低位五官",
+      "type": "inference",
+      "evidence": "V01–V04跨衣装仍有大头短身与类似眼位",
+      "boundary": "4张样本不是完整系列；尚无盲测识别率",
+      "sources": [
+        "K02",
+        "K05"
+      ]
+    },
+    {
+      "claim": "克制表情与温暖行动形成反差",
+      "type": "inference",
+      "evidence": "官方外冷内暖设定；救生圈、日常陪伴等情境承接动作",
+      "boundary": "故事联想不等于已经证明的购买动机或疗愈效果",
+      "sources": [
+        "K01",
+        "K02",
+        "K05"
+      ]
+    },
+    {
+      "claim": "主题多样有利于收藏，也增加检索与获取成本",
+      "type": "inference",
+      "evidence": "多系列、多载体；收藏者讨论目录、地区可得性与稀有款价格",
+      "boundary": "个体讨论不能代表普遍缺货、停产或二手溢价率",
+      "sources": [
+        "K03",
+        "K13"
+      ]
+    }
+  ],
+  "counterexamples": "个体瑕疵投诉与获取成本讨论存在；没有代表性质量率、退货率或成交数据，不能宣称失败或爆款。",
+  "theory": {
+    "shell": "寸头宽额、低位眼、小嘴与大头短身",
+    "core": "官方支持外冷内暖、真实自我",
+    "shadow": "寸头、街头服装、伤疤图案都是公共元素；识别来自组合关系",
+    "two_layers": {
+      "surface": "冷静脸与小比例产生可接近的态度感（推断）",
+      "deep": "主题、道具与关系情境提供收藏叙事（推断）"
+    },
+    "validation": "持续上新不等于商业成功；无独立营收、销量或用户结构统计。"
+  },
+  "for_skills": {
+    "lab": "可借外在克制与内在温暖的反差机制；先验证具体场景和行为，不把纹身直接当性格。",
+    "form": "可借识别集中、衣装分层；不得搬用寸头＋低位眼＋鼻梁及颊纹的完整组合。",
+    "studio": "可借每款明确的主题色与道具叙事；先验证二维识别，本轮不进入3D、原创转译或产品化生成。"
+  },
+  "gaps": [
+    "纯文字平面复现未通过；下游3D与原创转译阻断",
+    "参考辅助V2仍有肤色、渐变与细部残差，待用户审阅",
+    "英文／黑白提示词未实测，不进入正式区",
+    "精确生日、2022起源一手证据、版权合同与名称词源未知",
+    "首个商品与最畅销品类未知；无独立营收销量",
+    "缺完整系列目录、官方空白母版及标准三视图",
+    "小红书指定笔记可读，但两组搜索均被登录墙阻挡",
+    "无浏览器视觉验收；已做文件结构和交互逻辑检查"
+  ],
+  "sources": [
+    {
+      "id": "research-web",
+      "title": "KUBO完整调研网页与五轮平面实测",
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/kubo/2026-10-19/",
+      "publisher": "本研究归档",
+      "published": "2026-10-19",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "K01",
+      "title": "BAO — POP TOY SHOW Singapore",
+      "url": "https://poptoyshow.com.sg/artist/bao/",
+      "publisher": "POP TOY SHOW",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "partial"
+    },
+    {
+      "id": "K02",
+      "title": "KUBO Walks of Life Series Figures",
+      "url": "https://www.popmart.com/us/products/456/kubo-walks-of-life-series-figures",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "K03",
+      "title": "KUBO Select Your Character Series Figures",
+      "url": "https://www.popmart.com/us/products/907",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "K04",
+      "title": "KUBO Breathing In Series Figures",
+      "url": "https://www.popmart.com/ca/products/1384",
+      "publisher": "POP MART Canada",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "K05",
+      "title": "KUBO 24/7 YOU Series Figures",
+      "url": "https://www.popmart.com/us/products/1695",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "K06",
+      "title": "KUBO City of Sunset Series Figures",
+      "url": "https://www.popmart.com/us/products/3155/kubo-city-of-sunset-series-figures",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "K07",
+      "title": "KUBO LOVE WINS FIGURE",
+      "url": "https://www.popmart.com/us/products/2289/kubo-love-wins-figure",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "K08",
+      "title": "Why KUBO by BAO Could Be POP MART’s Next Global Designer Toy Obsession",
+      "url": "https://www.superadrianme.com/toys/kubo-bao-pop-mart-next-big-designer-toy/",
+      "publisher": "SUPERADRIANME",
+      "published": "2026-05-11",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "K09",
+      "title": "Kubo Series List & Full Chronology",
+      "url": "https://toysez.com/collections/kubo-series-list-full-chronology",
+      "publisher": "TOYSEZ",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "partial"
+    },
+    {
+      "id": "K10",
+      "title": "Annual results announcement for year ended31 December2025",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0325/2026032500285.pdf",
+      "publisher": "POP MART / HKEX",
+      "published": "2026-03-25",
+      "observed": "2026-10-19",
+      "access": "partial"
+    },
+    {
+      "id": "K11",
+      "title": "Interim results announcement for six months ended30 June2026",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000353.pdf",
+      "publisher": "POP MART / HKEX",
+      "published": "2026-08-20",
+      "observed": "2026-10-19",
+      "access": "partial"
+    },
+    {
+      "id": "K12",
+      "title": "KUBO每时每刻系列瑕疵与退货诉求个案",
+      "url": "https://tousu.sina.com.cn/complaint/view/17381901404?sld=bf8ee1ba2817623ef9d3ac41ff7a59e3",
+      "publisher": "黑猫投诉用户；商家回复",
+      "published": "2025-04-14",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "K13",
+      "title": "Questions for KUBO enthusiasts",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1lffi8i/questions_for_kubo_enthusiasts/",
+      "publisher": "Reddit r/PopMartCollectors users",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "partial"
+    },
+    {
+      "id": "K14",
+      "title": "每天认识一个IP｜KUBO",
+      "url": "https://xhslink.cn/o/1CnLcL5HjP8",
+      "publisher": "小红书 · 一点好玩",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "partial"
+    }
+  ],
+  "archive": "research/kubo/2026-10-19/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/kubo/2026-10-19/",
+  "prompt_validation": {
+    "target_image_id": "V01",
+    "pure_text_gate_passed": false,
+    "reference_assisted_ready": [
+      "reference-v2"
+    ],
+    "downstream": "blocked",
+    "user_approved": false,
+    "note": "仅参考图链辅助的二维近似候选；ready为研究质量标记，不代表用户审美确认、纯文字或3D通过。"
+  },
+  "publication": {
+    "date": "2026-10-19",
+    "destination": "选品板研究库 / GitHub Pages",
+    "user_authorized": true,
+    "note": "用户确认归档；纯文字未通过状态保留。生成图压缩为768px webp，完整图保留原审阅网页。"
+  }
+}

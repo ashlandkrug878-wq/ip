@@ -1,0 +1,366 @@
+{
+  "ip": "KUBO",
+  "level": "standard",
+  "status": "partial",
+  "researched_at": "2026-10-19",
+  "numbers": [],
+  "hit_category": null,
+  "sources": [
+    {
+      "id": "K01",
+      "title": "BAO — POP TOY SHOW Singapore",
+      "url": "https://poptoyshow.com.sg/artist/bao/",
+      "publisher": "POP TOY SHOW",
+      "published_at": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "official_artist_profile",
+      "access_status": "relevant_full_text_read",
+      "supports": [
+        "BAO is KUBO artist, illustrator and toy designer",
+        "Buzz-cut boy, reserved exterior and warm/playful interior",
+        "Own Your Truth; passion and authenticity"
+      ],
+      "limitations": [
+        "No exact creation date or copyright contract",
+        "Official identity page takes precedence over media misattribution to Kenny Wong or Lang"
+      ]
+    },
+    {
+      "id": "K02",
+      "title": "KUBO Walks of Life Series Figures",
+      "url": "https://www.popmart.com/us/products/456/kubo-walks-of-life-series-figures",
+      "publisher": "POP MART US",
+      "published_at": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "official_product",
+      "access_status": "product_text_and_recommendation_prices_read",
+      "supports": [
+        "Release date August 19, 2023",
+        "ABS/PVC; 3.9 inches; 12 nonrepeating boxes per set",
+        "Official Toughness, Muse and other variant image links",
+        "Related products show Select Your Character USD15.99, Breathing In USD19.99, 24/7 YOU USD19.99, LOVE WINS USD29.99, City of Sunset USD19.99"
+      ],
+      "limitations": [
+        "Regional product release date not character birthday or global debut",
+        "Prices are current US recommendation-list labels; tax/shipping not verified",
+        "No unit sales or guaranteed availability"
+      ]
+    },
+    {
+      "id": "K03",
+      "title": "KUBO Select Your Character Series Figures",
+      "url": "https://www.popmart.com/us/products/907",
+      "publisher": "POP MART US",
+      "published_at": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "official_product",
+      "access_status": "product_text_and_recommendation_prices_read",
+      "supports": [
+        "Release January 12, 2024",
+        "ABS/PVC; 1.97–3.54 inches; 12 nonrepeating boxes per set",
+        "US related list: Walks of Life USD15.99; Breathing In USD19.99; 24/7 YOU USD19.99; LOVE WINS USD29.99; City of Sunset USD19.99"
+      ],
+      "limitations": [
+        "Designer: POP MART product metadata does not override BAO artist attribution",
+        "Listed prices do not prove sales, tax-inclusive totals or launch prices"
+      ]
+    },
+    {
+      "id": "K04",
+      "title": "KUBO Breathing In Series Figures",
+      "url": "https://www.popmart.com/ca/products/1384",
+      "publisher": "POP MART Canada",
+      "published_at": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "official_product",
+      "access_status": "product_text_read",
+      "supports": [
+        "Release July 19, 2024",
+        "ABS/PVC; 6.5–9.3cm; 12 nonrepeating boxes per set",
+        "Named variant images"
+      ],
+      "limitations": [
+        "This page is Canada despite title mentioning US",
+        "USD19.99 price is from US official related list K03, not converted Canadian price"
+      ]
+    },
+    {
+      "id": "K05",
+      "title": "KUBO 24/7 YOU Series Figures",
+      "url": "https://www.popmart.com/us/products/1695",
+      "publisher": "POP MART US",
+      "published_at": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "official_product",
+      "access_status": "product_text_read",
+      "supports": [
+        "Release date displayed November 29 without year",
+        "PVC/ABS; 7–8.8cm; 12 nonrepeating boxes per set",
+        "Loyal KUBO official image"
+      ],
+      "limitations": [
+        "Year not supplied in page text; retailer chronology says 2024 but is not primary",
+        "USD19.99 from US official related list K03"
+      ]
+    },
+    {
+      "id": "K06",
+      "title": "KUBO City of Sunset Series Figures",
+      "url": "https://www.popmart.com/us/products/3155/kubo-city-of-sunset-series-figures",
+      "publisher": "POP MART US",
+      "published_at": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "official_product",
+      "access_status": "product_text_read",
+      "supports": [
+        "US online release August 7, 2025 at 7 PM PST as labeled on page",
+        "7–8.8cm; PVC/ABS/Electronic Component"
+      ],
+      "limitations": [
+        "Not necessarily global release",
+        "Do not infer all variants have identical electronic features",
+        "USD19.99 from official related list K03"
+      ]
+    },
+    {
+      "id": "K07",
+      "title": "KUBO LOVE WINS FIGURE",
+      "url": "https://www.popmart.com/us/products/2289/kubo-love-wins-figure",
+      "publisher": "POP MART US",
+      "published_at": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "official_product",
+      "access_status": "product_text_read",
+      "supports": [
+        "Release May 23, 2025",
+        "8cm; PVC; standalone figure"
+      ],
+      "limitations": [
+        "Not a verified 200% figure or blind box",
+        "USD29.99 from official related list K03"
+      ]
+    },
+    {
+      "id": "K08",
+      "title": "Why KUBO by BAO Could Be POP MART’s Next Global Designer Toy Obsession",
+      "url": "https://www.superadrianme.com/toys/kubo-bao-pop-mart-next-big-designer-toy/",
+      "publisher": "SUPERADRIANME",
+      "published_at": "2026-05-11",
+      "accessed_at": "2026-10-19",
+      "source_type": "media_report_with_artist_statements",
+      "access_status": "full_article_read",
+      "supports": [
+        "Attributes KUBO to Chinese illustrator BAO",
+        "Reports transition from painting to tangible designer toys",
+        "Reports intention to move from external exploration toward internal observation"
+      ],
+      "limitations": [
+        "Article includes commercial links and forward-looking popularity claims",
+        "Do not treat forecast as sales evidence or interview as original unedited transcript"
+      ]
+    },
+    {
+      "id": "K09",
+      "title": "Kubo Series List & Full Chronology",
+      "url": "https://toysez.com/collections/kubo-series-list-full-chronology",
+      "publisher": "TOYSEZ",
+      "published_at": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "retailer_editorial",
+      "access_status": "relevant_full_text_read",
+      "supports": [
+        "Claims MEØW Studio established 2021, KUBO introduced 2022, POP MART cooperation August2023",
+        "Lists 24/7 YOU under2024"
+      ],
+      "limitations": [
+        "Origin years unverified by primary archive",
+        "Internal list labels Walks of Life2024 despite prose2023 and official2023 release; do not treat chronology as authoritative",
+        "Commercial predictions and fastest-growing claims not adopted"
+      ]
+    },
+    {
+      "id": "K10",
+      "title": "Annual results announcement for year ended31 December2025",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0325/2026032500285.pdf",
+      "publisher": "POP MART / HKEX",
+      "published_at": "2026-03-25",
+      "accessed_at": "2026-10-19",
+      "source_type": "official_audited_results_announcement",
+      "access_status": "PDF_relevant_IP_table_and_text_search_read",
+      "supports": [
+        "Revenue-by-IP table printedp33/PDFpage33 does not separately list KUBO",
+        "No KUBO text match in retrieved PDF"
+      ],
+      "limitations": [
+        "Other artist IPs is aggregate, not KUBO revenue",
+        "No inference of zero revenue or failure",
+        "Relevant pages inspected, not full48-page report read"
+      ]
+    },
+    {
+      "id": "K11",
+      "title": "Interim results announcement for six months ended30 June2026",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000353.pdf",
+      "publisher": "POP MART / HKEX",
+      "published_at": "2026-08-20",
+      "accessed_at": "2026-10-19",
+      "source_type": "official_unaudited_interim_results",
+      "access_status": "PDF_relevant_IP_table_read_and_local_text_search",
+      "supports": [
+        "Printedp30/PDFpage30 revenue-by-IP table does not separately list KUBO",
+        "Full PDF text search has zero KUBO matches"
+      ],
+      "limitations": [
+        "Unaudited",
+        "Cannot assign Other artist IPs revenue to KUBO",
+        "Relevant pages only read, not full44-page report"
+      ]
+    },
+    {
+      "id": "K12",
+      "title": "KUBO每时每刻系列瑕疵与退货诉求个案",
+      "url": "https://tousu.sina.com.cn/complaint/view/17381901404?sld=bf8ee1ba2817623ef9d3ac41ff7a59e3",
+      "publisher": "黑猫投诉用户；商家回复",
+      "published_at": "2025-04-14",
+      "accessed_at": "2026-10-19",
+      "source_type": "individual_complaint_with_merchant_response",
+      "access_status": "complaint_and_status_text_read",
+      "supports": [
+        "Consumer alleges defects and unsatisfactory replacements in24/7 YOU purchase",
+        "Merchant publicly promises follow-up contact",
+        "Completed status results from automatic30-day closure"
+      ],
+      "limitations": [
+        "Consumer allegations not adjudicated facts",
+        "No verified refund outcome or defect rate",
+        "Do not reproduce full complaint or images; use short paraphrase and link"
+      ]
+    },
+    {
+      "id": "K13",
+      "title": "Questions for KUBO enthusiasts",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1lffi8i/questions_for_kubo_enthusiasts/",
+      "publisher": "Reddit r/PopMartCollectors users",
+      "published_at": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "individual_collector_discussion",
+      "access_status": "post_and_relevant_comments_read",
+      "supports": [
+        "Collectors discuss regional availability, older-series discovery and expensive rare pieces",
+        "Some like standalone figures and community interaction"
+      ],
+      "limitations": [
+        "Exact post date not extracted, displayed relative timestamps",
+        "Users asking about discontinued production do not prove official discontinuation",
+        "Reseller authenticity and community rules not independently verified",
+        "Small self-selected sample, no demographic or prevalence inference"
+      ]
+    },
+    {
+      "id": "K14",
+      "title": "每天认识一个IP｜KUBO",
+      "url": "https://xhslink.cn/o/1CnLcL5HjP8",
+      "publisher": "小红书 · 一点好玩",
+      "published_at": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "individual_social_note",
+      "access_status": "body_three_visible_comments_and_cover_read",
+      "supports": [
+        "博主讲述外冷内暖；一条评论喜欢小伤疤，一条询问出售价",
+        "封面与官方Lifeline图交叉核验"
+      ],
+      "limitations": [
+        "界面仅显示编辑于01-21，没有年份",
+        "5张配图只检视了封面",
+        "个人解读不等同官方设定，询价不是成交，互动量不代表市场规模"
+      ]
+    }
+  ],
+  "visual_references": [
+    {
+      "id": "V01",
+      "variant": "Toughness · 本轮复现目标",
+      "source_id": "K02",
+      "url": "https://prod-global-static.oss-us-east-1.aliyuncs.com/globalAdmin/1717037305294____toughness____.jpg",
+      "viewed": true,
+      "dimensions": [
+        400,
+        400
+      ]
+    },
+    {
+      "id": "V02",
+      "variant": "Lifeline · 用户笔记封面对应款",
+      "source_id": "K02",
+      "url": "https://prod-global-static.oss-us-east-1.aliyuncs.com/globalAdmin/1717037220142____lifeline____.jpg",
+      "viewed": true,
+      "dimensions": [
+        400,
+        400
+      ]
+    },
+    {
+      "id": "V03",
+      "variant": "Cowboy · 道具承担情境",
+      "source_id": "K02",
+      "url": "https://prod-america-res.popmart.com/default/05_84qjBNrY9k_1200x1200.jpg",
+      "viewed": true,
+      "dimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "id": "V04",
+      "variant": "Loyal KUBO · 检查所谓不变量",
+      "source_id": "K05",
+      "url": "https://global-static.popmart.com/globalAdmin/1732506761448____loyal-kubo____.png",
+      "viewed": true,
+      "dimensions": [
+        400,
+        400
+      ]
+    }
+  ],
+  "unknowns": [
+    "Exact creation date and birthday",
+    "Primary confirmation of2022 introduction",
+    "Artist legal/full Chinese name and MEOW/POP MART copyright/license contract",
+    "Standalone annual revenue, units, margin and category mix",
+    "Current China official SKU prices",
+    "Representative consumer defect/return rates"
+  ],
+  "xhs": {
+    "date": "2026-10-19",
+    "provided_note": {
+      "url": "https://xhslink.cn/o/1CnLcL5HjP8",
+      "note_id": "696f495e0000000022039278",
+      "title": "每天认识一个IP｜KUBO",
+      "author": "一点好玩",
+      "access": "正文与3条可见评论可读；封面已看，未完整检视其余4张配图",
+      "display_date": "编辑于01-21，界面未显示年份",
+      "summary": "博主描述外冷内暖、保护珍视的人与事；独自疗伤细节尚未在官方资料核实。",
+      "visible_comments_summary": [
+        "有人询问出售价，但不是成交",
+        "有人喜欢小伤疤；属于单条个人偏好",
+        "另有邮件收取提醒，与IP评价无直接关系"
+      ],
+      "visual_identity": "封面与官方Lifeline图交叉核验：黑寸头、半眯眼、裸上身红短裤、手持橙白救生圈。",
+      "metrics_used_for_market_size": false
+    },
+    "queries": [
+      {
+        "q": "KUBO 品牌介绍",
+        "status": "blocked_login",
+        "message": "登录后查看搜索结果",
+        "notes_read": 0
+      },
+      {
+        "q": "KUBO 产品汇总",
+        "status": "blocked_login",
+        "message": "登录后查看搜索结果",
+        "notes_read": 0
+      }
+    ]
+  }
+}

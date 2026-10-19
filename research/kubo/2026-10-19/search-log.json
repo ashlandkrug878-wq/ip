@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-19",
+  "provided_note": {
+    "url": "https://xhslink.cn/o/1CnLcL5HjP8",
+    "note_id": "696f495e0000000022039278",
+    "title": "每天认识一个IP｜KUBO",
+    "author": "一点好玩",
+    "access": "正文与3条可见评论可读；封面已看，未完整检视其余4张配图",
+    "display_date": "编辑于01-21，界面未显示年份",
+    "summary": "博主描述外冷内暖、保护珍视的人与事；独自疗伤细节尚未在官方资料核实。",
+    "visible_comments_summary": [
+      "有人询问出售价，但不是成交",
+      "有人喜欢小伤疤；属于单条个人偏好",
+      "另有邮件收取提醒，与IP评价无直接关系"
+    ],
+    "visual_identity": "封面与官方Lifeline图交叉核验：黑寸头、半眯眼、裸上身红短裤、手持橙白救生圈。",
+    "metrics_used_for_market_size": false
+  },
+  "queries": [
+    {
+      "q": "KUBO 品牌介绍",
+      "status": "blocked_login",
+      "message": "登录后查看搜索结果",
+      "notes_read": 0
+    },
+    {
+      "q": "KUBO 产品汇总",
+      "status": "blocked_login",
+      "message": "登录后查看搜索结果",
+      "notes_read": 0
+    }
+  ]
+}

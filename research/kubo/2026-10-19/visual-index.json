@@ -1,0 +1,102 @@
+[
+  {
+    "id": "V01",
+    "title": "Toughness · 本轮复现目标",
+    "file": "toughness.jpg",
+    "source": "K02",
+    "observed_features": "黑寸头包住宽额头；低位半眯眼、短斜眉、小倒V嘴；小白鼻梁弧、画面右侧白线颊纹、左侧黑耳钉。灰背心、深灰领巾，橙工装上半部系腰，双袖垂在两侧，灰手套与靴。",
+    "interpretation": "身份集中于头型和五官位置，服装承担职业气质。目标仅限此款正面，不是官方空白母版。",
+    "boundary": "原图400×400，小图限制图案和轮廓精度；背面不可见，不补造。",
+    "subject_id": "kubo",
+    "original_image_url": "https://prod-global-static.oss-us-east-1.aliyuncs.com/globalAdmin/1717037305294____toughness____.jpg",
+    "source_page_url": "https://www.popmart.com/us/products/456/kubo-walks-of-life-series-figures",
+    "dimensions": [
+      400,
+      400
+    ],
+    "observed_at": "2026-10-19",
+    "page_published_at": null,
+    "product_released_at": "2023-08-19",
+    "image_created_at": null,
+    "viewed": true,
+    "storage_status": "external_reference_only",
+    "local_research_sha256": "e9846d5691a24821b9792ec677bf03b3c354ac467d2bfc15d768a75a1bc50754",
+    "rights": "外链原始官方图供研究对照，未复制进交付站点；未确认商业再利用许可。",
+    "material_and_structure": "按对应SKU官方材料表理解；照片不能证明模具数量、涂装工艺或实物触感。"
+  },
+  {
+    "id": "V02",
+    "title": "Lifeline · 用户笔记封面对应款",
+    "file": "lifeline.jpg",
+    "source": "K02",
+    "observed_features": "黑寸头与相似低位眼；眉形更圆。裸上身、红短裤、橙白救生圈，身体有字符／图案和白色贴片。",
+    "interpretation": "救生道具可承接保护、援助的联想；这是视觉推断，不足以证明整套官方故事。",
+    "boundary": "小红书封面已与此图交叉核验；仅看了笔记首图，不能宣称看完全部5张。",
+    "subject_id": "kubo",
+    "original_image_url": "https://prod-global-static.oss-us-east-1.aliyuncs.com/globalAdmin/1717037220142____lifeline____.jpg",
+    "source_page_url": "https://www.popmart.com/us/products/456/kubo-walks-of-life-series-figures",
+    "dimensions": [
+      400,
+      400
+    ],
+    "observed_at": "2026-10-19",
+    "page_published_at": null,
+    "product_released_at": "2023-08-19",
+    "image_created_at": null,
+    "viewed": true,
+    "storage_status": "external_reference_only",
+    "local_research_sha256": "b43550be12d4532b32531b7cfcfc6eb700057fb0bd0117e07c28ce4651e2c4ad",
+    "rights": "外链原始官方图供研究对照，未复制进交付站点；未确认商业再利用许可。",
+    "material_and_structure": "按对应SKU官方材料表理解；照片不能证明模具数量、涂装工艺或实物触感。"
+  },
+  {
+    "id": "V03",
+    "title": "Cowboy · 道具承担情境",
+    "file": "walks-product.jpg",
+    "source": "K02",
+    "observed_features": "棕色牛仔帽、红领巾、浅色上衣、深短裤、棕靴与手套，抱着吉他；额头有缝线图形，仍见低位眼和白色鼻梁弧。",
+    "interpretation": "衣帽和吉他建立可读情境，脸部仍提供身份锚点。",
+    "boundary": "帽子遮挡发顶，不适合反推完整基础头型；官方产品图未标图像创作日期。",
+    "subject_id": "kubo",
+    "original_image_url": "https://prod-america-res.popmart.com/default/05_84qjBNrY9k_1200x1200.jpg",
+    "source_page_url": "https://www.popmart.com/us/products/456/kubo-walks-of-life-series-figures",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "observed_at": "2026-10-19",
+    "page_published_at": null,
+    "product_released_at": "2023-08-19",
+    "image_created_at": null,
+    "viewed": true,
+    "storage_status": "external_reference_only",
+    "local_research_sha256": "0a4d657d3a4c900c3604e3c454d0103a94814d101b777f2c3ecb4107adb610df",
+    "rights": "外链原始官方图供研究对照，未复制进交付站点；未确认商业再利用许可。",
+    "material_and_structure": "按对应SKU官方材料表理解；照片不能证明模具数量、涂装工艺或实物触感。"
+  },
+  {
+    "id": "V04",
+    "title": "Loyal KUBO · 检查所谓不变量",
+    "file": "loyal.png",
+    "source": "K05",
+    "observed_features": "金色短发、犬耳与尾巴、白色骨形眉上图案、脸颊旋纹，白衣与蓝包；手在胸前呈爪状。",
+    "interpretation": "黑发、鼻梁白弧和某套脸纹均不能升级为全IP不变量；犬装饰也不代表基础原型变成动物。",
+    "boundary": "三分之四角度、装扮较多，只用于跨款对照，不作为本轮母版。",
+    "subject_id": "kubo",
+    "original_image_url": "https://global-static.popmart.com/globalAdmin/1732506761448____loyal-kubo____.png",
+    "source_page_url": "https://www.popmart.com/us/products/1695",
+    "dimensions": [
+      400,
+      400
+    ],
+    "observed_at": "2026-10-19",
+    "page_published_at": null,
+    "product_released_at": null,
+    "image_created_at": null,
+    "viewed": true,
+    "storage_status": "external_reference_only",
+    "local_research_sha256": "b383e8ace747b1c3cf9b43c849ce670aae65c2630b884fc5d3c17f24434819bb",
+    "rights": "外链原始官方图供研究对照，未复制进交付站点；未确认商业再利用许可。",
+    "material_and_structure": "按对应SKU官方材料表理解；照片不能证明模具数量、涂装工艺或实物触感。"
+  }
+]

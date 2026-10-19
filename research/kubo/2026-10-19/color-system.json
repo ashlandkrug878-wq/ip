@@ -1,0 +1,131 @@
+{
+  "palettes": [
+    {
+      "color_id": "C1",
+      "name": "炭黑",
+      "hex_preview": "#303235",
+      "surface_or_region": "寸头／眼／耳钉",
+      "role": "主色与识别区",
+      "scope": "Toughness_SKU_only",
+      "value_basis": "视觉估计",
+      "sample_method": "目视估计，非像素采样",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "K02"
+      ],
+      "area_basis": "仅目视层级，未分割计量",
+      "area_percentage": null,
+      "variation_boundary": "黑发、白鼻梁及橙色工装均非全IP固定值",
+      "uncertainty": "光照与屏幕影响；无官方色号"
+    },
+    {
+      "color_id": "C2",
+      "name": "暖棕",
+      "hex_preview": "#CE9A70",
+      "surface_or_region": "面部与手臂",
+      "role": "大面积肤色",
+      "scope": "Toughness_SKU_only",
+      "value_basis": "视觉估计",
+      "sample_method": "目视估计，非像素采样",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "K02"
+      ],
+      "area_basis": "仅目视层级，未分割计量",
+      "area_percentage": null,
+      "variation_boundary": "黑发、白鼻梁及橙色工装均非全IP固定值",
+      "uncertainty": "光照与屏幕影响；无官方色号"
+    },
+    {
+      "color_id": "C3",
+      "name": "冷灰",
+      "hex_preview": "#ABB0B4",
+      "surface_or_region": "背心",
+      "role": "辅助色",
+      "scope": "Toughness_SKU_only",
+      "value_basis": "视觉估计",
+      "sample_method": "目视估计，非像素采样",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "K02"
+      ],
+      "area_basis": "仅目视层级，未分割计量",
+      "area_percentage": null,
+      "variation_boundary": "黑发、白鼻梁及橙色工装均非全IP固定值",
+      "uncertainty": "光照与屏幕影响；无官方色号"
+    },
+    {
+      "color_id": "C4",
+      "name": "深灰",
+      "hex_preview": "#5D5E5B",
+      "surface_or_region": "领巾／手套／靴",
+      "role": "辅助色",
+      "scope": "Toughness_SKU_only",
+      "value_basis": "视觉估计",
+      "sample_method": "目视估计，非像素采样",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "K02"
+      ],
+      "area_basis": "仅目视层级，未分割计量",
+      "area_percentage": null,
+      "variation_boundary": "黑发、白鼻梁及橙色工装均非全IP固定值",
+      "uncertainty": "光照与屏幕影响；无官方色号"
+    },
+    {
+      "color_id": "C5",
+      "name": "工装橙",
+      "hex_preview": "#EB873C",
+      "surface_or_region": "系腰衣／裤",
+      "role": "大面积主题色",
+      "scope": "Toughness_SKU_only",
+      "value_basis": "视觉估计",
+      "sample_method": "目视估计，非像素采样",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "K02"
+      ],
+      "area_basis": "仅目视层级，未分割计量",
+      "area_percentage": null,
+      "variation_boundary": "黑发、白鼻梁及橙色工装均非全IP固定值",
+      "uncertainty": "光照与屏幕影响；无官方色号"
+    },
+    {
+      "color_id": "C6",
+      "name": "暖白",
+      "hex_preview": "#F6F4EB",
+      "surface_or_region": "鼻梁与图形",
+      "role": "小面积标记",
+      "scope": "Toughness_SKU_only",
+      "value_basis": "视觉估计",
+      "sample_method": "目视估计，非像素采样",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "K02"
+      ],
+      "area_basis": "仅目视层级，未分割计量",
+      "area_percentage": null,
+      "variation_boundary": "黑发、白鼻梁及橙色工装均非全IP固定值",
+      "uncertainty": "光照与屏幕影响；无官方色号"
+    }
+  ],
+  "official_standard": null,
+  "materials": "Toughness所在SKU官方写ABS/PVC；不据照片推定涂装工艺",
+  "checks": {
+    "grayscale": "未实测",
+    "recognition": "未做用户识别实验",
+    "physical_sample": "未打样"
+  }
+}
