@@ -1,0 +1,645 @@
+{
+  "title": "第 3 期 · 可靠，也保留玩心",
+  "date": "2026-10-19",
+  "version": "chaowan-ip-lab v2.0",
+  "timing": "研究截至2026-10-19。本期外部观察是：成年人保留玩乐、用小空间与慢爱好守住自我、重新投入线下体验。由此提出“有承担的玩心／对注意力和日常关系的主动选择”两组创作假设；不宣称全市场已从软萌治愈转向某一种风格。色彩重新核对到2028春夏，2027为近中期，2028为远期观察。A表示机构或发布方一手来源，B为媒体报道，C为明显品牌语境或证据较弱的补充；这些等级不是预测必然实现的概率。",
+  "learned": "用户指定一张为“少年感的爹”，暂理解为父亲般能承担、又保留少年玩心的角色，写成“大玩伴”。原点池的“工位变成情绪空间”与“注意力保护舱”分别进入留留、入迷。历史“挂挂”待优化已产生v2且已有6个找形方向，本期只增写表达分支，不覆盖既有表达、形或选择；改的是“替你上班、你去生活”的被动替身逻辑。对静静的批注明确保留注意力原点、否定具象化，因此本期改为爱好投入场景，不复用静静的关机／夜灯方案。测试批注不视为审美反馈；未标记方案不视为偏好。四张向已知原点及相邻生活场景倾斜，其中两张直接延续、两张邻近探索；另有一张用户指定和一张开放探索。",
+  "tradeoff": "大玩伴检验可靠与玩心的关系张力，留留检验工位里的自我边界，入迷检验注意力投入；三者分别偏关系内容、桌面实物、爱好场景。绕绕与常来走向线下，一个面对自己的经历，一个面对逐步熟悉的关系；大惊小喜以外放的幽默庆祝拉开情绪强度。六张是不同假设，不排名；人群年龄、定价、心理台词和传播动作均为创作／测试建议，并非已验证市场事实。",
+  "user_brief": {
+    "verbatim": "自动抓取，其中一个为少年感的爹",
+    "required_card": "2026w43-1",
+    "interpretation": "父亲般的可靠与承担，少年般的好奇、玩心和轻盈；成人角色身份，不预设外形。"
+  },
+  "evidence_notes": "只使用公开可访问页面及搜索索引，本期没有读取小红书登录后的帖子，不声称进行了平台全量抓取。旧原点池的腾讯链接不作为本期唯一依据，已用新核验来源补充。场景注明事实或拟设；状态、矛盾、没说出口的话均是创作推测。已读仓库THE MONSTERS、星星人对标卡，仅使用其表达分析，不沿用未经本轮核对的营收或热度断言。",
+  "palettes": [
+    {
+      "name": "可靠大人，放学心情",
+      "tone": "温暖、踏实，局部有跳跃。近似面积：主55%／辅25%／中性15%／点缀5%。整套为本期自拟搭配，非机构官方色板。",
+      "fit": "大玩伴；承担与玩心并存的表达",
+      "roles": [
+        {
+          "role": "主色",
+          "name": "Clay 陶土色",
+          "hex": "#B8816C",
+          "proportion": 55
+        },
+        {
+          "role": "辅助色",
+          "name": "Meadowland Green 草甸绿",
+          "hex": "#98A55A",
+          "proportion": 25
+        },
+        {
+          "role": "中性色",
+          "name": "自拟米白",
+          "hex": "#F2EBDD",
+          "proportion": 15
+        },
+        {
+          "role": "点缀色",
+          "name": "Luminous Blue 明亮蓝",
+          "hex": "#2448C8",
+          "proportion": 5
+        }
+      ],
+      "links": [
+        {
+          "t": "Coloro官方：2027—2028 Key Colors",
+          "url": "https://coloro.com/key-colors"
+        }
+      ]
+    },
+    {
+      "name": "留给自己的下午",
+      "tone": "低刺激、轻快，暖点缀保留生命感。主55%／辅25%／中性15%／点缀5%；近似值与组合为自拟。",
+      "fit": "留留、入迷；个人空间与持续投入",
+      "roles": [
+        {
+          "role": "主色",
+          "name": "Peaceful Lilac 平和淡紫",
+          "hex": "#C9BDDA",
+          "proportion": 55
+        },
+        {
+          "role": "辅助色",
+          "name": "Meadowland Green 草甸绿",
+          "hex": "#98A55A",
+          "proportion": 25
+        },
+        {
+          "role": "中性色",
+          "name": "自拟暖白",
+          "hex": "#F4F0E6",
+          "proportion": 15
+        },
+        {
+          "role": "点缀色",
+          "name": "Maize 玉米黄",
+          "hex": "#DDB64E",
+          "proportion": 5
+        }
+      ],
+      "links": [
+        {
+          "t": "Coloro官方：2027—2028 Key Colors",
+          "url": "https://coloro.com/key-colors"
+        }
+      ]
+    },
+    {
+      "name": "出门绕一小圈",
+      "tone": "自然、温厚，少量橙色提醒好奇。主55%／辅25%／中性15%／点缀5%；近似值与组合为自拟。",
+      "fit": "绕绕、常来；附近生活与轻关系",
+      "roles": [
+        {
+          "role": "主色",
+          "name": "Meadowland Green 草甸绿",
+          "hex": "#98A55A",
+          "proportion": 55
+        },
+        {
+          "role": "辅助色",
+          "name": "Clay 陶土色",
+          "hex": "#B8816C",
+          "proportion": 25
+        },
+        {
+          "role": "中性色",
+          "name": "自拟砂白",
+          "hex": "#EEE7DA",
+          "proportion": 15
+        },
+        {
+          "role": "点缀色",
+          "name": "Energy Orange 活力橙",
+          "hex": "#E86B36",
+          "proportion": 5
+        }
+      ],
+      "links": [
+        {
+          "t": "Coloro官方：2027—2028 Key Colors",
+          "url": "https://coloro.com/key-colors"
+        }
+      ]
+    },
+    {
+      "name": "给小事一场庆祝",
+      "tone": "活泼、认真又有一点滑稽。主55%／辅25%／中性15%／点缀5%；搭配跨2027与2028信号，作为远期实验。近似值与组合为自拟。",
+      "fit": "大惊小喜；也可供大玩伴远期色彩测试",
+      "roles": [
+        {
+          "role": "主色",
+          "name": "Maize 玉米黄",
+          "hex": "#DDB64E",
+          "proportion": 55
+        },
+        {
+          "role": "辅助色",
+          "name": "Offline Blue 离线蓝",
+          "hex": "#527CB7",
+          "proportion": 25
+        },
+        {
+          "role": "中性色",
+          "name": "自拟奶白",
+          "hex": "#F5EEDD",
+          "proportion": 15
+        },
+        {
+          "role": "点缀色",
+          "name": "Radiant Earth 焕彩大地色",
+          "hex": "#A64E32",
+          "proportion": 5
+        }
+      ],
+      "links": [
+        {
+          "t": "Coloro官方：2027—2028 Key Colors",
+          "url": "https://coloro.com/key-colors"
+        }
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "name": "Luminous Blue 明亮蓝",
+      "hex": "#2448C8",
+      "detail": "2027年度／春夏及秋冬官方关键色，Coloro 125-28-38。HEX为本期依据色名与公开展示自拟的近似屏幕预览值。",
+      "window": "6—18个月",
+      "cred": "A",
+      "use": "小面积强调玩心或意外，不默认成为所有角色主色（设计建议，非机构结论；实物需对照官方色卡）",
+      "links": [
+        {
+          "t": "Coloro官方：2027—2028 Key Colors",
+          "url": "https://coloro.com/key-colors"
+        }
+      ]
+    },
+    {
+      "name": "Energy Orange 活力橙",
+      "hex": "#E86B36",
+      "detail": "2027春夏官方关键色，Coloro 018-57-34。HEX为本期依据色名与公开展示自拟的近似屏幕预览值。",
+      "window": "6—12个月",
+      "cred": "A",
+      "use": "为热情与行动提供局部刺激（设计建议，非机构结论；实物需对照官方色卡）",
+      "links": [
+        {
+          "t": "Coloro官方：2027—2028 Key Colors",
+          "url": "https://coloro.com/key-colors"
+        }
+      ]
+    },
+    {
+      "name": "Meadowland Green 草甸绿",
+      "hex": "#98A55A",
+      "detail": "2027春夏官方关键色，Coloro 050-61-19。HEX为本期依据色名与公开展示自拟的近似屏幕预览值。",
+      "window": "6—12个月",
+      "cred": "A",
+      "use": "供附近生活和日常陪伴方向测试（设计建议，非机构结论；实物需对照官方色卡）",
+      "links": [
+        {
+          "t": "Coloro官方：2027—2028 Key Colors",
+          "url": "https://coloro.com/key-colors"
+        }
+      ]
+    },
+    {
+      "name": "Clay 陶土色",
+      "hex": "#B8816C",
+      "detail": "2027春夏官方关键色，Coloro 014-60-13。HEX为本期依据色名与公开展示自拟的近似屏幕预览值。",
+      "window": "6—12个月",
+      "cred": "A",
+      "use": "承接温暖、踏实的底色（设计建议，非机构结论；实物需对照官方色卡）",
+      "links": [
+        {
+          "t": "Coloro官方：2027—2028 Key Colors",
+          "url": "https://coloro.com/key-colors"
+        }
+      ]
+    },
+    {
+      "name": "Peaceful Lilac 平和淡紫",
+      "hex": "#C9BDDA",
+      "detail": "2027/28秋冬官方关键色，Coloro 135-78-11。HEX为本期依据色名与公开展示自拟的近似屏幕预览值。",
+      "window": "12—18个月",
+      "cred": "A",
+      "use": "给专注与轻关系保留呼吸感（设计建议，非机构结论；实物需对照官方色卡）",
+      "links": [
+        {
+          "t": "Coloro官方：2027—2028 Key Colors",
+          "url": "https://coloro.com/key-colors"
+        }
+      ]
+    },
+    {
+      "name": "Maize 玉米黄",
+      "hex": "#DDB64E",
+      "detail": "2027/28秋冬官方关键色，Coloro 036-65-23。HEX为本期依据色名与公开展示自拟的近似屏幕预览值。",
+      "window": "12—18个月",
+      "cred": "A",
+      "use": "以少量暖意打断冷淡，避免通体奖励金色（设计建议，非机构结论；实物需对照官方色卡）",
+      "links": [
+        {
+          "t": "Coloro官方：2027—2028 Key Colors",
+          "url": "https://coloro.com/key-colors"
+        }
+      ]
+    },
+    {
+      "name": "Radiant Earth 焕彩大地色",
+      "hex": "#A64E32",
+      "detail": "2028年度／春夏官方关键色，Coloro 017-42-31。HEX为本期依据色名与公开展示自拟的近似屏幕预览值。",
+      "window": "18—24个月",
+      "cred": "A",
+      "use": "远期测试成熟温暖与玩心共存的组合（设计建议，非机构结论；实物需对照官方色卡）",
+      "links": [
+        {
+          "t": "Coloro官方：2027—2028 Key Colors",
+          "url": "https://coloro.com/key-colors"
+        }
+      ]
+    },
+    {
+      "name": "Offline Blue 离线蓝",
+      "hex": "#527CB7",
+      "detail": "2028春夏官方关键色，Coloro 123-52-27。HEX为本期依据色名与公开展示自拟的近似屏幕预览值。",
+      "window": "18—24个月",
+      "cred": "A",
+      "use": "远期测试安静却不消失的陪伴感（设计建议，非机构结论；实物需对照官方色卡）",
+      "links": [
+        {
+          "t": "Coloro官方：2027—2028 Key Colors",
+          "url": "https://coloro.com/key-colors"
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "干爽圈圈触感",
+      "detail": "Awaken主题列入干爽圈圈织物。",
+      "toy": "自拟转译：试样短圈绒或细颗粒表面，让接触体验明确；控制勾线和掉毛。此处仅建候选，不锁定角色材料。",
+      "window": "2027／6—18个月",
+      "cred": "B",
+      "links": [
+        {
+          "t": "Design News Now：2027面料主题报道",
+          "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+        }
+      ]
+    },
+    {
+      "name": "细罗纹与绗缝",
+      "detail": "Space for Solace涉及罗纹及绗缝。",
+      "toy": "自拟转译：可拆织物套、局部绗缝触感；需验证缝制厚度和缩小后的可读性。",
+      "window": "2027／6—18个月",
+      "cred": "B",
+      "links": [
+        {
+          "t": "Design News Now：2027面料主题报道",
+          "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+        }
+      ]
+    },
+    {
+      "name": "短绒丝绒感",
+      "detail": "Wondermode列入丝绒。",
+      "toy": "自拟转译：先比较短绒织物与植绒样片；手摸磨损、掉色与清洁性需要实测。",
+      "window": "2027／6—18个月",
+      "cred": "B",
+      "links": [
+        {
+          "t": "Design News Now：2027面料主题报道",
+          "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+        }
+      ]
+    },
+    {
+      "name": "轻透与厚实的局部对照",
+      "detail": "Awaken和Space for Solace均出现轻透面料。",
+      "toy": "自拟转译：探索薄织物与紧实软体的触感对照；透明硬件只是待测试选项，不能把面料预测当成注塑验证。",
+      "window": "2027／6—18个月",
+      "cred": "B",
+      "links": [
+        {
+          "t": "Design News Now：2027面料主题报道",
+          "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+        }
+      ]
+    },
+    {
+      "name": "刺绣与钩织的个人记忆",
+      "detail": "Ritual涉及刺绣、钩织及工艺记忆。",
+      "toy": "自拟转译：可定制的小型织物附件或日期绣片；避免附件取代角色识别，工时与耐久需打样核实。",
+      "window": "2027／6—18个月",
+      "cred": "B",
+      "links": [
+        {
+          "t": "Design News Now：2027面料主题报道",
+          "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+        }
+      ]
+    }
+  ],
+  "origins": [
+    {
+      "id": "O01",
+      "name": "大人和孩子一起玩",
+      "source": "家庭玩乐被事务挤占，共同玩仍被父母重视。 本期处理：为用户指定的“少年感的爹”补充外部依据，主题本身单独记录为用户输入。",
+      "status": "入选",
+      "to": "大玩伴",
+      "reason": "为用户指定的“少年感的爹”补充外部依据，主题本身单独记录为用户输入。",
+      "links": [
+        {
+          "t": "LEGO Play Well Study 2026：家庭共同玩乐",
+          "url": "https://www.lego.com/en-ee/aboutus/news/2026/may/World-Play-Day-2026"
+        },
+        {
+          "t": "乐高中国：广州“一起玩个够”活动",
+          "url": "https://news.lego.cn/v/news/article?aid=1488"
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "name": "成年之后仍然买玩具",
+      "source": "行业跟踪中出现成年人为自己或其他成年人购买玩具的行为。 本期处理：支持角色也面向成年收藏者；“理想父性关系”需求仍是推测。",
+      "status": "入选",
+      "to": "大玩伴",
+      "reason": "支持角色也面向成年收藏者；“理想父性关系”需求仍是推测。",
+      "links": [
+        {
+          "t": "Circana：2025年玩具消费中的青少年与成年人",
+          "url": "https://www.circana.com/post/global-toy-industry-rebounds-in-2025-as-sales-rise-7-fueled-by-pop-culture-collectibles-and-kidu"
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "name": "工位留下个人印记",
+      "source": "职场人摆放玩偶、植物和自己的收藏。 本期处理：沿用原点池“工位变成情绪空间”，从替身逃离改为保留自我。",
+      "status": "入选",
+      "to": "留留",
+      "reason": "沿用原点池“工位变成情绪空间”，从替身逃离改为保留自我。",
+      "links": [
+        {
+          "t": "乌海日报：年轻人爆改工位想表达啥",
+          "url": "https://szb.wuhainews.org.cn/paper/pc/content/202603/11/content_71991.html"
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "name": "慢爱好吸住注意力",
+      "source": "通勤钩织、下班手作让人连续投入一件喜欢的事。 本期处理：沿用“注意力保护”但重写人群与场景，守住爱好而非关机退场。",
+      "status": "入选",
+      "to": "入迷",
+      "reason": "沿用“注意力保护”但重写人群与场景，守住爱好而非关机退场。",
+      "links": [
+        {
+          "t": "北京青年报／中国青年网：慢节奏“老派爱好”回流",
+          "url": "https://qnzs.youth.cn/tsxq/202605/t20260526_16680685.htm"
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "name": "恢复型消费者的边界",
+      "source": "WGSN对2028提出恢复感、当下感与主动生活的预测。 本期处理：作为12—24个月的观察假设，不能当作本地需求验证。",
+      "status": "入选",
+      "to": "入迷、绕绕",
+      "reason": "作为12—24个月的观察假设，不能当作本地需求验证。",
+      "links": [
+        {
+          "t": "WGSN官方：Future Consumer 2028—The Restorers",
+          "url": "https://www.linkedin.com/pulse/special-edition-future-consumer-2028-restorers-wgsn-bapge"
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "name": "出片任务挤压旅行体验",
+      "source": "受访者报告了排机位、反复拍摄和忽略现场的矛盾。 本期处理：从拍给别人看转向自己真正经历过，保留随手记录的自由。",
+      "status": "入选",
+      "to": "绕绕",
+      "reason": "从拍给别人看转向自己真正经历过，保留随手记录的自由。",
+      "links": [
+        {
+          "t": "中国青年报调查／京报网：旅游必出片的体验代价",
+          "url": "https://xinwen.bjd.com.cn/content/s6a3327ede4b03fa51a80061a.html"
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "name": "重返附近与低耗社交",
+      "source": "生活服务报告关注附近体验、低耗社交和本地玩乐。 本期处理：将短暂搭子拓展为可反复见面的轻关系；重复见面的具体心理是创作推测。",
+      "status": "入选",
+      "to": "常来",
+      "reason": "将短暂搭子拓展为可反复见面的轻关系；重复见面的具体心理是创作推测。",
+      "links": [
+        {
+          "t": "新华网×美团研究院：2025生活服务消费趋势洞察",
+          "url": "https://app.xinhuanet.com/news/article.html?articleId=d96df36185dc33da83db0f463537d396"
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "name": "小额悦己成为日常",
+      "source": "平台报告与商场走访呈现低成本体验和小确幸消费。 本期处理：从消费行为延展到“给微小好事认真庆祝”；不能声称庆祝型IP已被验证。",
+      "status": "入选",
+      "to": "大惊小喜",
+      "reason": "从消费行为延展到“给微小好事认真庆祝”；不能声称庆祝型IP已被验证。",
+      "links": [
+        {
+          "t": "新华网×美团研究院：2025生活服务消费趋势洞察",
+          "url": "https://app.xinhuanet.com/news/article.html?articleId=d96df36185dc33da83db0f463537d396"
+        },
+        {
+          "t": "中国新闻周刊：年轻人追求“逛感”",
+          "url": "https://news.inewsweek.cn/observe/2026-05-28/30371.shtml"
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "name": "微小快乐值得被看见",
+      "source": "WGSN在2028预测文章中回顾micro-moments of joy信号。 本期处理：作为情绪入口；本卡的夸张庆祝是自拟探索，不是机构推荐的人设。",
+      "status": "入选",
+      "to": "大惊小喜",
+      "reason": "作为情绪入口；本卡的夸张庆祝是自拟探索，不是机构推荐的人设。",
+      "links": [
+        {
+          "t": "WGSN官方：Future Consumer 2028—The Restorers",
+          "url": "https://www.linkedin.com/pulse/special-edition-future-consumer-2028-restorers-wgsn-bapge"
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "name": "好玩的不完美",
+      "source": "2027面料报道中的Wondermode强调自发与不完美。 本期处理：已有“格格”覆盖相邻表达，本期留作材质与内容参考，不再生成相似的新卡。",
+      "status": "备选",
+      "to": "",
+      "reason": "已有“格格”覆盖相邻表达，本期留作材质与内容参考，不再生成相似的新卡。",
+      "links": [
+        {
+          "t": "Design News Now：2027面料主题报道",
+          "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/"
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "name": "跨季节色彩中的稳定与活力",
+      "source": "Coloro已列出2028春夏及更远季节的关键色。 本期处理：本期提取2027—2028色彩观察；不把换颜色当成新角色洞察。",
+      "status": "备选",
+      "to": "",
+      "reason": "本期提取2027—2028色彩观察；不把换颜色当成新角色洞察。",
+      "links": [
+        {
+          "t": "Coloro官方：2027—2028 Key Colors",
+          "url": "https://coloro.com/key-colors"
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "name": "授权与收藏的行业增长",
+      "source": "行业增长包含强势授权和收藏品的贡献。 本期处理：仅淘汰“照着畅销角色做一个”的本期候选办法；商业增长不能替代人物洞察，不代表用户淘汰收藏圈。",
+      "status": "淘汰",
+      "to": "",
+      "reason": "仅淘汰“照着畅销角色做一个”的本期候选办法；商业增长不能替代人物洞察，不代表用户淘汰收藏圈。",
+      "links": [
+        {
+          "t": "Circana：2025年玩具消费中的青少年与成年人",
+          "url": "https://www.circana.com/post/global-toy-industry-rebounds-in-2025-as-sales-rise-7-fueled-by-pop-culture-collectibles-and-kidu"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "play",
+      "accessed": "2026-10-19",
+      "title": "LEGO Play Well Study 2026：家庭共同玩乐",
+      "url": "https://www.lego.com/en-ee/aboutus/news/2026/may/World-Play-Day-2026",
+      "published": "2026-06-01",
+      "grade": "A",
+      "fact": "品牌公布的跨市场调查显示，父母希望增加共同玩乐，工作、家务和屏幕使用挤占了时间。",
+      "boundary": "品牌委托调查，覆盖30个市场；不能外推中国人对本角色的购买意愿，也不把相关性当成因果。"
+    },
+    {
+      "id": "playcn",
+      "accessed": "2026-10-19",
+      "title": "乐高中国：广州“一起玩个够”活动",
+      "url": "https://news.lego.cn/v/news/article?aid=1488",
+      "published": "2026-05-25",
+      "grade": "A",
+      "fact": "品牌在广州组织面向大小朋友的兴趣互动活动。",
+      "boundary": "这是活动存在的证据，不是亲子市场规模或销量证明。"
+    },
+    {
+      "id": "adult",
+      "accessed": "2026-10-19",
+      "title": "Circana：2025年玩具消费中的青少年与成年人",
+      "url": "https://www.circana.com/post/global-toy-industry-rebounds-in-2025-as-sales-rise-7-fueled-by-pop-culture-collectibles-and-kidu",
+      "published": "2026-01-27",
+      "grade": "A",
+      "fact": "发布了成人自用、收藏及授权品增长的行业观察。",
+      "boundary": "主体零售数据覆盖G12，成人自购描述含欧洲调查；不作为中国潮玩规模。"
+    },
+    {
+      "id": "desk",
+      "accessed": "2026-10-19",
+      "title": "乌海日报：年轻人爆改工位想表达啥",
+      "url": "https://szb.wuhainews.org.cn/paper/pc/content/202603/11/content_71991.html",
+      "published": "2026-03-11",
+      "grade": "B",
+      "fact": "记者观察到职场人用玩偶、绿植和贴纸布置工位，也借桌面物件交流。",
+      "boundary": "局部采访支持行为存在，不代表所有职场人；不沿用无方法说明的热度数字。"
+    },
+    {
+      "id": "hobby",
+      "accessed": "2026-10-19",
+      "title": "北京青年报／中国青年网：慢节奏“老派爱好”回流",
+      "url": "https://qnzs.youth.cn/tsxq/202605/t20260526_16680685.htm",
+      "published": "2026-05-26",
+      "grade": "B",
+      "fact": "报道了通勤钩织、下班拼豆、观鸟和票根收藏等具体行为。",
+      "boundary": "采访与平台现象报道；不将平台浏览量视为独立人数或需求规模。"
+    },
+    {
+      "id": "restore",
+      "accessed": "2026-10-19",
+      "title": "WGSN官方：Future Consumer 2028—The Restorers",
+      "url": "https://www.linkedin.com/pulse/special-edition-future-consumer-2028-restorers-wgsn-bapge",
+      "published": "2026-05-21",
+      "grade": "A",
+      "fact": "预测恢复感、当下感、边界和手作价值，并回顾微小快乐的信号。",
+      "boundary": "机构预测，不是2028已实现事实；本期的角色表达是独立创作推测。"
+    },
+    {
+      "id": "photo",
+      "accessed": "2026-10-19",
+      "title": "中国青年报调查／京报网：旅游必出片的体验代价",
+      "url": "https://xinwen.bjd.com.cn/content/s6a3327ede4b03fa51a80061a.html",
+      "published": "2026-06-18",
+      "grade": "B",
+      "fact": "1501名受访者调查及访谈涉及反复拍摄、机位排队与体验优先的矛盾。",
+      "boundary": "受访者调查，不宣称全体游客都反对拍照。"
+    },
+    {
+      "id": "local",
+      "accessed": "2026-10-19",
+      "title": "新华网×美团研究院：2025生活服务消费趋势洞察",
+      "url": "https://app.xinhuanet.com/news/article.html?articleId=d96df36185dc33da83db0f463537d396",
+      "published": "2026-01-21",
+      "grade": "A",
+      "fact": "报告列出低耗社交、重返附近、玩在当地及小额体验消费等信号。",
+      "boundary": "联合发布方的一手平台报告，观察期为2025；平台样本不能外推全体青年。"
+    },
+    {
+      "id": "stroll",
+      "accessed": "2026-10-19",
+      "title": "中国新闻周刊：年轻人追求“逛感”",
+      "url": "https://news.inewsweek.cn/observe/2026-05-28/30371.shtml",
+      "published": "2026-05-28",
+      "grade": "C",
+      "fact": "以商业体走访呈现线下闲逛、社交和小额悦己行为。",
+      "boundary": "集中呈现单一商业体，带品牌宣传语境；只作为场景补充，不独立证明趋势。"
+    },
+    {
+      "id": "color",
+      "accessed": "2026-10-19",
+      "title": "Coloro官方：2027—2028 Key Colors",
+      "url": "https://coloro.com/key-colors",
+      "published": "持续更新，检索于2026-10-19",
+      "grade": "A",
+      "fact": "核对2027春夏、2027/28秋冬和2028春夏色名、编号及季节。",
+      "boundary": "官方发布的是色名及Coloro编号；本期HEX、搭配比例和潮玩用途均为自拟近似。"
+    },
+    {
+      "id": "fabric",
+      "accessed": "2026-10-19",
+      "title": "Design News Now：2027面料主题报道",
+      "url": "https://designnewsnow.com/the-fabric-forecast-nature-fantasy-and-ritual/",
+      "published": "2026年报道；正文所述发布会为2月5日，页面未显示完整发布日期",
+      "grade": "B",
+      "fact": "转述Fashion by Informa与FS的Awaken、Wondermode、Space for Solace和Ritual四主题。",
+      "boundary": "时装材料预测经行业媒体转述，不能视为潮玩工艺已验证；转译方案由本期提出。"
+    },
+    {
+      "id": "bandit",
+      "accessed": "2026-10-19",
+      "title": "Bluey官方：Bandit角色介绍（巴西站）",
+      "url": "https://www.bluey.tv/brasil/personagens-bandit/",
+      "published": "页面未标日期",
+      "grade": "A",
+      "fact": "用于核对父亲角色关系，作为“可靠且会玩”方向的接近案例。",
+      "boundary": "只作角色关系与表达接近性检查，不复用角色设定、轮廓、台词或家庭组合。"
+    }
+  ]
+}
