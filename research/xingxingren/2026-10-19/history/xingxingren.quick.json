@@ -1,0 +1,273 @@
+{
+  "id": "xingxingren",
+  "name": "星星人",
+  "aliases": [
+    "Twinkle Twinkle（待核实英文名）"
+  ],
+  "tier": "quick",
+  "status": "partial",
+  "cutoff_date": "2026-10-19",
+  "updated": "2026-10-19",
+  "summary": "绘本里的小配角，2024 年 8 月才出第一个盲盒，两年内成为泡泡玛特增长最快的 IP；关键可能在\"低谷也发微光\"的陪伴型表达，加上搪胶毛绒挂件承接了 LABUBU 退热后的需求。",
+  "owner": {
+    "creator": "大欣（90 后插画师）",
+    "operator": "泡泡玛特",
+    "relation": "未知（授权或自有未核实）",
+    "since": "2024",
+    "sources": [
+      "s-bjnews-star",
+      "s-jiemian-farm"
+    ]
+  },
+  "origin": {
+    "path": [
+      "绘本出版"
+    ],
+    "year": "2020",
+    "story": "2020 年在绘本《梦之岛》里只是一个小众配角，后来被单独做成 IP",
+    "sources": [
+      "s-bjnews-star"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2020",
+      "event": "作为绘本《梦之岛》里的配角出现",
+      "type": "self_report",
+      "sources": [
+        "s-bjnews-star"
+      ]
+    },
+    {
+      "date": "2024-08",
+      "event": "推出第一个盲盒，上线售罄，当年收入超过 1 亿元",
+      "type": "fact",
+      "sources": [
+        "s-bjnews-star"
+      ]
+    },
+    {
+      "date": "2025",
+      "event": "全年进入泡泡玛特收入超过 20 亿元的六个 IP 之列",
+      "type": "fact",
+      "sources": [
+        "s-yicai-2025ar"
+      ]
+    },
+    {
+      "date": "2026-01",
+      "event": "「怦然星动」系列发售，部分平台访问拥堵",
+      "type": "fact",
+      "sources": [
+        "s-bjnews-star"
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "event": "首个搪胶毛绒挂件「农场系列」发售，单抽 129 元，6 常规 1 隐藏，上线售罄",
+      "type": "fact",
+      "sources": [
+        "s-jiemian-farm",
+        "s-bjnews-star"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "人生经历低谷、遗憾、难过，也依然会发出属于自己微弱的光",
+    "sentence_type": "陪伴",
+    "basis": "inferred",
+    "sources": [
+      "s-jiemian-farm"
+    ]
+  },
+  "core": {
+    "personality": "软萌、笨拙、温柔",
+    "emotion": "内收",
+    "action": "在低谷里也发着一点光",
+    "basis": "inferred"
+  },
+  "insight": {
+    "scene": "",
+    "behavior": "",
+    "state": "经历低谷、遗憾、难过",
+    "conflict": "不够好、也不想放弃自己",
+    "unsaid": "我也想被允许慢一点地发光",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "年轻消费者（媒体概括，未细分）",
+    "where": "",
+    "buy": "盲盒、搪胶毛绒挂件；二手平台溢价交易",
+    "signs": "隐藏款「不丑小鸭」",
+    "share": "",
+    "breakout": ""
+  },
+  "pendulum": {
+    "position": "软萌治愈",
+    "against": "LABUBU 代表的丑萌怪趣热度回落时补位（研究推断）"
+  },
+  "form": {
+    "archetype": "类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "头顶"
+    ],
+    "mark": "星星形状的兜帽（媒体描述「戴着兜帽」，星星形态待看图核实）",
+    "face": "脸蛋红扑扑；眼型、嘴型待看图核实",
+    "emotion": "内收",
+    "odd": "待看图核实",
+    "density": "极简",
+    "naming": "描述",
+    "group": "角色群"
+  },
+  "collide_combo": "星星兜帽 + 红腮红 + 软萌笨拙的小人。不要用「星星形头套 + 红脸蛋」的组合",
+  "color": {
+    "mode": null,
+    "main": "",
+    "signature": "红扑扑的脸蛋（候选，未核实是否跨系列不变）",
+    "notes": "本次未拆色板"
+  },
+  "materials": "盲盒手办；搪胶毛绒挂件（农场系列）",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "绘本漫画"
+  },
+  "product": {
+    "first_category": "盲盒手办",
+    "hit_category": "搪胶毛绒",
+    "hit_product": "农场系列（隐藏款「不丑小鸭」）",
+    "price_band": "搪胶毛绒挂件单抽 129 元",
+    "sources": [
+      "s-jiemian-farm"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "IP 收入",
+      "value": 1,
+      "unit": "亿元以上",
+      "period": "2024 年（8 月首发起）",
+      "type": "fact",
+      "sources": [
+        "s-bjnews-star"
+      ]
+    },
+    {
+      "metric": "IP 收入",
+      "value": 20,
+      "unit": "亿元以上（只知道超过）",
+      "period": "2025 全年",
+      "type": "fact",
+      "sources": [
+        "s-yicai-2025ar"
+      ]
+    },
+    {
+      "metric": "IP 收入",
+      "value": 26.5,
+      "unit": "亿元，同比 +580.6%",
+      "period": "2026 上半年",
+      "type": "fact",
+      "sources": [
+        "s-jiemian-farm",
+        "s-bjnews-star"
+      ]
+    },
+    {
+      "metric": "隐藏款「不丑小鸭」二手最高出价",
+      "value": 1799,
+      "unit": "元（发售价 129 元）",
+      "period": "2026-08 发售后",
+      "type": "fact",
+      "sources": [
+        "s-jiemian-farm"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "陪伴型表达（低谷也发微光）戳中年轻人的情绪痛点",
+      "type": "self_report",
+      "evidence": "媒体概括的品牌理念和受欢迎原因",
+      "boundary": "没有用户研究支撑；同类治愈表达很多，不能说明为什么是它",
+      "sources": [
+        "s-jiemian-farm"
+      ]
+    },
+    {
+      "claim": "在 LABUBU 热度回落时承接了毛绒挂件需求",
+      "type": "inference",
+      "evidence": "同期 THE MONSTERS 半年收入下降、星星人大涨",
+      "boundary": "时间重合不等于替代关系；也可能是泡泡玛特资源倾斜",
+      "sources": [
+        "s-bjnews-star",
+        "s-jiemian-farm"
+      ]
+    },
+    {
+      "claim": "隐藏款的名字本身就是表达（「不丑小鸭」），二手溢价最高",
+      "type": "fact",
+      "evidence": "二手最高出价 1799 元",
+      "boundary": "二手溢价说明稀缺和热度，不说明需求规模",
+      "sources": [
+        "s-jiemian-farm"
+      ]
+    }
+  ],
+  "counterexamples": "本次未查同类治愈小人 IP 的失败案例",
+  "theory": {
+    "shell": "兜帽 + 红脸蛋的小人，外壳以公共元素为主",
+    "core": "低谷也发微光的陪伴，内核清楚",
+    "shadow": "外壳单看有公共感（腮红、小人），靠星星兜帽和内核拉开",
+    "two_layers": {
+      "surface": "软萌、好看、治愈",
+      "deep": "隐藏款「不丑小鸭」这类名字给懂的人"
+    },
+    "validation": "有付费证据（收入、售罄、二手溢价）；粉丝增长和点赞数据未查"
+  },
+  "for_skills": {
+    "lab": "陪伴型句式在 2025 至 2026 年仍然有效，但已经很拥挤；同样做陪伴，要找更具体的场景",
+    "form": "可以借：头顶一个整体轮廓的记忆点，缩小也认得出；不能借：星星兜帽 + 红脸蛋的小人组合",
+    "studio": "首发用盲盒，爆发靠搪胶毛绒挂件；隐藏款用表达命名，可以作为系列命名的参照"
+  },
+  "gaps": [
+    "《梦之岛》的出版信息（出版社、时间）未核实",
+    "大欣和泡泡玛特的合作关系（授权还是自有）未核实",
+    "英文名未核实",
+    "没有看图，外形字段只用了媒体描述",
+    "小红书未检索",
+    "没有用户研究和失败对照",
+    "隐藏款二手最高价两家报道不一致：界面 1799 元，新京报 859 元，可能是不同时间点"
+  ],
+  "sources": [
+    {
+      "id": "s-bjnews-star",
+      "title": "星星人相关报道（新京报）",
+      "url": "https://m.bjnews.com.cn/detail/1787278042129512.html",
+      "publisher": "新京报",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "s-jiemian-farm",
+      "title": "星星人农场系列再现秒空（界面新闻）",
+      "url": "https://m.jiemian.com/article/14964216.html",
+      "publisher": "界面新闻",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "s-yicai-2025ar",
+      "title": "泡泡玛特2025年营收371.2亿元（第一财经）",
+      "url": "https://www.yicai.com/news/103103386.html",
+      "publisher": "第一财经",
+      "published": "2026-03-25",
+      "observed": "2026-10-19",
+      "access": "full"
+    }
+  ],
+  "archive": null
+}
+

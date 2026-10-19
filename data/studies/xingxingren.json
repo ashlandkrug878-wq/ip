@@ -2,15 +2,15 @@
   "id": "xingxingren",
   "name": "星星人",
   "aliases": [
-    "Twinkle Twinkle（待核实英文名）"
+    "Twinkle Twinkle"
   ],
-  "tier": "quick",
+  "tier": "standard",
   "status": "partial",
   "cutoff_date": "2026-10-19",
   "updated": "2026-10-19",
-  "summary": "绘本里的小配角，2024 年 8 月才出第一个盲盒，两年内成为泡泡玛特增长最快的 IP；关键可能在\"低谷也发微光\"的陪伴型表达，加上搪胶毛绒挂件承接了 LABUBU 退热后的需求。",
+  "summary": "从故事插画到正式画集、手办和毛绒：重点拆分出版起源、星形轮廓与桃橘面区、产品载体及用户行为；已有色彩和读图研究，基础造型提示词仍未通过复现检查。",
   "owner": {
-    "creator": "大欣（90 后插画师）",
+    "creator": "大欣（官方作者页）；媒体同时提及阿力，分工待核",
     "operator": "泡泡玛特",
     "relation": "未知（授权或自有未核实）",
     "since": "2024",
@@ -21,12 +21,17 @@
   },
   "origin": {
     "path": [
+      "网络插画",
       "绘本出版"
     ],
     "year": "2020",
-    "story": "2020 年在绘本《梦之岛》里只是一个小众配角，后来被单独做成 IP",
+    "story": "官方作者简介将创作追溯至2020年；《梦之岛》属于早期故事／插画线索，尚无正式出版ISBN或版权页。磨铁有狐出品的《晚安，全宇宙》为后期画集，渠道书目日期在2024年底／2025年初有冲突。",
     "sources": [
-      "s-bjnews-star"
+      "S03",
+      "S09",
+      "S15",
+      "S16",
+      "S17"
     ]
   },
   "timeline": [
@@ -110,22 +115,23 @@
     "archetype": "类人",
     "silhouette": "大头小身",
     "mark_position": [
-      "头顶"
+      "整体轮廓",
+      "五官"
     ],
-    "mark": "星星形状的兜帽（媒体描述「戴着兜帽」，星星形态待看图核实）",
-    "face": "脸蛋红扑扑；眼型、嘴型待看图核实",
+    "mark": "星形／尖端轮廓、桃橘面区与橘红脸颊共同识别，不能只用头顶小星概括",
+    "face": "大眼白与深瞳、小鼻嘴和明显留白；眼型视线与表情按版本变化（研究观察）",
     "emotion": "内收",
-    "odd": "待看图核实",
+    "odd": "星形拟人；不同载体对星角与头脸体块有重译，完整官方母版未知",
     "density": "极简",
     "naming": "描述",
     "group": "角色群"
   },
   "collide_combo": "星星兜帽 + 红腮红 + 软萌笨拙的小人。不要用「星星形头套 + 红脸蛋」的组合",
   "color": {
-    "mode": null,
-    "main": "",
-    "signature": "红扑扑的脸蛋（候选，未核实是否跨系列不变）",
-    "notes": "本次未拆色板"
+    "mode": "多色系列",
+    "main": "I02单SKU暖黄 #FFBB6E、桃橘面区 #F3966C",
+    "signature": "橘红脸颊 #DF6132（识别候选，非官方固定标准）",
+    "notes": "屏幕取样近似值，仅代表所采样SKU；辅色灰蓝 #516580、中性奶油 #FFEED0、深棕五官 #713F37；书封夜蓝与酒红为环境色，不作身体色。"
   },
   "materials": "盲盒手办；搪胶毛绒挂件（农场系列）",
   "carrier": {
@@ -231,13 +237,13 @@
     "studio": "首发用盲盒，爆发靠搪胶毛绒挂件；隐藏款用表达命名，可以作为系列命名的参照"
   },
   "gaps": [
-    "《梦之岛》的出版信息（出版社、时间）未核实",
     "大欣和泡泡玛特的合作关系（授权还是自有）未核实",
-    "英文名未核实",
-    "没有看图，外形字段只用了媒体描述",
-    "小红书未检索",
     "没有用户研究和失败对照",
-    "隐藏款二手最高价两家报道不一致：界面 1799 元，新京报 859 元，可能是不同时间点"
+    "隐藏款二手最高价两家报道不一致：界面 1799 元，新京报 859 元，可能是不同时间点",
+    "2020最早原帖及《梦之岛》正式出版状态未知；后期画集首版日期、开本有渠道冲突，待版权页核实",
+    "已读小红书介绍7页及图鉴16页中7页；未完成全平台检索和全量SKU覆盖",
+    "基础平面与毛绒纯文字生成仍有身份轮廓偏差，全部提示词保留为测试记录",
+    "旧速查卡数字与机制原样保留为历史口径，本次接入未重新核验；正式研究以报告逐项证据和边界为准"
   ],
   "sources": [
     {
@@ -266,7 +272,249 @@
       "published": "2026-03-25",
       "observed": "2026-10-19",
       "access": "full"
+    },
+    {
+      "id": "S01",
+      "title": "泡泡玛特2025年年报",
+      "url": "https://prod-out-res.popmart.com/cms/ANNUAL_REPORT_2025_bd4e173872.pdf",
+      "publisher": "泡泡玛特",
+      "published": "2026",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S02",
+      "title": "2026年中期业绩公告",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225484841.PDF",
+      "publisher": "泡泡玛特／巨潮资讯载公告原件",
+      "published": "2026-08-20",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S03",
+      "title": "泡泡玛特孵化“星星人”降临世界",
+      "url": "https://stock.10jqka.com.cn/20250627/c669216651.shtml",
+      "publisher": "上海证券报·中国证券网／同花顺转载",
+      "published": "2025-06-27",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S04",
+      "title": "我们都是星星人首发微博",
+      "url": "https://www.weibo.com/1726303567/OrutNoVif",
+      "publisher": "POPMART泡泡玛特",
+      "published": "2024-08-09",
+      "observed": "2026-10-19",
+      "access": "partial"
+    },
+    {
+      "id": "S05",
+      "title": "We are Twinkle Twinkle Series Figures",
+      "url": "https://www.popmart.com/us/products/1448/we-are-twinkle-twinkle-series-figures-2406",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S06",
+      "title": "我们都是星星人手办 POP NOW",
+      "url": "https://www.popmart.com/SG/pop-now/box-set/we-are-twinkle-twinkle-series-figures/4eb7be55-65ca-4f68-8fc7-0d4974fc70c4",
+      "publisher": "POP MART Singapore",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S07",
+      "title": "Colección ¡123! Figuras de Twinkle Twinkle",
+      "url": "https://www.popmart.com/mx/products/3703/colecci%C3%B3n-%C2%A1123!-figuras-de-twinkle-twinkle",
+      "publisher": "POP MART Mexico",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S08",
+      "title": "We are Twinkle Twinkle Series-Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/au/products/we-are-twinkle-twinkle-series-plush-pendant-blind-box/264e361e-e856-4281-b52e-9a3b79a32da5",
+      "publisher": "POP MART Australia",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S09",
+      "title": "POP MART Our Artists: Daxin",
+      "url": "https://www.popmart.com/en-FR?mobile=",
+      "publisher": "POP MART France",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S10",
+      "title": "星星人正在给泡泡玛特养新家",
+      "url": "https://www.huxiu.com/article/4817135.html",
+      "publisher": "虎嗅·苗正卿",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S11",
+      "title": "鬼马“星星人”唤醒童心",
+      "url": "https://www.tkww.hk/epaper/view/newsDetail/1964722964595347456.html",
+      "publisher": "香港仔／大公文汇",
+      "published": "2025-09-08",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S12",
+      "title": "POP TOY SHOW 2024艺术家阵容公告",
+      "url": "https://www.prnewswire.com/apac/news-releases/walk-down-memory-lane-with-pop-marts-molly-at-her-first-ever-anniversary-statues-pop-up-store-in-singapore-302229238.html",
+      "publisher": "POP MART，经美通社发布",
+      "published": "2024-08-23",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S13",
+      "title": "POP MART品牌介绍",
+      "url": "https://www.popmart.com/us/brand-introduction",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S14",
+      "title": "Twinkle Twinkle The Moment Figure",
+      "url": "https://www.popmart.com/us/products/5673/twinkle-twinkle-the-moment-figure",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S15",
+      "title": "晚安，全宇宙：磨铁认证店商品与宣传页",
+      "url": "https://detail.youzan.com/show/goods?alias=26u1bya1ymuelrp&from_source=gbox_seo",
+      "publisher": "磨铁图书认证有赞店",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S16",
+      "title": "晚安，全宇宙：ISBN与读者短评",
+      "url": "https://book.douban.com/subject/37202792/",
+      "publisher": "豆瓣读书",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S17",
+      "title": "晚安，全宇宙（全二册）书目",
+      "url": "https://www.sanmin.com.tw/product/index/014184490",
+      "publisher": "三民书店",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S18",
+      "title": "当星星人遇见时装：创作者采访转载",
+      "url": "https://www.sohu.com/a/929979525_121948407",
+      "publisher": "搜狐号搭配师娜娜；文内署名凤梨苏等",
+      "published": "2025-08-29",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S19",
+      "title": "星星人之歌单曲发行元数据",
+      "url": "https://music.apple.com/us/album/%E6%98%9F%E6%98%9F%E4%BA%BA%E4%B9%8B%E6%AD%8C-single/1870665559?l=zh-Hant-TW",
+      "publisher": "Apple Music",
+      "published": "2025-07-04",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S20",
+      "title": "IP仓库当前Markdown工作流与参考",
+      "url": "https://github.com/ashlandkrug878-wq/ip",
+      "publisher": "用户GitHub仓库 ashlandkrug878-wq/ip",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S21",
+      "title": "每天认识一个潮玩IP·第6期｜星星人，治愈",
+      "url": "https://xhslink.cn/o/94u8hopTfUu",
+      "publisher": "小红书·温粥",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S22",
+      "title": "星星人图鉴：盲盒吊卡大娃周边合集",
+      "url": "https://xhslink.cn/o/Aq7YEvK07Zi",
+      "publisher": "小红书·王小胖没烦恼",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "partial"
+    },
+    {
+      "id": "S23",
+      "title": "Farm Tales搪胶毛绒挂件",
+      "url": "https://www.popmart.com/us/products/8601?isAppShare=true",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S24",
+      "title": "MOON GELATO冰淇淋毛绒挂件",
+      "url": "https://www.popmart.com/jp/pop-now/box-set/twinkle-twinkle-moon-gelato-/c560ee2c-4ea0-4aad-a7f6-3ad858f98ad7",
+      "publisher": "POP MART日本",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S25",
+      "title": "星星人官方地区产品目录",
+      "url": "https://www.popmart.com/es-MX/collection/twinkle-twinkle",
+      "publisher": "POP MART墨西哥",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "delivery-webpage",
+      "title": "星星人完整研究网页：出版、造型、色彩与生成测试",
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/xingxingren/2026-10-19/",
+      "publisher": "独立研究 · 选品板研究库",
+      "published": "2026-10-19",
+      "observed": "2026-10-19",
+      "access": "full"
     }
   ],
-  "archive": null
+  "archive": "research/xingxingren/2026-10-19/report.md",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/xingxingren/2026-10-19/",
+  "revision_history": [
+    {
+      "date": "2026-10-19",
+      "action": "速查卡关联标准研究报告，补英文名、出版边界、视觉与色彩；旧卡保存至history/xingxingren.quick.json",
+      "previous_tier": "quick"
+    }
+  ]
 }

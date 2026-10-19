@@ -1,0 +1,3895 @@
+{
+  "schema_version": "1.1",
+  "subject_id": "twinkle-twinkle",
+  "cutoff_date": "2026-10-19",
+  "observed_at": "2026-10-19",
+  "markets": [
+    "中国",
+    "国际官网产品样本"
+  ],
+  "status": "partial",
+  "entities": [
+    {
+      "entity_id": "twinkle-twinkle",
+      "type": "group",
+      "name": "星星人",
+      "aliases": [
+        "Twinkle Twinkle"
+      ],
+      "relationships": []
+    },
+    {
+      "entity_id": "daxin",
+      "type": "person",
+      "name": "大欣",
+      "aliases": [
+        "Daxin",
+        "Da Xin"
+      ],
+      "relationships": []
+    },
+    {
+      "entity_id": "ali",
+      "type": "person",
+      "name": "阿力",
+      "aliases": [],
+      "relationships": []
+    },
+    {
+      "entity_id": "popmart",
+      "type": "company",
+      "name": "泡泡玛特国际集团有限公司",
+      "aliases": [
+        "POP MART",
+        "09992.HK"
+      ],
+      "relationships": []
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "S01",
+      "title": "泡泡玛特2025年年报",
+      "publisher": "泡泡玛特",
+      "url": "https://prod-out-res.popmart.com/cms/ANNUAL_REPORT_2025_bd4e173872.pdf",
+      "published_at": "2026",
+      "observed_at": "2026-10-19",
+      "source_type": "annual_report",
+      "access_status": "full",
+      "origin_family": "popmart-ar2025",
+      "supports": [
+        "C06",
+        "C07",
+        "C14",
+        "C23"
+      ],
+      "locator": "p.10、13、18、27、28",
+      "reliability": "原始资料",
+      "limitations": "财务为集团按IP确认收入；内容效果是公司自述，不证明独立因果。"
+    },
+    {
+      "evidence_id": "S02",
+      "title": "2026年中期业绩公告",
+      "publisher": "泡泡玛特／巨潮资讯载公告原件",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225484841.PDF",
+      "published_at": "2026-08-20",
+      "observed_at": "2026-10-19",
+      "source_type": "interim_announcement",
+      "access_status": "full",
+      "origin_family": "popmart-h12026",
+      "supports": [
+        "C08",
+        "C09",
+        "C15"
+      ],
+      "locator": "p.19、23、30–31",
+      "reliability": "原始资料",
+      "limitations": "中期未经审计；按IP收入不是授权收入或全行业市场规模。"
+    },
+    {
+      "evidence_id": "S03",
+      "title": "泡泡玛特孵化“星星人”降临世界",
+      "publisher": "上海证券报·中国证券网／同花顺转载",
+      "url": "https://stock.10jqka.com.cn/20250627/c669216651.shtml",
+      "published_at": "2025-06-27",
+      "observed_at": "2026-10-19",
+      "source_type": "creator_interview",
+      "access_status": "full",
+      "origin_family": "cnstock-daxin-20250627",
+      "supports": [
+        "C01",
+        "C03",
+        "C16",
+        "C17",
+        "C23"
+      ],
+      "locator": "正文及作者采访",
+      "reliability": "具名采访／媒体／公司发布，见局限",
+      "limitations": "创作动机及制作选择为作者回忆；粉丝例子经作者与记者转述，非直接采样。"
+    },
+    {
+      "evidence_id": "S04",
+      "title": "我们都是星星人首发微博",
+      "publisher": "POPMART泡泡玛特",
+      "url": "https://www.weibo.com/1726303567/OrutNoVif",
+      "published_at": "2024-08-09",
+      "observed_at": "2026-10-19",
+      "source_type": "official_social_post",
+      "access_status": "partial",
+      "origin_family": "popmart-launch-20240809",
+      "supports": [
+        "C04",
+        "C05",
+        "C17",
+        "C20",
+        "C27"
+      ],
+      "locator": "正文发售时间与转评赞活动",
+      "reliability": "原始资料",
+      "limitations": "正文可读，互动数字为搜索端缓存且日期不明，不能作为当前值；评论未加载。"
+    },
+    {
+      "evidence_id": "S05",
+      "title": "We are Twinkle Twinkle Series Figures",
+      "publisher": "POP MART US",
+      "url": "https://www.popmart.com/us/products/1448/we-are-twinkle-twinkle-series-figures-2406",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "official_product",
+      "access_status": "full",
+      "origin_family": "popmart-first-figures",
+      "supports": [
+        "C05",
+        "C10",
+        "C19",
+        "C22",
+        "C29",
+        "C31"
+      ],
+      "locator": "Product Details及款式图",
+      "reliability": "原始资料",
+      "limitations": "地区页标2024-08-16；网页SEO标题出现Labubu字样但面包屑及产品正文为Twinkle Twinkle，不能按SEO串词合并IP。"
+    },
+    {
+      "evidence_id": "S06",
+      "title": "我们都是星星人手办 POP NOW",
+      "publisher": "POP MART Singapore",
+      "url": "https://www.popmart.com/SG/pop-now/box-set/we-are-twinkle-twinkle-series-figures/4eb7be55-65ca-4f68-8fc7-0d4974fc70c4",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "official_product",
+      "access_status": "full",
+      "origin_family": "popmart-first-figures",
+      "supports": [
+        "C10",
+        "C11"
+      ],
+      "locator": "价格及DETAIL INFORMATION",
+      "reliability": "原始资料",
+      "limitations": "动态地区价格；非中国首发价。"
+    },
+    {
+      "evidence_id": "S07",
+      "title": "Colección ¡123! Figuras de Twinkle Twinkle",
+      "publisher": "POP MART Mexico",
+      "url": "https://www.popmart.com/mx/products/3703/colecci%C3%B3n-%C2%A1123!-figuras-de-twinkle-twinkle",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "official_product",
+      "access_status": "full",
+      "origin_family": "popmart-123-figures",
+      "supports": [
+        "C13",
+        "C17",
+        "C22",
+        "C29",
+        "C31"
+      ],
+      "locator": "款式图及规格",
+      "reliability": "原始资料",
+      "limitations": "页面写2025-04-18发售；当前CDN图片可能更新，不据CDN文件名判断图片创作或首发日期。"
+    },
+    {
+      "evidence_id": "S08",
+      "title": "We are Twinkle Twinkle Series-Plush Pendant Blind Box",
+      "publisher": "POP MART Australia",
+      "url": "https://www.popmart.com/au/products/we-are-twinkle-twinkle-series-plush-pendant-blind-box/264e361e-e856-4281-b52e-9a3b79a32da5",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "official_product",
+      "access_status": "full",
+      "origin_family": "popmart-plush",
+      "supports": [
+        "C12",
+        "C22"
+      ],
+      "locator": "Details及说明图",
+      "reliability": "原始资料",
+      "limitations": "产品图分片，现存片段不能补成完整正背视图；价格主区未返回。"
+    },
+    {
+      "evidence_id": "S09",
+      "title": "POP MART Our Artists: Daxin",
+      "publisher": "POP MART France",
+      "url": "https://www.popmart.com/en-FR?mobile=",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "official_artist_profile",
+      "access_status": "full",
+      "origin_family": "popmart-artist",
+      "supports": [
+        "C01",
+        "C02"
+      ],
+      "locator": "OUR ARTISTS: Daxin",
+      "reliability": "原始资料",
+      "limitations": "英语代词与中文采访存在不一致，本研究不据此断言性别；该页只列大欣，未解释阿力具体分工。"
+    },
+    {
+      "evidence_id": "S10",
+      "title": "星星人正在给泡泡玛特养新家",
+      "publisher": "虎嗅·苗正卿",
+      "url": "https://www.huxiu.com/article/4817135.html",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "reported_interview",
+      "access_status": "full",
+      "origin_family": "huxiu-park-2025",
+      "supports": [
+        "C18",
+        "C23"
+      ],
+      "locator": "正文乐园负责人采访及80%口径",
+      "reliability": "具名采访／媒体／公司发布，见局限",
+      "limitations": "可读正文未给明确发表日；80%是相关周边销售额环比，非整个IP收入增幅，原始统计未披露。"
+    },
+    {
+      "evidence_id": "S11",
+      "title": "鬼马“星星人”唤醒童心",
+      "publisher": "香港仔／大公文汇",
+      "url": "https://www.tkww.hk/epaper/view/newsDetail/1964722964595347456.html",
+      "published_at": "2025-09-08",
+      "observed_at": "2026-10-19",
+      "source_type": "media_report",
+      "access_status": "full",
+      "origin_family": "hker-20250908",
+      "supports": [
+        "C02"
+      ],
+      "locator": "正文及好梦气象局配图",
+      "reliability": "具名采访／媒体／公司发布，见局限",
+      "limitations": "联合创作与材质为媒体口径；二手叫价不是实际成交。"
+    },
+    {
+      "evidence_id": "S12",
+      "title": "POP TOY SHOW 2024艺术家阵容公告",
+      "publisher": "POP MART，经美通社发布",
+      "url": "https://www.prnewswire.com/apac/news-releases/walk-down-memory-lane-with-pop-marts-molly-at-her-first-ever-anniversary-statues-pop-up-store-in-singapore-302229238.html",
+      "published_at": "2024-08-23",
+      "observed_at": "2026-10-19",
+      "source_type": "company_press_release",
+      "access_status": "full",
+      "origin_family": "popmart-pts2024",
+      "supports": [
+        "C21"
+      ],
+      "locator": "Da Xin新加坡首次亮相段",
+      "reliability": "具名采访／媒体／公司发布，见局限",
+      "limitations": "企业新闻稿非独立媒体验证，不把通稿转载算多个来源。"
+    },
+    {
+      "evidence_id": "S13",
+      "title": "POP MART品牌介绍",
+      "publisher": "POP MART US",
+      "url": "https://www.popmart.com/us/brand-introduction",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "official_company_profile",
+      "access_status": "full",
+      "origin_family": "popmart-about",
+      "supports": [
+        "C19"
+      ],
+      "locator": "About及IP导航",
+      "reliability": "原始资料",
+      "limitations": "只能证明公司当前定位；融资历史需另核。"
+    },
+    {
+      "evidence_id": "S14",
+      "title": "Twinkle Twinkle The Moment Figure",
+      "publisher": "POP MART US",
+      "url": "https://www.popmart.com/us/products/5673/twinkle-twinkle-the-moment-figure",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "official_product",
+      "access_status": "full",
+      "origin_family": "popmart-moment",
+      "supports": [
+        "C24"
+      ],
+      "locator": "Product Details",
+      "reliability": "原始资料",
+      "limitations": "美国官网发售时区PST；不能自动视为全球首次发售。"
+    },
+    {
+      "evidence_id": "S15",
+      "title": "晚安，全宇宙：磨铁认证店商品与宣传页",
+      "publisher": "磨铁图书认证有赞店",
+      "url": "https://detail.youzan.com/show/goods?alias=26u1bya1ymuelrp&from_source=gbox_seo",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "official_book_product",
+      "access_status": "full",
+      "origin_family": "S15",
+      "locator": "页面正文／商品宣传图／仓库Markdown",
+      "supports": [
+        "C25",
+        "C27",
+        "C28",
+        "C29",
+        "C31"
+      ],
+      "reliability": "原始页面或书目／采访转载，见局限",
+      "limitations": "角色画集、首套典藏宣传、书封与代表内页、店铺品牌；不能当2020同期作品原件"
+    },
+    {
+      "evidence_id": "S16",
+      "title": "晚安，全宇宙：ISBN与读者短评",
+      "publisher": "豆瓣读书",
+      "url": "https://book.douban.com/subject/37202792/",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "book_catalog_and_reader_reviews",
+      "access_status": "full",
+      "origin_family": "S16",
+      "locator": "页面正文／商品宣传图／仓库Markdown",
+      "supports": [
+        "C25",
+        "C26",
+        "C27",
+        "C32"
+      ],
+      "reliability": "原始页面或书目／采访转载，见局限",
+      "limitations": "书目与5条页面可见短评；读者自述购买未核交易；评分为缓存不当成实时指标"
+    },
+    {
+      "evidence_id": "S17",
+      "title": "晚安，全宇宙（全二册）书目",
+      "publisher": "三民书店",
+      "url": "https://www.sanmin.com.tw/product/index/014184490",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "retailer_catalog",
+      "access_status": "full",
+      "origin_family": "S17",
+      "locator": "页面正文／商品宣传图／仓库Markdown",
+      "supports": [
+        "C25",
+        "C26",
+        "C27"
+      ],
+      "reliability": "原始页面或书目／采访转载，见局限",
+      "limitations": "列2024-12-30，与豆瓣2025-01-16有差异；未见版权页"
+    },
+    {
+      "evidence_id": "S18",
+      "title": "当星星人遇见时装：创作者采访转载",
+      "publisher": "搜狐号搭配师娜娜；文内署名凤梨苏等",
+      "url": "https://www.sohu.com/a/929979525_121948407",
+      "published_at": "2025-08-29",
+      "observed_at": "2026-10-19",
+      "source_type": "interview_repost",
+      "access_status": "full",
+      "origin_family": "S18",
+      "locator": "页面正文／商品宣传图／仓库Markdown",
+      "supports": [
+        "C30"
+      ],
+      "reliability": "原始页面或书目／采访转载，见局限",
+      "limitations": "具体工艺与开发周期为采访转载口径；原刊出处未确认，不能当官方工艺手册"
+    },
+    {
+      "evidence_id": "S19",
+      "title": "星星人之歌单曲发行元数据",
+      "publisher": "Apple Music",
+      "url": "https://music.apple.com/us/album/%E6%98%9F%E6%98%9F%E4%BA%BA%E4%B9%8B%E6%AD%8C-single/1870665559?l=zh-Hant-TW",
+      "published_at": "2025-07-04",
+      "observed_at": "2026-10-19",
+      "source_type": "music_release_metadata",
+      "access_status": "full",
+      "origin_family": "S19",
+      "locator": "页面正文／商品宣传图／仓库Markdown",
+      "supports": [
+        "C33"
+      ],
+      "reliability": "原始页面或书目／采访转载，见局限",
+      "limitations": "发行页元数据，不证明整套视觉角色版权归属或歌曲营销效果"
+    },
+    {
+      "evidence_id": "S20",
+      "title": "IP仓库当前Markdown工作流与参考",
+      "publisher": "用户GitHub仓库 ashlandkrug878-wq/ip",
+      "url": "https://github.com/ashlandkrug878-wq/ip",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "user_workflow",
+      "access_status": "full",
+      "origin_family": "S20",
+      "locator": "页面正文／商品宣传图／仓库Markdown",
+      "supports": [],
+      "reliability": "原始页面或书目／采访转载，见局限",
+      "limitations": "研究需求对照；对标速记及阈值不是外部已核实事实"
+    },
+    {
+      "evidence_id": "S21",
+      "title": "每天认识一个潮玩IP·第6期｜星星人，治愈",
+      "publisher": "小红书·温粥",
+      "url": "https://xhslink.cn/o/94u8hopTfUu",
+      "resolved_url": "https://www.xiaohongshu.com/explore/69e2fc310000000023013af9?xsec_token=CBkrlefcrrlQNm_6tOJ9QQxTCO23yuO0jwUlCrcoyEA5w=&xsec_source=app_share",
+      "published_at": null,
+      "displayed_date": "04-18（网页未显年份）",
+      "observed_at": "2026-10-19",
+      "source_type": "secondary_social_intro",
+      "access_status": "full",
+      "origin_family": "xhs-wenzhou-69e2fc31",
+      "supports": [
+        "C34"
+      ],
+      "locator": "浏览器实际阅读7/7图文；第2–4页起源设计，第6页数据，第7页结论",
+      "reliability": "非官方介绍，供研究线索；逐声明回溯",
+      "limitations": "起源接洽及签约口径有差异；初代手办数量与官方页冲突；配图未标明全部原始出处；平台指标仅单笔记"
+    },
+    {
+      "evidence_id": "S22",
+      "title": "星星人图鉴：盲盒吊卡大娃周边合集",
+      "publisher": "小红书·王小胖没烦恼",
+      "url": "https://xhslink.cn/o/Aq7YEvK07Zi",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "social_note",
+      "access_status": "partial",
+      "origin_family": "xhs-wangxiaopang",
+      "supports": [
+        "C35"
+      ],
+      "locator": "第1、2、4、7、10、13、16页及可见评论",
+      "reliability": "二手整理",
+      "limitations": "共16页，抽读7页；日期09-28年份未显示；作者自述漏项"
+    },
+    {
+      "evidence_id": "S23",
+      "title": "Farm Tales搪胶毛绒挂件",
+      "publisher": "POP MART US",
+      "url": "https://www.popmart.com/us/products/8601?isAppShare=true",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "official_product",
+      "access_status": "full",
+      "origin_family": "popmart-product-S23",
+      "supports": [
+        "C35"
+      ],
+      "locator": "Product Details与款式图标题",
+      "reliability": "原始资料",
+      "limitations": "美区日期与规格，不代表中国首发"
+    },
+    {
+      "evidence_id": "S24",
+      "title": "MOON GELATO冰淇淋毛绒挂件",
+      "publisher": "POP MART日本",
+      "url": "https://www.popmart.com/jp/pop-now/box-set/twinkle-twinkle-moon-gelato-/c560ee2c-4ea0-4aad-a7f6-3ad858f98ad7",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "official_product",
+      "access_status": "full",
+      "origin_family": "popmart-product-S24",
+      "supports": [
+        "C35"
+      ],
+      "locator": "詳細情報",
+      "reliability": "原始资料",
+      "limitations": "未确认中国发售日期"
+    },
+    {
+      "evidence_id": "S25",
+      "title": "星星人官方地区产品目录",
+      "publisher": "POP MART墨西哥",
+      "url": "https://www.popmart.com/es-MX/collection/twinkle-twinkle",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "official_catalog",
+      "access_status": "full",
+      "origin_family": "popmart-product-S25",
+      "supports": [
+        "C35"
+      ],
+      "locator": "产品列表与品类",
+      "reliability": "原始资料",
+      "limitations": "地区目录非中国全量历史清单"
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "C01",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "创作起源年份",
+      "value": 2020,
+      "unit": "年",
+      "market": "中国／全球资料",
+      "valid_time": "2020",
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S03",
+        "S09"
+      ],
+      "information_type": "self_report",
+      "confidence": "high",
+      "limitations": "事后自述；最早公开原帖尚未定位。"
+    },
+    {
+      "claim_id": "C02",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "创作者公开归属",
+      "value": "官方作者页列大欣；媒体同时列大欣与阿力",
+      "unit": null,
+      "market": "中国／全球资料",
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S09",
+        "S11"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": "双方具体贡献、版权合同及商标注册主体待核。"
+    },
+    {
+      "claim_id": "C03",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "泡泡玛特接洽年份",
+      "value": 2023,
+      "unit": "年",
+      "market": "中国／全球资料",
+      "valid_time": "2023",
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S03"
+      ],
+      "information_type": "self_report",
+      "confidence": "high",
+      "limitations": "接洽记录不等于合同签署日。"
+    },
+    {
+      "claim_id": "C04",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "首套手办中国线上发售",
+      "value": "2024-08-15T22:00:00+08:00",
+      "unit": null,
+      "market": "中国",
+      "valid_time": "2024-08-15",
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S04"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": null
+    },
+    {
+      "claim_id": "C05",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "首套手办线下发售",
+      "value": "2024-08-16",
+      "unit": null,
+      "market": "中国／全球资料",
+      "valid_time": "2024-08-16",
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S04",
+        "S05"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": "美国产品页同列8月16日，勿强行合并为全球唯一时刻。"
+    },
+    {
+      "claim_id": "C06",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "泡泡玛特按IP划分收入",
+      "value": 120788000,
+      "unit": "CNY",
+      "market": "中国／全球资料",
+      "valid_time": "2024",
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S01"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": "集团财报确认收入，非作者所得、授权收入或全市场零售额。"
+    },
+    {
+      "claim_id": "C07",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "泡泡玛特按IP划分收入",
+      "value": 2055580000,
+      "unit": "CNY",
+      "market": "中国／全球资料",
+      "valid_time": "2025",
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S01"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": "集团财报确认收入，非作者所得、授权收入或全市场零售额。"
+    },
+    {
+      "claim_id": "C08",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "泡泡玛特按IP划分收入",
+      "value": 389363000,
+      "unit": "CNY",
+      "market": "中国／全球资料",
+      "valid_time": "2025-H1",
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S02"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": "集团财报确认收入，非作者所得、授权收入或全市场零售额。"
+    },
+    {
+      "claim_id": "C09",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "泡泡玛特按IP划分收入",
+      "value": 2649969000,
+      "unit": "CNY",
+      "market": "中国／全球资料",
+      "valid_time": "2026-H1",
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S02"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": "集团财报确认收入，非作者所得、授权收入或全市场零售额。"
+    },
+    {
+      "claim_id": "C10",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "首系列手办规格",
+      "value": {
+        "height_cm": [
+          7.5,
+          9
+        ],
+        "materials": [
+          "ABS",
+          "PVC"
+        ]
+      },
+      "unit": null,
+      "market": "中国／全球资料",
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S05",
+        "S06"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": null
+    },
+    {
+      "claim_id": "C11",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "首系列新加坡当前单盒标价",
+      "value": 15.9,
+      "unit": "SGD",
+      "market": "新加坡",
+      "valid_time": "2026-10-19",
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S06"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": "观察时页面标价，非历史首发价；库存及价格可能变化。"
+    },
+    {
+      "claim_id": "C12",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "毛绒挂件材料",
+      "value": {
+        "shell": "100% polyester",
+        "stuffing": {
+          "polyester_pct": 80,
+          "PE_particles_pct": 20
+        },
+        "listed_size_cm": [
+          7.5,
+          5,
+          13
+        ]
+      },
+      "unit": null,
+      "market": "中国／全球资料",
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S08"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": "仅此SKU，不推及所有星星人毛绒或搪胶毛绒。"
+    },
+    {
+      "claim_id": "C13",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "123手办地区页规格",
+      "value": {
+        "release": "2025-04-18",
+        "height_cm": [
+          7.2,
+          10
+        ],
+        "materials": [
+          "PVC",
+          "ABS"
+        ]
+      },
+      "unit": null,
+      "market": "中国／全球资料",
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S07"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": "地区官网信息，图片版本日期未知。"
+    },
+    {
+      "claim_id": "C14",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "2025年加入明星朋友及开展歌曲与巡展内容",
+      "value": "加入POP MART Friends，推出歌曲、演出及系列主题展",
+      "unit": null,
+      "market": "中国／全球资料",
+      "valid_time": "2025",
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S01"
+      ],
+      "information_type": "self_report",
+      "confidence": "high",
+      "limitations": "公司披露，不据此估算增量销售归因。"
+    },
+    {
+      "claim_id": "C15",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "2026上半年场景拓展",
+      "value": "怦然星动主题展及阿那亚以星星人为核心的POP BAKERY门店",
+      "unit": null,
+      "market": "中国／全球资料",
+      "valid_time": "2026-H1",
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S02"
+      ],
+      "information_type": "self_report",
+      "confidence": "high",
+      "limitations": "不代表门店独立盈利或单IP新增收入。"
+    },
+    {
+      "claim_id": "C16",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "三维化制作选择",
+      "value": "插画转手办调整比例；毛绒简化并采用粒子填充",
+      "unit": null,
+      "market": "中国／全球资料",
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S03"
+      ],
+      "information_type": "self_report",
+      "confidence": "high",
+      "limitations": "作者采访；具体填充配比另见C12。"
+    },
+    {
+      "claim_id": "C17",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "内容机制研究归纳",
+      "value": "把脆弱、等待和小脾气放进可被观看的动作，允许成人表达暂时无力",
+      "unit": null,
+      "market": "中国／全球资料",
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S03",
+        "S04",
+        "S07"
+      ],
+      "information_type": "inference",
+      "confidence": "medium",
+      "limitations": "设计机制假设，不是已验证的全体粉丝动机。"
+    },
+    {
+      "claim_id": "C18",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "乐园内容与商品协同线索",
+      "value": "媒体转述2025年6月相关活动后周边商品销售额环比增长80%",
+      "unit": null,
+      "market": "中国／全球资料",
+      "valid_time": "2025-06",
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S10"
+      ],
+      "information_type": "self_report",
+      "confidence": "medium",
+      "limitations": "报告口径未说明分母、SKU、统计窗口；不能证明纯演出贡献。"
+    },
+    {
+      "claim_id": "C19",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "不是Nyota同一对象",
+      "value": "官网把TWINKLE TWINKLE与NYOTA分别列为独立IP",
+      "unit": null,
+      "market": "中国／全球资料",
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S13",
+        "S05"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": "不要按星星等相近译名合并。"
+    },
+    {
+      "claim_id": "C20",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "内容表达与参与活动的首发组合",
+      "value": "首发微博用鼓励性文案、角色账号提及、转评赞抽奖和线上线下时间表结合",
+      "unit": null,
+      "market": "中国／全球资料",
+      "valid_time": "2024-08-09",
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S04"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": "证明活动设置，不证明销量来自抽奖。"
+    },
+    {
+      "claim_id": "C21",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "国际早期亮相",
+      "value": "大欣与Twinkle Twinkle列入2024年8月新加坡PTS发布阵容",
+      "unit": null,
+      "market": "中国／全球资料",
+      "valid_time": "2024-08",
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S12"
+      ],
+      "information_type": "self_report",
+      "confidence": "high",
+      "limitations": "不据阵容公告推断销售规模。"
+    },
+    {
+      "claim_id": "C22",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "星星人美学分析",
+      "value": "角色的圆脸、脸颊色块及头部突出端点，在多主题里重复；表情和动作变化大",
+      "unit": null,
+      "market": "中国／全球资料",
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S05",
+        "S07",
+        "S08"
+      ],
+      "information_type": "inference",
+      "confidence": "medium",
+      "limitations": "基于I02–I05、I09可见样本；不是官方完整设定。"
+    },
+    {
+      "claim_id": "C23",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "增长机制候选",
+      "value": "内容情境、可触摸产品与现场人偶互相补足，降低理解门槛并增加接触场景",
+      "unit": null,
+      "market": "中国／全球资料",
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S03",
+        "S10",
+        "S01"
+      ],
+      "information_type": "hypothesis",
+      "confidence": "medium",
+      "limitations": "缺渠道控制组、用户漏斗和SKU贡献，不能拆分贡献权重。"
+    },
+    {
+      "claim_id": "C24",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "The Moment美国官网发售规格",
+      "value": {
+        "release": "2026-01-22T18:00:00-08:00",
+        "size_cm": [
+          8.9,
+          9.4
+        ],
+        "materials": [
+          "PVC",
+          "ABS"
+        ]
+      },
+      "unit": null,
+      "market": "美国",
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S14"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": null
+    },
+    {
+      "claim_id": "C25",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "正式画集书目信息",
+      "value": {
+        "title": "晚安，全宇宙",
+        "subtitle": "100个星星人的故事",
+        "author": "大欣绘著",
+        "isbn": "9787213117176",
+        "publisher": "浙江人民出版社",
+        "producer": "磨铁有狐"
+      },
+      "unit": null,
+      "market": "中国／公开资料",
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S15",
+        "S16",
+        "S17"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": "版权页未见，出品方由书目及品牌宣传交叉核对。"
+    },
+    {
+      "claim_id": "C26",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "实体出版日期冲突",
+      "value": {
+        "sanmin": "2024-12-30",
+        "douban": "2025-01-16"
+      },
+      "unit": null,
+      "market": "中国／公开资料",
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S16",
+        "S17"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": "保留渠道原值；不能认定任何一个为版权页首版日，也不能倒填为2020年。"
+    },
+    {
+      "claim_id": "C27",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "画集与早期作品关系",
+      "value": "画集说明收录多年故事插画，并新增文字设定；本次查到的实体版晚于2024年8月手办首发",
+      "unit": null,
+      "market": "中国／公开资料",
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S04",
+        "S15",
+        "S16",
+        "S17"
+      ],
+      "information_type": "inference",
+      "confidence": "medium",
+      "limitations": "未查到更早ISBN版本，不等于不存在；不能说磨铁创造了IP。"
+    },
+    {
+      "claim_id": "C28",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "出版宣传内容",
+      "value": "宣传包含奇幻、人间、冬日、小小世界、星座、晚安与未熄星等章节，以及赠品与装帧设计",
+      "unit": null,
+      "market": "中国／公开资料",
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S15"
+      ],
+      "information_type": "self_report",
+      "confidence": "medium",
+      "limitations": "只读商品页代表样本，未阅读整本。"
+    },
+    {
+      "claim_id": "C29",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "造型跨媒介变化",
+      "value": "出版样本中偏星形外轮廓、尖端与脸颊关系明显；产品以圆脸和头套体积把它转成可触摸造型",
+      "unit": null,
+      "market": "中国／公开资料",
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S15",
+        "S05",
+        "S07"
+      ],
+      "information_type": "inference",
+      "confidence": "medium",
+      "limitations": "视觉分析，不证明插画人体结构或开发规范；同属后期样本，不能假作逐年演化序列。"
+    },
+    {
+      "claim_id": "C30",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "首套手办工艺与开发周期线索",
+      "value": "采访转载提及首系列约一年半开发，以及移印加擦色的油色工艺保留手绘感",
+      "unit": null,
+      "market": "中国／公开资料",
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S18"
+      ],
+      "information_type": "self_report",
+      "confidence": "medium",
+      "limitations": "尚待原刊或官方工艺资料核验；不可从渲染反推所有系列同工艺。"
+    },
+    {
+      "claim_id": "C31",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "色彩身份研究",
+      "value": "典型暖黄＋桃橘面部＋橘红颊色形成重复关系；灰蓝是选定SKU辅色，夜蓝与酒红更多是书封环境色",
+      "unit": null,
+      "market": "中国／公开资料",
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S15",
+        "S05",
+        "S07"
+      ],
+      "information_type": "inference",
+      "confidence": "medium",
+      "limitations": "图像观察；没有取得官方VI色卡。颜色跨款可变，具体HEX只是采样预览。"
+    },
+    {
+      "claim_id": "C32",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "公开可见读者反馈出现分化",
+      "value": "短评既有从小红书发现、闲时翻阅及支持签名版，也有喜欢画面但认为故事不足及纸张建议",
+      "unit": null,
+      "market": "中国／公开资料",
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S16"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": "实际可见5条定向样本；不能推及玩具购买者或全部粉丝。"
+    },
+    {
+      "claim_id": "C33",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "音乐发行元数据",
+      "value": {
+        "title": "星星人之歌",
+        "release_date": "2025-07-04",
+        "phonogram_owner": "北京泡泡玛特乐园管理有限公司"
+      },
+      "unit": null,
+      "market": "中国／公开资料",
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S19"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": "仅录音制品页面权利信息，不外推角色著作权。"
+    },
+    {
+      "claim_id": "C34",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "用户分享笔记研究核查",
+      "value": {
+        "read_pages": 7,
+        "author": "温粥",
+        "conflicts": [
+          "第4页初代手办6款与官方9盒不一致",
+          "第2页2024正式签约不能覆盖2023接洽记录"
+        ],
+        "lead_only": [
+          "创作者本名及毕业院校未追到原始出处",
+          "销量破万、平台排名和二手溢价需各自原始口径",
+          "配图身份不明，不用于官方技术设定"
+        ]
+      },
+      "unit": null,
+      "market": "中国／小红书",
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S21",
+        "S05",
+        "S06",
+        "S03"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": "事实是笔记中存在这些说法及冲突，不是确认其中未核实内容属实。"
+    },
+    {
+      "claim_id": "C35",
+      "subject_id": "twinkle-twinkle",
+      "predicate": "产品图鉴交叉核验",
+      "value": {
+        "sampled_pages": [
+          1,
+          2,
+          4,
+          7,
+          10,
+          13,
+          16
+        ],
+        "total_pages": 16,
+        "first_figures": "9常规＋隐藏，官方支持图鉴而非介绍笔记6款",
+        "farm": "官方美区2026-08-20 19:00 PST；13–18cm不含织带；部分填充含粘土粒子",
+        "moon_gelato": "日本官方4常规＋1隐藏；约11.3cm；含磁铁及铁",
+        "functional_categories": "地区官方目录确认手机配件、杯、靠枕、卡夹等",
+        "completeness": "作者自述漏项，未建立全量SKU库"
+      },
+      "unit": null,
+      "market": "中国社媒／美日墨官方样本",
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S22",
+        "S23",
+        "S24",
+        "S25",
+        "S04",
+        "S05",
+        "S07"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": "陈述限于各页直接显示内容；不同地区日期不合并；未逐格核实全16页。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "T01",
+      "date": "2020",
+      "date_precision": "year_or_period",
+      "subject_ids": [
+        "twinkle-twinkle"
+      ],
+      "description": "创作起源；最早公开原帖待查",
+      "change": null,
+      "evidence_ids": [
+        "S03",
+        "S09"
+      ],
+      "mechanism": null,
+      "alternative_explanations": []
+    },
+    {
+      "event_id": "T02",
+      "date": "2023",
+      "date_precision": "year_or_period",
+      "subject_ids": [
+        "twinkle-twinkle"
+      ],
+      "description": "泡泡玛特接洽创作者；签约确日未知",
+      "change": null,
+      "evidence_ids": [
+        "S03"
+      ],
+      "mechanism": null,
+      "alternative_explanations": []
+    },
+    {
+      "event_id": "T03",
+      "date": "2024-08-15",
+      "date_precision": "day",
+      "subject_ids": [
+        "twinkle-twinkle"
+      ],
+      "description": "中国首套手办线上22时发售",
+      "change": null,
+      "evidence_ids": [
+        "S04"
+      ],
+      "mechanism": null,
+      "alternative_explanations": []
+    },
+    {
+      "event_id": "T04",
+      "date": "2024-08-16",
+      "date_precision": "day",
+      "subject_ids": [
+        "twinkle-twinkle"
+      ],
+      "description": "首套手办线下发售／美区产品日期",
+      "change": null,
+      "evidence_ids": [
+        "S04",
+        "S05"
+      ],
+      "mechanism": null,
+      "alternative_explanations": []
+    },
+    {
+      "event_id": "T05",
+      "date": "2024-08",
+      "date_precision": "year_or_period",
+      "subject_ids": [
+        "twinkle-twinkle"
+      ],
+      "description": "新加坡PTS艺术家阵容出现大欣与星星人",
+      "change": null,
+      "evidence_ids": [
+        "S12"
+      ],
+      "mechanism": null,
+      "alternative_explanations": []
+    },
+    {
+      "event_id": "T06",
+      "date": "2025-04-18",
+      "date_precision": "day",
+      "subject_ids": [
+        "twinkle-twinkle"
+      ],
+      "description": "123手办墨西哥页列发售日",
+      "change": null,
+      "evidence_ids": [
+        "S07"
+      ],
+      "mechanism": null,
+      "alternative_explanations": []
+    },
+    {
+      "event_id": "T07",
+      "date": "2025",
+      "date_precision": "year_or_period",
+      "subject_ids": [
+        "twinkle-twinkle"
+      ],
+      "description": "人偶、音乐和主题展扩大接触场景",
+      "change": null,
+      "evidence_ids": [
+        "S01"
+      ],
+      "mechanism": null,
+      "alternative_explanations": [
+        "活动同期有新品、供给和渠道变化，待核"
+      ]
+    },
+    {
+      "event_id": "T08",
+      "date": "2026-H1",
+      "date_precision": "year_or_period",
+      "subject_ids": [
+        "twinkle-twinkle"
+      ],
+      "description": "主题展和烘焙门店拓展",
+      "change": null,
+      "evidence_ids": [
+        "S02"
+      ],
+      "mechanism": null,
+      "alternative_explanations": [
+        "活动同期有新品、供给和渠道变化，待核"
+      ]
+    },
+    {
+      "event_id": "T09",
+      "date": "2024-12／2025-01",
+      "date_precision": "conflicting_catalog_dates",
+      "subject_ids": [
+        "twinkle-twinkle"
+      ],
+      "description": "正式画集集结，两个书目日期并存；早于／晚于的判断以首套手办2024-08为参照",
+      "change": "增加文字、内容集结与纸质衍生品",
+      "evidence_ids": [
+        "S15",
+        "S16",
+        "S17"
+      ],
+      "mechanism": "内容资产整理，效果待验证",
+      "alternative_explanations": []
+    },
+    {
+      "event_id": "T10",
+      "date": "2025-07-04",
+      "date_precision": "day",
+      "subject_ids": [
+        "twinkle-twinkle"
+      ],
+      "description": "星星人之歌发行元数据",
+      "change": "扩展声音载体",
+      "evidence_ids": [
+        "S19"
+      ],
+      "mechanism": null,
+      "alternative_explanations": []
+    }
+  ],
+  "products": [
+    {
+      "product_id": "P01",
+      "subject_id": "twinkle-twinkle",
+      "name": "我们都是星星人系列手办",
+      "series": "We are Twinkle Twinkle",
+      "released_at": "2024-08-15／16（中国线上／线下）",
+      "market": "中国；规格参照美区；价格为新加坡",
+      "category": "手办盲盒",
+      "size": "高7.5–9cm",
+      "materials": [
+        "PVC",
+        "ABS"
+      ],
+      "material_basis": "official",
+      "price": 15.9,
+      "currency": "SGD",
+      "price_observed_at": "2026-10-19",
+      "channel": "官方门店／官网／POP NOW",
+      "usage_scenarios": [
+        "桌面陈列",
+        "礼赠",
+        "收藏"
+      ],
+      "evidence_ids": [
+        "S04",
+        "S05",
+        "S06"
+      ]
+    },
+    {
+      "product_id": "P02",
+      "subject_id": "twinkle-twinkle",
+      "name": "123!系列手办",
+      "series": "123!",
+      "released_at": "2025-04-18",
+      "market": "墨西哥官网规格",
+      "category": "手办",
+      "size": "高7.2–10cm",
+      "materials": [
+        "PVC",
+        "ABS"
+      ],
+      "material_basis": "official",
+      "price": null,
+      "currency": null,
+      "price_observed_at": null,
+      "channel": "官方地区站",
+      "usage_scenarios": [
+        "情境陈列",
+        "收藏"
+      ],
+      "evidence_ids": [
+        "S07"
+      ]
+    },
+    {
+      "product_id": "P03",
+      "subject_id": "twinkle-twinkle",
+      "name": "我们都是星星人毛绒挂件盲盒",
+      "series": "We are Twinkle Twinkle",
+      "released_at": null,
+      "market": "澳大利亚官网规格",
+      "category": "毛绒挂件",
+      "size": "页面列7.5×5×13cm",
+      "materials": [
+        "外壳100%聚酯纤维",
+        "填充80%聚酯纤维＋20%PE粒子"
+      ],
+      "material_basis": "official",
+      "price": null,
+      "currency": null,
+      "price_observed_at": null,
+      "channel": "官方地区站",
+      "usage_scenarios": [
+        "包挂",
+        "手持触摸",
+        "随行"
+      ],
+      "evidence_ids": [
+        "S08"
+      ]
+    },
+    {
+      "product_id": "P04",
+      "subject_id": "twinkle-twinkle",
+      "name": "好梦气象局系列毛绒挂件",
+      "series": "好梦气象局",
+      "released_at": null,
+      "market": "中国媒体样本",
+      "category": "毛绒挂件",
+      "size": null,
+      "materials": [
+        "报道提及扎染与超长毛，具体纤维待官方规格"
+      ],
+      "material_basis": "media_report",
+      "price": null,
+      "currency": null,
+      "price_observed_at": null,
+      "channel": "待核",
+      "usage_scenarios": [
+        "包挂",
+        "造型展示"
+      ],
+      "evidence_ids": [
+        "S11"
+      ]
+    },
+    {
+      "product_id": "P05",
+      "subject_id": "twinkle-twinkle",
+      "name": "The Moment Figure",
+      "series": null,
+      "released_at": "2026-01-22T18:00:00-08:00",
+      "market": "美国",
+      "category": "手办",
+      "size": "8.9×9.4cm",
+      "materials": [
+        "PVC",
+        "ABS"
+      ],
+      "material_basis": "official",
+      "price": null,
+      "currency": null,
+      "price_observed_at": null,
+      "channel": "美国官网",
+      "usage_scenarios": [
+        "桌面陈列"
+      ],
+      "evidence_ids": [
+        "S14"
+      ]
+    },
+    {
+      "product_id": "P06",
+      "subject_id": "twinkle-twinkle",
+      "name": "晚安，全宇宙（全2册）",
+      "series": "100个星星人的故事",
+      "released_at": null,
+      "market": "中国简体版",
+      "category": "插画集／绘本内容商品",
+      "size": "尺寸口径冲突，见B01",
+      "materials": [
+        "纸张，具体纸种待核"
+      ],
+      "material_basis": "publisher_promotion_and_catalog",
+      "price": 158,
+      "currency": "CNY",
+      "price_observed_at": "2026-10-19",
+      "channel": "磨铁认证店／书店",
+      "usage_scenarios": [
+        "阅读",
+        "收藏",
+        "赠品收集"
+      ],
+      "evidence_ids": [
+        "S15",
+        "S16",
+        "S17"
+      ]
+    }
+  ],
+  "accounts": [
+    {
+      "account_id": "A01",
+      "subject_id": "popmart",
+      "platform": "微博",
+      "name": "POPMART泡泡玛特",
+      "url": "https://weibo.com/1726303567",
+      "ownership_status": "首发公告发布主体已确认",
+      "followers": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S04"
+      ],
+      "limitations": "可见缓存粉丝数没有可靠观测日，不当作当日指标；这是公司品牌号不是IP粉丝量"
+    },
+    {
+      "account_id": "A02",
+      "subject_id": "twinkle-twinkle",
+      "platform": "微博",
+      "name": "TwinkleTwinkle星星人",
+      "url": "https://weibo.com/n/TwinkleTwinkle%E6%98%9F%E6%98%9F%E4%BA%BA",
+      "ownership_status": "由官方首发微博提及，主页未成功读取",
+      "followers": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "S04"
+      ],
+      "limitations": "具体认证归属与近期内容未核实，不猜粉丝量"
+    }
+  ],
+  "content_samples": [
+    {
+      "content_id": "N01",
+      "account_id": "A01",
+      "url": "https://www.weibo.com/1726303567/OrutNoVif",
+      "published_at": "2024-08-09T18:00:00+08:00",
+      "format": "首发图文",
+      "theme": "微弱光点与鼓励、发售通知、互动抽奖",
+      "metrics": null,
+      "observed_at": "2026-10-19",
+      "selection_method": "历史关键事件定向样本，非近期连续抽样",
+      "evidence_ids": [
+        "S04"
+      ]
+    }
+  ],
+  "user_evidence": [
+    {
+      "user_evidence_id": "U01",
+      "group": "情绪低落的观看者",
+      "scenario": "路过门店看到角色",
+      "expression": "作者在采访中回忆一位女生曾将自己的状态与角色对应",
+      "behavior": "发生情绪共鸣；是否购买未知",
+      "need_interpretation": "可能是被理解／情绪投射",
+      "counterexample": null,
+      "source_url": "https://stock.10jqka.com.cn/20250627/c669216651.shtml",
+      "observed_at": "2026-10-19",
+      "sampling_method": "作者挑选后经媒体转述，n=1",
+      "directness": "indirect",
+      "evidence_ids": [
+        "S03"
+      ],
+      "limitations": "不是原始评论，无法核查完整语境及代表性"
+    },
+    {
+      "user_evidence_id": "U02",
+      "group": "现场演出粉丝",
+      "scenario": "北京泡泡玛特城市乐园",
+      "expression": "记者现场描述有游客专程为星星人到访",
+      "behavior": "到园观看演出",
+      "need_interpretation": "可能包含关系感与现场陪伴需求",
+      "counterexample": null,
+      "source_url": "https://www.huxiu.com/article/4817135.html",
+      "observed_at": "2026-10-19",
+      "sampling_method": "具名媒体现场报道，人数与选择方法未披露",
+      "directness": "indirect",
+      "evidence_ids": [
+        "S10"
+      ],
+      "limitations": "未直接访问受访者；无法从到访推出购物复购"
+    },
+    {
+      "user_evidence_id": "U03",
+      "group": "公开书评用户",
+      "scenario": "画集阅读／收藏",
+      "expression": "自述从小红书推荐认识、预售等待后读上册",
+      "behavior": "发现→书籍购买自述",
+      "need_interpretation": "社媒发现及内容陪伴",
+      "counterexample": null,
+      "source_url": "https://book.douban.com/subject/37202792/",
+      "observed_at": "2026-10-19",
+      "published_at": "2025-01-18",
+      "author_display_name": "南风疯啊",
+      "sampling_method": "同一书目页面可见5条短评中按发现、反例、收藏三类各选1条，非随机",
+      "directness": "direct_public_statement",
+      "evidence_ids": [
+        "S16"
+      ],
+      "limitations": "未核真实订单；样本小且平台单一"
+    },
+    {
+      "user_evidence_id": "U04",
+      "group": "公开书评用户",
+      "scenario": "画集阅读／收藏",
+      "expression": "认为画面可爱，但对故事评价较低",
+      "behavior": "阅读后表达褒贬分化",
+      "need_interpretation": "视觉喜好与叙事偏好不能互代",
+      "counterexample": null,
+      "source_url": "https://book.douban.com/subject/37202792/",
+      "observed_at": "2026-10-19",
+      "published_at": "2025-02-08",
+      "author_display_name": "思想实验",
+      "sampling_method": "同一书目页面可见5条短评中按发现、反例、收藏三类各选1条，非随机",
+      "directness": "direct_public_statement",
+      "evidence_ids": [
+        "S16"
+      ],
+      "limitations": "未核真实订单；样本小且平台单一"
+    },
+    {
+      "user_evidence_id": "U05",
+      "group": "公开书评用户",
+      "scenario": "画集阅读／收藏",
+      "expression": "自述支持签名版，喜欢随书物料，也提出纸张可改进",
+      "behavior": "收藏购买自述及产品反馈",
+      "need_interpretation": "收藏／支持作者与物理品质并存",
+      "counterexample": null,
+      "source_url": "https://book.douban.com/subject/37202792/",
+      "observed_at": "2026-10-19",
+      "published_at": "2025-01-17",
+      "author_display_name": "林深不见狐",
+      "sampling_method": "同一书目页面可见5条短评中按发现、反例、收藏三类各选1条，非随机",
+      "directness": "direct_public_statement",
+      "evidence_ids": [
+        "S16"
+      ],
+      "limitations": "未核真实订单；样本小且平台单一"
+    }
+  ],
+  "images": [
+    {
+      "image_id": "I02",
+      "subject_id": "twinkle-twinkle",
+      "title": "Waiting for You／等信情境",
+      "type": "标准产品情境",
+      "product_ids": [
+        "P01"
+      ],
+      "event_ids": [],
+      "version": "采集时页面版本；图片制作日未知",
+      "creator_or_brand": "POP MART／原图片权利人",
+      "source_page_url": "https://www.popmart.com/us/products/1448/we-are-twinkle-twinkle-series-figures-2406",
+      "original_image_url": "https://global-static.popmart.com/globalAdmin/1723451648896____waiting-for-you____.png",
+      "observed_at": "2026-10-19",
+      "page_published_at": null,
+      "product_released_at": null,
+      "image_created_at": null,
+      "rights": "原作者及品牌／媒体保留权利；本次私人研究留存；未取得公开网站再分发许可",
+      "source_class": "official",
+      "selection_reason": "圆脸黄头套、垂眼、信件与邮筒，把等待写成动作。",
+      "save_status": "reference_only",
+      "local_path": null,
+      "sha256": "695706bfbc13080cb40279c99b62bb1f9b79f39ef874b941361b80d3455d867d",
+      "evidence_ids": [
+        "S05"
+      ],
+      "saved_private_path": "assets/I02.png",
+      "storage_status": "reference_only",
+      "public_display_url": "https://global-static.popmart.com/globalAdmin/1723451648896____waiting-for-you____.png"
+    },
+    {
+      "image_id": "I03",
+      "subject_id": "twinkle-twinkle",
+      "title": "Mal Genio／小脾气造型",
+      "type": "系列产品",
+      "product_ids": [
+        "P02"
+      ],
+      "event_ids": [],
+      "version": "采集时页面版本；图片制作日未知",
+      "creator_or_brand": "POP MART／原图片权利人",
+      "source_page_url": "https://www.popmart.com/mx/products/3703/colecci%C3%B3n-%C2%A1123!-figuras-de-twinkle-twinkle",
+      "original_image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787291706406_a365144942c74b86433a0af1c63446cb.jpg",
+      "observed_at": "2026-10-19",
+      "page_published_at": null,
+      "product_released_at": null,
+      "image_created_at": null,
+      "rights": "原作者及品牌／媒体保留权利；本次私人研究留存；未取得公开网站再分发许可",
+      "source_class": "official",
+      "selection_reason": "圆锥帽与禁止打扰牌；头顶仍有星形小角色，皱眉和鼓嘴表达拒绝。",
+      "save_status": "reference_only",
+      "local_path": null,
+      "sha256": "d11bc9f6e2c0424d8d6b9f0d83f03b77e95a73c31ddadfa46474d27cfb3f7635",
+      "evidence_ids": [
+        "S07"
+      ],
+      "saved_private_path": "assets/I03.jpg",
+      "storage_status": "reference_only",
+      "public_display_url": "https://prod-global-biz.popmart.com/globalAdmin/1787291706406_a365144942c74b86433a0af1c63446cb.jpg"
+    },
+    {
+      "image_id": "I04",
+      "subject_id": "twinkle-twinkle",
+      "title": "Diente Caído／恐龙睡衣造型",
+      "type": "系列产品",
+      "product_ids": [
+        "P02"
+      ],
+      "event_ids": [],
+      "version": "采集时页面版本；图片制作日未知",
+      "creator_or_brand": "POP MART／原图片权利人",
+      "source_page_url": "https://www.popmart.com/mx/products/3703/colecci%C3%B3n-%C2%A1123!-figuras-de-twinkle-twinkle",
+      "original_image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787291745017_04f34a6bd9023456c4992a14198e0146.jpg",
+      "observed_at": "2026-10-19",
+      "page_published_at": null,
+      "product_released_at": null,
+      "image_created_at": null,
+      "rights": "原作者及品牌／媒体保留权利；本次私人研究留存；未取得公开网站再分发许可",
+      "source_class": "official",
+      "selection_reason": "绿色恐龙套装、向上视线、眼下蓝色泪滴、粉色小玩偶；小嘴表情脆弱。",
+      "save_status": "reference_only",
+      "local_path": null,
+      "sha256": "0bbec1337a0e6c16e4b38e798485deb6a181241b1d1e40c9458d8993cd231994",
+      "evidence_ids": [
+        "S07"
+      ],
+      "saved_private_path": "assets/I04.jpg",
+      "storage_status": "reference_only",
+      "public_display_url": "https://prod-global-biz.popmart.com/globalAdmin/1787291745017_04f34a6bd9023456c4992a14198e0146.jpg"
+    },
+    {
+      "image_id": "I05",
+      "subject_id": "twinkle-twinkle",
+      "title": "¡Despierta, dormilón!／叫醒造型",
+      "type": "系列产品",
+      "product_ids": [
+        "P02"
+      ],
+      "event_ids": [],
+      "version": "采集时页面版本；图片制作日未知",
+      "creator_or_brand": "POP MART／原图片权利人",
+      "source_page_url": "https://www.popmart.com/mx/products/3703/colecci%C3%B3n-%C2%A1123!-figuras-de-twinkle-twinkle",
+      "original_image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787291751196_63f88220b9aecdf1afd3460625d30724.jpg",
+      "observed_at": "2026-10-19",
+      "page_published_at": null,
+      "product_released_at": null,
+      "image_created_at": null,
+      "rights": "原作者及品牌／媒体保留权利；本次私人研究留存；未取得公开网站再分发许可",
+      "source_class": "official",
+      "selection_reason": "黄色闹钟形身体、蓝胡子红鼻、斜倚动作和顶端星；动态而非固定呆脸。",
+      "save_status": "reference_only",
+      "local_path": null,
+      "sha256": "5a9c50474ab3ac815c7e6340f5767ae72cf1fd98b9a8d05c45dcc2b3a73ceed3",
+      "evidence_ids": [
+        "S07"
+      ],
+      "saved_private_path": "assets/I05.jpg",
+      "storage_status": "reference_only",
+      "public_display_url": "https://prod-global-biz.popmart.com/globalAdmin/1787291751196_63f88220b9aecdf1afd3460625d30724.jpg"
+    },
+    {
+      "image_id": "I07",
+      "subject_id": "twinkle-twinkle",
+      "title": "毛绒挂件系列题头",
+      "type": "产品宣传局部",
+      "product_ids": [
+        "P03"
+      ],
+      "event_ids": [],
+      "version": "采集时页面版本；图片制作日未知",
+      "creator_or_brand": "POP MART／原图片权利人",
+      "source_page_url": "https://www.popmart.com/au/products/we-are-twinkle-twinkle-series-plush-pendant-blind-box/264e361e-e856-4281-b52e-9a3b79a32da5",
+      "original_image_url": "https://prod-eurasian-res.popmart.com/default/20250509_151253_199457_____01_____1200x668.jpg",
+      "observed_at": "2026-10-19",
+      "page_published_at": null,
+      "product_released_at": null,
+      "image_created_at": null,
+      "rights": "原作者及品牌／媒体保留权利；本次私人研究留存；未取得公开网站再分发许可",
+      "source_class": "official",
+      "selection_reason": "系列名称与毛绒类别；不作为完整角色设定。",
+      "save_status": "reference_only",
+      "local_path": null,
+      "sha256": "df2811653a67f2721704fd86c1ebe15fde482dae71185e0a11e54a43f846f654",
+      "evidence_ids": [
+        "S08"
+      ],
+      "saved_private_path": "assets/I07.jpg",
+      "storage_status": "reference_only",
+      "public_display_url": "https://prod-eurasian-res.popmart.com/default/20250509_151253_199457_____01_____1200x668.jpg"
+    },
+    {
+      "image_id": "I08",
+      "subject_id": "twinkle-twinkle",
+      "title": "挂环与织带局部",
+      "type": "产品结构局部",
+      "product_ids": [
+        "P03"
+      ],
+      "event_ids": [],
+      "version": "采集时页面版本；图片制作日未知",
+      "creator_or_brand": "POP MART／原图片权利人",
+      "source_page_url": "https://www.popmart.com/au/products/we-are-twinkle-twinkle-series-plush-pendant-blind-box/264e361e-e856-4281-b52e-9a3b79a32da5",
+      "original_image_url": "https://prod-eurasian-res.popmart.com/default/20250509_151253_104704_____02_____1200x538.jpg",
+      "observed_at": "2026-10-19",
+      "page_published_at": null,
+      "product_released_at": null,
+      "image_created_at": null,
+      "rights": "原作者及品牌／媒体保留权利；本次私人研究留存；未取得公开网站再分发许可",
+      "source_class": "official",
+      "selection_reason": "可见黄色挂环织带、毛绒突起；画面截断不能推整体比例。",
+      "save_status": "reference_only",
+      "local_path": null,
+      "sha256": "0e25e6268f2b3a031a9f80a328deedf9720c467aede9f75f01280d5a57094028",
+      "evidence_ids": [
+        "S08"
+      ],
+      "saved_private_path": "assets/I08.jpg",
+      "storage_status": "reference_only",
+      "public_display_url": "https://prod-eurasian-res.popmart.com/default/20250509_151253_104704_____02_____1200x538.jpg"
+    },
+    {
+      "image_id": "I09",
+      "subject_id": "twinkle-twinkle",
+      "title": "毛绒挂件系列说明图",
+      "type": "产品宣传",
+      "product_ids": [
+        "P03"
+      ],
+      "event_ids": [],
+      "version": "采集时页面版本；图片制作日未知",
+      "creator_or_brand": "POP MART／原图片权利人",
+      "source_page_url": "https://www.popmart.com/au/products/we-are-twinkle-twinkle-series-plush-pendant-blind-box/264e361e-e856-4281-b52e-9a3b79a32da5",
+      "original_image_url": "https://prod-eurasian-res.popmart.com/default/20250509_151253_413057_____03_____1200x750.jpg",
+      "observed_at": "2026-10-19",
+      "page_published_at": null,
+      "product_released_at": null,
+      "image_created_at": null,
+      "rights": "原作者及品牌／媒体保留权利；本次私人研究留存；未取得公开网站再分发许可",
+      "source_class": "official",
+      "selection_reason": "黄色纺织毛绒、刺绣面部、短小四肢，含局部裁切，不能推背面。",
+      "save_status": "reference_only",
+      "local_path": null,
+      "sha256": "d7be3815ae075ad518cfc9ebaac3ddaeed7b856a25e8fe998fb2aba8bb14dc04",
+      "evidence_ids": [
+        "S08"
+      ],
+      "saved_private_path": "assets/I09.jpg",
+      "storage_status": "reference_only",
+      "public_display_url": "https://prod-eurasian-res.popmart.com/default/20250509_151253_413057_____03_____1200x750.jpg"
+    },
+    {
+      "image_id": "I10",
+      "subject_id": "twinkle-twinkle",
+      "title": "好梦气象局挂件",
+      "type": "媒体产品图",
+      "product_ids": [
+        "P04"
+      ],
+      "event_ids": [],
+      "version": "采集时页面版本；图片制作日未知",
+      "creator_or_brand": "POP MART／原图片权利人",
+      "source_page_url": "https://www.tkww.hk/epaper/view/newsDetail/1964722964595347456.html",
+      "original_image_url": "https://dw-media.tkww.hk/epaper/hker/20250908/TXT_JPG/p05-d.jpg",
+      "observed_at": "2026-10-19",
+      "page_published_at": null,
+      "product_released_at": null,
+      "image_created_at": null,
+      "rights": "原作者及品牌／媒体保留权利；本次私人研究留存；未取得公开网站再分发许可",
+      "source_class": "media",
+      "selection_reason": "天气主题版本对照：长毛、长腿、雨衣和雪人等形态；媒体图不足以确认量产细节。",
+      "save_status": "reference_only",
+      "local_path": null,
+      "sha256": "f5822aa1490faacd7b33e8e12a20512eadc6e406d2a7d89a70100a166c92fc2b",
+      "evidence_ids": [
+        "S11"
+      ],
+      "saved_private_path": "assets/I10.jpg",
+      "storage_status": "reference_only",
+      "public_display_url": "https://dw-media.tkww.hk/epaper/hker/20250908/TXT_JPG/p05-d.jpg"
+    },
+    {
+      "image_id": "I11",
+      "subject_id": "twinkle-twinkle",
+      "title": "出版封面",
+      "type": "出版宣传／代表插画",
+      "product_ids": [
+        "P06"
+      ],
+      "event_ids": [
+        "T09"
+      ],
+      "version": "采集时店铺宣传；内页创作日期未知",
+      "creator_or_brand": "大欣／磨铁有狐及原权利人",
+      "source_page_url": "https://detail.youzan.com/show/goods?alias=26u1bya1ymuelrp&from_source=gbox_seo",
+      "original_image_url": "https://img01.yzcdn.cn/upload_files/2024/12/19/Fh1dNjEh60Mnx_Bwom-bUxKLaYM-.jpg!middle.jpg",
+      "observed_at": "2026-10-19",
+      "page_published_at": null,
+      "product_released_at": null,
+      "image_created_at": null,
+      "rights": "研究引用，原权利人保留权利；未获公开网站再分发许可",
+      "source_class": "official_producer_shop",
+      "selection_reason": "画集封套及双册；夜蓝和酒红配金黄星纹、桃橘脸与黄色星体",
+      "save_status": "reference_only",
+      "local_path": null,
+      "sha256": "9f59df6ceb59a23c93439cd25a06d497bf6ee74f771e40e6f7409e2cb84e5325",
+      "evidence_ids": [
+        "S15"
+      ],
+      "saved_private_path": "assets/I11.jpg",
+      "storage_status": "reference_only",
+      "public_display_url": "https://img01.yzcdn.cn/upload_files/2024/12/19/Fh1dNjEh60Mnx_Bwom-bUxKLaYM-.jpg!middle.jpg"
+    },
+    {
+      "image_id": "I12",
+      "subject_id": "twinkle-twinkle",
+      "title": "画集宣传A",
+      "type": "出版宣传／代表插画",
+      "product_ids": [
+        "P06"
+      ],
+      "event_ids": [
+        "T09"
+      ],
+      "version": "采集时店铺宣传；内页创作日期未知",
+      "creator_or_brand": "大欣／磨铁有狐及原权利人",
+      "source_page_url": "https://detail.youzan.com/show/goods?alias=26u1bya1ymuelrp&from_source=gbox_seo",
+      "original_image_url": "https://img01.yzcdn.cn/upload_files/2024/12/19/FicISOtxx8A3FYBZCZtsOuhLOUll.png",
+      "observed_at": "2026-10-19",
+      "page_published_at": null,
+      "product_released_at": null,
+      "image_created_at": null,
+      "rights": "研究引用，原权利人保留权利；未获公开网站再分发许可",
+      "source_class": "official_producer_shop",
+      "selection_reason": "出版宣传、书封、首套典藏文字与奇幻样本",
+      "save_status": "reference_only",
+      "local_path": null,
+      "sha256": "3ade2830797e4e7017a24924fe6094909bfefd04ff1aeb222b2107b7c93ef1af",
+      "evidence_ids": [
+        "S15"
+      ],
+      "saved_private_path": "assets/I12.png",
+      "storage_status": "reference_only",
+      "public_display_url": "https://img01.yzcdn.cn/upload_files/2024/12/19/FicISOtxx8A3FYBZCZtsOuhLOUll.png"
+    },
+    {
+      "image_id": "I13",
+      "subject_id": "twinkle-twinkle",
+      "title": "画集宣传B",
+      "type": "出版宣传／代表插画",
+      "product_ids": [
+        "P06"
+      ],
+      "event_ids": [
+        "T09"
+      ],
+      "version": "采集时店铺宣传；内页创作日期未知",
+      "creator_or_brand": "大欣／磨铁有狐及原权利人",
+      "source_page_url": "https://detail.youzan.com/show/goods?alias=26u1bya1ymuelrp&from_source=gbox_seo",
+      "original_image_url": "https://img01.yzcdn.cn/upload_files/2024/12/19/FhW57u1D86j01axcsIop6K-H2RPd.png",
+      "observed_at": "2026-10-19",
+      "page_published_at": null,
+      "product_released_at": null,
+      "image_created_at": null,
+      "rights": "研究引用，原权利人保留权利；未获公开网站再分发许可",
+      "source_class": "official_producer_shop",
+      "selection_reason": "人间、冬日、小小世界、星座章节的代表插画；尖端星体与环境互动",
+      "save_status": "reference_only",
+      "local_path": null,
+      "sha256": "4e86a262c433ed9c3b36f286b3d60d4178eeea5d13138cf147fdb1f3af6fc009",
+      "evidence_ids": [
+        "S15"
+      ],
+      "saved_private_path": "assets/I13.png",
+      "storage_status": "reference_only",
+      "public_display_url": "https://img01.yzcdn.cn/upload_files/2024/12/19/FhW57u1D86j01axcsIop6K-H2RPd.png"
+    },
+    {
+      "image_id": "I14",
+      "subject_id": "twinkle-twinkle",
+      "title": "画集宣传C",
+      "type": "出版宣传／代表插画",
+      "product_ids": [
+        "P06"
+      ],
+      "event_ids": [
+        "T09"
+      ],
+      "version": "采集时店铺宣传；内页创作日期未知",
+      "creator_or_brand": "大欣／磨铁有狐及原权利人",
+      "source_page_url": "https://detail.youzan.com/show/goods?alias=26u1bya1ymuelrp&from_source=gbox_seo",
+      "original_image_url": "https://img01.yzcdn.cn/upload_files/2024/12/19/FrVwYKVqcNdoE4tAh4rtWslygudS.png",
+      "observed_at": "2026-10-19",
+      "page_published_at": null,
+      "product_released_at": null,
+      "image_created_at": null,
+      "rights": "研究引用，原权利人保留权利；未获公开网站再分发许可",
+      "source_class": "official_producer_shop",
+      "selection_reason": "晚安与未熄星章节、封套设计，深环境托亮主体",
+      "save_status": "reference_only",
+      "local_path": null,
+      "sha256": "512a44b1322df1e22dcaac41e319af46e013a4600a4dfb63a49a453ff76dc737",
+      "evidence_ids": [
+        "S15"
+      ],
+      "saved_private_path": "assets/I14.png",
+      "storage_status": "reference_only",
+      "public_display_url": "https://img01.yzcdn.cn/upload_files/2024/12/19/FrVwYKVqcNdoE4tAh4rtWslygudS.png"
+    },
+    {
+      "image_id": "I15",
+      "subject_id": "twinkle-twinkle",
+      "title": "装帧与赠品",
+      "type": "出版宣传／代表插画",
+      "product_ids": [
+        "P06"
+      ],
+      "event_ids": [
+        "T09"
+      ],
+      "version": "采集时店铺宣传；内页创作日期未知",
+      "creator_or_brand": "大欣／磨铁有狐及原权利人",
+      "source_page_url": "https://detail.youzan.com/show/goods?alias=26u1bya1ymuelrp&from_source=gbox_seo",
+      "original_image_url": "https://img01.yzcdn.cn/upload_files/2024/12/19/FkDk4kUNK-zqJgf-fp3b80TQa2he.png",
+      "observed_at": "2026-10-19",
+      "page_published_at": null,
+      "product_released_at": null,
+      "image_created_at": null,
+      "rights": "研究引用，原权利人保留权利；未获公开网站再分发许可",
+      "source_class": "official_producer_shop",
+      "selection_reason": "开本、平摊装帧和随书赠品宣传；不是手办设定页",
+      "save_status": "reference_only",
+      "local_path": null,
+      "sha256": "06483227ecb96393500604c9d1fa4f28cd914c2dcac1be2cacec9643e125e08f",
+      "evidence_ids": [
+        "S15"
+      ],
+      "saved_private_path": "assets/I15.png",
+      "storage_status": "reference_only",
+      "public_display_url": "https://img01.yzcdn.cn/upload_files/2024/12/19/FkDk4kUNK-zqJgf-fp3b80TQa2he.png"
+    },
+    {
+      "image_id": "I16",
+      "subject_id": "twinkle-twinkle",
+      "title": "作者与品牌",
+      "type": "出版宣传／代表插画",
+      "product_ids": [
+        "P06"
+      ],
+      "event_ids": [
+        "T09"
+      ],
+      "version": "采集时店铺宣传；内页创作日期未知",
+      "creator_or_brand": "大欣／磨铁有狐及原权利人",
+      "source_page_url": "https://detail.youzan.com/show/goods?alias=26u1bya1ymuelrp&from_source=gbox_seo",
+      "original_image_url": "https://img01.yzcdn.cn/upload_files/2024/12/19/Fv85Y5_WPSAeQGTIWj2jNCw5i9yB.png",
+      "observed_at": "2026-10-19",
+      "page_published_at": null,
+      "product_released_at": null,
+      "image_created_at": null,
+      "rights": "研究引用，原权利人保留权利；未获公开网站再分发许可",
+      "source_class": "official_producer_shop",
+      "selection_reason": "赠品与插画、作者署名及磨铁有狐标识；产品化文本证据",
+      "save_status": "reference_only",
+      "local_path": null,
+      "sha256": "ac13b094f59a841872d99c5e6be46772d6cefcb069a7f7e9c94c692bf1b6ffcd",
+      "evidence_ids": [
+        "S15"
+      ],
+      "saved_private_path": "assets/I16.png",
+      "storage_status": "reference_only",
+      "public_display_url": "https://img01.yzcdn.cn/upload_files/2024/12/19/Fv85Y5_WPSAeQGTIWj2jNCw5i9yB.png"
+    }
+  ],
+  "visual_analyses": [
+    {
+      "analysis_id": "V02",
+      "image_id": "I02",
+      "viewed": true,
+      "resolution_limit": "400×400，细节有限",
+      "observed_features": "圆脸黄头套、垂眼、信件与邮筒，把等待写成动作。",
+      "official_settings": null,
+      "interpretation": "先作为直接视觉记录；机制见方法卡，消费者感受待验证。",
+      "material_and_structure": "材质按对应SKU官方规格；图中光泽不能证明具体涂层工艺。",
+      "presentation": "官方情境宣传图；背景不是角色身份。",
+      "limitations": "不可见侧背面与内部结构不补；不将当前图片当首发原图。"
+    },
+    {
+      "analysis_id": "V03",
+      "image_id": "I03",
+      "viewed": true,
+      "resolution_limit": "800×800或来源局部；见图片",
+      "observed_features": "圆锥帽与禁止打扰牌；头顶仍有星形小角色，皱眉和鼓嘴表达拒绝。",
+      "official_settings": null,
+      "interpretation": "先作为直接视觉记录；机制见方法卡，消费者感受待验证。",
+      "material_and_structure": "材质按对应SKU官方规格；图中光泽不能证明具体涂层工艺。",
+      "presentation": "官方情境宣传图；背景不是角色身份。",
+      "limitations": "不可见侧背面与内部结构不补；不将当前图片当首发原图。"
+    },
+    {
+      "analysis_id": "V04",
+      "image_id": "I04",
+      "viewed": true,
+      "resolution_limit": "800×800或来源局部；见图片",
+      "observed_features": "绿色恐龙套装、向上视线、眼下蓝色泪滴、粉色小玩偶；小嘴表情脆弱。",
+      "official_settings": null,
+      "interpretation": "先作为直接视觉记录；机制见方法卡，消费者感受待验证。",
+      "material_and_structure": "材质按对应SKU官方规格；图中光泽不能证明具体涂层工艺。",
+      "presentation": "官方情境宣传图；背景不是角色身份。",
+      "limitations": "不可见侧背面与内部结构不补；不将当前图片当首发原图。"
+    },
+    {
+      "analysis_id": "V05",
+      "image_id": "I05",
+      "viewed": true,
+      "resolution_limit": "800×800或来源局部；见图片",
+      "observed_features": "黄色闹钟形身体、蓝胡子红鼻、斜倚动作和顶端星；动态而非固定呆脸。",
+      "official_settings": null,
+      "interpretation": "先作为直接视觉记录；机制见方法卡，消费者感受待验证。",
+      "material_and_structure": "材质按对应SKU官方规格；图中光泽不能证明具体涂层工艺。",
+      "presentation": "官方情境宣传图；背景不是角色身份。",
+      "limitations": "不可见侧背面与内部结构不补；不将当前图片当首发原图。"
+    },
+    {
+      "analysis_id": "V07",
+      "image_id": "I07",
+      "viewed": true,
+      "resolution_limit": "800×800或来源局部；见图片",
+      "observed_features": "系列名称与毛绒类别；不作为完整角色设定。",
+      "official_settings": null,
+      "interpretation": "先作为直接视觉记录；机制见方法卡，消费者感受待验证。",
+      "material_and_structure": "材质按对应SKU官方规格；图中光泽不能证明具体涂层工艺。",
+      "presentation": "官方情境宣传图；背景不是角色身份。",
+      "limitations": "不可见侧背面与内部结构不补；不将当前图片当首发原图。"
+    },
+    {
+      "analysis_id": "V08",
+      "image_id": "I08",
+      "viewed": true,
+      "resolution_limit": "800×800或来源局部；见图片",
+      "observed_features": "可见黄色挂环织带、毛绒突起；画面截断不能推整体比例。",
+      "official_settings": null,
+      "interpretation": "先作为直接视觉记录；机制见方法卡，消费者感受待验证。",
+      "material_and_structure": "材质按对应SKU官方规格；图中光泽不能证明具体涂层工艺。",
+      "presentation": "官方情境宣传图；背景不是角色身份。",
+      "limitations": "不可见侧背面与内部结构不补；不将当前图片当首发原图。"
+    },
+    {
+      "analysis_id": "V09",
+      "image_id": "I09",
+      "viewed": true,
+      "resolution_limit": "1200×750宣传局部",
+      "observed_features": "黄色纺织毛绒、刺绣面部、短小四肢，含局部裁切，不能推背面。",
+      "official_settings": null,
+      "interpretation": "先作为直接视觉记录；机制见方法卡，消费者感受待验证。",
+      "material_and_structure": "材质按对应SKU官方规格；图中光泽不能证明具体涂层工艺。",
+      "presentation": "官方情境宣传图；背景不是角色身份。",
+      "limitations": "不可见侧背面与内部结构不补；不将当前图片当首发原图。"
+    },
+    {
+      "analysis_id": "V10",
+      "image_id": "I10",
+      "viewed": true,
+      "resolution_limit": "1908×1280媒体图，压缩纹理限制工艺判断",
+      "observed_features": "天气主题版本对照：长毛、长腿、雨衣和雪人等形态；媒体图不足以确认量产细节。",
+      "official_settings": null,
+      "interpretation": "先作为直接视觉记录；机制见方法卡，消费者感受待验证。",
+      "material_and_structure": "材质按对应SKU官方规格；图中光泽不能证明具体涂层工艺。",
+      "presentation": "官方情境宣传图；背景不是角色身份。",
+      "limitations": "不可见侧背面与内部结构不补；不将当前图片当首发原图。"
+    },
+    {
+      "analysis_id": "V11",
+      "image_id": "I11",
+      "viewed": true,
+      "resolution_limit": "(520, 520)；宣传排版并非整本扫描",
+      "observed_features": "画集封套及双册；夜蓝和酒红配金黄星纹、桃橘脸与黄色星体",
+      "official_settings": "出版宣传内容见B01，不把营销文案当官方完整设定",
+      "interpretation": "形体、颜色和世界观的代表样本，不用于倒推2020版本",
+      "material_and_structure": "纸质产品；具体纸种未知",
+      "presentation": "宣传排版含文字、场景与书影；背景色不计入角色主色",
+      "limitations": "未读整本；原始插画年份未知"
+    },
+    {
+      "analysis_id": "V12",
+      "image_id": "I12",
+      "viewed": true,
+      "resolution_limit": "(790, 2753)；宣传排版并非整本扫描",
+      "observed_features": "出版宣传、书封、首套典藏文字与奇幻样本",
+      "official_settings": "出版宣传内容见B01，不把营销文案当官方完整设定",
+      "interpretation": "形体、颜色和世界观的代表样本，不用于倒推2020版本",
+      "material_and_structure": "纸质产品；具体纸种未知",
+      "presentation": "宣传排版含文字、场景与书影；背景色不计入角色主色",
+      "limitations": "未读整本；原始插画年份未知"
+    },
+    {
+      "analysis_id": "V13",
+      "image_id": "I13",
+      "viewed": true,
+      "resolution_limit": "(790, 2753)；宣传排版并非整本扫描",
+      "observed_features": "人间、冬日、小小世界、星座章节的代表插画；尖端星体与环境互动",
+      "official_settings": "出版宣传内容见B01，不把营销文案当官方完整设定",
+      "interpretation": "形体、颜色和世界观的代表样本，不用于倒推2020版本",
+      "material_and_structure": "纸质产品；具体纸种未知",
+      "presentation": "宣传排版含文字、场景与书影；背景色不计入角色主色",
+      "limitations": "未读整本；原始插画年份未知"
+    },
+    {
+      "analysis_id": "V14",
+      "image_id": "I14",
+      "viewed": true,
+      "resolution_limit": "(790, 2752)；宣传排版并非整本扫描",
+      "observed_features": "晚安与未熄星章节、封套设计，深环境托亮主体",
+      "official_settings": "出版宣传内容见B01，不把营销文案当官方完整设定",
+      "interpretation": "形体、颜色和世界观的代表样本，不用于倒推2020版本",
+      "material_and_structure": "纸质产品；具体纸种未知",
+      "presentation": "宣传排版含文字、场景与书影；背景色不计入角色主色",
+      "limitations": "未读整本；原始插画年份未知"
+    },
+    {
+      "analysis_id": "V15",
+      "image_id": "I15",
+      "viewed": true,
+      "resolution_limit": "(790, 2753)；宣传排版并非整本扫描",
+      "observed_features": "开本、平摊装帧和随书赠品宣传；不是手办设定页",
+      "official_settings": "出版宣传内容见B01，不把营销文案当官方完整设定",
+      "interpretation": "形体、颜色和世界观的代表样本，不用于倒推2020版本",
+      "material_and_structure": "纸质产品；具体纸种未知",
+      "presentation": "宣传排版含文字、场景与书影；背景色不计入角色主色",
+      "limitations": "未读整本；原始插画年份未知"
+    },
+    {
+      "analysis_id": "V16",
+      "image_id": "I16",
+      "viewed": true,
+      "resolution_limit": "(790, 2753)；宣传排版并非整本扫描",
+      "observed_features": "赠品与插画、作者署名及磨铁有狐标识；产品化文本证据",
+      "official_settings": "出版宣传内容见B01，不把营销文案当官方完整设定",
+      "interpretation": "形体、颜色和世界观的代表样本，不用于倒推2020版本",
+      "material_and_structure": "纸质产品；具体纸种未知",
+      "presentation": "宣传排版含文字、场景与书影；背景色不计入角色主色",
+      "limitations": "未读整本；原始插画年份未知"
+    }
+  ],
+  "character_rules": {
+    "identity_invariants": [
+      {
+        "description": "跨媒介候选语法：尖端星体／外层与橘色面区、颊色和大眼关系；不能只认固定微笑或1.5头身",
+        "image_ids": [
+          "I02",
+          "I03",
+          "I04",
+          "I05",
+          "I09",
+          "I12",
+          "I13"
+        ],
+        "evidence_ids": [
+          "S15",
+          "S05"
+        ]
+      }
+    ],
+    "expression_invariants": [
+      {
+        "description": "允许脆弱、等待与活泼共存；不是每个版本都只有放空",
+        "evidence_ids": [
+          "S03",
+          "S01"
+        ],
+        "image_ids": [
+          "I02",
+          "I03",
+          "I04",
+          "I05"
+        ]
+      }
+    ],
+    "variables": [
+      {
+        "description": "眼神嘴型、眉毛、服装、色彩、姿势与主题道具均可变化；黄色非每款绝对不变量",
+        "image_ids": [
+          "I02",
+          "I03",
+          "I04",
+          "I05"
+        ]
+      }
+    ],
+    "medium_adaptations": [
+      {
+        "description": "手办承载较多情境道具；毛绒需要简化与触感设计",
+        "evidence_ids": [
+          "S03",
+          "S08"
+        ],
+        "image_ids": [
+          "I02",
+          "I08"
+        ]
+      }
+    ],
+    "uncertain": [
+      "未获官方比例手册、不变量定义、完整正侧背；不能把研究描述冒充官方设定"
+    ]
+  },
+  "prompt_layers": {
+    "disclaimer": "研究性重建，并非作者原始提示词，也不能说明原作由AI生成。",
+    "sample_descriptions": [
+      {
+        "image_id": "I02",
+        "text": "圆脸小角色套在上窄下圆的黄色头套里，头顶有小星，脸颊红色旋涡，视线朝信件；蓝披肩和红色爱心邮筒组成等候情境。ABS/PVC按官方SKU记录；画面为官方产品图。"
+      },
+      {
+        "image_id": "I03",
+        "text": "圆脸角色穿黄色套装，戴橙白锥帽，眉间上挑、眼睛上望、小嘴拢起，手持禁止打扰路牌；顶部星形小伙伴与脚边路锥同场。"
+      }
+    ],
+    "mechanisms": [
+      {
+        "image_ids": [
+          "I02"
+        ],
+        "mechanism": "等待→信件与视线连接，把抽象思念压缩成单画面可读动作"
+      },
+      {
+        "image_ids": [
+          "I03",
+          "I04",
+          "I05"
+        ],
+        "mechanism": "表情允许变化，重复的脸部与头部关系维系识别，主题提供新的情境"
+      }
+    ],
+    "original_translation": {
+      "name": "缓冲",
+      "brief": "工作切换后需要几秒钟；表达等一下我还在缓过来；目标人群为频繁任务切换的成年人，首产品为桌面纺织豆袋概念。",
+      "fixed": [
+        "横向扁豆形身体，宽高约1.4:1，无独立大头",
+        "内折宽软角",
+        "低位宽眼距短竖线眼睛",
+        "偏右点嘴、短片脚"
+      ],
+      "variables": [
+        "折角角度",
+        "停顿动作",
+        "脸部朝向"
+      ],
+      "flat_zh": "为“做完一件事，需要暂停几秒”的情绪设计一个独立抽象角色。身体是横向扁豆形，宽约为高的1.4倍，无独立大头。顶部一个宽软角向内折，双眼是位于身体中下部、间距较宽的两条短竖线；一枚小圆点嘴偏右。两条超短片状脚，双手贴身停住。主色墨蓝，小面积淡杏色面部区域，一条薄荷色接缝。白底正面平面设定，清晰轮廓、少量实色色块、无体积渲染。不要星形、兜帽、圆形红腮、星形高光或现有角色标志。",
+      "flat_en": "Design an original abstract companion expressing a brief pause after finishing a task. A horizontally flattened bean body, width about 1.4 times its height, with no separate oversized head. One broad soft corner folds inward at the top. Two widely spaced short vertical eyes sit below the body's midpoint; a tiny dot mouth is offset to the right. Two very short tab feet; small arms rest against the body. Ink blue, a small pale apricot face area, and one mint seam. Front view, white background, clean silhouette and flat color blocks, no volumetric rendering. Exclude stars, hoods, round red cheek patches, star-shaped eye highlights, and existing character emblems.",
+      "product_zh": "将同一扁豆形角色转成高约12cm的桌面纺织豆袋概念。严格保持横宽1.4倍高、顶部内折宽角、低位宽眼距短竖线眼睛、偏右圆点嘴与短片脚。墨蓝短绒外壳，淡杏小面区拼片，五官刺绣，一条薄荷色装饰缝。无硬塑脸和硬质配件。宽平底，填充腔需另行打样评估，避免在图中展示未经验证的剖面。白色无缝背景、柔和棚光、正面略偏15度、全身；明确这是未量产的产品概念。不要星形、兜帽或圆形红腮。",
+      "product_en": "Translate the same character into an approximately 12 cm tall textile desk beanbag concept. Keep the body 1.4 times wider than tall, the broad inward-folded top corner, low widely spaced short vertical eyes, offset dot mouth, and tiny tab feet. Ink-blue short-pile shell, small pale-apricot face panel, embroidered features, and one mint decorative seam. No rigid plastic face or hard accessories. Broad flat base; internal filling chambers require prototyping and must not be shown as a validated cutaway. White seamless background, soft studio light, front view turned about 15 degrees, full body. An unmanufactured product concept. Exclude stars, hoods, and round red cheek patches.",
+      "risks": [
+        "尚未进行跨品牌相似性核查",
+        "折角、重心、填充结构需打样",
+        "用户偏好未验证，未生成图片"
+      ],
+      "lineart_zh": "原创抽象角色线稿：无独立大头的横向扁豆身体，宽约为高的1.4倍；顶部一个宽软角向内折。两条短竖线眼睛位于身体中下部且间距宽，圆点嘴偏右，双手贴身，两条短片脚。白底，均匀中粗黑线，正面全身居中。右下角加同角色同姿势的小黑剪影，高约主体六分之一。不上色，无阴影、材质或额外道具。",
+      "lineart_en": "Original abstract character line art: a horizontal bean body 1.4 times wider than tall, no separate oversized head, one broad soft top corner folded inward. Low, widely spaced short vertical eyes, a dot mouth offset right, arms resting against the body, and two short tab feet. White background, even medium-weight black lines, centered full-body front view. Lower right: a small solid-black silhouette of the same character in the same pose, about one sixth of its height. No color, shading, texture, or extra props."
+    },
+    "basic_subject_reconstruction": {
+      "subject_id": "twinkle-twinkle",
+      "status": "partial",
+      "flat_zh": "星星人Twinkle Twinkle的基础角色研究重建，不设计新IP：一整只暖金黄色的小星灵，头部与身体由同一个黄色外壳连续构成，短胖、无脖子、约1.5头身；头部上方收成一个柔软略弯的短尖，尖端带一枚很小的浅黄色五角星。下方短小身体，两只短短向斜侧伸出的圆钝星角手和两只分开的短圆脚，不能是人类婴儿穿衣服，也不是几何对称五角星、墨蓝扁豆或黄色熊。头部正面嵌一大片橙桃色圆脸，圆脸两侧到黄色外壳仅一圈窄边，脸色为#F3966C附近的暖橙桃，不是乳白面区。宽额头，两枚较小竖椭圆白色眼白，深棕瞳孔在下部，瞳内小白点；细细弧眉，极小橙色鼻，短而克制的小嘴微微上弯。左右脸颊为低对比橙红色细密旋涡，#DF6132附近，不是粉红圆贴；黄色外壳#FFBB6E附近，明快温暖但不是荧光柠檬黄。没有头发、人耳、衣服、蓝披肩、信件、邮筒或其他主题道具。身体全部保持暖黄，面部保持暖橙，星饰是微小点缀。白底单角色正面全身居中，无文字标志水印。 媒介：平面角色基础设定图，干净稳定的手绘轮廓、实色色块，轻微纸感；不加3D体积、投影、环境光或棚拍效果。不画背面、不多角色拼贴。",
+      "plush_zh": "星星人Twinkle Twinkle的基础角色研究重建，不设计新IP：一整只暖金黄色的小星灵，头部与身体由同一个黄色外壳连续构成，短胖、无脖子、约1.5头身；头部上方收成一个柔软略弯的短尖，尖端带一枚很小的浅黄色五角星。下方短小身体，两只短短向斜侧伸出的圆钝星角手和两只分开的短圆脚，不能是人类婴儿穿衣服，也不是几何对称五角星、墨蓝扁豆或黄色熊。头部正面嵌一大片橙桃色圆脸，圆脸两侧到黄色外壳仅一圈窄边，脸色为#F3966C附近的暖橙桃，不是乳白面区。宽额头，两枚较小竖椭圆白色眼白，深棕瞳孔在下部，瞳内小白点；细细弧眉，极小橙色鼻，短而克制的小嘴微微上弯。左右脸颊为低对比橙红色细密旋涡，#DF6132附近，不是粉红圆贴；黄色外壳#FFBB6E附近，明快温暖但不是荧光柠檬黄。没有头发、人耳、衣服、蓝披肩、信件、邮筒或其他主题道具。身体全部保持暖黄，面部保持暖橙，星饰是微小点缀。白底单角色正面全身居中，无文字标志水印。 媒介：同一基础角色的黄色短绒毛绒公仔概念。橙桃色脸为平整短绒拼片，白眼白、棕瞳、细眉和小嘴为精细刺绣，腮红为低对比印染旋涡；身体与短四肢使用细软暖黄色毛绒，顶部小星同为织物，无硬塑大脸。结构短胖，四肢与星形身体连贯，无圆熊肚、衣领或独立大头。真实细密短绒与轻微重力感，白背景柔光产品摄影，全身单件。",
+      "test_mode": "text_only_without_reference",
+      "test_images": [
+        "assets/base-star-flat.png",
+        "assets/base-star-plush.png"
+      ],
+      "not_official_model_sheet": true,
+      "limitations": "配色及面部关系改善；星形肢体和头身仍需具体基础样本核验，不能合并书与产品版本为官方母版"
+    }
+  },
+  "methods": [
+    {
+      "method_id": "M01",
+      "problem": "原点太抽象、只变装",
+      "claim_ids": [
+        "C17"
+      ],
+      "image_ids": [
+        "I02"
+      ],
+      "mechanism": "把情绪变成一个可看懂的动词与关系",
+      "conditions": "需要单画面即可理解",
+      "counterexamples": "尚缺对照案例",
+      "failure_boundary": "道具去掉就无法识别时容易变成场景摆件",
+      "design_implication": "先写动作，再做独立轮廓",
+      "experiment": "同一原创角色，静态站姿与情境动作配对展示",
+      "metric": "无文案情绪识别、收藏、选择及价格接受",
+      "rejection_condition": "情境版理解未提升，或只记住道具不记得主体",
+      "evidence_level": "单例策略，待验证"
+    },
+    {
+      "method_id": "M02",
+      "problem": "插画直接拉成3D丢失个性",
+      "claim_ids": [
+        "C16"
+      ],
+      "image_ids": [
+        "I02",
+        "I08"
+      ],
+      "mechanism": "重调比例并按载体做减法，保留表达触点",
+      "conditions": "已有锁定角色身份",
+      "counterexamples": "未有同角色原始与打样对照",
+      "failure_boundary": "简化损失脸部识别",
+      "design_implication": "设计身份固定项后再分别转译工艺",
+      "experiment": "普通棉填充与粒子混合样的盲摸及轻摇测试",
+      "metric": "触感偏好、记忆、愿付价、耐用",
+      "rejection_condition": "偏好无差异或粒子结构导致硬结漏粒问题",
+      "evidence_level": "作者自述＋产品规格，不能推普遍最佳配比"
+    },
+    {
+      "method_id": "M03",
+      "problem": "IP只有卖货曝光缺关系",
+      "claim_ids": [
+        "C14",
+        "C18",
+        "C23"
+      ],
+      "image_ids": [],
+      "mechanism": "歌曲、可重复动作和现场回应给角色可持续行为",
+      "conditions": "表演运营与现场触达资源",
+      "counterexamples": "未纳入人偶失败项目",
+      "failure_boundary": "表演只可爱但不体现角色态度，或无法复用",
+      "design_implication": "先测试一个独特回应动作，不先重资产建园",
+      "experiment": "小型快闪中安排可重复的角色回应，比较有无互动场次",
+      "metric": "互动后主动关注、后续内容返回、到店与实际购买",
+      "rejection_condition": "只有拍照无后续行为，或效果完全由赠品解释",
+      "evidence_level": "单例及公司／媒体相关性，因果待验证"
+    }
+  ],
+  "gaps": [
+    {
+      "gap_id": "G01",
+      "module": "A",
+      "status": "partially_verified",
+      "question": "版权商标及阿力职责、签约日期",
+      "searched": "官网作者页、采访、媒体",
+      "impact": "不能断言IP被收购或全版权独占",
+      "next_action": "补版权页、商标和合同公开记录"
+    },
+    {
+      "gap_id": "G02",
+      "module": "B",
+      "status": "partially_verified",
+      "question": "2020最早原帖与梦之岛实际出版状态；已查到后期正式画集B01",
+      "searched": "公开搜索及采访",
+      "impact": "起源为事后追述，展会日期不能精确确认",
+      "next_action": "找2020同期原帖及梦之岛ISBN／版权页；B01日期冲突查版权页"
+    },
+    {
+      "gap_id": "G03",
+      "module": "D",
+      "status": "unknown",
+      "question": "专属团队人数、经纪人姓名、独立投资分成",
+      "searched": "年报、作者采访",
+      "impact": "集团资源不可等于IP团队；不能测算作者收益",
+      "next_action": "补公开团队访谈和项目组织披露"
+    },
+    {
+      "gap_id": "G04",
+      "module": "I",
+      "status": "blocked",
+      "question": "官方IP及作者小红书近期帖子、粉丝及流量",
+      "searched": "官网、微博提及、搜索",
+      "impact": "不能回答当前真实粉丝及日常流量中位数",
+      "next_action": "具备访问条件时按固定30天窗口采样"
+    },
+    {
+      "gap_id": "G05",
+      "module": "H",
+      "status": "partially_verified",
+      "question": "已有3条直接书评＋5条可见样本，仍缺玩具用户复购／退坑代表样本",
+      "searched": "媒体转述、乐园现场报道",
+      "impact": "仅有间接线索，需求不具代表性",
+      "next_action": "跨平台分层补采玩具购买者、未购买与退坑者"
+    },
+    {
+      "gap_id": "G06",
+      "module": "L",
+      "status": "not_found",
+      "question": "明确失败系列与负评、价格回落实际成交",
+      "searched": "公开报道搜索",
+      "impact": "缺失败样本，不宣称只有成功",
+      "next_action": "分SKU查售后与补货、售罄期及实际成交"
+    },
+    {
+      "gap_id": "G07",
+      "module": "visuals",
+      "status": "partially_verified",
+      "question": "最早插画、完整标准三视图及量产细节",
+      "searched": "官方产品图与报道",
+      "impact": "无法建立官方完整比例与结构标准",
+      "next_action": "获取作者设定授权资料与不同角度实拍"
+    },
+    {
+      "gap_id": "G08",
+      "module": "J",
+      "status": "unknown",
+      "question": "各SKU、渠道、人偶及营销的增量贡献",
+      "searched": "年报和报道",
+      "impact": "不能将收入增长归因某场活动",
+      "next_action": "补活动前后同口径数据及控制组"
+    },
+    {
+      "gap_id": "G09",
+      "module": "D",
+      "status": "partially_verified",
+      "question": "公司完整历史及历次融资时间金额",
+      "searched": "品牌页、年报",
+      "impact": "本版仅建立运营平台背景，未完成资本史",
+      "next_action": "下一轮读招股书及融资公告"
+    },
+    {
+      "gap_id": "G10",
+      "module": "color_system",
+      "status": "not_found",
+      "question": "官方VI标准色、色卡、跨材质验收及色彩不变量",
+      "searched": "官方产品、出版样本、采访、仓库规范",
+      "impact": "HEX只能预览，不能量产或声称官方",
+      "next_action": "请求授权手册／实物色卡并实测"
+    },
+    {
+      "gap_id": "G11",
+      "module": "B",
+      "status": "conflicting",
+      "question": "B01正式首版日与开本尺寸",
+      "searched": "磨铁商品宣传、三民书目、豆瓣书目",
+      "impact": "渠道日期与尺寸不一致，不能单选为事实",
+      "next_action": "版权页／原始编辑书讯优先核实"
+    }
+  ],
+  "coverage": {
+    "A": {
+      "status": "partial",
+      "evidence_ids": [
+        "S05",
+        "S09",
+        "S11"
+      ],
+      "limitations": "合同未知"
+    },
+    "B": {
+      "status": "partial",
+      "evidence_ids": [
+        "S03",
+        "S09"
+      ],
+      "limitations": "缺最早原帖"
+    },
+    "C": {
+      "status": "partial",
+      "evidence_ids": [
+        "S04",
+        "S05",
+        "S12"
+      ],
+      "limitations": "早期展会确日待核"
+    },
+    "D": {
+      "status": "partial",
+      "evidence_ids": [
+        "S03",
+        "S13"
+      ],
+      "limitations": "资本史与团队未完成"
+    },
+    "E": {
+      "status": "partial",
+      "evidence_ids": [
+        "S05",
+        "S07"
+      ],
+      "limitations": "样本分析，非官方设定"
+    },
+    "F": {
+      "status": "partial",
+      "evidence_ids": [
+        "S01",
+        "S04",
+        "S10"
+      ],
+      "limitations": "缺近期日常样本"
+    },
+    "G": {
+      "status": "partial",
+      "evidence_ids": [
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S14"
+      ],
+      "limitations": "代表SKU非全量"
+    },
+    "H": {
+      "status": "partial",
+      "evidence_ids": [
+        "S03",
+        "S10",
+        "S16"
+      ],
+      "limitations": "加入直接公开书评，样本仍小且非玩具买家全貌"
+    },
+    "I": {
+      "status": "partial",
+      "evidence_ids": [
+        "S04"
+      ],
+      "limitations": "主页及当前指标受限"
+    },
+    "J": {
+      "status": "partial",
+      "evidence_ids": [
+        "S04",
+        "S10",
+        "S02"
+      ],
+      "limitations": "增量归因未知"
+    },
+    "K": {
+      "status": "partial",
+      "evidence_ids": [
+        "S01",
+        "S02"
+      ],
+      "limitations": "时代机制候选，缺同类控制组"
+    },
+    "L": {
+      "status": "partial",
+      "evidence_ids": [
+        "S11"
+      ],
+      "limitations": "未取得完整失败负面样本"
+    },
+    "visuals": {
+      "status": "partial",
+      "evidence_ids": [
+        "S05",
+        "S07",
+        "S08",
+        "S11"
+      ],
+      "limitations": "代表样本非全覆盖"
+    },
+    "prompts": {
+      "status": "partial",
+      "evidence_ids": [
+        "S05",
+        "S07"
+      ],
+      "limitations": "研究重建＋原创概念，未生成或验证"
+    },
+    "cross_case": {
+      "status": "not_applicable",
+      "evidence_ids": [],
+      "limitations": "单例，不作跨案例普遍规则"
+    },
+    "color_system": {
+      "status": "partial",
+      "evidence_ids": [
+        "S05",
+        "S15",
+        "S07"
+      ],
+      "limitations": "两套屏幕样本色板，缺官方色卡与实物测试"
+    },
+    "publications": {
+      "status": "partial",
+      "evidence_ids": [
+        "S15",
+        "S16",
+        "S17"
+      ],
+      "limitations": "实体版本已定位，版权页及2020原始出版仍未知"
+    }
+  },
+  "revision": "v0.2",
+  "publications": [
+    {
+      "publication_id": "B01",
+      "title": "晚安，全宇宙",
+      "subtitle": "100个星星人的故事",
+      "author_roles": [
+        {
+          "name": "大欣",
+          "role": "绘著"
+        }
+      ],
+      "isbn": "9787213117176",
+      "cip": null,
+      "publisher": "浙江人民出版社",
+      "producer": "磨铁有狐",
+      "retailer": "磨铁有赞认证店；三民等",
+      "edition": "三民列一版；未见版权页",
+      "dates": [
+        {
+          "date_type": "渠道列出版日",
+          "value": "2024-12-30",
+          "source": "S17"
+        },
+        {
+          "date_type": "渠道列出版日",
+          "value": "2025-01-16",
+          "source": "S16"
+        }
+      ],
+      "binding": "平装，套装／裸背锁线为商品宣传口径",
+      "volumes": 2,
+      "pages": 352,
+      "format": "渠道写24×17cm，宣传写185×260mm，版本／计量口径待核",
+      "price": 158,
+      "currency": "CNY",
+      "content_scope": "300+幅插画、7章及新增文字为出版宣传口径；未读整本",
+      "relation_to_early_works": "多年连载内容的正式集结，不是2020年原作首帖证据",
+      "evidence_ids": [
+        "S15",
+        "S16",
+        "S17"
+      ]
+    }
+  ],
+  "color_system": [
+    {
+      "palette_id": "PAL01",
+      "scope": "I02产品角色分区",
+      "basis": "research_sample",
+      "colors": [
+        {
+          "name": "暖黄",
+          "image": "I02.png",
+          "center": [
+            250,
+            100
+          ],
+          "patch": [
+            5,
+            5
+          ],
+          "hex": "#FFBB6E",
+          "color_id": "K01",
+          "role": "主色候选",
+          "scope": "I02单SKU角色",
+          "value_basis": "image_sample",
+          "surface_or_region": "暖黄",
+          "image_ids": [
+            "I02"
+          ],
+          "evidence_ids": [
+            "S05"
+          ],
+          "sample_method": "原尺寸RGB图像，指定中心5×5像素，各通道中位数；无白平衡或色卡校正",
+          "area_description": "局部角色色块／环境色块，未分割主体面积",
+          "area_basis": "qualitative",
+          "material_context": "有光影的产品图",
+          "variation_boundary": "只作此图采样预览；并非所有系列官方固定色",
+          "uncertainty": "拍摄、渲染、压缩、印刷和屏幕差异；非生产色号"
+        },
+        {
+          "name": "桃橘面部",
+          "image": "I02.png",
+          "center": [
+            220,
+            163
+          ],
+          "patch": [
+            5,
+            5
+          ],
+          "hex": "#F3966C",
+          "color_id": "K02",
+          "role": "面部大色块",
+          "scope": "I02单SKU角色",
+          "value_basis": "image_sample",
+          "surface_or_region": "桃橘面部",
+          "image_ids": [
+            "I02"
+          ],
+          "evidence_ids": [
+            "S05"
+          ],
+          "sample_method": "原尺寸RGB图像，指定中心5×5像素，各通道中位数；无白平衡或色卡校正",
+          "area_description": "局部角色色块／环境色块，未分割主体面积",
+          "area_basis": "qualitative",
+          "material_context": "有光影的产品图",
+          "variation_boundary": "只作此图采样预览；并非所有系列官方固定色",
+          "uncertainty": "拍摄、渲染、压缩、印刷和屏幕差异；非生产色号"
+        },
+        {
+          "name": "橘红颊色",
+          "image": "I02.png",
+          "center": [
+            263,
+            206
+          ],
+          "patch": [
+            5,
+            5
+          ],
+          "hex": "#DF6132",
+          "color_id": "K03",
+          "role": "识别／签名色候选",
+          "scope": "I02单SKU角色",
+          "value_basis": "image_sample",
+          "surface_or_region": "橘红颊色",
+          "image_ids": [
+            "I02"
+          ],
+          "evidence_ids": [
+            "S05"
+          ],
+          "sample_method": "原尺寸RGB图像，指定中心5×5像素，各通道中位数；无白平衡或色卡校正",
+          "area_description": "局部角色色块／环境色块，未分割主体面积",
+          "area_basis": "qualitative",
+          "material_context": "有光影的产品图",
+          "variation_boundary": "只作此图采样预览；并非所有系列官方固定色",
+          "uncertainty": "拍摄、渲染、压缩、印刷和屏幕差异；非生产色号"
+        },
+        {
+          "name": "灰蓝辅色",
+          "image": "I02.png",
+          "center": [
+            283,
+            270
+          ],
+          "patch": [
+            5,
+            5
+          ],
+          "hex": "#516580",
+          "color_id": "K04",
+          "role": "单SKU辅助色",
+          "scope": "I02单SKU角色",
+          "value_basis": "image_sample",
+          "surface_or_region": "灰蓝辅色",
+          "image_ids": [
+            "I02"
+          ],
+          "evidence_ids": [
+            "S05"
+          ],
+          "sample_method": "原尺寸RGB图像，指定中心5×5像素，各通道中位数；无白平衡或色卡校正",
+          "area_description": "局部角色色块／环境色块，未分割主体面积",
+          "area_basis": "qualitative",
+          "material_context": "有光影的产品图",
+          "variation_boundary": "只作此图采样预览；并非所有系列官方固定色",
+          "uncertainty": "拍摄、渲染、压缩、印刷和屏幕差异；非生产色号"
+        },
+        {
+          "name": "奶油中性色",
+          "image": "I02.png",
+          "center": [
+            300,
+            290
+          ],
+          "patch": [
+            5,
+            5
+          ],
+          "hex": "#FFEED0",
+          "color_id": "K05",
+          "role": "中性色",
+          "scope": "I02单SKU角色",
+          "value_basis": "image_sample",
+          "surface_or_region": "奶油中性色",
+          "image_ids": [
+            "I02"
+          ],
+          "evidence_ids": [
+            "S05"
+          ],
+          "sample_method": "原尺寸RGB图像，指定中心5×5像素，各通道中位数；无白平衡或色卡校正",
+          "area_description": "局部角色色块／环境色块，未分割主体面积",
+          "area_basis": "qualitative",
+          "material_context": "有光影的产品图",
+          "variation_boundary": "只作此图采样预览；并非所有系列官方固定色",
+          "uncertainty": "拍摄、渲染、压缩、印刷和屏幕差异；非生产色号"
+        },
+        {
+          "name": "深棕五官",
+          "image": "I02.png",
+          "center": [
+            239,
+            183
+          ],
+          "patch": [
+            5,
+            5
+          ],
+          "hex": "#713F37",
+          "color_id": "K06",
+          "role": "五官色",
+          "scope": "I02单SKU角色",
+          "value_basis": "image_sample",
+          "surface_or_region": "深棕五官",
+          "image_ids": [
+            "I02"
+          ],
+          "evidence_ids": [
+            "S05"
+          ],
+          "sample_method": "原尺寸RGB图像，指定中心5×5像素，各通道中位数；无白平衡或色卡校正",
+          "area_description": "局部角色色块／环境色块，未分割主体面积",
+          "area_basis": "qualitative",
+          "material_context": "有光影的产品图",
+          "variation_boundary": "只作此图采样预览；并非所有系列官方固定色",
+          "uncertainty": "拍摄、渲染、压缩、印刷和屏幕差异；非生产色号"
+        }
+      ],
+      "limitations": "非官方VI；无精确面积比例"
+    },
+    {
+      "palette_id": "PAL02",
+      "scope": "I11书封／环境",
+      "basis": "research_sample",
+      "colors": [
+        {
+          "name": "夜蓝背景",
+          "image": "I11.jpg",
+          "center": [
+            451,
+            231
+          ],
+          "patch": [
+            5,
+            5
+          ],
+          "hex": "#212735",
+          "color_id": "K07",
+          "role": "环境主色",
+          "scope": "I11书封环境",
+          "value_basis": "image_sample",
+          "surface_or_region": "夜蓝背景",
+          "image_ids": [
+            "I11"
+          ],
+          "evidence_ids": [
+            "S15"
+          ],
+          "sample_method": "原尺寸RGB图像，指定中心5×5像素，各通道中位数；无白平衡或色卡校正",
+          "area_description": "局部角色色块／环境色块，未分割主体面积",
+          "area_basis": "qualitative",
+          "material_context": "印刷书影及宣传图",
+          "variation_boundary": "只作此图采样预览；并非所有系列官方固定色",
+          "uncertainty": "拍摄、渲染、压缩、印刷和屏幕差异；非生产色号"
+        },
+        {
+          "name": "金黄装饰",
+          "image": "I11.jpg",
+          "center": [
+            302,
+            422
+          ],
+          "patch": [
+            5,
+            5
+          ],
+          "hex": "#F9EB9F",
+          "color_id": "K08",
+          "role": "环境点缀色",
+          "scope": "I11书封环境",
+          "value_basis": "image_sample",
+          "surface_or_region": "金黄装饰",
+          "image_ids": [
+            "I11"
+          ],
+          "evidence_ids": [
+            "S15"
+          ],
+          "sample_method": "原尺寸RGB图像，指定中心5×5像素，各通道中位数；无白平衡或色卡校正",
+          "area_description": "局部角色色块／环境色块，未分割主体面积",
+          "area_basis": "qualitative",
+          "material_context": "印刷书影及宣传图",
+          "variation_boundary": "只作此图采样预览；并非所有系列官方固定色",
+          "uncertainty": "拍摄、渲染、压缩、印刷和屏幕差异；非生产色号"
+        },
+        {
+          "name": "酒红背景",
+          "image": "I11.jpg",
+          "center": [
+            86,
+            316
+          ],
+          "patch": [
+            5,
+            5
+          ],
+          "hex": "#861621",
+          "color_id": "K09",
+          "role": "环境辅助色",
+          "scope": "I11书封环境",
+          "value_basis": "image_sample",
+          "surface_or_region": "酒红背景",
+          "image_ids": [
+            "I11"
+          ],
+          "evidence_ids": [
+            "S15"
+          ],
+          "sample_method": "原尺寸RGB图像，指定中心5×5像素，各通道中位数；无白平衡或色卡校正",
+          "area_description": "局部角色色块／环境色块，未分割主体面积",
+          "area_basis": "qualitative",
+          "material_context": "印刷书影及宣传图",
+          "variation_boundary": "只作此图采样预览；并非所有系列官方固定色",
+          "uncertainty": "拍摄、渲染、压缩、印刷和屏幕差异；非生产色号"
+        }
+      ],
+      "limitations": "禁止把夜蓝酒红当全IP身体色"
+    }
+  ],
+  "form_spec": {
+    "basis": "cross_image_observation",
+    "archetype": "星形拟人／族群式表达，不只一个宝宝穿衣",
+    "outline": "出版图上窄尖端与展开星体；手办体块更圆润、头脸更集中",
+    "volume": "头脸占视觉中心；各媒介与SKU差异明显，不指定全IP固定1.5头身",
+    "face": "大圆或椭圆外眼形，深瞳＋白眼区；有开闭眼和不同视线；面区大留白、颊色显著",
+    "structure": "手办站立接触及道具支撑按SKU；毛绒挂点独立；无背面不补",
+    "image_ids": [
+      "I02",
+      "I03",
+      "I04",
+      "I05",
+      "I09",
+      "I12",
+      "I13"
+    ],
+    "evidence_ids": [
+      "S05",
+      "S07",
+      "S08",
+      "S15"
+    ],
+    "limitations": "角色本体与套装边界是视觉归纳；无官方模型手册"
+  },
+  "head_face_profile": [
+    {
+      "field": "头型",
+      "observation": "近圆／椭圆面区，尖端外轮廓因媒介不同",
+      "basis": "image_observation",
+      "image_ids": [
+        "I02",
+        "I03",
+        "I04",
+        "I05",
+        "I09",
+        "I13"
+      ],
+      "evidence_ids": [
+        "S05",
+        "S07",
+        "S08",
+        "S15"
+      ],
+      "limitations": "样本归纳，非官方约束"
+    },
+    {
+      "field": "发型",
+      "observation": "典型样本无独立头发",
+      "basis": "image_observation",
+      "image_ids": [
+        "I02",
+        "I03",
+        "I04",
+        "I05",
+        "I09",
+        "I13"
+      ],
+      "evidence_ids": [
+        "S05",
+        "S07",
+        "S08",
+        "S15"
+      ],
+      "limitations": "样本归纳，非官方约束"
+    },
+    {
+      "field": "发色",
+      "observation": "不适用，外层颜色非发色",
+      "basis": "image_observation",
+      "image_ids": [
+        "I02",
+        "I03",
+        "I04",
+        "I05",
+        "I09",
+        "I13"
+      ],
+      "evidence_ids": [
+        "S05",
+        "S07",
+        "S08",
+        "S15"
+      ],
+      "limitations": "样本归纳，非官方约束"
+    },
+    {
+      "field": "耳朵",
+      "observation": "不是主要锚点，不同主题另核",
+      "basis": "image_observation",
+      "image_ids": [
+        "I02",
+        "I03",
+        "I04",
+        "I05",
+        "I09",
+        "I13"
+      ],
+      "evidence_ids": [
+        "S05",
+        "S07",
+        "S08",
+        "S15"
+      ],
+      "limitations": "样本归纳，非官方约束"
+    },
+    {
+      "field": "头饰头套",
+      "observation": "尖形外层、帽或主题套装；不能一概解释为衣物",
+      "basis": "image_observation",
+      "image_ids": [
+        "I02",
+        "I03",
+        "I04",
+        "I05",
+        "I09",
+        "I13"
+      ],
+      "evidence_ids": [
+        "S05",
+        "S07",
+        "S08",
+        "S15"
+      ],
+      "limitations": "样本归纳，非官方约束"
+    },
+    {
+      "field": "突出物",
+      "observation": "小星及尖端在多款出现，连接随款变",
+      "basis": "image_observation",
+      "image_ids": [
+        "I02",
+        "I03",
+        "I04",
+        "I05",
+        "I09",
+        "I13"
+      ],
+      "evidence_ids": [
+        "S05",
+        "S07",
+        "S08",
+        "S15"
+      ],
+      "limitations": "样本归纳，非官方约束"
+    },
+    {
+      "field": "眉毛",
+      "observation": "小眉可挑起／压低",
+      "basis": "image_observation",
+      "image_ids": [
+        "I02",
+        "I03",
+        "I04",
+        "I05",
+        "I09",
+        "I13"
+      ],
+      "evidence_ids": [
+        "S05",
+        "S07",
+        "S08",
+        "S15"
+      ],
+      "limitations": "样本归纳，非官方约束"
+    },
+    {
+      "field": "眼型",
+      "observation": "大眼白配深瞳，也有闭眼和简化眼",
+      "basis": "image_observation",
+      "image_ids": [
+        "I02",
+        "I03",
+        "I04",
+        "I05",
+        "I09",
+        "I13"
+      ],
+      "evidence_ids": [
+        "S05",
+        "S07",
+        "S08",
+        "S15"
+      ],
+      "limitations": "样本归纳，非官方约束"
+    },
+    {
+      "field": "眼距",
+      "observation": "按版本观察，未测官方比例",
+      "basis": "image_observation",
+      "image_ids": [
+        "I02",
+        "I03",
+        "I04",
+        "I05",
+        "I09",
+        "I13"
+      ],
+      "evidence_ids": [
+        "S05",
+        "S07",
+        "S08",
+        "S15"
+      ],
+      "limitations": "样本归纳，非官方约束"
+    },
+    {
+      "field": "视线",
+      "observation": "下视、上视、正视等可变",
+      "basis": "image_observation",
+      "image_ids": [
+        "I02",
+        "I03",
+        "I04",
+        "I05",
+        "I09",
+        "I13"
+      ],
+      "evidence_ids": [
+        "S05",
+        "S07",
+        "S08",
+        "S15"
+      ],
+      "limitations": "样本归纳，非官方约束"
+    },
+    {
+      "field": "眼部附加",
+      "observation": "部分手办星形高光，其他版本可能省略",
+      "basis": "image_observation",
+      "image_ids": [
+        "I02",
+        "I03",
+        "I04",
+        "I05",
+        "I09",
+        "I13"
+      ],
+      "evidence_ids": [
+        "S05",
+        "S07",
+        "S08",
+        "S15"
+      ],
+      "limitations": "样本归纳，非官方约束"
+    },
+    {
+      "field": "鼻",
+      "observation": "小鼻或弱化；主题款有额外红鼻",
+      "basis": "image_observation",
+      "image_ids": [
+        "I02",
+        "I03",
+        "I04",
+        "I05",
+        "I09",
+        "I13"
+      ],
+      "evidence_ids": [
+        "S05",
+        "S07",
+        "S08",
+        "S15"
+      ],
+      "limitations": "样本归纳，非官方约束"
+    },
+    {
+      "field": "嘴",
+      "observation": "微笑、收嘴、点嘴等变化",
+      "basis": "image_observation",
+      "image_ids": [
+        "I02",
+        "I03",
+        "I04",
+        "I05",
+        "I09",
+        "I13"
+      ],
+      "evidence_ids": [
+        "S05",
+        "S07",
+        "S08",
+        "S15"
+      ],
+      "limitations": "样本归纳，非官方约束"
+    },
+    {
+      "field": "脸颊",
+      "observation": "橘红色块，旋涡／擦色感因媒介不同",
+      "basis": "image_observation",
+      "image_ids": [
+        "I02",
+        "I03",
+        "I04",
+        "I05",
+        "I09",
+        "I13"
+      ],
+      "evidence_ids": [
+        "S05",
+        "S07",
+        "S08",
+        "S15"
+      ],
+      "limitations": "样本归纳，非官方约束"
+    },
+    {
+      "field": "肤色／面区色",
+      "observation": "桃橘／珊瑚橘等，受材质光照影响",
+      "basis": "image_observation",
+      "image_ids": [
+        "I02",
+        "I03",
+        "I04",
+        "I05",
+        "I09",
+        "I13"
+      ],
+      "evidence_ids": [
+        "S05",
+        "S07",
+        "S08",
+        "S15"
+      ],
+      "limitations": "样本归纳，非官方约束"
+    },
+    {
+      "field": "小标记与配饰",
+      "observation": "服饰与临时道具按样本归属",
+      "basis": "image_observation",
+      "image_ids": [
+        "I02",
+        "I03",
+        "I04",
+        "I05",
+        "I09",
+        "I13"
+      ],
+      "evidence_ids": [
+        "S05",
+        "S07",
+        "S08",
+        "S15"
+      ],
+      "limitations": "样本归纳，非官方约束"
+    },
+    {
+      "field": "表情可变性",
+      "observation": "范围较广：困倦、委屈、小脾气、活泼等",
+      "basis": "image_observation",
+      "image_ids": [
+        "I02",
+        "I03",
+        "I04",
+        "I05",
+        "I09",
+        "I13"
+      ],
+      "evidence_ids": [
+        "S05",
+        "S07",
+        "S08",
+        "S15"
+      ],
+      "limitations": "样本归纳，非官方约束"
+    }
+  ],
+  "narrative_system": {
+    "basis": "publication_promotion_and_sample_reading",
+    "home": "宇宙童话世界及人间奇遇，不能归成唯一固定住所",
+    "daily_actions": "睡梦、传递情感、人间冒险等主题",
+    "wants": "希望与连接为研究归纳",
+    "fears": null,
+    "relationship_to_user": "陪伴／投射是候选解释",
+    "members": "星星人群体，多种角色状态；具体命名成员与独立主角边界待核",
+    "catchphrase": "官方宣传语与用户梗分开；未核跨作品固定口头禅",
+    "image_ids": [
+      "I12",
+      "I13",
+      "I14"
+    ],
+    "evidence_ids": [
+      "S15",
+      "S16"
+    ],
+    "limitations": "未读整本，不补完整世界观或角色恐惧"
+  },
+  "action_library": [
+    {
+      "name": "等信／读信",
+      "trigger": "等待或思念（研究推断）",
+      "sequence": "实际图只见低头看信这一帧；起止动作未观察",
+      "mark_interaction": "目光把主体连到信件与邮筒",
+      "user_use": "表达等待／想念的潜在用法，未采聊天行为",
+      "basis": "single_frame_analysis",
+      "image_ids": [
+        "I02"
+      ],
+      "evidence_ids": [
+        "S05"
+      ],
+      "limitations": "不是已验证动画动作"
+    },
+    {
+      "name": "拒绝打扰",
+      "trigger": "小脾气／边界感（推断）",
+      "sequence": "只见举牌姿态；未观察连续动作",
+      "mark_interaction": "表情与路牌形成反差",
+      "user_use": "聊天情境假设，待验证",
+      "basis": "single_frame_analysis",
+      "image_ids": [
+        "I03"
+      ],
+      "evidence_ids": [
+        "S07"
+      ],
+      "limitations": "不把文案视为固定口头禅"
+    }
+  ],
+  "series_matrix": [
+    {
+      "series": "我们都是星星人",
+      "theme": "梦与情绪小情境",
+      "invariants_candidate": "脸部、色彩及尖端关系",
+      "variables": "姿态、表情、服装、道具",
+      "quantity": "新加坡页列9盒；隐藏另看地区页",
+      "basis": "official_product_and_visual",
+      "image_ids": [
+        "I02"
+      ],
+      "evidence_ids": [
+        "S05",
+        "S06"
+      ],
+      "limitations": "未取得完整发售方案，不套统一数量"
+    },
+    {
+      "series": "好梦气象局",
+      "theme": "天气和情绪联动",
+      "invariants_candidate": "面部识别关系",
+      "variables": "长毛、长腿、雨衣、颜色和表情",
+      "quantity": "媒体列6常规＋隐藏，概率待核",
+      "basis": "media_product_sample",
+      "image_ids": [
+        "I10"
+      ],
+      "evidence_ids": [
+        "S11"
+      ],
+      "limitations": "具体工艺与概率缺官方样本"
+    }
+  ],
+  "recognition_checks": [
+    {
+      "method": "剪影",
+      "status": "not_tested",
+      "performed": false,
+      "sample_ids": [],
+      "finding": "本轮未制作或测试该变体；不能填写通过"
+    },
+    {
+      "method": "简化",
+      "status": "not_tested",
+      "performed": false,
+      "sample_ids": [],
+      "finding": "本轮未制作或测试该变体；不能填写通过"
+    },
+    {
+      "method": "头像缩小",
+      "status": "not_tested",
+      "performed": false,
+      "sample_ids": [],
+      "finding": "本轮未制作或测试该变体；不能填写通过"
+    },
+    {
+      "method": "灰度",
+      "status": "not_tested",
+      "performed": false,
+      "sample_ids": [],
+      "finding": "本轮未制作或测试该变体；不能填写通过"
+    },
+    {
+      "method": "深浅杂背景",
+      "status": "not_tested",
+      "performed": false,
+      "sample_ids": [],
+      "finding": "本轮未制作或测试该变体；不能填写通过"
+    },
+    {
+      "method": "去可拆道具",
+      "status": "not_tested",
+      "performed": false,
+      "sample_ids": [],
+      "finding": "本轮未制作或测试该变体；不能填写通过"
+    },
+    {
+      "method": "跨材料实物色差",
+      "status": "not_tested",
+      "performed": false,
+      "sample_ids": [],
+      "finding": "本轮未制作或测试该变体；不能填写通过"
+    }
+  ],
+  "audience_insights": [
+    {
+      "group": "插画／画集读者",
+      "scenario": "社交平台发现、日常翻阅或支持收藏",
+      "behavior": "短评自述预售、签名版、闲时翻阅",
+      "state": "可能寻求图像愉悦、陪伴和收藏",
+      "tension": "好看不等于认为叙事丰富；收藏物料与纸张品质可能独立影响评价",
+      "unspoken": "愿意把喜欢留下，但不必被强行解释为宏大故事（研究归纳）",
+      "basis": "five_visible_reviews",
+      "evidence_ids": [
+        "S16"
+      ],
+      "limitations": "非全体粉丝；非玩具买家代表样本"
+    }
+  ],
+  "repo_audit": {
+    "repository": "ashlandkrug878-wq/ip",
+    "commit": "d88ed3fdc01ad3da5dd538bc60472a863d3d3d08",
+    "read_at": "2026-10-19",
+    "files": [
+      {
+        "path": "README.md",
+        "sha256": "e7cf9e5ba4a30c9573995af6e60bba41b7df9f6364d7fd467527b38b2142dae0",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "AGENTS.md",
+        "sha256": "89267150829906300729d65a0244400cb298d00e39ed1420960816b2249ab16d",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "workflow/潮玩IP工作流.md",
+        "sha256": "8ac069c5884fd3184185202388e856872a3f02a1dd92cc83c7f80eefeec7711f",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-form/SKILL.md",
+        "sha256": "65827c6989b8b3363f4c14b857433f977fdf5d32588b0fe991e0ff58e8093c19",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-lab/SKILL.md",
+        "sha256": "651148a537833780288dac060cc85c98f6a9834b1d933960f634a34b0baa3132",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-studio/SKILL.md",
+        "sha256": "01cfef62ebfdcdcb7e03d01ea69c18be68f975eba9a6f7799a933891e88c730b",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-form/references/head.md",
+        "sha256": "d65e7ad30ccc9b3080e6cbc6970b53cb995ac8008d48dcecc5cc4d0c4896ff81",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-form/references/checks.md",
+        "sha256": "9e747f7c81098cdb213355290aebb6917b84ec0a974b095b265cdc9e4278b54f",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-form/references/benchmarks.md",
+        "sha256": "93d24f410c1b922320b8031369d359e234ac323cb6639199c60aad1540d6ed0e",
+        "reading_scope": "结构、规律摘要、星星人条目；其他IP未逐条外部核实"
+      },
+      {
+        "path": "skills/chaowan-ip-form/references/dimensions.md",
+        "sha256": "62f9267abd8876d3361a9caf308e42c5a1a32e6a9581cb38f14aeb2a03b5817d",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-form/references/handoff.md",
+        "sha256": "f7187c1eb186c46c157b572d492ef3156bdb703b48db51cebbcbd33c6a965433",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-form/references/form-and-prompts.md",
+        "sha256": "26f298adae5a7ce53e5b5fe27e273a3434669026e7290182dddb1a6f048abd5a",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-form/references/axes.md",
+        "sha256": "245f36c044bb076888e2e1a6b57874d00195ae69b9f590a2849006343b57b3ba",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-lab/references/foresight.md",
+        "sha256": "2b2f582551c9b87d353fbb46f9cc07f43f7e2c49aaef7654d87b3e0e291b2968",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-lab/references/benchmarks.md",
+        "sha256": "93d24f410c1b922320b8031369d359e234ac323cb6639199c60aad1540d6ed0e",
+        "reading_scope": "结构、规律摘要、星星人条目；其他IP未逐条外部核实"
+      },
+      {
+        "path": "skills/chaowan-ip-lab/references/dimensions.md",
+        "sha256": "62f9267abd8876d3361a9caf308e42c5a1a32e6a9581cb38f14aeb2a03b5817d",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-lab/references/insight.md",
+        "sha256": "8ca0b21e9b42ad147868ec5e164f5c06ccc34b6ef891118672839c37552c359c",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-lab/references/rules.md",
+        "sha256": "fc4b5dab1fd05cc70f8e15bbbd5d566fc138f0ea2c4f7e8770bd73d6ad443f60",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-studio/references/diagnosis.md",
+        "sha256": "779815dbab825fb3ab8f8498a5adf08fc370e5eb80d129f7219dde88e8e82b9b",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-studio/references/render.md",
+        "sha256": "52d8b9cdc6dd606c884b7687b294e7e7573de1bc084094fad59b740024064a61",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-studio/references/head.md",
+        "sha256": "fa98bedaff85bc2127ea376072753eb5b38ff140ba1d5d3e71f1a440c4c3b083",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-studio/references/pools.md",
+        "sha256": "4dd5f0f7fcf4cd18b40a40fc7f542793c290134cdc7a930e708bcf0881521756",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-studio/references/color.md",
+        "sha256": "6d8324ed2f1d1be299d902213c8a195c45b5f72ea3b2d69b337c13311d164175",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-studio/references/series.md",
+        "sha256": "145b0a11df530da18edd850de1f65c604269caaef0cf07152f1556e6db489616",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-studio/references/illustration.md",
+        "sha256": "e7f77db64a4bddc30209a7a76ee6f510b6aeb136856df90f6243f7c989607d87",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-studio/references/product.md",
+        "sha256": "5f9b414f2ba4aaaec0f0bac90a903f3d5501baa87f6815321c1d022a37643564",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-studio/references/bible.md",
+        "sha256": "f5723653a5e6ea8a63f991ed73f5f32394a49ffb3e6e6027ef830b5d7c77ceac",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-studio/references/motion.md",
+        "sha256": "767ae6f0166fdaf146f5363dd0cf4e24df651edb5a2e893eb91ab7927ba53587",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      },
+      {
+        "path": "skills/chaowan-ip-studio/references/story.md",
+        "sha256": "3ccee20539b2e3f13d91e908b246f340f6857fc575e58fe7fd20c7f0d5942032",
+        "reading_scope": "全篇及对标星星人条目重点对照"
+      }
+    ],
+    "mapping": [
+      "出版溯源",
+      "色彩分区",
+      "五轴与头脸17项",
+      "结构与识别检验",
+      "世界观与动作",
+      "系列与打样",
+      "用户行为分层"
+    ],
+    "cautions": [
+      "对标速记不是外部来源",
+      "签名色规则需反例检查",
+      "几头身和微笑不是全IP固定设定"
+    ]
+  },
+  "social_discovery": {
+    "queries": [
+      "星星人＋品牌介绍",
+      "星星人＋绘本／作者／首发",
+      "星星人＋配色／材质／系列",
+      "星星人＋产品汇总／图鉴／系列合集",
+      "Twinkle Twinkle Farm／Moon／Good Life site:popmart.com"
+    ],
+    "user_shared_note": "S21",
+    "observed_metrics": {
+      "likes": 51,
+      "saves": 22,
+      "observed_at": "2026-10-19",
+      "scope": "该单篇笔记，非IP粉丝数"
+    },
+    "search_limitations": "公开索引对站内笔记召回有限；已实际读指定7页，未假称完成全平台检索",
+    "product_compendium": {
+      "evidence_ids": [
+        "S22"
+      ],
+      "read_pages": [
+        1,
+        2,
+        4,
+        7,
+        10,
+        13,
+        16
+      ],
+      "total_pages": 16,
+      "observed_metrics": {
+        "likes": 531,
+        "saves": 398,
+        "comments": 18,
+        "observed_at": "2026-10-19"
+      },
+      "coverage": "sampled",
+      "omissions": "作者置顶补充信使星；完整全品类SKU库尚未完成"
+    }
+  },
+  "generation_tests": {
+    "date": "2026-10-19",
+    "tool": "built-in image generation",
+    "status": "visual_iteration_only",
+    "official_reference": "I02",
+    "samples": [
+      {
+        "local_path": "assets/tests/test-star-a1.webp",
+        "origin": "AI_generated_test",
+        "is_official": false,
+        "original_path": "assets/test-star-a1.png",
+        "status": "historical_test_not_ready"
+      },
+      {
+        "local_path": "assets/tests/test-star-a2.webp",
+        "origin": "AI_generated_test",
+        "is_official": false,
+        "original_path": "assets/test-star-a2.png",
+        "status": "historical_test_not_ready"
+      },
+      {
+        "local_path": "assets/tests/test-star-a3.webp",
+        "origin": "AI_generated_test",
+        "is_official": false,
+        "original_path": "assets/test-star-a3.png",
+        "status": "historical_test_not_ready"
+      },
+      {
+        "local_path": "assets/tests/test-buffer-b1.webp",
+        "origin": "AI_generated_test",
+        "is_official": false,
+        "original_path": "assets/test-buffer-b1.png",
+        "status": "historical_test_not_ready"
+      },
+      {
+        "local_path": "assets/tests/test-buffer-b2.webp",
+        "origin": "AI_generated_test",
+        "is_official": false,
+        "original_path": "assets/test-buffer-b2.png",
+        "status": "historical_test_not_ready"
+      },
+      {
+        "local_path": "assets/tests/test-buffer-b3.webp",
+        "origin": "AI_generated_test",
+        "is_official": false,
+        "original_path": "assets/test-buffer-b3.png",
+        "status": "historical_test_not_ready"
+      },
+      {
+        "local_path": "assets/tests/test-buffer-b4.webp",
+        "origin": "AI_generated_test",
+        "is_official": false,
+        "original_path": "assets/test-buffer-b4.png",
+        "status": "historical_test_not_ready"
+      },
+      {
+        "local_path": "assets/tests/test-buffer-b5.webp",
+        "origin": "AI_generated_test",
+        "is_official": false,
+        "original_path": "assets/test-buffer-b5.png",
+        "status": "historical_test_not_ready"
+      }
+    ],
+    "findings": [
+      "原研究描述不足以稳定还原已有角色",
+      "纯文字补足结构仍存在比例与材质漂移",
+      "参考图重建改善但不是逐像素还原",
+      "原创旧三阶段缺少共同母版导致身份漂移",
+      "修订平面至参考图毛绒的一致性改善，但比例、平涂与打样尚未验证"
+    ],
+    "limitations": "中文测试；每版单次；非用户识别测试；线稿修订词未重新生成"
+  },
+  "publication": {
+    "subject_id_in_board": "xingxingren",
+    "published_path": "research/xingxingren/2026-10-19/index.html",
+    "date": "2026-10-19",
+    "workflow": "chaowan-ip-study v0.3",
+    "research_status": "partial",
+    "prompt_release_status": "not_ready",
+    "generated_assets": [
+      {
+        "original": "base-star-flat.png",
+        "path": "assets/tests/base-star-flat.webp",
+        "sha256": "698f0a1b16515065ad0639d0fb6fd40f64491c141f73ee3bfafdef14c58250ae",
+        "origin": "AI_generated_test",
+        "status": "historical_test_not_ready"
+      },
+      {
+        "original": "base-star-plush.png",
+        "path": "assets/tests/base-star-plush.webp",
+        "sha256": "ec5a3b3f523ed5436989ae8582bdcb3362d830fdd4d761734259cccb6d3ef53a",
+        "origin": "AI_generated_test",
+        "status": "historical_test_not_ready"
+      },
+      {
+        "original": "test-star-a1.png",
+        "path": "assets/tests/test-star-a1.webp",
+        "sha256": "d454a083ba7892b6e587736b21a060f8f567965bdba139269570b2e240275c87",
+        "origin": "AI_generated_test",
+        "status": "historical_test_not_ready"
+      },
+      {
+        "original": "test-star-a2.png",
+        "path": "assets/tests/test-star-a2.webp",
+        "sha256": "8c77c36b96bd85a6f7f2f6d21bb7a909a66e7beb96ed53a955ab2fd45734d415",
+        "origin": "AI_generated_test",
+        "status": "historical_test_not_ready"
+      },
+      {
+        "original": "test-star-a3.png",
+        "path": "assets/tests/test-star-a3.webp",
+        "sha256": "e58962d006681df217cf0e3413b7992504429a225d75360e44b0a25a63f3fd16",
+        "origin": "AI_generated_test",
+        "status": "historical_test_not_ready"
+      },
+      {
+        "original": "test-buffer-b1.png",
+        "path": "assets/tests/test-buffer-b1.webp",
+        "sha256": "5da5e3ca4cae0c3371caaf3460e9d95cbec1cb45afbe249d2ec73c10e6cdc1c9",
+        "origin": "AI_generated_test",
+        "status": "historical_test_not_ready"
+      },
+      {
+        "original": "test-buffer-b2.png",
+        "path": "assets/tests/test-buffer-b2.webp",
+        "sha256": "98ca212738338d02e93332f48bfc954e156c222f3f7b57d61cfe4c84842093c3",
+        "origin": "AI_generated_test",
+        "status": "historical_test_not_ready"
+      },
+      {
+        "original": "test-buffer-b3.png",
+        "path": "assets/tests/test-buffer-b3.webp",
+        "sha256": "eb20647841ed2db29998fd77fb3f7c1f6dfb10736c7da022593f32269274938f",
+        "origin": "AI_generated_test",
+        "status": "historical_test_not_ready"
+      },
+      {
+        "original": "test-buffer-b4.png",
+        "path": "assets/tests/test-buffer-b4.webp",
+        "sha256": "c363b451a63f29a8ae83910f114ef2d32b9d5eead5179606ede128c502872a07",
+        "origin": "AI_generated_test",
+        "status": "historical_test_not_ready"
+      },
+      {
+        "original": "test-buffer-b5.png",
+        "path": "assets/tests/test-buffer-b5.webp",
+        "sha256": "9c58dd014a8ed39a80b8a8d8845d9efffd443a72e817d0b4b739da0f5fa28dc8",
+        "origin": "AI_generated_test",
+        "status": "historical_test_not_ready"
+      }
+    ],
+    "notes": "仅整理既有研究并接入研究库；本次未重新检索外部事实。原始采集日期和证据局限保留。"
+  }
+}
