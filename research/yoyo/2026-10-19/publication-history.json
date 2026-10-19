@@ -1,0 +1,31 @@
+{
+  "subject_id": "yoyo",
+  "earliest_creation": {
+    "date": null,
+    "lead": "地区零售页声称2019创立YOYO品牌；原始出处未核",
+    "sources": [
+      "S15"
+    ]
+  },
+  "first_exhibition": null,
+  "formal_book": null,
+  "isbn": null,
+  "first_commercial_product": {
+    "date": "2025-06",
+    "precision": "月",
+    "product": "萌趣歪头／ICONBOX手办盲盒",
+    "sources": [
+      "S01",
+      "S02"
+    ]
+  },
+  "copyright_registration": null,
+  "creator_interview": {
+    "name": "王涌泉",
+    "published": "2026-08-18",
+    "sources": [
+      "S02"
+    ]
+  },
+  "boundary": "商业首发、地区页品牌年份、快闪生日活动不是同一个日期概念。"
+}

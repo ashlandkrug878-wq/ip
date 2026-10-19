@@ -1,0 +1,473 @@
+{
+  "subject": "YOYO／右右酱（MINISO）",
+  "research_date": "2026-10-19",
+  "status": "partial",
+  "creator_public_name": "王涌泉",
+  "creator_birth_year": null,
+  "operating_brand": "MINISO／名创优品",
+  "parent_group": "MINISO Group",
+  "ownership_summary": "官方称自有／独家艺术家IP，艺术家及CMO采访支持独家签约合作。未取得具体著作权登记或合同，不断言完整版权转让。TOP TOY与MINISO是同集团不同品牌；小玉YUY及51%公司股权不是YOYO。",
+  "numbers": [
+    {
+      "metric": "GMV",
+      "value": 1000000000,
+      "operator": ">",
+      "currency": "CNY",
+      "period": "2026-01-01/2026-09-30",
+      "scope": "YOYO全系列，未分地区；不可自行限定中国或按国家分摊",
+      "source": "S01",
+      "assurance": "公司初步运营数据，未经审计/审阅"
+    }
+  ],
+  "hit_category": null,
+  "sources": [
+    {
+      "id": "S01",
+      "title": "MINISO Group's Latest Business Update",
+      "url": "https://ir.miniso.com/2026-10-09-MINISO-Groups-Latest-Business-Update",
+      "publisher": "MINISO Group IR",
+      "source_type": "primary_company_operational_update",
+      "family": "miniso_20261009_update",
+      "publication_date": "2026-10-09",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read",
+      "supports": [
+        "YOYO在2026年前9个月GMV超过人民币10亿元",
+        "首产品推出于2025年6月；进入53个国家和地区",
+        "集团有MINISO和TOP TOY两个品牌"
+      ],
+      "limitations": [
+        "公司初步运营数据，未经审计或审阅，可调整",
+        "GMV不是确认收入或利润；没有单SKU拆分；不代表全部国家表现相同"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "为什么偏偏是YOYO出圈？名创优品首次拆解超级IP养成记｜万字专访",
+      "url": "https://www.digitaling.com/articles/1563470.html",
+      "publisher": "刀法／数英",
+      "source_type": "primary_creator_and_executive_interview",
+      "family": "daofa_yoyo_interview",
+      "publication_date": "2026-08-18",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read",
+      "supports": [
+        "采访艺术家王涌泉及名创CMO刘晓彬；作者自述孩子观察、歪头与低情绪强度设计",
+        "举万物由玩家发展，作者表示最初没有预设此玩法",
+        "独家签约艺术家合作；首季萌趣歪头2025年6月上架，10月动销爬坡",
+        "CMO称首代中国价29.9元，玩总联名59元，1000%大型手办3999元"
+      ],
+      "limitations": [
+        "创作动机和商业解释是受访者自述；不等于因果研究",
+        "签约不证明全部著作权转让，未见合同、登记、签约日期",
+        "作者年龄、法定身份、国籍、首次创作日期未知",
+        "3999元未锁定独立SKU规格；不由1000%推算高度"
+      ],
+      "related_urls": [
+        "https://m.adquan.com/info/detail-362769"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "YOYO萌趣歪头系列-iconbox手办盲盒",
+      "url": "https://www.miniso.cn/product/ip_11.html",
+      "publisher": "MINISO中国官网",
+      "source_type": "primary_brand_product",
+      "family": "miniso_cn_yoyo_product",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read",
+      "supports": [
+        "官方款名：招财转转、蓝聆沙锤、橙光转转、白羽蒲蒲-特别款、幻彩星星-夜里发光星星款",
+        "橙光转转提供4款可替换道具；幻彩星星有夜光星星道具"
+      ],
+      "limitations": [
+        "页面无公开发布日期、价格、尺寸、材料；图片目录日期不等于首发"
+      ],
+      "image_urls": {
+        "招财转转": "https://www.miniso.cn/vancheerfile/images/2025/9/20250908104922280.png",
+        "蓝聆沙锤": "https://www.miniso.cn/vancheerfile/images/2025/9/20250908105029007.png",
+        "橙光转转": "https://www.miniso.cn/vancheerfile/images/2025/9/20250908105120209.png",
+        "白羽蒲蒲": "https://www.miniso.cn/vancheerfile/images/2025/9/20250908105225129.png",
+        "幻彩星星": "https://www.miniso.cn/vancheerfile/images/2025/9/20250908105317184.png"
+      },
+      "image_access": "主研究已实际查看蓝聆沙锤、橙光转转、招财转转三张官方图。"
+    },
+    {
+      "id": "S04",
+      "title": "TOP TOY International Group Limited申请版本（草拟本）",
+      "url": "https://www1.hkexnews.hk/app/sehk/2026/108384/documents/sehk26033103585_c.pdf",
+      "publisher": "TOP TOY／HKEX",
+      "source_type": "primary_company_listing_application",
+      "family": "toptoy_20260331_application",
+      "publication_date": "2026-03-31",
+      "accessed_at": "2026-10-19",
+      "access_status": "local_previously_downloaded_pdf_relevant_text_read",
+      "supports": [
+        "申请稿截至最后实际可行日期名创优品持股约86.9%，TOP TOY为附属公司",
+        "小玉在自有IP列表；相关51%公司股权为广州角闪石族艺术文化，与本YOYO不能混用"
+      ],
+      "limitations": [
+        "历史申请稿，不把86.9%称为2026-10-19实时持股",
+        "自有IP定义含拥有或独家授权；不能用于证明YOYO合同条款",
+        "集团、TOP TOY、其他IP数字均不能归给YOYO"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "YOYO联名迪士尼，名创优品刷新中国原创IP商业化纪录",
+      "url": "https://www.miniso.cn/brand/news_198.html",
+      "publisher": "MINISO",
+      "source_type": "primary_brand_release",
+      "family": "miniso_toy_story_202606",
+      "publication_date": "2026-07-10",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read",
+      "supports": [
+        "2026年6月19日YOYO玩具总动员5灵感系列上市",
+        "载体包括手办盲盒、搪胶毛绒、娃包、娃衣、手机挂绳；北上广快闪"
+      ],
+      "limitations": [
+        "品牌营销口径；榜单和热销叙述不能当精确SKU销量",
+        "没有本页材料配比、尺寸、定价"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "YOYO生日会三城同启",
+      "url": "https://www.miniso.cn/brand/news_197.html",
+      "publisher": "MINISO",
+      "source_type": "primary_brand_release",
+      "family": "miniso_yoyo_birthday_202607",
+      "publication_date": "2026-07-24",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read",
+      "supports": [
+        "7月24日至8月23日北京上海深圳快闪；30余款跨品类上新",
+        "我的生日心愿树脂摆件计划全球限量500件；Sweet House有10款雪糕甜品"
+      ],
+      "limitations": [
+        "500件为限量计划，不是售出量；无本页高度和价格",
+        "活动日期不能确认为角色生日或首创日期",
+        "计划/宣传不证明全部活动销售完成"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Blind Box Yoyo Tilted Head Collection 6 cm",
+      "url": "https://www.miniso.cl/blind-box-yoyo-tilted-head-collection-6-cm/p",
+      "publisher": "MINISO Chile",
+      "source_type": "primary_regional_brand_store",
+      "family": "miniso_latam_store",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read",
+      "supports": [
+        "SKU 2025358610105；约6cm；智利页面标价CLP9990"
+      ],
+      "limitations": [
+        "页面材料未披露；价格为访问时挂牌非首发价",
+        "页面19隐藏与约1/144为该地区当前商品文案，未核实国内不同批次，研究不传播统一概率"
+      ],
+      "related_urls": [
+        "https://www.miniso.pe/blind-box-yoyo-tilted-head-collection-6-cm-yoyokid/p"
+      ],
+      "regional_crosscheck": "秘鲁同SKU页面读到PEN29.90与约6cm；不能换算成中国价"
+    },
+    {
+      "id": "S08",
+      "title": "Blind Box YOYO Sure Win 13.5 cm 3 Piezas",
+      "url": "https://www.miniso.cl/blind-box-yoyo-sure-win-13-5-cm-3-piezas/p",
+      "publisher": "MINISO Chile",
+      "source_type": "primary_regional_brand_store",
+      "family": "miniso_latam_store",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read",
+      "supports": [
+        "SKU2033824310107；标题3件；约13.5cm；CLP16990；硬质聚合物",
+        "文案描述透明窗展示主件，其他件保留惊喜"
+      ],
+      "limitations": [
+        "未披露PVC/ABS配比；中文系列对应未确证",
+        "技术表16.1×13.4×14.4cm及0.20gr字段疑似包装/录入问题，不当公仔高度重量",
+        "未见可靠首发日期"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "YOYO Cheer Up Cuteness Vinyl Plush",
+      "url": "https://www.miniso.cl/figura-de-coleccion-yoyo-cheer-up-cuteness-12-cm-24-cm-vinyl-plush/p",
+      "publisher": "MINISO Chile",
+      "source_type": "primary_regional_brand_store",
+      "family": "miniso_latam_store",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read",
+      "supports": [
+        "SKU2034013210109；vinyl与plush结合；CLP16990",
+        "标题和文案列12cm/24cm两尺寸"
+      ],
+      "limitations": [
+        "尺寸及配置不清：正文偏24cm、标题含12/24cm、技术表不同；不强行选一个",
+        "中文系列名未确证；无配比与首发日期"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "宣传物料印泡泡玛特字样，名创优品：视觉示意图生成审核环节出错",
+      "url": "https://m.bjnews.com.cn/detail/1787041270169475.html",
+      "publisher": "新京报 张洁",
+      "source_type": "original_report_with_company_response",
+      "family": "yoyo_visual_error_202608",
+      "publication_date": "2026-08-18",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read",
+      "supports": [
+        "消费者发现YOYO宣传图底座有POP MART字样",
+        "名创回复记者：属于活动视觉示意图，生成审核环节有不准确元素，已下线并复核修正"
+      ],
+      "limitations": [
+        "报道不证明实际销售公仔印错",
+        "网友同厂或AI具体生成原因的猜测未被明确证实",
+        "这是素材治理反例，不能当版权侵权认定或产品缺陷率"
+      ],
+      "related_urls": [
+        "https://xinwen.bjd.com.cn/content/s6a82ea4ce4b03fa51a8307c2.html"
+      ],
+      "related_access": "北京日报原页超时，仅索引；采用已完整读取的新京报采访"
+    },
+    {
+      "id": "S11",
+      "title": "名创优品，急于捧出「下一个LABUBU」",
+      "url": "https://news.pedaily.cn/202602/561169.shtml",
+      "publisher": "36氪 兰杰／投资界转载",
+      "source_type": "original_reporting_republication",
+      "family": "36kr_yoyo_20260226",
+      "publication_date": "2026-02-26",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read",
+      "supports": [
+        "北京朝阳单店店员称每次约100多件到货，最快半小时售罄且补货不定",
+        "记者描述买不到、二手溢价，提供早期渠道摩擦反例"
+      ],
+      "limitations": [
+        "单店口述，不是全网销量或平均售罄速度",
+        "二手挂价不是成交价；不可验证每次与所有款",
+        "网站AI摘要没有采纳；文章来源同族不能重复算证据"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "达沃斯迎来中国IP时刻",
+      "url": "https://www.miniso.cn/brand/news_196.html",
+      "publisher": "MINISO",
+      "source_type": "primary_brand_release_conflicting_metric",
+      "family": "miniso_davos_202606",
+      "publication_date": "2026-06-25",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read",
+      "supports": [
+        "该页面称YOYO推出一年营收破10亿元"
+      ],
+      "limitations": [
+        "与S01后期清晰的2026年前9个月GMV超10亿元口径不同，无法核对所指期间、收入定义",
+        "保留为冲突记录，不入主指标，不用两者画增长线"
+      ]
+    },
+    {
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read",
+      "id": "S13",
+      "title": "YOYO逐风日记香薰绒感手办盲盒发售官微",
+      "url": "https://www.sina.cn/news/detail/5255422094872695.html",
+      "publisher": "名创优品认证微博／新浪",
+      "source_type": "primary_brand_social",
+      "family": "miniso_yoyo_wind_launch_202601",
+      "publication_date": "2026-01-15",
+      "supports": [
+        "认证主体名创优品（广州）有限责任公司；明确香薰绒感系列",
+        "2026-01-15 22:00线上开售，01-16全渠道通贩"
+      ],
+      "limitations": [
+        "此条正文不说明磁吸结构、价材尺寸；仅有视频链接，未观看视频"
+      ]
+    },
+    {
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read",
+      "id": "S14",
+      "title": "实探名创优品：IP潮玩类购需注册会员才能结账 日用品不需要",
+      "url": "https://www.dzwww.com/news/yw/202606/t20260605_17811017.htm",
+      "publisher": "海报新闻 秦文／大众网",
+      "source_type": "original_field_reporting_and_customer_service_response",
+      "family": "haibao_miniso_membership_202606",
+      "publication_date": "2026-06-05",
+      "supports": [
+        "记者济南单店实测盲盒须会员结算、日用品无需强制注册；免费注册",
+        "品牌客服称2025-12-15起全国门店及官方线上潮玩会员专享限购，每会员/ID单款每日2套"
+      ],
+      "limitations": [
+        "记者观察限济南单店与当日，不当现行全球规则",
+        "店员现场称指环爱神无系统限购标识，与客服一般政策口径有执行差异",
+        "这是交易摩擦/规则证据，不是YOYO质量差评或拒购率"
+      ]
+    },
+    {
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read",
+      "id": "S15",
+      "title": "Meet YOYO",
+      "url": "https://miniso.is/pages/meet-yoyo",
+      "publisher": "MINISO Iceland地区零售网站",
+      "source_type": "regional_brand_retailer_product_editorial",
+      "family": "miniso_iceland_yoyo",
+      "publication_date": null,
+      "supports": [
+        "Cupid系列光环可变成佩戴戒指",
+        "Fly with the Wind系列香味公仔具有可拆磁吸星星及旋转螺旋桨",
+        "地区页声称Yongquan Wang为北京80后、曾做动画/游戏设计、2019创立YOYO品牌"
+      ],
+      "limitations": [
+        "未见其引用的作者履历原始出处；2019仅列起源线索，未改主事实为确定年份",
+        "光环变戒指获文字支持，但与手心部件具体组合步骤未获一手说明",
+        "没有说明每款都具全部功能，不将磁吸外推至所有配件",
+        "无页面发布日期；站点与当地门店相连，具体运营授权合同未查"
+      ],
+      "image_urls": {
+        "区域商城头图": "https://miniso.is/cdn/shop/files/New_Project_6__9.png?crop=center&height=1200&v=1785929928&width=1200",
+        "Cupid活动图": "https://miniso.is/cdn/shop/files/741510253_1006891055313060_6764255839497514827_n.jpg?v=1785903921&width=1200",
+        "FlyWind活动图": "https://miniso.is/cdn/shop/files/MINISO02.jpg?v=1785904177&width=1200"
+      },
+      "image_access": "主研究已实际查看Cupid、Fly with the Wind活动图及页面毛绒穿搭图；均非二维角色母版。"
+    },
+    {
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read",
+      "id": "S16",
+      "title": "MINISO Yoyo Cupid Ring Collection Surprise Icon Blind Box",
+      "url": "https://minisoshop.co.uk/yoyo-cupid-ring-collection-surprise-icon-box",
+      "publisher": "MINISO UK Official Authorised Seller",
+      "source_type": "primary_authorized_regional_store",
+      "family": "miniso_uk_store",
+      "publication_date": null,
+      "supports": [
+        "Cupid Ring单盒英国标价GBP8.99；SKU/条码6942460481262"
+      ],
+      "limitations": [
+        "官网明确Official MINISO UK Authorised Seller；地区价格不当中国首发价",
+        "页面没有充分尺寸材料或部件组合文字"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "📍每天认识一个IP～YOYO",
+      "url": "https://xhslink.cn/o/AHIPp66mRXI",
+      "publisher": "IP课代表／小红书",
+      "note_id": "6a954d1a0000000006013ba9",
+      "displayed_date": "08-31（无年份）",
+      "images_seen": [
+        1
+      ],
+      "images_total": 4,
+      "visible_comment_items": 12,
+      "family": "xhs_yoyo_intro_repeated_claims",
+      "supports": [
+        "用户指定入口，正文已读；资源倾斜、可爱与买不到杯子等可见评论线索"
+      ],
+      "limitations": [
+        "作者名写作王永泉，与创作者采访王涌泉冲突，采用采访",
+        "Q1销售和精确45度未获相同口径证据",
+        "仅看第1张图片；可见评论含作者回复、空文字项，不等于12个买家"
+      ],
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "partial",
+      "source_type": "user_social_post"
+    },
+    {
+      "id": "S18",
+      "title": "没有名创的渠道，YOYO还有什么值得学？",
+      "url": "https://xhslink.cn/o/46LWIK7Iw62",
+      "publisher": "IP没熟／小红书",
+      "note_id": "6aabbcd70000000025035de4",
+      "displayed_date": "09-18（无年份）",
+      "images_seen": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "images_total": 7,
+      "visible_comment_items": 4,
+      "family": "xhs_yoyo_user_play_analysis",
+      "supports": [
+        "正文及7图已读，用户指定玩法分析入口",
+        "可见评论质疑实用性、讨论情绪价值，也有未注册会员买不到的自述"
+      ],
+      "limitations": [
+        "文章因果判断是作者观点",
+        "合集内转载的举物用户照片未回溯原账号，不算独立采访",
+        "评论含作者回复，非买家抽样；功能需产品来源交叉核对"
+      ],
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "partial",
+      "source_type": "user_social_post"
+    },
+    {
+      "id": "S19",
+      "title": "🍭每天认识一个IP❗️YOYO酱",
+      "url": "https://xhslink.cn/o/4GOdRcQ909a",
+      "publisher": "就爱分享／小红书",
+      "note_id": "6a9a9708000000001001e82e",
+      "displayed_date": "09-04（无年份）",
+      "images_seen": [
+        1
+      ],
+      "images_total": 4,
+      "visible_comment_items": 3,
+      "family": "xhs_yoyo_intro_repeated_claims",
+      "supports": [
+        "正文已读，1条可见评论自报拥有一桌公仔"
+      ],
+      "limitations": [
+        "仅看第1图；第4条评论未展开",
+        "作者姓名与数字和S17高度重复，不构成独立印证",
+        "封面二维形象原始来源不明，不作为官方母版；自报收藏无订单核验"
+      ],
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "partial",
+      "source_type": "user_social_post"
+    }
+  ],
+  "excluded_or_incomplete_sources": [
+    {
+      "url": "https://post.smzdm.com/p/a5rgq54l/",
+      "access_status": "search_snippet_only; full_open_failed",
+      "reason": "瑕疵/售后汇编来源未回溯原投诉，不计真实买家样本或质量证据"
+    },
+    {
+      "url": "https://finance.sina.com.cn/wm/2026-03-04/doc-inhpvayq3924799.shtml",
+      "access_status": "full_relevant_text_read",
+      "reason": "同文首发8月和6月矛盾，含不同口径数字；不作为主事实源"
+    }
+  ],
+  "gaps": [
+    "作者首次创作/首次展出日期与身份履历",
+    "完整版权链、签约日期和独家范围",
+    "中国官方完整4至6个SKU规格表",
+    "YOYO审计确认收入、利润与单SKU销量",
+    "地区产品页部分尺寸字段矛盾",
+    "小红书有可见评论与自报收藏个案，未取得订单核验或代表性抽样。"
+  ],
+  "supplemental_checks": {
+    "flat_illustration": "本轮限定检索未找到来源可靠且可确定为官方二维角色母版的图。冰岛官方商城头图已目检为3D公仔合成。建议对已看单SKU做平面投影，明确不是官方母版。",
+    "cupid_ring": "地区商城文字支持光环变戒指；手中部件具体拼法未完全核验。",
+    "wind_magnet": "官微证香薰与日期，地区商城证可拆磁吸星星；不泛化全款全配件。"
+  }
+}

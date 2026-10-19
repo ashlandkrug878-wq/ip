@@ -1,0 +1,436 @@
+{
+  "id": "yoyo",
+  "name": "YOYO 右右酱",
+  "aliases": [
+    "YOYO",
+    "右右酱",
+    "YOYO宝宝"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-19",
+  "updated": "2026-10-19",
+  "summary": "低情绪强度的歪头角色，通过可换道具承接用户参与，再进入多品类零售。参考辅助平面接近，纯文字未通过。",
+  "owner": {
+    "creator": "王涌泉（采访公开名）",
+    "operator": "MINISO／名创优品",
+    "relation": "品牌称自有／独家艺术家IP；未取得完整版权合同，不断言全部买断。与TOP TOY小玉不是同一IP。",
+    "since": null,
+    "sources": [
+      "S01",
+      "S02"
+    ]
+  },
+  "origin": {
+    "path": [
+      "艺术家潮玩",
+      "渠道孵化"
+    ],
+    "year": "首次创作待核；2019为地区零售页线索，2025-06为商品首发",
+    "story": "作者自述来自对孩子的观察和想象；品牌将角色开发为商品。",
+    "sources": [
+      "S01",
+      "S02",
+      "S15"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2019？",
+      "event": "冰岛地区零售页称这一年创立品牌；原始创作记录未核，仅保留为线索。",
+      "type": "self_report",
+      "sources": [
+        "S15"
+      ]
+    },
+    {
+      "date": "2025-06",
+      "event": "公司IR确认首批商品于此月推出；商业首发不等于最初创作日。",
+      "type": "self_report",
+      "sources": [
+        "S01"
+      ]
+    },
+    {
+      "date": "2026-01-15 / 16",
+      "event": "逐风日记香薰绒感：官微称15日22时线上、16日全渠道发售。",
+      "type": "self_report",
+      "sources": [
+        "S13"
+      ]
+    },
+    {
+      "date": "2026-06-19",
+      "event": "玩具总动员5灵感系列上市，扩展手办、搪胶毛绒及配件。",
+      "type": "self_report",
+      "sources": [
+        "S05"
+      ]
+    },
+    {
+      "date": "2026-07-24—08-23",
+      "event": "北京、上海、深圳生日快闪；活动日不能反推角色生日。",
+      "type": "self_report",
+      "sources": [
+        "S06"
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "event": "公司公布前9个月GMV与53个国家和地区覆盖。",
+      "type": "self_report",
+      "sources": [
+        "S01"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "你今天拿起什么，我就陪你一起。",
+    "sentence_type": "陪伴",
+    "basis": "inferred",
+    "sources": [
+      "S02",
+      "S03"
+    ]
+  },
+  "core": {
+    "personality": "温和、开放、可投射",
+    "emotion": "内收",
+    "action": "歪头、张臂或持物，让用户把自己的日常带入画面。",
+    "basis": "inferred"
+  },
+  "insight": {
+    "scene": "桌面摆放、换道具拍照、随身挂件",
+    "behavior": "选择配件、换装、给角色安排自己的场景",
+    "state": "希望拥有轻松而可参与的陪伴",
+    "conflict": "想要新鲜感，又希望熟悉角色持续在场",
+    "unsaid": "这一次它手里拿的是我的生活",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "角色玩具与日常配件消费者；年龄性别分布未知",
+    "where": "名创门店、线上零售、小红书及快闪",
+    "buy": "有自报收藏和缺货线索，无订单抽样或复购率",
+    "signs": "歪头、豆眼、短身与持物动作的组合",
+    "share": "换道具、收藏陈列、穿搭与购买经历",
+    "breakout": "多市场覆盖得到披露，具体各地渗透程度未知"
+  },
+  "pendulum": {
+    "position": "软萌治愈",
+    "against": "研究归纳：用低情绪强度与参与动作回应单次观看的局限；不声称这是全市场唯一方向。"
+  },
+  "form": {
+    "archetype": "类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "姿态",
+      "五官"
+    ],
+    "mark": "倾斜头部、宽额豆眼、弱鼻嘴与短身体的关系；不同系列有变化",
+    "face": "V01实心短椭圆眼、无可见鼻嘴、每侧三点雀斑与浅腮红",
+    "emotion": "内收",
+    "odd": "头部明显倾斜，双手仍可与道具产生关系",
+    "density": "中等",
+    "naming": "叠音",
+    "group": "单角色"
+  },
+  "collide_combo": "不可把倾斜圆方头＋短弧刘海＋豆眼雀斑配置＋短宽披衣身体＋特定握物比例整组搬作新IP。换色或换手中物不构成原创。",
+  "color": {
+    "mode": "多色系列",
+    "main": "本次目标红发、奶油脸、浅蓝衣、黄鞋与蓝沙锤",
+    "signature": "未核实全IP唯一签名色；V03白发、V04多色头发证明红发不是绝对规则",
+    "notes": "色值目测近似，非官方色号或生产标准"
+  },
+  "materials": "商品跨硬质公仔、树脂、搪胶毛绒与绒感香薰；逐款依据产品证据，不把照片表面光泽当配方。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "授权图案"
+  },
+  "product": {
+    "first_category": "盲盒手办",
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "首代中国29.9元为采访历史口径；智利6cm现价CLP9990、英国Cupid单盒GBP8.99，地区时点分列。",
+    "sources": [
+      "S02",
+      "S07",
+      "S16"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "GMV",
+      "value": 1000000000,
+      "operator": ">",
+      "unit": "CNY",
+      "period": "2026-01-01/2026-09-30",
+      "scope": "YOYO全系列，未分地区",
+      "type": "self_report",
+      "assurance": "公司初步数据，未经审计或审阅，可调整；非确认收入或利润",
+      "sources": [
+        "S01"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "让角色留一点表情空白。",
+      "type": "inference",
+      "evidence": "V01–V03小豆眼、弱鼻嘴，歪头比脸部戏剧表情更突出。",
+      "path": "低情绪强度 → 可被观者投射 → 日常陪伴候选",
+      "boundary": "是图像归纳与采访线索；没有消费者实验，不能证明无嘴直接提高销量。",
+      "sources": [
+        "S02",
+        "S03"
+      ]
+    },
+    {
+      "claim": "给用户一个可反复参与的动作。",
+      "type": "inference",
+      "evidence": "V02可换道具；V04–V05将配件变为佩戴或互动功能。",
+      "path": "可更换的手中物 → 生活进入角色 → 拍摄、摆放、再使用的可能",
+      "boundary": "作者称举万物并非预设玩法；可换配件不等于能安全承托任意物品。",
+      "sources": [
+        "S02",
+        "S03",
+        "S15"
+      ]
+    },
+    {
+      "claim": "把玩法放进可触达的商品系统。",
+      "type": "inference",
+      "evidence": "盲盒、毛绒、娃衣与手机配件形成不同接触场景；IR披露53个市场覆盖。",
+      "path": "低门槛单品与多载体 → 多场景接触 → 新用户进入的可能",
+      "boundary": "没有渠道对照实验；供应链、门店、定价与营销同样可能解释增长。",
+      "sources": [
+        "S01",
+        "S05",
+        "S07"
+      ]
+    }
+  ],
+  "counterexamples": "宣传视觉出现他品牌字样后下线修正，属于素材审核事件；会员结算与单店补货造成购买摩擦。未核实质量缺陷率或失败系列。",
+  "theory": {
+    "shell": "倾斜头部和紧凑面部关系形成可辨轮廓，衣色与道具允许变化。",
+    "core": "用户的生活物件与参与动作给低情绪角色补充内容；是研究解释。",
+    "shadow": "豆眼、歪头、盲盒都是常见元素；辨识来自组合与持续商业语境，不能单元素归因。",
+    "two_layers": {
+      "surface": "看到可爱的角色或日常配件",
+      "deep": "熟悉后参与换物、换装与收藏；尚无代表性访谈验证"
+    },
+    "validation": "有公司GMV披露与商品证据，未证明特定造型导致增长。"
+  },
+  "for_skills": {
+    "lab": "可借鉴：先找用户会反复做的日常动作，再定义陪伴表达；需真实用户验证。",
+    "form": "可借鉴：分开身份关系与可变配件；当前纯文字未通过，暂停原创造型迁移，不移植该专属组合。",
+    "studio": "候选：先验证握持、替换、耐用和实际使用频次，再扩品类；无结构图及样品，不推断承重与量产。当前暂停实物概念生成。"
+  },
+  "gaps": [
+    "首次创作、首展、正式出版物及ISBN未核；2019线索与2025商品首发分开。",
+    "完整著作权链、签约日、期限、地域和分成未取得。",
+    "官方正侧背和二维母版缺失；本次只把蓝聆沙锤正面商品图转成平面。",
+    "中国官方完整SKU价材尺寸不足；地区商品参数有冲突，不能跨款拼接。",
+    "未取得独立利润、销量、复购或用户人口统计；GMV不是确认收入。",
+    "三篇小红书及可见评论不构成样本调查；站内两次搜索遇登录墙。",
+    "三轮纯文字均需修订；参考图辅助接近不能解除纯文字关卡。",
+    "英文、黑白找形、实物概念和原创迁移尚未测试，后续暂停。"
+  ],
+  "sources": [
+    {
+      "id": "research-web",
+      "title": "YOYO 右右酱完整调研网页与四轮平面实测",
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/yoyo/2026-10-19/",
+      "publisher": "本研究归档",
+      "published": "2026-10-19",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S01",
+      "title": "MINISO Group's Latest Business Update",
+      "url": "https://ir.miniso.com/2026-10-09-MINISO-Groups-Latest-Business-Update",
+      "publisher": "MINISO Group IR",
+      "published": "2026-10-09",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S02",
+      "title": "为什么偏偏是YOYO出圈？名创优品首次拆解超级IP养成记｜万字专访",
+      "url": "https://www.digitaling.com/articles/1563470.html",
+      "publisher": "刀法／数英",
+      "published": "2026-08-18",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S03",
+      "title": "YOYO萌趣歪头系列-iconbox手办盲盒",
+      "url": "https://www.miniso.cn/product/ip_11.html",
+      "publisher": "MINISO中国官网",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S04",
+      "title": "TOP TOY International Group Limited申请版本（草拟本）",
+      "url": "https://www1.hkexnews.hk/app/sehk/2026/108384/documents/sehk26033103585_c.pdf",
+      "publisher": "TOP TOY／HKEX",
+      "published": "2026-03-31",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S05",
+      "title": "YOYO联名迪士尼，名创优品刷新中国原创IP商业化纪录",
+      "url": "https://www.miniso.cn/brand/news_198.html",
+      "publisher": "MINISO",
+      "published": "2026-07-10",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S06",
+      "title": "YOYO生日会三城同启",
+      "url": "https://www.miniso.cn/brand/news_197.html",
+      "publisher": "MINISO",
+      "published": "2026-07-24",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S07",
+      "title": "Blind Box Yoyo Tilted Head Collection 6 cm",
+      "url": "https://www.miniso.cl/blind-box-yoyo-tilted-head-collection-6-cm/p",
+      "publisher": "MINISO Chile",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S08",
+      "title": "Blind Box YOYO Sure Win 13.5 cm 3 Piezas",
+      "url": "https://www.miniso.cl/blind-box-yoyo-sure-win-13-5-cm-3-piezas/p",
+      "publisher": "MINISO Chile",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S09",
+      "title": "YOYO Cheer Up Cuteness Vinyl Plush",
+      "url": "https://www.miniso.cl/figura-de-coleccion-yoyo-cheer-up-cuteness-12-cm-24-cm-vinyl-plush/p",
+      "publisher": "MINISO Chile",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S10",
+      "title": "宣传物料印泡泡玛特字样，名创优品：视觉示意图生成审核环节出错",
+      "url": "https://m.bjnews.com.cn/detail/1787041270169475.html",
+      "publisher": "新京报 张洁",
+      "published": "2026-08-18",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S11",
+      "title": "名创优品，急于捧出「下一个LABUBU」",
+      "url": "https://news.pedaily.cn/202602/561169.shtml",
+      "publisher": "36氪 兰杰／投资界转载",
+      "published": "2026-02-26",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S12",
+      "title": "达沃斯迎来中国IP时刻",
+      "url": "https://www.miniso.cn/brand/news_196.html",
+      "publisher": "MINISO",
+      "published": "2026-06-25",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S13",
+      "title": "YOYO逐风日记香薰绒感手办盲盒发售官微",
+      "url": "https://www.sina.cn/news/detail/5255422094872695.html",
+      "publisher": "名创优品认证微博／新浪",
+      "published": "2026-01-15",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S14",
+      "title": "实探名创优品：IP潮玩类购需注册会员才能结账 日用品不需要",
+      "url": "https://www.dzwww.com/news/yw/202606/t20260605_17811017.htm",
+      "publisher": "海报新闻 秦文／大众网",
+      "published": "2026-06-05",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S15",
+      "title": "Meet YOYO",
+      "url": "https://miniso.is/pages/meet-yoyo",
+      "publisher": "MINISO Iceland地区零售网站",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S16",
+      "title": "MINISO Yoyo Cupid Ring Collection Surprise Icon Blind Box",
+      "url": "https://minisoshop.co.uk/yoyo-cupid-ring-collection-surprise-icon-box",
+      "publisher": "MINISO UK Official Authorised Seller",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S17",
+      "title": "📍每天认识一个IP～YOYO",
+      "url": "https://xhslink.cn/o/AHIPp66mRXI",
+      "publisher": "IP课代表／小红书",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "partial"
+    },
+    {
+      "id": "S18",
+      "title": "没有名创的渠道，YOYO还有什么值得学？",
+      "url": "https://xhslink.cn/o/46LWIK7Iw62",
+      "publisher": "IP没熟／小红书",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "partial"
+    },
+    {
+      "id": "S19",
+      "title": "🍭每天认识一个IP❗️YOYO酱",
+      "url": "https://xhslink.cn/o/4GOdRcQ909a",
+      "publisher": "就爱分享／小红书",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "partial"
+    }
+  ],
+  "archive": "research/yoyo/2026-10-19/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/yoyo/2026-10-19/",
+  "prompt_gate": {
+    "pure_text_gate_passed": false,
+    "reference_assisted_ready": [
+      "reference-v1"
+    ],
+    "downstream_status": "blocked",
+    "user_approved": false
+  },
+  "publication": {
+    "date": "2026-10-19",
+    "destination": "选品板研究库 / GitHub Pages",
+    "user_authorized": true,
+    "note": "用户确认归档；纯文字未通过状态保留。生成图压缩为768px webp，完整图保留原审阅网页。"
+  }
+}

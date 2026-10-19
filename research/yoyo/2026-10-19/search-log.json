@@ -1,0 +1,61 @@
+{
+  "subject_id": "yoyo",
+  "observed_at": "2026-10-19",
+  "timezone": "Asia/Shanghai",
+  "posts": [
+    {
+      "id": "S17",
+      "url": "https://xhslink.cn/o/AHIPp66mRXI",
+      "note_id": "6a954d1a0000000006013ba9",
+      "displayed_date": "08-31（无年份）",
+      "images_seen": [
+        1
+      ],
+      "images_total": 4,
+      "visible_comment_items": 12
+    },
+    {
+      "id": "S18",
+      "url": "https://xhslink.cn/o/46LWIK7Iw62",
+      "note_id": "6aabbcd70000000025035de4",
+      "displayed_date": "09-18（无年份）",
+      "images_seen": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "images_total": 7,
+      "visible_comment_items": 4
+    },
+    {
+      "id": "S19",
+      "url": "https://xhslink.cn/o/4GOdRcQ909a",
+      "note_id": "6a9a9708000000001001e82e",
+      "displayed_date": "09-04（无年份）",
+      "images_seen": [
+        1
+      ],
+      "images_total": 4,
+      "visible_comment_items": 3
+    }
+  ],
+  "queries": [
+    {
+      "query": "YOYO 品牌介绍",
+      "status": "blocked",
+      "observed_message": "登录后查看搜索结果"
+    },
+    {
+      "query": "YOYO 产品汇总",
+      "status": "blocked",
+      "observed_message": "登录后查看搜索结果"
+    }
+  ],
+  "scope": "三篇正文、共9张图片、19个可见评论条目；非19位消费者，含回复与无文字条目。不代表通读全部评论。",
+  "auth": "使用已提供网页会话；未绕过登录墙。",
+  "dedup": "S17和S19重复叙述按同一证据家族处理；S18转载UGC未取得原始出处。"
+}
