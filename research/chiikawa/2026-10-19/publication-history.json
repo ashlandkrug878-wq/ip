@@ -1,0 +1,40 @@
+{
+  "origin_medium": "社交平台漫画",
+  "creator": "Nagano／ナガノ",
+  "first_volume": {
+    "title": "ちいかわ なんか小さくてかわいいやつ（1）",
+    "publisher": "講談社",
+    "release_date": "2021-02-12",
+    "isbn": "9784065223963",
+    "format": "A5",
+    "pages": 128,
+    "current_price": {
+      "value": 1375,
+      "currency": "JPY",
+      "tax_included": true,
+      "as_of": "2026-10-19"
+    },
+    "copyright_page_seen": false,
+    "first_printing_date": null,
+    "sources": [
+      "S04"
+    ]
+  },
+  "chinese_editions": [
+    {
+      "edition": "繁体",
+      "role": "台湾角川第6卷出版公告",
+      "sources": [
+        "S07"
+      ]
+    },
+    {
+      "edition": "简体",
+      "role": "天闻角川官方店售卖1–2卷；版权页与法律出版主体待核",
+      "sources": [
+        "S08"
+      ]
+    }
+  ],
+  "content_access": "已看卷1封面，已读卷2官方简介；未通读漫画全卷、未看电影全片。"
+}

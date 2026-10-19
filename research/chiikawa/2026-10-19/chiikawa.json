@@ -1,0 +1,482 @@
+{
+  "id": "chiikawa",
+  "name": "Chiikawa 吉伊卡哇",
+  "aliases": [
+    "ちいかわ",
+    "吉伊卡哇",
+    "小可爱",
+    "ちいかわ なんか小さくてかわいいやつ"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-19",
+  "updated": "2026-10-19",
+  "summary": "内容先行的角色群：软萌外形容纳生活压力与友情，故事片段再进入商品。纯文字平面V4接近指定主角样本，等待审阅。",
+  "owner": {
+    "creator": "Nagano／ナガノ",
+    "operator": "SPIRALCUTE（许可管理）；出版、动画、零售和地域合作另分主体",
+    "relation": "官网©nagano；SPIRALCUTE为角色许可业务主体，非原创作者。未取得完整权利合同。",
+    "since": null,
+    "sources": [
+      "S01",
+      "S02",
+      "S03",
+      "S06"
+    ]
+  },
+  "origin": {
+    "path": [
+      "网络插画"
+    ],
+    "year": "2017原型／2020-01持续漫画（二手回溯）",
+    "story": "从社交平台漫画发展为出版、动画与授权商品，不能从毛绒或盲盒倒推起源。",
+    "sources": [
+      "S01",
+      "S05"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2017",
+      "event": "原型出现：二手报道回溯；原始X帖本轮未读到。",
+      "type": "fact",
+      "sources": [
+        "S05"
+      ]
+    },
+    {
+      "date": "2020-01",
+      "event": "专门账号开始持续发布漫画；精确首帖日与最早性仍待原帖核对。",
+      "type": "fact",
+      "sources": [
+        "S05"
+      ]
+    },
+    {
+      "date": "2021-02-12",
+      "event": "日文漫画第1卷发售，作者Nagano，讲谈社。",
+      "type": "fact",
+      "sources": [
+        "S04"
+      ]
+    },
+    {
+      "date": "2022-04",
+      "event": "电视动画开始播出，内容从社交漫画进入影像载体。",
+      "type": "fact",
+      "sources": [
+        "S05",
+        "S21"
+      ]
+    },
+    {
+      "date": "2024-10",
+      "event": "阿里鱼与SPIRALCUTE合作涵盖Chiikawa；未取得完整排他范围或期限。",
+      "type": "self_report",
+      "sources": [
+        "S06"
+      ]
+    },
+    {
+      "date": "2026-07-24",
+      "event": "电影《人魚の島のひみつ》在日本上映，原作与脚本Nagano。",
+      "type": "self_report",
+      "sources": [
+        "S23"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "日子不总是轻松，小小的我们还想一起过。",
+    "sentence_type": "反差",
+    "basis": "inferred",
+    "sources": [
+      "S01",
+      "S19"
+    ]
+  },
+  "core": {
+    "personality": "胆怯、努力、重友情（主角研究归纳）",
+    "emotion": "反差",
+    "action": "劳动、备考、与朋友分享和面对不安。",
+    "basis": "inferred"
+  },
+  "insight": {
+    "scene": "面对劳动与考试压力，也想保留朋友间的小快乐",
+    "behavior": "阅读连载、识别情节、挑选角色与故事周边",
+    "state": "脆弱和行动可以共存",
+    "conflict": "想被温柔对待，但生活不会取消难题",
+    "unsaid": "我害怕，但仍想和朋友一起继续",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "漫画、动画及角色周边受众；年龄性别比例未知",
+    "where": "社交平台、出版、电视／影院、官方商店与授权零售",
+    "buy": "有平台活动成交额与电影票房披露，未取得购买原因或复购抽样",
+    "signs": "三角色差异、表情、剧情物件与台词；不能以认梗推算付费",
+    "share": "表情和故事片段的分享是研究方向；本轮小红书评论未见可核验订单",
+    "breakout": "跨媒介与多品类已核；各市场渗透率未知"
+  },
+  "pendulum": {
+    "position": "软萌治愈",
+    "against": "研究归纳：软萌并不保证生活无忧；压力、荒诞与互相照顾并存。未做全市场审美占比调查。"
+  },
+  "form": {
+    "archetype": "动物类人",
+    "silhouette": "头身一体",
+    "mark_position": [
+      "五官",
+      "整体轮廓"
+    ],
+    "mark": "主角白色宽圆头连短腹、小圆耳、短肢与小五官；群像通过耳形和色区区分",
+    "face": "小眉、小眼和w形口部，粉颊短斜线；睁闭眼与颊线数量随样本变化",
+    "emotion": "反差",
+    "odd": "极小体量面对劳动和危险；视觉仍保持低复杂度",
+    "density": "极简",
+    "naming": "描述",
+    "group": "角色群"
+  },
+  "collide_combo": "白色一体圆团＋小圆耳＋特定眉眼口部＋粉颊斜线＋短肢比例，连同三角色对应关系，不宜整组移植成新IP。换色并不等于原创。",
+  "color": {
+    "mode": "白底加签名色",
+    "main": "主角白色、近黑线、粉色腮红",
+    "signature": "粉颊是本次主角的识别候选，并非全角色群唯一签名色；蓝黄主要属于其他角色",
+    "notes": "色值为目测近似，不是官方色号。闭眼目标与睁眼商品分开。"
+  },
+  "materials": "2D黑线平涂；官方毛绒为聚酯纤维，杯为瓷器，立牌为亚克力；具体结构和工艺随载体改变。",
+  "carrier": {
+    "primary": "绘本漫画",
+    "secondary": "授权图案"
+  },
+  "product": {
+    "first_category": null,
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "日本现价：迷你挂件1320、S毛绒2090、毛量款2530、杯1430、随机立牌单个550日元（含税）；不代表全IP价格带。",
+    "sources": [
+      "S12",
+      "S13",
+      "S14",
+      "S15",
+      "S16"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "天猫双11品牌成交额",
+      "value": 10000000,
+      "operator": ">",
+      "unit": "CNY",
+      "period": "2024-10-14/2024-11-11",
+      "scope": "天猫平台活动全周期Chiikawa品牌",
+      "type": "self_report",
+      "sources": [
+        "S09"
+      ]
+    },
+    {
+      "metric": "电影日本开画3日票房",
+      "value": 2240333500,
+      "unit": "JPY",
+      "period": "2026-07-24/2026-07-26",
+      "scope": "《人魚の島のひみつ》日本447家影院；不含全档期或全球IP业务",
+      "type": "self_report",
+      "sources": [
+        "S23"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "柔软外形承接有代价的生活。",
+      "type": "inference",
+      "evidence": "官方简介同时出现快乐、辛酸与艰难；第二卷简介写劳动、资格考试、报酬和给朋友买礼物。",
+      "boundary": "内容反差有一手依据；它如何驱动购买尚缺消费者研究。不是所有读者都把角色当成打工人。",
+      "sources": [
+        "S01",
+        "S19"
+      ]
+    },
+    {
+      "claim": "角色关系让情绪有来有回。",
+      "type": "inference",
+      "evidence": "三角色共享简单线条，却有耳形、配色和表达方式差异；小八有清晰台词，获授权玩具收录100余句。",
+      "boundary": "三人组只是主要样本，不是全部角色。不能把差异诊断成人格疾病，也不把小八说成全角色群唯一会说话者。",
+      "sources": [
+        "S01",
+        "S18"
+      ]
+    },
+    {
+      "claim": "把记得的情节变成能带走的物件。",
+      "type": "inference",
+      "evidence": "毛量变化毛绒、漫画马克杯、日常片段亚克力与带劳动玩法的电子玩具，连接内容与载体。",
+      "boundary": "商品存在已核实；熟悉剧情是否提高复购、哪个品类最畅销，尚无数据。",
+      "sources": [
+        "S13",
+        "S15",
+        "S16",
+        "S17"
+      ]
+    }
+  ],
+  "counterexamples": "2025年部分草莓费南雪包装封口不足出现霉菌，实施限定范围召回；整盒随机立牌不保证集齐；未核实全IP质量缺陷率或失败系列。",
+  "theory": {
+    "shell": "大白色块、小五官、短肢与群像差异降低视觉读取负担。",
+    "core": "劳动、考试、恐惧与分享并存，让柔软外壳有具体生活。",
+    "shadow": "圆形、小耳、粉颊是常见元素；差异来自比例组合、线条和持续关系，不能单凭公共元素判断商业效果。",
+    "two_layers": {
+      "surface": "路人可能先喜欢可爱外形或日常用品；属于假设。",
+      "deep": "熟悉者可能认出毛量、考试和朋友互动；剧情辨识是否转化复购待验证。"
+    },
+    "validation": "平台成交额和电影票房强于点赞，但均不解释个人购买动机；指定笔记可见评论不能代表消费者调查。"
+  },
+  "for_skills": {
+    "lab": "先写具体的生活难题和角色的应对方式；允许脆弱与行动共存，不只贴治愈标签。",
+    "form": "可借大色块和小表情之间的尺度关系、角色群的差异化规则；不能搬白团五官与三人组识别组合。",
+    "studio": "优先让商品记住一个内容瞬间，再匹配毛绒、图案、互动等载体。随机规则与食品质量必须逐款核对，销售效果待测。"
+  },
+  "gaps": [
+    "最早X原帖本轮403，2017原型和2020年1月专门账号时间来自二手资料。",
+    "未取得简体漫画版权页、授权合同和全部地域期限。",
+    "全球IP收入、授权收入、SKU销量、利润、复购和受众人口分布未知。",
+    "小红书仅指定一篇及可见内容，两组站内搜索遇登录墙。",
+    "本轮六个代表视觉样本已逐图查看，未看漫画全卷或电影全片。",
+    "V4仅单次纯文字中文平面结果接近，尚未做重复稳定性测试；耳、手脚偏大。",
+    "英文、原创黑白找形、原创平面上色与实物概念未测试，本轮不作为正式可用词交付。",
+    "没有与相似但未成功IP的同口径对照，也没有独立失败系列销售数据。"
+  ],
+  "sources": [
+    {
+      "id": "research-web",
+      "title": "Chiikawa 吉伊卡哇完整调研网页与四轮平面实测",
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/chiikawa/2026-10-19/",
+      "publisher": "本研究归档",
+      "published": "2026-10-19",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S01",
+      "title": "ちいかわ / Chiikawa 官方角色页",
+      "url": "https://spiralcute.com/characters/chiikawa/",
+      "publisher": "SPIRALCUTE",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S02",
+      "title": "SPIRALCUTE 会社概要",
+      "url": "https://spiralcute.com/company/",
+      "publisher": "SPIRALCUTE",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S03",
+      "title": "ちいかわマーケット 会社概要",
+      "url": "https://chiikawamarket.jp/pages/company",
+      "publisher": "Gray Parka Service",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S04",
+      "title": "ちいかわ なんか小さくてかわいいやつ（1）",
+      "url": "https://www.kodansha.co.jp/comic/products/0000349299",
+      "publisher": "講談社",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S05",
+      "title": "ちいかわ现象与起源分析",
+      "url": "https://www.nippon.com/ja/in-depth/d01122/",
+      "publisher": "nippon.com",
+      "published": "2025-04-28",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S06",
+      "title": "大麥娛樂 2024/25 環境、社會及管治報告",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0722/2025072201065_c.pdf",
+      "publisher": "大麥娛樂／HKEX",
+      "published": "2025-07-22",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S07",
+      "title": "吉伊卡哇第6卷繁体中文版限量珍藏版公告",
+      "url": "https://www.kadokawa.com.tw/zh-hant/blog/posts/20241004",
+      "publisher": "台灣角川",
+      "published": "2024-10-03",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S08",
+      "title": "chiikawa吉伊卡哇简体漫画1–2官方销售页",
+      "url": "https://detail.youzan.com/show/goods?alias=1ylcntsalmxtckw&from_source=gbox_seo",
+      "publisher": "天闻角川官方旗舰店",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S09",
+      "title": "2024天猫双11全周期数据",
+      "url": "https://www.alibabagroup.com/zh-HK/document-1793474900090945536",
+      "publisher": "阿里巴巴集团",
+      "published": "2024-11-12",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S10",
+      "title": "いちごフィナンシェ自主回収のお知らせ",
+      "url": "https://chiikawabakery.jp/20251111_news/",
+      "publisher": "ちいかわベーカリー／LTR",
+      "published": "2025-11-11",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S11",
+      "title": "メルカリ与スパイラルキュート合作公告",
+      "url": "https://spiralcute.com/news/information/",
+      "publisher": "SPIRALCUTE",
+      "published": "2023-03-29",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S12",
+      "title": "もちっとぬいぐるみS（ちいかわ）",
+      "url": "https://chiikawamarket.jp/products/4582662917828",
+      "publisher": "ちいかわマーケット",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S13",
+      "title": "増えちゃった毛量なちいかわぬいぐるみS",
+      "url": "https://chiikawamarket.jp/products/4582662906549",
+      "publisher": "ちいかわマーケット",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S14",
+      "title": "もちっとぷちミニマスコット（ちいかわ）",
+      "url": "https://chiikawamarket.jp/products/4582662917873",
+      "publisher": "ちいかわマーケット",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S15",
+      "title": "コミックマグ（～比率～ちいかわ）",
+      "url": "https://chiikawamarket.jp/products/4994209146347",
+      "publisher": "ちいかわマーケット",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S16",
+      "title": "トレーディングアクリルスタンド（たのしい毎日編）（全10種）",
+      "url": "https://chiikawamarket.jp/products/4582662910980",
+      "publisher": "ちいかわマーケット",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S17",
+      "title": "ちいかわといっしょ むちゃかわピンク",
+      "url": "https://toy.bandai.co.jp/ja/item/01_4005/",
+      "publisher": "BANDAI",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S18",
+      "title": "おへんじするよッ 超いっぱいッおしゃべりハチワレ",
+      "url": "https://toy.bandai.co.jp/ja/item/01_4000/",
+      "publisher": "BANDAI",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S19",
+      "title": "ちいかわ（2）官方内容简介",
+      "url": "https://cstation.kodansha.co.jp/mangaip/database/0000354016",
+      "publisher": "講談社マンガIPサーチ",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S20",
+      "title": "Chiikawa珠宝官方合集",
+      "url": "https://www.chowtaifook.com/sg/eshop/jewellery/collections/chiikawa",
+      "publisher": "Chow Tai Fook",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S21",
+      "title": "动画ちいかわ官网及角色页",
+      "url": "https://www.anime-chiikawa.jp/",
+      "publisher": "ちいかわ动画官方",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S22",
+      "title": "每日IP｜它不是童话，是成年人的生存模拟器",
+      "url": "https://xhslink.cn/o/2AhoAHWrLVW",
+      "publisher": "IP商业研究星球／小红书",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "partial"
+    },
+    {
+      "id": "S23",
+      "title": "映画ちいかわ公开三日成绩及作品资料",
+      "url": "https://www.fujitv.co.jp/fujitv/news/20260808.html",
+      "publisher": "富士电视台",
+      "published": "2026-07-27",
+      "observed": "2026-10-19",
+      "access": "full"
+    }
+  ],
+  "archive": "research/chiikawa/2026-10-19/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/chiikawa/2026-10-19/",
+  "prompt_gate": {
+    "status": "limited_2d_near",
+    "selected": "text-v4",
+    "scope": "V01中央白色主角闭眼抬脚正面单图",
+    "user_approved": false,
+    "downstream": "not_tested"
+  },
+  "publication": {
+    "date": "2026-10-19",
+    "destination": "选品板研究库 / GitHub Pages",
+    "user_authorized": true,
+    "note": "用户确认归档；V4限定二维样本接近，未执行的后续步骤状态保留。生成图压缩为768px webp，完整图保留原审阅网页。"
+  }
+}

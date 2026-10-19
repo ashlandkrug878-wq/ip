@@ -1,0 +1,467 @@
+{
+  "ip": "Chiikawa / ちいかわ / 吉伊卡哇",
+  "as_of": "2026-10-19",
+  "research_scope": "公开资料事实核验；不含XHS；图像待主代理目检",
+  "sources": [
+    {
+      "id": "S01",
+      "title": "ちいかわ / Chiikawa 官方角色页",
+      "url": "https://spiralcute.com/characters/chiikawa/",
+      "publisher": "SPIRALCUTE",
+      "source_type": "primary_official",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "正文已读",
+      "supports": [
+        "创作者为插画家 Nagano，作品从 SNS 漫画出发；版权标识©nagano。",
+        "列出Chiikawa、Hachiware、Usagi及作者、漫画、商品官方账号。"
+      ],
+      "limitations": "角色展示与授权窗口，不公开全部权利合同，不能据此声称版权转让。",
+      "family": "spiralcute",
+      "image_urls": [
+        {
+          "url": "https://spiralcute.com/characters/img/characters/thumb_chiikawa.jpg",
+          "visual_inspected": false
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "SPIRALCUTE 会社概要",
+      "url": "https://spiralcute.com/company/",
+      "publisher": "SPIRALCUTE",
+      "source_type": "primary_corporate",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "正文已读",
+      "supports": [
+        "主营角色授权、角色策划设计、商品策划开发与推广。"
+      ],
+      "limitations": "公司业务介绍与S01合看支持授权运营角色；无收购Nagano或Chiikawa证据。",
+      "family": "spiralcute"
+    },
+    {
+      "id": "S03",
+      "title": "ちいかわマーケット 会社概要",
+      "url": "https://chiikawamarket.jp/pages/company",
+      "publisher": "Gray Parka Service",
+      "source_type": "primary_corporate",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "正文已读",
+      "supports": [
+        "官方商城运营主体为株式会社グレイ・パーカー・サービス；业务含商品企划制造销售。"
+      ],
+      "limitations": "商城运营者不等于所有商品制造者或原始版权所有人。",
+      "family": "grayparka",
+      "related_urls": [
+        "https://grayparkaservice.com/"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "ちいかわ なんか小さくてかわいいやつ（1）",
+      "url": "https://www.kodansha.co.jp/comic/products/0000349299",
+      "publisher": "講談社",
+      "source_type": "primary_publisher",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "正文已读",
+      "supports": [
+        "作者Nagano；发售2021-02-12；ISBN9784065223963。",
+        "当前定价1375日元含税，税前1250；A5、128页由版元书目交叉核验。"
+      ],
+      "limitations": "搜索工具403；直接下载官方HTML成功并核读字段。当前价不当作2021首发价。",
+      "family": "kodansha",
+      "access_detail": "官方HTML保存refs/book1.html；hanmoto书目正文交叉验证，后者更新2026-10-13",
+      "related_urls": [
+        "https://www.hanmoto.com/bd/isbn/9784065223963"
+      ],
+      "image_urls": [
+        {
+          "url": "https://dvs-cover.kodansha.co.jp/0000349299/ET2o0YvqQ18MRJ35RyGW891gRaagQsvHWphUxkZk.jpg",
+          "visual_inspected": false
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "ちいかわ现象与起源分析",
+      "url": "https://www.nippon.com/ja/in-depth/d01122/",
+      "publisher": "nippon.com",
+      "source_type": "secondary_analysis",
+      "publication_date": "2025-04-28",
+      "accessed_at": "2026-10-19",
+      "access_status": "正文已读",
+      "supports": [
+        "梳理2017年Nagano账号原型、2020年1月独立账号漫画、2022年4月动画。"
+      ],
+      "limitations": "历史梳理是二手来源。2017-05-01、2020-01-19的原始X帖找到但403，精确日与最早性不能声称已一手核实。",
+      "family": "nippon",
+      "related_urls": [
+        "https://twitter.com/ngntrtr/status/859037354920624128",
+        "https://twitter.com/ngnchiikawa/status/1218762360187281409"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "大麥娛樂 2024/25 環境、社會及管治報告",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0722/2025072201065_c.pdf",
+      "publisher": "大麥娛樂／HKEX",
+      "source_type": "primary_company_filing",
+      "publication_date": "2025-07-22",
+      "accessed_at": "2026-10-19",
+      "access_status": "正文已读",
+      "supports": [
+        "2024年10月阿里鱼与SPIRALCUTE达成战略合作，围绕吉伊卡哇、点赞鹅等IP深度运营。"
+      ],
+      "limitations": "报告紧邻的中国大陆五年独家授权是《乱马1/2》，不能挪到Chiikawa；本段不证明收购或全部版权转让。",
+      "family": "alibaba",
+      "access_detail": "PDF下载并pdftotext，refs/damai-20250722.pdf和txt"
+    },
+    {
+      "id": "S07",
+      "title": "吉伊卡哇第6卷繁体中文版限量珍藏版公告",
+      "url": "https://www.kadokawa.com.tw/zh-hant/blog/posts/20241004",
+      "publisher": "台灣角川",
+      "source_type": "primary_publisher",
+      "publication_date": "2024-10-03",
+      "accessed_at": "2026-10-19",
+      "access_status": "正文已读",
+      "supports": [
+        "明确台湾角川推出第6卷繁体中文版，计划2024年12月中旬上市；版权标记©nagano / Kodansha Ltd.。",
+        "珍藏版定价NT$799，含漫画、纸胶带、拍照棒、手札等。"
+      ],
+      "limitations": "网页日期10/3，标题与正文预购从10/4；不能把URL日期当发布日；繁体出版不等于全中文或商品总授权。",
+      "family": "kadokawa_tw"
+    },
+    {
+      "id": "S08",
+      "title": "chiikawa吉伊卡哇简体漫画1–2官方销售页",
+      "url": "https://detail.youzan.com/show/goods?alias=1ylcntsalmxtckw&from_source=gbox_seo",
+      "publisher": "天闻角川官方旗舰店",
+      "source_type": "primary_official_store",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "正文已读",
+      "supports": [
+        "官方旗舰店售卖简体中文版漫画1–2，支持天闻角川的简体版产品经营关系。"
+      ],
+      "limitations": "未读到出版版权页，简体出版社及合同链条本轮不下结论；合集价格区间不当某一单卷价格。",
+      "family": "tianwen_kadokawa"
+    },
+    {
+      "id": "S09",
+      "title": "2024天猫双11全周期数据",
+      "url": "https://www.alibabagroup.com/zh-HK/document-1793474900090945536",
+      "publisher": "阿里巴巴集团",
+      "source_type": "primary_company_announcement",
+      "publication_date": "2024-11-12",
+      "accessed_at": "2026-10-19",
+      "access_status": "正文已读",
+      "supports": [
+        "2024-10-14至11-11天猫双11全周期，Chiikawa列入成交额超过人民币1000万元的品牌。"
+      ],
+      "limitations": "企业自报的平台活动成交额阈值；不是全球IP收入、授权费、利润、年度流水或某SKU销量。",
+      "family": "alibaba"
+    },
+    {
+      "id": "S10",
+      "title": "いちごフィナンシェ自主回収のお知らせ",
+      "url": "https://chiikawabakery.jp/20251111_news/",
+      "publisher": "ちいかわベーカリー／LTR",
+      "source_type": "primary_recall_notice",
+      "publication_date": "2025-11-11",
+      "accessed_at": "2026-10-19",
+      "access_status": "正文已读",
+      "supports": [
+        "2025-10-25至11-10部分草莓费南雪独立包装封口不足并出现霉菌，停止销售并实施退款回收。",
+        "涉Chiikawa/Hachiware/Usagi款饮品套装糕点；销售者LTR，制造者At Grow。"
+      ],
+      "limitations": "不是全品牌召回；未披露缺陷率、受害人数。12/9更新说明退款受理于12/23结束。",
+      "family": "chiikawa_bakery"
+    },
+    {
+      "id": "S11",
+      "title": "メルカリ与スパイラルキュート合作公告",
+      "url": "https://spiralcute.com/news/information/",
+      "publisher": "SPIRALCUTE",
+      "source_type": "primary_corporate_notice",
+      "publication_date": "2023-03-29",
+      "accessed_at": "2026-10-19",
+      "access_status": "正文已读",
+      "supports": [
+        "与Mercari合作开展新品信息共享、提示、处理违规商品刊登；针对门店混乱可采用入场限制。"
+      ],
+      "limitations": "覆盖公司旗下商品治理，不能说所有Chiikawa转卖都违法或所有加价品是假货；Mercari对应页403。",
+      "family": "spiralcute",
+      "related_urls": [
+        "https://about.mercari.com/press/news/articles/20230329_spyralcute/"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "もちっとぬいぐるみS（ちいかわ）",
+      "url": "https://chiikawamarket.jp/products/4582662917828",
+      "publisher": "ちいかわマーケット",
+      "source_type": "primary_product",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "正文已读",
+      "supports": [
+        "日本官方页面当前含税价2090日元。",
+        "约H200×W150×D100 mm；聚酯纤维；中国制造。"
+      ],
+      "limitations": "页面当前挂牌价格，不是初发价或实际成交量；同一商城各页不算独立热度证据。",
+      "family": "grayparka",
+      "price": {
+        "value": 2090,
+        "currency": "JPY",
+        "tax_included": true,
+        "region": "Japan",
+        "as_of": "2026-10-19"
+      },
+      "image_urls": [
+        {
+          "url": "https://chiikawamarket.jp/cdn/shop/products/4582662917828_1.jpg?v=1665977379",
+          "visual_inspected": true
+        }
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "増えちゃった毛量なちいかわぬいぐるみS",
+      "url": "https://chiikawamarket.jp/products/4582662906549",
+      "publisher": "ちいかわマーケット",
+      "source_type": "primary_product",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "正文已读",
+      "supports": [
+        "日本官方页面当前含税价2530日元。",
+        "约H200×W160×D100 mm；聚酯纤维；中国制造。"
+      ],
+      "limitations": "页面当前挂牌价格，不是初发价或实际成交量；同一商城各页不算独立热度证据。",
+      "family": "grayparka",
+      "price": {
+        "value": 2530,
+        "currency": "JPY",
+        "tax_included": true,
+        "region": "Japan",
+        "as_of": "2026-10-19"
+      }
+    },
+    {
+      "id": "S14",
+      "title": "もちっとぷちミニマスコット（ちいかわ）",
+      "url": "https://chiikawamarket.jp/products/4582662917873",
+      "publisher": "ちいかわマーケット",
+      "source_type": "primary_product",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "正文已读",
+      "supports": [
+        "日本官方页面当前含税价1320日元。",
+        "约H110×W90×D55 mm；聚酯纤维；中国制造。"
+      ],
+      "limitations": "页面当前挂牌价格，不是初发价或实际成交量；同一商城各页不算独立热度证据。",
+      "family": "grayparka",
+      "price": {
+        "value": 1320,
+        "currency": "JPY",
+        "tax_included": true,
+        "region": "Japan",
+        "as_of": "2026-10-19"
+      }
+    },
+    {
+      "id": "S15",
+      "title": "コミックマグ（～比率～ちいかわ）",
+      "url": "https://chiikawamarket.jp/products/4994209146347",
+      "publisher": "ちいかわマーケット",
+      "source_type": "primary_product",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "正文已读",
+      "supports": [
+        "日本官方页面当前含税价1430日元。",
+        "约H90×W136×D101 mm；最大容量380 ml、375 g；瓷器；中国制造；商品品牌マリモクラフト。"
+      ],
+      "limitations": "页面当前挂牌价格，不是初发价或实际成交量；同一商城各页不算独立热度证据。",
+      "family": "grayparka",
+      "price": {
+        "value": 1430,
+        "currency": "JPY",
+        "tax_included": true,
+        "region": "Japan",
+        "as_of": "2026-10-19"
+      }
+    },
+    {
+      "id": "S16",
+      "title": "トレーディングアクリルスタンド（たのしい毎日編）（全10種）",
+      "url": "https://chiikawamarket.jp/products/4582662910980",
+      "publisher": "ちいかわマーケット",
+      "source_type": "primary_product",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "正文已读",
+      "supports": [
+        "日本官方页面当前含税价550日元。",
+        "本体约H40×W40 mm以内；亚克力；日本制造。10个BOX含税5500日元；单个随机不可选，官方提醒整盒也未必集齐。"
+      ],
+      "limitations": "页面当前挂牌价格，不是初发价或实际成交量；同一商城各页不算独立热度证据。",
+      "family": "grayparka",
+      "price": {
+        "value": 550,
+        "currency": "JPY",
+        "tax_included": true,
+        "region": "Japan",
+        "as_of": "2026-10-19"
+      },
+      "access_detail": "搜索页正文未展开规格；直接下载官方HTML，读product__description及variants核实规格/550与5500两价。"
+    },
+    {
+      "id": "S17",
+      "title": "ちいかわといっしょ むちゃかわピンク",
+      "url": "https://toy.bandai.co.jp/ja/item/01_4005/",
+      "publisher": "BANDAI",
+      "source_type": "primary_product",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "正文已读",
+      "supports": [
+        "发售2023-08-05；日本建议零售价7150日元含税；6岁以上，另需3节AAA。",
+        "照料、劳动、报酬购物等玩法；版权标识©nagano / chiikawa committee。"
+      ],
+      "limitations": "该页面未明确外形尺寸与材料；不得补猜。",
+      "family": "bandai"
+    },
+    {
+      "id": "S18",
+      "title": "おへんじするよッ 超いっぱいッおしゃべりハチワレ",
+      "url": "https://toy.bandai.co.jp/ja/item/01_4000/",
+      "publisher": "BANDAI",
+      "source_type": "primary_product",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "正文已读",
+      "supports": [
+        "小八说话毛绒收录100余台词，7模式，识别14词；有讨伐、做饭、学习等对白并可重现草除考试。",
+        "2023-08-05发售，日本建议零售价7150日元含税、6岁以上。"
+      ],
+      "limitations": "明确反证小八基本不说话；这是获授权商品的台词描述，不把玩具全部交互等同漫画全部设定。",
+      "family": "bandai"
+    },
+    {
+      "id": "S19",
+      "title": "ちいかわ（2）官方内容简介",
+      "url": "https://cstation.kodansha.co.jp/mangaip/database/0000354016",
+      "publisher": "講談社マンガIPサーチ",
+      "source_type": "primary_publisher",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "正文已读",
+      "supports": [
+        "原作第二卷简介明确劳动、可怕存在、草除五级资格考试、提高报酬后为朋友买礼物。"
+      ],
+      "limitations": "支持内容机制，不能证明所有粉丝均受同一心理驱动，不能诊断角色或读者。",
+      "family": "kodansha"
+    },
+    {
+      "id": "S20",
+      "title": "Chiikawa珠宝官方合集",
+      "url": "https://www.chowtaifook.com/sg/eshop/jewellery/collections/chiikawa",
+      "publisher": "Chow Tai Fook",
+      "source_type": "primary_brand_store",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "正文已读",
+      "supports": [
+        "新加坡官方商城有Chiikawa系列999金手链、耳饰与999.9金币等。"
+      ],
+      "limitations": "只证合作商品存在；动态价格不当历史首发价；不支持顶奢限定、金本位溢价或保值因果。",
+      "family": "chowtaifook"
+    },
+    {
+      "id": "S21",
+      "title": "动画ちいかわ官网及角色页",
+      "url": "https://www.anime-chiikawa.jp/",
+      "publisher": "ちいかわ动画官方",
+      "source_type": "primary_official",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "正文已读",
+      "supports": [
+        "官网标明原作为Nagano漫画，提供角色页、官方视频与商品入口。"
+      ],
+      "limitations": "角色模块为动态呈现；仅HTML已读，图像与视频未目检，不据此描述具体画面。",
+      "family": "chiikawa_anime",
+      "related_urls": [
+        "https://www.anime-chiikawa.jp/chara.html"
+      ],
+      "image_urls": [
+        {
+          "url": "https://www.anime-chiikawa.jp/images/ogp.jpg",
+          "visual_inspected": false
+        }
+      ]
+    },
+    {
+      "id": "S22",
+      "title": "每日IP｜它不是童话，是成年人的生存模拟器",
+      "url": "https://xhslink.cn/o/2AhoAHWrLVW",
+      "publisher": "IP商业研究星球／小红书",
+      "publication_date": null,
+      "displayed_date": "编辑于03-21（无年份）",
+      "source_type": "user_social_post",
+      "access_status": "正文、7图、5个可见评论条目已读",
+      "accessed_at": "2026-10-19",
+      "supports": [
+        "用户指定研究入口；成人生活类比属于作者解读。"
+      ],
+      "limitations": "正文与第3图对小八说话能力自相矛盾；雷达图无测量；黄金溢价因果无证据。评论含作者回复及@提及，不代表5位买家或全部评论。",
+      "family": "xhs_ip_business"
+    },
+    {
+      "id": "S23",
+      "title": "映画ちいかわ公开三日成绩及作品资料",
+      "url": "https://www.fujitv.co.jp/fujitv/news/20260808.html",
+      "publisher": "富士电视台",
+      "publication_date": "2026-07-27",
+      "source_type": "primary_company_announcement",
+      "access_status": "正文已读",
+      "accessed_at": "2026-10-19",
+      "supports": [
+        "电影《人魚の島のひみつ》于2026-07-24日本上映，原作与脚本Nagano。",
+        "2026-07-24至26日日本票房2240333500日元，观众1508538人；公司稿列示开画成绩。"
+      ],
+      "limitations": "不是全球IP收入、授权收入、利润或全档期累计；本轮未看电影。URL末段不是发布日期。",
+      "family": "chiikawa_movie"
+    }
+  ],
+  "numbers": [
+    {
+      "name": "天猫双11品牌成交额",
+      "operator": ">",
+      "value": 10000000,
+      "currency": "CNY",
+      "period_start": "2024-10-14",
+      "period_end": "2024-11-11",
+      "scope": "天猫平台品牌成交额，企业自报",
+      "source_ids": [
+        "S09"
+      ]
+    }
+  ],
+  "global_ip_revenue": null,
+  "royalty_income": null,
+  "hit_category": null,
+  "gaps": [
+    "最早X原帖本轮403，2017原型和2020年1月专门账号时间来自二手资料。",
+    "未取得简体漫画版权页、授权合同和全部地域期限。",
+    "全球IP收入、授权收入、SKU销量、利润、复购和受众人口分布未知。",
+    "小红书仅指定一篇及可见内容，两组站内搜索遇登录墙。",
+    "本轮六个代表视觉样本已逐图查看，未看漫画全卷或电影全片。"
+  ]
+}

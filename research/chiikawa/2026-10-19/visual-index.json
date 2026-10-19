@@ -1,0 +1,80 @@
+[
+  {
+    "id": "V01",
+    "title": "授权代理官网三人组",
+    "original_image_url": "https://spiralcute.com/characters/chiikawa/img/main.jpg",
+    "sources": [
+      "S01"
+    ],
+    "access": "viewed",
+    "sample_description": "中央主角白色一体圆头短腹、小圆耳、闭眼笑、粉颊三斜线、短手与错位小脚；左侧黄色长耳，右侧白蓝猫耳。",
+    "design_mechanism": "共享低细节线条，用轮廓和色区区分群像；中央主角的开心也成立，不是永远哭泣。",
+    "original_transfer_direction": "先为新角色群设统一线条密度，再在轮廓与行为上形成独立差异；不复制这组耳形配色。",
+    "limitations": "只看本张正面动作；本次提示词唯一目标为中间白色主角。官网单角缩略图245×245是同画面辅助，不算新样本。"
+  },
+  {
+    "id": "V02",
+    "title": "日文漫画第1卷封面",
+    "original_image_url": "https://dvs-cover.kodansha.co.jp/0000349299/ET2o0YvqQ18MRJ35RyGW891gRaagQsvHWphUxkZk.jpg",
+    "sources": [
+      "S04"
+    ],
+    "access": "viewed",
+    "sample_description": "粉色书封上是睁眼白色主角，黑眼内有白色高光，小眉与w口，粉颊可见四条斜线；左下有粉色叉状道具。",
+    "design_mechanism": "闭眼与睁眼切换后，轮廓和五官关系仍能维持身份；封面文字与背景不属于身体。",
+    "original_transfer_direction": "建立表情变量而非一张永远不变的脸；道具要来自独立故事。",
+    "limitations": "看了封面及出版资料，未通读全卷；不能由封面道具补全剧情。"
+  },
+  {
+    "id": "V03",
+    "title": "もちっと S 毛绒",
+    "original_image_url": "https://chiikawamarket.jp/cdn/shop/products/4582662917828_1.jpg?v=1665977379",
+    "sources": [
+      "S12"
+    ],
+    "access": "viewed",
+    "sample_description": "白色短绒、圆头短身，头身有横向接缝；深棕刺绣睁眼与嘴，粉颊，短垂臂和相邻小脚。",
+    "design_mechanism": "平面连续轮廓转成填充体块时引入接缝，五官改用刺绣；不能把漫画轮廓线当成材料。",
+    "original_transfer_direction": "保留关键比例，再分别设计布片、绣线和支撑结构；需要打样验证。",
+    "limitations": "聚酯纤维来自规格；短绒与刺绣为图片观察，不代表官方完整工艺单。"
+  },
+  {
+    "id": "V04",
+    "title": "増えちゃった毛量款",
+    "original_image_url": "https://chiikawamarket.jp/cdn/shop/files/4582662906549_1.jpg?v=1702526657",
+    "sources": [
+      "S13"
+    ],
+    "access": "viewed",
+    "sample_description": "白色长毛形成更蓬松团块，圆耳融入毛面；睁眼、变化眉形，一手抬到脸旁，另一手外伸。",
+    "design_mechanism": "毛量和动作改变，仍借五官与浅色体块保留身份；外观变量有内容指向。",
+    "original_transfer_direction": "让新系列的材料变化回应剧情，而不是无缘由增加装饰。",
+    "limitations": "商品名确认毛量变化，未回溯原漫画完整章节；不称爆款，不补剧情结局。"
+  },
+  {
+    "id": "V05",
+    "title": "漫画马克杯／比率",
+    "original_image_url": "https://chiikawamarket.jp/cdn/shop/files/4994209146347_1.jpg?v=1733799618",
+    "sources": [
+      "S15"
+    ],
+    "access": "viewed",
+    "sample_description": "乳白瓷杯与大把手，杯壁用深红粉色漫画分格；可见发型变化、哭泣与伙伴互动。",
+    "design_mechanism": "内容片段进入日常使用面，商品价值可能包含故事记忆，而不只是角色贴图。",
+    "original_transfer_direction": "为新角色设计有起因和结果的短事件，再选可完整阅读的器物排版。",
+    "limitations": "杯身背面和完整分格顺序不可见，不复述未见剧情。"
+  },
+  {
+    "id": "V06",
+    "title": "日常篇随机亚克力立牌",
+    "original_image_url": "https://chiikawamarket.jp/cdn/shop/products/icon_9b17b9e9-f592-4b0f-9977-98ae69d3de78.jpg?v=1658743251",
+    "sources": [
+      "S16"
+    ],
+    "access": "viewed",
+    "sample_description": "十个切形立牌，透明底座承托人物、台词气泡与动作线；不同角色和状态并列。",
+    "design_mechanism": "把叙事瞬间做成可陈列小单元；同套不是单一角色换十套衣服。",
+    "original_transfer_direction": "按情绪或事件组织独立系列，注意薄部连接与图文缩小后的可读性。",
+    "limitations": "800像素合集的小字未逐条辨读；十款不是十个独立用户样本。整盒也不保证集齐。"
+  }
+]
