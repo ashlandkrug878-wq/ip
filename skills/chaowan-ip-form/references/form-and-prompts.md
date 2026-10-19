@@ -1,52 +1,72 @@
-# 造型规格与线稿提示词
+# 潮玩造型范式、造型规格与提示词
 
 ## 目录
-1. 区分三件事
-2. 最小造型规格
-3. 线稿提示词模板
+1. 潮玩造型范式
+2. 最小造型规格与识别组合
+3. 提示词模板（白模 / 线稿）与负面词
 4. 从模糊到可画
 5. 反例
 6. 出图后怎么看
 7. 数据字段
 
-## 1. 区分三件事
+## 1. 潮玩造型范式
 
-"创意成立""角色造型成立""渲染好看"是三件事。洞察和情绪解释不能代替造型；材质细节和摄影精度也不能证明造型完成。找形这一步只处理第二件。
+"创意成立""角色造型成立""渲染好看"是三件事，找形只处理第二件。而且这里的造型是**潮玩**造型，不是插画角色或吉祥物。研究库 12 个 IP（`data/studies/`）的共同规律：
 
-## 2. 最小造型规格
+| 项 | 规律 | 写成规则 |
+|---|---|---|
+| 轮廓 | 11 个大头小身，1 个头身一体 | 头高约占全高 50% 到 60%，身体短而厚实 |
+| 原型 | 9 个类人，3 个动物类人，没有物件 | 默认类人或动物类人，物件和抽象只占探索位 |
+| 主记忆点 | 几乎都在头型和五官 | 主记忆点放在头上，身体只做次要 |
+| 脸上情绪 | 7 内收、4 反差、1 外放（哭） | 脸默认收着，不用张嘴大笑 |
+| 密度 | 极简或中等 | 细节少，3 到 4 个识别元素就停 |
+| 识别 | 靠 3 到 5 个元素的组合关系 | 每个形写一个识别组合 |
+
+还有一条：**它是放在桌上的立体物。**正面站立，双脚着地能站稳，重心在两脚之间；手脚短而圆钝，不画手指；情绪靠眼皮、视线、嘴和重心，不靠奔跑跳跃。动作留给第三步的表情包和短视频。
+
+## 2. 最小造型规格与识别组合
 
 每个形写提示词前，先把下面几项写成能画出来的关系。用户锁定的东西优先，不为补规格改身份。
 
 | 项目 | 要写到的程度 | 不够的写法 |
 |---|---|---|
-| 轮廓 | 横宽还是纵长、顶部和下缘走向、耳朵或突出物和身体的相对位置 | 圆头、可爱 |
-| 体块 | 头、身体、手脚的大中小关系，至少一处明显的收放 | 2 头身 |
-| 头脸 | 眼型和高度、眼距和头宽的关系、眼皮或视线、嘴型、脸上的留白 | 豆豆眼、微笑 |
-| 情绪 | 用眼皮、嘴角、重心、姿态哪几样表现，不要全部叠上 | 生气眉、鼓腮、握拳、跺脚一起上 |
-| 记忆点 | 位置、形状、和身体怎么连接；去掉可拆道具后还剩什么 | 头上有个特别的东西 |
-| 结构 | 肢体从哪里长出来、接触点、重心、挂点 | 长臂、悬空，接在哪里不清楚 |
+| 比例 | 头高占全高的比例、头宽和身宽的关系、腿的长短 | 2 头身、大头 |
+| 头型 | 外轮廓走向、顶部和下颌、头顶有没有整体形状 | 圆头、可爱 |
+| 五官 | 眼型和高度（在头高的哪一段）、眼距和眼宽的关系、眼皮或视线、嘴的大小和位置、脸上的留白 | 豆豆眼、微笑 |
+| 情绪 | 用眼皮、视线、嘴、重心、手的位置中的哪两样表现，不要全部叠上 | 开心、自信 |
+| 身体与站姿 | 身体形状、手脚从哪里长出来、手放在哪里、脚怎么站 | 小短手 |
+| 识别组合 | 3 到 4 个具体的几何关系，合起来让人认出它是谁 | 头上有个特别的东西 |
 
-相对大小描述就够，不写假装精确的数字。
+**识别组合**的写法参考对标卡的撞车字段：例如"竖高的圆头 + 眼睛压在头高下三分之一 + 极小一字嘴 + 头顶一圈贴边的短钝凸起"。每一项都是位置或比例关系，不是装饰名称。写完再和对标卡的 `collide_combo` 比，三项以上相同就改。
 
-## 3. 线稿提示词模板
+比例用倍数和位置写，例如"头高约占全高 55%""两眼间距约一个眼宽"。研究库的复现测试里，这种写法比"大头""小眼"稳得多；不写毫米这类假装精确的尺寸。
 
-固定格式：白底黑白线稿，主体正面全身居中，右下角放一个同姿态的小黑剪影。按"轮廓与体块 → 头脸 → 情绪与姿态 → 记忆点与结构 → 画面要求 → 避免项"组织，中英文同义。
+## 3. 提示词模板（白模 / 线稿）与负面词
 
-中文：
-> 原创角色造型线稿，[原型]。[轮廓与体块关系]。[头脸几何与留白]。[情绪由哪些五官和姿态表现]。[记忆点的位置、形状和连接]。纯白背景，黑色[线条语言]线稿，主体正面全身居中，只有线条，不上色、不打阴影、不画材质纹理。画面右下角放一个同一角色、同一姿态的纯黑实心剪影，高度约为主体的六分之一。避免[本形最容易画错的两三项]。
+**默认白模**：统一哑光白的未上色素模，只有眼睛和嘴是黑色，均匀柔光，浅灰背景。白模能看出体块、比例和站不站得住，这是潮玩造型最关键的部分；同时不涉及颜色和材质。
 
-English:
-> Original character concept line art, [archetype]. [Silhouette and volume hierarchy]. [Face geometry and negative space]. [Expression carried by which features and pose]. [Signature feature: position, shape, connection]. Pure white background, black [line language] line drawing, single character, full body, front view, centered. Line only: no color, no shading, no material texture. In the lower right corner, a small solid black filled silhouette of the same character in the same pose, about one sixth of the main figure's height. Avoid [two or three likely failure modes].
+按"比例 → 头型 → 五官 → 身体与站姿 → 识别组合与反常点 → 画面要求 → 负面词"组织，中英文同义。
 
-线条语言的写法：
-- 圆润均匀中粗线 → `clean rounded lines of even medium weight`
-- 硬朗折线 → `crisp angular lines of even weight`
-- 手绘抖线 → `slightly wobbly hand-drawn lines`
+中文（白模）：
+> 原创潮玩角色造型白模，[原型]。正面站立，全身居中，双脚着地站稳。[比例：头高约占全高 __%，身体……]。[头型]。[五官：眼型、高度、眼距、视线、嘴]。[身体与站姿：手脚形状和位置、重心]。[识别组合与反常点]。整体是统一的哑光白色素模，像未上色的雕塑灰模，只有眼睛和嘴是黑色；柔和均匀的光只用来看清体块，浅灰纯色背景，不上其他颜色、不画图案和材质纹理。画面右下角放一个同一角色、同一姿态的纯黑实心剪影，高度约为主体的六分之一。[负面词]
+
+English (clay):
+> Original designer toy character, unpainted white clay sculpt, [archetype]. Standing upright, front view, full body centered, both feet planted firmly. [Proportions: head about __% of total height, body ...]. [Head shape]. [Face: eye shape, height, spacing, gaze, mouth]. [Body and stance: limb shape and placement, center of gravity]. [Identity combination and twist]. The whole figure is a uniform matte white unpainted sculpt, like a grey clay model, with only the eyes and mouth in black; soft even studio light only to read the volumes, plain light grey background, no other colors, no patterns, no material texture. In the lower right corner, a small solid black filled silhouette of the same character in the same pose, about one sixth of the main figure's height. [Negative list]
+
+线稿版本：把"整体是统一的哑光白色素模……不画图案和材质纹理"换成"纯白背景，黑色干净均匀的中粗线稿，只有线条，不上色、不打阴影"（English: `Pure white background, clean black line drawing of even medium weight, line only, no color, no shading`）。不用"手绘抖线""插画感"这类词。
+
+**固定负面词**（每个提示词都整段带上，再加这个形最容易画错的两三项）：
+> 不要儿童绘本或涂色书风格，不要卡通吉祥物，不要奔跑、跳跃或任何动作场景，不要速度线、风线和雨点，不要细长的橡皮管式手脚，不要手指，不要腮红，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。
+
+> No children's book or coloring page style, no cartoon mascot, no running, jumping or action scene, no speed lines, wind lines or raindrops, no thin rubber-hose limbs, no fingers, no blush marks, no wide open-mouth grin, no extra accessories or details, no background props.
+
+（脸上情绪明确允许张嘴时，删掉"不要张嘴大笑"这一项，并在形卡里写明。）
 
 写提示词时：
-- 不写颜色、材质、灯光、"高级""潮玩""收藏级"这类词，它们只会把画面拉回渲染图
+- 写几何，不写故事。"正在全力往前冲"是故事，"重心略前压，双脚前后半步站稳"是几何
+- 研究库测试里纯文字最常见的跑偏：头过宽、身体偏长、手脚偏大、多出花边和细节、"更像普通卡通少年"。容易出这些问题的地方，在避免项里点名
+- 不写"高级""收藏级""电影级灯光"这类词，它们只控制渲染
 - 不写任何现有 IP、品牌或艺术家的名字，也不写"像某某"
-- 避免项针对这个形写，例如"不要把手臂接在头顶""不要画出脚"，不写通用的"不要丑"
 
 ## 4. 从模糊到可画
 
@@ -60,13 +80,15 @@ English:
 
 - "高级潮玩，超精细毛发，电影级灯光"：只控制渲染，没有造型
 - 每个形都写"豆豆眼 + 腮红 + 微笑"：把不同表达压成同一张默认脸
+- 第 01 号试跑（2026-10-20）：六个形都在侧身奔跑、甩手迈腿，脸全是圆眼张嘴大笑加腮红，原点向日葵被整朵画上去，伞、火柴、种子、小狗各占一个原型。结果像儿童涂色书。原因是表达卡的"它在做什么"写成了"冲"，提示词写了故事和动作，线条写了"手绘抖动、插画感"
+- 把原点物体整个画成角色（花头、伞身、火柴棍）：原点是隐喻，只取一个结构种子
 - "用头顶的定位针体现归属感"：只解释了概念，角色本体还没设计
 - 六个形只换了头上的装饰：拉开规则没过
 
 ## 6. 出图后怎么看
 
 用户上传线稿后，先查提示词执行，再查造型：
-1. 线稿有没有执行到位：是不是变成了上色图、有没有剪影角标、记忆点画没画出来
+1. 出图有没有执行到位：白模是不是被上了颜色、线稿是不是变成了上色图、有没有剪影角标、记忆点画没画出来、有没有变成动作插画
 2. 执行偏差和设计问题分开记：执行偏差就改提示词重出；设计问题按 `checks.md` 处理
 3. 五项测试按实际看到的写"通过 / 存疑 / 不通过"，并写依据；没做的变体标"未验证"
 4. 是否好看、保留还是淘汰，交给用户
@@ -89,15 +111,19 @@ English:
     "face": "五官",
     "emotion": "情绪表达"
   },
+  "head": "头型",
+  "combo": "识别组合：3 到 4 个几何关系",
   "odd": "反常点，没有写空字符串",
-  "line": "这一轮的线条语言",
+  "render": "clay 或 line（白模或线稿）",
+  "line": "线稿时的线条语言，白模留空",
   "why": "怎么长出表达",
-  "spec": {"outline": "", "volume": "", "face": "", "structure": ""},
+  "spec": {"proportion": "", "outline": "", "face": "", "stance": "", "structure": ""},
+  "toy_check": "潮玩感自检五问的结论",
   "crop": "裁切检验",
   "collide": "撞车检查",
   "tests": [["记忆点", "待出图验证", "风险"], ["剪影", "待出图验证", ""], ["简化", "待出图验证", ""], ["缩小", "待出图验证", ""], ["换皮", "待出图验证", ""]],
-  "zh": "中文线稿提示词",
-  "enp": "English line-art prompt",
+  "zh": "中文提示词（白模或线稿）",
+  "enp": "English prompt (clay or line)",
   "diff": "第二轮才写：和母版差在哪",
   "locked": false,
   "created": "YYYY-MM-DD"

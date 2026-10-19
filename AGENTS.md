@@ -8,7 +8,7 @@
 |---|---|---|---|
 | Claude 或 ChatGPT（第 0 步） | 研究已有 IP，产出对标卡 | `skills/chaowan-ip-study/`、`data/studies/` | `data/studies/`、`research/` |
 | Claude（第一步） | 抓原点、生成表达卡（不含外形和出图） | `skills/chaowan-ip-lab/`、`data/reviews/`、`data/pools/`（只读原点池） | `data/batches/`、`data/ips/` |
-| Claude（第二步） | 给保留的表达找形：线稿方向、裂变、锁定后写 IP 档案 | `skills/chaowan-ip-form/`、`data/ips/`、`data/forms/`、`data/reviews/`、`images/` | `data/forms/`、`ip-archives/` |
+| Claude（第二步） | 给保留的表达找形：白模或线稿方向、裂变、锁定后写 IP 档案 | `skills/chaowan-ip-form/`、`data/ips/`、`data/forms/`、`data/reviews/`、`images/` | `data/forms/`、`ip-archives/` |
 | 用户 | 在选品板网站上标保留、待优化、淘汰，写批注，存素材池 | 选品板网站 https://ashlandkrug878-wq.github.io/ip/ | 网站直接提交到 `data/reviews/`、`data/pools/` |
 | 出图工具或 ChatGPT | 按任务队列出图（ChatGPT 的做法见文末） | `queue/image-jobs.json` | `images/<方案或形 id>/`，并更新队列里的状态 |
 | Claude（第三步）或其他 AI | 诊断、配色选材、渲染三视图、插画、表情包、故事、系列、产品化 | `skills/chaowan-ip-studio/`、`ip-archives/`、`images/`、`data/pools/` | `ip-archives/`、`queue/image-jobs.json` |
@@ -18,20 +18,20 @@
 - `workflow/潮玩IP工作流.md`：完整工作流
 - `skills/chaowan-ip-study/SKILL.md`：第 0 步，研究已有 IP，产出对标卡
 - `skills/chaowan-ip-lab/SKILL.md`：第一步，原点到表达卡
-- `skills/chaowan-ip-form/SKILL.md`：第二步，表达到形（线稿方向、裂变、锁定）
+- `skills/chaowan-ip-form/SKILL.md`：第二步，表达到形（白模或线稿方向、裂变、锁定）
 - `skills/chaowan-ip-studio/SKILL.md`：第三步，锁定的形到完整 IP
 - `index.html`：选品板网站（GitHub Pages），读写 `data/`
 - `data/index.json`：`data/` 下各集合的文件 id 清单，网站靠它找文件；增删 `data/` 里的文件后运行 `scripts/build_index.py`（流水线也会自动跑）
 - `data/batches/<期 id>.json`：每期的时机判断、推荐色系、颜色表、材质表、原点清单（带来源链接）
 - `data/ips/<方案 id>.json`：表达卡（洞察、圈层、表达、内核与情绪范围）。2.0 之前的旧方案还带外形和出图提示词 `zh`、`enp`
-- `data/forms/<方案 id>-<轮次字母><序号>.json`：形（五条轴、造型规格、线稿提示词），字段见 `skills/chaowan-ip-form/references/form-and-prompts.md`
+- `data/forms/<方案 id>-<轮次字母><序号>.json`：形（五条轴、识别组合、造型规格、白模或线稿提示词，`render` 字段标明哪种），字段见 `skills/chaowan-ip-form/references/form-and-prompts.md`
 - `data/studies/<IP id>.json`：对标卡，字段见 `skills/chaowan-ip-study/references/card.md`，分类字段只能用 `vocab.md` 的词；写完运行 `python skills/chaowan-ip-study/scripts/validate_card.py data/studies/<id>.json`
 - `research/<IP id>/<日期>/`：标准档以上的研究报告和档案
 - `data/reviews/<方案或形 id>.json`：用户的选择（`status`：保留、待优化、淘汰）和批注（`note`）
 - `data/pools/<id>.json`：用户的素材池，`type` 为 `palette`（色系）、`color`（单色）、`material`（材质）、`origin`（原点）
 - `ip-archives/IP档案_<名字>_vN.md`：锁定 IP 的档案，第三步所有模块的依据
 - `queue/image-jobs.json`：出图任务队列
-- `images/<方案或形 id>/`：生成的图（形的线稿是 `lineart-01.webp`）
+- `images/<方案或形 id>/`：生成的图（形的图沿用 `lineart-01.webp` 这个文件名，白模也存这里）
 
 ## 必须遵守的规则
 
@@ -80,7 +80,7 @@
 
 ## 给 ChatGPT：在对话里出图并上传
 
-用户也可以不让 ChatGPT 上传：在选品板网站的详情里复制提示词，去 ChatGPT 出图，下载原图后点上传。网站会自动压缩成 webp、存进 `images/`（形的线稿存 `images/<形 id>/lineart-01.webp`），并把队列里对应任务改成 `done`（`note` 为 `网站上传`）。线稿任务出图时只画黑白线稿和右下角剪影，不要上色。
+用户也可以不让 ChatGPT 上传：在选品板网站的详情里复制提示词，去 ChatGPT 出图，下载原图后点上传。网站会自动压缩成 webp、存进 `images/`（形的线稿存 `images/<形 id>/lineart-01.webp`），并把队列里对应任务改成 `done`（`note` 为 `网站上传`）。`lineart` 任务按提示词出图：白模就出统一哑光白的素模（只有眼和嘴是黑色），线稿就只画黑白线稿，都带右下角剪影，都不要上颜色。
 
 用户没有配置出图 API 时，由 ChatGPT 在对话里出图后上传。每次按这个顺序：
 
