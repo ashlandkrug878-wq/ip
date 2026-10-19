@@ -174,6 +174,9 @@ details.builder[open] summary::after{content:"收起"}
 .stable table{border-collapse:collapse;width:100%;min-width:860px;font-size:13px}
 .stable th,.stable td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
 .stable th{font-weight:500;color:var(--muted);background:var(--sunk);white-space:nowrap}
+.study-name{display:block;color:inherit;text-decoration:none;min-width:110px}
+.study-name span{display:block;font-size:11px;color:var(--accent);margin-top:5px}
+.study-name:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
 .stable tr[data-act]{cursor:pointer}
 .stable tr[data-act]:hover td{background:var(--accent-soft)}
 .stable td b{font-weight:600}
@@ -222,7 +225,7 @@ button,select,textarea,input{font:inherit;color:inherit}
   </section>
 
   <section class="panel" id="p-study" hidden>
-    <div class="row-between"><span class="note">第 0 步研究的对标卡：别人为什么成功或失败。分类用和表达、找形同一套词，方便横着比</span></div>
+    <div class="row-between"><span class="note">点击 IP 直接阅读研究网页；返回后仍停留在研究库。</span></div>
     <div id="studyBody"></div>
   </section>
 
@@ -251,8 +254,9 @@ button,select,textarea,input{font:inherit;color:inherit}
 <div class="shade" id="shade" hidden></div>
 <aside class="drawer" id="drawer" hidden role="dialog" aria-modal="true" aria-labelledby="dTitle"></aside>
 
+<script src="study-links.js"></script>
 <script>
-let STUDIES=[],FORMS=[],formIp=null,JOBS=[],BATCHES=[],IPS=[],REVIEWS={},POOLS={},cur=null,filter="全部",tab="ips",matTab="palette",poolTab="palette",openId=null,canWrite=true;
+let STUDIES=[],FORMS=[],formIp=null,JOBS=[],BATCHES=[],IPS=[],REVIEWS={},POOLS={},cur=null,filter="全部",tab=location.hash==="#study"?"study":"ips",matTab="palette",poolTab="palette",openId=null,canWrite=true;
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const STATUSES=["保留","待优化","淘汰"];
@@ -329,7 +333,7 @@ function renderGrid(){
   g.innerHTML=list.map(card).join("");
 }
 /* ---------- drawer ---------- */
-function openDrawer(id){openId=id;renderDrawer();$("shade").hidden=false;$("drawer").hidden=false;const t=$("dClose");if(t)t.focus();}
+function openDrawer(id){const study=STUDIES.find(x=>x.id===id);if(study){location.assign(studyPageUrl(study));return;}openId=id;renderDrawer();$("shade").hidden=false;$("drawer").hidden=false;const t=$("dClose");if(t)t.focus();}
 function closeDrawer(){openId=null;$("shade").hidden=true;$("drawer").hidden=true;}
 function renderDrawer(){
   if(!openId)return;if(STUDIES.find(x=>x.id===openId)){renderStudyDrawer();return;}if(FORMS.find(x=>x.id===openId)){renderFormDrawer();return;}const i=IPS.find(x=>x.id===openId);if(!i){closeDrawer();return;}
@@ -424,7 +428,7 @@ function renderStudies(){
   const el=$("studyBody");if(!loaded){el.innerHTML="";return;}
   if(!STUDIES.length){el.innerHTML=`<div class="empty"><b>还没有对标卡</b><span>让 Claude 或 ChatGPT 用 chaowan-ip-study 研究一个 IP，对标卡会出现在这里。</span></div>`;return;}
   const rows=STUDIES.slice().sort((a,b)=>String(b.updated||"").localeCompare(String(a.updated||"")));
-  el.innerHTML=`<div class="stable"><table><thead><tr><th>IP</th><th>原型</th><th>轮廓</th><th>记忆点</th><th>情绪</th><th>句式</th><th>钟摆</th><th>主载体</th><th>首发 → 爆款</th><th>档</th></tr></thead><tbody>${rows.map(c=>{const f=c.form||{};return `<tr data-act="open" data-id="${esc(c.id)}"><td><b>${esc(c.name)}</b></td><td>${esc(f.archetype)}</td><td>${esc(f.silhouette)}</td><td>${esc(jn(f.mark_position))}</td><td>${esc(f.emotion)}</td><td>${esc(c.expression?.sentence_type)}</td><td>${esc(c.pendulum?.position)}</td><td>${esc(c.carrier?.primary)}</td><td>${esc(c.product?.first_category)} → ${esc(c.product?.hit_category)}</td><td><span class="tierchip">${esc(TIER[c.tier]||c.tier)}${c.status==="partial"?" · 未完成":""}</span></td></tr>`;}).join("")}</tbody></table></div>`;
+  el.innerHTML=`<div class="stable"><table><thead><tr><th>IP</th><th>原型</th><th>轮廓</th><th>记忆点</th><th>情绪</th><th>句式</th><th>钟摆</th><th>主载体</th><th>首发 → 爆款</th><th>档</th></tr></thead><tbody>${rows.map(c=>{const f=c.form||{};return `<tr data-act="open" data-id="${esc(c.id)}"><td><a class="study-name" href="${esc(studyPageUrl(c))}"><b>${esc(c.name)}</b><span>阅读研究 →</span></a></td><td>${esc(f.archetype)}</td><td>${esc(f.silhouette)}</td><td>${esc(jn(f.mark_position))}</td><td>${esc(f.emotion)}</td><td>${esc(c.expression?.sentence_type)}</td><td>${esc(c.pendulum?.position)}</td><td>${esc(c.carrier?.primary)}</td><td>${esc(c.product?.first_category)} → ${esc(c.product?.hit_category)}</td><td><span class="tierchip">${esc(TIER[c.tier]||c.tier)}${c.status==="partial"?" · 未完成":""}</span></td></tr>`;}).join("")}</tbody></table></div>`;
 }
 function renderStudyDrawer(){
   const c=STUDIES.find(x=>x.id===openId);if(!c){closeDrawer();return;}
@@ -644,14 +648,14 @@ $("shade").addEventListener("click",closeDrawer);
 document.addEventListener("keydown",e=>{if(e.key==="Escape"&&openId)closeDrawer();});
 document.addEventListener("click",e=>{
   const b=e.target.closest("[data-tab],[data-filter],[data-mattab],[data-pooltab],[data-act]");if(!b)return;
-  if(b.dataset.tab){tab=b.dataset.tab;renderTop();return;}
+  if(b.dataset.tab){tab=b.dataset.tab;history.replaceState(null,"",location.pathname+location.search+(tab==="study"?"#study":""));renderTop();return;}
   if(b.dataset.filter){filter=b.dataset.filter;renderFilters();renderGrid();return;}
   if(b.dataset.mattab){matTab=b.dataset.mattab;renderMat();return;}
   if(b.dataset.pooltab){poolTab=b.dataset.pooltab;renderPools();return;}
   const act=b.dataset.act,id=b.dataset.id;
   if(act==="pool")togglePool(b.dataset.type,b.dataset.name);
   else if(act==="unpool")unpool(id);
-  else if(act==="open")openDrawer(id);
+  else if(act==="open"){if(e.target.closest("a"))return;openDrawer(id);}
   else if(act==="close")closeDrawer();
   else if(act==="status")saveReview(id,{status:(REVIEWS[id]?.status===b.dataset.v?"":b.dataset.v)});
   else if(act==="note")saveReview(id,{note:$("note-"+id).value.trim()});
@@ -693,3 +697,4 @@ renderConn();renderGrid();refresh();
 </script>
 </body>
 </html>
+
