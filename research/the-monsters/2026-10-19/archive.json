@@ -1,0 +1,1379 @@
+{
+  "schema_version": "1.1",
+  "revision": {
+    "version": 3,
+    "previous_card": "history/the-monsters.quick.original.json",
+    "changes": [
+      "从quick升级deep；仍partial",
+      "纠正首载体为出版物；移除未核实盲盒首发及失败断言",
+      "新增原始访谈与产品证据，历史数字不销毁但不当作现已复核事实",
+      "用户要求平面复现作为下游门槛；官方基础身份参考补充，纯文字3轮未通过，后续暂停。"
+    ]
+  },
+  "subject_id": "the-monsters",
+  "cutoff_date": "2026-10-19",
+  "observed_at": "2026-10-19",
+  "markets": [
+    "全球",
+    "US",
+    "GB"
+  ],
+  "status": "partial",
+  "entities": [
+    {
+      "entity_id": "the-monsters",
+      "type": "group",
+      "name": "THE MONSTERS",
+      "aliases": [
+        "精灵天团"
+      ],
+      "relationships": [
+        {
+          "relation": "created_by",
+          "target_id": "kasing-lung",
+          "time": "2015",
+          "evidence_ids": [
+            "origin-official"
+          ]
+        }
+      ]
+    },
+    {
+      "entity_id": "labubu",
+      "type": "group",
+      "name": "LABUBU",
+      "aliases": [],
+      "relationships": []
+    },
+    {
+      "entity_id": "kasing-lung",
+      "type": "person",
+      "name": "龙家昇 / Kasing Lung",
+      "aliases": [],
+      "relationships": []
+    },
+    {
+      "entity_id": "popmart",
+      "type": "company",
+      "name": "泡泡玛特 / POP MART",
+      "aliases": [],
+      "relationships": []
+    },
+    {
+      "entity_id": "how2work",
+      "type": "company",
+      "name": "HOW2WORK",
+      "aliases": [],
+      "relationships": []
+    },
+    {
+      "entity_id": "zimomo",
+      "type": "character",
+      "name": "ZIMOMO",
+      "aliases": [],
+      "relationships": []
+    },
+    {
+      "entity_id": "tycoco",
+      "type": "character",
+      "name": "TYCOCO",
+      "aliases": [],
+      "relationships": []
+    },
+    {
+      "entity_id": "spooky",
+      "type": "character",
+      "name": "SPOOKY",
+      "aliases": [],
+      "relationships": []
+    },
+    {
+      "entity_id": "pato",
+      "type": "character",
+      "name": "PATO",
+      "aliases": [],
+      "relationships": []
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "c-origin",
+      "subject_id": "the-monsters",
+      "predicate": "起源",
+      "value": "2015年开始的绘本精灵世界",
+      "unit": null,
+      "market": null,
+      "valid_time": "2015",
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "origin-official",
+        "perfect-interview"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": ""
+    },
+    {
+      "claim_id": "c-books",
+      "subject_id": "the-monsters",
+      "predicate": "三部曲出版年",
+      "value": {
+        "The Story of Puca": "2015",
+        "Pato and the Girl": "2016",
+        "Milo’s Requiem": "2017"
+      },
+      "unit": null,
+      "market": null,
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "tatler-interview"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": "官网第三本拼作Miró’s；逐本版权页未核验。"
+    },
+    {
+      "claim_id": "c-license",
+      "subject_id": "the-monsters",
+      "predicate": "合作关系",
+      "value": "2019年起独家授权合作",
+      "unit": null,
+      "market": null,
+      "valid_time": "2019",
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "tatler-interview"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": "未取得合同，不证明全部版权转让、授权范围、续期及分成。"
+    },
+    {
+      "claim_id": "c-identity",
+      "subject_id": "the-monsters",
+      "predicate": "官方LABUBU设定",
+      "value": "百余森林精灵族群，尖耳九牙，顽皮好奇而善良",
+      "unit": null,
+      "market": null,
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "origin-official"
+      ],
+      "information_type": "self_report",
+      "confidence": "high",
+      "limitations": "品牌角色设定；不是关于真实生物的事实。"
+    },
+    {
+      "claim_id": "c-carry",
+      "subject_id": "the-monsters",
+      "predicate": "携带场景",
+      "value": "创作者称用户曾带大搪胶旅行拍照，较小挂件更易携带",
+      "unit": null,
+      "market": null,
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "perfect-interview"
+      ],
+      "information_type": "self_report",
+      "confidence": "high",
+      "limitations": "创作者观察，不等于具有代表性的用户调查。"
+    },
+    {
+      "claim_id": "c-mechanism",
+      "subject_id": "the-monsters",
+      "predicate": "商品化机制",
+      "value": "挂件把角色带入包袋与外出使用场景，可能增加日常可见性",
+      "unit": null,
+      "market": null,
+      "valid_time": null,
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "perfect-interview",
+        "fall-wild"
+      ],
+      "information_type": "inference",
+      "confidence": "medium",
+      "limitations": "没有控制实验，不能单独归因于销量增长。"
+    },
+    {
+      "claim_id": "c-revenue-2025h1",
+      "subject_id": "the-monsters",
+      "predicate": "IP收入",
+      "value": 4814017,
+      "unit": "千元",
+      "market": "全球",
+      "valid_time": {
+        "start": "2025-01-01",
+        "end": "2025-06-30"
+      },
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "financial-2026h1"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": "",
+      "currency": "CNY"
+    },
+    {
+      "claim_id": "c-revenue-2026h1",
+      "subject_id": "the-monsters",
+      "predicate": "IP收入",
+      "value": 4454361,
+      "unit": "千元",
+      "market": "全球",
+      "valid_time": {
+        "start": "2026-01-01",
+        "end": "2026-06-30"
+      },
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "financial-2026h1"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": "",
+      "currency": "CNY"
+    },
+    {
+      "claim_id": "c-share-2026h1",
+      "subject_id": "the-monsters",
+      "predicate": "占公司收入",
+      "value": 26,
+      "unit": "%",
+      "market": "全球",
+      "valid_time": "2026H1",
+      "observed_at": "2026-10-19",
+      "evidence_ids": [
+        "financial-2026h1"
+      ],
+      "information_type": "fact",
+      "confidence": "high",
+      "limitations": ""
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "origin-official",
+      "title": "origin-official",
+      "publisher": "POP MART",
+      "url": "https://www.popmart.com/at/ip/the-monsters/efc371ce-c7dc-4d71-a820-136113d96587",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "official character description",
+      "access_status": "full",
+      "origin_family": "origin-official",
+      "supports": [
+        "创作者龙家昇，1972年生于香港，后移居荷兰；官方简介称2011年开始与HOW2WORK合作。",
+        "THE MONSTERS 源于2015年开始的绘本世界，三部曲为 The Story of Puca、Pato and the Girl、Miró’s Requiem。",
+        "LABUBU 是森林中约百名精灵的族群，九颗牙、竖直尖耳，顽皮好奇但善良。",
+        "LABUBU FRECKLES 是族群中的雀斑成员，与 TYCOCO 为情侣。"
+      ],
+      "locator": "正文 / Product Details（价格部分在关联推荐）",
+      "reliability": "primary",
+      "limitations": "官方把三部曲压缩进2015年起源叙述，不能据此说三本均于2015出版。世界观是官方设定而非现实事实。"
+    },
+    {
+      "evidence_id": "perfect-interview",
+      "title": "perfect-interview",
+      "publisher": "Perfect",
+      "url": "https://www.theperfectmagazine.com/features/kasing/lung-kd7tf-blckg-f6lhj-s9akw-wyjtk",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "primary creator interview",
+      "access_status": "full",
+      "origin_family": "perfect-interview",
+      "supports": [
+        "龙家昇称2015年开始THE MONSTERS，每个角色都有自己的故事，不设唯一主角。",
+        "设计多颗牙的目的是形成市场差异。",
+        "自述2016年台北玩具展开始与泡泡玛特接触。",
+        "自述早期受众90%男性，搪胶毛绒挂件后80%女性；仅为创作者口述，未披露样本方法。",
+        "自述早期用户已带大搪胶外出旅行拍照；较小的挂件更易携带。",
+        "名字追求独特、易搜索。"
+      ],
+      "locator": "正文 / Product Details（价格部分在关联推荐）",
+      "reliability": "primary",
+      "limitations": "全文派生内容总计200英文词以内，用户性别数据不能伪装为调查；2016接触不等于2019授权。"
+    },
+    {
+      "evidence_id": "tatler-interview",
+      "title": "tatler-interview",
+      "publisher": "Tatler Asia",
+      "url": "https://www.tatlerasia.com/lifestyle/arts/kasing-lung-labubu-the-monsters-pop-mart-zh-hant",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "original interview plus editorial context",
+      "access_status": "full",
+      "origin_family": "tatler-interview",
+      "supports": [
+        "2015 The Story of Puca；2016 柏度与少女；2017 米罗安魂曲。",
+        "文章说明泡泡玛特2019取得IP独家授权。",
+        "ZIMOMO 为首领；TYCOCO 是骷髅外观的素食精灵；SPOOKY为月夜出现的雪人；PATO像老鼠。"
+      ],
+      "locator": "正文 / Product Details（价格部分在关联推荐）",
+      "reliability": "original_reporting",
+      "limitations": "2019授权属媒体编辑背景，合同范围、年限、分成未披露；不可写泡泡玛特买断全部版权。文中营收与拍卖非本次商业数字的优先证据。"
+    },
+    {
+      "evidence_id": "macaron",
+      "title": "macaron",
+      "publisher": "POP MART",
+      "url": "https://www.popmart.com/us/products/675/the-monsters-tasty-macarons-vinyl-face-blind-box-1085",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "official US product",
+      "access_status": "full",
+      "origin_family": "macaron",
+      "supports": [
+        "Exciting Macaron：2023-10-27；6.7英寸；网页材质只列ABS/PVC；六盒整套。",
+        "六常规色名为 Sesame Bean、Sea Salt Coconut、Green Grape、Lychee Berry、Soymilk、Toffee；隐藏为Chestnut Cocoa。",
+        "关联推荐区展示 Have a Seat $26.99、Lazy Yoga $19.99、FALL IN WILD挂件 $36.99、I FOUND YOU $199.99。"
+      ],
+      "locator": "正文 / Product Details（价格部分在关联推荐）",
+      "reliability": "primary",
+      "limitations": "材质字段明显没有完整列出毛绒构成，不应补造百分比。价格为查阅日美国官网展示价、非中国首发价/二手价，税运费另查。"
+    },
+    {
+      "evidence_id": "have-seat",
+      "title": "have-seat",
+      "publisher": "POP MART",
+      "url": "https://www.popmart.com/us/pop-now/set/50-10006764000350",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "official US product",
+      "access_status": "full",
+      "origin_family": "have-seat",
+      "supports": [
+        "2024-07-12；8×7×15cm；外壳60%PVC、40%聚酯；填充70%聚酯、20%ABS、5%铁丝、5%尼龙（官网拼写NYYLON）。"
+      ],
+      "locator": "正文 / Product Details（价格部分在关联推荐）",
+      "reliability": "primary",
+      "limitations": "15岁以下不适用；尺寸按官网口径。"
+    },
+    {
+      "evidence_id": "big-energy",
+      "title": "big-energy",
+      "publisher": "POP MART",
+      "url": "https://www.popmart.com/us/products/2155",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "official US product",
+      "access_status": "full",
+      "origin_family": "big-energy",
+      "supports": [
+        "2025-04-25；不含挂环17cm；外壳PVC/聚酯，填充聚酯/铁丝。",
+        "六常规命名 Love、Happiness、Loyalty、Serenity、Hope、Luck，隐藏ID。"
+      ],
+      "locator": "正文 / Product Details（价格部分在关联推荐）",
+      "reliability": "primary",
+      "limitations": "英国官网同名条目写约15cm，与美国17cm不一致；表中必须标明美国页面口径，不擅自统一。"
+    },
+    {
+      "evidence_id": "big-energy-uk-discrepancy",
+      "title": "big-energy-uk-discrepancy",
+      "publisher": "POP MART",
+      "url": "https://www.popmart.com/gb/products/the-monsters-big-into-energy-series-vinyl-plush-pendant-blind-box/3bd2b923-383d-4461-a8ab-10383fd1125e",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "official UK product",
+      "access_status": "full",
+      "origin_family": "big-energy-uk-discrepancy",
+      "supports": [
+        "高度约15cm；六盒整套。"
+      ],
+      "locator": "正文 / Product Details（价格部分在关联推荐）",
+      "reliability": "primary",
+      "limitations": "与美国页17cm不一致。"
+    },
+    {
+      "evidence_id": "lazy-yoga",
+      "title": "lazy-yoga",
+      "publisher": "POP MART",
+      "url": "https://www.popmart.com/us/products/1436/the-monsters-lazy-yoga-series-figures",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "official US product",
+      "access_status": "full",
+      "origin_family": "lazy-yoga",
+      "supports": [
+        "2024-08-09；ABS/PVC；高5.2—11.3cm。",
+        "动作名包含 Zone Out、Ab Roller、Confident、Show Off、Stretch Out、Sweating、Sleeping、Little Bird、Americano、Lay Down，隐藏Yoga Coach。"
+      ],
+      "locator": "正文 / Product Details（价格部分在关联推荐）",
+      "reliability": "primary",
+      "limitations": "可用于情境化动作与毛绒之外的产品矩阵对照，不应当作销量证据。"
+    },
+    {
+      "evidence_id": "fall-wild",
+      "title": "fall-wild",
+      "publisher": "POP MART",
+      "url": "https://www.popmart.com/us/products/1061/the-monsters-fall-in-wild-series-vinyl-plush-doll-pendant",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "official US product",
+      "access_status": "full",
+      "origin_family": "fall-wild",
+      "supports": [
+        "2024-04-12；3.14×2.75×6.69英寸；面料40%PVC/30%棉/30%聚酯；填充95%聚酯/5%铁丝。"
+      ],
+      "locator": "正文 / Product Details（价格部分在关联推荐）",
+      "reliability": "primary",
+      "limitations": "价格$36.99见其他官方页关联推荐；可用作穿搭主题明盒挂件案例。"
+    },
+    {
+      "evidence_id": "i-found-you",
+      "title": "i-found-you",
+      "publisher": "POP MART",
+      "url": "https://www.popmart.com/us/products/878/the-monsters-i-found-you-vinyl-face-doll",
+      "published_at": null,
+      "observed_at": "2026-10-19",
+      "source_type": "official US product",
+      "access_status": "full",
+      "origin_family": "i-found-you",
+      "supports": [
+        "2023-12-15；高22.8英寸；PVC/聚酯纤维/ABS。",
+        "推荐区展示Exciting Macaron $26.99。"
+      ],
+      "locator": "正文 / Product Details（价格部分在关联推荐）",
+      "reliability": "primary",
+      "limitations": "页面SEO标题写Labubu，但产品角色通常被识别为Zimomo；如需标Zimomo请先视觉确认，不因SEO标题混同。"
+    },
+    {
+      "evidence_id": "bazaar-interview",
+      "title": "bazaar-interview",
+      "publisher": "Harper’s BAZAAR Japan",
+      "url": "https://www.harpersbazaar.com/jp/culture/arts/a71632948/kasing-lung-monsters-by-monsters-now-and-then-260619-hb/",
+      "published_at": "2026-06-19",
+      "observed_at": "2026-10-19",
+      "source_type": "primary creator interview 2026-06-19",
+      "access_status": "full",
+      "origin_family": "bazaar-interview",
+      "supports": [
+        "龙家昇称 The Story of Puca 是关于家庭的故事；展览首次以沉浸动画展示，希望让从玩具入坑的观众理解故事世界。",
+        "他区分玩具设计团队协作与绘画私人表达。"
+      ],
+      "locator": "正文 / Product Details（价格部分在关联推荐）",
+      "reliability": "primary",
+      "limitations": "该源派生内容上限100词，建议仅用一小段。"
+    },
+    {
+      "evidence_id": "financial-2026h1",
+      "title": "泡泡玛特2026年中期业绩公告",
+      "publisher": "POP MART（雪球镜像）",
+      "url": "https://stockn.xueqiu.com/09992/20260820328239.pdf",
+      "published_at": "2026-08-20",
+      "observed_at": "2026-10-19",
+      "source_type": "issuer_financial_disclosure",
+      "access_status": "full",
+      "origin_family": "popmart-2026h1",
+      "supports": [
+        "THE MONSTERS 2025H1收入4,814,017千元；2026H1收入4,454,361千元；2026H1收入占比26%。"
+      ],
+      "locator": "按IP划分的收入表；主代理已读",
+      "reliability": "primary_mirrored",
+      "limitations": "THE MONSTERS家族收入，不是LABUBU单角色收入；不含成本利润拆分。"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "ev-p-macaron",
+      "date": "2023-10-27",
+      "date_precision": "day",
+      "subject_ids": [
+        "the-monsters"
+      ],
+      "description": "Exciting Macaron官方产品发布日期",
+      "change": "产品系列扩展",
+      "evidence_ids": [
+        "macaron",
+        "i-found-you"
+      ],
+      "mechanism": null,
+      "alternative_explanations": null
+    },
+    {
+      "event_id": "ev-p-have-seat",
+      "date": "2024-07-12",
+      "date_precision": "day",
+      "subject_ids": [
+        "the-monsters"
+      ],
+      "description": "Have a Seat官方产品发布日期",
+      "change": "产品系列扩展",
+      "evidence_ids": [
+        "have-seat",
+        "macaron"
+      ],
+      "mechanism": null,
+      "alternative_explanations": null
+    },
+    {
+      "event_id": "ev-p-big-energy",
+      "date": "2025-04-25",
+      "date_precision": "day",
+      "subject_ids": [
+        "the-monsters"
+      ],
+      "description": "Big into Energy官方产品发布日期",
+      "change": "产品系列扩展",
+      "evidence_ids": [
+        "big-energy",
+        "macaron"
+      ],
+      "mechanism": null,
+      "alternative_explanations": null
+    },
+    {
+      "event_id": "ev-p-lazy-yoga",
+      "date": "2024-08-09",
+      "date_precision": "day",
+      "subject_ids": [
+        "the-monsters"
+      ],
+      "description": "Lazy Yoga官方产品发布日期",
+      "change": "产品系列扩展",
+      "evidence_ids": [
+        "lazy-yoga",
+        "macaron"
+      ],
+      "mechanism": null,
+      "alternative_explanations": null
+    },
+    {
+      "event_id": "ev-p-fall-wild",
+      "date": "2024-04-12",
+      "date_precision": "day",
+      "subject_ids": [
+        "the-monsters"
+      ],
+      "description": "FALL IN WILD Pendant官方产品发布日期",
+      "change": "产品系列扩展",
+      "evidence_ids": [
+        "fall-wild",
+        "macaron"
+      ],
+      "mechanism": null,
+      "alternative_explanations": null
+    },
+    {
+      "event_id": "ev-p-i-found-you",
+      "date": "2023-12-15",
+      "date_precision": "day",
+      "subject_ids": [
+        "the-monsters"
+      ],
+      "description": "I FOUND YOU官方产品发布日期",
+      "change": "产品系列扩展",
+      "evidence_ids": [
+        "i-found-you",
+        "macaron"
+      ],
+      "mechanism": null,
+      "alternative_explanations": null
+    }
+  ],
+  "products": [
+    {
+      "product_id": "p-macaron",
+      "subject_id": "the-monsters",
+      "name": "Exciting Macaron",
+      "series": "Exciting Macaron",
+      "released_at": "2023-10-27",
+      "market": "US",
+      "category": "搪胶毛绒",
+      "size": "6.7 inches",
+      "materials": "官网仅列ABS/PVC，未完整列出织物",
+      "material_basis": "official_listing",
+      "price": 26.99,
+      "currency": "USD",
+      "price_observed_at": "2026-10-19",
+      "channel": "POP MART美国官网",
+      "usage_scenarios": [
+        "挂包",
+        "携带"
+      ],
+      "evidence_ids": [
+        "macaron",
+        "i-found-you"
+      ],
+      "limitations": "查阅日官网或关联推荐展示价，非中国首发价；未知税运费。"
+    },
+    {
+      "product_id": "p-have-seat",
+      "subject_id": "the-monsters",
+      "name": "Have a Seat",
+      "series": "Have a Seat",
+      "released_at": "2024-07-12",
+      "market": "US",
+      "category": "搪胶毛绒",
+      "size": "8×7×15cm",
+      "materials": "外壳60%PVC/40%聚酯；填充70%聚酯/20%ABS/5%铁丝/5%尼龙",
+      "material_basis": "official_listing",
+      "price": 26.99,
+      "currency": "USD",
+      "price_observed_at": "2026-10-19",
+      "channel": "POP MART美国官网",
+      "usage_scenarios": [
+        "挂包",
+        "携带"
+      ],
+      "evidence_ids": [
+        "have-seat",
+        "macaron"
+      ],
+      "limitations": "查阅日官网或关联推荐展示价，非中国首发价；未知税运费。"
+    },
+    {
+      "product_id": "p-big-energy",
+      "subject_id": "the-monsters",
+      "name": "Big into Energy",
+      "series": "Big into Energy",
+      "released_at": "2025-04-25",
+      "market": "US",
+      "category": "搪胶毛绒",
+      "size": "不含挂环17cm（美国口径）",
+      "materials": "PVC/聚酯；填充聚酯/铁丝",
+      "material_basis": "official_listing",
+      "price": null,
+      "currency": "USD",
+      "price_observed_at": null,
+      "channel": "POP MART美国官网",
+      "usage_scenarios": [
+        "挂包",
+        "携带"
+      ],
+      "evidence_ids": [
+        "big-energy",
+        "macaron"
+      ],
+      "limitations": "查阅日官网或关联推荐展示价，非中国首发价；未知税运费。"
+    },
+    {
+      "product_id": "p-lazy-yoga",
+      "subject_id": "the-monsters",
+      "name": "Lazy Yoga",
+      "series": "Lazy Yoga",
+      "released_at": "2024-08-09",
+      "market": "US",
+      "category": "盲盒手办",
+      "size": "5.2—11.3cm",
+      "materials": "ABS/PVC",
+      "material_basis": "official_listing",
+      "price": 19.99,
+      "currency": "USD",
+      "price_observed_at": "2026-10-19",
+      "channel": "POP MART美国官网",
+      "usage_scenarios": [
+        "陈列"
+      ],
+      "evidence_ids": [
+        "lazy-yoga",
+        "macaron"
+      ],
+      "limitations": "查阅日官网或关联推荐展示价，非中国首发价；未知税运费。"
+    },
+    {
+      "product_id": "p-fall-wild",
+      "subject_id": "the-monsters",
+      "name": "FALL IN WILD Pendant",
+      "series": "FALL IN WILD Pendant",
+      "released_at": "2024-04-12",
+      "market": "US",
+      "category": "搪胶毛绒",
+      "size": "3.14×2.75×6.69 inches",
+      "materials": "面料40%PVC/30%棉/30%聚酯；填充95%聚酯/5%铁丝",
+      "material_basis": "official_listing",
+      "price": 36.99,
+      "currency": "USD",
+      "price_observed_at": "2026-10-19",
+      "channel": "POP MART美国官网",
+      "usage_scenarios": [
+        "挂包",
+        "携带"
+      ],
+      "evidence_ids": [
+        "fall-wild",
+        "macaron"
+      ],
+      "limitations": "查阅日官网或关联推荐展示价，非中国首发价；未知税运费。"
+    },
+    {
+      "product_id": "p-i-found-you",
+      "subject_id": "the-monsters",
+      "name": "I FOUND YOU",
+      "series": "I FOUND YOU",
+      "released_at": "2023-12-15",
+      "market": "US",
+      "category": "搪胶毛绒",
+      "size": "22.8 inches",
+      "materials": "PVC/聚酯纤维/ABS",
+      "material_basis": "official_listing",
+      "price": 199.99,
+      "currency": "USD",
+      "price_observed_at": "2026-10-19",
+      "channel": "POP MART美国官网",
+      "usage_scenarios": [
+        "陈列"
+      ],
+      "evidence_ids": [
+        "i-found-you",
+        "macaron"
+      ],
+      "limitations": "查阅日官网或关联推荐展示价，非中国首发价；未知税运费。"
+    }
+  ],
+  "accounts": [],
+  "content_samples": [],
+  "user_evidence": [],
+  "images": [
+    {
+      "image_id": "labubu-official-display",
+      "subject_id": "the-monsters",
+      "type": "official_character_display",
+      "product_ids": [],
+      "event_ids": [],
+      "version": "official profile observed 2026-10-19",
+      "creator_or_brand": "POP MART / Kasing Lung",
+      "source_page_url": "https://www.popmart.com/fr/ip/labubu/7549cf2c-6db2-4e02-ab69-026be178d334",
+      "original_image_url": "https://prod-server-r2.popmart.com/uploads/aKPgp5qdzlgcjDtBEXR6O7m0f3hsRYNi/8f9lwP7YQHoZONgp-1763368915-1723457780897_labubu%E5%AE%98%E7%BD%91ip%E5%B1%95%E7%A4%BA%E7%B4%A0%E4%BD%93.png",
+      "observed_at": "2026-10-19",
+      "page_published_at": null,
+      "product_released_at": null,
+      "image_created_at": null,
+      "rights": "官方角色图，研究引用；不是公开再分发许可。",
+      "source_class": "official",
+      "selection_reason": "纠正基础角色与毛绒SKU混淆，固定平面校准身份参照。",
+      "save_status": "saved",
+      "local_path": "assets/calibration/official-reference.png",
+      "sha256": "ff4fd1e14f3f4e7c078304a561bc105c242e3edfad1f7b10544e0940256e2594",
+      "evidence_ids": [
+        "origin-official"
+      ]
+    }
+  ],
+  "visual_analyses": [],
+  "publications": [
+    {
+      "publication_id": "book-puca",
+      "title": "The Story of Puca",
+      "subtitle": null,
+      "author_roles": [
+        {
+          "name": "Kasing Lung",
+          "role": "创作者"
+        }
+      ],
+      "isbn": null,
+      "cip": null,
+      "publisher": null,
+      "producer": null,
+      "retailer": null,
+      "edition": null,
+      "dates": [
+        {
+          "date_type": "publication_year",
+          "value": "2015",
+          "source": "Tatler原采访背景"
+        }
+      ],
+      "binding": null,
+      "volumes": null,
+      "pages": null,
+      "format": null,
+      "price": null,
+      "currency": null,
+      "content_scope": "THE MONSTERS三部曲",
+      "relation_to_early_works": "三部曲成员",
+      "evidence_ids": [
+        "tatler-interview",
+        "origin-official"
+      ],
+      "limitations": "年份获原访谈背景支持，未取得版权页；不补猜ISBN、出版社和装帧。"
+    },
+    {
+      "publication_id": "book-pato",
+      "title": "Pato and the Girl",
+      "subtitle": null,
+      "author_roles": [
+        {
+          "name": "Kasing Lung",
+          "role": "创作者"
+        }
+      ],
+      "isbn": null,
+      "cip": null,
+      "publisher": null,
+      "producer": null,
+      "retailer": null,
+      "edition": null,
+      "dates": [
+        {
+          "date_type": "publication_year",
+          "value": "2016",
+          "source": "Tatler原采访背景"
+        }
+      ],
+      "binding": null,
+      "volumes": null,
+      "pages": null,
+      "format": null,
+      "price": null,
+      "currency": null,
+      "content_scope": "THE MONSTERS三部曲",
+      "relation_to_early_works": "三部曲成员",
+      "evidence_ids": [
+        "tatler-interview",
+        "origin-official"
+      ],
+      "limitations": "年份获原访谈背景支持，未取得版权页；不补猜ISBN、出版社和装帧。"
+    },
+    {
+      "publication_id": "book-miro",
+      "title": "Milo’s Requiem / Miró’s Requiem",
+      "subtitle": null,
+      "author_roles": [
+        {
+          "name": "Kasing Lung",
+          "role": "创作者"
+        }
+      ],
+      "isbn": null,
+      "cip": null,
+      "publisher": null,
+      "producer": null,
+      "retailer": null,
+      "edition": null,
+      "dates": [
+        {
+          "date_type": "publication_year",
+          "value": "2017",
+          "source": "Tatler原采访背景"
+        }
+      ],
+      "binding": null,
+      "volumes": null,
+      "pages": null,
+      "format": null,
+      "price": null,
+      "currency": null,
+      "content_scope": "THE MONSTERS三部曲",
+      "relation_to_early_works": "三部曲成员",
+      "evidence_ids": [
+        "tatler-interview",
+        "origin-official"
+      ],
+      "limitations": "年份获原访谈背景支持，未取得版权页；不补猜ISBN、出版社和装帧。"
+    }
+  ],
+  "color_system": [],
+  "form_spec": [],
+  "head_face_profile": [],
+  "narrative_system": [
+    {
+      "basis": "official_settings",
+      "evidence_ids": [
+        "origin-official"
+      ],
+      "image_ids": [],
+      "description": "LABUBU为尖耳九牙的森林精灵族群，顽皮但善良。",
+      "limitations": "视觉规则待逐图核验"
+    }
+  ],
+  "action_library": [],
+  "series_matrix": [
+    {
+      "basis": "official_product_listings",
+      "evidence_ids": [
+        "macaron"
+      ],
+      "image_ids": [],
+      "series": "Exciting Macaron",
+      "product_ids": [
+        "p-macaron"
+      ],
+      "limitations": "不代表销量排名"
+    },
+    {
+      "basis": "official_product_listings",
+      "evidence_ids": [
+        "have-seat"
+      ],
+      "image_ids": [],
+      "series": "Have a Seat",
+      "product_ids": [
+        "p-have-seat"
+      ],
+      "limitations": "不代表销量排名"
+    },
+    {
+      "basis": "official_product_listings",
+      "evidence_ids": [
+        "big-energy"
+      ],
+      "image_ids": [],
+      "series": "Big into Energy",
+      "product_ids": [
+        "p-big-energy"
+      ],
+      "limitations": "不代表销量排名"
+    },
+    {
+      "basis": "official_product_listings",
+      "evidence_ids": [
+        "lazy-yoga"
+      ],
+      "image_ids": [],
+      "series": "Lazy Yoga",
+      "product_ids": [
+        "p-lazy-yoga"
+      ],
+      "limitations": "不代表销量排名"
+    },
+    {
+      "basis": "official_product_listings",
+      "evidence_ids": [
+        "fall-wild"
+      ],
+      "image_ids": [],
+      "series": "FALL IN WILD Pendant",
+      "product_ids": [
+        "p-fall-wild"
+      ],
+      "limitations": "不代表销量排名"
+    },
+    {
+      "basis": "official_product_listings",
+      "evidence_ids": [
+        "i-found-you"
+      ],
+      "image_ids": [],
+      "series": "I FOUND YOU",
+      "product_ids": [
+        "p-i-found-you"
+      ],
+      "limitations": "不代表销量排名"
+    }
+  ],
+  "recognition_checks": [
+    {
+      "method": "剪影/缩略图/去色辨识",
+      "status": "not_performed",
+      "performed": false,
+      "sample_ids": [],
+      "finding": null
+    }
+  ],
+  "audience_insights": [
+    {
+      "basis": "inference",
+      "scenario": "外出挂包",
+      "behavior": "更易携带与展示",
+      "state": null,
+      "conflict": null,
+      "implicit_expression": null,
+      "evidence_ids": [
+        "perfect-interview",
+        "fall-wild"
+      ],
+      "limitations": "非用户原话或总体画像"
+    }
+  ],
+  "repo_audit": {
+    "repository": "ip-source",
+    "commit": "3cb8a89bd1e63d4221c397b05dff1fe2e84175b1",
+    "read_at": "2026-10-19",
+    "files": [
+      {
+        "path": "data/studies/the-monsters.json",
+        "sha256": "ece5a1100f88a8d136f6a38481b478eddfc025db2045cdb8d5cc57b9fee9f041",
+        "reading_scope": "full"
+      },
+      {
+        "path": "skills/chaowan-ip-study/references/data-contract.md",
+        "sha256": "3b674317f3d6828ec7fb6806e9a20b27747f2629d74c2b026579b4286e3670de",
+        "reading_scope": "full"
+      },
+      {
+        "path": "skills/chaowan-ip-study/references/card.md",
+        "sha256": "f383bcf7ad7f551a659d2e1a9fda4c2ace672abc93006d2feb44e0c7eb33b956",
+        "reading_scope": "full"
+      },
+      {
+        "path": "skills/chaowan-ip-study/scripts/validate_archive.py",
+        "sha256": "455545b45cebda5f2fbfcef28111bd6667279d4605c8d100c0a1714474ecd8bf",
+        "reading_scope": "full"
+      },
+      {
+        "path": "skills/chaowan-ip-study/scripts/validate_card.py",
+        "sha256": "42ed55f1970a08dd3a8f8626ed7a83e66eaca36a5e6fb32b7bca101a8e65a754",
+        "reading_scope": "full"
+      }
+    ],
+    "mapping": "旧quick卡→当前deep partial卡；原卡完整留存",
+    "cautions": [
+      "未推送",
+      "结构通过不代表事实完整",
+      "空数组表示尚未建立记录，不表示客观不存在"
+    ]
+  },
+  "character_rules": {
+    "identity_invariants": [
+      {
+        "value": "尖耳与九牙（官方设定）",
+        "evidence_ids": [
+          "origin-official"
+        ],
+        "image_ids": []
+      }
+    ],
+    "expression_invariants": [],
+    "variables": [],
+    "medium_adaptations": [],
+    "uncertain": [
+      "主代理补充逐图验证"
+    ]
+  },
+  "prompt_layers": {
+    "disclaimer": "尚未测试；不作为ready提示词交付",
+    "sample_descriptions": [],
+    "mechanisms": [],
+    "original_translation": null
+  },
+  "prompt_validation": [],
+  "methods": [
+    {
+      "method_id": "m-carry",
+      "problem": "角色如何进入日常使用",
+      "claim_ids": [
+        "c-carry",
+        "c-mechanism"
+      ],
+      "image_ids": [],
+      "mechanism": "缩小与挂接结构降低携带阻力",
+      "conditions": "识别保留、重量与耐用性合适",
+      "counterexamples": "尚无受控对照",
+      "failure_boundary": "触感或携带便利不等于购买需求",
+      "design_implication": "优先验证包袋上的比例与真实使用",
+      "experiment": "以原创角色做携带场景比较",
+      "metric": "试用携带意愿、实际携带频次",
+      "rejection_condition": "仅觉得好看而不愿携带",
+      "evidence_level": "创作者自述+官方产品，机制推断"
+    }
+  ],
+  "gaps": [
+    {
+      "gap_id": "g-contract",
+      "module": "A",
+      "status": "unknown",
+      "question": "授权范围、年限、分成及完整权属链",
+      "searched": [
+        "已核实官方页面及创作者原访谈"
+      ],
+      "impact": "限制研究完成度",
+      "next_action": "取得合同或权利人正式披露"
+    },
+    {
+      "gap_id": "g-economics",
+      "module": "H",
+      "status": "unknown",
+      "question": "系列销量、成本、毛利与许可费用未披露",
+      "searched": [
+        "已核实官方页面及创作者原访谈"
+      ],
+      "impact": "限制研究完成度",
+      "next_action": "查发行人补充材料，不用公司毛利替代单IP"
+    },
+    {
+      "gap_id": "g-audience",
+      "module": "D",
+      "status": "partially_verified",
+      "question": "创作者性别比例口述缺抽样方法；年龄地域收入统计未知",
+      "searched": [
+        "已核实官方页面及创作者原访谈"
+      ],
+      "impact": "限制研究完成度",
+      "next_action": "采集可复核用户样本，不输出总体画像数字"
+    },
+    {
+      "gap_id": "g-xhs",
+      "module": "D",
+      "status": "partially_verified",
+      "question": "用户指定品牌备忘录笔记已能读取正文与可见评论，正在逐图；站内搜索仍受登录限制",
+      "searched": [
+        "主代理提供的读取状态"
+      ],
+      "impact": "限制研究完成度",
+      "next_action": "主代理完成逐图与样本标注，不把单条笔记外推全体"
+    },
+    {
+      "gap_id": "g-visual",
+      "module": "E",
+      "status": "partially_verified",
+      "question": "视觉样本由主代理补充，当前未写入逐图核验及色值",
+      "searched": [
+        "已核实官方页面及创作者原访谈"
+      ],
+      "impact": "限制研究完成度",
+      "next_action": "补图ID、观察、出处、适当权限与哈希"
+    },
+    {
+      "gap_id": "g-size",
+      "module": "G",
+      "status": "conflicting",
+      "question": "Big into Energy 美国17cm与英国15cm不一致",
+      "searched": [
+        "已核实官方页面及创作者原访谈"
+      ],
+      "impact": "限制研究完成度",
+      "next_action": "并列地区口径，不擅自合并"
+    },
+    {
+      "gap_id": "g-pub",
+      "module": "B",
+      "status": "partially_verified",
+      "question": "书名英译差异；版权页/ISBN/出版社/版次未核验",
+      "searched": [
+        "已核实官方页面及创作者原访谈"
+      ],
+      "impact": "限制研究完成度",
+      "next_action": "查看出版物版权页"
+    },
+    {
+      "gap_id": "g-historical",
+      "module": "H",
+      "status": "partially_verified",
+      "question": "旧卡2025全年及毛绒公司数字保留在历史副本，未纳入本次确认事实",
+      "searched": [
+        "已核实官方页面及创作者原访谈"
+      ],
+      "impact": "限制研究完成度",
+      "next_action": "逐条复核旧来源或原财报"
+    },
+    {
+      "gap_id": "g-prompts",
+      "module": "K",
+      "status": "partially_verified",
+      "question": "官方身份参考下的纯文字平面复现3轮仍未通过；参考辅助版本较接近但不能代替纯文字结果；后续暂停。",
+      "searched": [
+        "已核实官方页面及创作者原访谈"
+      ],
+      "impact": "限制研究完成度",
+      "next_action": "继续校正头脸轮廓和眉眼；不通过不进入下游。"
+    }
+  ],
+  "coverage": {
+    "A": {
+      "status": "partial",
+      "evidence_ids": [
+        "origin-official"
+      ],
+      "limitations": "研究未完成；见gaps"
+    },
+    "B": {
+      "status": "partial",
+      "evidence_ids": [
+        "origin-official"
+      ],
+      "limitations": "研究未完成；见gaps"
+    },
+    "C": {
+      "status": "partial",
+      "evidence_ids": [
+        "origin-official"
+      ],
+      "limitations": "研究未完成；见gaps"
+    },
+    "D": {
+      "status": "partial",
+      "evidence_ids": [],
+      "limitations": "研究未完成；见gaps"
+    },
+    "E": {
+      "status": "partial",
+      "evidence_ids": [],
+      "limitations": "研究未完成；见gaps"
+    },
+    "F": {
+      "status": "partial",
+      "evidence_ids": [],
+      "limitations": "研究未完成；见gaps"
+    },
+    "G": {
+      "status": "partial",
+      "evidence_ids": [],
+      "limitations": "研究未完成；见gaps"
+    },
+    "H": {
+      "status": "partial",
+      "evidence_ids": [],
+      "limitations": "研究未完成；见gaps"
+    },
+    "I": {
+      "status": "partial",
+      "evidence_ids": [],
+      "limitations": "研究未完成；见gaps"
+    },
+    "J": {
+      "status": "partial",
+      "evidence_ids": [],
+      "limitations": "研究未完成；见gaps"
+    },
+    "K": {
+      "status": "partial",
+      "evidence_ids": [],
+      "limitations": "研究未完成；见gaps"
+    },
+    "L": {
+      "status": "partial",
+      "evidence_ids": [],
+      "limitations": "研究未完成；见gaps"
+    },
+    "visuals": {
+      "status": "partial",
+      "evidence_ids": [],
+      "limitations": "研究未完成；见gaps"
+    },
+    "prompts": {
+      "status": "partial",
+      "evidence_ids": [],
+      "limitations": "平面校准门槛未通过，后续暂停。"
+    },
+    "cross_case": {
+      "status": "not_applicable",
+      "evidence_ids": [],
+      "limitations": "单例研究"
+    }
+  },
+  "delivery_observations": {
+    "observed_at": "2026-10-19",
+    "xhs": {
+      "note_id": "683d4f3c000000002102d0cd",
+      "slides_viewed": 6,
+      "visible_comment_entries": 13,
+      "displayed_metrics": {
+        "likes": 1492,
+        "collections": 649,
+        "comments": 34
+      },
+      "search_attempts": [
+        "LABUBU 品牌介绍",
+        "LABUBU 产品汇总"
+      ],
+      "search_result": "输入并回车后仍停留原帖；未获取结果",
+      "limitations": "单帖指定样本，当前浏览器未登录；不能代表整体受众"
+    },
+    "images": [
+      {
+        "local_path": "assets/soymilk.png",
+        "source_page": "https://www.popmart.com/us/products/1789/the-monsters-exciting-macaron-vinyl-face-blind-box",
+        "viewed": true,
+        "sha256": "1cdf0952abd9b6ebcd3ceedaebef3a4d06cddeccc365f287695865a6d730f237",
+        "rights": "官方商品图，研究引用；非开放许可"
+      },
+      {
+        "local_path": "assets/sesame.png",
+        "source_page": "https://www.popmart.com/us/products/1789/the-monsters-exciting-macaron-vinyl-face-blind-box",
+        "viewed": true,
+        "sha256": "d7d009a0e198e90ddb5e5dfbb4c860cf032007ef4532890917b93977c3d80536",
+        "rights": "官方商品图，研究引用；非开放许可"
+      },
+      {
+        "local_path": "assets/dada.jpg",
+        "source_page": "https://www.popmart.com/us/products/1372/the-monsters-have-a-seat-vinyl-plush-blind-box",
+        "viewed": true,
+        "sha256": "24e7280a8651b501471a960698c82a8d5ff6cf66b8a990374957022a3383f9c6",
+        "rights": "官方商品图，研究引用；非开放许可"
+      },
+      {
+        "local_path": "assets/wild.jpg",
+        "source_page": "https://www.popmart.com/us/products/1060/the-monsters-fall-in-wild-series-vinyl-plush-doll",
+        "viewed": true,
+        "sha256": "78ce6f08c4215c9e24b6071f0da200f96c21861d505a5c95b66feda580a91f94",
+        "rights": "官方商品图，研究引用；非开放许可"
+      }
+    ]
+  },
+  "flat_gate": {
+    "stage": "flat_identity_reproduction",
+    "rule": "平面复现与原IP相差较大时不进入下游；先修提示词并重新实际生成，直到相似。",
+    "passed": false,
+    "downstream": "paused",
+    "user_instruction_at": "2026-10-19T16:49:33+08:00"
+  },
+  "flat_reference": {
+    "source_page": "https://www.popmart.com/fr/ip/labubu/7549cf2c-6db2-4e02-ab69-026be178d334",
+    "original_image_url": "https://prod-server-r2.popmart.com/uploads/aKPgp5qdzlgcjDtBEXR6O7m0f3hsRYNi/8f9lwP7YQHoZONgp-1763368915-1723457780897_labubu%E5%AE%98%E7%BD%91ip%E5%B1%95%E7%A4%BA%E7%B4%A0%E4%BD%93.png",
+    "image_id": "labubu-official-display",
+    "path": "assets/calibration/official-reference.png",
+    "note": "官方角色展示图（立体表现）作为身份与姿态参照；不宣称官方二维母版。"
+  },
+  "flat_test_log": [
+    {
+      "id": "ref-v1",
+      "version": 1,
+      "mode": "reference_image",
+      "prompt": "输入图片1是官方角色的身份与姿态参考。把它忠实转绘为二维平面图，保留原图宽脸、眉眼关系、耳形、九齿排列、躯干与四肢位置，不重新设计角色，不混入此前奶油毛绒款的圆软轮廓。只把立体表面和光影转换成平面色块。画一张单角色全身二维平面设定图，纯白背景。对象是一只棕色的森林小精灵，不是兔子或穿动物连体衣的人。关键身份：头非常大，呈横向展开的圆角扇形，上额圆拱，两侧颊部外张，下颌宽而圆，不是正圆；头部宽度约为躯干宽度的1.8倍，不含耳朵的头高约等于颈部到脚底的长度。头顶是两只长而窄的直立尖耳，略向两侧展开，耳外部为浅粉色，内侧是细长深棕色槽形区域；耳朵没有奶油毛绒包边。头外围是深栗棕的短尖束状外轮廓，杏粉色裸露脸面占头部大部分，额头上边界有几撮向下的棕色尖束。脸不是戴面具。额部与眉弓轻微向两眼内侧压低，形成淘气而非甜美呆萌的表情。两眼是竖椭圆形，外圈大块白色眼白、内侧细棕色虹膜环、中间偏长的黑色椭圆瞳孔，各有一粒很小的白反光点；眼距约为单眼宽度，不能画成两个圆黑点或巨型圆眼。鼻子是小的深栗色圆角倒三角。嘴线宽至两侧脸颊，呈向下弯的浅弧，嘴角向上挑；沿弧线的下方排列九颗白色短三角牙，中央一颗，左边四颗、右边四颗，不要画成八颗、双兔门牙或双排牙；不画张开的黑洞大嘴。躯干较瘦，梨形肚子，身体与四肢栗棕色；短臂从肩部向两侧举起，手掌与脚爪是浅粉色，小而有分叉，不能画成人类鞋子。没有脖圈、衣服、挂绳、钥匙环、尾巴或头饰。姿态：整个角色略向画面右侧倾斜，头顶耳朵方向随倾斜，两手张开，一只脚稍抬起。轮廓线清晰，棕色体表用少量方向一致的短线表示短尖束，不画圆形云朵边或羊羔卷毛。全部为封闭轮廓和干净均匀色块，最多一层简洁的局部色块表示眉弓，不画柔焦渐变、立体材质、摄影光影。角色居中且耳尖和脚尖完整，留足空白。没有文字、品牌、装饰、道具和额外角色。",
+      "reference_image_ids": [
+        "labubu-official-display"
+      ],
+      "path": "assets/calibration/reference-assisted-v1.png",
+      "status": "testing",
+      "finding": "参考辅助版本的宽头、眼脸关系、耳形、九牙、细长躯干和姿态已较接近；仍有鼻头、毛束与局部线条的风格化差异。仅用于本轮平面审阅，不作为纯文字通过证明。"
+    },
+    {
+      "id": "text-v1",
+      "version": 1,
+      "mode": "text_only",
+      "prompt": "画一张单角色全身二维平面设定图，纯白背景。对象是一只棕色的森林小精灵，不是兔子或穿动物连体衣的人。关键身份：头非常大，呈横向展开的圆角扇形，上额圆拱，两侧颊部外张，下颌宽而圆，不是正圆；头部宽度约为躯干宽度的1.8倍，不含耳朵的头高约等于颈部到脚底的长度。头顶是两只长而窄的直立尖耳，略向两侧展开，耳外部为浅粉色，内侧是细长深棕色槽形区域；耳朵没有奶油毛绒包边。头外围是深栗棕的短尖束状外轮廓，杏粉色裸露脸面占头部大部分，额头上边界有几撮向下的棕色尖束。脸不是戴面具。额部与眉弓轻微向两眼内侧压低，形成淘气而非甜美呆萌的表情。两眼是竖椭圆形，外圈大块白色眼白、内侧细棕色虹膜环、中间偏长的黑色椭圆瞳孔，各有一粒很小的白反光点；眼距约为单眼宽度，不能画成两个圆黑点或巨型圆眼。鼻子是小的深栗色圆角倒三角。嘴线宽至两侧脸颊，呈向下弯的浅弧，嘴角向上挑；沿弧线的下方排列九颗白色短三角牙，中央一颗，左边四颗、右边四颗，不要画成八颗、双兔门牙或双排牙；不画张开的黑洞大嘴。躯干较瘦，梨形肚子，身体与四肢栗棕色；短臂从肩部向两侧举起，手掌与脚爪是浅粉色，小而有分叉，不能画成人类鞋子。没有脖圈、衣服、挂绳、钥匙环、尾巴或头饰。姿态：整个角色略向画面右侧倾斜，头顶耳朵方向随倾斜，两手张开，一只脚稍抬起。轮廓线清晰，棕色体表用少量方向一致的短线表示短尖束，不画圆形云朵边或羊羔卷毛。全部为封闭轮廓和干净均匀色块，最多一层简洁的局部色块表示眉弓，不画柔焦渐变、立体材质、摄影光影。角色居中且耳尖和脚尖完整，留足空白。没有文字、品牌、装饰、道具和额外角色。",
+      "reference_image_ids": [],
+      "path": "assets/calibration/text-v1.png",
+      "status": "revise",
+      "finding": "头过扁宽、眉弓过尖，整体更像凶猛卡通精灵。"
+    },
+    {
+      "id": "text-v2",
+      "version": 2,
+      "mode": "text_only",
+      "prompt": "生成单只棕色森林小精灵的二维平面复现研究图，白底全身，非原创改造。角色总体构型：大而圆宽的头、细长直立耳朵、偏瘦的小身体；角色没有穿衣服，也不是兔子。\n比例优先：把不含耳朵的头部宽度设为100个相对单位，头高约82；肩以下至脚底的高度约90，躯干最宽约50。头部是饱满圆角的宽椭圆，额顶圆拱、两颊外鼓、下颌宽而圆；绝不能压扁成左右尖出的狐狸脸或横长扇形。头顶两耳各长约55、宽约18，相隔约22，狭长叶片形，耳尖小而圆钝，耳整体浅粉，内槽细长深棕色，耳根直接接头顶，不画卷毛包边。\n面部：裸露的杏桃粉脸面占头部大部分，棕色毛边只围脸一圈。额前毛边用不规则短圆钝小尖束，不画一排长锯齿或前额长刘海。眼睛位于脸的中部，两只完整闭合的竖椭圆白眼圈，眼高约头高的30%，单眼宽约头宽的18%，眼间距约单眼宽；每只眼含棕色细虹膜环、偏长的黑色瞳孔及一个小白亮点。每眼上方是一小段柔和的肤色弧形眉弓，内端稍低，形成顽皮神态；眉弓不覆盖眼白，不用尖锐V字眉，不画愤怒斜三角眼。鼻头很小，是深栗棕的圆钝倒三角。宽笑嘴从左颊延至右颊，嘴角高、中央低，是一条柔和弧线；弧线下是九颗白色短圆钝三角牙：中央一颗，左右各四颗，各颗大小相近并相互留出窄缝。没有黑色嘴洞、舌头和下排牙。\n身体：深栗棕色梨形躯干稍长而收肩，短腿和小脚，浅粉的手掌脚趾。两短臂向外张开，手掌有几根短小分叉。身体没有套装边缘、颈圈、按钮、拉链或肚皮色块，无尾巴，无挂环。整个角色含耳朵略向画面右侧倾斜，身体是柔和弯曲而非横着踢腿，左侧脚垂下，右侧脚轻微后抬。\n配色：头部围脸毛边、躯干、四肢采用较深偏红的栗棕色，预览#793B26；脸和外耳、手脚为杏桃粉，预览#F3C3B2；耳内#5B2718，白眼圈和牙齿为白色，瞳孔黑色。棕色体表只用稀疏的短弧线提示方向，不加密集尖刺或蓬松卷毛，不让表面纹理改变轮廓。\n平面要求：细而清晰的深棕轮廓、均匀平涂、没有立体渲染和摄影阴影。耳尖、手脚完整，角色周围留白。禁止文字、品牌名、装饰、额外角色、道具、三视图、羊羔毛、兔门牙、凶恶眼神和巨大的尖锐眉毛。",
+      "reference_image_ids": [],
+      "path": "assets/calibration/text-v2.png",
+      "status": "revise",
+      "finding": "眉眼矫正过度，表情过甜；牙齿变成圆瓣、数量不足。"
+    },
+    {
+      "id": "text-v3",
+      "version": 3,
+      "mode": "text_only",
+      "prompt": "单个既有角色的平面研究复现，不做原创改造。请画出以下精确形象：一只栗棕色森林精灵，超大头、双长耳、露出九颗尖牙，短而较瘦的栗棕身体，杏桃色大面积脸面，神态调皮，有一点坏笑。\n头部不是扁狐狸脸，也不是圆形婴儿脸。它是饱满宽椭圆：宽约100、高约82。头部围脸的栗棕色边缘很薄，只保留短而不规则的毛尖，额前向下有三个至五个小尖束，脸颊左右展开，下巴宽圆。躯干到脚底约85高，最宽约48，腰部略收、腹部稍鼓。两只耳朵狭长、根部窄、尖端圆钝，耳长约48，浅杏粉色外耳包着细长深棕色内耳槽，耳朵不比头还长，也没有毛绒套。\n五官必须用固定相对位置：白眼圈是两只完整的竖长椭圆，每眼高约25、宽约17，两个眼圈之间间隔约17。眼内棕色细环包住大颗黑色竖椭圆瞳孔，瞳孔处于眼圈中央略靠内，每眼仅一点小白高光。眼睛顶部上方各有一块低而短的肤色眉弓；眉弓靠鼻梁一端略压低、外侧略抬高，表情是淘气坏笑。眉弓与脸为同色，只用很浅的一块分区线说明形状，不画两条上扬的独立眉毛；不允许画成忧愁眉或极端V字愤怒眉。鼻子是很小的深栗棕圆角倒三角。\n大笑嘴沿脸颊从一侧延伸到另一侧，嘴角上扬，中央低，宽约脸宽的88%。只用一条深棕色浅弧，下面是一排九颗明显的三角尖牙，牙尖朝向下方：从左到右是1、2、3、4、中央第5、6、7、8、9颗，数字只供计数，不画数字。九颗牙都完整露出，不互相重叠；每颗都是直边三角形，仅角稍圆，绝不是圆瓣、U形乳牙、兔门牙。中间五颗牙接近水平排列，两端各两颗随上翘嘴角渐升；从左脸侧绕到右脸侧，尖牙和嘴线占据脸下半部。没有张开的黑嘴洞。\n两只手臂很短，从肩部两侧略向上展开，手掌小而有四个短指轮廓；浅粉小脚带三个短尖趾，腿短、不画大拖鞋。身体全部栗棕色，无鼻口之外的配件、无衣服、无兜帽、无颈圈、无尾巴。略向画面右侧倾斜、两手张开、右脚轻抬，轮廓不变形。色块：栗棕#793B26，脸耳手脚#F3C3B2，内耳#5B2718，眼白和牙齿为白色。采用二维平涂和少量棕色体表方向线，不要3D、渐变光影、毛绒、羊毛卷边、幼儿贴纸画风、凶恶尖刺、场景、文字、标志。纯白底，单体全身，耳尖和脚尖完整。",
+      "reference_image_ids": [],
+      "path": "assets/calibration/text-v3.png",
+      "status": "revise",
+      "finding": "九颗牙已恢复，但头形仍偏宽，眉弓偏尖，额前毛束过长；未达到基础身份校准要求。"
+    }
+  ],
+  "flat_test_images": [
+    {
+      "path": "assets/calibration/reference-assisted-v1.png",
+      "sha256": "cff6a4255c1ce6eac5f46e3b6688e2e015850f4370d4e43f3673b729e64a2dcf",
+      "source": "AI test, not official"
+    },
+    {
+      "path": "assets/calibration/text-v1.png",
+      "sha256": "768d4966b7ff0ebe1bd5ad80ed75aa2e51d655341349eac0f8a0e3e602e97bf2",
+      "source": "AI test, not official"
+    },
+    {
+      "path": "assets/calibration/text-v2.png",
+      "sha256": "4acc97f540f0de486a40b08dc711b37f143a63199604d5e263328fdf9d528288",
+      "source": "AI test, not official"
+    },
+    {
+      "path": "assets/calibration/text-v3.png",
+      "sha256": "5b505247a5db53e001416d82f2c67436d7bc724f01ba94fa90439e6da3b51827",
+      "source": "AI test, not official"
+    }
+  ]
+}

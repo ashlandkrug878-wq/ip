@@ -2,23 +2,20 @@
   "id": "the-monsters",
   "name": "THE MONSTERS",
   "aliases": [
-    "精灵天团",
-    "LABUBU",
-    "Zimomo",
-    "Tycoco"
+    "精灵天团"
   ],
-  "tier": "quick",
+  "tier": "deep",
   "status": "partial",
   "cutoff_date": "2026-10-19",
   "updated": "2026-10-19",
-  "summary": "2015 年的绘本精灵，2019 年签约泡泡玛特，2024 年经明星晒图全球爆发，2025 年成为第一个年收入破百亿的 IP；2026 上半年开始回落。最值得看的是「丑萌」外形 + 角色群 + 毛绒挂件的组合，以及单一 IP 依赖的风险。",
+  "summary": "平面关卡未通过，后续暂停。已补充官方资料、产品、商业数字、小红书指定样本及4次平面测试；完整网页入口见下方来源。核心研究机制：强识别与日常携带场景结合，但不能据此断言增长因果。",
   "owner": {
-    "creator": "龙家升（Kasing Lung），香港出生、荷兰长大的艺术家",
+    "creator": "龙家昇 / Kasing Lung",
     "operator": "泡泡玛特",
-    "relation": "2019 年起独家授权",
+    "relation": "2019年独家授权合作（媒体原采访背景）；完整合同未知",
     "since": "2019",
     "sources": [
-      "s-hku-labubu"
+      "tatler-interview"
     ]
   },
   "origin": {
@@ -27,95 +24,112 @@
       "艺术家潮玩"
     ],
     "year": "2015",
-    "story": "受北欧神话启发创作的精灵角色群，最早以绘本角色形式存在，早期市场反响平淡",
+    "story": "绘本精灵世界；三部曲分别2015、2016、2017年，早期销量未知。",
     "sources": [
-      "s-hku-labubu",
-      "s-woshipm-labubu"
+      "origin-official",
+      "tatler-interview"
     ]
   },
   "timeline": [
     {
       "date": "2015",
-      "event": "创作 THE MONSTERS 精灵角色群（LABUBU、Zimomo、Tycoco 等）",
+      "event": "The Story of Puca与THE MONSTERS世界起点",
       "type": "fact",
       "sources": [
-        "s-hku-labubu"
-      ]
-    },
-    {
-      "date": "2018",
-      "event": "LABUBU 第一个盲盒推出（与 2019 年签约的先后关系待核实）",
-      "type": "fact",
-      "sources": [
-        "s-hku-labubu"
+        "origin-official",
+        "tatler-interview"
       ]
     },
     {
       "date": "2019",
-      "event": "与泡泡玛特签独家授权",
+      "event": "泡泡玛特独家授权合作；合同细则未知",
       "type": "fact",
       "sources": [
-        "s-hku-labubu"
+        "tatler-interview"
       ]
     },
     {
-      "date": "2024",
-      "event": "明星在社交媒体晒图，后被泰国官方用作旅游推广，全球破圈",
+      "date": "2023-10-27",
+      "event": "Exciting Macaron产品发布",
       "type": "fact",
       "sources": [
-        "s-hku-labubu"
+        "macaron"
       ]
     },
     {
-      "date": "2025",
-      "event": "全年收入 141.6 亿元，成为泡泡玛特第一个破百亿的 IP",
+      "date": "2024-07-12",
+      "event": "Have a Seat产品发布",
       "type": "fact",
       "sources": [
-        "s-yicai-2025ar"
+        "have-seat"
       ]
     },
     {
-      "date": "2026 上半年",
-      "event": "收入 44.54 亿元，同比下降 7.5%",
+      "date": "2025-04-25",
+      "event": "Big into Energy产品发布",
       "type": "fact",
       "sources": [
-        "s-jiemian-farm"
+        "big-energy"
+      ]
+    },
+    {
+      "date": "2024-08-09",
+      "event": "Lazy Yoga产品发布",
+      "type": "fact",
+      "sources": [
+        "lazy-yoga"
+      ]
+    },
+    {
+      "date": "2024-04-12",
+      "event": "FALL IN WILD Pendant产品发布",
+      "type": "fact",
+      "sources": [
+        "fall-wild"
+      ]
+    },
+    {
+      "date": "2023-12-15",
+      "event": "I FOUND YOU产品发布",
+      "type": "fact",
+      "sources": [
+        "i-found-you"
       ]
     }
   ],
   "expression": {
-    "line": "丑一点、坏一点也很可爱（研究归纳，非官方口号）",
+    "line": "顽皮也可以是善良的（研究归纳，非官方口号）",
     "sentence_type": "反差",
     "basis": "inferred",
     "sources": [
-      "s-woshipm-labubu"
+      "origin-official"
     ]
   },
   "core": {
-    "personality": "调皮、野、不完美",
+    "personality": "好奇、顽皮、善良",
     "emotion": "反差",
-    "action": "龇着牙坏笑，却很好抱",
-    "basis": "inferred"
+    "action": "好奇探索，可能无心惹祸",
+    "basis": "official"
   },
   "insight": {
-    "scene": "",
-    "behavior": "把毛绒挂件挂在包上出门",
-    "state": "",
-    "conflict": "想要可爱，又不想要乖巧的可爱",
-    "unsaid": "我也不是完美的乖孩子",
+    "scene": "外出与包袋搭配",
+    "behavior": "携带角色",
+    "state": null,
+    "conflict": "想表达个性，又希望亲近可爱（候选解释）",
+    "unsaid": null,
     "basis": "inferred"
   },
   "circle": {
-    "who": "年轻消费者，之后扩展到海外和明星粉丝",
-    "where": "社交媒体、线下门店",
-    "buy": "盲盒、毛绒挂件",
-    "signs": "",
-    "share": "包挂、开箱",
-    "breakout": "明星晒图 → 东南亚 → 全球"
+    "who": "藏家与挂件用户，人口统计未核实",
+    "where": "门店与社交平台",
+    "buy": "手办、搪胶毛绒等",
+    "signs": null,
+    "share": "携带与拍照（创作者观察）",
+    "breakout": "多因素并存，未分离明星、品类与渠道效应"
   },
   "pendulum": {
     "position": "丑萌怪趣",
-    "against": "甜美治愈和暗黑酷之后，「丑萌」显得新鲜（研究推断）"
+    "against": "审美分类为研究判断；未证明市场存在统一钟摆周期"
   },
   "form": {
     "archetype": "怪兽精灵",
@@ -124,37 +138,320 @@
       "五官",
       "头顶"
     ],
-    "mark": "一排锯齿状尖牙（报道写九颗）+ 一对长尖耳",
-    "face": "不对称的圆睁双眼，坏笑露牙；毛发蓬乱",
+    "mark": "尖耳九牙（官方设定）",
+    "face": "官方角色展示图：宽脸、竖椭圆眼、宽嘴九牙；毛绒商品款的脸面、眼神和坐站姿存在变化，不混作同一复现目标。",
     "emotion": "反差",
     "odd": "尖牙放在可爱的毛绒脸上",
-    "density": "中等",
+    "density": null,
     "naming": "叠音",
-    "group": "角色群"
+    "group": "角色群",
+    "basis": "已查看官方角色展示图与4张商品图片；定性视觉观察，非精密比例测量"
   },
   "collide_combo": "长尖耳 + 一排尖牙坏笑 + 毛绒精灵。不要用「尖耳 + 露一排牙的坏笑」组合",
   "color": {
     "mode": "多色系列",
-    "main": "随系列变化",
-    "signature": "",
-    "notes": "港大文章提到改版后肤色更浅、毛发为奶白；本次未拆色板"
+    "main": "系列不同",
+    "signature": null,
+    "notes": "未做可复现取色，不给精确色值与面积"
   },
   "materials": "盲盒手办；毛绒和搪胶毛绒挂件；冰箱贴、手机壳等周边",
   "carrier": {
     "primary": "实物潮玩",
-    "secondary": "短视频"
+    "secondary": "绘本漫画"
   },
   "product": {
-    "first_category": "盲盒手办",
+    "first_category": "出版物",
     "hit_category": "搪胶毛绒",
-    "hit_product": "毛绒挂件系列（具体系列未核实）",
-    "price_band": "",
+    "hit_product": "Exciting Macaron / Have a Seat / Big into Energy（代表产品，非已知销量排序）",
+    "price_band": "查阅日美国官方展示价：Macaron/Have a Seat 26.99美元；未含税运口径",
     "sources": [
-      "s-hku-labubu",
-      "s-yicai-2025ar"
-    ]
+      "macaron",
+      "have-seat",
+      "big-energy",
+      "i-found-you"
+    ],
+    "limitations": "出版物为当前最早可核载体；未断言最早商业成交产品，不认定首产品是盲盒"
   },
   "numbers": [
+    {
+      "metric": "IP收入",
+      "value": 4814017,
+      "unit": "千元",
+      "currency": "CNY",
+      "period": "2025 上半年",
+      "type": "fact",
+      "sources": [
+        "financial-2026h1"
+      ],
+      "subject": "THE MONSTERS家族，非LABUBU单角色",
+      "period_range": {
+        "start": "2025-01-01",
+        "end": "2025-06-30"
+      }
+    },
+    {
+      "metric": "IP收入",
+      "value": 4454361,
+      "unit": "千元",
+      "currency": "CNY",
+      "period": "2026 上半年",
+      "type": "fact",
+      "sources": [
+        "financial-2026h1"
+      ],
+      "subject": "THE MONSTERS家族，非LABUBU单角色",
+      "period_range": {
+        "start": "2026-01-01",
+        "end": "2026-06-30"
+      }
+    },
+    {
+      "metric": "占公司收入",
+      "value": 26,
+      "unit": "%",
+      "currency": null,
+      "period": "2026H1",
+      "type": "fact",
+      "sources": [
+        "financial-2026h1"
+      ],
+      "subject": "THE MONSTERS家族，非LABUBU单角色"
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "挂件让角色更容易进入日常携带场景",
+      "type": "inference",
+      "evidence": "创作者关于大搪胶旅行与小挂件携带的观察；官方产品形态",
+      "boundary": "不证明单一因素导致收入增长",
+      "sources": [
+        "perfect-interview",
+        "fall-wild"
+      ]
+    }
+  ],
+  "counterexamples": "2026H1收入比2025H1降低；原因未知。旧卡早期反响平淡及改版导致增长未复核，不延用。",
+  "theory": {
+    "shell": "尖耳、宽嘴九牙与头脸布局共同保持身份；商品层的颜色、眼神和姿态可变。",
+    "core": "顽皮与善良反差",
+    "shadow": "避免复刻尖耳、九牙坏笑与毛绒精灵的特征组合",
+    "two_layers": {
+      "surface": "可携带的角色陪伴（候选解释）",
+      "deep": "绘本世界与角色关系"
+    },
+    "validation": "财务收入证明家族购买规模，不证明某种消费者动机。已阅读用户指定小红书笔记6张图及13条可见评论项；单帖不代表整体用户。"
+  },
+  "for_skills": {
+    "lab": "可测试顽皮与善良的矛盾表达；不要把未经验证的消费者隐含表达当事实。",
+    "form": "借鉴识别特征跨载体保持连续；不复刻尖耳九牙坏笑组合。当前平面复现关卡未通过，暂停后续转译。",
+    "studio": "便携结构与系列主题联动可作为待验证机制；当前平面关卡未通过，不进入材质、立体化或原创转译。"
+  },
+  "gaps": [
+    "授权范围、年限、分成及完整权属链",
+    "系列销量、成本、毛利与许可费用未披露",
+    "创作者性别比例口述缺抽样方法；年龄地域收入统计未知",
+    "Big into Energy 美国17cm与英国15cm不一致",
+    "书名英译差异；版权页/ISBN/出版社/版次未核验",
+    "旧卡2025全年及毛绒公司数字保留在历史副本，未纳入本次确认事实",
+    "小红书已读取指定单帖6张图及13条可见评论项；两组站内检索未取得结果，尚无多帖样本。",
+    "已查看官方角色展示图及4张商品图；缺少充分的基础二维母版、侧背面与系统色彩测量。",
+    "纯文字平面复现3轮均未通过；参考辅助版较接近但仍待审阅，不代表纯文字复现通过。后续材质和原创转译暂停。"
+  ],
+  "sources": [
+    {
+      "id": "delivery-webpage",
+      "title": "打开完整调研网页（含平面校准与测试图）",
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/the-monsters/2026-10-19/",
+      "publisher": "研究交付",
+      "published": "2026-10-19",
+      "observed": "2026-10-19",
+      "access": "full",
+      "kind": "research_deliverable",
+      "note": "研究交付入口，不作为独立事实证据"
+    },
+    {
+      "id": "delivery-flat-calibration",
+      "title": "平面复现测试记录：当前关卡未通过",
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/the-monsters/2026-10-19/#flat-calibration",
+      "publisher": "研究交付",
+      "published": "2026-10-19",
+      "observed": "2026-10-19",
+      "access": "full",
+      "kind": "research_deliverable",
+      "note": "测试记录入口，不作为独立事实证据"
+    },
+    {
+      "id": "origin-official",
+      "title": "origin-official",
+      "url": "https://www.popmart.com/at/ip/the-monsters/efc371ce-c7dc-4d71-a820-136113d96587",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "perfect-interview",
+      "title": "perfect-interview",
+      "url": "https://www.theperfectmagazine.com/features/kasing/lung-kd7tf-blckg-f6lhj-s9akw-wyjtk",
+      "publisher": "Perfect",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "tatler-interview",
+      "title": "tatler-interview",
+      "url": "https://www.tatlerasia.com/lifestyle/arts/kasing-lung-labubu-the-monsters-pop-mart-zh-hant",
+      "publisher": "Tatler Asia",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "macaron",
+      "title": "macaron",
+      "url": "https://www.popmart.com/us/products/675/the-monsters-tasty-macarons-vinyl-face-blind-box-1085",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "have-seat",
+      "title": "have-seat",
+      "url": "https://www.popmart.com/us/pop-now/set/50-10006764000350",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "big-energy",
+      "title": "big-energy",
+      "url": "https://www.popmart.com/us/products/2155",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "big-energy-uk-discrepancy",
+      "title": "big-energy-uk-discrepancy",
+      "url": "https://www.popmart.com/gb/products/the-monsters-big-into-energy-series-vinyl-plush-pendant-blind-box/3bd2b923-383d-4461-a8ab-10383fd1125e",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "lazy-yoga",
+      "title": "lazy-yoga",
+      "url": "https://www.popmart.com/us/products/1436/the-monsters-lazy-yoga-series-figures",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "fall-wild",
+      "title": "fall-wild",
+      "url": "https://www.popmart.com/us/products/1061/the-monsters-fall-in-wild-series-vinyl-plush-doll-pendant",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "i-found-you",
+      "title": "i-found-you",
+      "url": "https://www.popmart.com/us/products/878/the-monsters-i-found-you-vinyl-face-doll",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "bazaar-interview",
+      "title": "bazaar-interview",
+      "url": "https://www.harpersbazaar.com/jp/culture/arts/a71632948/kasing-lung-monsters-by-monsters-now-and-then-260619-hb/",
+      "publisher": "Harper’s BAZAAR Japan",
+      "published": "2026-06-19",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "financial-2026h1",
+      "title": "泡泡玛特2026年中期业绩公告",
+      "url": "https://stockn.xueqiu.com/09992/20260820328239.pdf",
+      "publisher": "POP MART（雪球镜像）",
+      "published": "2026-08-20",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "s-hku-labubu",
+      "title": "The IP strategy behind Pop Mart's overnight popularity（港大经管学院专栏）",
+      "url": "https://hkubs.hku.hk/sc/research/thought-leadership/hkej-column/the-ip-strategy-behind-pop-marts-overnight-popularity",
+      "publisher": "港大经管学院 / 信报专栏",
+      "published": "2025-04-16",
+      "observed": "2026-10-19",
+      "access": "full",
+      "verification_status": "历史来源，本次未重新打开"
+    },
+    {
+      "id": "s-woshipm-labubu",
+      "title": "LABUBU 发展复盘（人人都是产品经理）",
+      "url": "https://www.woshipm.com/marketing/6229433.html",
+      "publisher": "人人都是产品经理",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full",
+      "verification_status": "历史来源，本次未重新打开"
+    },
+    {
+      "id": "s-yicai-2025ar",
+      "title": "泡泡玛特2025年营收371.2亿元（第一财经）",
+      "url": "https://www.yicai.com/news/103103386.html",
+      "publisher": "第一财经",
+      "published": "2026-03-25",
+      "observed": "2026-10-19",
+      "access": "full",
+      "verification_status": "历史来源，本次未重新打开"
+    },
+    {
+      "id": "s-jiemian-farm",
+      "title": "星星人农场系列再现秒空（界面新闻）",
+      "url": "https://m.jiemian.com/article/14964216.html",
+      "publisher": "界面新闻",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full",
+      "verification_status": "历史来源，本次未重新打开"
+    },
+    {
+      "id": "labubu-official-display",
+      "title": "LABUBU 官方角色展示与设定",
+      "url": "https://www.popmart.com/fr/ip/labubu/7549cf2c-6db2-4e02-ab69-026be178d334",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    }
+  ],
+  "archive": "research/the-monsters/2026-10-19/report.md",
+  "revision": {
+    "version": 3,
+    "previous_card": "research/the-monsters/2026-10-19/history/the-monsters.quick.original.json",
+    "changes": [
+      "从quick升级deep；仍partial",
+      "纠正首载体为出版物；移除未核实盲盒首发及失败断言",
+      "新增原始访谈与产品证据，历史数字不销毁但不当作现已复核事实",
+      "同步最终平面校准记录：3轮纯文字未通过，1轮参考辅助待审阅；后续暂停",
+      "补齐已完成视觉与小红书样本状态，移除中间交接占位文字",
+      "发布到研究目录，并通过选品板研究库现有来源入口连接完整网页"
+    ]
+  },
+  "historical_numbers": [
     {
       "metric": "IP 收入",
       "value": 141.6,
@@ -163,7 +460,8 @@
       "type": "fact",
       "sources": [
         "s-yicai-2025ar"
-      ]
+      ],
+      "verification_status": "本次未复核；不作为当前已确认事实"
     },
     {
       "metric": "IP 收入",
@@ -173,7 +471,8 @@
       "type": "fact",
       "sources": [
         "s-jiemian-farm"
-      ]
+      ],
+      "verification_status": "本次未复核；不作为当前已确认事实"
     },
     {
       "metric": "泡泡玛特毛绒品类收入（全公司，非单 IP）",
@@ -183,109 +482,24 @@
       "type": "fact",
       "sources": [
         "s-yicai-2025ar"
-      ]
+      ],
+      "verification_status": "本次未复核；不作为当前已确认事实"
     }
   ],
-  "mechanisms": [
-    {
-      "claim": "明星自发晒图带来海外破圈",
-      "type": "fact",
-      "evidence": "港大文章记录 2024 年明星晒图后的连锁反应",
-      "boundary": "曝光在先不等于它导致了长期增长；同时还有门店扩张",
-      "sources": [
-        "s-hku-labubu"
-      ]
-    },
-    {
-      "claim": "根据消费者反馈改版（肤色更浅、毛发奶白），降低「丑」的门槛",
-      "type": "self_report",
-      "evidence": "港大文章提到三代改版",
-      "boundary": "改版和销量的因果没有单独证据",
-      "sources": [
-        "s-hku-labubu"
-      ]
-    },
-    {
-      "claim": "毛绒挂件让潮玩从摆在家里变成挂在包上被看见，带动传播",
-      "type": "inference",
-      "evidence": "2025 年毛绒成为泡泡玛特第一大品类",
-      "boundary": "全公司数字，不能全部归给这个 IP",
-      "sources": [
-        "s-yicai-2025ar"
-      ]
-    },
-    {
-      "claim": "单一 IP 依赖导致回落风险",
-      "type": "fact",
-      "evidence": "2026 上半年收入同比下降；业绩发布后股价下跌",
-      "boundary": "下降原因（供给、热度、替代品）未拆",
-      "sources": [
-        "s-jiemian-farm",
-        "s-yicai-2025ar"
-      ]
-    }
-  ],
-  "counterexamples": "2015 至 2019 年作为绘本角色反响平淡；2026 上半年开始回落",
-  "theory": {
-    "shell": "尖耳、尖牙、乱毛的怪兽小精灵",
-    "core": "不完美、调皮的反差可爱",
-    "shadow": "外壳专属组合很强，不是公共元素堆出来的",
-    "two_layers": {
-      "surface": "丑萌、好抱、明星同款",
-      "deep": "角色群和北欧精灵世界观给收藏者"
-    },
-    "validation": "付费证据很强（收入、全球门店）；也有退热证据"
+  "flat_gate": {
+    "stage": "flat_identity_reproduction",
+    "rule": "平面复现与原IP相差较大时不进入下游；先修提示词并重新实际生成，直到相似。",
+    "passed": false,
+    "downstream": "paused",
+    "user_instruction_at": "2026-10-19T16:49:33+08:00"
   },
-  "for_skills": {
-    "lab": "反差型「丑萌」已经被它占住，再做反差要换一种反差，例如反差在动作或场景上",
-    "form": "可以借：把一个「不该可爱的五官」放进可爱的整体，形成记忆点；不能借：长尖耳 + 尖牙坏笑的组合",
-    "studio": "首发盲盒，靠毛绒挂件爆发；改版降低审美门槛；要警惕单一 IP 依赖，尽早规划角色群"
+  "prompt_validation_summary": {
+    "workflow": "Study v0.2",
+    "text_only_tests": 3,
+    "text_only_passed": 0,
+    "reference_assisted_tests": 1,
+    "reference_assisted_status": "testing",
+    "record": "research/the-monsters/2026-10-19/flat-calibration.json"
   },
-  "gaps": [
-    "绘本的出版社、出版年和语种未核实",
-    "第一个盲盒（2018）和签约泡泡玛特（2019）的先后关系有冲突",
-    "首个搪胶毛绒系列的名称、日期和价格未核实",
-    "小红书未检索",
-    "没有看图，外形字段用的是报道描述和对标库",
-    "人人都是产品经理的文章提到的「首批 5000 只、39 元」为单一来源，未采用"
-  ],
-  "sources": [
-    {
-      "id": "s-hku-labubu",
-      "title": "The IP strategy behind Pop Mart's overnight popularity（港大经管学院专栏）",
-      "url": "https://hkubs.hku.hk/sc/research/thought-leadership/hkej-column/the-ip-strategy-behind-pop-marts-overnight-popularity",
-      "publisher": "港大经管学院 / 信报专栏",
-      "published": "2025-04-16",
-      "observed": "2026-10-19",
-      "access": "full"
-    },
-    {
-      "id": "s-woshipm-labubu",
-      "title": "LABUBU 发展复盘（人人都是产品经理）",
-      "url": "https://www.woshipm.com/marketing/6229433.html",
-      "publisher": "人人都是产品经理",
-      "published": null,
-      "observed": "2026-10-19",
-      "access": "full"
-    },
-    {
-      "id": "s-yicai-2025ar",
-      "title": "泡泡玛特2025年营收371.2亿元（第一财经）",
-      "url": "https://www.yicai.com/news/103103386.html",
-      "publisher": "第一财经",
-      "published": "2026-03-25",
-      "observed": "2026-10-19",
-      "access": "full"
-    },
-    {
-      "id": "s-jiemian-farm",
-      "title": "星星人农场系列再现秒空（界面新闻）",
-      "url": "https://m.jiemian.com/article/14964216.html",
-      "publisher": "界面新闻",
-      "published": null,
-      "observed": "2026-10-19",
-      "access": "full"
-    }
-  ],
-  "archive": null
+  "webpage": "research/the-monsters/2026-10-19/index.html"
 }
