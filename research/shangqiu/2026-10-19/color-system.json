@@ -1,0 +1,125 @@
+{
+  "palettes": [
+    {
+      "color_id": "C1",
+      "name": "浅奶黄",
+      "hex_preview": "#EEE9CB",
+      "surface_or_region": "头发",
+      "role": "大面积色块",
+      "scope": "V01右侧墙绘，非全IP标准",
+      "value_basis": "视觉估计",
+      "sample_method": "目视估计，非像素采样",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "S07"
+      ],
+      "area_basis": "目视层级，未分割计量",
+      "area_percentage": null,
+      "uncertainty": "展场暖光、照片透视及显示设备影响；没有官方色号"
+    },
+    {
+      "color_id": "C2",
+      "name": "浅桃",
+      "hex_preview": "#EBD9CE",
+      "surface_or_region": "脸和四肢",
+      "role": "辅助色",
+      "scope": "V01右侧墙绘，非全IP标准",
+      "value_basis": "视觉估计",
+      "sample_method": "目视估计，非像素采样",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "S07"
+      ],
+      "area_basis": "目视层级，未分割计量",
+      "area_percentage": null,
+      "uncertainty": "展场暖光、照片透视及显示设备影响；没有官方色号"
+    },
+    {
+      "color_id": "C3",
+      "name": "奶白",
+      "hex_preview": "#F3EFE4",
+      "surface_or_region": "衣裙／靴／羽翼",
+      "role": "中性色",
+      "scope": "V01右侧墙绘，非全IP标准",
+      "value_basis": "视觉估计",
+      "sample_method": "目视估计，非像素采样",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "S07"
+      ],
+      "area_basis": "目视层级，未分割计量",
+      "area_percentage": null,
+      "uncertainty": "展场暖光、照片透视及显示设备影响；没有官方色号"
+    },
+    {
+      "color_id": "C4",
+      "name": "浅灰",
+      "hex_preview": "#A5A6A6",
+      "surface_or_region": "猫脸包",
+      "role": "道具色",
+      "scope": "V01右侧墙绘，非全IP标准",
+      "value_basis": "视觉估计",
+      "sample_method": "目视估计，非像素采样",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "S07"
+      ],
+      "area_basis": "目视层级，未分割计量",
+      "area_percentage": null,
+      "uncertainty": "展场暖光、照片透视及显示设备影响；没有官方色号"
+    },
+    {
+      "color_id": "C5",
+      "name": "炭灰",
+      "hex_preview": "#414647",
+      "surface_or_region": "眼睛",
+      "role": "高对比识别区",
+      "scope": "V01右侧墙绘，非全IP标准",
+      "value_basis": "视觉估计",
+      "sample_method": "目视估计，非像素采样",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "S07"
+      ],
+      "area_basis": "目视层级，未分割计量",
+      "area_percentage": null,
+      "uncertainty": "展场暖光、照片透视及显示设备影响；没有官方色号"
+    },
+    {
+      "color_id": "C6",
+      "name": "线灰",
+      "hex_preview": "#8E9290",
+      "surface_or_region": "外轮廓",
+      "role": "线条色",
+      "scope": "V01右侧墙绘，非全IP标准",
+      "value_basis": "视觉估计",
+      "sample_method": "目视估计，非像素采样",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "S07"
+      ],
+      "area_basis": "目视层级，未分割计量",
+      "area_percentage": null,
+      "uncertainty": "展场暖光、照片透视及显示设备影响；没有官方色号"
+    }
+  ],
+  "official_standard": null,
+  "checks": {
+    "grayscale": "未实测",
+    "recognition": "未做用户盲测",
+    "physical_sample": "未打样"
+  },
+  "materials": "插画、硬质装置和毛绒各为不同载体；本轮未取得完整材料表。"
+}

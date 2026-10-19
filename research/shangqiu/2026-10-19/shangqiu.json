@@ -1,0 +1,399 @@
+{
+  "id": "shangqiu",
+  "name": "野有上秋／上秋子",
+  "aliases": [
+    "野有上秋",
+    "上秋子",
+    "SQles",
+    "上野秋子（用户输入）"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-19",
+  "updated": "2026-10-19",
+  "summary": "从淡彩插画与情绪投射走向展览和周边；形象亲近感要由付费体验承接。参考辅助二维接近，纯文字仍未通过。",
+  "owner": {
+    "creator": "公开展示名：野有上秋 SQles；法定身份未知",
+    "operator": "Gallery Nowhy有展示／代理关系；完整运营主体未知",
+    "relation": "不能把签约、商标申请人或合作品牌等同于全部版权所有人",
+    "since": null,
+    "sources": [
+      "S01",
+      "S02",
+      "S03"
+    ]
+  },
+  "origin": {
+    "path": [
+      "网络插画"
+    ],
+    "year": null,
+    "story": "转载Q&A自述首幅创作日期2025-05-11，尚未回溯最早原帖。正式出版、首个商品与准确签约日期未知。",
+    "sources": [
+      "S04"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2025-05-11",
+      "event": "媒体转载Q&A标注首幅作品的创作日期；原帖未回溯",
+      "type": "self_report",
+      "sources": [
+        "S04"
+      ]
+    },
+    {
+      "date": "2025年内",
+      "event": "武汉K11年度回顾称举办全国首展；准确开幕日未核",
+      "type": "self_report",
+      "sources": [
+        "S08"
+      ]
+    },
+    {
+      "date": "2026-01 → 02-08",
+      "event": "厦门磐基中心展讯中的展示期线索",
+      "type": "self_report",
+      "sources": [
+        "S09"
+      ]
+    },
+    {
+      "date": "2026-05-29—05-31",
+      "event": "SIPS参展及新艺术公仔展示；不是首件商品证明",
+      "type": "self_report",
+      "sources": [
+        "S01"
+      ]
+    },
+    {
+      "date": "2026-06-18—08-30",
+      "event": "广州K11展期来自个人探展帖，非直接票务核验",
+      "type": "self_report",
+      "sources": [
+        "S10"
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "event": "媒体刊出展览体验与运营争议分析",
+      "type": "self_report",
+      "sources": [
+        "S04"
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "event": "上海展开幕，日期来自同源宣传报道",
+      "type": "self_report",
+      "sources": [
+        "S07"
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "event": "F426官微公布联名满赠机制",
+      "type": "self_report",
+      "sources": [
+        "S06"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "允许不完美，也值得被温柔对待。",
+    "sentence_type": "允许",
+    "basis": "依据展览主张的研究归纳",
+    "sources": [
+      "S07"
+    ]
+  },
+  "core": {
+    "personality": "安静、敏感、需要被理解（研究归纳）",
+    "emotion": "内收",
+    "action": "以独处、动物陪伴、日常场景承接情绪；无完整官方故事设定书",
+    "basis": "公开画面与展览主题归纳"
+  },
+  "insight": {
+    "scene": "头像／壁纸、朋友同行看展、随身挂件",
+    "behavior": "把画面用于自我表达，拍照或选择主题周边",
+    "state": "希望情绪获得接纳",
+    "conflict": "不想被催促积极，又希望被看见",
+    "unsaid": "此刻的我也可以被接受",
+    "basis": "待访谈验证的研究假设"
+  },
+  "circle": {
+    "who": "插画与情绪内容受众、看展和周边用户；无年龄性别统计",
+    "where": "小红书、微博、展览、联名门店",
+    "buy": "展览体验与周边；无转化／复购率",
+    "signs": "高头发块、大黑眼、羽翼、泪与小动物",
+    "share": "头像、壁纸、看展照片、角色细节",
+    "breakout": "联名与展场提供入口，但增量效果未知"
+  },
+  "pendulum": {
+    "position": "甜美治愈",
+    "against": "研究假设：用允许低落回应持续正能量式表达；没有同年全市场样本证明稀缺"
+  },
+  "form": {
+    "archetype": "类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "头型",
+      "五官"
+    ],
+    "mark": "高圆发块、低位黑椭圆眼与极小嘴；羽翼为高频符号",
+    "face": "大黑眼、稀少面部细节，眼距与脸部开口决定身份；目标无星泪",
+    "emotion": "内收",
+    "odd": "高而大的头部与细窄短身形成反差",
+    "density": "中等",
+    "naming": "其他",
+    "note": "主体声明分别解释野有与上秋；不是整名出自同一句古诗",
+    "group": "单角色"
+  },
+  "collide_combo": "高圆浅黄发块＋低位巨大黑椭圆眼＋极小嘴＋白羽翼／星泪的整体配置不直接搬作新IP。",
+  "color": {
+    "mode": "低饱和",
+    "main": "高频浅黄、奶白及淡彩场景",
+    "signature": "浅黄为高频候选；二手样本有黑发、商品照片有主题换色，非绝对固定",
+    "notes": "色板仅为V01目标目测；装置在展灯下明显更饱和"
+  },
+  "materials": "画作、服饰、毛绒与装置需分载体核验；没有完整SKU材料清单，不凭照片填写树脂/PVC等。",
+  "carrier": {
+    "primary": "其他",
+    "secondary": "实物潮玩",
+    "note": "主要起点为网络插画；后续展览、授权图案、服饰与实物周边"
+  },
+  "product": {
+    "first_category": null,
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "官方统一价带未知；历史媒体票价与台湾第三方衣服报价在产品表单列，不作统一均价",
+    "sources": [
+      "S01",
+      "S04",
+      "S05",
+      "S06",
+      "S07",
+      "S11"
+    ]
+  },
+  "numbers": [],
+  "mechanisms": [
+    {
+      "claim": "高辨识五官与低信息情绪留白",
+      "type": "inference",
+      "evidence": "V01、V02、V05的大黑眼、极小嘴与宽额发块；不同情境保留类似脸",
+      "boundary": "不是对购买动机的统计；V06用动作外显情绪，不能说永远无表情",
+      "sources": [
+        "S01",
+        "S07",
+        "S13"
+      ]
+    },
+    {
+      "claim": "情绪许可比持续打气更易承接自我投射",
+      "type": "hypothesis",
+      "evidence": "展览主张自我接纳；部分用户求壁纸和喜欢同行拍照",
+      "boundary": "宣传中的治愈不是医学效果，样本不足以证明因果或普遍共鸣",
+      "sources": [
+        "S07",
+        "S10",
+        "S12"
+      ]
+    },
+    {
+      "claim": "免费内容转付费体验，需要额外的价值证据",
+      "type": "inference",
+      "evidence": "头像使用线索、付费展、联名与周边并存；有正向体验也有不喜欢的反馈",
+      "boundary": "不能由几条负评宣称商业衰退；具体空间与商品质量需独立体验核验",
+      "sources": [
+        "S05",
+        "S06",
+        "S10",
+        "S12",
+        "S14"
+      ]
+    }
+  ],
+  "counterexamples": "正负探展反馈并存、介绍帖中有角色混淆；缺代表性样本与经营时序，不能据此判定失败。",
+  "theory": {
+    "shell": "高发顶、大黑眼、白羽翼与淡彩场景",
+    "core": "自我接纳与陪伴的展览主张；具体人设仍留白",
+    "shadow": "天使羽翼、大眼、淡彩均为公共语言，识别由组合与持续内容建立",
+    "two_layers": {
+      "surface": "可以先因画面而关注或求壁纸",
+      "deep": "是否付费与持续收藏，需要产品及体验证据"
+    },
+    "validation": "可见评论与品牌活动不等于成交；没有IP营收、销量或复购数据。"
+  },
+  "for_skills": {
+    "lab": "借“允许某种情绪”的表达机制，先找到具体生活冲突，避免只有治愈标签。",
+    "form": "借大色块与低位五官的层级关系，重新设计独立轮廓，不套羽翼、星泪和黑眼组合。",
+    "studio": "把从屏幕到商品、展览的变化分开验证：小尺寸识别、触感、携带及空间体验各有证据要求。本轮不进入3D或原创生成。"
+  },
+  "gaps": [
+    "纯文字平面未通过；3D、三视图和原创转译继续阻断",
+    "参考辅助V3仅为低分辨率具体墙绘的二维近似，待用户审阅",
+    "英文与黑白提示词未实测，不列正式可用文本",
+    "创作者法定身份、年龄、国籍和完整版权链未知",
+    "最早原帖、正式出版、首个商品和完整系列目录未取得",
+    "完整官方SKU尺寸、材质、价格及最畅销品类未知",
+    "无独立营收销量、复购或代表性用户结构",
+    "指定小红书仅部分评论／首图可见，站内搜索受登录限制",
+    "未完成浏览器视觉验收，已做静态结构与交互逻辑检查"
+  ],
+  "sources": [
+    {
+      "id": "research-web",
+      "title": "野有上秋／上秋子完整调研网页与五轮平面实测",
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/shangqiu/2026-10-19/",
+      "publisher": "本研究归档",
+      "published": "2026-10-19",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S01",
+      "title": "首届上海国际插画潮流博览会圆满落幕",
+      "url": "https://www.illustrationpopshanghai.com/Media/Press-release/detail!Conclude",
+      "publisher": "上海国际插画潮流博览会 SIPS 主办方",
+      "published": "2026-05-31",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S02",
+      "title": "插画艺术／首届 SIPS 开幕报道",
+      "url": "https://www.illustrationpopshanghai.com/category/page-list/detail!Illustration-as-Art",
+      "publisher": "SIPS 主办方",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S03",
+      "title": "SIPS 开幕相关报道",
+      "url": "https://en.shio.gov.cn/TrueCMS/shxwbgs/wxdtt/content/07cd3960-1190-4a02-b82f-a5f84caddc9e.html",
+      "publisher": "上海市人民政府新闻办公室门户",
+      "published": "2026-06-01",
+      "observed": "2026-10-19",
+      "access": "partial"
+    },
+    {
+      "id": "S04",
+      "title": "“不完美”女孩占领商场中庭，TOP TOY 又捧出一个潮玩新顶流",
+      "url": "https://www.jiemian.com/article/14880580.html",
+      "publisher": "剁椒 Spicy／Jolene，界面 JMedia 托管",
+      "published": "2026-08-05",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S05",
+      "title": "WHOOSIS 旗舰店店铺介绍与分类",
+      "url": "https://mall.jd.com/introduction-13685301.html",
+      "publisher": "WHOOSIS 京东旗舰店",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S06",
+      "title": "F426 × 野有上秋联名赠品公告",
+      "url": "https://www.sina.cn/news/detail/5349934314029551.html",
+      "publisher": "F426 品牌官方微博（认证）",
+      "published": "2026-10-03",
+      "observed": "2026-10-19",
+      "access": "partial"
+    },
+    {
+      "id": "S07",
+      "title": "野有上秋上海展《你已经很好了》开幕宣传",
+      "url": "https://news.iresearch.cn/yx/2026/09/567670.shtml",
+      "publisher": "艾瑞商业新闻（来源标注互联网）",
+      "published": "2026-09-29",
+      "observed": "2026-10-19",
+      "access": "partial"
+    },
+    {
+      "id": "S08",
+      "title": "武汉 K11 2025 年度商业活动回顾",
+      "url": "https://www.qyjjw.net.cn/2026/xinwen_0104/40194.html",
+      "publisher": "企业经济网",
+      "published": "2026-01-04",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S09",
+      "title": "厦门本地展讯合集中的野有上秋展览",
+      "url": "https://www.sohu.com/a/977133677_121106994",
+      "publisher": "东南沿海消息通／本地展讯转载",
+      "published": "2026-01-17",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S10",
+      "title": "广州 K11 野有上秋展个人探展帖",
+      "url": "https://www.sina.cn/news/detail/5315878776211748.html",
+      "publisher": "圈圈在广州（认证地方博主）",
+      "published": "2026-07-01",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S11",
+      "title": "野有上秋 WHOOSIS 拼接条纹帽 T 及联名集合页",
+      "url": "https://jgmmselect.com/products/%E9%87%8E%E6%9C%89%E4%B8%8A%E7%A7%8B%E5%AE%98%E6%96%B9%E8%81%AF%E5%90%8D-whoosis-%E6%8B%BC%E6%8E%A5%E6%A2%9D%E7%B4%8B%E5%B8%BDt-%E6%83%85%E4%BE%B6%E6%AC%BE",
+      "publisher": "JGMM SELECT",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "partial"
+    },
+    {
+      "id": "S12",
+      "title": "🌿每天认识一个IP I 野有上秋",
+      "url": "https://xhslink.cn/o/1ICIhQbJQuG",
+      "publisher": "小红书 · 爱分享的朵拉",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "partial"
+    },
+    {
+      "id": "S13",
+      "title": "画师野有上秋作品展示",
+      "url": "https://www.sina.cn/news/detail/5297675721249087.html",
+      "publisher": "微博动漫博主 mmoriqomm，经新浪展示",
+      "published": "2026-05-12",
+      "observed": "2026-10-19",
+      "access": "partial"
+    },
+    {
+      "id": "S14",
+      "title": "野有上秋展览个人负向反馈",
+      "url": "https://www.sina.cn/news/detail/5319688674346003.html",
+      "publisher": "微博用户 Memory_梦为马，经新浪展示",
+      "published": "2026-07-12",
+      "observed": "2026-10-19",
+      "access": "full"
+    }
+  ],
+  "archive": "research/shangqiu/2026-10-19/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/shangqiu/2026-10-19/",
+  "prompt_validation": {
+    "target_image_id": "V01",
+    "pure_text_gate_passed": false,
+    "reference_assisted_ready": [
+      "reference-v3"
+    ],
+    "downstream": "blocked",
+    "user_approved": false,
+    "note": "有限分辨率现场照片可见形的二维近似候选；需原图及上一轮输出。质量标记不等于用户认可或纯文字稳定复现。"
+  },
+  "publication": {
+    "date": "2026-10-19",
+    "destination": "选品板研究库 / GitHub Pages",
+    "user_authorized": true,
+    "note": "用户确认归档；纯文字未通过状态保留。生成图压缩为768px webp，完整图保留原审阅网页。"
+  }
+}

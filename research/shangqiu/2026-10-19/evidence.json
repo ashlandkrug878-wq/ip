@@ -1,0 +1,444 @@
+{
+  "subject": "野有上秋／上秋子",
+  "public_display_name": "野有上秋 SQles",
+  "research_date": "2026-10-19",
+  "status": "partial",
+  "scope": "标准档公开研究：含指定小红书笔记正文、部分评论与封面，6张图像拆解及5轮平面实测。",
+  "creator_legal_identity": null,
+  "creator_nationality": null,
+  "creator_birth_year": null,
+  "copyright_owner": null,
+  "gallery_relationship": "Gallery Nowhy 展示／代理关系有公开报道；独家性、授权地域与版权合同未知",
+  "numbers": [],
+  "hit_category": null,
+  "search_methods": [
+    "system2 常规及定点检索",
+    "system1 新近／权威补查",
+    "公开页面正文与嵌入声明原图查看"
+  ],
+  "sources": [
+    {
+      "id": "S01",
+      "title": "首届上海国际插画潮流博览会圆满落幕",
+      "url": "https://www.illustrationpopshanghai.com/Media/Press-release/detail!Conclude",
+      "publisher": "上海国际插画潮流博览会 SIPS 主办方",
+      "source_type": "primary_event_organizer",
+      "family": "sips_2026_organizer",
+      "publication_date": "2026-05-31",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read",
+      "supports": [
+        "Gallery Nowhy 来自韩国并带来野有上秋作品和新款艺术公仔",
+        "人头马／星巴克合作案例的主体是另一个参展方 ART2GETHER 艺伙",
+        "活动于 2026-05-31 结束"
+      ],
+      "limitations": [
+        "未披露艺术公仔 SKU、价格、尺寸、材料或销量",
+        "展会整体访客数字不能归属 IP",
+        "无作者完整履历或合同"
+      ],
+      "related_urls": [
+        "https://www.bfchina.net/en/shanghai-illustration-pop-show-sips-successfully-concludes-31-may-shanghai-exhibition-centre/",
+        "https://bolognafiere.it/fiere-eventi/shanghai-illustration-pop-show-sips-si-conclude-con-successo-il-31-maggio-allo-shanghai-exhibition-centre/"
+      ],
+      "image_url": "https://sips-storage.www.comocloud.net/sips/2026/06/02/20260602152923e14a7e82.jpg"
+    },
+    {
+      "id": "S02",
+      "title": "插画艺术／首届 SIPS 开幕报道",
+      "url": "https://www.illustrationpopshanghai.com/category/page-list/detail!Illustration-as-Art",
+      "publisher": "SIPS 主办方",
+      "source_type": "primary_event_organizer",
+      "family": "sips_2026_organizer",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read",
+      "supports": [
+        "官方参展艺术家展示名为野有上秋 SQles",
+        "现场签售照片"
+      ],
+      "limitations": [
+        "未给出自然人身份与国籍",
+        "与 S01 不算独立来源"
+      ],
+      "related_urls": [
+        "https://www.illustrationpopshanghai.com/Media/Press-release/detail!Pre-press"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "SIPS 开幕相关报道",
+      "url": "https://en.shio.gov.cn/TrueCMS/shxwbgs/wxdtt/content/07cd3960-1190-4a02-b82f-a5f84caddc9e.html",
+      "publisher": "上海市人民政府新闻办公室门户",
+      "source_type": "government_hosted_event_report",
+      "family": "sips_event_reporting",
+      "publication_date": "2026-06-01",
+      "accessed_at": "2026-10-19",
+      "access_status": "search_index_body_read_and_page_opened",
+      "supports": [
+        "韩国首尔 Gallery Nowhy 的签约艺术家野有上秋参与展会"
+      ],
+      "limitations": [
+        "政府门户报道不是版权登记文件",
+        "不得由签约推断版权全部转让或独家全球代理"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "“不完美”女孩占领商场中庭，TOP TOY 又捧出一个潮玩新顶流",
+      "url": "https://www.jiemian.com/article/14880580.html",
+      "publisher": "剁椒 Spicy／Jolene，界面 JMedia 托管",
+      "source_type": "media_analysis_with_reproduced_subject_statement",
+      "family": "spicy_20260805",
+      "publication_date": "2026-08-05",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read_and_statement_images_viewed",
+      "supports": [
+        "部分消费者展览体验与价格抱怨的报道",
+        "媒体调查提及商标申请人全民赫 Rori Hee，但本轮没有独立查验原始记录",
+        "转载 Q&A 使用上秋子角色名",
+        "Q&A 自述首幅作品创作日期 2025-05-11、黄化玄凤鹦鹉灵感、名称解释",
+        "报道杭州成人日常票价 59 元"
+      ],
+      "limitations": [
+        "媒体转述不能确定法定作者身份",
+        "声明图片并非此次直接取得的原账号发布；是主体说法的转引",
+        "负评未附总体样本分母，不能推出普遍差评或销量下降",
+        "59 元为历史媒体记录非官方票价实时核验",
+        "文章同时谈多个角色及公司，不可串联权属",
+        "不重复私人关系猜测"
+      ],
+      "related_urls": [
+        "https://www.sohu.com/a/1059160736_120619691",
+        "https://xueqiu.com/9204387113/403841677"
+      ],
+      "statement_images": [
+        "https://img.jiemian.com/101/original/20260805/17859238436723400.png",
+        "https://img.jiemian.com/101/original/20260805/178592384325065300.png"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "WHOOSIS 旗舰店店铺介绍与分类",
+      "url": "https://mall.jd.com/introduction-13685301.html",
+      "publisher": "WHOOSIS 京东旗舰店",
+      "source_type": "primary_brand_store",
+      "family": "whoosis_brand_store",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read",
+      "supports": [
+        "品牌自有店铺展示 WHOOSIS X 野有上秋 联名分类"
+      ],
+      "limitations": [
+        "分类页商品为动态内容，未核得官方单品价格、材料与厘米尺寸",
+        "店铺介绍的 WHOOSIS 创立年份不属于该 IP 起源"
+      ],
+      "related_urls": [
+        "https://mall.jd.com/view_search-4121647-1020690833-99-1-20-1.html"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "F426 × 野有上秋联名赠品公告",
+      "url": "https://www.sina.cn/news/detail/5349934314029551.html",
+      "publisher": "F426 品牌官方微博（认证）",
+      "source_type": "primary_brand_social",
+      "family": "f426_brand_social",
+      "publication_date": "2026-10-03",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_post_read; feed_followup_search_index_only",
+      "supports": [
+        "F426 联名存在",
+        "线上购买 1 件／2 件赠品机制",
+        "线下赠品含眼罩、杜邦纸袋、拖鞋、挂件",
+        "品牌账号索引列出 10-19 至 10-26 杭州湖滨银泰 in77 快闪"
+      ],
+      "limitations": [
+        "未披露单件独立售价或完整材料尺寸",
+        "赠品限量，门店规则可能不同",
+        "快闪后续仅读到搜索索引公告，未实地确认"
+      ],
+      "related_urls": [
+        "https://www.sina.cn/media/3490414881"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "野有上秋上海展《你已经很好了》开幕宣传",
+      "url": "https://news.iresearch.cn/yx/2026/09/567670.shtml",
+      "publisher": "艾瑞商业新闻（来源标注互联网）",
+      "source_type": "syndicated_promotional_release",
+      "family": "shanghai_exhibit_pr_202609",
+      "publication_date": "2026-09-29",
+      "accessed_at": "2026-10-19",
+      "access_status": "article_body_and_six_exhibition_images_viewed_on_syndicated_page",
+      "supports": [
+        "发布方称上海展 2026-09-25 开幕",
+        "发布方称近 60 款新衍生周边",
+        "发布方宣布部分门票收益参与壹基金暖包计划",
+        "作品名《咖啡面包系列》《与小猫》《眼泪向下我向上》"
+      ],
+      "limitations": [
+        "同文转载不能当多个独立验证",
+        "近 60 款是发布方新品种数，不是销量",
+        "未核得捐款比例、金额、到账或基金会确认",
+        "粉丝引语为宣传选取，非独立用户样本"
+      ],
+      "related_urls": [
+        "https://news.qq.com/rain/a/20260928A0566T00",
+        "https://www.jpbeta.cc/2026/09/yeyou/",
+        "https://www.sohu.com/a/1082039500_121123946",
+        "https://www.cosmopolitancn.com/cosmo/fashion/detail/51553",
+        "https://www.1626.com/productinfo/350846.html",
+        "https://feng.ifeng.com/c/8wnVm24TkbT",
+        "https://www.sohu.com/a/1082094364_120910782"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "武汉 K11 2025 年度商业活动回顾",
+      "url": "https://www.qyjjw.net.cn/2026/xinwen_0104/40194.html",
+      "publisher": "企业经济网",
+      "source_type": "commercial_review_pr",
+      "family": "wuhan_k11_2025_review",
+      "publication_date": "2026-01-04",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read",
+      "supports": [
+        "回顾称 2025 年武汉 K11 举办野有上秋《你已经很好了》全国首展"
+      ],
+      "limitations": [
+        "未给该展确切起止日和售票链接",
+        "全国首展为该稿表述未独立确认",
+        "文中商场经营数字不可计入 IP"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "厦门本地展讯合集中的野有上秋展览",
+      "url": "https://www.sohu.com/a/977133677_121106994",
+      "publisher": "东南沿海消息通／本地展讯转载",
+      "source_type": "secondary_local_event_listing",
+      "family": "xiamen_exhibit_listing",
+      "publication_date": "2026-01-17",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_page_read",
+      "supports": [
+        "厦门磐基中心展讯列至 2026-02-08",
+        "使用创作者称呼阿秋"
+      ],
+      "limitations": [
+        "阿秋是二手称呼，不是法定姓名证明",
+        "开幕日与票价未核得",
+        "国内 IP 修辞不能证明自然人国籍"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "广州 K11 野有上秋展个人探展帖",
+      "url": "https://www.sina.cn/news/detail/5315878776211748.html",
+      "publisher": "圈圈在广州（认证地方博主）",
+      "source_type": "individual_social_visit_report",
+      "family": "guangzhou_individual_visit_20260701",
+      "publication_date": "2026-07-01",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_post_read",
+      "supports": [
+        "博主描述治愈、拍照及朋友同行用途",
+        "建议错峰参观",
+        "文中列广州 K11 四楼展期 06-18 至 08-30"
+      ],
+      "limitations": [
+        "商业合作情况不明",
+        "单一样本不能概括人群满意度",
+        "展期未经官方票务独立核验"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "野有上秋 WHOOSIS 拼接条纹帽 T 及联名集合页",
+      "url": "https://jgmmselect.com/products/%E9%87%8E%E6%9C%89%E4%B8%8A%E7%A7%8B%E5%AE%98%E6%96%B9%E8%81%AF%E5%90%8D-whoosis-%E6%8B%BC%E6%8E%A5%E6%A2%9D%E7%B4%8B%E5%B8%BDt-%E6%83%85%E4%BE%B6%E6%AC%BE",
+      "publisher": "JGMM SELECT",
+      "source_type": "third_party_retailer",
+      "family": "jgmm_retail_listings",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "hoodie_full_page_read; collection_search_index_only",
+      "supports": [
+        "帽 T 页面标价 TWD 1800，S 至 XXL 尺码选项",
+        "集合页索引粉／蓝托特包 TWD 790"
+      ],
+      "limitations": [
+        "零售商授权身份未独立验证",
+        "不是大陆官方首发价",
+        "材料成分和厘米尺寸未核得",
+        "集合页价格仅索引，不作主价格锚点"
+      ],
+      "related_urls": [
+        "https://jgmmselect.com/collections/%E9%87%8E%E6%9C%89%E4%B8%8A%E7%A7%8B%E5%AE%98%E6%96%B9%E8%81%AF%E5%90%8D"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "🌿每天认识一个IP I 野有上秋",
+      "url": "https://xhslink.cn/o/1ICIhQbJQuG",
+      "publisher": "小红书 · 爱分享的朵拉",
+      "source_type": "individual_social_note",
+      "family": "user_supplied_xhs_note",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "body_partial_comments_cover_read",
+      "supports": [
+        "主角称上秋子；部分读者求壁纸、与小玉混淆或质疑作品",
+        "介绍文含年龄、名称、起源及合作说法，逐条核验见claim_audit"
+      ],
+      "limitations": [
+        "界面日期07-24无年份；7张配图仅看封面",
+        "未读取全部41条评论；未展开全部回复",
+        "封面无图源说明，不当官方母版",
+        "两组站内检索被登录墙阻挡；互动量未用作市场数据"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "画师野有上秋作品展示",
+      "url": "https://www.sina.cn/news/detail/5297675721249087.html",
+      "publisher": "微博动漫博主 mmoriqomm，经新浪展示",
+      "source_type": "third_party_artwork_share",
+      "family": "social_art_share_20260512",
+      "publication_date": "2026-05-12",
+      "accessed_at": "2026-10-19",
+      "access_status": "post_and_three_images_viewed",
+      "supports": [
+        "署名野有上秋的插画分享，含黑发及不同情绪画面"
+      ],
+      "limitations": [
+        "不是创作者原帖；归属由分享者标注，未验证账号控制权",
+        "不以转载日期断言作品创作时间",
+        "本报告只分析已查看的画面，不代称官方不变量"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "野有上秋展览个人负向反馈",
+      "url": "https://www.sina.cn/news/detail/5319688674346003.html",
+      "publisher": "微博用户 Memory_梦为马，经新浪展示",
+      "source_type": "individual_social_visit_feedback",
+      "family": "individual_negative_20260712",
+      "publication_date": "2026-07-12",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_post_text_read",
+      "supports": [
+        "个体不喜欢画风及眼距，表达观展后失望"
+      ],
+      "limitations": [
+        "单个审美判断，非普遍满意度",
+        "未查其票据或图片，不确认具体场次及付费状态"
+      ]
+    }
+  ],
+  "claim_audit": [
+    {
+      "claim": "作者为 00 后中国插画师",
+      "verdict": "unverified",
+      "reason": "无直接可靠履历；不得从国内 IP 或画廊所在国家推断作者国籍"
+    },
+    {
+      "claim": "最早作品创作于 2025-05-11",
+      "verdict": "subject_claim_reproduced_by_media",
+      "source_ids": [
+        "S04"
+      ],
+      "reason": "已查看 Q&A 图，但未回溯原账号和最早公开记录"
+    },
+    {
+      "claim": "整个名称出自诗经",
+      "verdict": "overstated",
+      "source_ids": [
+        "S04"
+      ],
+      "reason": "主体解释仅野有取意诗经，上秋另解释为秋之始"
+    },
+    {
+      "claim": "与人头马／星巴克合作",
+      "verdict": "not_supported_misattribution_risk",
+      "source_ids": [
+        "S01"
+      ],
+      "reason": "主办方原文两品牌属于 ART2GETHER 艺伙段落"
+    },
+    {
+      "claim": "WHOOSIS 与 F426 联名",
+      "verdict": "confirmed_brand_sources",
+      "source_ids": [
+        "S05",
+        "S06"
+      ]
+    },
+    {
+      "claim": "全民赫 Rori Hee 即创作者",
+      "verdict": "not_established",
+      "source_ids": [
+        "S04"
+      ],
+      "reason": "只有媒体商标检索转述；即使商标申请属实也不等于作者身份证明"
+    },
+    {
+      "claim": "销量下降或商业失败",
+      "verdict": "unverified",
+      "reason": "没有 IP 级销量、营收或满意度时间序列"
+    }
+  ],
+  "access_gaps": [
+    "Gallery Nowhy 艺术家完整履历及代理合同未取得",
+    "国家商标原始申请记录和完整版权链未取得",
+    "官方票务页面、4—6 款官方完整尺寸材料价格不足",
+    "原始负面评论及独立消费者总体样本不足",
+    "最早作品原账号页面和首次公开记录未取得",
+    "壹基金自身捐赠确认未取得",
+    "Rori Hee 官网打开 403；不据无法读取页面推断身份",
+    "Instagram sqles624 只获得第三方介绍与索引线索，未确认账号控制权",
+    "小红书正文与部分评论可读，但两组检索被登录墙阻挡；见search-log.json"
+  ],
+  "xhs": {
+    "date": "2026-10-19",
+    "provided_note": {
+      "url": "https://xhslink.cn/o/1ICIhQbJQuG",
+      "note_id": "6a631f22000000000101cfb1",
+      "title": "🌿每天认识一个IP I 野有上秋",
+      "author": "爱分享的朵拉",
+      "display_date": "07-24，界面未显示年份",
+      "access": "正文及部分评论可读；共41条评论的页面只读取未登录可见部分，未展开全部回复；7张配图仅查看封面",
+      "claims_to_verify": [
+        "主角上秋子、IP野有上秋",
+        "00后国内插画师、2025夏诞生",
+        "名字取自诗经",
+        "Gallery Nowhy签约",
+        "人头马、星巴克合作"
+      ],
+      "visible_comments_summary": [
+        "有人求壁纸",
+        "有人与小玉混淆",
+        "有人质疑创作时间与画风",
+        "有人提出内容不适和作者争议；只是评论者说法，不能视作事实裁定"
+      ],
+      "cover_observation": "浅金长发、巨大深色椭圆眼、白裙白靴、粉心包；白色小翅膀位于肩附近，头发有蝴蝶结；配小动物和纸飞机。笔记文字说头顶翅膀，与封面不完全一致；无独立图源说明，暂作身份待核线索。",
+      "metrics_used_for_market_size": false
+    },
+    "queries": [
+      {
+        "q": "野有上秋 品牌介绍",
+        "status": "blocked_login",
+        "message": "登录后查看搜索结果",
+        "notes_read": 0
+      },
+      {
+        "q": "野有上秋 产品汇总",
+        "status": "blocked_login",
+        "message": "登录后查看搜索结果",
+        "notes_read": 0
+      }
+    ]
+  }
+}
