@@ -1,0 +1,386 @@
+{
+  "ip": "FARMER BOB",
+  "research_level": "standard",
+  "researched_at": "2026-10-19",
+  "status": "partial",
+  "financial_numbers": [],
+  "hit_category": null,
+  "key_boundaries": [
+    "JO YOUNG WOON is the verified Latin-script artist name; no Chinese translation verified from a primary source.",
+    "2014 publication is supported by the official collaboration partner; 2013 creation appears in a reposted interview and remains separately attributed.",
+    "FINDING UNICORN develops and releases the IP with the artist; copyright ownership and license contract terms remain unknown.",
+    "Edition quantities are supply, not units sold. Regional distributor release dates are not global debut dates.",
+    "No audited annual IP revenue or unit-sales series obtained; reported historical milestones are not comparable to POP MART financial statements.",
+    "小红书两组检索词均已在研究窗口执行，登录墙阻挡，未读取 FARMER BOB 笔记。"
+  ],
+  "sources": [
+    {
+      "id": "S01",
+      "title": "FARMER BOB x INSTINCTOY 合作作品介紹",
+      "url": "https://www.instinctoy.blog/posts/23374004/",
+      "publisher": "INSTINCTOY",
+      "published_at": "2021-11-09",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_text_read",
+      "evidence_type": "official_collaboration_partner",
+      "supports": [
+        "Korean artist JO YOUNG WOON published FARMER BOB in 2014",
+        "FINDING UNICORN began developing FARMER BOB in 2018",
+        "ICE LIQUID WITH BOB collaboration roles and component concept",
+        "201 produced; 50 allocated to INSTINCTOY lottery"
+      ],
+      "limitations": [
+        "Retrospective history, not a birth certificate",
+        "Limited quantities are not sell-through",
+        "Territorial shipment restriction pertains to this seller and product"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "【11月抽選販售】2件新作品的介紹【11月12日截止】",
+      "url": "https://www.instinctoy.blog/posts/22691291",
+      "publisher": "INSTINCTOY",
+      "published_at": "2021-10-25",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_text_read",
+      "evidence_type": "official_sale_announcement",
+      "supports": [
+        "ICE LIQUID WITH BOB price JPY 63,800",
+        "Lottery November 9–12, 2021; planned Japan shipment from November 20",
+        "Freight and PayPal fee separately charged"
+      ],
+      "limitations": [
+        "Historical Japanese seller offer",
+        "Height and material not verified from this source"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "QQ x FARMER BOB联名设计揭秘",
+      "url": "https://isux.tencent.com/articles/qq-farmerbob.html",
+      "publisher": "Tencent ISUX",
+      "published_at": "2020-09-14",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_text_read",
+      "evidence_type": "official_collaboration_design_documentation",
+      "supports": [
+        "JO YOUNG WOON, Korean creator; FARMER is artist identity",
+        "Bob Ross and Bob Marley inspiration",
+        "QQ collaboration 150%, 12 cm, limited 151 units",
+        "Creator signature and edition number on feet",
+        "Documentation of adapting QQ design while preserving BOB proportions"
+      ],
+      "limitations": [
+        "Article publication date is September 14, 2020; this does not establish product launch date.",
+        "Some images explicitly are 3D renders",
+        "Audience and brand-count marketing claims lack audited methodology"
+      ],
+      "visual_use": "Good official historical character photographs and design renders; label render versus physical photo accurately"
+    },
+    {
+      "id": "S04",
+      "title": "FARMER BOB农场系列首发",
+      "url": "https://www.sina.cn/news/detail/5282469777244877.html",
+      "publisher": "寻找独角兽FINDING_UNICORN verified account, distributed by Sina",
+      "published_at": "2026-03-31",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_text_read",
+      "evidence_type": "official_social_announcement",
+      "supports": [
+        "ON THE FARM series Tmall platform premiere scheduled April 1, 2026 at 20:00",
+        "Official framing around farm, time and seasons"
+      ],
+      "limitations": [
+        "Platform launch announcement, not proof of first worldwide availability",
+        "No verified direct SKU price or unit sales"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "FINDING UNICORN FARMER BOB ANI - MONSTER PLUSH BLIND BOX",
+      "url": "https://b2b.mile-stone.jp/en/products/00063619486",
+      "publisher": "MILESTONE Inc.",
+      "published_at": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "full_product_text_read",
+      "evidence_type": "regional_distributor_catalog",
+      "supports": [
+        "16–18 cm; PVC, ABS, polyester",
+        "9 regular plus 1 secret",
+        "Japan reference retail JPY 3,400 excluding tax",
+        "JAN 6975463619486"
+      ],
+      "limitations": [
+        "Catalog says within June 2026 in Japan, not global debut",
+        "Distributor price is not China direct-store price",
+        "Copyright label alone does not establish contract ownership"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "FARMER BOB MINI-DRAGON MIRAGE SERIES TRADING PLUSH",
+      "url": "https://b2b.mile-stone.jp/en/products/00069482164",
+      "publisher": "MILESTONE Inc.",
+      "published_at": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "full_product_text_read",
+      "evidence_type": "regional_distributor_catalog",
+      "supports": [
+        "10–12 cm; PVC, ABS, polyester",
+        "6 regular plus 1 secret",
+        "Japan reference retail JPY 2,400 excluding tax",
+        "JAN 6978069482164"
+      ],
+      "limitations": [
+        "April 2026 is the Japanese catalog date, not verified global debut",
+        "Mini head-based plush format should not be confused with full-body vinyl figure"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "FARMER BOB フィーリング・ユー・シリーズ",
+      "url": "https://www.sootang.jp/products/6978069485240",
+      "publisher": "SOOTANG HOBBY",
+      "published_at": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "product_page_read_with_search_spec_excerpt",
+      "evidence_type": "regional_retailer",
+      "supports": [
+        "Feeling You; about 8.7–13.4 cm",
+        "12 regular plus 2 secret",
+        "Main agent recheck displayed JPY 2,090 tax included; use page list price only."
+      ],
+      "limitations": [
+        "Height retrieved from indexed specification excerpt",
+        "Price varied across reads (JPY 1,670 sale and JPY 2,090); do not adopt dynamic discount as fixed price.",
+        "One retailer promotion does not establish IP demand decline",
+        "Material not independently verified here"
+      ],
+      "visual_use": "Non-collaboration regular series product imagery suitable to inspect for reference selection"
+    },
+    {
+      "id": "S08",
+      "title": "Official storefront access attempts",
+      "url": "https://www.findingunicorn.cn/",
+      "publisher": "FINDING UNICORN",
+      "published_at": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "unavailable_503",
+      "evidence_type": "official_store_access_gap",
+      "supports": [],
+      "limitations": [
+        "No full current direct-store catalog or China price verified",
+        "findingunicorn.net returned 502; findingunicorn.com returned 500; official Facebook access temporarily blocked"
+      ],
+      "related_urls": [
+        "https://www.findingunicorn.net/",
+        "https://www.findingunicorn.com/",
+        "https://www.facebook.com/p/Finding-Unicorn-100090275825634/"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "专访艺术家 FARMER｜遵从自我，永不设限",
+      "url": "https://www.sohu.com/a/516294674_121124623",
+      "publisher": "Sohu account 女儿红说时尚; apparent repost of 定番 interview",
+      "published_at": "2022-01-13",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_text_read",
+      "evidence_type": "reposted_artist_interview",
+      "supports": [
+        "Intro attributes creation to 2013",
+        "Artist describes FARMER name, moving from 2D to 3D, and beard hiding emotion",
+        "Self-directed expression and outdoor inspiration",
+        "2022 tiger edition and Shenzhen exhibit announcement"
+      ],
+      "limitations": [
+        "Not verified as original interview host",
+        "2013 creation differs from partner's 2014 publication; do not silently resolve",
+        "Artist intention is not audience demographic evidence"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "What The Farmer BOB 白金BOB公仔",
+      "url": "https://www.chaihezi.com/node/133501",
+      "publisher": "拆盒网",
+      "published_at": "2018-08-17",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_text_read",
+      "evidence_type": "contemporaneous_trade_product_news",
+      "supports": [
+        "Calls White Gold BOB first FINDING UNICORN collaboration",
+        "601 edition; historical reference RMB 469",
+        "9 x 5.5 x 4.5 cm",
+        "PVC/PMMA/metal listed; August 21 order date, September planned shipment"
+      ],
+      "limitations": [
+        "PMMA may refer to display packaging, not figure body",
+        "Promotional durability claims not measured defect data",
+        "Supply amount not sold amount"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "上市2年吸引260万粉丝，「FARMER BOB」怎么利用营销玩出圈？",
+      "url": "https://morketing.com/detail/17426",
+      "publisher": "Morketing",
+      "published_at": "2021-02-19",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_text_read",
+      "evidence_type": "marketing_analysis",
+      "supports": [
+        "Historical distribution and marketing context",
+        "2018 development and Boyfriend series discussion"
+      ],
+      "limitations": [
+        "Fan count lacks methodology and is not adopted",
+        "Blanket 601-per-variant description conflicts with verified collaboration editions",
+        "Exclusive agency language does not establish actual contract terms"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Boyfriend series contemporaneous unboxing",
+      "url": "https://www.bilibili.com/video/BV1vk4y1z7B8/",
+      "publisher": "Bilibili creator",
+      "published_at": "2020-06-17",
+      "accessed_at": "2026-10-19",
+      "access_status": "search_excerpt_only",
+      "evidence_type": "dated_user_unboxing_index",
+      "supports": [
+        "Boyfriend series was in consumer circulation by the indexed date"
+      ],
+      "limitations": [
+        "Video not watched; not used for visual or user-sentiment conclusions",
+        "Not exact launch date"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "亿元潮玩IP，做起鞋服生意",
+      "url": "https://m.21jingji.com/article/20231024/herald/e4131f6d56a737b005c26f86163c1111.html",
+      "publisher": "21世纪商业评论 / 21财经",
+      "published_at": "2023-10-24",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_text_read",
+      "evidence_type": "original_management_interview",
+      "supports": [
+        "Brand general manager 丁大忍 discusses 2023 footwear/apparel expansion",
+        "Self-operated channel weakness acknowledged at that time",
+        "Distribution, online direct and offline self-operated channel mix"
+      ],
+      "limitations": [
+        "亿级体量 has no clear accounting period or financial basis",
+        "Historical management statements do not establish current channel strength",
+        "No annual IP revenue adopted"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "跳出「盲盒舒适圈」，潮玩行业下一步该怎么走？",
+      "url": "https://www.36kr.com/p/2001215545127680",
+      "publisher": "36氪 / 未来消费",
+      "published_at": "2022-11-14",
+      "accessed_at": "2026-10-19",
+      "access_status": "article_text_read_partially_and_search_excerpt",
+      "evidence_type": "brand_business_feature",
+      "supports": [
+        "RETRO REPLAY sixth generation released October 27, 2022",
+        "Music and brand collaboration discussion"
+      ],
+      "limitations": [
+        "Two-and-a-half-year RMB100m milestone appeared in search excerpt, not used as audited number",
+        "Sellout wording is promotional without sales denominator",
+        "Do not infer annual or current sales"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "网购潮玩手办到货已被拆盒，经销商称两家公司卖的是二手",
+      "url": "https://www.thepaper.cn/newsDetail_forward_22360451",
+      "publisher": "澎湃新闻",
+      "published_at": "2023-03-19",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_text_read",
+      "evidence_type": "original_consumer_investigation",
+      "supports": [
+        "Delayed and opened-box BOB purchase dispute with 欧气抽盒机",
+        "Distributor 深圳市寻麟文化娱乐有限公司 denies authorization to named platforms",
+        "Platform explanation and distributor legal-action statement"
+      ],
+      "limitations": [
+        "Not official direct-store incident",
+        "No court outcome verified",
+        "Not proof of factory defect rate or counterfeit finding",
+        "Article's general blind-box statistics are not BOB-specific"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "上万人抽500个资格买盲盒，饥饿营销成新兴潮玩品牌新招式",
+      "url": "https://static.cdsb.com/micropub/Articles/202311/ba8587dd115dcefa111c453153c63a14.html",
+      "publisher": "红星资本局",
+      "published_at": "2023-11-13",
+      "accessed_at": "2026-10-19",
+      "access_status": "full_text_read",
+      "evidence_type": "original_market_reporting",
+      "supports": [
+        "Discusses BOB limited-sale friction and Island-series secondary-price retreat"
+      ],
+      "limitations": [
+        "Article combines BOB and other IPs; many headline participation figures belong to other IPs",
+        "Secondary prices are dated local snapshots, not current verified market index",
+        "Reseller quotes and asking prices do not prove settled transactions",
+        "Not proof whole IP failed"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "#開箱分享 FARMER BOB 男友系列",
+      "url": "https://www.dcard.tw/f/toy/p/234202053",
+      "publisher": "Dcard user 小胖",
+      "published_at": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "full_post_text_read",
+      "evidence_type": "individual_collector_feedback",
+      "supports": [
+        "Likes paint finish on owned samples",
+        "Personal preference linked to work and basketball variants",
+        "Separate basketball accessory easy to lose"
+      ],
+      "limitations": [
+        "Single person's samples and taste",
+        "Exact post date not extracted",
+        "Personal rating not aggregate satisfaction"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Farmer Bob collection",
+      "url": "https://www.reddit.com/r/vinyltoys/comments/1m6o4yi/farmer_bob_collection/",
+      "publisher": "Reddit r/vinyltoys users",
+      "published_at": "2025-07-22",
+      "accessed_at": "2026-10-19",
+      "access_status": "thread_text_read",
+      "evidence_type": "individual_collector_feedback",
+      "supports": [
+        "Collectors discuss display-space pressure",
+        "A respondent describes figures as bulky for enclosed cases"
+      ],
+      "limitations": [
+        "Anecdotal, small self-selected sample",
+        "Self-reported collection count not used as market metric",
+        "No audience demographic inference"
+      ]
+    }
+  ],
+  "open_questions": [
+    "Primary archive reconciling 2013 creation and 2014 publication",
+    "Artist-approved Chinese name, precise character birthday, current contract and ownership terms",
+    "Current official mainland China SKU prices and direct-store specifications",
+    "Audited yearly FARMER BOB revenue, units, margin and category revenue mix",
+    "Current representative secondary-market transaction sample and return/defect rates",
+    "Xiaohongshu evidence: main agent reports login walls for both attempted search groups"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "palettes": [
+    {
+      "palette_id": "target-navy",
+      "color_id": "C1",
+      "name": "灰棕",
+      "hex_preview": "#62534B",
+      "role": "主色",
+      "scope": "series_palette",
+      "surface_or_region": "头发／胡须",
+      "value_basis": "视觉估计",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "S03"
+      ],
+      "sample_method": "看图估计，非像素采样",
+      "sample_coordinates_or_mask": null,
+      "area_description": "头部与卫衣大面积；皮肤及红裤中面积；眼和鞋底小面积",
+      "area_basis": "目视层级，无主体分割",
+      "material_context": "源图亮面照片；本轮转换为平涂",
+      "variation_boundary": "只对应所选款；其余版本换色且存在非蓝眼",
+      "uncertainty": "光照、显示器及缩图影响；没有官方标准色号"
+    },
+    {
+      "palette_id": "target-navy",
+      "color_id": "C2",
+      "name": "浅桃",
+      "hex_preview": "#EDB593",
+      "role": "中性色",
+      "scope": "series_palette",
+      "surface_or_region": "脸、耳、手、膝",
+      "value_basis": "视觉估计",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "S03"
+      ],
+      "sample_method": "看图估计，非像素采样",
+      "sample_coordinates_or_mask": null,
+      "area_description": "头部与卫衣大面积；皮肤及红裤中面积；眼和鞋底小面积",
+      "area_basis": "目视层级，无主体分割",
+      "material_context": "源图亮面照片；本轮转换为平涂",
+      "variation_boundary": "只对应所选款；其余版本换色且存在非蓝眼",
+      "uncertainty": "光照、显示器及缩图影响；没有官方标准色号"
+    },
+    {
+      "palette_id": "target-navy",
+      "color_id": "C3",
+      "name": "钴蓝",
+      "hex_preview": "#3278B5",
+      "role": "五官／识别候选",
+      "scope": "series_palette",
+      "surface_or_region": "眼",
+      "value_basis": "视觉估计",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "S03"
+      ],
+      "sample_method": "看图估计，非像素采样",
+      "sample_coordinates_or_mask": null,
+      "area_description": "头部与卫衣大面积；皮肤及红裤中面积；眼和鞋底小面积",
+      "area_basis": "目视层级，无主体分割",
+      "material_context": "源图亮面照片；本轮转换为平涂",
+      "variation_boundary": "只对应所选款；其余版本换色且存在非蓝眼",
+      "uncertainty": "光照、显示器及缩图影响；没有官方标准色号"
+    },
+    {
+      "palette_id": "target-navy",
+      "color_id": "C4",
+      "name": "海军蓝",
+      "hex_preview": "#263F58",
+      "role": "辅助色",
+      "scope": "series_palette",
+      "surface_or_region": "卫衣",
+      "value_basis": "视觉估计",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "S03"
+      ],
+      "sample_method": "看图估计，非像素采样",
+      "sample_coordinates_or_mask": null,
+      "area_description": "头部与卫衣大面积；皮肤及红裤中面积；眼和鞋底小面积",
+      "area_basis": "目视层级，无主体分割",
+      "material_context": "源图亮面照片；本轮转换为平涂",
+      "variation_boundary": "只对应所选款；其余版本换色且存在非蓝眼",
+      "uncertainty": "光照、显示器及缩图影响；没有官方标准色号"
+    },
+    {
+      "palette_id": "target-navy",
+      "color_id": "C5",
+      "name": "珊瑚红",
+      "hex_preview": "#DF5D59",
+      "role": "点缀／辅助色",
+      "scope": "series_palette",
+      "surface_or_region": "短裤及鞋底",
+      "value_basis": "视觉估计",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "S03"
+      ],
+      "sample_method": "看图估计，非像素采样",
+      "sample_coordinates_or_mask": null,
+      "area_description": "头部与卫衣大面积；皮肤及红裤中面积；眼和鞋底小面积",
+      "area_basis": "目视层级，无主体分割",
+      "material_context": "源图亮面照片；本轮转换为平涂",
+      "variation_boundary": "只对应所选款；其余版本换色且存在非蓝眼",
+      "uncertainty": "光照、显示器及缩图影响；没有官方标准色号"
+    },
+    {
+      "palette_id": "target-navy",
+      "color_id": "C6",
+      "name": "炭灰",
+      "hex_preview": "#44464A",
+      "role": "辅助色",
+      "scope": "series_palette",
+      "surface_or_region": "靴子",
+      "value_basis": "视觉估计",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "S03"
+      ],
+      "sample_method": "看图估计，非像素采样",
+      "sample_coordinates_or_mask": null,
+      "area_description": "头部与卫衣大面积；皮肤及红裤中面积；眼和鞋底小面积",
+      "area_basis": "目视层级，无主体分割",
+      "material_context": "源图亮面照片；本轮转换为平涂",
+      "variation_boundary": "只对应所选款；其余版本换色且存在非蓝眼",
+      "uncertainty": "光照、显示器及缩图影响；没有官方标准色号"
+    }
+  ],
+  "official_standard": null,
+  "checks": {
+    "grayscale": "未实测",
+    "thumbnail": "未做用户识别实验",
+    "backgrounds": "未实测",
+    "physical_sample": "未打样"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "observed": "2026-10-19",
+  "platform": "小红书",
+  "queries": [
+    {
+      "q": "FARMER BOB 品牌介绍",
+      "status": "blocked_login",
+      "visible": "登录后查看搜索结果；二维码已过期",
+      "read_notes": 0
+    },
+    {
+      "q": "FARMER BOB 产品汇总",
+      "status": "blocked_login",
+      "visible": "登录后查看搜索结果；二维码已过期",
+      "read_notes": 0
+    }
+  ]
+}

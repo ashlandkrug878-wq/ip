@@ -1,0 +1,436 @@
+{
+  "id": "farmerbob",
+  "name": "FARMER BOB",
+  "aliases": [
+    "BOB",
+    "农夫BOB",
+    "famerbob（用户输入）"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-19",
+  "updated": "2026-10-19",
+  "summary": "以头发—胡须包围脸口的稳定识别承载多种身份；表达与购买动机仍需区分，纯文字复现未过关。",
+  "owner": {
+    "creator": "JO YOUNG WOON（韩国；笔名FARMER）",
+    "operator": "FINDING UNICORN 寻找独角兽",
+    "relation": "合作开发发行；具体著作权与授权条款未知",
+    "since": "2018",
+    "sources": [
+      "S01",
+      "S03"
+    ]
+  },
+  "origin": {
+    "path": [
+      "艺术家潮玩"
+    ],
+    "year": "2014",
+    "story": "合作方记2014发表；转载作者访谈记2013诞生，两口径并列。早期有手工制作作品，非泡泡玛特IP。",
+    "sources": [
+      "S01",
+      "S09",
+      "S10"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2013",
+      "event": "转载作者访谈称诞生；创作与发表的区别尚未原始档案确认",
+      "type": "self_report",
+      "sources": [
+        "S09"
+      ]
+    },
+    {
+      "date": "2014",
+      "event": "合作方回顾：作者发表角色",
+      "type": "self_report",
+      "sources": [
+        "S01"
+      ]
+    },
+    {
+      "date": "2018",
+      "event": "与寻找独角兽合作开发，白金款同期发布",
+      "type": "self_report",
+      "sources": [
+        "S10"
+      ]
+    },
+    {
+      "date": "2020-09-14",
+      "event": "腾讯公开QQ联名设计文档（非首发日期）",
+      "type": "self_report",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "date": "2021-11",
+      "event": "ICE LIQUID WITH BOB抽选",
+      "type": "self_report",
+      "sources": [
+        "S02"
+      ]
+    },
+    {
+      "date": "2023",
+      "event": "鞋服线与渠道扩展的管理层采访",
+      "type": "self_report",
+      "sources": [
+        "S13"
+      ]
+    },
+    {
+      "date": "2026-04-01",
+      "event": "农场系列天猫平台首发公告",
+      "type": "self_report",
+      "sources": [
+        "S04"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "可以经历不同身份，仍然按自己的方式生活。",
+    "sentence_type": "留白",
+    "basis": "inferred",
+    "sources": [
+      "S09",
+      "S03"
+    ]
+  },
+  "core": {
+    "personality": "自主、平静、好奇",
+    "emotion": "内收",
+    "action": "以不同衣装与场景体验生活；不是每款都无表情",
+    "basis": "inferred"
+  },
+  "insight": {
+    "scene": "桌面陈列、收藏展示、随身挂件",
+    "behavior": "选择主题、收藏陈列；个体帖子有空间焦虑",
+    "state": "希望个人品味可见",
+    "conflict": "想要变化，也希望保留熟悉身份",
+    "unsaid": "可以换一种生活，但不必换掉自己",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "潮玩与艺术家玩具收藏者；无可靠年龄性别比例",
+    "where": "官方发行渠道、零售商、收藏论坛；小红书本次登录受限",
+    "buy": "摆件、限定大体量作品、毛绒；个体收藏自述不能代表复购率",
+    "signs": "胡须脸口、主题版本、限量编号",
+    "share": "晒整柜、开箱、比较涂装；样本偏向活跃收藏者",
+    "breakout": "联名和鞋服提供跨圈层入口，转化效果未知"
+  },
+  "pendulum": {
+    "position": "其他",
+    "against": "研究归纳：以大胡须和低表情密度区别纯婴儿式甜美；当下是否稀缺待验证"
+  },
+  "form": {
+    "archetype": "类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "头型",
+      "五官"
+    ],
+    "mark": "头发鬓角胡须包围小脸口",
+    "face": "竖椭圆眼、突出小鼻、常见口部遮挡；眼色和表情有系列变化",
+    "emotion": "面无表情",
+    "odd": "成年人胡须与短壮比例的反差",
+    "density": "中等",
+    "naming": "人名",
+    "group": "单角色"
+  },
+  "collide_combo": "大块头发＋连体大胡须围小脸口＋分离蓝椭圆眼＋短壮人形的组合要避开直接搬用。",
+  "color": {
+    "mode": "多色系列",
+    "main": "随主题变动",
+    "signature": "常见蓝眼是候选，存在非蓝眼反例",
+    "notes": "色板仅为目标SKU屏幕目测，非官方标准"
+  },
+  "materials": "不同SKU不同；日本毛绒目录列PVC、ABS、聚酯，不能推广全部系列。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "授权图案"
+  },
+  "product": {
+    "first_category": "其他",
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "各SKU地区和时间不同，详产品表；无统一均价",
+    "sources": [
+      "S02",
+      "S05",
+      "S06",
+      "S07",
+      "S10"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "QQ联名限定供给",
+      "value": 151,
+      "unit": "体",
+      "period": "2020设计文档",
+      "type": "self_report",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "metric": "ICE LIQUID WITH BOB限定总量",
+      "value": 201,
+      "unit": "体",
+      "period": "2021销售公告",
+      "type": "self_report",
+      "sources": [
+        "S01"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "身份拓扑稳定、主题外层变化",
+      "type": "inference",
+      "evidence": "V01多色多装；V03帽子外层容纳合作身份",
+      "boundary": "需要跨主题仍能识别，用户识别实验未做",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "claim": "无外露嘴可为情绪投射留空间",
+      "type": "inference",
+      "evidence": "作者意图的转载访谈与V01低表情密度",
+      "boundary": "V04等主题会主动外显情绪，不能概括全部用户",
+      "sources": [
+        "S09",
+        "S07"
+      ]
+    },
+    {
+      "claim": "收藏陈列是使用场景，也带来空间成本",
+      "type": "inference",
+      "evidence": "收藏者晒单及回复谈展柜容纳困难",
+      "boundary": "仅一个讨论串，不能估总体比例",
+      "sources": [
+        "S18"
+      ]
+    }
+  ],
+  "counterexamples": "2023海岛系列二手回落为历史局部快照；非授权抽盒平台拆盒争议不能归为自营品控；配件和陈列空间造成具体使用负担。",
+  "theory": {
+    "shell": "头发胡须团块与小脸口、短壮比例",
+    "core": "自主、体验不同生活，属于研究归纳",
+    "shadow": "胡须、卫衣、靴子为公共元素；识别来自组合关系，不是单个元素独占",
+    "two_layers": {
+      "surface": "平静与圆润形态降低接近门槛（假设）",
+      "deep": "音乐／艺术来源、版本与编号提供收藏语境"
+    },
+    "validation": "限定量不是成交；有用户拥有自述，无可审计收入、复购与人群统计。"
+  },
+  "for_skills": {
+    "lab": "可借身份稳定与生活角色变化的表达机制；先验证目标用户真实场景，不套用年龄性别。",
+    "form": "借识别集中与变量分层；不能搬头发胡须包小脸口的完整组合。",
+    "studio": "每个SKU单独拆颜色、材料与载体；先看实际空间和配件管理，再决定大娃或挂件。"
+  },
+  "gaps": [
+    "纯文字平面复现未通过；三维／原创转译仍阻断",
+    "英文与黑白提示词未实测，不进入正式区",
+    "目标普通款确切SKU名、清晰标准正面及母版三视图未知",
+    "小红书登录受限，两组词未获得笔记",
+    "2013/2014源头口径、合同与作者中文姓名待核",
+    "无独立可审计年度营收／销量，最畅销品类未知",
+    "官方直销站访问受限，未核中国实时价格"
+  ],
+  "sources": [
+    {
+      "id": "research-web",
+      "title": "FARMER BOB完整调研网页与六轮平面实测",
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/farmerbob/2026-10-19/",
+      "publisher": "本研究归档",
+      "published": "2026-10-19",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S01",
+      "title": "FARMER BOB x INSTINCTOY 合作作品介紹",
+      "url": "https://www.instinctoy.blog/posts/23374004/",
+      "publisher": "INSTINCTOY",
+      "published": "2021-11-09",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S02",
+      "title": "【11月抽選販售】2件新作品的介紹【11月12日截止】",
+      "url": "https://www.instinctoy.blog/posts/22691291",
+      "publisher": "INSTINCTOY",
+      "published": "2021-10-25",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S03",
+      "title": "QQ x FARMER BOB联名设计揭秘",
+      "url": "https://isux.tencent.com/articles/qq-farmerbob.html",
+      "publisher": "Tencent ISUX",
+      "published": "2020-09-14",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S04",
+      "title": "FARMER BOB农场系列首发",
+      "url": "https://www.sina.cn/news/detail/5282469777244877.html",
+      "publisher": "寻找独角兽FINDING_UNICORN verified account, distributed by Sina",
+      "published": "2026-03-31",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S05",
+      "title": "FINDING UNICORN FARMER BOB ANI - MONSTER PLUSH BLIND BOX",
+      "url": "https://b2b.mile-stone.jp/en/products/00063619486",
+      "publisher": "MILESTONE Inc.",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S06",
+      "title": "FARMER BOB MINI-DRAGON MIRAGE SERIES TRADING PLUSH",
+      "url": "https://b2b.mile-stone.jp/en/products/00069482164",
+      "publisher": "MILESTONE Inc.",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S07",
+      "title": "FARMER BOB フィーリング・ユー・シリーズ",
+      "url": "https://www.sootang.jp/products/6978069485240",
+      "publisher": "SOOTANG HOBBY",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "partial"
+    },
+    {
+      "id": "S08",
+      "title": "Official storefront access attempts",
+      "url": "https://www.findingunicorn.cn/",
+      "publisher": "FINDING UNICORN",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "blocked"
+    },
+    {
+      "id": "S09",
+      "title": "专访艺术家 FARMER｜遵从自我，永不设限",
+      "url": "https://www.sohu.com/a/516294674_121124623",
+      "publisher": "Sohu account 女儿红说时尚; apparent repost of 定番 interview",
+      "published": "2022-01-13",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S10",
+      "title": "What The Farmer BOB 白金BOB公仔",
+      "url": "https://www.chaihezi.com/node/133501",
+      "publisher": "拆盒网",
+      "published": "2018-08-17",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S11",
+      "title": "上市2年吸引260万粉丝，「FARMER BOB」怎么利用营销玩出圈？",
+      "url": "https://morketing.com/detail/17426",
+      "publisher": "Morketing",
+      "published": "2021-02-19",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S12",
+      "title": "Boyfriend series contemporaneous unboxing",
+      "url": "https://www.bilibili.com/video/BV1vk4y1z7B8/",
+      "publisher": "Bilibili creator",
+      "published": "2020-06-17",
+      "observed": "2026-10-19",
+      "access": "snippet_only"
+    },
+    {
+      "id": "S13",
+      "title": "亿元潮玩IP，做起鞋服生意",
+      "url": "https://m.21jingji.com/article/20231024/herald/e4131f6d56a737b005c26f86163c1111.html",
+      "publisher": "21世纪商业评论 / 21财经",
+      "published": "2023-10-24",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S14",
+      "title": "跳出「盲盒舒适圈」，潮玩行业下一步该怎么走？",
+      "url": "https://www.36kr.com/p/2001215545127680",
+      "publisher": "36氪 / 未来消费",
+      "published": "2022-11-14",
+      "observed": "2026-10-19",
+      "access": "partial"
+    },
+    {
+      "id": "S15",
+      "title": "网购潮玩手办到货已被拆盒，经销商称两家公司卖的是二手",
+      "url": "https://www.thepaper.cn/newsDetail_forward_22360451",
+      "publisher": "澎湃新闻",
+      "published": "2023-03-19",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S16",
+      "title": "上万人抽500个资格买盲盒，饥饿营销成新兴潮玩品牌新招式",
+      "url": "https://static.cdsb.com/micropub/Articles/202311/ba8587dd115dcefa111c453153c63a14.html",
+      "publisher": "红星资本局",
+      "published": "2023-11-13",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S17",
+      "title": "#開箱分享 FARMER BOB 男友系列",
+      "url": "https://www.dcard.tw/f/toy/p/234202053",
+      "publisher": "Dcard user 小胖",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "S18",
+      "title": "Farmer Bob collection",
+      "url": "https://www.reddit.com/r/vinyltoys/comments/1m6o4yi/farmer_bob_collection/",
+      "publisher": "Reddit r/vinyltoys users",
+      "published": "2025-07-22",
+      "observed": "2026-10-19",
+      "access": "full"
+    }
+  ],
+  "archive": "research/farmerbob/2026-10-19/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/farmerbob/2026-10-19/",
+  "prompt_validation": {
+    "target_image_id": "V01",
+    "pure_text_gate_passed": false,
+    "reference_assisted_ready": [
+      "reference-v4"
+    ],
+    "downstream": "blocked",
+    "note": "近似ready仅对有限分辨率样本，依赖原图与上一轮生成图；不等于纯文字稳定复现。"
+  },
+  "publication": {
+    "date": "2026-10-19",
+    "destination": "选品板研究库 / GitHub Pages",
+    "user_authorized": true,
+    "note": "用户确认归档；纯文字未通过状态保留。生成图压缩为768px webp，完整图保留原审阅网页。"
+  }
+}
