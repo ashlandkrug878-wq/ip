@@ -1,0 +1,82 @@
+{
+  "scope": "V01头像；不包含页面文字或背景",
+  "palette_id": "mousse-avatar",
+  "identity": "recurring_identity",
+  "colors": [
+    {
+      "color_id": "1",
+      "name": "白色",
+      "hex_preview": "#FFFDFC",
+      "role": "主色／中性色",
+      "surface_or_region": "脸部大面",
+      "value_basis": "visual_estimate",
+      "image_ids": [
+        "V01",
+        "V03"
+      ],
+      "evidence_ids": [
+        "S07",
+        "S04"
+      ],
+      "sample_method": "目测近似，不作像素取样",
+      "sample_coordinates_or_mask": null,
+      "area_description": "大面积",
+      "area_basis": "qualitative",
+      "material_context": "2D参考；绣线与毛绒不直接沿用HEX",
+      "variation_boundary": "V05头套和V06海报粉底为系列／环境配色",
+      "uncertainty": "无官方标准色；屏幕与实物可能不同"
+    },
+    {
+      "color_id": "2",
+      "name": "暖棕",
+      "hex_preview": "#76533E",
+      "role": "线稿／五官",
+      "surface_or_region": "轮廓、刘海、睫毛眼与胡须",
+      "value_basis": "visual_estimate",
+      "image_ids": [
+        "V01",
+        "V03"
+      ],
+      "evidence_ids": [
+        "S07",
+        "S04"
+      ],
+      "sample_method": "目测近似，不作像素取样",
+      "sample_coordinates_or_mask": null,
+      "area_description": "小面积但高对比",
+      "area_basis": "qualitative",
+      "material_context": "2D参考；绣线与毛绒不直接沿用HEX",
+      "variation_boundary": "V05头套和V06海报粉底为系列／环境配色",
+      "uncertainty": "无官方标准色；屏幕与实物可能不同"
+    },
+    {
+      "color_id": "3",
+      "name": "浅粉",
+      "hex_preview": "#F8DFE3",
+      "role": "识别候选／点缀",
+      "surface_or_region": "蝴蝶结、鼻、腮红和耳内",
+      "value_basis": "visual_estimate",
+      "image_ids": [
+        "V01",
+        "V03"
+      ],
+      "evidence_ids": [
+        "S07",
+        "S04"
+      ],
+      "sample_method": "目测近似，不作像素取样",
+      "sample_coordinates_or_mask": null,
+      "area_description": "局部小面积",
+      "area_basis": "qualitative",
+      "material_context": "2D参考；绣线与毛绒不直接沿用HEX",
+      "variation_boundary": "V05头套和V06海报粉底为系列／环境配色",
+      "uncertainty": "无官方标准色；屏幕与实物可能不同"
+    }
+  ],
+  "checks": {
+    "grayscale": "未测试",
+    "small_avatar": "原图头像较小，已目检；未做控制缩放测试",
+    "dark_background": "未做控制比较",
+    "physical_5cm": "未验证"
+  }
+}

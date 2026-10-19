@@ -1,0 +1,20 @@
+{
+  "title": "mikko characters SPECIAL BOOK",
+  "publisher": "宝岛社",
+  "release_date": "2025-06-02",
+  "first_edition_bibliographic_month": "2025-07",
+  "isbn": "9784299067241",
+  "format": "B5",
+  "pages": 16,
+  "price": {
+    "value": 2195,
+    "currency": "JPY",
+    "tax_included": true
+  },
+  "bonus": "Mousse脸形镜梳，最大7.5×9.5×1.6cm，本体梳ABS、镜玻璃，6岁以上",
+  "read_scope": "官方书目、封面链接与商品说明；未读全书",
+  "boundary": "首本品牌mook，不是全部创作的第一次出版",
+  "sources": [
+    "S13"
+  ]
+}

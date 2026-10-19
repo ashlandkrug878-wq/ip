@@ -1,0 +1,28 @@
+{
+  "observed_at": "2026-10-19",
+  "supplied_note": {
+    "url": "https://xhslink.cn/o/Ahbj7iG6Pwp",
+    "note_id": "673c4aaf000000000202828e",
+    "author": "依诺有点甜",
+    "title": "每天认识一个IP——Mikko",
+    "published": "2024-11-19",
+    "displayed_image_count": 18,
+    "readable_content": "标题、标签和模糊封面；正文只有标签",
+    "images_fully_read": 0,
+    "cover_partially_viewed": true,
+    "comments_read": 0,
+    "limitations": "内页未加载，翻页无变化；重载一次未恢复"
+  },
+  "queries": [
+    {
+      "query": "MIKKO 品牌介绍",
+      "status": "登录后查看搜索结果",
+      "readable_results": 0
+    },
+    {
+      "query": "MIKKO 产品汇总",
+      "status": "登录后查看搜索结果",
+      "readable_results": 0
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+[
+  {
+    "image_id": "V01",
+    "subject_id": "mikko-mousse",
+    "title": "官网头像／本轮唯一实测目标",
+    "image_type": "official_2d",
+    "source_page_url": "https://www.mikkoillustrations.com/mousse",
+    "original_image_url": "https://static.wixstatic.com/media/1ce314_075e3c7bc0fc4a849386ed7a468859a6~mv2.png/v1/fill/w_630,h_783,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1ce314_075e3c7bc0fc4a849386ed7a468859a6~mv2.png",
+    "observed_at": "2026-10-19",
+    "page_published_at": null,
+    "image_created_at": null,
+    "product_released_at": null,
+    "save_status": "saved_for_research",
+    "sha256": "a0a4f8af6824584aab4317ebc52f14ff1b4603e434597fe8e874248521083a32",
+    "source_format": "PNG",
+    "public_distribution": "reference_only_external_url",
+    "rights": "原图归mikko及相关权利人；公开可见不等于可再分发，本网站不托管原图",
+    "visual_inspected": true,
+    "observed_features": "宽白脸、低矮耳角、上方毛尖、中央弯曲刘海、小睫毛眼、淡粉鼻颊、双侧浅粉结与三根胡须；头像没有身体。",
+    "visual_language": "用宽脸留白托住小而密集的表情，刘海连接是身份锚点。",
+    "official_settings": "Mousse喜欢蝴蝶结、努力但笨拙害羞，见S10；群像其他人设不从照片推断。",
+    "interpretation": {
+      "type": "inference",
+      "mechanism": "用宽脸留白托住小而密集的表情，刘海连接是身份锚点。",
+      "alternative": "商业效果也可能由渠道、联名曝光和供给影响，不能由图片证明促购。"
+    },
+    "original_transfer_direction": "借尺度和情绪机制，另建独立轮廓与五官。",
+    "material_and_structure": "630×783整页中的头像仅约235px宽；比例为目测，非官方工程数。",
+    "presentation": "正面平面图",
+    "limitations": "630×783整页中的头像仅约235px宽；比例为目测，非官方工程数。",
+    "sources": [
+      "S07"
+    ],
+    "source_dimensions": [
+      630,
+      783
+    ]
+  },
+  {
+    "image_id": "V02",
+    "subject_id": "mikko-group",
+    "title": "官网当前角色群像",
+    "image_type": "official_2d",
+    "source_page_url": "https://www.mikkoillustrations.com/",
+    "original_image_url": "https://static.wixstatic.com/media/1ce314_3e24702f6ebf4c84a52e9eb1af29b8ce~mv2.png/v1/fill/w_980,h_281,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2026_%E3%82%AF%E3%83%BC%E3%83%AB%E5%8A%A0%E5%85%A5.png",
+    "observed_at": "2026-10-19",
+    "page_published_at": null,
+    "image_created_at": null,
+    "product_released_at": null,
+    "save_status": "saved_for_research",
+    "sha256": "0d7ca11516674ed0c75063dc12e796c7d2d0ac0e1ae01b6249d85d625a4786bb",
+    "source_format": "PNG",
+    "public_distribution": "reference_only_external_url",
+    "rights": "原图归mikko及相关权利人；公开可见不等于可再分发，本网站不托管原图",
+    "visual_inspected": true,
+    "observed_features": "多动物并排相靠；共享暖棕线、刘海与粉颊，通过耳形、身体色和配件分开。白猫在中间，不等于全角色群。",
+    "visual_language": "统一语言让成员有家族感，轮廓差异提供选择。",
+    "official_settings": "Mousse喜欢蝴蝶结、努力但笨拙害羞，见S10；群像其他人设不从照片推断。",
+    "interpretation": {
+      "type": "inference",
+      "mechanism": "统一语言让成员有家族感，轮廓差异提供选择。",
+      "alternative": "商业效果也可能由渠道、联名曝光和供给影响，不能由图片证明促购。"
+    },
+    "original_transfer_direction": "为新角色群定义共同语法，再做独立差异轴。",
+    "material_and_structure": "当前横幅不是历史首发图，文件名不当新增角色的精确日期。",
+    "presentation": "正面平面图",
+    "limitations": "当前横幅不是历史首发图，文件名不当新增角色的精确日期。",
+    "sources": [
+      "S01"
+    ],
+    "source_dimensions": [
+      980,
+      281
+    ]
+  },
+  {
+    "image_id": "V03",
+    "subject_id": "mikko-mousse",
+    "title": "普通毛绒正面",
+    "image_type": "official_product",
+    "source_page_url": "https://prtimes.jp/main/html/rd/p/000000233.000095831.html",
+    "original_image_url": "https://prcdn.freetls.fastly.net/release_image/95831/233/95831-233-3f5653b8f812694959f67850efd089ed-1000x1000.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+    "observed_at": "2026-10-19",
+    "page_published_at": "2025-05-28",
+    "image_created_at": null,
+    "product_released_at": null,
+    "save_status": "saved_for_research",
+    "sha256": "81092af1a92b2fb51fd1d9297c455220a363f82f0c01671195b0f2148e30360e",
+    "source_format": "JPEG",
+    "public_distribution": "reference_only_external_url",
+    "rights": "原图归mikko及相关权利人；公开可见不等于可再分发，本网站不托管原图",
+    "visual_inspected": true,
+    "observed_features": "白色绒面宽头、短躯干和坐姿；粉色细带衣装，双侧粉结，脚底心形；眼与刘海以绣线形成。",
+    "visual_language": "触摸载体增大体块；二维线条需转译成绣线与布片。",
+    "official_settings": "Mousse喜欢蝴蝶结、努力但笨拙害羞，见S10；群像其他人设不从照片推断。",
+    "interpretation": {
+      "type": "inference",
+      "mechanism": "触摸载体增大体块；二维线条需转译成绣线与布片。",
+      "alternative": "商业效果也可能由渠道、联名曝光和供给影响，不能由图片证明促购。"
+    },
+    "original_transfer_direction": "先确定新角色比例，再按真实材料设计连接。",
+    "material_and_structure": "聚酯来自规格；未触摸、无侧背和剖面，内填充密度未知。",
+    "presentation": "官方正面商品展示／组合海报",
+    "limitations": "聚酯来自规格；未触摸、无侧背和剖面，内填充密度未知。",
+    "sources": [
+      "S04"
+    ],
+    "source_dimensions": [
+      1000,
+      1000
+    ]
+  },
+  {
+    "image_id": "V04",
+    "subject_id": "mikko-mousse",
+    "title": "同款脸部近景",
+    "image_type": "official_product",
+    "source_page_url": "https://prtimes.jp/main/html/rd/p/000000233.000095831.html",
+    "original_image_url": "https://prcdn.freetls.fastly.net/release_image/95831/233/95831-233-46f6f030886f05627cd43468e7eaad96-1000x1000.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+    "observed_at": "2026-10-19",
+    "page_published_at": "2025-05-28",
+    "image_created_at": null,
+    "product_released_at": null,
+    "save_status": "saved_for_research",
+    "sha256": "e72a19a3bd8a76d7ba27572f049d5ccbfb0247f23e04ff7114e652fc4e0dc466",
+    "source_format": "JPEG",
+    "public_distribution": "reference_only_external_url",
+    "rights": "原图归mikko及相关权利人；公开可见不等于可再分发，本网站不托管原图",
+    "visual_inspected": true,
+    "observed_features": "斜向近景可见绣线针迹、眼白浅色区、粉色缎面感蝴蝶结、短绒覆盖的脸部；不是背面图。",
+    "visual_language": "局部工艺直接影响眼睛、刘海与脸部可读性。",
+    "official_settings": "Mousse喜欢蝴蝶结、努力但笨拙害羞，见S10；群像其他人设不从照片推断。",
+    "interpretation": {
+      "type": "inference",
+      "mechanism": "局部工艺直接影响眼睛、刘海与脸部可读性。",
+      "alternative": "商业效果也可能由渠道、联名曝光和供给影响，不能由图片证明促购。"
+    },
+    "original_transfer_direction": "用打样检查小五官，不能把图上的色值当色卡。",
+    "material_and_structure": "只见可见缝绣表面，不能推定内部结构、耐洗或成本。",
+    "presentation": "斜向脸部近景",
+    "limitations": "只见可见缝绣表面，不能推定内部结构、耐洗或成本。",
+    "sources": [
+      "S04"
+    ],
+    "source_dimensions": [
+      1000,
+      1000
+    ]
+  },
+  {
+    "image_id": "V05",
+    "subject_id": "mikko-group",
+    "title": "Sanrio联名吉祥物",
+    "image_type": "official_product",
+    "source_page_url": "https://www.sanrio.co.jp/news/goods/mx-mikko-illustrations-202510/",
+    "original_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2025/10/sub1-goods-mx-mikko-illustrations-202510-2.jpg",
+    "observed_at": "2026-10-19",
+    "page_published_at": "2025-10-15",
+    "image_created_at": null,
+    "product_released_at": null,
+    "save_status": "saved_for_research",
+    "sha256": "4f4925321318a959e190becb31dc003d03e99446347d276fcc50b3c1481a7b2b",
+    "source_format": "JPEG",
+    "public_distribution": "reference_only_external_url",
+    "rights": "原图归mikko及相关权利人；公开可见不等于可再分发，本网站不托管原图",
+    "visual_inspected": true,
+    "observed_features": "四成员穿对应角色头套并抱小伙伴；蕾丝边和粉心足底重复，头套、帽色和抱物是此联名变量。",
+    "visual_language": "熟悉的脸与新头套共存，跨品牌配对形成系列。",
+    "official_settings": "Mousse喜欢蝴蝶结、努力但笨拙害羞，见S10；群像其他人设不从照片推断。",
+    "interpretation": {
+      "type": "inference",
+      "mechanism": "熟悉的脸与新头套共存，跨品牌配对形成系列。",
+      "alternative": "商业效果也可能由渠道、联名曝光和供给影响，不能由图片证明促购。"
+    },
+    "original_transfer_direction": "为新主题设计有故事来源的变量，保留自己的身份。",
+    "material_and_structure": "没有证明可脱衣，亦没有测试吊链强度；不归入基础身体。",
+    "presentation": "官方正面商品展示／组合海报",
+    "limitations": "没有证明可脱衣，亦没有测试吊链强度；不归入基础身体。",
+    "sources": [
+      "S06"
+    ],
+    "source_dimensions": [
+      1824,
+      1824
+    ]
+  },
+  {
+    "image_id": "V06",
+    "subject_id": "mikko-group",
+    "title": "联名织物与日用商品",
+    "image_type": "official_product",
+    "source_page_url": "https://www.sanrio.co.jp/news/goods/mx-mikko-illustrations-202510/",
+    "original_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2025/10/sub3-goods-mx-mikko-illustrations-202510.jpg",
+    "observed_at": "2026-10-19",
+    "page_published_at": "2025-10-15",
+    "image_created_at": null,
+    "product_released_at": null,
+    "save_status": "saved_for_research",
+    "sha256": "bfff75abd4f4a32853f5e3d7a827db93ff0c0ba733eaddaa19f30138ae29bf7f",
+    "source_format": "JPEG",
+    "public_distribution": "reference_only_external_url",
+    "rights": "原图归mikko及相关权利人；公开可见不等于可再分发，本网站不托管原图",
+    "visual_inspected": true,
+    "observed_features": "绗缝感表面、粉色花卉底、荷叶边和蝴蝶结；角色图案以重复或群组方式印在包、镜与托特上。",
+    "visual_language": "世界观进入随身收纳，不必每件都做独立人偶。",
+    "official_settings": "Mousse喜欢蝴蝶结、努力但笨拙害羞，见S10；群像其他人设不从照片推断。",
+    "interpretation": {
+      "type": "inference",
+      "mechanism": "世界观进入随身收纳，不必每件都做独立人偶。",
+      "alternative": "商业效果也可能由渠道、联名曝光和供给影响，不能由图片证明促购。"
+    },
+    "original_transfer_direction": "以功能与使用频率选择载体，别只堆装饰。",
+    "material_and_structure": "材质成分和耐用性未核，照片不足以形成完整工艺单。",
+    "presentation": "官方正面商品展示／组合海报",
+    "limitations": "材质成分和耐用性未核，照片不足以形成完整工艺单。",
+    "sources": [
+      "S06"
+    ],
+    "source_dimensions": [
+      1824,
+      1824
+    ]
+  }
+]

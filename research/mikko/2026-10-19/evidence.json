@@ -1,0 +1,365 @@
+{
+  "as_of": "2026-10-19",
+  "sources": [
+    {
+      "id": "S01",
+      "title": "作者官网与当前角色群",
+      "url": "https://www.mikkoillustrations.com/",
+      "publisher": "mikko",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "primary",
+      "access_status": "正文已读",
+      "boundary": "当前页面，不用页脚年份推断角色起源。"
+    },
+    {
+      "id": "S02",
+      "title": "作者创作概念",
+      "url": "https://www.mikkoillustrations.com/profile",
+      "publisher": "mikko",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "primary",
+      "access_status": "正文已读",
+      "boundary": "创作定位是作者自述，不是购买者人口统计。"
+    },
+    {
+      "id": "S03",
+      "title": "Lil ala mode官方代理角色介绍",
+      "url": "https://spiralcute.com/characters/lilalamode/en/",
+      "publisher": "SPIRALCUTE",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "primary",
+      "access_status": "正文已读",
+      "boundary": "版权标注©mikko；联系窗口不能证明买断、独家范围或旧约终止。"
+    },
+    {
+      "id": "S04",
+      "title": "普通毛绒与挂件商品公告",
+      "url": "https://prtimes.jp/main/html/rd/p/000000233.000095831.html",
+      "publisher": "Marimocraft",
+      "publication_date": "2025-05-28",
+      "accessed_at": "2026-10-19",
+      "source_type": "primary",
+      "access_status": "正文已读",
+      "boundary": "价格与2025年7月下旬发售计划来自历史公告；不代表当前库存或销量。"
+    },
+    {
+      "id": "S05",
+      "title": "ましゅもっち景品",
+      "url": "https://www.fancy-fukuya.co.jp/topics/202409mikko-illustrations/",
+      "publisher": "Fukuya",
+      "publication_date": "2024-08-30",
+      "accessed_at": "2026-10-19",
+      "source_type": "primary",
+      "access_status": "正文已读",
+      "boundary": "约25cm为此景品系列；不是固定零售价，不同于Marimocraft毛绒。"
+    },
+    {
+      "id": "S06",
+      "title": "Sanrio联名商品公告",
+      "url": "https://www.sanrio.co.jp/news/goods/mx-mikko-illustrations-202510/",
+      "publisher": "Sanrio",
+      "publication_date": "2025-10-15",
+      "accessed_at": "2026-10-19",
+      "source_type": "primary",
+      "access_status": "正文已读",
+      "boundary": "2025年10月21日更新；10月22日发售，部分地区23日。价格和首日会员规则均为当次活动。"
+    },
+    {
+      "id": "S07",
+      "title": "Mousse官网角色设定页",
+      "url": "https://www.mikkoillustrations.com/mousse",
+      "publisher": "mikko",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "primary",
+      "access_status": "设定图已目检；文字未逐字转录",
+      "boundary": "页面主体为设定图；已查看630×783图，其中头像约235px宽，不能视为高精度工程母版。"
+    },
+    {
+      "id": "S08",
+      "title": "mikko illustrations × HONEY SALON",
+      "url": "https://prtimes.jp/main/html/rd/p/000000234.000036659.html",
+      "publisher": "Stripe International",
+      "publication_date": "2020-07-03",
+      "accessed_at": "2026-10-19",
+      "source_type": "primary_brand_release",
+      "access_status": "正文已读",
+      "claims": [
+        {
+          "type": "self_report",
+          "text": "作者2013年开始自由插画工作。"
+        },
+        {
+          "type": "fact",
+          "text": "2020-07-04发售服装配饰联名，公告点名猫Mousse，并描述女孩与猫的原创合作故事。"
+        }
+      ],
+      "boundary": "证明Mousse至迟2020年公开出现，不证明它在2013年诞生；品牌发布稿不是独立受欢迎程度研究。",
+      "related_urls": []
+    },
+    {
+      "id": "S09",
+      "title": "2021年原宿快闪与原画活动",
+      "url": "https://www.popap.biz/popup-list/mikkomikko-illustrationsin-",
+      "publisher": "POPAP",
+      "publication_date": "2021-02",
+      "accessed_at": "2026-10-19",
+      "source_type": "secondary_event_listing",
+      "access_status": "正文已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "2021-02-10至16日Laforet原宿活动，点名猫Mousse与熊Latte，售新商品及展示原画。"
+        }
+      ],
+      "boundary": "最早性未证；作者嵌入帖称三年未举行原画活动，不能仅据此编写2018角色诞生日期。",
+      "related_urls": []
+    },
+    {
+      "id": "S10",
+      "title": "エイノバ与mikko代理合同公告",
+      "url": "https://www.dreamnews.jp/press/0000288755/",
+      "publisher": "エイノバ株式会社",
+      "publication_date": "2023-10-18",
+      "accessed_at": "2026-10-19",
+      "source_type": "primary_release_syndicated",
+      "access_status": "DreamNews原页403；Mapion完整转载已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "正文说2023-10-17宣布与mikko签订agent合同；发布平台日期10-18。"
+        },
+        {
+          "type": "self_report",
+          "text": "当时中国RED约9.8万关注者、Instagram约2.7万；称已在中日韩开展活动。"
+        }
+      ],
+      "boundary": "历史企业自报社交数，不是当前粉丝数或收入；代理权限、地域、独家性和终止日均未公开。",
+      "related_urls": [
+        "https://www.mapion.co.jp/news/release/dn0000288755-all/"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "作者公布Lil ala mode群组名称",
+      "url": "https://x.com/hphpmikko/status/1961753265256759591",
+      "publisher": "mikko官方@hphpmikko",
+      "publication_date": "2025-08-30",
+      "accessed_at": "2026-10-19",
+      "source_type": "primary_creator_via_index",
+      "access_status": "X原页不可读；Yahoo实时搜索保存正文与日期，已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "作者宣布Mousse、Cammy、Latte、Souffle、Nattsu、Puff、Chuu、Cotta&Pupu群组名确定为Lil ala mode by mikko。"
+        }
+      ],
+      "boundary": "准确表述为角色群组定名，不是作者本人改名或全部角色当日首次诞生；不采用动态互动数。",
+      "related_urls": [
+        "https://search.yahoo.co.jp/realtime/search/tweet/1961753265256759591"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Lil ala mode官方商城开店公告",
+      "url": "https://prtimes.jp/main/html/rd/p/000000016.000168561.html",
+      "publisher": "Gray Parka Service",
+      "publication_date": "2025-11-21",
+      "accessed_at": "2026-10-19",
+      "source_type": "primary_operator_release",
+      "access_status": "正文已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "运营方宣布2025-12-06 11:00官方商城开店；同日开始神宫前快闪，运营主体Gray Parka Service。"
+        },
+        {
+          "type": "fact",
+          "text": "2025-12-06首批坐姿毛绒3080日元、挂件2200日元，均含税；原画展示销售24件。"
+        }
+      ],
+      "boundary": "商城开店不是IP诞生；24是展售作品数，不是销量；此来源不公开代理合同。",
+      "related_urls": []
+    },
+    {
+      "id": "S13",
+      "title": "mikko characters SPECIAL BOOK",
+      "url": "https://tkj.jp/book/?cd=TD067241",
+      "publisher": "宝岛社",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "primary_publisher",
+      "access_status": "官方正文已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "2025-06-02发售；ISBN9784299067241；B5，16页；含税2195日元。附Mousse镜梳套装，最大7.5×9.5×1.6cm；镜/玻璃，本体及梳/ABS，6岁以上。"
+        }
+      ],
+      "boundary": "宝岛社称首本mook，不等于作者首次出版任何作品；未读实体内页。版元书目把初版年月列2025年7月，不与6月2日书店发售混淆。",
+      "related_urls": [
+        "https://store.tkj.jp/shopdetail/000000019989/",
+        "https://www.hanmoto.com/bd/isbn/9784299067241"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "MINISO香港新店与Mikko合作计划",
+      "url": "https://miniso.com/brand/news_79.html",
+      "publisher": "MINISO",
+      "publication_date": "2023-10-31",
+      "accessed_at": "2026-10-19",
+      "source_type": "primary_brand_release",
+      "access_status": "搜索工具open正文空；索引全文和直接下载HTML已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "香港三家新店公告表示将推出Mikko等IP产品系列。"
+        }
+      ],
+      "boundary": "只支持合作及当时计划；公司总收入、门店数不可归入Mikko。日期由同稿EQS转载交叉。",
+      "related_urls": [
+        "https://eodishasamachar.com/en/2023/10/31/miniso-opens-three-new-stores-in-hong-kong-as-part-of-ongoing-global-expansion/"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "MINISO哥伦比亚Mikko合集",
+      "url": "https://www.miniso.co/mikko",
+      "publisher": "MINISO Colombia",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "primary_retail",
+      "access_status": "正文已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "存在Mousse、Cammy杯子、镜子、个人护理和家居等联名商品。"
+        }
+      ],
+      "boundary": "哥伦比亚渠道不当中国大陆销量；折扣与在架商品数不作销量/失败证据。",
+      "related_urls": []
+    },
+    {
+      "id": "S16",
+      "title": "2024中国授权业大奖入围名单",
+      "url": "https://www.licensingexpochina.com/再创新高！2024中国授权业大奖入围名单公布",
+      "publisher": "全球授权展上海／国际授权业协会",
+      "publication_date": "2024-05-22",
+      "accessed_at": "2026-10-19",
+      "source_type": "primary_industry_event",
+      "access_status": "正文已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "年度新锐IP入围栏列mikko illustrations—赛益（上海）商贸有限公司。"
+        }
+      ],
+      "boundary": "是入围不是获奖；名单栏虽称IP版权方，不替代合同或版权登记，不能据此推断赛益拥有作者全部原始版权或当前独家授权。",
+      "related_urls": []
+    },
+    {
+      "id": "S17",
+      "title": "上海盲盒标示调查",
+      "url": "https://www.toutiao.com/article/7358791262666785289/",
+      "publisher": "上海法治报",
+      "publication_date": "2024-04-17",
+      "accessed_at": "2026-10-19",
+      "source_type": "original_reporting",
+      "access_status": "正文open空；搜索索引长段已读，属于部分访问",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "记者在LOFT看到拾伍象mikko捏捏乐注明不设隐藏、普通款各1:6；另一趴趴mini盲袋标明常规与隐藏概率。"
+        }
+      ],
+      "boundary": "这是正面合规个例，不得拿文章其它商家的违规当Mikko问题；未全文读取，不将此作为大范围合规结论。",
+      "related_urls": []
+    },
+    {
+      "id": "S18",
+      "title": "Lil ala mode store FAQ",
+      "url": "https://lilalamode-store.jp/pages/faq",
+      "publisher": "Gray Parka Service",
+      "publication_date": null,
+      "accessed_at": "2026-10-19",
+      "source_type": "primary_store_policy",
+      "access_status": "正文及直接HTML已读",
+      "claims": [
+        {
+          "type": "fact",
+          "text": "购买需免费会员；加购物车不锁库存；预售和现货不能合单；原则不接受取消；仅日本国内配送。"
+        },
+        {
+          "type": "inference",
+          "text": "这些规则增加境外与抢购用户的交易步骤，可作为购买摩擦。"
+        }
+      ],
+      "boundary": "规则不是已发生投诉或持续缺货证据；不应表述全渠道都不支持海外配送。",
+      "related_urls": []
+    },
+    {
+      "id": "S19",
+      "title": "每天认识一个IP——Mikko",
+      "url": "https://xhslink.cn/o/Ahbj7iG6Pwp",
+      "publisher": "依诺有点甜／小红书",
+      "publication_date": "2024-11-19",
+      "accessed_at": "2026-10-19",
+      "source_type": "user_social_post",
+      "access_status": "标题、日期、标签和封面可见；内页不可用",
+      "boundary": "显示18图，但仅首张模糊封面可见；内页与评论未读，不采用配图细节和用户画像。"
+    }
+  ],
+  "commercial_numbers": {
+    "ip_revenue": null,
+    "royalties": null,
+    "sku_unit_sales": null,
+    "china_gmv": null
+  },
+  "mechanisms": [
+    {
+      "claim": "把“想变得可爱”放进日常动作。",
+      "type": "inference",
+      "evidence": "作者强调贴近日常；2020合作进入穿搭，2025镜梳进入整理仪容。",
+      "boundary": "商品与定位可核；接触频率、购买动机和复购效果未经用户研究。",
+      "sources": [
+        "S02",
+        "S08",
+        "S13"
+      ]
+    },
+    {
+      "claim": "共用一套表情语法，再用动物轮廓形成角色群。",
+      "type": "inference",
+      "evidence": "V02群像共享弯曲刘海、小睫毛眼、粉颊；耳形、体色和配件不同。",
+      "boundary": "视觉归纳；不等于每个角色的人设相同，也不能证明多角色提高销量。",
+      "sources": [
+        "S01",
+        "S07"
+      ]
+    },
+    {
+      "claim": "让柔软与装扮同时存在。",
+      "type": "inference",
+      "evidence": "毛绒本体搭配蝴蝶结；联名把头套、蕾丝与印花扩展到包袋和镜子。",
+      "boundary": "柔软是外观或厂商材料描述；未测手感、耐洗性、实际触摸偏好或利润。",
+      "sources": [
+        "S04",
+        "S06"
+      ]
+    }
+  ],
+  "gaps": [
+    "首次角色创作及首发原帖未取得；2013是作者职业起步。",
+    "代理合同地区、期限、独家性及Anova旧约终止情况未知。",
+    "独立IP收入、版税、销量、中国GMV及复购全部未知。",
+    "小红书只读到标题、标签和模糊封面；18张内页未读完，评论0条可用；两组搜索均被登录墙阻挡。",
+    "6个视觉样本已目检，普通毛绒是正面和近景，未取得背面或内部结构；未阅读mook全部16页。",
+    "纯文字V1–V3仍有明显偏差；参考辅助V2仅在官网头像二维范围接近。",
+    "英文、重复稳定性、全身、侧背面、实物概念、原创转译均未实测；本轮停止于平面头像。",
+    "未核到具体召回、商业失败款或同口径未成功IP对照；不能写从未失败。"
+  ]
+}
