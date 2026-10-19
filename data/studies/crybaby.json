@@ -1,0 +1,699 @@
+{
+  "id": "crybaby",
+  "name": "CRYBABY",
+  "aliases": [
+    "哭娃",
+    "哭泣娃娃"
+  ],
+  "tier": "deep",
+  "status": "partial",
+  "cutoff_date": "2026-10-19",
+  "updated": "2026-10-19",
+  "summary": "以显著泪形、宽颊和忧伤眉眼承载“可以哭”的情绪许可；从树脂收藏到盲盒、毛绒和展览形成多种接触场景。财务增长已核；平面复现实测未通过，后续创作暂停。",
+  "owner": {
+    "creator": "Molly / Mod Nisa Srikamdee（Molly Yllom）",
+    "operator": "POP MART；艺术家另有Molly’s Factory及画廊合作",
+    "relation": "已确认商品合作；具体权属与授权范围未知",
+    "since": null,
+    "sources": [
+      "s-official",
+      "s-elle",
+      "s-woods",
+      "s-annual2025"
+    ]
+  },
+  "origin": {
+    "path": [
+      "艺术家潮玩"
+    ],
+    "year": "2017",
+    "story": "官方记载2017首作品；同期已有树脂限量预售，后于2021出现POP MART盲盒。",
+    "sources": [
+      "s-official",
+      "s-early",
+      "s-woods"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2017",
+      "event": "官方记载首件Crybaby创作；艺术家潮玩起盘",
+      "type": "self_report",
+      "sources": [
+        "s-official"
+      ]
+    },
+    {
+      "date": "2017-11",
+      "event": "已查得树脂Naked Brown/Blond国际预售",
+      "type": "fact",
+      "sources": [
+        "s-early"
+      ]
+    },
+    {
+      "date": "疫情前数月 / 2021（冲突）",
+      "event": "作者自述签约时间与后期媒体合作年份不一致；未取得合同",
+      "type": "fact",
+      "sources": [
+        "s-praew",
+        "s-bazaar"
+      ]
+    },
+    {
+      "date": "2021-07-27",
+      "event": "Crying in the Woods盲盒发售，合作商品已见同期报道",
+      "type": "fact",
+      "sources": [
+        "s-woods"
+      ]
+    },
+    {
+      "date": "2022-05",
+      "event": "Cry Me a River首次个展",
+      "type": "fact",
+      "sources": [
+        "s-ex2022"
+      ]
+    },
+    {
+      "date": "2023-07",
+      "event": "Everybody/Cries/Sometimes：免费展区与付费体验并行",
+      "type": "fact",
+      "sources": [
+        "s-ex2023"
+      ]
+    },
+    {
+      "date": "2024",
+      "event": "场景盲盒、飞天小女警联名、全毛绒挂件、搪胶脸毛绒形成多品类并行",
+      "type": "fact",
+      "sources": [
+        "s-sad",
+        "s-ppg",
+        "s-sunset",
+        "s-again"
+      ]
+    },
+    {
+      "date": "2025",
+      "event": "Crying For Love延展；全年CRYBABY收入29.29亿元",
+      "type": "fact",
+      "sources": [
+        "s-love",
+        "s-annual2025"
+      ]
+    },
+    {
+      "date": "2026-06",
+      "event": "Cry Me An Ocean进入新加坡真实海洋馆，并接入快闪购买",
+      "type": "fact",
+      "sources": [
+        "s-stb"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "不必一直坚强，可以哭。",
+    "sentence_type": "允许",
+    "basis": "inferred",
+    "sources": [
+      "s-official",
+      "s-elle"
+    ]
+  },
+  "core": {
+    "personality": "敏感、坦诚",
+    "emotion": "外放",
+    "action": "用眼泪表达难以说出的感受",
+    "basis": "inferred"
+  },
+  "insight": {
+    "scene": "必须维持体面与坚强的日常",
+    "behavior": "把感受压在心里",
+    "state": "想被理解",
+    "conflict": "真实脆弱与社会期待相冲突",
+    "unsaid": "我能不能不用假装没事？",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "艺术玩具收藏者、情绪表达者与包挂使用者；并非人口统计结论",
+    "where": "艺术展、POP MART渠道、随身包挂场景",
+    "buy": "公开样本涵盖实物审美、情绪认同、收藏替代与收礼；只作动机线索",
+    "signs": "收藏/携带/展览参与",
+    "share": "公开开箱与使用自述；小红书两组搜索受登录墙阻挡",
+    "breakout": "跨品类与联名带来接触机会，明星曝光可能放大"
+  },
+  "pendulum": {
+    "position": "其他",
+    "against": "允许负面情绪被看见，回应必须始终快乐坚强的期待",
+    "note": "“情绪许可”比单一软萌或丑萌更准确，视觉风格待主任务定稿"
+  },
+  "form": {
+    "archetype": "类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "五官",
+      "头型"
+    ],
+    "mark": "忧伤眼块＋显著泪形＋宽鼓颊＋小鼻小嘴",
+    "face": "横向矮梯形，内端高外端低，深灰/黑眼块、外侧窄白眼白；厚不透明白块；左横团加粗圆尾、右横团；小鼻嘴",
+    "emotion": "外放",
+    "odd": "用近乎物件体量的大泪形突出感受",
+    "density": "中等",
+    "naming": "描述",
+    "group": "单角色",
+    "note": "角色可跨动物/物件表达；此处以代表类人形象作比较，不否认其他表现。"
+  },
+  "collide_combo": "大头宽鼓颊＋内高外低的深色眼块＋眼下大泪形＋小鼻小嘟嘴；单换服装颜色不构成独立原创。",
+  "color": {
+    "mode": "多色系列",
+    "main": "按系列变化",
+    "signature": "显著泪形的对比关系比固定色号更稳定",
+    "notes": "白泪见展示及毛绒样本，早期/搪胶脸款有透明感；不将白色定为全系列绝对规则。"
+  },
+  "materials": "不同SKU分开：树脂、ABS/PVC手办、全毛绒、PVC脸+聚酯毛绒；不互套工艺。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "其他",
+    "note": "画展/雕塑装置是已核实的辅助载体"
+  },
+  "product": {
+    "first_category": "其他",
+    "hit_category": "搪胶毛绒",
+    "hit_product": "Crying Again等为代表系列，未核单SKU销量冠军",
+    "price_band": "所选美国站单盒可见标价19.99–29.99美元（2026-10-19）；不是中国价格或发行价。",
+    "sources": [
+      "s-early",
+      "s-again",
+      "s-us-prices"
+    ],
+    "note": "最早查得为树脂限量艺术玩具；hit_category指破圈代表类型，不声称销量冠军。"
+  },
+  "numbers": [
+    {
+      "metric": "CRYBABY IP收入",
+      "value": 11.64885,
+      "unit": "亿元人民币",
+      "raw_value": 1164885,
+      "raw_unit": "RMB thousand",
+      "period": "2024 全年",
+      "type": "fact",
+      "sources": [
+        "s-annual2025"
+      ],
+      "locator": "印刷p27 / PDF第28页",
+      "scope": "POP MART集团按IP披露的CRYBABY收入"
+    },
+    {
+      "metric": "CRYBABY IP收入",
+      "value": 29.29006,
+      "unit": "亿元人民币",
+      "raw_value": 2929006,
+      "raw_unit": "RMB thousand",
+      "period": "2025 全年",
+      "type": "fact",
+      "sources": [
+        "s-annual2025"
+      ],
+      "locator": "印刷p27 / PDF第28页",
+      "scope": "POP MART集团按IP披露的CRYBABY收入"
+    },
+    {
+      "metric": "CRYBABY 收入同比（计算）",
+      "value": 151.4416,
+      "unit": "%",
+      "period": "2025 全年 vs 2024 全年",
+      "type": "fact",
+      "sources": [
+        "s-annual2025"
+      ],
+      "formula": "(2929006/1164885-1)*100"
+    },
+    {
+      "metric": "CRYBABY IP收入",
+      "value": 12.1817,
+      "unit": "亿元人民币",
+      "raw_value": 1218170,
+      "raw_unit": "RMB thousand",
+      "period": "2025 上半年",
+      "type": "fact",
+      "sources": [
+        "s-h12026"
+      ],
+      "locator": "印刷p30 / PDF第30页",
+      "scope": "POP MART集团按IP披露的CRYBABY收入"
+    },
+    {
+      "metric": "CRYBABY IP收入",
+      "value": 16.3257,
+      "unit": "亿元人民币",
+      "raw_value": 1632570,
+      "raw_unit": "RMB thousand",
+      "period": "2026 上半年",
+      "type": "fact",
+      "sources": [
+        "s-h12026"
+      ],
+      "locator": "印刷p30 / PDF第30页",
+      "scope": "POP MART集团按IP披露的CRYBABY收入；未经审计"
+    },
+    {
+      "metric": "CRYBABY 收入同比（计算）",
+      "value": 34.0182,
+      "unit": "%",
+      "period": "2026 上半年 vs 2025 上半年",
+      "type": "fact",
+      "sources": [
+        "s-h12026"
+      ],
+      "formula": "(1632570/1218170-1)*100"
+    },
+    {
+      "metric": "CRYBABY 占集团收入",
+      "value": 7.9,
+      "unit": "%",
+      "period": "2025 全年",
+      "type": "fact",
+      "sources": [
+        "s-annual2025"
+      ]
+    },
+    {
+      "metric": "CRYBABY 占集团收入",
+      "value": 9.5,
+      "unit": "%",
+      "period": "2026 上半年",
+      "type": "fact",
+      "sources": [
+        "s-h12026"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "把“可以哭”的情绪许可固定为可见识别，再让每款作品拥有不同哭泣理由，给系列变化留下空间。",
+      "type": "inference",
+      "evidence": "官方不限定性别/物种、各设计各有缘由；产品从日常场景到恋爱、海洋。",
+      "boundary": "作者意图与产品命名支持设计逻辑；没有用户实验可证明这一机制单独贡献多少成交。",
+      "sources": [
+        "s-official",
+        "s-sad",
+        "s-love",
+        "s-ocean"
+      ]
+    },
+    {
+      "claim": "从树脂收藏品走向盲盒与随身挂件，可能降低接触门槛，并把陈列行为变成携带展示。",
+      "type": "inference",
+      "evidence": "2017树脂国际预售、2021盲盒、2024毛绒挂件、2025明星包挂媒体记录。",
+      "boundary": "不同年份、地区、规格不可直接比价；没有用户迁移队列或SKU销量拆分。",
+      "sources": [
+        "s-early",
+        "s-woods",
+        "s-sunset",
+        "s-bazaar"
+      ]
+    },
+    {
+      "claim": "展览让抽象的情绪主张变成可进入、可拍照和可购买的体验。",
+      "type": "inference",
+      "evidence": "2023免费展区+付费体验；2026海洋馆装置+快闪+同日票据满额赠品。",
+      "boundary": "公开方案可以验证路径，但没有人次到成交的漏斗数据。",
+      "sources": [
+        "s-ex2023",
+        "s-stb"
+      ]
+    },
+    {
+      "claim": "已成型的产品与官方渠道先于2025明星热度；明星是可能的放大器，不能被写成唯一冷启动原因。",
+      "type": "inference",
+      "evidence": "2017/2021商品和2022/2023展览均早于本轮2025明星曝光样本。",
+      "boundary": "未取得连续流量与销量序列，也未知曝光是否商业合作。",
+      "sources": [
+        "s-early",
+        "s-woods",
+        "s-ex2022",
+        "s-ex2023",
+        "s-bazaar"
+      ]
+    },
+    {
+      "claim": "收入证据支持商业规模与延续增长，但不能证明每个系列成功或“哭脸必爆”。",
+      "type": "inference",
+      "evidence": "2025同比+151.44%，2026H1同比+34.02%；聚合数据不含单SKU售罄、复购和利润。",
+      "boundary": "不得把集团毛绒收入/会员复购率套给CRYBABY，不把两种期间直接当环比。",
+      "sources": [
+        "s-annual2025",
+        "s-h12026"
+      ]
+    }
+  ],
+  "counterexamples": "早期手工运输破损为作者自述；未取得具体失败量产系列数据，不写“所有系列都成功”。",
+  "theory": {
+    "shell": "忧伤眼块＋显著泪形＋宽鼓颊＋小鼻小嘴",
+    "core": "允许脆弱，哭泣有多种理由。",
+    "shadow": "幼儿、大眼、眼泪是公共语言；专属组合需图像层面精确拆解。",
+    "two_layers": {
+      "surface": "可爱的形与容易理解的情绪入口（研究推断）",
+      "deep": "把个人原因投射进不同哭泣场景；作者展览为深层内容（待用户验证）"
+    },
+    "validation": "集团披露CRYBABY收入可证付费规模；不可替代SKU复购、粉丝增长和个人动机证据。"
+  },
+  "for_skills": {
+    "lab": "可借“允许某种难以表达的情绪”的命题机制，但先验证特定圈层是否仍有未满足需求。",
+    "form": "从情绪动作寻找可缩小识别的结构；不能照搬CRYBABY眼泪与脸型组合，具体由官方图核验。",
+    "studio": "同一主题可做陈列、随身、展览载体；材料和尺寸必须按各SKU验证，勿套集团增长到单款。"
+  },
+  "gaps": [
+    "具体权属合同、独家性、期限、地域、品类、分成与商标注册主体未核；艺术家IP财报分类不能替代版权文件。",
+    "疫情前签约的作者自述与2021开始合作的媒体说法有冲突，暂不统一。",
+    "最早IG原帖、绝对第一件公开作品与首卖日未获取；2017同期商品仅是最早查得证据。",
+    "Somchun宠物触发故事原IG访谈访问失败，当前为媒体转述。",
+    "早期手工发行量与价格存在作者回忆/渠道批次差异，不能合并为一个数字。",
+    "Crying in the Woods官方规格/首发原价、Sunset Concert当前美元价格未核。",
+    "Crying Again年份仅官方社媒搜索摘要补充，产品页缺年；Sunset Concert挂环尺寸原文有疑似错误。",
+    "专属团队、IP单独成本/毛利、授权收入、SKU销量、复购、用户画像与退坑率没有公开分项证据。",
+    "小红书两组站内检索均受登录墙阻挡，实际读取CRYBABY笔记0篇；无中国平台用户样本。",
+    "仅8条公开目的抽样，不是整体人群画像；未做连续官方内容采样。",
+    "4轮纯文字与1轮参考辅助平面测试均保留revise；无正式通过提示词；后续材质/三视图/原创转译暂停。",
+    "未取得全角色官方母版、完整侧背图、统一色卡或实际工艺测试。"
+  ],
+  "sources": [
+    {
+      "id": "research-web",
+      "title": "CRYBABY 完整调研网页（含原图与5次平面实测）",
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/crybaby/2026-10-19/",
+      "publisher": "本研究归档",
+      "published": "2026-10-19",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "research-report",
+      "title": "CRYBABY 研究报告与证据记录",
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/crybaby/2026-10-19/report.md",
+      "publisher": "本研究归档",
+      "published": "2026-10-19",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "s-official",
+      "title": "CRYBABY：Molly / About the IP",
+      "url": "https://www.popmart.com/zh-hans-sg/ip/crybaby/d99c6646-b282-402e-b4bf-a818498073a1",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full",
+      "kind": "primary",
+      "note": ""
+    },
+    {
+      "id": "s-elle",
+      "title": "ELLE Empowering Women：Molly / Mod Nisa Srikamdee 原访谈",
+      "url": "https://ellethailand.com/empowering-women-crybaby-mod-nisa-molly/",
+      "publisher": "ELLE Thailand",
+      "published": "2024-03-31",
+      "observed": "2026-10-19",
+      "access": "full",
+      "kind": "primary",
+      "note": "泰文原访谈，作者自述与编辑事实分开；不将访谈中的用户转述视为直接用户样本。"
+    },
+    {
+      "id": "s-praew",
+      "title": "Crybaby 创作者 Mod–Nisa Srikamdee 原访谈",
+      "url": "https://praew.com/people/interview/527000.html",
+      "publisher": "Praew",
+      "published": "2024-02-02",
+      "observed": "2026-10-19",
+      "access": "full",
+      "kind": "primary",
+      "note": "发布日期由原页 article:published_time/datePublished 核验，正文源自杂志第998期；原访谈回顾，不是同期记录。"
+    },
+    {
+      "id": "s-early",
+      "title": "Crybaby By MOLLY’S FACTORY x Streams",
+      "url": "https://www.thetoychronicle.com/news/crybaby-by-mollys-factory-x-streams/",
+      "publisher": "The Toy Chronicle",
+      "published": "2017-11-01",
+      "observed": "2026-10-19",
+      "access": "full",
+      "kind": "contemporaneous_secondary",
+      "note": "当前正文页显示2017-11-01；某索引或早先抓取日期不同，发布预售窗口明确11/1–11/2。"
+    },
+    {
+      "id": "s-woods",
+      "title": "POP MART x Molly Yllom: Crying in the Woods Blind Box Series",
+      "url": "https://www.thetoychronicle.com/news/pop-mart-x-molly-yllom-of-mollys-factory-crybaby-crying-in-the-woods-blind-box-series/",
+      "publisher": "The Toy Chronicle",
+      "published": "2021-07-16",
+      "observed": "2026-10-19",
+      "access": "full",
+      "kind": "contemporaneous_secondary",
+      "note": "标出发售日2021-07-27；能证明2021年已有合作商品，不证明合同签署日。"
+    },
+    {
+      "id": "s-ex2022",
+      "title": "Cry Me a River：首次个展",
+      "url": "https://www.warehouse30.com/events/cry-me-a-river-the-first-solo-exhibition-by-artist-crybaby-molly-or-nisa-srikumdee/",
+      "publisher": "WAREHOUSE 30",
+      "published": "2022-05-08",
+      "observed": "2026-10-19",
+      "access": "full",
+      "kind": "primary",
+      "note": ""
+    },
+    {
+      "id": "s-ex2023",
+      "title": "Everybody/Cries/Sometimes",
+      "url": "https://rivercitybangkok.com/everybody-cries-sometimes/",
+      "publisher": "River City Bangkok",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full",
+      "kind": "primary",
+      "note": "举办方展览档案；活动期2023-07-22至09-30；页面发布日期未明示。"
+    },
+    {
+      "id": "s-bazaar",
+      "title": "Crybaby: What Is It And Who Are Its Celebrity Fans",
+      "url": "https://www.harpersbazaar.com.sg/lifestyle/crybaby-things-to-know",
+      "publisher": "Harper’s BAZAAR Singapore",
+      "published": "2025-03-26",
+      "observed": "2026-10-19",
+      "access": "full",
+      "kind": "secondary",
+      "note": ""
+    },
+    {
+      "id": "s-ig-interview",
+      "title": "POP MART 创作者访谈（Bazaar所引原视频）",
+      "url": "https://www.instagram.com/reel/C4UkssQS_2d/",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "blocked",
+      "kind": "primary",
+      "note": "直接取回失败；宠物Somchun的故事本轮仅二手文章核到，不能宣称看过视频。"
+    },
+    {
+      "id": "s-annual2025",
+      "title": "2025 Annual Report",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100394.pdf",
+      "publisher": "POP MART / HKEX",
+      "published": "2026-04-21",
+      "observed": "2026-10-19",
+      "access": "partial",
+      "kind": "primary",
+      "note": "完整PDF已下载；已读相关业务和收入页；表在印刷p27/PDF第28页，已渲染目视核验。未声称读完370页。"
+    },
+    {
+      "id": "s-h12026",
+      "title": "Interim Results Announcement for Six Months Ended 30 June 2026",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000353.pdf",
+      "publisher": "POP MART / HKEX",
+      "published": "2026-08-20",
+      "observed": "2026-10-19",
+      "access": "partial",
+      "kind": "primary",
+      "note": "完整PDF已下载；收入表在印刷p30/PDF第30页，已渲染目视核验；中期数据未经审计。"
+    },
+    {
+      "id": "s-sad",
+      "title": "CRYBABY Sad Club Series Scene Sets",
+      "url": "https://www.popmart.com/us/products/893",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full",
+      "kind": "primary",
+      "note": ""
+    },
+    {
+      "id": "s-sad-plush",
+      "title": "CRYBABY SAD CLUB SERIES-PLUSH DOLL",
+      "url": "https://www.popmart.com/us/products/904/CRYBABY-Sad-Club-Series-Plush-Figure",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full",
+      "kind": "primary",
+      "note": "本轮用其关联商品列表核对Sad Club手办当前美元标价；非推定发行价。"
+    },
+    {
+      "id": "s-ppg",
+      "title": "CRYBABY × Powerpuff Girls Series Figures",
+      "url": "https://www.popmart.com/us/products/990/crybaby-%C3%97-powerpuff-girls-series-figures",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full",
+      "kind": "primary",
+      "note": ""
+    },
+    {
+      "id": "s-sunset",
+      "title": "CRYBABY Sunset Concert Series-Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/1312/crybaby-sunset-concert-series-plush-pendant-blind-box-3486",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full",
+      "kind": "primary",
+      "note": "官网原文HANGING LOOP CONCLUDED疑似拼写错误；本表保留两组尺寸，首组是否意为不含挂环需核实。"
+    },
+    {
+      "id": "s-again",
+      "title": "CRYBABY Crying Again Series-Vinyl Face Plush Blind Box",
+      "url": "https://www.popmart.com/us/products/1681",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full",
+      "kind": "primary",
+      "note": "产品页只标November 15，未给年份。"
+    },
+    {
+      "id": "s-again-fb",
+      "title": "CRYBABY Crying Again release announcement",
+      "url": "https://www.facebook.com/popmartonlinestores/posts/crying-is-not-weakness-it-is-the-voice-of-emotions-seeking-to-be-understoodcryba/933520522561157/",
+      "publisher": "POP MART Online Stores",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "snippet_only",
+      "kind": "primary",
+      "note": "搜索摘要显示Release date 2024/11/15；原页取回限流，发售年份证据降级。"
+    },
+    {
+      "id": "s-love",
+      "title": "CRYBABY Crying For Love Series Figures",
+      "url": "https://www.popmart.com/us/products/1870",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full",
+      "kind": "primary",
+      "note": ""
+    },
+    {
+      "id": "s-ocean",
+      "title": "CRYBABY Cry Me An Ocean Series - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/6278/crybaby-cry-me-an-ocean-series-vinyl-plush-pendant-blind-box",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full",
+      "kind": "primary",
+      "note": "使用正确US SKU 6278；搜索命中6442标题为CA，不混用。"
+    },
+    {
+      "id": "s-us-prices",
+      "title": "CRYBABY 官方美国站商品目录",
+      "url": "https://www.popmart.com/us/collection/38",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full",
+      "kind": "primary",
+      "note": "采集日当前标价，不当成首发价；COMING SOON的10/22新品晚于截止日，不计入已发售。"
+    },
+    {
+      "id": "s-stb",
+      "title": "CRYBABY Cry Me an Ocean activation at Singapore Oceanarium",
+      "url": "https://www.stb.gov.sg/about-stb/media-publications/media-centre/crybaby-cry-me-an-ocean-activation-dives-into--resorts-world-sentosa-s-singapore-oceanarium/",
+      "publisher": "Singapore Tourism Board / RWS / POP MART",
+      "published": "2026-06-10",
+      "observed": "2026-10-19",
+      "access": "full",
+      "kind": "primary",
+      "note": ""
+    },
+    {
+      "id": "s-stb-about",
+      "title": "Annex A: About CRYBABY",
+      "url": "https://isomer-user-content.by.gov.sg/1/6b610a17-89fd-4db0-8b53-558dc0001196/ANNEX%20A_ABOUT%20CRYBABY.pdf",
+      "publisher": "Singapore Tourism Board / POP MART",
+      "published": "2026-06-10",
+      "observed": "2026-10-19",
+      "access": "full",
+      "kind": "primary",
+      "note": ""
+    },
+    {
+      "id": "s-user-love",
+      "title": "Why do you love crybaby?",
+      "publisher": "Reddit / r/CryBabyDolls",
+      "url": "https://www.reddit.com/r/CryBabyDolls/comments/1pno7os/why_do_you_love_crybaby/",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "partial",
+      "kind": "user_self_report",
+      "note": "读取主帖与可见评论，按具体动机/行为目的抽样6条；日期仅相对时间，不反推精确日。"
+    },
+    {
+      "id": "s-user-quality",
+      "title": "Extremely upset about the quality of my crybaby",
+      "publisher": "Reddit / r/PopMartCollectors",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1lgqvp2/extremely_upset_about_the_quality_of_my_crybaby/",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "partial",
+      "kind": "user_self_report",
+      "note": "抽取投诉原帖和一条相反的收货体验；商品真伪、购买与售后结果未独立验证。"
+    },
+    {
+      "id": "s-official-image",
+      "title": "CRYBABY 官网角色展示图（法国站同一IP档案）",
+      "publisher": "POP MART",
+      "url": "https://www.popmart.com/fr/ip/crybaby/d99c6646-b282-402e-b4bf-a818498073a1",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full",
+      "kind": "primary",
+      "note": "直接查看并保存红帽持花C牌主角；此为具体展示版本，不是全系列唯一基础母版。"
+    }
+  ],
+  "archive": "research/crybaby/2026-10-19/report.md",
+  "prompt_validation": {
+    "target_image_id": "crybaby-official-reference",
+    "status": "revise",
+    "flat_gate_passed": false,
+    "formal_ready_prompts": [],
+    "english_status": "not_tested; no English prompt released",
+    "downstream": {
+      "material_render": "blocked_by_flat_gate",
+      "turnaround": "blocked_by_flat_gate",
+      "original_translation": "blocked_by_flat_gate"
+    },
+    "interpretation": "以上均为研究重建，非艺术家原始提示词；不证明原作品由AI制作。相似性为本轮目视判断，无用户实验或百分比分数。"
+  },
+  "revision": 1,
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/crybaby/2026-10-19/",
+  "publication": {
+    "date": "2026-10-19",
+    "destination": "选品板研究库 / GitHub Pages",
+    "user_authorized": true,
+    "note": "上传经用户确认；平面关卡仍为revise，不把上传确认当作相似度通过。"
+  }
+}
