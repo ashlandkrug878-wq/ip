@@ -1,0 +1,70 @@
+[
+  {
+    "prompt_id": "text-v1",
+    "version": 1,
+    "subject_id": "zsiga",
+    "target_scope": "Let It Be official product gallery sample 8, Planting More Hopes balloon scene; not universal official base model",
+    "carrier": "2D flat illustration",
+    "exact_prompt": "绘制一张白色背景、细棕色轮廓线、干净色块的二维角色设定插画。单个小女孩正面全身站立，双手藏在身后，略微抬头；不画3D渲染、塑料反光、阴影或摄影布景。她是大头小身的幼童，整个人从头顶到鞋底约2.15个头高。头顶为饱满圆穹，头脸整体接近纵向圆角方形；额头宽阔，脸颊两侧饱满，下巴很短。奶油浅金色头发如贴头的整块帽形，没有发丝纹理，前发际线在额头中央向上凹入一个窄小三角尖口，露出向上尖起的皮肤，不是向下的美人尖刘海。两只大圆耳朵向左右伸出。耳后各有一束向外下方伸出的短而宽的尖锥形金发。桃色皮肤，脸颊带淡珊瑚红。两只无睫毛、无明显眉毛的大椭圆眼位于脸的下半部，眼距约为一个眼宽；每只眼有大片白色下半月牙，蓝色大圆虹膜紧贴眼睛上边缘，看向上方；不要黑色瞳孔、不要星光高光。鼻子很小，嘴是细细的一条向下弯的红棕色短弧，表情倔强又委屈。穿宽松淡鼠尾草灰绿色直筒短袖连衣裙，裙摆到小腿，裙前五条深灰褐色细长光秃树干图案。裙下两只棕红色圆头鞋并拢，角色右脚即画面左边鞋头长有一个小狗脸：顶端黑色竖椭圆鼻，两个小黑点眼，向下弯的小嘴；小狗脸是鞋脚本身一体的形态，不是旁边独立站着的小狗。画面左侧有一只大红橙色气球，高度在角色脸旁，气球上三行手写英文“Planting / More / Hopes”；细乳白绳从气球底部下垂，绳结绑在一根插入小块棕色地面的斜树枝上。气球不遮挡脸和发际线。角色占画面高度80%，所有特征完整可见，二维平面、温和低饱和色块，不要把圆头小孩画成尖下巴少女，不要画普通双马尾、蝴蝶结或头冠。\n",
+    "language": "zh",
+    "input_mode": "text_only",
+    "reference_image_ids": [],
+    "generated_image_path": "assets/text-v1.webp",
+    "tested_at": "2026-10-19",
+    "status": "revise",
+    "review": "头身拉长；发际线成为中分刘海；耳后发束像普通辫子；虹膜过小；气球位置过高。",
+    "review_basis": "visual qualitative comparison by researcher; not user approval or quantitative similarity score"
+  },
+  {
+    "prompt_id": "text-v2",
+    "version": 2,
+    "subject_id": "zsiga",
+    "target_scope": "Let It Be official product gallery sample 8, Planting More Hopes balloon scene; not universal official base model",
+    "carrier": "2D flat illustration",
+    "exact_prompt": "只画一张干净白底的二维平面研究复现图，正面、全身、全彩图块，细而均匀的轮廓线，禁止水彩和素描纹理，禁止立体光影。一个倔强的小孩，身体非常矮厚，没有可见脖子，不是普通儿童绘本人物。角色本身高度约900单位：头发顶端y=100，脸下缘y=540，直筒衣服到y=850，两只并拢的圆头鞋到y=1000。头部总宽440，高440；头顶是圆弧，脸下半部是宽而略平的方圆下巴，不是圆球脸。奶油浅金头发为一整个紧贴头颅的平滑圆帽体积，发际线横跨额头上方，在中间只有一个窄而短的向上三角凹口露出皮肤，凹口宽约40高45；其余发际线近乎横向浅弧，不画中分的两大块斜刘海。宽阔额头从发际线到眼顶留出约120单位。眼睛位于头部下半部，左右眼各宽95高95，中心位于头部从顶向下约300单位处，眼间空隙100单位。眼球是近圆的白底，蓝色虹膜非常大，每只占眼球约四分之三，虹膜靠上贴住上眼睑，底部仅露出较薄的白色月牙；无黑瞳孔、无睫毛、无眉毛、无高光。眼型与圆润脸颊相连，目光向上，两眼略显倔强。小小的圆鼻，珊瑚色脸颊；小嘴为红棕色向下弯的单线，位于两眼下方正中。两只大圆耳向左右突出；耳后左右各是两片刚硬、厚实、没有纹理的浅金三角形短发，主要尖端水平外伸略朝下，长约95、根宽65，像一体雕塑的尾翅，不是发辫、蝴蝶结或毛发。淡鼠尾草绿直筒宽松短袖长上衣，头部比衣服宽1.6倍，衣服宽度上下相同，不画A字裙。双手藏在身后。衣服正面五根灰褐色枯树干，高低不一、细分叉。露出的双腿极短，两只棕红色肥厚圆头脚并拢。画面左脚顶正中长黑色竖向水滴形狗鼻，鼻下左右两个极小黑点眼、下方倒弧形嘴，形成脚本身的小狗面，不画系带、不画普通鞋口或独立小狗。头发浅奶油金，脸浅桃色，虹膜浅中蓝，衣服灰绿，鞋深棕红。大红橙气球位于角色左侧，气球顶部与角色眼睛上边缘平齐，直径约300，不悬在头顶；上面用深红棕写三行“Planting / More / Hopes”。气球下的奶白绳绑在左下方一根短棕树枝上，底部是一小片连到角色脚下的棕土地。平面正投影视图，无透视夸张，全身完整，保留充分白边。\n",
+    "language": "zh",
+    "input_mode": "text_only",
+    "reference_image_ids": [],
+    "generated_image_path": "assets/text-v2.webp",
+    "tested_at": "2026-10-19",
+    "status": "revise",
+    "review": "头身与发际线有所改善，但眼位仍偏高，脸过宽圆，腮红变成圆贴片；发束和脚部伙伴仍趋向通用卡通符号。",
+    "review_basis": "visual qualitative comparison by researcher; not user approval or quantitative similarity score"
+  },
+  {
+    "prompt_id": "reference-v1",
+    "version": 1,
+    "subject_id": "zsiga",
+    "target_scope": "Let It Be official product gallery sample 8, Planting More Hopes balloon scene; not universal official base model",
+    "carrier": "2D flat illustration",
+    "exact_prompt": "参考图是唯一的角色身份与款式参考。将图中的角色和气球完整转绘成二维平面设定插画：白色背景，纤细暖棕轮廓，平整色块，只有脸颊保留非常轻的局部腮红，不要3D塑料高光、体积明暗、环境阴影。严格保持参考图的整体轮廓、位置和比例：头部圆顶与下方宽方脸、很高的空白额头、发际线中间窄小向上凹入的三角口、眼睛的大小形状及在脸下半部的位置、蓝色大虹膜靠眼球上方与下方白色月牙、微小鼻子、短而偏右倾的下弯嘴线、两只大耳朵及耳后长短两片锥状金发。不要把头画宽，不要把脸画成圆盘，不添加眉毛、睫毛、黑瞳孔、圆形腮红贴片，不改成蝴蝶结或发辫。保持灰绿直筒衣服、背在身后的双手、原图的五棵稀疏灰褐色树干图案、棕红短脚并拢。保持画面左脚顶上的黑色竖向狗鼻和两点眼、下弯嘴的位置关系：这是一只与脚融为一体的小狗，不是另加一双狗头鞋。保持左侧红橙气球原有高度与大小，深红字“Planting More Hopes”分三行，乳白色短绳、棕色绳结、左斜树枝及一条浅薄棕土地，均依参考位置平面化。完整保留款式，只改变从商品图到二维色块插画的表现媒介。无标题、无品牌标记、无边框。\n",
+    "language": "zh",
+    "input_mode": "reference_assisted",
+    "reference_image_ids": [
+      "V01"
+    ],
+    "generated_image_path": "assets/reference-v1.webp",
+    "tested_at": "2026-10-19",
+    "status": "revise",
+    "review": "轮廓、衣装、脚部伙伴与场景明显接近；虹膜面积偏小，气球和肤色仍需校正。",
+    "review_basis": "visual qualitative comparison by researcher; not user approval or quantitative similarity score"
+  },
+  {
+    "prompt_id": "reference-v2",
+    "version": 2,
+    "subject_id": "zsiga",
+    "target_scope": "Let It Be official product gallery sample 8, Planting More Hopes balloon scene; not universal official base model",
+    "carrier": "2D flat illustration",
+    "exact_prompt": "参考图是唯一的角色身份与款式参考。将图中的角色和气球完整转绘成二维平面设定插画：白色背景，纤细暖棕轮廓，平整色块，只有脸颊保留非常轻的局部腮红，不要3D塑料高光、体积明暗、环境阴影。严格保持参考图的整体轮廓、位置和比例：头部圆顶与下方宽方脸、很高的空白额头、发际线中间窄小向上凹入的三角口、眼睛的大小形状及在脸下半部的位置、蓝色大虹膜靠眼球上方与下方白色月牙、微小鼻子、短而偏右倾的下弯嘴线、两只大耳朵及耳后长短两片锥状金发。不要把头画宽，不要把脸画成圆盘，不添加眉毛、睫毛、黑瞳孔、圆形腮红贴片，不改成蝴蝶结或发辫。保持灰绿直筒衣服、背在身后的双手、原图的五棵稀疏灰褐色树干图案、棕红短脚并拢。保持画面左脚顶上的黑色竖向狗鼻和两点眼、下弯嘴的位置关系：这是一只与脚融为一体的小狗，不是另加一双狗头鞋。保持左侧红橙气球原有高度与大小，深红字“Planting More Hopes”分三行，乳白色短绳、棕色绳结、左斜树枝及一条浅薄棕土地，均依参考位置平面化。完整保留款式，只改变从商品图到二维色块插画的表现媒介。无标题、无品牌标记、无边框。\n本轮重点校正眼部，其他一律按参考：蓝色虹膜宽度约为眼白整体宽度的85%至90%，是大面积蓝眼球，不是白眼球里的小蓝圆点；蓝色与上眼边连成一体并偏向画面右上方，只在下方和左侧露一圈很窄的白色月牙。让上眼缘略朝脸中央下斜，保留倔强眼神。嘴鼻极小，脸保持参考的暖桃橙色而不是淡粉白。气球颜色保持较深的砖红橙，不提亮成鲜艳正红。\n",
+    "language": "zh",
+    "input_mode": "reference_assisted",
+    "reference_image_ids": [
+      "V01"
+    ],
+    "generated_image_path": "assets/reference-v2.webp",
+    "tested_at": "2026-10-19",
+    "status": "ready",
+    "review": "限定此款的二维转绘：高额、发际缺口、下置眼、外伸发束、脚部伙伴和色块位置已接近。仍有嘴线斜率、发束曲线与眼白面积的轻微差异；不称精确复刻。",
+    "review_basis": "visual qualitative comparison by researcher; not user approval or quantitative similarity score"
+  }
+]

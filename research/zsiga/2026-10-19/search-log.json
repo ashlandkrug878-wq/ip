@@ -1,0 +1,19 @@
+{
+  "observed_at": "2026-10-19",
+  "platform": "小红书",
+  "entry": "用户提供的LABUBU笔记（用于进入站内搜索，本篇内容不用于Zsiga结论）",
+  "queries": [
+    {
+      "q": "Zsiga 品牌介绍",
+      "status": "blocked_login",
+      "note": "实际输入并提交，出现登录后查看搜索结果"
+    },
+    {
+      "q": "Zsiga 产品汇总",
+      "status": "blocked_login",
+      "note": "实际输入并提交，登录弹窗仍在，未获取结果"
+    }
+  ],
+  "zsiga_notes_read": 0,
+  "consequence": "未完成小红书多篇图文与评论采样，不能声称覆盖中文核心圈层；继续采用官方、访谈及注明限制的其他公开社区资料"
+}

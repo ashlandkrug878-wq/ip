@@ -1,0 +1,530 @@
+{
+  "id": "zsiga",
+  "name": "Zsiga",
+  "aliases": [
+    "ZSIGA",
+    "嘎子姐"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-19",
+  "updated": "2026-10-19",
+  "summary": "带刺的外形承担自我保护，右脚伙伴将情绪变成关系；从情绪场景手办延伸到可动换装，但跨载体需求与识别保持需要分别验证。纯文字平面复现尚未过关。",
+  "owner": {
+    "creator": "吾丹丹 / Dan / Dandan（泡泡玛特 PDC 设计师）",
+    "operator": "泡泡玛特 POP MART",
+    "relation": "PDC原创并由泡泡玛特开发运营；具体著作权登记主体及作者权利分配未公开核实",
+    "since": "2022",
+    "sources": [
+      "s-character",
+      "s-dan",
+      "s-nuyou",
+      "s-ttc"
+    ]
+  },
+  "origin": {
+    "path": [
+      "艺术家潮玩",
+      "产品先行",
+      "渠道孵化"
+    ],
+    "year": "2022",
+    "story": "2022年8月同期报道已介绍Walking Into The Forest盲盒系列，12常规加1隐藏；报道标注8月10日10 PT海外发售。可证明当时已推出，不能确认为全球最早首发日。",
+    "sources": [
+      "s-ttc"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2022-08",
+      "event": "Walking Into The Forest系列同期报道，12常规加1隐藏；海外发售时间不等于全球首次。",
+      "type": "fact",
+      "sources": [
+        "s-ttc"
+      ]
+    },
+    {
+      "date": "2024-05-17",
+      "event": "Let It Be系列官网标注发售，约6.9–9.3cm小型手办。",
+      "type": "fact",
+      "sources": [
+        "s-letitbe"
+      ]
+    },
+    {
+      "date": "2025-06-20",
+      "event": "Dream Destination 1/8可动人偶官网标注发售，无配件约20cm，戴帽约23cm。",
+      "type": "fact",
+      "sources": [
+        "s-dream"
+      ]
+    },
+    {
+      "date": "2025-11-20",
+      "event": "Gingerbread Man 1/8美区官网在线发售；无配件约20cm。",
+      "type": "fact",
+      "sources": [
+        "s-ginger"
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "event": "I’m Zsiga搪胶毛绒挂件美区官网在线发售；公司中期公告称上半年首次推出该IP毛绒挂件。",
+      "type": "fact",
+      "sources": [
+        "s-plush",
+        "s-h12026"
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "event": "Life is a Show MINI可动（约10cm）和Right on Time 1/8（约20cm）美区官网在线发售，两个产品层级不混用。",
+      "type": "fact",
+      "sources": [
+        "s-mini",
+        "s-righttime"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "我带着刺，也可以保留柔软与胆怯。",
+    "sentence_type": "反差",
+    "basis": "inferred",
+    "sources": [
+      "s-character",
+      "s-dan",
+      "s-nuyou"
+    ]
+  },
+  "core": {
+    "personality": "反叛、童真、敏感",
+    "emotion": "反差",
+    "action": "用刺保护自己，与右脚伙伴一起探索、显露和接纳复杂情绪。",
+    "basis": "inferred"
+  },
+  "insight": {
+    "scene": "被要求懂事、可爱或随时表现积极的日常关系。",
+    "behavior": "用不好惹的外壳拉开距离，却借小物与同伴表达难以直接说出的情绪。",
+    "state": "想保护自己，也希望被理解。",
+    "conflict": "外在防御与内在胆怯并存。",
+    "unsaid": "我不必把所有尖锐都收起来，才值得被接纳。",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "喜欢有态度角色和情绪叙事的潮玩收藏者，以及参与1/8换装的部分玩家；年龄性别比例未知。",
+    "where": "POP MART渠道、公开千岛晒图、Reddit收藏讨论；本轮小红书两组搜索均登录受阻。",
+    "buy": "可核实IP整体收入；单个社区用户晒换装，另有用户只买部分确认款、只收藏手办不买毛绒。",
+    "signs": "对右脚小狗、旧系列复杂情绪、款式差异及娃衣搭配有具体讨论。",
+    "share": "收藏陈列、角色细节、搭配与换装晒图，属小样本观察。",
+    "breakout": "已延伸至可动、毛绒与配件；没有充分单品销量或人群迁移数据证明哪一载体带来破圈。"
+  },
+  "pendulum": {
+    "position": "丑萌怪趣",
+    "against": "研究者归纳：用不好惹与童真共存，偏离单纯甜美、始终情绪稳定的角色期待；不等于实证时代因果。"
+  },
+  "form": {
+    "archetype": "类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "头型",
+      "脚"
+    ],
+    "mark": "圆顶与方圆短下巴形成头型；高额，额前向上凹入的三角发际线，耳后向外伸出的锥状发束；右脚伙伴是关系识别点。",
+    "face": "大眼位置偏低，高额占比突出；脸颊与短下巴承接头部体积。各款表情、瞳孔、发色和装饰会变化，不把某一款固定为全IP规范。",
+    "emotion": "反差",
+    "odd": "防御性刺状发束与童真面部相遇；伙伴并非普通手持宠物，而与右脚整合。",
+    "density": "中等",
+    "naming": "其他",
+    "note": "Zsiga名称词源未核实；嘎子姐为社区称呼。形态描述是本轮官方图观察，非官方尺寸规范。",
+    "group": "单角色"
+  },
+  "collide_combo": "避免同时复用高额与低置大眼、额前凹入三角发际线、耳后外伸锥发、大头短下巴及右脚情绪伙伴的整套识别组合。",
+  "color": {
+    "mode": "多色系列",
+    "main": "各系列不同；本轮不指定全IP唯一主色。",
+    "signature": "尚未核实跨系列唯一签名色。",
+    "notes": "根据官方产品图观察；发色、服装色、表情随款变化。种希望气球款颜色只用于指定款复现，不上升为IP通则。"
+  },
+  "materials": "常规Let It Be手办为PVC/ABS/磁铁；Dream Destination 1/8含PVC/ABS/PS/尼龙/聚酯/磁铁/五金/植物纤维；毛绒挂件为聚酯/PVC/PU及聚酯纤维填充。规格按SKU，不合并成统一工艺。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "其他",
+    "note": "可动换装晒图与线下装置等扩展；不声称已形成成熟动画或短视频主内容体系。"
+  },
+  "product": {
+    "first_category": "盲盒手办",
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "2026-10-19官方美区目录快照：常规手办约USD19.99；MINI可动21.99；毛绒挂件32.99；1/8约79.99–89.99。非中国原价或成交价。",
+    "sources": [
+      "s-ttc",
+      "s-catalog",
+      "s-letitbe",
+      "s-dream",
+      "s-ginger",
+      "s-plush",
+      "s-mini"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "Zsiga IP收入（泡泡玛特披露）",
+      "value": 2.11256,
+      "unit": "亿元人民币",
+      "period": "2025上半年，2026中期公告比较数",
+      "type": "fact",
+      "sources": [
+        "s-h12026"
+      ]
+    },
+    {
+      "metric": "Zsiga IP收入（泡泡玛特披露）",
+      "value": 2.98341,
+      "unit": "亿元人民币",
+      "period": "2026上半年，未经审计",
+      "type": "fact",
+      "sources": [
+        "s-h12026"
+      ]
+    },
+    {
+      "metric": "Zsiga收入占集团收入",
+      "value": 1.5,
+      "unit": "%",
+      "period": "2025上半年，2026中期公告比较数",
+      "type": "fact",
+      "sources": [
+        "s-h12026"
+      ]
+    },
+    {
+      "metric": "Zsiga收入占集团收入",
+      "value": 1.7,
+      "unit": "%",
+      "period": "2026上半年",
+      "type": "fact",
+      "sources": [
+        "s-h12026"
+      ]
+    },
+    {
+      "metric": "Zsiga收入同比增幅（按披露数计算）",
+      "value": 41.22,
+      "unit": "%",
+      "period": "2026上半年对2025上半年",
+      "type": "inference",
+      "calculation": "(298341 / 211256 - 1) × 100，原表单位千元人民币",
+      "sources": [
+        "s-h12026"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "防御与童真共存，为不够温顺的情绪提供可被认同的外形。",
+      "type": "inference",
+      "evidence": "官方解释刺与态度是保护，作者强调接纳胆怯等不同面。",
+      "boundary": "这是表达机制解释；无法从收入增长单独证明这一机制导致购买。",
+      "sources": [
+        "s-character",
+        "s-dan",
+        "s-nuyou"
+      ]
+    },
+    {
+      "claim": "右脚伙伴将情绪关系嵌入外形，形成可反复发现的细节。",
+      "type": "inference",
+      "evidence": "官方设定伙伴不可分、映照情绪。",
+      "boundary": "同一识别点也让部分消费者排斥；记忆度不等于普适喜爱。",
+      "sources": [
+        "s-character",
+        "s-dan",
+        "s-reddit"
+      ]
+    },
+    {
+      "claim": "1/8可动让部分玩家从观看单一造型转向持续换装参与。",
+      "type": "inference",
+      "evidence": "官方可动规格及千岛单条用户反复换装晒图。",
+      "boundary": "没有全体复购、娃衣花费或留存统计，不能称为已验证的商业飞轮。",
+      "sources": [
+        "s-dream",
+        "s-qiandao"
+      ]
+    },
+    {
+      "claim": "扩展更甜美或更便携的载体时，需检验原有复杂情绪是否仍被识别。",
+      "type": "hypothesis",
+      "evidence": "官方已扩至毛绒和MINI；同一Reddit串有老玩家不喜欢更甜的新方向。",
+      "boundary": "单讨论串不能代表全体，也不能断定新品失败。",
+      "sources": [
+        "s-catalog",
+        "s-plush",
+        "s-mini",
+        "s-reddit"
+      ]
+    }
+  ],
+  "counterexamples": "未找到足够可靠的相似但失败IP对照或单SKU亏损数据。公开Reddit同串有不喜欢右脚小狗、只购买部分确认款、不买毛绒，以及认为近期系列过甜的个人反馈；不得推断占比、退坑率或整体失败。品控投诉率和二手价格分布未核实。",
+  "theory": {
+    "shell": "高额大头、下置大眼、独特发际线与耳后锥发配合右脚伙伴，形成轮廓和关系双重记忆；表情发色可变。",
+    "core": "外显反叛与内在童真、胆怯共存；刺保护自我，伙伴陪伴情绪。",
+    "shadow": "大眼、大头和儿童比例均有公共设计基础；差异来自比例组合、发际线和右脚关系，不宜将所有优点归于一个公用五官。未作抄袭指认。",
+    "two_layers": {
+      "surface": "路人可能先被有态度又童真的外观吸引；这是研究推断。",
+      "deep": "圈层能识别右脚伙伴的关系含义、系列情绪细节，并通过换装参与。"
+    },
+    "validation": "已核实公司按IP披露2026H1收入约2.98亿元，是IP层面付费证据；无单SKU销量与复购，不能命名爆款品类。未获得可靠粉丝增长序列；社区点赞与评论仅是低层级定性线索。"
+  },
+  "for_skills": {
+    "lab": "候选启发：从外显防御和内在需要的矛盾建立表达，并让具体行为承载，而非只给角色贴酷拽标签。不要照搬Zsiga的关系与台词。",
+    "form": "候选启发：记忆点可同时来自轮廓和身体关系；不得复用高额凹入三角发际线、耳后锥发与右脚伙伴的整体组合。纯文字平面门槛未过，暂停原创转译。",
+    "studio": "先分开验证静态情绪手办、可动换装、随身毛绒的使用需求与识别保持；当前仅参考图模式在指定种希望气球款平面接近，未获全IP可复用提示词，不推进3D/材质/三视图。"
+  },
+  "gaps": [
+    "小红书两组搜索均触发登录门槛，未读取对应笔记及评论，未完成该平台实证。",
+    "基本纯文字提示词text v1、v2均不通过；reference-assisted v2仅在指定Let It Be种希望气球款参考图模式接近，不是纯文字复现通过。",
+    "未进行3D、材质渲染、三视图或原创转译。",
+    "没有单品销量/销售额或破圈归因，hit_category和hit_product留空。",
+    "2025全年IP收入表未单列Zsiga，不分摊其他艺术家IP合计，也不将半年收入翻倍预测全年。",
+    "全球最早首发日、最早绘稿、生日和猫炸毛起源故事未充分核实。",
+    "具体著作权登记主体、作者合同权利分配、授权地域品类及分成未知。",
+    "用户年龄性别比例、复购率、退坑率、质量投诉率及二手成交分布未知。",
+    "官方图观察是定性形态归纳，无官方比例测量图；表情和发色不是全IP固定。",
+    "Trends访谈正文访问超时/503；部分官方旧角色页与产品规格仅读到搜索索引。"
+  ],
+  "sources": [
+    {
+      "id": "research-web",
+      "title": "ZSIGA 完整研究网页与四轮平面实测",
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/zsiga/2026-10-19/",
+      "publisher": "本研究归档",
+      "published": "2026-10-19",
+      "observed": "2026-10-19",
+      "access": "full"
+    },
+    {
+      "id": "s-character",
+      "title": "Zsiga official character collection",
+      "url": "https://www.popmart.com/ch/collections/zsiga/113470cf-b942-4326-99ff-e8363788db3f",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "snippet_only",
+      "access_note": "search-index-only; direct open inaccessible",
+      "limits": ""
+    },
+    {
+      "id": "s-catalog",
+      "title": "Zsiga current US collection",
+      "url": "https://www.popmart.com/us/collection/zsiga",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "full",
+      "access_note": "opened full relevant text",
+      "limits": ""
+    },
+    {
+      "id": "s-dan",
+      "title": "About DAN",
+      "url": "https://www.poptoyshow.sg/artists/dan",
+      "publisher": "POP TOY SHOW Singapore",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "snippet_only",
+      "access_note": "search-index excerpt; direct open inaccessible",
+      "limits": ""
+    },
+    {
+      "id": "s-nuyou",
+      "title": "专访POP MART潮玩ZSIGA、SWEET BEAN与PINO JELLY人气设计师",
+      "url": "https://www.nuyou.com.sg/lifestyle/pop-mart-artists-share-design-stories-behind-zsiga-sweet-bean-pino-jelly",
+      "publisher": "NUYOU / SPH Media",
+      "published": "2025-10-08",
+      "observed": "2026-10-19",
+      "access": "full",
+      "access_note": "full relevant interview read",
+      "limits": ""
+    },
+    {
+      "id": "s-ttc",
+      "title": "POP MART x PDC Presents Zsiga Walking Into The Forest Blind Box Series",
+      "url": "https://www.thetoychronicle.com/news/pop-mart-x-pdc-presents-zsiga-walking-into-the-forest-blind-box-series/",
+      "publisher": "The Toy Chronicle",
+      "published": "2022-08-05",
+      "observed": "2026-10-19",
+      "access": "full",
+      "access_note": "full relevant article read",
+      "limits": "Not proof of first worldwide launch; writer opinion smash-hit is not sales evidence"
+    },
+    {
+      "id": "s-letitbe",
+      "title": "Zsiga Let It Be Series Figures",
+      "url": "https://www.popmart.com/us/products/1091/zsiga-let-it-be-series-figures",
+      "publisher": "POP MART",
+      "published": "2024-05-17 (product release)",
+      "observed": "2026-10-19",
+      "access": "full",
+      "access_note": "opened product details",
+      "limits": ""
+    },
+    {
+      "id": "s-dream",
+      "title": "Zsiga Dream Destination 1/8 Action Figure",
+      "url": "https://www.popmart.com/us/products/3371/zsiga-dream-destination-1-8-action-figure",
+      "publisher": "POP MART",
+      "published": "2025-06-20 (product release)",
+      "observed": "2026-10-19",
+      "access": "full",
+      "access_note": "opened product details; extracted title mentions Canada despite US path",
+      "limits": ""
+    },
+    {
+      "id": "s-ginger",
+      "title": "Zsiga Gingerbread Man 1/8 Action Figure",
+      "url": "https://www.popmart.com/us/products/4451/zsiga-gingerbread-man-1-8-action-figure",
+      "publisher": "POP MART",
+      "published": "2025-11-20 18:00 PST (official US online release)",
+      "observed": "2026-10-19",
+      "access": "snippet_only",
+      "access_note": "official search-index product details",
+      "limits": ""
+    },
+    {
+      "id": "s-plush",
+      "title": "ZSIGA I'm Zsiga Series-Vinyl Plush Pendant",
+      "url": "https://www.popmart.com/en-US/products/6479/zsiga-i%27m-zsiga-series-vinyl-plush-pendant",
+      "publisher": "POP MART",
+      "published": "2026-06-04 19:00 PST (official US online release)",
+      "observed": "2026-10-19",
+      "access": "snippet_only",
+      "access_note": "official search-index product details",
+      "limits": ""
+    },
+    {
+      "id": "s-mini",
+      "title": "Zsiga Life is a Show Series MINI Action Figure",
+      "url": "https://www.popmart.com/en-US/products/8960/zsiga-life-is-a-show-series-mini-action-figure",
+      "publisher": "POP MART",
+      "published": "2026-09-24 17:00 PST (official US online release)",
+      "observed": "2026-10-19",
+      "access": "snippet_only",
+      "access_note": "official search-index product details",
+      "limits": ""
+    },
+    {
+      "id": "s-righttime",
+      "title": "Zsiga Right on Time 1/8 Action Figure",
+      "url": "https://www.popmart.com/en-US/products/8961/zsiga-right-on-time-1/8-action-figure",
+      "publisher": "POP MART",
+      "published": "2026-09-24 17:00 PST (official US online release)",
+      "observed": "2026-10-19",
+      "access": "snippet_only",
+      "access_note": "official search-index product details",
+      "limits": ""
+    },
+    {
+      "id": "s-annual2025",
+      "title": "POP MART Annual Report 2025",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100394.pdf",
+      "publisher": "POP MART / HKEX",
+      "published": "2026-04-21",
+      "observed": "2026-10-19",
+      "access": "partial",
+      "access_note": "PDF opened; relevant pages extracted and financial table visually checked",
+      "limits": ""
+    },
+    {
+      "id": "s-h12026",
+      "title": "POP MART Interim Results Announcement for Six Months Ended 30 June 2026",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000353.pdf",
+      "publisher": "POP MART / HKEX",
+      "published": "2026-08-20",
+      "observed": "2026-10-19",
+      "access": "partial",
+      "access_note": "PDF opened; p21/p30 read and p30 financial table visually checked",
+      "limits": ""
+    },
+    {
+      "id": "s-qiandao",
+      "title": "我的嘎子姐每日穿搭",
+      "url": "https://qiandao.com/post?postId=1019904268284517465",
+      "publisher": "千岛",
+      "published": "07-11; year not shown",
+      "observed": "2026-10-19",
+      "access": "full",
+      "access_note": "public post text and some comments read",
+      "limits": "one post; displayed 47 likes/8 comments are not representative; no population inference"
+    },
+    {
+      "id": "s-reddit",
+      "title": "Is Zsiga unpopular??",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1wb7wi3/is_zsiga_unpopular/",
+      "publisher": "Reddit r/PopMartCollectors",
+      "published": "page displays 12d ago; exact timestamp not verified",
+      "observed": "2026-10-19",
+      "access": "full",
+      "access_note": "post and visible comments read",
+      "limits": "single self-selected English-language discussion, no representative percentages; comments are opinions not established product defects"
+    },
+    {
+      "id": "s-trends-blocked",
+      "title": "在Zsiga的世界里，做自己的小孩",
+      "url": "https://www.trends.com.cn/lifestyle/entity/10/07e1f65a-00e7-4265-a4bc-389aa8f4216b",
+      "publisher": "时尚网",
+      "published": "2025-06-16 (search index)",
+      "observed": "2026-10-19",
+      "access": "snippet_only",
+      "access_note": "search excerpt only; browser fetch timeout; direct HTTP 503",
+      "limits": ""
+    },
+    {
+      "id": "xhs-search-1",
+      "title": "小红书搜索 Zsiga 嘎子姐",
+      "url": "https://www.xiaohongshu.com/search_result?keyword=Zsiga%20%E5%98%8E%E5%AD%90%E5%A7%90",
+      "publisher": "小红书",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "blocked",
+      "access_note": "主代理本轮访问触发登录门槛；未读取笔记或评论"
+    },
+    {
+      "id": "xhs-search-2",
+      "title": "小红书第二组搜索（检索缺口）",
+      "url": "https://www.xiaohongshu.com/search_result",
+      "publisher": "小红书",
+      "published": null,
+      "observed": "2026-10-19",
+      "access": "blocked",
+      "access_note": "主代理本轮第二组搜索同样登录受阻；仅记录搜索入口，不假定已读结果"
+    }
+  ],
+  "prompt_validation": {
+    "target_image_id": "V01",
+    "status": "partial_reference_match",
+    "flat_gate_passed": false,
+    "text_tests": {
+      "v1": "revise",
+      "v2": "revise"
+    },
+    "reference_assisted_v2": "close_for_this_target_only",
+    "formal_ready_prompts": [],
+    "scope": "参考图辅助v2仅对指定Let It Be种希望气球款的平面形象接近；纯文字基础门槛未通过，不可推广至全IP或其他姿态。",
+    "english_status": "not_tested",
+    "downstream": {
+      "material_render": "blocked_by_flat_gate",
+      "turnaround": "blocked_by_flat_gate",
+      "original_translation": "blocked_by_flat_gate"
+    },
+    "interpretation": "研究重建而非艺术家原始提示词；不说明原作品由AI制作。相似性为本轮目视判断，无精确百分比分数。"
+  },
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/zsiga/2026-10-19/",
+  "archive": "research/zsiga/2026-10-19/index.html",
+  "publication": {
+    "date": "2026-10-19",
+    "destination": "选品板研究库 / GitHub Pages",
+    "user_authorized": true,
+    "note": "经用户确认归档；保留纯文字关卡未通过状态。生成图以768px webp归档，完整原图保留原审阅网页。"
+  }
+}

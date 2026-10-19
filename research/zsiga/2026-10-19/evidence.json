@@ -1,0 +1,276 @@
+{
+  "ip": "Zsiga",
+  "alias": "嘎子姐（社区称呼，未核实为官方中文名）",
+  "accessed_at": "2026-10-19",
+  "scope": "公开资料事实、产品时间线、财报、定性收藏反馈；不含本次受阻的小红书内容，不含视觉复现审核",
+  "sources": [
+    {
+      "id": "s-character",
+      "title": "Zsiga official character collection",
+      "url": "https://www.popmart.com/ch/collections/zsiga/113470cf-b942-4326-99ff-e8363788db3f",
+      "publisher": "POP MART",
+      "published_at": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "search-index-only; direct open inaccessible",
+      "source_type": "official",
+      "supports": [
+        "PDC designer Dandan",
+        "prickly rebellious innocent character",
+        "attitude protects rather than harms",
+        "puppy on anatomical right foot"
+      ]
+    },
+    {
+      "id": "s-catalog",
+      "title": "Zsiga current US collection",
+      "url": "https://www.popmart.com/us/collection/zsiga",
+      "publisher": "POP MART",
+      "published_at": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "opened full relevant text",
+      "source_type": "official",
+      "supports": [
+        "protective attitude and right-foot companion",
+        "current product range and USD list prices only"
+      ]
+    },
+    {
+      "id": "s-dan",
+      "title": "About DAN",
+      "url": "https://www.poptoyshow.sg/artists/dan",
+      "publisher": "POP TOY SHOW Singapore",
+      "published_at": null,
+      "accessed_at": "2026-10-19",
+      "access_status": "search-index excerpt; direct open inaccessible",
+      "source_type": "event-organizer artist profile",
+      "supports": [
+        "Dan is POP MART PDC designer",
+        "observes life and emotions",
+        "puppy mirrors emotions"
+      ]
+    },
+    {
+      "id": "s-nuyou",
+      "title": "专访POP MART潮玩ZSIGA、SWEET BEAN与PINO JELLY人气设计师",
+      "url": "https://www.nuyou.com.sg/lifestyle/pop-mart-artists-share-design-stories-behind-zsiga-sweet-bean-pino-jelly",
+      "publisher": "NUYOU / SPH Media",
+      "author": "Wong Yen Leng",
+      "published_at": "2025-10-08",
+      "accessed_at": "2026-10-19",
+      "access_status": "full relevant interview read",
+      "source_type": "primary artist interview",
+      "supports": [
+        "吾丹丹 author",
+        "personality and form complement each other",
+        "accepting fearful side via Timid Hunter",
+        "character is not literal autobiographical portrait"
+      ]
+    },
+    {
+      "id": "s-ttc",
+      "title": "POP MART x PDC Presents Zsiga Walking Into The Forest Blind Box Series",
+      "url": "https://www.thetoychronicle.com/news/pop-mart-x-pdc-presents-zsiga-walking-into-the-forest-blind-box-series/",
+      "publisher": "The Toy Chronicle",
+      "author": "Andy",
+      "published_at": "2022-08-05",
+      "accessed_at": "2026-10-19",
+      "access_status": "full relevant article read",
+      "source_type": "contemporaneous toy trade publication; disclosed affiliate links",
+      "supports": [
+        "Zsiga available in 2022",
+        "12 regular plus 1 chase",
+        "announced August 10 2022 10 PT release"
+      ],
+      "limitations": "Not proof of first worldwide launch; writer opinion smash-hit is not sales evidence"
+    },
+    {
+      "id": "s-letitbe",
+      "title": "Zsiga Let It Be Series Figures",
+      "url": "https://www.popmart.com/us/products/1091/zsiga-let-it-be-series-figures",
+      "publisher": "POP MART",
+      "published_at": "2024-05-17 (product release)",
+      "accessed_at": "2026-10-19",
+      "access_status": "opened product details",
+      "source_type": "official product",
+      "supports": [
+        "6.9–9.3 cm",
+        "PVC/ABS/magnet",
+        "May 17 2024 release"
+      ]
+    },
+    {
+      "id": "s-dream",
+      "title": "Zsiga Dream Destination 1/8 Action Figure",
+      "url": "https://www.popmart.com/us/products/3371/zsiga-dream-destination-1-8-action-figure",
+      "publisher": "POP MART",
+      "published_at": "2025-06-20 (product release)",
+      "accessed_at": "2026-10-19",
+      "access_status": "opened product details; extracted title mentions Canada despite US path",
+      "source_type": "official product",
+      "supports": [
+        "20 cm without accessories / 23 cm with hat",
+        "PVC/ABS/PS/Nylon/Polyester/Magnet/Hardware/Plant Fiber",
+        "June 20 2025 release"
+      ]
+    },
+    {
+      "id": "s-ginger",
+      "title": "Zsiga Gingerbread Man 1/8 Action Figure",
+      "url": "https://www.popmart.com/us/products/4451/zsiga-gingerbread-man-1-8-action-figure",
+      "publisher": "POP MART",
+      "published_at": "2025-11-20 18:00 PST (official US online release)",
+      "accessed_at": "2026-10-19",
+      "access_status": "official search-index product details",
+      "source_type": "official product",
+      "supports": [
+        "20 cm without accessories",
+        "PVC/ABS/PC/Nylon/Hardware/Polyester/Cotton"
+      ]
+    },
+    {
+      "id": "s-plush",
+      "title": "ZSIGA I'm Zsiga Series-Vinyl Plush Pendant",
+      "url": "https://www.popmart.com/en-US/products/6479/zsiga-i%27m-zsiga-series-vinyl-plush-pendant",
+      "publisher": "POP MART",
+      "published_at": "2026-06-04 19:00 PST (official US online release)",
+      "accessed_at": "2026-10-19",
+      "access_status": "official search-index product details",
+      "source_type": "official product",
+      "supports": [
+        "16.5cm body to ear tip / 21cm including strap and ring",
+        "Polyester/PVC/PU, polyester filling",
+        "six named regular styles plus Fearless secret"
+      ]
+    },
+    {
+      "id": "s-mini",
+      "title": "Zsiga Life is a Show Series MINI Action Figure",
+      "url": "https://www.popmart.com/en-US/products/8960/zsiga-life-is-a-show-series-mini-action-figure",
+      "publisher": "POP MART",
+      "published_at": "2026-09-24 17:00 PST (official US online release)",
+      "accessed_at": "2026-10-19",
+      "access_status": "official search-index product details",
+      "source_type": "official product",
+      "supports": [
+        "10cm without accessories",
+        "PVC/POK/ABS/PU/Polyester/Magnet",
+        "eight regular style names plus Finding My Way secret"
+      ]
+    },
+    {
+      "id": "s-righttime",
+      "title": "Zsiga Right on Time 1/8 Action Figure",
+      "url": "https://www.popmart.com/en-US/products/8961/zsiga-right-on-time-1/8-action-figure",
+      "publisher": "POP MART",
+      "published_at": "2026-09-24 17:00 PST (official US online release)",
+      "accessed_at": "2026-10-19",
+      "access_status": "official search-index product details",
+      "source_type": "official product",
+      "supports": [
+        "20cm without accessories",
+        "PVC/ABS/POK/Metal/Polyester"
+      ]
+    },
+    {
+      "id": "s-annual2025",
+      "title": "POP MART Annual Report 2025",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100394.pdf",
+      "publisher": "POP MART / HKEX",
+      "published_at": "2026-04-21",
+      "accessed_at": "2026-10-19",
+      "access_status": "PDF opened; relevant pages extracted and financial table visually checked",
+      "source_type": "official annual report",
+      "pages": "printed p27 / PDF page28 revenue table; printed p18 / PDF page19 IP events",
+      "supports": [
+        "Zsiga not separately listed in 2025 annual IP revenue table",
+        "Zsiga part of city landmark and cultural tourism activities in 2025"
+      ]
+    },
+    {
+      "id": "s-h12026",
+      "title": "POP MART Interim Results Announcement for Six Months Ended 30 June 2026",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000353.pdf",
+      "publisher": "POP MART / HKEX",
+      "published_at": "2026-08-20",
+      "accessed_at": "2026-10-19",
+      "access_status": "PDF opened; p21/p30 read and p30 financial table visually checked",
+      "source_type": "official unaudited interim announcement",
+      "pages": "p30 revenue; p21 plush discussion",
+      "supports": [
+        "Zsiga 2026H1 revenue RMB298341 thousand / 1.7%",
+        "2025H1 comparison RMB211256 thousand / 1.5%",
+        "company says first plush pendants launched H1 2026"
+      ]
+    },
+    {
+      "id": "s-qiandao",
+      "title": "我的嘎子姐每日穿搭",
+      "url": "https://qiandao.com/post?postId=1019904268284517465",
+      "publisher": "千岛",
+      "author": "糖糖屋",
+      "published_at": "07-11; year not shown",
+      "accessed_at": "2026-10-19",
+      "access_status": "public post text and some comments read",
+      "source_type": "individual user post",
+      "supports": [
+        "nickname usage",
+        "one user describes frequent outfit changing"
+      ],
+      "limitations": "one post; displayed 47 likes/8 comments are not representative; no population inference"
+    },
+    {
+      "id": "s-reddit",
+      "title": "Is Zsiga unpopular??",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1wb7wi3/is_zsiga_unpopular/",
+      "publisher": "Reddit r/PopMartCollectors",
+      "published_at": "page displays 12d ago; exact timestamp not verified",
+      "accessed_at": "2026-10-19",
+      "access_status": "post and visible comments read",
+      "source_type": "qualitative community discussion",
+      "supports": [
+        "some users reject foot companion",
+        "some prefer selected confirmed figures over full series",
+        "one longtime fan dislikes sweeter recent direction",
+        "some figure collectors do not buy plush"
+      ],
+      "limitations": "single self-selected English-language discussion, no representative percentages; comments are opinions not established product defects"
+    },
+    {
+      "id": "s-trends-blocked",
+      "title": "在Zsiga的世界里，做自己的小孩",
+      "url": "https://www.trends.com.cn/lifestyle/entity/10/07e1f65a-00e7-4265-a4bc-389aa8f4216b",
+      "publisher": "时尚网",
+      "published_at": "2025-06-16 (search index)",
+      "accessed_at": "2026-10-19",
+      "access_status": "search excerpt only; browser fetch timeout; direct HTTP 503",
+      "source_type": "interview lead not used for detailed claims",
+      "supports": []
+    }
+  ],
+  "metrics": {
+    "currency": "CNY",
+    "unit": "thousand yuan",
+    "h1_2026_revenue": 298341,
+    "h1_2025_comparison_revenue": 211256,
+    "h1_2026_group_share_percent": 1.7,
+    "h1_2025_group_share_percent": 1.5,
+    "yoy_growth_calculated_percent": 41.22,
+    "calculation": "(298341/211256-1)*100; analyst calculation, not quoted published growth",
+    "annual_2025_standalone_revenue": null,
+    "annual_2025_note": "not separately listed; cannot allocate Other artist IPs bucket"
+  },
+  "unverified": [
+    "exact global first launch date",
+    "first drawing date",
+    "July18 official birthday",
+    "cat startled at friend's house origin story",
+    "specific copyright registration and rights split",
+    "China original retail prices",
+    "secondary-market transaction distributions",
+    "SKU unit sales",
+    "repurchase and churn rates",
+    "audience gender/age percentages",
+    "quality complaint rate",
+    "Xiaohongshu comments this session"
+  ]
+}
