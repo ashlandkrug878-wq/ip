@@ -1,0 +1,403 @@
+{
+  "id": "hacipupu",
+  "name": "HACIPUPU 哈奇噗噗",
+  "aliases": [
+    "Hacipupu",
+    "哈奇噗噗"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-20",
+  "updated": "2026-10-20",
+  "summary": "以幼童面部、精灵耳与细小鼻涕建立童心表达，借主题外壳和挂件拓展日常陪伴。已核商业数字和5张官方图；4轮平面实测，参考辅助限定接近，纯文字未通过。",
+  "owner": {
+    "creator": "Agee & Yep",
+    "operator": "POP MART 泡泡玛特",
+    "relation": "2022年报称新签约IP；2025财报列Artist IPs，具体版权及授权合同未公开核实",
+    "since": "2022",
+    "sources": [
+      "A01",
+      "A05",
+      "A06"
+    ]
+  },
+  "origin": {
+    "path": [
+      "艺术家潮玩",
+      "渠道孵化"
+    ],
+    "year": "2020",
+    "story": "2022品牌供稿称创作于2020；首系列于2022年7月上市。原始草图和最初发布平台未知。",
+    "sources": [
+      "A03",
+      "A04"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2020",
+      "event": "品牌2022年供稿自报角色诞生；尚无当年草图记录。",
+      "type": "self_report",
+      "sources": [
+        "A04"
+      ]
+    },
+    {
+      "date": "2022-07-28",
+      "event": "《幼稚园成长日记》首系列线上上架。",
+      "type": "self_report",
+      "sources": [
+        "A04"
+      ]
+    },
+    {
+      "date": "2022-07-29",
+      "event": "首系列线下开售；与线上时间分开。",
+      "type": "self_report",
+      "sources": [
+        "A04"
+      ]
+    },
+    {
+      "date": "2022年度",
+      "event": "公司年报称当年新签约IP，没有披露精确合同日。",
+      "type": "fact",
+      "sources": [
+        "A05"
+      ]
+    },
+    {
+      "date": "2024-02-08",
+      "event": "The Sweetheart Figure官网发售日，本轮平面锁定款。",
+      "type": "fact",
+      "sources": [
+        "S01"
+      ]
+    },
+    {
+      "date": "2025-02-17",
+      "event": "GQ发表两位创作者访谈，解释分工及五官设计。",
+      "type": "self_report",
+      "sources": [
+        "A02"
+      ]
+    },
+    {
+      "date": "2025-06-20",
+      "event": "Gummy Bear香味搪胶毛绒挂件发售。",
+      "type": "fact",
+      "sources": [
+        "A08"
+      ]
+    },
+    {
+      "date": "2025-09 / 11",
+      "event": "加拿大官网分别列STITCH 1/8、Little Foodie 1/12可动人偶上市。",
+      "type": "fact",
+      "sources": [
+        "A10",
+        "A12"
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "event": "作者访谈谈及未来探索成长、孤独、勇气等题材；不是已上映故事。",
+      "type": "self_report",
+      "sources": [
+        "A03"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "把童心带在身边，给想象留一个位置。",
+    "sentence_type": "陪伴",
+    "basis": "inferred",
+    "sources": [
+      "A01",
+      "A02",
+      "A03"
+    ]
+  },
+  "core": {
+    "personality": "安静、礼貌、爱想象",
+    "emotion": "内收",
+    "action": "与玩偶说话、给玩具起名、和小动物交朋友",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "桌面陈列、包上携带与独处片刻",
+    "behavior": "挑颜色、表情、气味，也有人不愿为指定款接受盲盒",
+    "state": "希望保留一点不必成熟的轻松",
+    "conflict": "成人日常的要求与童年想象之间的距离",
+    "unsaid": "我可以长大，也可以喜欢小小的东西",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "人口结构未知；商品15岁以上提示不是购买者调查",
+    "where": "官方零售、作者活动、收藏者讨论；本轮小红书未读到笔记",
+    "buy": "2025按IP收入可核，单SKU销量及复购未知",
+    "signs": "双眼皮、鼻涕、精灵耳和不同主题外壳；不编造粉丝黑话",
+    "share": "Reddit原帖分别比较香味、表情、颜色，个案显示细分评价",
+    "breakout": "毛绒挂件与联名商品可核，破圈贡献无法量化"
+  },
+  "pendulum": {
+    "position": "软萌治愈",
+    "against": "研究归纳：提供轻柔、稚气与想象的入口；没有证据证明它是对某一时代主流的直接反动。"
+  },
+  "form": {
+    "archetype": "类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "五官",
+      "头型"
+    ],
+    "mark": "幼童脸＋细双眼皮＋小鼻涕＋短精灵耳的组合，服装可能遮耳",
+    "face": "大眼白与圆瞳、短眉小嘴；眼色和开闭状态随款式变化",
+    "emotion": "内收",
+    "odd": "现实幼童脸混入精灵耳，并保留流鼻涕的小不完美",
+    "density": "中等",
+    "naming": "其他",
+    "note": "HACI由作者解释为喷嚏声；不推断中文音译为唯一官方命名规则",
+    "group": "单角色"
+  },
+  "collide_combo": "不要整组复制短宽幼童脸、具体双眼皮眼型、尖耳、白色鼻涕及块状刘海的比例关系；换帽换色不足以原创。",
+  "color": {
+    "mode": "多色系列",
+    "main": "Sweetheart为棕、粉、淡紫、奶白；Gummy Bear按口味换主色，星座款又不同",
+    "signature": "没有取得全IP官方签名色；较稳定的是浅脸与深眼的明暗关系，隐藏款闭眼例外",
+    "notes": "网页HEX为V01目视估计，非像素取色、官方色号或生产标准"
+  },
+  "materials": "Sweetheart为PVC/ABS；Gummy Bear为PVC/聚酯/TPE及EVA香珠；星座挂件为聚酯和PVC。商品规格与图中外观分开，未查看内部结构。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "其他",
+    "note": "挂件与生活用品扩展；作者称最初有插画，但未取得原始二维图"
+  },
+  "product": {
+    "first_category": "盲盒手办",
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "2026-10-20加拿大官网目录：星座C$26.99、Gummy Bear C$36.99、Little Foodie C$79.99、STITCH C$109.99；动态地区标价，不等于中国价或历史首发价。",
+    "sources": [
+      "A04",
+      "A09",
+      "A10",
+      "A12"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "HACIPUPU收入（集团按IP归集）",
+      "value": 224288,
+      "unit": "人民币千元",
+      "period": "2024全年",
+      "group_share_percent": 1.7,
+      "type": "fact",
+      "sources": [
+        "A06"
+      ]
+    },
+    {
+      "metric": "HACIPUPU收入（集团按IP归集）",
+      "value": 848021,
+      "unit": "人民币千元",
+      "period": "2025全年",
+      "group_share_percent": 2.3,
+      "type": "fact",
+      "sources": [
+        "A06"
+      ]
+    },
+    {
+      "metric": "HACIPUPU收入（集团按IP归集）",
+      "value": null,
+      "unit": "人民币千元",
+      "period": "2026上半年",
+      "group_share_percent": null,
+      "type": "fact",
+      "sources": [
+        "A07"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "幼童的亲近感加一点不完美，让“保持童心”变得具体。",
+      "type": "inference",
+      "evidence": "V01的双眼皮、短精灵耳与细小鼻涕；作者解释鼻涕与童年、耳朵与想象力。",
+      "boundary": "不是每款都露耳或睁眼；视觉亲近感不等于已证明的购买因果。",
+      "sources": [
+        "A02",
+        "S01"
+      ]
+    },
+    {
+      "claim": "把脸保留在主题外壳中，用服装与配色延长系列。",
+      "type": "inference",
+      "evidence": "V01甜点星球、V02/V03水果熊服、V06/V07星座头部挂件，主题和载体变化明显。",
+      "boundary": "颜色、眼色、开闭眼和耳是否露出均会改变，不能用一个SKU定义母版。",
+      "sources": [
+        "S01",
+        "A08",
+        "A09"
+      ]
+    },
+    {
+      "claim": "从观看到携带、触摸和闻香，让陪伴发生在日常。",
+      "type": "inference",
+      "evidence": "官网香珠材料、挂环和毛绒载体；用户称挂在包上，并分别评价香味与颜色。",
+      "boundary": "香味也会产生反感；未证明它是收入增长的主因，不能将用户主观气味反馈当安全检测。",
+      "sources": [
+        "A08",
+        "A11"
+      ]
+    }
+  ],
+  "counterexamples": "用户对香味喜好与强弱存在分歧；有喜欢指定颜色但拒绝盲盒的个案。未取得失败系列销量或可靠问题率。首发售罄稿为广告供稿，不作全国爆款统计。",
+  "theory": {
+    "shell": "童颜与微小不完美建立亲近感，精灵耳加入想象；具体比例组合有辨识性。",
+    "core": "安静、童真、对玩具和动物的亲近，不只是一种悲伤情绪。",
+    "shadow": "大头、大眼、腮红、熊服、低饱和色属于常见元素；差异要看组合、设定、持续主题和产品体验，不凭共性断言抄袭。",
+    "two_layers": {
+      "surface": "软乎乎的外壳与幼童脸可能吸引路人，仍属待验证机制。",
+      "deep": "收藏者可比较款式表情、口味、隐藏款和不同载体；本轮只有局部讨论证据。"
+    },
+    "validation": "按IP收入支持付费规模；用户原帖支持局部携带与偏好，不支持总体画像；无连续粉丝增长或转化数据。"
+  },
+  "for_skills": {
+    "lab": "借鉴把“保持童心”落到具体日常动作；新表达从独立处境出发，不照搬角色故事。",
+    "form": "可以研究轻微不完美如何丰富亲近感；新角色另定原型、比例、面部与记忆点，避开识别组合。",
+    "studio": "把陈列、携带、触感、气味分别验证，香味应保留无香选项的测试假设；本轮仅指定SKU参考辅助平面，不发布实物延展。"
+  },
+  "gaps": [
+    "2020原始草图、精确创作日及完整早期改版链未取得；首发公告两张配图下载403，未作直接观察。",
+    "作者实名、年龄、国籍、工作室法律关系和具体授权合同未知；新签约不等于全版权收购。",
+    "小红书已连接并打开首页，但搜索填写及截图多次超时；未取得站内搜索结果和笔记，不能声称完成社媒交叉验证。",
+    "5张已看官方图偏重正面商品；缺标准侧背面、原始二维设定、完整系列、用户实拍及长期内容样本。",
+    "2026H1未单列收入，2026全年未知；单品销量、利润、版税、买家人口结构与复购率未知。",
+    "两轮纯文字未通过，参考辅助V2仅接近Sweetheart指定SKU；仍有轻微轮廓、眼睑和局部渐变差异。",
+    "英文、原创黑白找形、实物概念均未生成未验证；本轮不进入下游延展。"
+  ],
+  "sources": [
+    {
+      "id": "A01",
+      "title": "HACIPUPU official artist biography and IP story",
+      "url": "https://www.popmart.com/my/ip/hacipupu/a870fc07-6e0a-4d7d-b79f-8c28532bb081",
+      "publisher": "POP MART Malaysia",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A02",
+      "title": "GQ Thailand interview with Agee & Yep",
+      "url": "https://gqthailand.com/article/interview-hacipupu-agee-and-yep",
+      "publisher": "GQ Thailand／เฉลิมพล ตั้งศิริสกุล",
+      "published": "2025-02-17",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A03",
+      "title": "Behind The Face Of HACIPUPU",
+      "url": "https://www.businesstoday.com.my/2026/09/10/behind-the-face-of-hacipupu/",
+      "publisher": "BusinessToday／Carrine Yem",
+      "published": "2026-09-10",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A04",
+      "title": "泡泡玛特又一新IP表现强劲，HACIPUPU上市当天多店售罄",
+      "url": "https://www.iheima.com/article-341464.html",
+      "publisher": "泡泡玛特供稿／i黑马广告栏目",
+      "published": "2022-07-29",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A05",
+      "title": "POP MART 2022 Annual Report",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0421/2023042100897.pdf",
+      "publisher": "POP MART／HKEXnews",
+      "published": "2023-04-21",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A06",
+      "title": "POP MART annual results for year ended 31 December 2025",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0325/2026032500285.pdf",
+      "publisher": "POP MART／HKEXnews",
+      "published": "2026-03-25",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A07",
+      "title": "POP MART interim results for six months ended 30 June 2026",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000353.pdf",
+      "publisher": "POP MART／HKEXnews",
+      "published": "2026-08-20",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A08",
+      "title": "HACIPUPU Gummy Bear Series—official product",
+      "url": "https://www.popmart.com/en-US/products/2780/hacipupu-gummy-bear-series-vinyl-plush-pendant-blind-box",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A09",
+      "title": "HACIPUPU The Constellation Series—official product",
+      "url": "https://www.popmart.com/ca/products/1598",
+      "publisher": "POP MART Canada",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A10",
+      "title": "HACIPUPU Little Foodie Series 1/12 Action Figure",
+      "url": "https://www.popmart.com/ca/products/4503",
+      "publisher": "POP MART Canada",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A11",
+      "title": "Hacipupu Gummy Bear Review",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1lqxwju/hacipupu_gummy_bear_review/",
+      "publisher": "Reddit r/PopMartCollectors／用户原帖与评论",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A12",
+      "title": "HACIPUPU STITCH 1/8 Action Figure",
+      "url": "https://www.popmart.com/ca/products/3972/hacipupu-stitch-1/8-action-figure",
+      "publisher": "POP MART Canada",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "S01",
+      "title": "The Sweetheart Figure 官方商品页",
+      "url": "https://www.popmart.com/us/products/950/hacipupu-the-sweetheart-figure",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "partial"
+    }
+  ],
+  "archive": "research/hacipupu/2026-10-20/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/hacipupu/2026-10-20/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/hacipupu/2026-10-20/"
+}

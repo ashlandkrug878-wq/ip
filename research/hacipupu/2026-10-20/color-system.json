@@ -1,0 +1,34 @@
+{
+  "scope": "V01 Sweetheart单款",
+  "method": "目视估计，未做像素取色；非官方色卡",
+  "palette": [
+    {
+      "role": "棕帽／巧克力",
+      "hex": "#A47656",
+      "description": "暖棕主块"
+    },
+    {
+      "role": "星球／粉色",
+      "hex": "#EEA2AB",
+      "description": "中浅粉主体"
+    },
+    {
+      "role": "头发／星环",
+      "hex": "#C7BEDB",
+      "description": "灰紫衬色"
+    },
+    {
+      "role": "肤色",
+      "hex": "#F4DCC6",
+      "description": "浅暖米"
+    },
+    {
+      "role": "衣服／底座",
+      "hex": "#F7F0DC",
+      "description": "奶白留白"
+    }
+  ],
+  "area_percent": null,
+  "cross_sample": "V02/V03按口味改变毛色、发色、眼色；V06/V07为白金粉关系。不存在本轮可证的全IP固定粉棕色。",
+  "production": "未指定PANTONE、涂装配方和色差公差，需实样另测。"
+}

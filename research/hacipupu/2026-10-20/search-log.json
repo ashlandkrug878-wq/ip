@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-20",
+  "public_research": "官方人物、商品页、创作者原访谈、品牌供稿、财报和用户原帖",
+  "xiaohongshu": {
+    "status": "blocked_after_connection",
+    "connection": "已打开登录状态首页；填写搜索及截图请求超时，恢复读取仍为首页",
+    "queries": [
+      {
+        "query": "HACIPUPU 品牌介绍",
+        "status": "attempted_no_results"
+      },
+      {
+        "query": "HACIPUPU 产品汇总",
+        "status": "not_executed_after_repeated_timeouts"
+      }
+    ],
+    "notes_read": 0
+  },
+  "unavailable_images": [
+    {
+      "image_id": "V04",
+      "url": "https://upload.iheima.com/2022/0729/1659086848426.png",
+      "status": "403_not_visually_inspected"
+    },
+    {
+      "image_id": "V05",
+      "url": "https://upload.iheima.com/2022/0729/1659086848776.png",
+      "status": "403_not_visually_inspected"
+    }
+  ],
+  "conflicts": [
+    {
+      "url": "https://www.popmart.com/en-MO/products/97/",
+      "status": "搜索摘要可见，open两次失败",
+      "claims": "摘要列幼稚园Jul 28, 2022，ABS/PVC，7.4–8.1cm，12盒。",
+      "boundary": "未取得正文，不作为规格最终确认；不能把97直接换成其他地区路径，US97目前是MOLLY商品。"
+    },
+    {
+      "url": "https://www.nuyou.com.sg/lifestyle/popmart-top-10-popular-ips",
+      "status": "仅搜索摘要",
+      "claims": "摘要写2020以盲盒亮相",
+      "boundary": "与2022当年品牌供稿的2020创作/2022首发混淆，不采。"
+    },
+    {
+      "url": "https://toysez.com/collections/hacipupu",
+      "status": "仅搜索摘要",
+      "claims": "2021推出，作者属于PINKBOOMSTUDIO",
+      "boundary": "非一手，不采用2021及工作室法律关系。"
+    },
+    {
+      "url": "https://www.poptoyshow.sg/artists/agee--yep",
+      "status": "打开重定向会展首页",
+      "boundary": "旧索引不能当已读艺术家正文。"
+    }
+  ]
+}
