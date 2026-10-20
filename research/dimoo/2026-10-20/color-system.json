@@ -1,0 +1,117 @@
+[
+  {
+    "palette_id": "innocence-preview",
+    "color_id": "C01",
+    "name": "灰浅紫",
+    "hex_preview": "#D9D3E5",
+    "role": "主色",
+    "scope": "series_palette",
+    "surface_or_region": "V06云发与服装",
+    "image_ids": [
+      "V06"
+    ],
+    "evidence_ids": [
+      "S03"
+    ],
+    "value_basis": "视觉估计",
+    "sample_method": "无像素测量；已查看800px官方图后作屏幕近似",
+    "sample_coordinates_or_mask": null,
+    "area_description": "定性分区，未分割面积",
+    "area_basis": "视觉观察",
+    "material_context": "官方商品照片，纤维、光滑表面与灯光影响",
+    "variation_boundary": "仅V06配色；其他系列不得套用",
+    "uncertainty": "非官方色值、非实物色卡、非生产验收依据"
+  },
+  {
+    "palette_id": "innocence-preview",
+    "color_id": "C02",
+    "name": "桃肤",
+    "hex_preview": "#F6C6AE",
+    "role": "中性色",
+    "scope": "recurring_identity",
+    "surface_or_region": "脸、手、足",
+    "image_ids": [
+      "V06"
+    ],
+    "evidence_ids": [
+      "S03"
+    ],
+    "value_basis": "视觉估计",
+    "sample_method": "无像素测量；已查看800px官方图后作屏幕近似",
+    "sample_coordinates_or_mask": null,
+    "area_description": "定性分区，未分割面积",
+    "area_basis": "视觉观察",
+    "material_context": "官方商品照片，纤维、光滑表面与灯光影响",
+    "variation_boundary": "仅V06配色；其他系列不得套用",
+    "uncertainty": "非官方色值、非实物色卡、非生产验收依据"
+  },
+  {
+    "palette_id": "innocence-preview",
+    "color_id": "C03",
+    "name": "紫蓝",
+    "hex_preview": "#57466B",
+    "role": "五官色",
+    "scope": "series_palette",
+    "surface_or_region": "V06虹膜",
+    "image_ids": [
+      "V06"
+    ],
+    "evidence_ids": [
+      "S03"
+    ],
+    "value_basis": "视觉估计",
+    "sample_method": "无像素测量；已查看800px官方图后作屏幕近似",
+    "sample_coordinates_or_mask": null,
+    "area_description": "定性分区，未分割面积",
+    "area_basis": "视觉观察",
+    "material_context": "官方商品照片，纤维、光滑表面与灯光影响",
+    "variation_boundary": "仅V06配色；其他系列不得套用",
+    "uncertainty": "非官方色值、非实物色卡、非生产验收依据"
+  },
+  {
+    "palette_id": "innocence-preview",
+    "color_id": "C04",
+    "name": "梅子粉",
+    "hex_preview": "#B36698",
+    "role": "辅助色",
+    "scope": "series_palette",
+    "surface_or_region": "V06领边与领结",
+    "image_ids": [
+      "V06"
+    ],
+    "evidence_ids": [
+      "S03"
+    ],
+    "value_basis": "视觉估计",
+    "sample_method": "无像素测量；已查看800px官方图后作屏幕近似",
+    "sample_coordinates_or_mask": null,
+    "area_description": "定性分区，未分割面积",
+    "area_basis": "视觉观察",
+    "material_context": "官方商品照片，纤维、光滑表面与灯光影响",
+    "variation_boundary": "仅V06配色；其他系列不得套用",
+    "uncertainty": "非官方色值、非实物色卡、非生产验收依据"
+  },
+  {
+    "palette_id": "innocence-preview",
+    "color_id": "C05",
+    "name": "淡蓝",
+    "hex_preview": "#C5DEED",
+    "role": "点缀色",
+    "scope": "series_palette",
+    "surface_or_region": "V06眼白窄月牙",
+    "image_ids": [
+      "V06"
+    ],
+    "evidence_ids": [
+      "S03"
+    ],
+    "value_basis": "视觉估计",
+    "sample_method": "无像素测量；已查看800px官方图后作屏幕近似",
+    "sample_coordinates_or_mask": null,
+    "area_description": "定性分区，未分割面积",
+    "area_basis": "视觉观察",
+    "material_context": "官方商品照片，纤维、光滑表面与灯光影响",
+    "variation_boundary": "仅V06配色；其他系列不得套用",
+    "uncertainty": "非官方色值、非实物色卡、非生产验收依据"
+  }
+]

@@ -1,0 +1,436 @@
+{
+  "id": "dimoo",
+  "name": "DIMOO",
+  "aliases": [
+    "DIMOO WORLD",
+    "迪莫"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-20",
+  "updated": "2026-10-20",
+  "summary": "云伙伴进入头部轮廓，稳定面部承接不断变化的梦境系列。已完成起源、权属、商业与6图研究；4轮平面实测后参考辅助接近，纯文字未通过。",
+  "owner": {
+    "creator": "AYAN DENG／Ayan（邓飞燕）",
+    "operator": "POP MART 泡泡玛特",
+    "relation": "2020招股书列为收购自有IP；当前合同细则、金额及精确转让日未知",
+    "since": null,
+    "sources": [
+      "A01",
+      "A02",
+      "A08"
+    ]
+  },
+  "origin": {
+    "path": [
+      "网络插画",
+      "艺术家潮玩"
+    ],
+    "year": "2017",
+    "note": "品牌回溯口径；2018早期媒体另记2016，保留冲突",
+    "story": "作者先做平面，再转为立体；怕生男孩与云伙伴共同冒险。2019为首个合作盲盒，非角色出生年。",
+    "sources": [
+      "A03",
+      "A05",
+      "A06"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2016／2017",
+      "event": "创作起点存在口径差：2018早期媒体记2016；2019与2024品牌回溯记2017。",
+      "type": "self_report",
+      "sources": [
+        "A03",
+        "A04",
+        "A05"
+      ]
+    },
+    {
+      "date": "2017",
+      "event": "公司团队采访称展会发现并签下，开始孵化；不是取得了当年合同。",
+      "type": "self_report",
+      "sources": [
+        "A07"
+      ]
+    },
+    {
+      "date": "2017-05／2018-07",
+      "event": "早期媒体记2017年5月作品发售；2018年已有DIMOO WORLD展览。",
+      "type": "fact",
+      "sources": [
+        "A05"
+      ]
+    },
+    {
+      "date": "2019-07-27",
+      "event": "《迷途动物》在北京首发：首个与泡泡玛特合作的盲盒系列。",
+      "type": "fact",
+      "sources": [
+        "A04"
+      ]
+    },
+    {
+      "date": "2020-12-01",
+      "event": "招股书列为收购自有IP；作者表的关系年限为1年。精确转让日期未知。",
+      "type": "fact",
+      "sources": [
+        "A08"
+      ]
+    },
+    {
+      "date": "2024-04",
+      "event": "澳大利亚主题快闪、作者签售与袋鼠限定产品。",
+      "type": "fact",
+      "sources": [
+        "A03"
+      ]
+    },
+    {
+      "date": "2025—2026",
+      "event": "系列、联名与载体继续扩展；2026公告提及DIMOO WORLD CLOUDLAKE乐园区域。",
+      "type": "fact",
+      "sources": [
+        "A09",
+        "A10"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "害怕也没关系，有伙伴就能向前一点。",
+    "sentence_type": "陪伴",
+    "basis": "inferred",
+    "sources": [
+      "A06"
+    ]
+  },
+  "core": {
+    "personality": "怕生、好奇、愿意探索",
+    "emotion": "内收",
+    "action": "与云伙伴一起进入陌生梦境",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "桌面陈列、携带挂件、挑选对应个人状态的款式",
+    "behavior": "从一个主题款入门，可能进一步关注系列与作者",
+    "state": "想保留柔软，也想尝试陌生事物",
+    "conflict": "害怕变化与好奇心同时存在",
+    "unsaid": "我不必先成为勇敢的人才能出发",
+    "basis": "inferred，待用户研究验证"
+  },
+  "circle": {
+    "who": "人口分布未知；15岁以上为产品适用提示，不能当买家画像",
+    "where": "官方零售、签售快闪、线上收藏讨论；本轮无小红书站内样本",
+    "buy": "集团IP收入可核；单款复购与动机未知",
+    "signs": "云伙伴、系列款名、作者签绘；不编粉丝黑话",
+    "share": "签售和限定款有品牌公开案例，非随机抽样",
+    "breakout": "澳洲主题活动可核，增量购买归因未知"
+  },
+  "pendulum": {
+    "position": "软萌治愈",
+    "against": "研究观察：在强势、外放表达之外提供内向探索的入口；不是已证实的行业周期因果"
+  },
+  "form": {
+    "archetype": "类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "头顶",
+      "五官"
+    ],
+    "mark": "可变云形伙伴与短宽脸、大眼构成组合；云不只是发型",
+    "face": "大眼占据脸的主要注意区，鼻嘴小；眼睛可开可闭，眼色和化妆可变",
+    "emotion": "内收",
+    "odd": "男孩与另一生命共用头部轮廓",
+    "density": "中等",
+    "naming": "其他",
+    "group": "单角色",
+    "note": "本卡研究核心男孩；DIMOO WORLD世界中存在其他伙伴，不声称宇宙仅一个角色"
+  },
+  "collide_combo": "不能整体搬用云伙伴头发＋特定大眼短宽脸＋小鼻短嘴＋幼态比例组合；换衣换色不足以原创。",
+  "color": {
+    "mode": "多色系列",
+    "main": "不同主题的粉、紫、蓝、绿、米白等",
+    "signature": "本轮未证实单一官方固定色；浅肤色与深眼部对比更稳定",
+    "notes": "色值是视觉估计，仅作屏幕研究预览；未取得官方色卡。"
+  },
+  "materials": "Weaving Wonders与The Missing Day系列规格PVC/ABS；Journal of New Life为聚酯纤维/PVC/ABS，填充含聚酯纤维/ABS/PU。具体部位对应不由照片推断。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "授权图案"
+  },
+  "product": {
+    "first_category": null,
+    "first_category_note": "早期作品有售卖报道但最早SKU与材质未核；2019首次合作盲盒可核",
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "美国官方目录索引：Journal of New Life挂件26.99美元；相关商品栏可读手办19.99、Dating小毛绒46.99美元。非中国价、非实时成交价。",
+    "sources": [
+      "A04",
+      "A05",
+      "S01",
+      "S02",
+      "S03",
+      "S04"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "DIMOO收入（集团按IP确认）",
+      "value": 909561,
+      "unit": "人民币千元",
+      "period": "2024全年",
+      "type": "fact",
+      "sources": [
+        "A09"
+      ],
+      "group_share_percent": 7.0
+    },
+    {
+      "metric": "DIMOO收入（集团按IP确认）",
+      "value": 2776695,
+      "unit": "人民币千元",
+      "period": "2025全年",
+      "type": "fact",
+      "sources": [
+        "A09"
+      ],
+      "group_share_percent": 7.5
+    },
+    {
+      "metric": "DIMOO收入（集团按IP确认）",
+      "value": 1105135,
+      "unit": "人民币千元",
+      "period": "2025上半年",
+      "type": "fact",
+      "sources": [
+        "A10"
+      ],
+      "group_share_percent": 8.0
+    },
+    {
+      "metric": "DIMOO收入（集团按IP确认）",
+      "value": 1619217,
+      "unit": "人民币千元",
+      "period": "2026上半年（未经审核）",
+      "type": "fact",
+      "sources": [
+        "A10"
+      ],
+      "group_share_percent": 9.4
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "伙伴直接进入角色轮廓，让故事关系成为可变化的外形结构。",
+      "type": "inference",
+      "evidence": "作者描述男孩与云共生；不同系列云形可变，脸部持续提供识别。",
+      "boundary": "不是所有变形都能保留身份；需要单款测试，不证明云形导致销售。",
+      "sources": [
+        "A06",
+        "A07",
+        "S01",
+        "S02",
+        "S03"
+      ]
+    },
+    {
+      "claim": "固定面部关系与开放主题相结合，支持系列化。",
+      "type": "inference",
+      "evidence": "本轮跨系列可见大眼、短宽脸和云形顶部组合，服装、眼色与姿态明显变化。",
+      "boundary": "色彩与姿势不是全IP固定标准；本轮只有6图，非全量图鉴。",
+      "sources": [
+        "S01",
+        "S02",
+        "S03"
+      ]
+    },
+    {
+      "claim": "作者创作与产品、供应链、渠道协作，把小规模作品扩展为多载体商品。",
+      "type": "inference",
+      "evidence": "作者访谈描述合作后的分工变化，公司团队访谈谈两年储备与开发。",
+      "boundary": "渠道和供给也是解释变量，不能把集团收入增长全归因于造型。",
+      "sources": [
+        "A06",
+        "A07",
+        "A09",
+        "A10"
+      ]
+    }
+  ],
+  "counterexamples": "公司团队采访承认部分系列缺货；2022一例樱花果冻兔瑕疵及回电延迟投诉次日确认解决。不能据单例推全体质量，未找到专项召回或失败系列销量。",
+  "theory": {
+    "shell": "云形伙伴成为外轮廓，脸部关系在不同主题间提供识别。",
+    "core": "怕生但好奇，伙伴帮助探索。",
+    "shadow": "大眼幼态是公共视觉语言；独特性在伙伴结构与组合，渠道、产能、联名也贡献商业结果。",
+    "two_layers": {
+      "surface": "可能被柔和颜色、眼神与某款主题吸引，待验证。",
+      "deep": "作者故事、系列与签绘可能延长关注，签售只有品牌个案。"
+    },
+    "validation": "收入为商业规模证据；活动参与低于复购证据强度；本轮没有IP专属复购数据。"
+  },
+  "for_skills": {
+    "lab": "从具体的不安与陪伴关系找表达，不照搬梦中男孩和云伙伴故事。",
+    "form": "研究如何把关系嵌入结构；新角色另设原型、轮廓和脸部关系，避免专属组合。",
+    "studio": "把陈列、携带、日用作为不同任务分别验证；当前仅指定SKU参考辅助平面接近，未进入原创或实物延展。"
+  },
+  "gaps": [
+    "创作起点2016／2017、2017孵化与2020招股书关系1年的口径差未取得原始合同消解。",
+    "首次平面原稿、2017首售SKU原始公告与完整出版书目未知；不将2019盲盒当最早作品。",
+    "小红书连接本轮超时，两组站内搜索均未执行；没有冒用公开索引替代笔记阅读。",
+    "本轮已看6个官方样本，缺少可靠标准二维母版、完整侧背面和长期连续内容样本。",
+    "真实买家人口分布、IP专属复购率、单款销量、成本、分成与质量问题比例未知。",
+    "2次纯文字未通过；2次参考辅助后接近指定SKU的正面平面转绘，不能泛化到基础母版、其他系列或纯文字。",
+    "英文、原创黑白找形、实物概念未生成未验证；未进入后续延展。"
+  ],
+  "sources": [
+    {
+      "id": "A01",
+      "title": "POP MART official artist biography: AYAN DENG",
+      "url": "https://www.popmart.com/ph",
+      "publisher": "POP MART Philippines",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A02",
+      "title": "潮玩设计灵感来自日常",
+      "url": "https://www.zaobao.com.sg/lifestyle/culture/story20231001-1438053",
+      "publisher": "联合早报；记者陈宇昕",
+      "published": "2023-10-01",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A03",
+      "title": "POP MART Australia DIMOO pop-up and AYAN fansign",
+      "url": "https://www.prnewswire.com/apac/news-releases/pop-mart-welcomes-its-first-ip-themed-pop-up-in-australia-with-exciting-ayan-fansign-event-302137614.html",
+      "publisher": "POP MART via PR Newswire",
+      "published": "2024-05-07",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A04",
+      "title": "DIMOO迷途动物北京颐堤港首发",
+      "url": "https://www.jiemian.com/article/3369036.html",
+      "publisher": "界面商讯（商业信息转载）",
+      "published": "2019-08-02",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A05",
+      "title": "2018 DIMOO WORLD 梦游仙境展览报道",
+      "url": "https://www.sohu.com/a/240974236_100144023",
+      "publisher": "inTOYS玩具里（搜狐号）",
+      "published": "2018-07-13",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A06",
+      "title": "界面生活对Ayan直接采访",
+      "url": "https://www.jiemian.com/article/4439451.html",
+      "publisher": "界面新闻；记者娄晓晶",
+      "published": "2020-05-28",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A07",
+      "title": "泡泡玛特的新品设计学：IP团队采访",
+      "url": "https://m.thepaper.cn/newsDetail_forward_12521270",
+      "publisher": "三声/任彤瑶，发表于澎湃号",
+      "published": "2021-05-04",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A08",
+      "title": "POP MART 2020 Prospectus: IP Pool / Our Artists",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1201/2020120100099.pdf",
+      "publisher": "POP MART / HKEX",
+      "published": "2020-12-01",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A09",
+      "title": "POP MART 2025 Annual Results: Revenue by IPs",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0325/2026032500285.pdf",
+      "publisher": "POP MART / HKEX",
+      "published": "2026-03-25",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A10",
+      "title": "POP MART 2026 Interim Results: Revenue by IPs",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000353.pdf",
+      "publisher": "POP MART / HKEX",
+      "published": "2026-08-20",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A11",
+      "title": "DIMOO樱花果冻兔投诉及后续完成",
+      "url": "https://tousu.sina.com.cn/complaint/view/17361820913",
+      "publisher": "黑猫投诉：用户公开原帖及商家回应",
+      "published": "2022-09-12",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "S01",
+      "title": "Weaving Wonders 手办系列",
+      "url": "https://www.popmart.com/us/products/1583/dimoo-weaving-wonders-series-figures-3603",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "S02",
+      "title": "The Missing Day 手办系列",
+      "url": "https://www.popmart.com/us/products/3678/dimoo-the-missing-day-series-figures",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "S03",
+      "title": "Journal of New Life 毛绒挂件系列",
+      "url": "https://www.popmart.com/us/products/4191",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "S04",
+      "title": "美国官网 DIMOO 产品目录",
+      "url": "https://www.popmart.com/us/collection/dimoo",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "snippet_only"
+    }
+  ],
+  "archive": "research/dimoo/2026-10-20/index.html",
+  "webpage": "research/dimoo/2026-10-20/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/dimoo/2026-10-20/",
+  "prompt_gate": {
+    "status": "limited_reference_2d_near",
+    "selected": "reference-v2",
+    "text_only": "revise",
+    "scope": "Journal of New Life / Innocence 正面平面研究转绘",
+    "reference_image_ids": [
+      "V06"
+    ],
+    "downstream": "not_tested",
+    "user_approved": false
+  }
+}

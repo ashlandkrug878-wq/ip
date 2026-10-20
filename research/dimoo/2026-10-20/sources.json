@@ -1,0 +1,337 @@
+[
+  {
+    "id": "A01",
+    "title": "POP MART official artist biography: AYAN DENG",
+    "url": "https://www.popmart.com/ph",
+    "publication_date": null,
+    "accessed_at": "2026-10-20",
+    "publisher": "POP MART Philippines",
+    "source_type": "primary_brand_biography",
+    "access_status": "正文相关段落已读",
+    "claims": [
+      {
+        "type": "fact",
+        "text": "官网OUR ARTISTS称AYAN DENG为艺术家、插画师、玩具设计师，拥有YANSTUDIO，为DIMOO WORLD艺术总监与创作者。"
+      }
+    ],
+    "boundary": "当前官网履历不能倒推出工作室创办年份、作者出生年月或法律合同。",
+    "web_refs": [
+      "turn314view0"
+    ],
+    "local_evidence": null,
+    "images_visually_inspected": false
+  },
+  {
+    "id": "A02",
+    "title": "潮玩设计灵感来自日常",
+    "url": "https://www.zaobao.com.sg/lifestyle/culture/story20231001-1438053",
+    "publication_date": "2023-10-01",
+    "accessed_at": "2026-10-20",
+    "publisher": "联合早报；记者陈宇昕",
+    "source_type": "original_media_report",
+    "access_status": "正文相关段落已读",
+    "claims": [
+      {
+        "type": "fact",
+        "text": "记者报道新加坡POP TOY SHOW，将中国设计师Ayan的中文名明确写作邓飞燕。"
+      }
+    ],
+    "boundary": "只用于中文姓名及中国设计师身份；其他被采访的马来西亚设计师故事不可错归DIMOO。",
+    "web_refs": [
+      "turn312view1"
+    ],
+    "local_evidence": null,
+    "images_visually_inspected": false
+  },
+  {
+    "id": "A03",
+    "title": "POP MART Australia DIMOO pop-up and AYAN fansign",
+    "url": "https://www.prnewswire.com/apac/news-releases/pop-mart-welcomes-its-first-ip-themed-pop-up-in-australia-with-exciting-ayan-fansign-event-302137614.html",
+    "publication_date": "2024-05-07",
+    "accessed_at": "2026-10-20",
+    "publisher": "POP MART via PR Newswire",
+    "source_type": "primary_brand_release",
+    "access_status": "正文相关段落已读",
+    "claims": [
+      {
+        "type": "self_report",
+        "text": "品牌称AYAN毕业于广州美术学院，自2017年创作DIMOO WORLD故事系列。"
+      },
+      {
+        "type": "fact",
+        "text": "悉尼Macquarie Centre快闪为2024-04-24至28日，4月27日作者签售，推出袋鼠Cosy Dream限定。"
+      },
+      {
+        "type": "self_report",
+        "text": "发布稿记录粉丝排队、跨州到场，并引一位粉丝喜爱各系列创意。"
+      }
+    ],
+    "boundary": "2017是品牌回溯创作口径，与2018早期媒体的2016创作资料不同。粉丝行为是品牌挑选案例，无抽样框；集团海外收入及20,000人展会数据不能归DIMOO。",
+    "web_refs": [
+      "turn307view3"
+    ],
+    "local_evidence": null,
+    "images_visually_inspected": false
+  },
+  {
+    "id": "A04",
+    "title": "DIMOO迷途动物北京颐堤港首发",
+    "url": "https://www.jiemian.com/article/3369036.html",
+    "publication_date": "2019-08-02",
+    "accessed_at": "2026-10-20",
+    "publisher": "界面商讯（商业信息转载）",
+    "source_type": "brand_commercial_repost",
+    "access_status": "正文相关段落已读",
+    "claims": [
+      {
+        "type": "fact",
+        "text": "报道2019-07-27北京颐堤港举行迷途动物首发，明确为POP MART与Ayan首次合作盲盒系列，并举行签售。"
+      },
+      {
+        "type": "self_report",
+        "text": "该稿称Ayan在2017年开始创作DIMOO WORLD故事。"
+      }
+    ],
+    "boundary": "页面明确商讯转载，不伪装独立现场调查；首个合作盲盒系列不等于角色最早作品或签约日。",
+    "web_refs": [
+      "turn310view1",
+      "turn312view4"
+    ],
+    "local_evidence": null,
+    "images_visually_inspected": false
+  },
+  {
+    "id": "A05",
+    "title": "2018 DIMOO WORLD 梦游仙境展览报道",
+    "url": "https://www.sohu.com/a/240974236_100144023",
+    "publication_date": "2018-07-13",
+    "accessed_at": "2026-10-20",
+    "publisher": "inTOYS玩具里（搜狐号）",
+    "source_type": "specialist_media_event_report",
+    "access_status": "正文相关段落已读",
+    "claims": [
+      {
+        "type": "reported_fact",
+        "text": "报道初见画廊DIMOO WORLD展及场景原型、限定品、AYAN签绘，称2017年5月已有作品正式发售。"
+      },
+      {
+        "type": "reported_fact",
+        "text": "末尾履历为AYAN邓飞燕，2016年开始创作DIMOO WORLD故事系列；正文称2016上海已有作品曝光。"
+      }
+    ],
+    "boundary": "早期专业媒体、非艺术家原始作品档案；其2016口径与品牌2017口径冲突，不能无条件裁定生日。它证明2019合作盲盒之前已有作品与展览，不宜混成泡泡玛特首系列。",
+    "web_refs": [
+      "turn312view3",
+      "turn313view0"
+    ],
+    "local_evidence": null,
+    "images_visually_inspected": false
+  },
+  {
+    "id": "A06",
+    "title": "界面生活对Ayan直接采访",
+    "url": "https://www.jiemian.com/article/4439451.html",
+    "publication_date": "2020-05-28",
+    "accessed_at": "2026-10-20",
+    "publisher": "界面新闻；记者娄晓晶",
+    "source_type": "primary_creator_interview",
+    "access_status": "正文相关段落已读",
+    "claims": [
+      {
+        "type": "self_report",
+        "text": "作者设想孤独男孩进入梦乡，云妈妈把云宝宝放其头顶作头发与冒险伙伴；世界里多个角色由两种生物共同组成。"
+      },
+      {
+        "type": "self_report",
+        "text": "男孩灵感来自朋友家的怕生孩子，遇感兴趣的事会走出舒适圈；起初是平面，后转立体玩具。"
+      },
+      {
+        "type": "self_report",
+        "text": "首系列迷途中云可变不同动物；合作后POP MART协助规划开发、工业供应链与渠道。"
+      }
+    ],
+    "boundary": "角色故事和创作意图为作者直接自述；不能把“治愈”当临床效果，也不能从作者对社群归属的看法推出所有消费者动机。",
+    "web_refs": [
+      "turn309view3"
+    ],
+    "local_evidence": null,
+    "images_visually_inspected": false
+  },
+  {
+    "id": "A07",
+    "title": "泡泡玛特的新品设计学：IP团队采访",
+    "url": "https://m.thepaper.cn/newsDetail_forward_12521270",
+    "publication_date": "2021-05-04",
+    "accessed_at": "2026-10-20",
+    "publisher": "三声/任彤瑶，发表于澎湃号",
+    "source_type": "primary_company_team_interview",
+    "access_status": "正文相关段落已读",
+    "claims": [
+      {
+        "type": "self_report",
+        "text": "文中称2017展会发现并签下Dimoo，储备图库、完成版权登记，孵化两年后2019首系列上市。"
+      },
+      {
+        "type": "self_report",
+        "text": "团队看重云朵头部可变空间；设计与供应链储备支撑多个系列。"
+      },
+      {
+        "type": "reported_fact",
+        "text": "报道2020起DIMOO与SKULLPANDA数系列断货受到质疑；受访团队解释疫情产能、需求预估与复杂工艺使周期延长。"
+      }
+    ],
+    "boundary": "2017签下是采访报道用语，不是合同原件；与招股书截至2020关系1年有口径差，不将孵化/转让/上市强行合并。断货解释是公司归因，不证明蓄意饥饿营销。",
+    "web_refs": [
+      "turn311view0"
+    ],
+    "local_evidence": null,
+    "images_visually_inspected": false
+  },
+  {
+    "id": "A08",
+    "title": "POP MART 2020 Prospectus: IP Pool / Our Artists",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1201/2020120100099.pdf",
+    "publication_date": "2020-12-01",
+    "accessed_at": "2026-10-20",
+    "publisher": "POP MART / HKEX",
+    "source_type": "primary_financial_prospectus",
+    "access_status": "原PDF直接下载；相关页正文已读",
+    "claims": [
+      {
+        "type": "fact",
+        "text": "印刷207页将Dimoo与Molly列为已收购的自有IP，并称自有IP享完整知识产权，含开发售卖及对外授权权利。"
+      },
+      {
+        "type": "fact",
+        "text": "印刷229页作者表：Dimoo / Ayan / PRC / Acquired IP / Years of relationship 1 year。"
+      }
+    ],
+    "boundary": "web解析失败，但直接从相同港交所URL下载10.2MB PDF并用pdftotext读取相关页；PDF物理页217/239。属2020披露，不证明当前每项合同条款、买断金额、精确交易日或2017报道错误。不要把Molly的2018/2019转让日期套到Dimoo。",
+    "web_refs": [],
+    "local_evidence": "refs/prospectus-20201201.pdf; refs/prospectus-20201201.txt",
+    "images_visually_inspected": false
+  },
+  {
+    "id": "A09",
+    "title": "POP MART 2025 Annual Results: Revenue by IPs",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0325/2026032500285.pdf",
+    "publication_date": "2026-03-25",
+    "accessed_at": "2026-10-20",
+    "publisher": "POP MART / HKEX",
+    "source_type": "primary_financial_filing",
+    "access_status": "PDF物理33页收入表及经营讨论相关段落已读",
+    "claims": [
+      {
+        "type": "fact",
+        "text": "2025全年DIMOO收入2,776,695人民币千元，占集团7.5%；2024对照909,561千元，占7.0%。"
+      },
+      {
+        "type": "self_report",
+        "text": "经营讨论提及DIMOO WORLD×Disney及The Missing Day系列，强调成长与陪伴叙事。"
+      }
+    ],
+    "boundary": "这是年度业绩公告而非整本年报；按IP收入表，非全球GMV、利润、作者分成或授权金。Artist IP分类本身不能替代产权合同。",
+    "web_refs": [
+      "turn309view6",
+      "turn308view4"
+    ],
+    "local_evidence": null,
+    "images_visually_inspected": false
+  },
+  {
+    "id": "A10",
+    "title": "POP MART 2026 Interim Results: Revenue by IPs",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000353.pdf",
+    "publication_date": "2026-08-20",
+    "accessed_at": "2026-10-20",
+    "publisher": "POP MART / HKEX",
+    "source_type": "primary_financial_filing",
+    "access_status": "PDF物理30页收入表及相关经营讨论已读",
+    "claims": [
+      {
+        "type": "fact",
+        "text": "2026截至6月30日六个月DIMOO收入1,619,217人民币千元，占9.4%；2025同期1,105,135千元，占8.0%。"
+      },
+      {
+        "type": "fact",
+        "text": "经营讨论列Moments in Bloom、The Secret Theatre Club；乐园新区域包括DIMOO WORLD CLOUDLAKE。"
+      }
+    ],
+    "boundary": "半年未经审核业绩公告。不能拿半年直接对全年算增长，也不乘2当全年预测。集团内地会员复购率51.6%不是DIMOO专属复购率。",
+    "web_refs": [
+      "turn308view5"
+    ],
+    "local_evidence": null,
+    "images_visually_inspected": false
+  },
+  {
+    "id": "A11",
+    "title": "DIMOO樱花果冻兔投诉及后续完成",
+    "url": "https://tousu.sina.com.cn/complaint/view/17361820913",
+    "publication_date": "2022-09-12",
+    "accessed_at": "2026-10-20",
+    "publisher": "黑猫投诉：用户公开原帖及商家回应",
+    "source_type": "primary_user_account",
+    "access_status": "正文相关段落已读",
+    "claims": [
+      {
+        "type": "self_report",
+        "text": "用户称899元樱花果冻兔有黑点与头部瑕疵，9月6日起联系售后、回电延迟；9月12日公开投诉。"
+      },
+      {
+        "type": "fact",
+        "text": "页面显示商家9月13日答复安排处理，投诉者当天确认完成并感谢。"
+      }
+    ],
+    "boundary": "单个自选投诉且已完成，未独立检测瑕疵或核订单；不能写成未处理至今、普遍质量不佳、召回或质量问题发生率。匿名化概述，不转载整段。",
+    "web_refs": [
+      "turn311view1"
+    ],
+    "local_evidence": null,
+    "images_visually_inspected": false
+  },
+  {
+    "id": "S01",
+    "title": "Weaving Wonders 手办系列",
+    "url": "https://www.popmart.com/us/products/1583/dimoo-weaving-wonders-series-figures-3603",
+    "publisher": "POP MART US",
+    "publication_date": null,
+    "accessed_at": "2026-10-20",
+    "source_type": "primary_product_page",
+    "access_status": "相关正文与图片已读",
+    "boundary": "商品规格、两张400px款式图；只写10月4日，年份未知。"
+  },
+  {
+    "id": "S02",
+    "title": "The Missing Day 手办系列",
+    "url": "https://www.popmart.com/us/products/3678/dimoo-the-missing-day-series-figures",
+    "publisher": "POP MART US",
+    "publication_date": null,
+    "accessed_at": "2026-10-20",
+    "source_type": "primary_product_page",
+    "access_status": "相关正文与图片已读",
+    "boundary": "美国站2025-09-18发售；800px场景样本；不要把SEO标题里的其他IP词当身份。"
+  },
+  {
+    "id": "S03",
+    "title": "Journal of New Life 毛绒挂件系列",
+    "url": "https://www.popmart.com/us/products/4191",
+    "publisher": "POP MART US",
+    "publication_date": null,
+    "accessed_at": "2026-10-20",
+    "source_type": "primary_product_page",
+    "access_status": "相关正文与图片已读",
+    "boundary": "美国站2025-11-06发售；本轮锁定Innocence正面官方图。"
+  },
+  {
+    "id": "S04",
+    "title": "美国官网 DIMOO 产品目录",
+    "url": "https://www.popmart.com/us/collection/dimoo",
+    "publisher": "POP MART US",
+    "publication_date": null,
+    "accessed_at": "2026-10-20",
+    "source_type": "primary_product_page",
+    "access_status": "snippet_only",
+    "boundary": "本轮搜索索引显示价格，直开失败；仅作标价线索，不保证实时库存或成交价。"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "platform": "小红书",
+    "query": "DIMOO 品牌介绍",
+    "observed_at": "2026-10-20",
+    "status": "blocked",
+    "executed": false,
+    "reason": "本轮Browser连接MCP request timed out；未到达站内搜索，未读取笔记。",
+    "read_notes": []
+  },
+  {
+    "platform": "小红书",
+    "query": "DIMOO 产品汇总",
+    "observed_at": "2026-10-20",
+    "status": "blocked",
+    "executed": false,
+    "reason": "本轮Browser连接MCP request timed out；未到达站内搜索，未读取笔记。",
+    "read_notes": []
+  }
+]
