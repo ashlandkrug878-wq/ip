@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-20",
+  "public_research": "官方商品页、展览机构、原访谈、权利方合作公告、业绩公告及用户个案",
+  "xiaohongshu": {
+    "connection_attempt": "本轮browser extension setupBrowserRuntime请求超时",
+    "status": "blocked",
+    "queries": [
+      {
+        "query": "HIRONO 品牌介绍",
+        "status": "not_executed"
+      },
+      {
+        "query": "HIRONO 产品汇总",
+        "status": "not_executed"
+      }
+    ],
+    "notes_read": 0
+  },
+  "conflicts": [
+    {
+      "url": "https://www.sohu.com/a/672981586_116062",
+      "publication_date": "2023-05-05",
+      "access_status": "正文已读",
+      "claim": "回顾首系列为2021年11月",
+      "resolution": "与官方首商品页2021-10-01以及2021-09-28发售预告矛盾，采用更近事件且一手的10月1日，不将该报道作为上市日期依据。"
+    }
+  ]
+}

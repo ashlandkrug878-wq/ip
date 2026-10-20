@@ -1,0 +1,425 @@
+{
+  "id": "hirono",
+  "name": "HIRONO 小野",
+  "aliases": [
+    "Hirono",
+    "小野"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-20",
+  "updated": "2026-10-20",
+  "summary": "幼态身体承载不讨好的复杂情绪，主题道具把内心状态变成收藏场景。已核起源、公司权属口径、商业数字与8图；5轮平面实测，参考辅助限定接近，纯文字未通过。",
+  "owner": {
+    "creator": "宣毅郎／Lang",
+    "operator": "POP MART 泡泡玛特",
+    "relation": "2022年报列为自有IP、内部PDC团队推出；未取得转让或授权合同全文",
+    "since": null,
+    "sources": [
+      "A01",
+      "A06"
+    ]
+  },
+  "origin": {
+    "path": [
+      "艺术家潮玩",
+      "渠道孵化"
+    ],
+    "year": null,
+    "story": "作者因孩子出生写信并展开绘画创作；2021-10-01为可核首系列上市，不等于最初画出角色的日期。",
+    "sources": [
+      "A01",
+      "A03",
+      "A05"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "创作早期／日期未知",
+      "event": "作者把新生孩子与一封写给未来的信视为起点；绘画先行。孩子出生年份不能直接充当角色诞生日。",
+      "type": "self_report",
+      "sources": [
+        "A01",
+        "A03"
+      ]
+    },
+    {
+      "date": "2021-09-28",
+      "event": "Ground访谈和首系列发售预告已公开。",
+      "type": "fact",
+      "sources": [
+        "A03"
+      ]
+    },
+    {
+      "date": "2021-10-01",
+      "event": "The Other One首系列上市；采用官方商品页及事前预告，不采用后来回顾文章的“11月”。",
+      "type": "fact",
+      "sources": [
+        "A03",
+        "A05"
+      ]
+    },
+    {
+      "date": "2021-10-08—10-30",
+      "event": "松美术馆首次线下艺术展，集中呈现绘画、雕塑装置、动画和潮玩。",
+      "type": "fact",
+      "sources": [
+        "A04"
+      ]
+    },
+    {
+      "date": "2022年报",
+      "event": "小野列入自有IP，公司称由内部PDC团队推出；合同条款与精确签约日未知。",
+      "type": "fact",
+      "sources": [
+        "A06"
+      ]
+    },
+    {
+      "date": "2024-10",
+      "event": "《小王子》权利方公告合作；商品页写10月25日，年份由2024年公告交叉支持。",
+      "type": "fact",
+      "sources": [
+        "A10",
+        "A11"
+      ]
+    },
+    {
+      "date": "2025—2026",
+      "event": "品牌常设店从上海、曼谷延展到伦敦和首尔市场；首尔精确开业日仍保留稿件时态冲突。",
+      "type": "self_report",
+      "sources": [
+        "A08",
+        "A09"
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "event": "Tamed Wildgrass官网发售日期；本轮另看Canned Dreams样本。",
+      "type": "fact",
+      "sources": [
+        "S01"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "保留不合群的自己，也保留柔软。",
+    "sentence_type": "留白",
+    "basis": "inferred",
+    "sources": [
+      "A02",
+      "A03"
+    ]
+  },
+  "core": {
+    "personality": "敏感、倔强、自由",
+    "emotion": "内收",
+    "action": "在不同外壳和处境中呈现细微情绪",
+    "basis": "inferred"
+  },
+  "insight": {
+    "scene": "独处、桌面陈列、随身携带和收藏作者作品",
+    "behavior": "挑选与个人状态相关的款式，也有人参加签售",
+    "state": "不想时刻表现得积极和合群",
+    "conflict": "社会角色的要求与真实感受之间的距离",
+    "unsaid": "不说出来的部分，也可以被看见",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "人口结构未知；产品15岁以上提示不是购买者年龄调查",
+    "where": "官方零售、艺术展、作者活动与线上收藏讨论；本轮未读小红书站内笔记",
+    "buy": "集团IP收入可核，具体购买动机和复购率未知",
+    "signs": "系列款名、作者签名、情绪道具；不编造粉丝黑话",
+    "share": "SPOT报道收藏者带喜爱的人偶签名，是活动样本",
+    "breakout": "联名与海外常设空间可核，破圈增量归因未知"
+  },
+  "pendulum": {
+    "position": "其他",
+    "against": "研究推断：从持续开心和乖巧可爱的期待中，开出克制、倔强与含混感受的位置。没有独立证明行业审美周期。",
+    "note": "复杂情绪与旧物叙事，不简化为单一甜美或暗黑"
+  },
+  "form": {
+    "archetype": "类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "五官",
+      "头型"
+    ],
+    "mark": "短宽幼态脸、细微嘴形、带红晕雀斑的鼻颊与块状刘海组合",
+    "face": "多款眼睑压低，但凝视款为睁眼；头饰、眼睛状态与配色可变",
+    "emotion": "内收",
+    "odd": "幼童外壳容纳成人经验与不配合的神情",
+    "density": "中等",
+    "naming": "其他",
+    "group": "单角色"
+  },
+  "collide_combo": "不可整组照搬短宽脸＋特定压低眼睑＋红鼻雀斑＋短撅嘴＋块状刘海；换帽换衣不足以原创。",
+  "color": {
+    "mode": "多色系列",
+    "main": "首系列有锈红、棕、灰绿、奶白、蓝等；并非全IP固定色",
+    "signature": "本轮较稳定的是浅肤色、红鼻颊与深眼部的关系；没有取得官方色卡",
+    "notes": "页面色值为V07目视估计，不是像素测量、PANTONE或工厂标准"
+  },
+  "materials": "首系列官方ABS/PVC；2021作者称眼睛为约5mm透明独立件，仅限该次自述，不称玻璃。2026系列规格包含PVC/ABS/金属/电子元件，不能推断每款全部具备。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "其他",
+    "note": "绘画、雕塑装置、动画与生活周边并行"
+  },
+  "product": {
+    "first_category": "盲盒手办",
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "首系列2021中国首发69元/单盒、828元/12盒；2026-10-20美国官网相关商品列Mime/Reshape等19.99美元、Snoopy29.99美元、Ceramic Feather129.99美元。市场、日期和单位不可混用。",
+    "sources": [
+      "A03",
+      "A05"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "HIRONO收入（集团按IP归集）",
+      "value": 726525,
+      "unit": "人民币千元",
+      "period": "2024全年",
+      "type": "fact",
+      "group_share_percent": 5.6,
+      "sources": [
+        "A07"
+      ]
+    },
+    {
+      "metric": "HIRONO收入（集团按IP归集）",
+      "value": 1735235,
+      "unit": "人民币千元",
+      "period": "2025全年",
+      "type": "fact",
+      "group_share_percent": 4.7,
+      "sources": [
+        "A07"
+      ]
+    },
+    {
+      "metric": "HIRONO收入（集团按IP归集）",
+      "value": 728420,
+      "unit": "人民币千元",
+      "period": "2025上半年",
+      "type": "fact",
+      "group_share_percent": 5.2,
+      "sources": [
+        "A08"
+      ]
+    },
+    {
+      "metric": "HIRONO收入（集团按IP归集）",
+      "value": 1008855,
+      "unit": "人民币千元",
+      "period": "2026上半年（未经审核）",
+      "type": "fact",
+      "group_share_percent": 5.9,
+      "sources": [
+        "A08"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "幼态身体和不讨好的表情形成张力，给复杂情绪留入口。",
+      "type": "inference",
+      "evidence": "V01/V02/V07/V09的低眼睑、短嘴与小身体；作者将多种情绪纳入角色。",
+      "boundary": "V06眼睛明显睁大，不能把半闭眼定为所有SKU硬规则；也不证明治愈功效或购买因果。",
+      "sources": [
+        "A02",
+        "A04",
+        "A05",
+        "S01"
+      ]
+    },
+    {
+      "claim": "主题道具把抽象状态变成可陈列的小场景。",
+      "type": "inference",
+      "evidence": "纸屋包围脸、狐狸面具与遮嘴动作、罐头中的鱼形身体。",
+      "boundary": "具体情绪含义需作品语境；不能仅凭道具推断作者唯一解释。",
+      "sources": [
+        "A04",
+        "S01"
+      ]
+    },
+    {
+      "claim": "艺术家关系、系列与生活品类共同延长接触。",
+      "type": "inference",
+      "evidence": "作者签名活动、联名公告、品牌常设空间和商品目录。",
+      "boundary": "报道和品牌自述不等于代表性用户调查；集团渠道、供货和定价也影响收入。",
+      "sources": [
+        "A09",
+        "A10",
+        "A12"
+      ]
+    }
+  ],
+  "counterexamples": "黑猫隐藏款换货等待为一个自报售后样本；商家称解决且系统自动完成，不等于买家确认。Reddit毛绒耐久讨论有反对意见，不能据此计算质量问题率。未取得失败系列销量。",
+  "theory": {
+    "shell": "幼态比例与克制表情构成张力；主题外壳承接不同故事。",
+    "core": "不强迫观众只读到悲伤，容纳柔软、自由与矛盾。",
+    "shadow": "大头、雀斑、腮红、旧衣都是公共视觉元素，辨识来自具体组合及持续内容；渠道与产品执行也不可忽略。",
+    "two_layers": {
+      "surface": "某一眼神、道具或处境可能让路人代入，属于待验证假设。",
+      "deep": "作品标题、系列呼应与作者签绘为收藏者提供更深参与入口，证据仅为活动与内容样本。"
+    },
+    "validation": "按IP收入为付费规模证据，签售行为是局部参与证据；粉丝增长、复购与点击转化暂无连续数据。"
+  },
+  "for_skills": {
+    "lab": "借鉴给复杂情绪留白，从独立的具体处境出发，不能复制作者人生与角色故事。",
+    "form": "研究表情与身体的反差，新角色另定原型、比例和脸部关系；不直接套用识别组合。",
+    "studio": "按陈列、携带、日用分别验证结构；主题道具服务情绪。当前只做指定SKU参考辅助平面，不进入原创及实物延展。"
+  },
+  "gaps": [
+    "角色最早草图及精确创作日、签约日与权利合同全文未知；创作、上市与公司披露分开。",
+    "本轮小红书连接超时，“HIRONO 品牌介绍”“HIRONO 产品汇总”均未执行站内搜索，没有已读笔记样本。",
+    "8张已看图以2021早期作品与首系列为主；只有1张2026系列图，缺侧背面、完整标准母版、毛绒实拍及长期内容样本。",
+    "买家年龄性别结构、复购、单SKU销量、成本、作者分成和质量问题比例未知；没有可核的当前销量冠军。",
+    "两轮纯文字未通过；第三轮参考辅助接近V07指定SKU，仍有轻微眼睑、耳团和渐变差异，不等于纯文字或全IP母版验证。",
+    "英文、原创黑白找形和实物概念未生成、未验证；本轮不进入下游延展。"
+  ],
+  "sources": [
+    {
+      "id": "A01",
+      "title": "第四集｜解碼潮玩趨勢：創意藝術的當下與未來",
+      "url": "https://www.ycis-hk.com/tc/article/planet-leadership-series/ep04-deciphering-the-trends-of-designer-toys-the-present-and-the-future-of-creative-art",
+      "publisher": "耀中国际学校／耀中耀华",
+      "published": "2025-04-11",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A02",
+      "title": "POP MART official LANG biography and HIRONO story",
+      "url": "https://www.popmart.com/ph",
+      "publisher": "POP MART Philippines",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A03",
+      "title": "Ground Special｜Lang x 泡泡玛特—Hirono，献给那些被湮没的情感",
+      "url": "https://www.sohu.com/a/492495327_121119370",
+      "publisher": "Groundoohart采访；搜狐账号转载",
+      "published": "2021-09-28",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A04",
+      "title": "「松」× 泡泡玛特｜Hirono首次线下艺术展",
+      "url": "https://www.trueart.com/news/467863.html",
+      "publisher": "松美术馆在崇真艺客的官方账号",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A05",
+      "title": "HIRONO The Other One Series—official product",
+      "url": "https://www.popmart.com/us/products/739/hirono-the-other-one-series-1151?pp=1",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A06",
+      "title": "POP MART 2022 Annual Report",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0421/2023042100897.pdf",
+      "publisher": "POP MART／HKEXnews",
+      "published": "2023-04-21",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A07",
+      "title": "POP MART annual results for year ended 31 December 2025",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0325/2026032500285.pdf",
+      "publisher": "POP MART／HKEXnews",
+      "published": "2026-03-25",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A08",
+      "title": "POP MART interim results for six months ended 30 June 2026",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000353.pdf",
+      "publisher": "POP MART／HKEXnews",
+      "published": "2026-08-20",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A09",
+      "title": "HIRONO: Four Stores Across Shanghai, Bangkok, London, and Seoul",
+      "url": "https://www.prnewswire.com/apac/news-releases/hirono-four-stores-across-shanghai-bangkok-london-and-seoul-302813203.html",
+      "publisher": "POP MART via PR Newswire",
+      "published": "2026-06-29",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A10",
+      "title": "Popmart x Le Petit Prince: new series of figures by Hirono",
+      "url": "https://www.lepetitprince.com/en/events-around-the-world/popmart-x-le-petit-prince-la-nouvelle-serie-de-figurines-par-hirono-2/",
+      "publisher": "Le Petit Prince official",
+      "published": "2024-10-28",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A11",
+      "title": "Hirono × Le Petit Prince Series Figures—official product",
+      "url": "https://www.popmart.com/en-US/products/1604/hirono-%C3%97-le-petit-prince-series-figures",
+      "publisher": "POP MART US",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A12",
+      "title": "The Man Behind Hirono: an interview with Lang",
+      "url": "https://www.spot.ph/shopping/the-latest-shopping/pop-mart-hirono-creator-lang-interview-a5109-20260119-dyn",
+      "publisher": "SPOT.ph",
+      "published": "2026-01-19",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A13",
+      "title": "泡泡玛特小野默隐藏瑕疵及换货等待投诉",
+      "url": "https://tousu.sina.com.cn/complaint/view/17379283849?sld=df49a687e40563ba4dcc77ad56993ccf",
+      "publisher": "黑猫投诉／用户提交及商家回复",
+      "published": "2025-01-15",
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "A14",
+      "title": "Wait this is actually really sad—Hirono plush durability discussion",
+      "url": "https://www.reddit.com/r/hirono/comments/1q3gos5/wait_this_is_actually_really_sad/",
+      "publisher": "Reddit r/hirono／匿名用户",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "partial"
+    },
+    {
+      "id": "S01",
+      "title": "Tamed Wildgrass 官方商品页",
+      "url": "https://www.popmart.com/us/products/6174/hirono-tamed-wildgrass-series-figures",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "partial"
+    }
+  ],
+  "archive": "research/hirono/2026-10-20/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/hirono/2026-10-20/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/hirono/2026-10-20/"
+}

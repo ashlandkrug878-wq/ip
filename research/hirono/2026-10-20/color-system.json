@@ -1,0 +1,34 @@
+{
+  "scope": "V07流浪款；不视为全IP色卡",
+  "method": "直接目视估计，未做像素取色，无官方色号",
+  "area_percent": null,
+  "palette": [
+    {
+      "role": "帽子／主色",
+      "hex": "#805A44",
+      "description": "低饱和中深棕"
+    },
+    {
+      "role": "衣服／主色",
+      "hex": "#7F8062",
+      "description": "灰橄榄绿"
+    },
+    {
+      "role": "皮肤／衬色",
+      "hex": "#E8C6A5",
+      "description": "浅暖米色"
+    },
+    {
+      "role": "刘海与球／亮点",
+      "hex": "#E4DACE",
+      "description": "奶白"
+    },
+    {
+      "role": "鼻颊／点缀",
+      "hex": "#CA8974",
+      "description": "珊瑚红"
+    }
+  ],
+  "cross_sample": "V01–V09说明发色、衣色和背景均可变。红鼻颊与深眼部关系在多数样本持续，但怪兽画作也有例外。",
+  "production": "不指定PANTONE、配方或公差；屏幕颜色和印刷、注塑、涂装不同，需要实样。"
+}
