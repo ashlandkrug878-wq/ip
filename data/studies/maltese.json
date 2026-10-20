@@ -1,0 +1,473 @@
+{
+  "id": "maltese",
+  "name": "线条小狗",
+  "aliases": [
+    "Maltese",
+    "モルチーズ",
+    "小白与小金毛",
+    "Retriever"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-20",
+  "updated": "2026-10-20",
+  "summary": "以双狗互动替用户表达示爱、贴近与小脾气，从表情进入漫画、毛绒和日常授权。含代理商务手册核验；纯文字未通过，参考辅助平面有限接近。",
+  "owner": {
+    "creator": "韩国 Moonlab Studio",
+    "operator": "中国：起重集运营窗口；日本：U-GENIE展开；各商品发行商另列",
+    "relation": "公开运营和授权窗口可核；未取得全球版权合同或买断证明",
+    "since": null,
+    "sources": [
+      "A01",
+      "A02",
+      "A03"
+    ]
+  },
+  "origin": {
+    "path": [
+      "网络插画",
+      "表情包传播"
+    ],
+    "year": 2020,
+    "story": "2020年底角色登场，2021年上线Kakao表情；不是从盲盒首发起盘。",
+    "sources": [
+      "A01"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2020-12",
+      "event": "白色 Maltese 角色登场；依据日本代理履历，未取得当月原始首帖。",
+      "type": "self_report",
+      "sources": [
+        "A01"
+      ]
+    },
+    {
+      "date": "2021-06 / 10",
+      "event": "白狗 Kakao 贴图上线；10月好友 Retriever 登场。",
+      "type": "self_report",
+      "sources": [
+        "A01"
+      ]
+    },
+    {
+      "date": "2022-08 / 09",
+      "event": "手册称8月10日入驻国内社媒、微信表情平台；日本履历记9月小金毛独立 Kakao 贴图上线。",
+      "type": "self_report",
+      "sources": [
+        "M01",
+        "A01"
+      ]
+    },
+    {
+      "date": "2023",
+      "event": "手册记南京、上海快闪及瑞幸两次合作；其销售与曝光数据为代理自报。",
+      "type": "self_report",
+      "sources": [
+        "M01"
+      ]
+    },
+    {
+      "date": "2025-04",
+      "event": "磨铁4月25日公告《亲爱的小狗》上市；书商标2月1日书目出版日期，两种时间分列。",
+      "type": "fact",
+      "sources": [
+        "A07"
+      ]
+    },
+    {
+      "date": "2025-12",
+      "event": "日本 LOFT 首次快闪于12月27日开始；是日本首场，非全球首场。",
+      "type": "fact",
+      "sources": [
+        "A05"
+      ]
+    },
+    {
+      "date": "2026-08 / 09",
+      "event": "Furyu 景品扩展；9月《亲爱的小狗2》预售后现货上市。",
+      "type": "fact",
+      "sources": [
+        "A04",
+        "A08"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "有小脾气，也想和你贴在一起。",
+    "sentence_type": "陪伴",
+    "basis": "inferred，研究归纳，非官方口号",
+    "sources": [
+      "M01",
+      "A01"
+    ]
+  },
+  "core": {
+    "personality": "率真、示爱、包容",
+    "emotion": "反差",
+    "action": "送心、拥抱、闹别扭后仍愿意靠近",
+    "basis": "中文手册自述及样本观察"
+  },
+  "insight": {
+    "scene": "私聊、朋友互送小物、包挂和桌面陪伴",
+    "behavior": "用狗的动作表达难以直接说出的亲近或小情绪",
+    "state": "希望被回应，同时保留自己的不高兴",
+    "conflict": "想亲近，但直接撒娇或道歉有压力",
+    "unsaid": "我有点闹脾气，但没有不喜欢你",
+    "basis": "hypothesis；没有购买者访谈"
+  },
+  "circle": {
+    "who": "手册p7表情用户画像称女性超七成、19–23岁最高；样本与统计期未给，不外推全部购买者",
+    "where": "微信/Kakao/LINE、官方社媒、快闪与授权商品渠道",
+    "buy": "出版发行、手册销量自报可见；终端净销、复购与买家构成未核",
+    "signs": "小白、小金毛、贴贴、修狗及成对互动；使用频率未做统计",
+    "share": "展示可送给另一人的动作与成对物品，是观察推断",
+    "breakout": "多个国家代理与品牌商品可核；全球去重人数未知"
+  },
+  "pendulum": {
+    "position": "软萌治愈",
+    "against": "在强调精致人设与复杂设定的角色中，以直白动作和生活关系形成低理解门槛；是研究比较，不声称该年代只有一种主流。"
+  },
+  "form": {
+    "archetype": "动物类人",
+    "silhouette": "头身一体",
+    "mark_position": [
+      "五官",
+      "整体轮廓"
+    ],
+    "mark": "白狗粗黑断续毛边、黄狗浅麦色平滑外轮廓与珊瑚红项圈；点眼、鼻下短双弧嘴",
+    "face": "眼小而分开，鼻嘴集中；开闭嘴、舌头及耳姿随动作变化",
+    "emotion": "反差",
+    "odd": "圆软外壳可做生气、惊讶和猛烈示爱，反差来自表演",
+    "density": "极简",
+    "naming": "描述",
+    "group": "角色群"
+  },
+  "collide_combo": "避免复用白色断续毛边小狗＋浅麦黄红项圈伙伴＋相同点眼双弧鼻嘴与既有贴贴动作的整组身份；换色不是原创。",
+  "color": {
+    "mode": "其他",
+    "note": "双角色分色",
+    "main": "白／浅麦黄；黑色线条，珊瑚红项圈与爱心点缀",
+    "signature": "白黄搭配与黑线是重复关系；红项圈是黄狗常见识别候选",
+    "notes": "视觉估计；未取得生产标准色，粉蓝黄背景不属于身体固定色。"
+  },
+  "materials": "平面线条与实物毛面分开；Furyu图中可见短毛、脸部线迹、挂绳，公告未列纤维成分，不擅写聚酯。",
+  "carrier": {
+    "primary": "表情包",
+    "secondary": "授权图案"
+  },
+  "product": {
+    "first_category": null,
+    "first_category_note": "早期表情起盘可核，首个收费或实体商品未核",
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "LINE台湾页NT$72；大陆第一册定价RMB59.80；Furyu景品无固定零售价。非全IP价格带。",
+    "sources": [
+      "A06",
+      "A07",
+      "A04"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "微信表情累计发送量",
+      "value": 15000000000,
+      "comparator": ">",
+      "unit": "次",
+      "period": "2022-08-10上线至2025-10",
+      "scope": "手册p6；累计事件量，非独立用户",
+      "type": "self_report",
+      "sources": [
+        "M01"
+      ]
+    },
+    {
+      "metric": "微信表情下载量",
+      "value": 300000000,
+      "comparator": ">=",
+      "unit": "次（是否去重未说明）",
+      "period": "截至2025-10",
+      "scope": "手册p6；不能等同3亿人",
+      "type": "self_report",
+      "sources": [
+        "M01"
+      ]
+    },
+    {
+      "metric": "手册所称累计销售额",
+      "value": 5,
+      "comparator": "约",
+      "unit": "亿；原文未明确币种",
+      "period": "2023",
+      "scope": "手册p8；主体、渠道合并、含税及GMV/结算口径不明，不作为已核IP收入",
+      "type": "self_report",
+      "sources": [
+        "M01"
+      ]
+    },
+    {
+      "metric": "《亲爱的小狗》发行量",
+      "value": 500000,
+      "comparator": ">",
+      "unit": "册",
+      "period": "截至2026-01-04报道",
+      "scope": "出版发行量；不是经审计终端实销或独立读者数",
+      "type": "self_report",
+      "sources": [
+        "A10"
+      ]
+    },
+    {
+      "metric": "日本官方SNS关注合计",
+      "value": 100000,
+      "comparator": ">",
+      "unit": "平台关注数合计",
+      "period": "截至2025-12-23",
+      "scope": "U-GENIE自报；跨平台未去重",
+      "type": "self_report",
+      "sources": [
+        "A05"
+      ]
+    },
+    {
+      "metric": "独立IP收入",
+      "value": null,
+      "unit": "未知",
+      "period": "截至2026-10-20研究",
+      "scope": "无经核实统一口径；不以商品销售额替代",
+      "type": "hypothesis",
+      "sources": [
+        "M01"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "角色替用户把关系中的动作做出来。",
+      "type": "inference",
+      "evidence": "V01与V04中送心、抱住、陪坐、闹别扭等动作构成互动；手册p3定义率真、示爱和包容。",
+      "boundary": "这是内容机制解释，未做用户实验，不能证明发送必然促成购买。",
+      "sources": [
+        "A01",
+        "M01"
+      ]
+    },
+    {
+      "claim": "低细节的脸适合小屏识别，关系可由动作持续变化。",
+      "type": "inference",
+      "evidence": "点眼、鼻下双弧嘴跨平面、毛绒仍出现；白狗断续毛边与黄狗平滑色块形成对照。",
+      "boundary": "耳形、嘴型可变；未做识别率测试，不能仅靠一张图定义全IP标准。",
+      "sources": [
+        "A01",
+        "A04"
+      ]
+    },
+    {
+      "claim": "高频沟通形成接触，再由授权接入日常使用。",
+      "type": "inference",
+      "evidence": "表情、漫画、毛绒与日用联名共同存在；手册展示内容、商品、空间三个授权入口。",
+      "boundary": "渠道铺货、品牌投放与原有用户同样可能驱动销售；没有可隔离IP增量的对照组。",
+      "sources": [
+        "M01",
+        "A04",
+        "A07",
+        "A12"
+      ]
+    }
+  ],
+  "counterexamples": "2026-02瑞幸联名杯套错字有记者采访客服回应；未核最终处置，不把物料问题归成整个IP失败。",
+  "theory": {
+    "shell": "粗黑简笔线、紧凑五官、白黄双狗及不同耳姿；毛边与光滑轮廓形成辨认差。",
+    "core": "可示爱、可奶凶，关系通过贴近、送心、陪伴持续发生。",
+    "shadow": "狗、爱心、点眼均是公共元素；差异依靠具体组合和长期双角色互动，不是任一单元素。",
+    "two_layers": {
+      "surface": "路人可能先读懂可爱与亲密动作，待验证。",
+      "deep": "常用者可能把双狗关系映射到自己与朋友、伴侣；未做社群调查。"
+    },
+    "validation": "发行量与代理销售自报比点赞更接近商业行为，但都不能直接证明设计因果；发送、下载、粉丝、收入分开。"
+  },
+  "for_skills": {
+    "lab": "借鉴关系中的具体动作，先回答要替谁说哪一句话；别把“治愈”当全部洞察。",
+    "form": "建立新角色轮廓与五官，不套用白黄双狗组合；只借小尺寸下保持层级清晰的方法。",
+    "studio": "先让动作与使用场景匹配，再确定平面、毛绒或日用载体；以实物样核脸部、项圈及挂点。"
+  },
+  "gaps": [
+    "未取得2020原始首帖、首个付费商品的完整记录及全球版权合同；不推定买断或永久独占。",
+    "小金毛性格在中文手册与日本官方简介中不同；先并列，未裁定哪版覆盖全球。",
+    "商务手册没有给发送/下载去重、用户画像采样、销售额主体与结算口径；数字为代理自述。",
+    "小红书两组站内搜索均被“电脑设备登录超限”阻挡；没有新增笔记正文或评论样本。",
+    "大陆第一册书目日期与上市公告不同；未目检出版版权页，韩版第二册出版社及ISBN未知。",
+    "公开图与手册中的色彩不是Pantone或生产色卡；官方全套三视图、各SKU材料成分、成本及良率未知。",
+    "纯文字两版均未通过；参考辅助版本仅接近V01双角色既有动作的二维重绘。",
+    "英文、重复稳定性、侧背面、实物概念与原创转译未测试；不自动进入下一阶段。",
+    "未核杯套错字事件最终处理、具体批次及损失；没有普通买家的代表性差评率。"
+  ],
+  "sources": [
+    {
+      "id": "research-web",
+      "title": "线条小狗完整研究网页",
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/maltese/2026-10-20/",
+      "publisher": "本研究归档",
+      "published": "2026-10-20",
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A01",
+      "title": "Maltese日本本格展開・LINEわんこカップル7",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000167340.html",
+      "url_role": "source",
+      "publisher": "U-GENIE",
+      "published": "2025-08-07",
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A02",
+      "title": "Moonlab官方链接集合",
+      "url": "https://linktr.ee/moonlab_studio",
+      "url_role": "source",
+      "publisher": "Moonlab Studio",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A03",
+      "title": "中国运营窗口与起重集介绍",
+      "url": "https://www.sina.cn/media/7776232700",
+      "url_role": "source",
+      "publisher": "线条小狗Maltese官方账号 / 起重集",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A04",
+      "title": "Maltese初次Furyu景品展开",
+      "url": "https://prtimes.jp/main/html/rd/p/000002293.000005167.html",
+      "url_role": "source",
+      "publisher": "Furyu",
+      "published": "2026-09-08",
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A05",
+      "title": "日本首次Maltese POPUP in LOFT",
+      "url": "https://prtimes.jp/main/html/rd/p/000000003.000167340.html",
+      "url_role": "source",
+      "publisher": "U-GENIE",
+      "published": "2025-12-23",
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A06",
+      "title": "線條小狗LINE动画贴图官方商品",
+      "url": "https://store.line.me/stickershop/product/30890/zh-Hant",
+      "url_role": "source",
+      "publisher": "LINE STORE / Moonlab_studio",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A07",
+      "title": "亲爱的小狗首部漫画集：磨铁上市公告与文轩书目",
+      "url": "https://www.sina.cn/news/detail/5159287115746308.html",
+      "url_role": "source",
+      "publisher": "磨铁图书官方微博",
+      "published": "2025-04-25",
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A08",
+      "title": "亲爱的小狗2官方现货上市公告与简体书目",
+      "url": "https://www.sina.cn/news/detail/5348456197785610.html",
+      "url_role": "source",
+      "publisher": "线条小狗Maltese官方微博",
+      "published": "2026-09-29",
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A09",
+      "title": "亲爱的小狗台湾首刷限定版书目",
+      "url": "https://www.eslite.com/product/10012150962683169307005",
+      "url_role": "source",
+      "publisher": "诚品书店",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A10",
+      "title": "2026北京出版发行产业年会报道",
+      "url": "https://finance.sina.cn/2026-01-04/detail-inhfeeei2699092.d.html",
+      "url_role": "source",
+      "publisher": "中国新闻网官方账号 / 新浪",
+      "published": "2026-01-04",
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A11",
+      "title": "瑞幸联名杯套错字及客服回应",
+      "url": "https://www.jjckb.cn/20260211/f57e31a9ecc447be9d0a20be7c9dc043/c.html",
+      "url_role": "source",
+      "publisher": "经济参考网（记者冯皓）",
+      "published": "2026-02-11",
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A12",
+      "title": "三丽鸥家族快闪与纽赛文具合作公告",
+      "url": "https://www.sina.cn/news/detail/5323449226232706.html",
+      "url_role": "source",
+      "publisher": "线条小狗Maltese官方微博",
+      "published": "2026-07-22",
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "S01",
+      "title": "起重集：线条小狗角色页",
+      "url": "https://www.qizhongjicn.cn/roshow.php?id=982",
+      "url_role": "source",
+      "publisher": "厦门起重集文化传媒有限公司",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "M01",
+      "title": "线条小狗手册202604.pdf｜用户提供的代理方商务手册",
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/maltese/2026-10-20/#source-M01",
+      "url_role": "研究记录锚点；不是原文件公开URL",
+      "publisher": "用户指认为代理方商务资料；文件未附独立审计",
+      "published": "2026-04",
+      "observed": "2026-10-20",
+      "access": "partial"
+    }
+  ],
+  "archive": "research/maltese/2026-10-20/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/maltese/2026-10-20/",
+  "prompt_gate": {
+    "status": "limited_reference_2d_near",
+    "selected": "reference-v1",
+    "scope": "V01公开双狗送心插画，保留既有动作的二维重绘",
+    "text_only": "revise",
+    "user_approved": false,
+    "downstream": "not_tested"
+  },
+  "publication": {
+    "date": "2026-10-20",
+    "destination": "GitHub选品板研究库",
+    "user_authorized": true,
+    "note": "按既有授权研究后直接上传；归档不代表用户审美认可。"
+  }
+}

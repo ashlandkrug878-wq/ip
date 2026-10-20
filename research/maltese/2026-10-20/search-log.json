@@ -1,0 +1,20 @@
+{
+  "accessed_at": "2026-10-20",
+  "browser": "connected user Chrome",
+  "queries": [
+    {
+      "query": "线条小狗 品牌介绍",
+      "status": "blocked_login_device_limit",
+      "observed": "电脑设备登录超限，请重新登录",
+      "results_read": 0,
+      "comments_read": 0
+    },
+    {
+      "query": "线条小狗 产品汇总",
+      "status": "blocked_login_device_limit",
+      "observed": "电脑设备登录超限，请重新登录",
+      "results_read": 0,
+      "comments_read": 0
+    }
+  ]
+}

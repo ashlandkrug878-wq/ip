@@ -1,0 +1,151 @@
+[
+  {
+    "palette_id": "maltese-observed",
+    "color_id": "C01",
+    "name": "白",
+    "hex_preview": "#FFFFFF",
+    "role": "主体",
+    "scope": "recurring_identity",
+    "value_basis": "视觉估计，非官方色号",
+    "surface_or_region": "白狗身体",
+    "image_ids": [
+      "V01",
+      "V02",
+      "V04"
+    ],
+    "evidence_ids": [
+      "A01",
+      "A04"
+    ],
+    "sample_method": "目视近似，无像素面积测量",
+    "sample_coordinates_or_mask": null,
+    "area_description": "角色色大面积、五官与点缀小面积；不计背景占比",
+    "area_basis": "定性观察",
+    "material_context": "平面屏幕图；实物颜色单独打样",
+    "variation_boundary": "主题装饰、背景可变，黄狗耳姿/白狗口型存在变体",
+    "uncertainty": "未取得Pantone、CMYK或材料标准色卡"
+  },
+  {
+    "palette_id": "maltese-observed",
+    "color_id": "C02",
+    "name": "浅麦黄",
+    "hex_preview": "#EBD5A3",
+    "role": "主体",
+    "scope": "recurring_identity",
+    "value_basis": "视觉估计，非官方色号",
+    "surface_or_region": "黄狗身体",
+    "image_ids": [
+      "V01",
+      "V03"
+    ],
+    "evidence_ids": [
+      "A01",
+      "A04"
+    ],
+    "sample_method": "目视近似，无像素面积测量",
+    "sample_coordinates_or_mask": null,
+    "area_description": "角色色大面积、五官与点缀小面积；不计背景占比",
+    "area_basis": "定性观察",
+    "material_context": "平面屏幕图；实物颜色单独打样",
+    "variation_boundary": "主题装饰、背景可变，黄狗耳姿/白狗口型存在变体",
+    "uncertainty": "未取得Pantone、CMYK或材料标准色卡"
+  },
+  {
+    "palette_id": "maltese-observed",
+    "color_id": "C03",
+    "name": "近黑",
+    "hex_preview": "#171515",
+    "role": "线条／五官",
+    "scope": "recurring_identity",
+    "value_basis": "视觉估计，非官方色号",
+    "surface_or_region": "外轮廓、眼鼻嘴",
+    "image_ids": [
+      "V01",
+      "V02",
+      "V03"
+    ],
+    "evidence_ids": [
+      "A01",
+      "A04"
+    ],
+    "sample_method": "目视近似，无像素面积测量",
+    "sample_coordinates_or_mask": null,
+    "area_description": "角色色大面积、五官与点缀小面积；不计背景占比",
+    "area_basis": "定性观察",
+    "material_context": "平面屏幕图；实物颜色单独打样",
+    "variation_boundary": "主题装饰、背景可变，黄狗耳姿/白狗口型存在变体",
+    "uncertainty": "未取得Pantone、CMYK或材料标准色卡"
+  },
+  {
+    "palette_id": "maltese-observed",
+    "color_id": "C04",
+    "name": "珊瑚红",
+    "hex_preview": "#DF8272",
+    "role": "识别候选／点缀",
+    "scope": "recurring_identity",
+    "value_basis": "视觉估计，非官方色号",
+    "surface_or_region": "黄狗项圈及爱心边",
+    "image_ids": [
+      "V01"
+    ],
+    "evidence_ids": [
+      "A01",
+      "A04"
+    ],
+    "sample_method": "目视近似，无像素面积测量",
+    "sample_coordinates_or_mask": null,
+    "area_description": "角色色大面积、五官与点缀小面积；不计背景占比",
+    "area_basis": "定性观察",
+    "material_context": "平面屏幕图；实物颜色单独打样",
+    "variation_boundary": "主题装饰、背景可变，黄狗耳姿/白狗口型存在变体",
+    "uncertainty": "未取得Pantone、CMYK或材料标准色卡"
+  },
+  {
+    "palette_id": "maltese-observed",
+    "color_id": "C05",
+    "name": "浅粉",
+    "hex_preview": "#F2D7D0",
+    "role": "点缀",
+    "scope": "series_palette",
+    "value_basis": "视觉估计，非官方色号",
+    "surface_or_region": "当幅爱心",
+    "image_ids": [
+      "V01"
+    ],
+    "evidence_ids": [
+      "A01",
+      "A04"
+    ],
+    "sample_method": "目视近似，无像素面积测量",
+    "sample_coordinates_or_mask": null,
+    "area_description": "角色色大面积、五官与点缀小面积；不计背景占比",
+    "area_basis": "定性观察",
+    "material_context": "平面屏幕图；实物颜色单独打样",
+    "variation_boundary": "主题装饰、背景可变，黄狗耳姿/白狗口型存在变体",
+    "uncertainty": "未取得Pantone、CMYK或材料标准色卡"
+  },
+  {
+    "palette_id": "maltese-observed",
+    "color_id": "C06",
+    "name": "淡蓝",
+    "hex_preview": "#C4E6F4",
+    "role": "环境",
+    "scope": "editorial_environment",
+    "value_basis": "视觉估计，非官方色号",
+    "surface_or_region": "V01背景，不属于狗身",
+    "image_ids": [
+      "V01"
+    ],
+    "evidence_ids": [
+      "A01",
+      "A04"
+    ],
+    "sample_method": "目视近似，无像素面积测量",
+    "sample_coordinates_or_mask": null,
+    "area_description": "角色色大面积、五官与点缀小面积；不计背景占比",
+    "area_basis": "定性观察",
+    "material_context": "平面屏幕图；实物颜色单独打样",
+    "variation_boundary": "主题装饰、背景可变，黄狗耳姿/白狗口型存在变体",
+    "uncertainty": "未取得Pantone、CMYK或材料标准色卡"
+  }
+]
