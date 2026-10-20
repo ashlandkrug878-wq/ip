@@ -1,0 +1,178 @@
+[
+  {
+    "palette_id": "butterbear-observed",
+    "color_id": "C01",
+    "name": "金麦",
+    "hex_preview": "#E6B36D",
+    "role": "主体",
+    "scope": "recurring_identity",
+    "value_basis": "视觉估计，非官方色号",
+    "surface_or_region": "熊头身",
+    "image_ids": [
+      "V01",
+      "V03",
+      "V04"
+    ],
+    "evidence_ids": [
+      "A01",
+      "A06"
+    ],
+    "sample_method": "目视近似，没有RGB取样",
+    "sample_coordinates_or_mask": null,
+    "area_description": "主体大面积；五官小面积；背景另计",
+    "area_basis": "定性观察，未分割面积",
+    "material_context": "插画笔触、绒面与摄影光线分别理解",
+    "variation_boundary": "围裙绿随SKU及材质变化；服装红黄蓝不是固定身体色",
+    "uncertainty": "不能用于量产色差验收；没有官方Pantone。"
+  },
+  {
+    "palette_id": "butterbear-observed",
+    "color_id": "C02",
+    "name": "深棕",
+    "hex_preview": "#563320",
+    "role": "五官",
+    "scope": "recurring_identity",
+    "value_basis": "视觉估计，非官方色号",
+    "surface_or_region": "眼与笑嘴",
+    "image_ids": [
+      "V01",
+      "V03",
+      "V04"
+    ],
+    "evidence_ids": [
+      "A01",
+      "A06"
+    ],
+    "sample_method": "目视近似，没有RGB取样",
+    "sample_coordinates_or_mask": null,
+    "area_description": "主体大面积；五官小面积；背景另计",
+    "area_basis": "定性观察，未分割面积",
+    "material_context": "插画笔触、绒面与摄影光线分别理解",
+    "variation_boundary": "围裙绿随SKU及材质变化；服装红黄蓝不是固定身体色",
+    "uncertainty": "不能用于量产色差验收；没有官方Pantone。"
+  },
+  {
+    "palette_id": "butterbear-observed",
+    "color_id": "C03",
+    "name": "红棕",
+    "hex_preview": "#A74732",
+    "role": "五官点缀",
+    "scope": "recurring_identity",
+    "value_basis": "视觉估计，非官方色号",
+    "surface_or_region": "小鼻",
+    "image_ids": [
+      "V01",
+      "V03",
+      "V04"
+    ],
+    "evidence_ids": [
+      "A01",
+      "A06"
+    ],
+    "sample_method": "目视近似，没有RGB取样",
+    "sample_coordinates_or_mask": null,
+    "area_description": "主体大面积；五官小面积；背景另计",
+    "area_basis": "定性观察，未分割面积",
+    "material_context": "插画笔触、绒面与摄影光线分别理解",
+    "variation_boundary": "围裙绿随SKU及材质变化；服装红黄蓝不是固定身体色",
+    "uncertainty": "不能用于量产色差验收；没有官方Pantone。"
+  },
+  {
+    "palette_id": "butterbear-observed",
+    "color_id": "C04",
+    "name": "奶白",
+    "hex_preview": "#FFF4DC",
+    "role": "面部对比",
+    "scope": "recurring_identity",
+    "value_basis": "视觉估计，非官方色号",
+    "surface_or_region": "眼白",
+    "image_ids": [
+      "V01",
+      "V03"
+    ],
+    "evidence_ids": [
+      "A01",
+      "A06"
+    ],
+    "sample_method": "目视近似，没有RGB取样",
+    "sample_coordinates_or_mask": null,
+    "area_description": "主体大面积；五官小面积；背景另计",
+    "area_basis": "定性观察，未分割面积",
+    "material_context": "插画笔触、绒面与摄影光线分别理解",
+    "variation_boundary": "围裙绿随SKU及材质变化；服装红黄蓝不是固定身体色",
+    "uncertainty": "不能用于量产色差验收；没有官方Pantone。"
+  },
+  {
+    "palette_id": "butterbear-observed",
+    "color_id": "C05",
+    "name": "鼠尾草绿",
+    "hex_preview": "#83B3A0",
+    "role": "辅助／服饰",
+    "scope": "series_palette",
+    "value_basis": "视觉估计，非官方色号",
+    "surface_or_region": "V01腰带褶边",
+    "image_ids": [
+      "V01"
+    ],
+    "evidence_ids": [
+      "A01",
+      "A06"
+    ],
+    "sample_method": "目视近似，没有RGB取样",
+    "sample_coordinates_or_mask": null,
+    "area_description": "主体大面积；五官小面积；背景另计",
+    "area_basis": "定性观察，未分割面积",
+    "material_context": "插画笔触、绒面与摄影光线分别理解",
+    "variation_boundary": "围裙绿随SKU及材质变化；服装红黄蓝不是固定身体色",
+    "uncertainty": "不能用于量产色差验收；没有官方Pantone。"
+  },
+  {
+    "palette_id": "butterbear-observed",
+    "color_id": "C06",
+    "name": "桃粉",
+    "hex_preview": "#EFAC89",
+    "role": "点缀",
+    "scope": "series_palette",
+    "value_basis": "视觉估计，非官方色号",
+    "surface_or_region": "插画脸颊",
+    "image_ids": [
+      "V01",
+      "V03"
+    ],
+    "evidence_ids": [
+      "A01",
+      "A06"
+    ],
+    "sample_method": "目视近似，没有RGB取样",
+    "sample_coordinates_or_mask": null,
+    "area_description": "主体大面积；五官小面积；背景另计",
+    "area_basis": "定性观察，未分割面积",
+    "material_context": "插画笔触、绒面与摄影光线分别理解",
+    "variation_boundary": "围裙绿随SKU及材质变化；服装红黄蓝不是固定身体色",
+    "uncertainty": "不能用于量产色差验收；没有官方Pantone。"
+  },
+  {
+    "palette_id": "butterbear-observed",
+    "color_id": "C07",
+    "name": "鹅黄",
+    "hex_preview": "#F7E5AA",
+    "role": "环境",
+    "scope": "editorial_environment",
+    "value_basis": "视觉估计，非官方色号",
+    "surface_or_region": "V04摄影背景",
+    "image_ids": [
+      "V04"
+    ],
+    "evidence_ids": [
+      "A01",
+      "A06"
+    ],
+    "sample_method": "目视近似，没有RGB取样",
+    "sample_coordinates_or_mask": null,
+    "area_description": "主体大面积；五官小面积；背景另计",
+    "area_basis": "定性观察，未分割面积",
+    "material_context": "插画笔触、绒面与摄影光线分别理解",
+    "variation_boundary": "围裙绿随SKU及材质变化；服装红黄蓝不是固定身体色",
+    "uncertainty": "不能用于量产色差验收；没有官方Pantone。"
+  }
+]

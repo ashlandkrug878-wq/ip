@@ -1,0 +1,565 @@
+{
+  "subject": "黄油小熊",
+  "cutoff_date": "2026-10-20",
+  "timeline": [
+    {
+      "date": "约2023",
+      "event": "线上烘焙业务与角色共同出现。根据2024年7月创办者的一岁自述推定，精确首发日未知。",
+      "type": "self_report",
+      "sources": [
+        "A02"
+      ]
+    },
+    {
+      "date": "2024上半年",
+      "event": "快闪、舞蹈与门店内容逐渐获得关注；创办者回忆早期也有路人不理会。具体首店日期存在冲突。",
+      "type": "self_report",
+      "sources": [
+        "A02"
+      ]
+    },
+    {
+      "date": "2024-08-05",
+      "event": "泰国旅游局公布与Apo、Butterbear合作的六个月旅游推广。",
+      "type": "fact",
+      "sources": [
+        "A05"
+      ]
+    },
+    {
+      "date": "2026-02-21 / 22",
+      "event": "Buttery Day临时延期，保留原参与权。这里引用媒体对官方公告的转述。",
+      "type": "fact",
+      "sources": [
+        "A11"
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "event": "SNIDEL HOME联名推出；Furyu公布日本景品，6月下旬起投放。",
+      "type": "fact",
+      "sources": [
+        "A08",
+        "A09"
+      ]
+    },
+    {
+      "date": "2026-09-03起",
+      "event": "Qualia迷你托特胶囊商品发售；各地铺货时间不同。",
+      "type": "fact",
+      "sources": [
+        "A10"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "A01",
+      "title": "Butterbear official About / Privacy Policy",
+      "url": "https://butterbear.co.th/pages/about",
+      "published_at": null,
+      "accessed_at": "2026-10-20",
+      "publisher": "Butterbear",
+      "source_type": "primary_brand",
+      "access_status": "body_read",
+      "evidence_type": "self_report",
+      "claims": [
+        "官方将品牌起点描述为小型烘焙店，后来拓展商品和娱乐。",
+        "当前列出 Emsphere、Siam Paragon、Suvarnabhumi 国际出发区与 Donmueang 国内航站楼门店。",
+        "隐私政策明确网站运营主体为 Butterbear Co., Ltd.。"
+      ],
+      "boundary": "官网自述与当前门店清单不证明具体创作日、版权转让、股权比例；页脚 ©2024 不等于创立年。",
+      "web_refs": [
+        "turn280view0",
+        "turn286view2"
+      ],
+      "related_sources": [
+        {
+          "url": "https://butterbear.co.th/pages/privacy-policy",
+          "access_status": "body_read",
+          "purpose": "公司主体名称"
+        }
+      ],
+      "images_visually_inspected": false
+    },
+    {
+      "id": "A02",
+      "title": "创办人 Boom 的 Matichon 原采访",
+      "url": "https://www.matichon.co.th/lifestyle/news_4666519",
+      "published_at": "2024-07-06",
+      "accessed_at": "2026-10-20",
+      "publisher": "Matichon",
+      "source_type": "primary_interview",
+      "access_status": "body_read",
+      "evidence_type": "self_report",
+      "claims": [
+        "Boom Thanawan Vongcharoenrat（บูม ธนวรรณ วงศ์เจริญรัตน์）与妹妹 Bell Thanapa Pangputhipong（เบลล์ ธนาภา ปางพุฒิพงศ์）创办品牌；母亲为 Coffee Beans by Dao 创办者。",
+        "创办人说熊与线上烘焙业务第一天一起出现，受疫情期间母亲甜点带来快乐的经验启发；2024年7月时称品牌一岁。",
+        "先线上、快闪，再门店；早期快闪有人路过不关注，角色性格、校园日常与周末见面安排逐步受粉丝反馈推动。"
+      ],
+      "boundary": "这是创办者回忆，不是独立因果实验。正文将 Emsphere 店开业写为2024泼水节，与常见2023年底说法冲突，具体日期暂不定。不能据品牌创办人身份推断两人亲自完成全部原画或法律版权归属。",
+      "web_refs": [
+        "turn280view1"
+      ],
+      "related_sources": [
+        {
+          "url": "https://www.shrewsbury.ac.th/article/boomclassof2014/",
+          "published_at": "2025-11-11",
+          "access_status": "body_read",
+          "purpose": "学校对校友 Boom 的直接采访，交叉确认创办者与快乐/甜点理念；并非独立创作日期证据",
+          "web_ref": "turn286view1"
+        }
+      ],
+      "images_visually_inspected": false
+    },
+    {
+      "id": "A03",
+      "title": "BUTTERBEAR CO., LTD. registration listing",
+      "url": "https://www.dataforthai.com/company/0105566062007/",
+      "published_at": null,
+      "accessed_at": "2026-10-20",
+      "publisher": "DataforThai",
+      "source_type": "secondary_registry_aggregator",
+      "access_status": "body_read",
+      "evidence_type": "reported_fact",
+      "claims": [
+        "公司登记号0105566062007，登记日2023-03-22，登记资本1,000,000 THB。",
+        "列出的业务为烘焙食品零售及展会售卖。"
+      ],
+      "boundary": "第三方汇集政府开放数据，并非此次直接取得的登记原件；公司注册日不等于角色诞生日。其财务报表需登录，未读。源页链接的 DBD 公司档案403，未能独立核原件。",
+      "web_refs": [
+        "turn292view1",
+        "turn294view1"
+      ],
+      "related_sources": [
+        {
+          "url": "https://datawarehouse.dbd.go.th/company/profile/50105566062007",
+          "access_status": "blocked_403",
+          "purpose": "尝试核实政府原始登记/财务；未读取"
+        }
+      ],
+      "images_visually_inspected": false
+    },
+    {
+      "id": "A04",
+      "title": "Butterbear company 2025 results, citing DBD",
+      "url": "https://www.bangkokbiznews.com/business/1234795",
+      "published_at": null,
+      "accessed_at": "2026-10-20",
+      "publisher": "Bangkok Biz News",
+      "source_type": "secondary_financial_reporting",
+      "access_status": "body_read",
+      "evidence_type": "reported_fact",
+      "claims": [
+        "报道引泰国商业发展厅 DBD：2023公司收入7.4百万THB、净利276340THB；2024收入544百万、净利212百万THB；2025收入577百万、净利217百万THB。"
+      ],
+      "boundary": "这是媒体转述公司报表，未取得原始报表。不能记成独立IP授权收入、零售GMV或个人收入。正文未显示文章发布日期；页首2026-10-20是网站当日日期，不据此标为发布日。仅保留原报道舍入值，不计算精确增长或市占。",
+      "web_refs": [
+        "turn294view0"
+      ],
+      "related_sources": [],
+      "images_visually_inspected": false
+    },
+    {
+      "id": "A05",
+      "title": "TAT launches Apo + Butterbear tourism campaign",
+      "url": "https://www.tatnewsthai.org/article-infos/5731",
+      "published_at": "2024-08-05",
+      "accessed_at": "2026-10-20",
+      "publisher": "Tourism Authority of Thailand",
+      "source_type": "primary_government_campaign",
+      "access_status": "body_read",
+      "evidence_type": "self_report",
+      "claims": [
+        "TAT、Butterbear及Be On Cloud公布“สุขทันทีกับอาโปและน้องเนย”旅游推广，预定六个月。",
+        "新闻稿预计活动带动500百万THB旅游收入。"
+      ],
+      "boundary": "500百万是预计旅游经济带动目标，不是实际结果，更不是熊或其公司收入。文中的400万社交粉丝属于演员 Apo，不能归熊。",
+      "web_refs": [
+        "turn283view2",
+        "turn284view3"
+      ],
+      "related_sources": [],
+      "images_visually_inspected": false
+    },
+    {
+      "id": "A06",
+      "title": "BUTTERBEAR Signature Apron Plush Doll",
+      "url": "https://butterbear.co.th/products/butterbear-signature-apron-plush-doll",
+      "published_at": null,
+      "accessed_at": "2026-10-20",
+      "publisher": "Butterbear official shop",
+      "source_type": "primary_product",
+      "access_status": "body_read",
+      "evidence_type": "self_report",
+      "claims": [
+        "页面标价750 THB，毛绒高23cm。",
+        "国际订单采用DDU，进口税费由收件人承担。"
+      ],
+      "boundary": "现价和地区口径截至访问日，非首发价。未列出可核纤维比例；Others段出现无关婴儿连衣裙文字，视为模板污染，不作为商品资料。",
+      "web_refs": [
+        "turn283view4",
+        "turn284view1"
+      ],
+      "related_sources": [],
+      "images_visually_inspected": false
+    },
+    {
+      "id": "A07",
+      "title": "Butterbear Plush Coffee Shop",
+      "url": "https://butterbear.co.th/products/butterbear-plush-coffee-shop",
+      "published_at": null,
+      "accessed_at": "2026-10-20",
+      "publisher": "Butterbear official shop",
+      "source_type": "primary_product",
+      "access_status": "body_read",
+      "evidence_type": "self_report",
+      "claims": [
+        "标价950 THB；店铺结构10×23×19cm、熊毛绒约12cm。",
+        "商品页说明有瑕疵/损坏的换货需收货后7天内提出；用户使用造成损坏不适用。"
+      ],
+      "boundary": "材料具体纤维未明；不使用页面无关婴儿连衣裙模板文案。售后政策说明规则，不能当成已发生高瑕疵率证据。",
+      "web_refs": [
+        "turn281view0"
+      ],
+      "related_sources": [],
+      "images_visually_inspected": false
+    },
+    {
+      "id": "A08",
+      "title": "SNIDEL HOME × Butterbear official launch",
+      "url": "https://prtimes.jp/main/html/rd/p/000004032.000018505.html",
+      "published_at": "2026-06-26",
+      "accessed_at": "2026-10-20",
+      "publisher": "MASH / SNIDEL HOME via PR TIMES",
+      "source_type": "primary_brand_release",
+      "access_status": "body_read",
+      "evidence_type": "self_report",
+      "claims": [
+        "日本合作系列2026-06-26推出，共12型；新闻稿价格均含税。",
+        "针织短裤7920 JPY，三色，附可用按扣拆卸熊毛绒。",
+        "拉链连帽衫12100 JPY，三色，棉混纺卫衣布，并带可拆熊毛绒。"
+      ],
+      "boundary": "品牌发布可证发售规格，不证销量。不同商品材料不能互相套用，未获得纤维比例或尺寸表。",
+      "web_refs": [
+        "turn283view1"
+      ],
+      "related_sources": [],
+      "images_visually_inspected": false
+    },
+    {
+      "id": "A09",
+      "title": "Furyu Butterbear Japanese amusement prizes",
+      "url": "https://www.furyu.jp/news/2026/06/butterbear/",
+      "published_at": "2026-06-26",
+      "accessed_at": "2026-10-20",
+      "publisher": "Furyu",
+      "source_type": "primary_manufacturer_release",
+      "access_status": "body_read",
+      "evidence_type": "self_report",
+      "claims": [
+        "日本景品从2026年6月下旬开始投放；6月超级BIG毛绒高约36cm、1种。",
+        "7月续有甜甜圈BIG毛绒及爱心挂件。"
+      ],
+      "boundary": "夹娃娃机景品无统一单件零售价，不填写虚构零售价或保底获取成本。发布稿不等于所有门店同日有货。",
+      "web_refs": [
+        "turn283view0"
+      ],
+      "related_sources": [],
+      "images_visually_inspected": false
+    },
+    {
+      "id": "A10",
+      "title": "Qualia Butterbear printed mini tote",
+      "url": "https://www.qualia-45.jp/product/view/2041",
+      "published_at": "2026-09",
+      "accessed_at": "2026-10-20",
+      "publisher": "Qualia",
+      "source_type": "primary_manufacturer_product",
+      "access_status": "body_read",
+      "evidence_type": "self_report",
+      "claims": [
+        "胶囊迷你托特包，日本500 JPY含税、5款；本体聚酯纤维。",
+        "配套2026-09-04公告称9月3日开始发售，约23cm。"
+      ],
+      "boundary": "各地区投放有时间差；产品页门店列表明确库存可能不同，不能视为实时库存。约23cm为公告表述，不擅自补全长宽高。",
+      "web_refs": [
+        "turn291view2",
+        "turn285view1"
+      ],
+      "related_sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000039.000173164.html",
+          "published_at": "2026-09-04",
+          "access_status": "body_read",
+          "purpose": "9月3日发售、约23cm、含税定价；同一制造商发布不计独立佐证"
+        }
+      ],
+      "images_visually_inspected": false
+    },
+    {
+      "id": "A11",
+      "title": "Buttery Day postponed on 21–22 February 2026",
+      "url": "https://www.sanook.com/news/9874814/",
+      "published_at": "2026-02-21",
+      "accessed_at": "2026-10-20",
+      "publisher": "Sanook",
+      "source_type": "secondary_reporting_of_official_notice",
+      "access_status": "body_read",
+      "evidence_type": "reported_fact",
+      "claims": [
+        "报道转述官方：原定2026-02-21与22日14:00在Emsphere Café的Buttery Day紧急延期，保留中签者参与权利并致歉。",
+        "报道提到部分远行粉丝可能无法改日参加。"
+      ],
+      "boundary": "官方原始社交帖子未独立读取，正文转述及展示截图；不能把记者概括当作粉丝抽样统计。不讨论或猜测玩偶内的人、具体健康问题，也不能泛化为长期运营失败。",
+      "web_refs": [
+        "turn291view0"
+      ],
+      "related_sources": [],
+      "images_visually_inspected": false
+    },
+    {
+      "id": "A12",
+      "title": "起重集官方授权案例页",
+      "url": "https://www.qizhongjicn.cn/business.php",
+      "published_at": null,
+      "accessed_at": "2026-10-20",
+      "publisher": "厦门起重集文化传媒有限公司",
+      "source_type": "primary_agency_portfolio",
+      "access_status": "body_read",
+      "evidence_type": "self_report",
+      "claims": [
+        "官网“授权案例”列黄油小熊×CACO、威露士、CASETiFY、Charlotte Tilbury、潮宏基、ZARA、瑞幸等。"
+      ],
+      "boundary": "可证起重集公开展示这些合作案例，不能仅据此断言独家总代、合同地区期限、商标所有权、收购或各项目销量。关于页重试超时，角色页超时；没有据搜索摘要补写合同。",
+      "web_refs": [
+        "turn292view0"
+      ],
+      "related_sources": [],
+      "images_visually_inspected": false
+    },
+    {
+      "id": "S01",
+      "title": "Signature Butterbear Apron Stickers",
+      "url": "https://butterbear.co.th/products/signature-butterbear-apron-stickers",
+      "publisher": "Butterbear official shop",
+      "published_at": null,
+      "access_status": "body_read",
+      "source_type": "primary_product",
+      "boundary": "A6贴纸，75THB；当前标价，非首发时间；无关婴儿连衣裙模板文案未采用。",
+      "related_sources": []
+    },
+    {
+      "id": "S02",
+      "title": "瑞幸咖啡Voice：2024年三季度经营传播稿",
+      "url": "https://wallstreetcn.com/articles/3732505",
+      "publisher": "瑞幸咖啡Voice / 华尔街见闻",
+      "published_at": "2024-10-31",
+      "source_type": "brand_byline_release",
+      "boundary": "署名品牌传播稿：小黄油系列首周1333万杯，非独立审计及IP贡献拆分。",
+      "related_sources": []
+    },
+    {
+      "id": "S03",
+      "title": "黄油小熊上海快闪现场采访",
+      "url": "https://www.shanghai.gov.cn/nw4411/20250525/7e95ea855e0943bfa8e6da7608ad05ce.html",
+      "publisher": "解放日报 / 上海市政府转载",
+      "published_at": "2025-05-25",
+      "source_type": "primary_reporting_interviews",
+      "boundary": "少量受访者的到访与购买行为，不代表全体；商场指标为商场自报，不是IP净销售。",
+      "related_sources": []
+    }
+  ],
+  "products": [
+    {
+      "name": "Signature Apron Plush Doll",
+      "market": "Thailand official / international shipment",
+      "price": 750,
+      "currency": "THB",
+      "tax_status": "not_explicit",
+      "spec": "23 cm plush",
+      "material": "plush; fiber composition unknown",
+      "launch_date": null,
+      "source": "A06"
+    },
+    {
+      "name": "Plush Coffee Shop",
+      "market": "Thailand official / international shipment",
+      "price": 950,
+      "currency": "THB",
+      "tax_status": "not_explicit",
+      "spec": "shop 10 × 23 × 19 cm; bear approx.12 cm",
+      "material": "plush; fiber composition unknown",
+      "launch_date": null,
+      "source": "A07"
+    },
+    {
+      "name": "SNIDEL HOME knit shorts",
+      "market": "Japan",
+      "price": 7920,
+      "currency": "JPY",
+      "tax_status": "included",
+      "spec": "3 colors; removable snap-on plush",
+      "material": "knit; composition not verified",
+      "launch_date": "2026-06-26",
+      "source": "A08"
+    },
+    {
+      "name": "SNIDEL HOME zipped hoodie",
+      "market": "Japan",
+      "price": 12100,
+      "currency": "JPY",
+      "tax_status": "included",
+      "spec": "3 colors; removable snap-on plush",
+      "material": "cotton-blend sweatshirt fabric; percentage unknown",
+      "launch_date": "2026-06-26",
+      "source": "A08"
+    },
+    {
+      "name": "Furyu Super BIG plush",
+      "market": "Japan amusement",
+      "price": null,
+      "currency": "JPY",
+      "tax_status": "not_applicable",
+      "spec": "approx.36 cm; 1 style",
+      "material": "plush; fiber composition unknown",
+      "launch_date": "late June 2026",
+      "source": "A09"
+    },
+    {
+      "name": "Qualia printed mini tote",
+      "market": "Japan capsule",
+      "price": 500,
+      "currency": "JPY",
+      "tax_status": "included",
+      "spec": "5 styles; approx.23 cm",
+      "material": "polyester body",
+      "launch_date": "2026-09-03 (regional differences)",
+      "source": "A10"
+    },
+    {
+      "name": "Signature Apron Stickers",
+      "price": 75,
+      "currency": "THB",
+      "spec": "A6",
+      "launch_date": null,
+      "source": "S01"
+    }
+  ],
+  "numbers": [
+    {
+      "metric": "独立IP授权收入",
+      "value": null,
+      "unit": "THB",
+      "period": "截至2026-10-20",
+      "type": "hypothesis",
+      "scope": "没有原始分部收入；公司收入不能替代",
+      "sources": [
+        "A04"
+      ]
+    },
+    {
+      "metric": "经原始财报核验的公司收入",
+      "value": null,
+      "unit": "THB",
+      "period": "2025",
+      "type": "hypothesis",
+      "scope": "仅有媒体转述；原始DBD档案访问受限",
+      "sources": [
+        "A03",
+        "A04"
+      ]
+    },
+    {
+      "metric": "旅游推广预期带动收入",
+      "value": 500000000,
+      "unit": "THB",
+      "period": "2024-08宣布的六个月计划",
+      "type": "self_report",
+      "scope": "TAT的旅游经济目标，非已兑现结果、非熊的收入",
+      "sources": [
+        "A05"
+      ]
+    }
+  ],
+  "secondary_financial_reports": [
+    {
+      "year": 2023,
+      "entity": "Butterbear Co., Ltd.",
+      "revenue": 7400000,
+      "net_profit": 276340,
+      "currency": "THB",
+      "scope": "company; not isolated character licensing",
+      "source": "A04",
+      "verification": "secondary media citing DBD; original financial statement not retrieved",
+      "rounded": false
+    },
+    {
+      "year": 2024,
+      "entity": "Butterbear Co., Ltd.",
+      "revenue": 544000000,
+      "net_profit": 212000000,
+      "currency": "THB",
+      "scope": "company; not isolated character licensing",
+      "source": "A04",
+      "verification": "secondary media citing DBD; original financial statement not retrieved",
+      "rounded": true
+    },
+    {
+      "year": 2025,
+      "entity": "Butterbear Co., Ltd.",
+      "revenue": 577000000,
+      "net_profit": 217000000,
+      "currency": "THB",
+      "scope": "company; not isolated character licensing",
+      "source": "A04",
+      "verification": "secondary media citing DBD; original financial statement not retrieved",
+      "rounded": true
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "烘焙提供可以反复演出的日常。",
+      "type": "inference",
+      "evidence": "V01端点心、V06店铺场景与真实烘焙业务相互呼应；小熊可以接待、分享、工作和过节。",
+      "boundary": "内容与商品的对应关系可观察，但未取得逐条内容的转化数据。",
+      "sources": [
+        "A01",
+        "A07"
+      ]
+    },
+    {
+      "claim": "人偶表演把静态图案变成可期待的见面。",
+      "type": "inference",
+      "evidence": "官方旅游活动组织跟随角色旅行与见面，创办者谈到性格受反馈发展。",
+      "boundary": "现场名额、商场客流、媒体与明星渠道都可能贡献；不能把收入全归给跳舞。",
+      "sources": [
+        "A02",
+        "A05"
+      ]
+    },
+    {
+      "claim": "换装是内容更新；随身物件让陪伴离开门店。",
+      "type": "inference",
+      "evidence": "V01与V03服饰不同而保留脸部；日本服装可拆熊和托特扩大使用场景。",
+      "boundary": "联名数量不等于复购或长期生命力，跨境运费和活动可达性会形成阻力。",
+      "sources": [
+        "A08",
+        "A10",
+        "A11"
+      ]
+    }
+  ],
+  "gaps": [
+    "精确创作日、最早原帖与第一笔交易未取得；约2023是回溯判断。Emsphere开店日期有文本冲突。",
+    "创办人可核；视觉设计分工、版权及独家代理合同、授权期限地域未取得。",
+    "公司财务仅取得媒体引DBD，未读取政府原报表；独立IP授权收入、商品销量、复购率未知。",
+    "小红书连接返回“connected browser approval session failed”；两组站内搜索未能执行。公开索引没有得到可采纳笔记，评论样本为0。",
+    "未建立最近30天官方连续内容样本；粉丝画像、互动中位数与购买者分布均未统计。",
+    "未取得全套标准三视图、生产色卡、首次商品清单、材料比例及量产良率。",
+    "纯文字两版未通过；参考辅助仅限V01既有构图的二维重绘，未证明新动作或跨模型稳定性。",
+    "英文、实物概念与原创找形未测试，未发布为可用提示词。",
+    "本文聚焦Nong Noey；媒体提及Bianca等扩展角色，未据此拼合不同角色设定。"
+  ],
+  "source_families": "同一品牌的商品页不视为多个独立研究；代理案例不等于合同全文。"
+}

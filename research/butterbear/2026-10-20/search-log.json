@@ -1,0 +1,22 @@
+{
+  "observed_at": "2026-10-20",
+  "platform": "小红书",
+  "connection_attempt": "浏览器会话命名及标签读取返回：The connected browser approval session failed. The tool was not replayed.",
+  "queries": [
+    {
+      "query": "黄油小熊 品牌介绍",
+      "onsite_status": "blocked_before_execution",
+      "public_index_status": "executed_no_relevant_note_adopted",
+      "notes_read": []
+    },
+    {
+      "query": "黄油小熊 产品汇总",
+      "onsite_status": "blocked_before_execution",
+      "public_index_status": "executed_no_relevant_note_adopted",
+      "notes_read": []
+    }
+  ],
+  "direct_notes_read": 0,
+  "comments_sampled": 0,
+  "boundary": "站内两组未执行；公开索引查询不替代站内搜索。不沿用上一IP的页面状态当本轮事实。"
+}

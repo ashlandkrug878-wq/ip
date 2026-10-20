@@ -1,0 +1,425 @@
+{
+  "id": "butterbear",
+  "name": "黄油小熊",
+  "aliases": [
+    "Butterbear",
+    "Nong Noey",
+    "น้องเนย",
+    "หมีเนย"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-20",
+  "updated": "2026-10-20",
+  "summary": "从烘焙业务的接待角色，发展为可被等待和观看的陪伴偶像；识别靠脸部组合，持续性靠日常表演。纯文字未通过，参考辅助二维有限接近。",
+  "owner": {
+    "creator": "品牌共同创办：Boom Thanawan Vongcharoenrat 与 Bell Thanapa Pangputhipong；视觉设计具体分工未知",
+    "operator": "Butterbear Co., Ltd.；起重集公开展示中国联名案例",
+    "relation": "经营主体与合作展示可核，未取得版权转让、独家性或股权合同",
+    "since": null,
+    "sources": [
+      "A01",
+      "A02",
+      "A12"
+    ]
+  },
+  "origin": {
+    "path": [
+      "产品先行",
+      "短视频"
+    ],
+    "year": 2023,
+    "year_basis": "approximate retrospective account",
+    "story": "烘焙业务先提供场景，角色随线上业务出现；后续短视频和人偶见面扩大接触。",
+    "sources": [
+      "A01",
+      "A02"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "约2023",
+      "event": "线上烘焙业务与角色共同出现。根据2024年7月创办者的一岁自述推定，精确首发日未知。",
+      "type": "self_report",
+      "sources": [
+        "A02"
+      ]
+    },
+    {
+      "date": "2024上半年",
+      "event": "快闪、舞蹈与门店内容逐渐获得关注；创办者回忆早期也有路人不理会。具体首店日期存在冲突。",
+      "type": "self_report",
+      "sources": [
+        "A02"
+      ]
+    },
+    {
+      "date": "2024-08-05",
+      "event": "泰国旅游局公布与Apo、Butterbear合作的六个月旅游推广。",
+      "type": "fact",
+      "sources": [
+        "A05"
+      ]
+    },
+    {
+      "date": "2026-02-21 / 22",
+      "event": "Buttery Day临时延期，保留原参与权。这里引用媒体对官方公告的转述。",
+      "type": "fact",
+      "sources": [
+        "A11"
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "event": "SNIDEL HOME联名推出；Furyu公布日本景品，6月下旬起投放。",
+      "type": "fact",
+      "sources": [
+        "A08",
+        "A09"
+      ]
+    },
+    {
+      "date": "2026-09-03起",
+      "event": "Qualia迷你托特胶囊商品发售；各地铺货时间不同。",
+      "type": "fact",
+      "sources": [
+        "A10"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "今天也想把一点甜，分享给你。",
+    "sentence_type": "陪伴",
+    "basis": "inferred",
+    "sources": [
+      "A01"
+    ]
+  },
+  "core": {
+    "personality": "活泼、亲近、有礼",
+    "emotion": "外放",
+    "action": "分享点心、跳舞、合掌回应与换装出场",
+    "basis": "官方活动介绍与样本观察"
+  },
+  "insight": {
+    "scene": "工作间隙刷短片、旅行见面、带回一件小物",
+    "behavior": "把一个角色的日常当作可期待的短暂休息",
+    "state": "想从要求和效率里暂时松下来",
+    "conflict": "需要被照顾的轻松感，又不想解释自己的压力",
+    "unsaid": "让我陪你开心一会儿，也让我暂时做个孩子",
+    "basis": "hypothesis；没有直接用户访谈"
+  },
+  "circle": {
+    "who": "泰国与海外关注者在媒体采访中出现；不外推年龄性别比例",
+    "where": "官方社媒、烘焙店、见面活动、授权商品渠道",
+    "buy": "可核实SKU与公司财务报道；个体购买和复购样本不足",
+    "signs": "Nong Noey、“三岁”虚构设定、把熊当作孩子的称呼及期待见面",
+    "share": "舞蹈、换装和接待动作易被截取传播；机制推断",
+    "breakout": "旅游推广与日本商品跨渠道可核，跨平台去重粉丝未知"
+  },
+  "pendulum": {
+    "position": "软萌治愈",
+    "against": "提供明亮、无攻击性的童年陪伴；这是表达站位，不声称整个市场从某种审美统一转向。"
+  },
+  "form": {
+    "archetype": "动物类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "头型",
+      "五官"
+    ],
+    "mark": "宽圆鼓颊、圆耳、深棕竖椭圆眼与窄浅色眼白、红棕小鼻及短笑弧的组合",
+    "face": "眼鼻嘴集中在脸的中下部；没有大块白口鼻罩，嘴形可随表情变化",
+    "emotion": "外放",
+    "odd": "软圆身体与利落舞蹈/接待动作形成动态反差，非怪异器官",
+    "density": "中等",
+    "naming": "描述",
+    "group": "单角色",
+    "group_scope": "本卡聚焦Nong Noey，不断言品牌只有一个角色"
+  },
+  "collide_combo": "金麦色宽圆脸熊＋同样的眼白/椭圆眼/红棕鼻笑嘴比例＋绿白围裙及烘焙接待姿态整组易碰撞；换装或换色不足以建立原创。",
+  "color": {
+    "mode": "单色识别",
+    "main": "金麦色主体，深棕五官与奶白眼白",
+    "signature": "金麦身体与深浅脸部关系为样本内重复；绿白是围裙款色系",
+    "notes": "均为视觉估计，非官方色卡；圣诞红绿、春日黄蓝与摄影黄底不写作全IP不变量。"
+  },
+  "materials": "插画用笔触表现短绒；23cm围裙熊为毛绒，商品图可见脸部线迹及布围裙，纤维未公布；Qualia托特本体聚酯有厂家证据。",
+  "carrier": {
+    "primary": "线下人偶",
+    "secondary": "短视频"
+  },
+  "product": {
+    "first_category": "其他",
+    "first_category_note": "起盘为烘焙，首个明确SKU未核",
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "泰国样本75–950THB；日本托特500JPY含税、服饰7920/12100JPY含税；景品无统一单价。不是全球价格带。",
+    "sources": [
+      "S01",
+      "A06",
+      "A07",
+      "A08",
+      "A09",
+      "A10"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "独立IP授权收入",
+      "value": null,
+      "unit": "THB",
+      "period": "截至2026-10-20",
+      "type": "hypothesis",
+      "scope": "没有原始分部收入；公司收入不能替代",
+      "sources": [
+        "A04"
+      ]
+    },
+    {
+      "metric": "经原始财报核验的公司收入",
+      "value": null,
+      "unit": "THB",
+      "period": "2025",
+      "type": "hypothesis",
+      "scope": "仅有媒体转述；原始DBD档案访问受限",
+      "sources": [
+        "A03",
+        "A04"
+      ]
+    },
+    {
+      "metric": "旅游推广预期带动收入",
+      "value": 500000000,
+      "unit": "THB",
+      "period": "2024-08宣布的六个月计划",
+      "type": "self_report",
+      "scope": "TAT的旅游经济目标，非已兑现结果、非熊的收入",
+      "sources": [
+        "A05"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "烘焙提供可以反复演出的日常。",
+      "type": "inference",
+      "evidence": "V01端点心、V06店铺场景与真实烘焙业务相互呼应；小熊可以接待、分享、工作和过节。",
+      "boundary": "内容与商品的对应关系可观察，但未取得逐条内容的转化数据。",
+      "sources": [
+        "A01",
+        "A07"
+      ]
+    },
+    {
+      "claim": "人偶表演把静态图案变成可期待的见面。",
+      "type": "inference",
+      "evidence": "官方旅游活动组织跟随角色旅行与见面，创办者谈到性格受反馈发展。",
+      "boundary": "现场名额、商场客流、媒体与明星渠道都可能贡献；不能把收入全归给跳舞。",
+      "sources": [
+        "A02",
+        "A05"
+      ]
+    },
+    {
+      "claim": "换装是内容更新；随身物件让陪伴离开门店。",
+      "type": "inference",
+      "evidence": "V01与V03服饰不同而保留脸部；日本服装可拆熊和托特扩大使用场景。",
+      "boundary": "联名数量不等于复购或长期生命力，跨境运费和活动可达性会形成阻力。",
+      "sources": [
+        "A08",
+        "A10",
+        "A11"
+      ]
+    }
+  ],
+  "counterexamples": "早期快闪无人注意为创办者回忆；2026-02活动延期为具体运营摩擦。未发现足够证据判定整体商业失败。",
+  "theory": {
+    "shell": "宽脸、浅色眼白、深棕椭圆眼与红棕鼻笑嘴；服装改变而脸部关系保持。",
+    "core": "把日常小快乐演给人看，并给予亲近的回应。",
+    "shadow": "熊、毛绒、大眼与烘焙均为公共元素；差异来自具体脸部组合与持续表演关系。",
+    "two_layers": {
+      "surface": "路人能直接读到友好、柔软与分享食物；研究推断。",
+      "deep": "长期关注者可能期待角色今天的衣服、动作与活动；没有留存采样证明。"
+    },
+    "validation": "公司收入报道比单条点赞更接近经营表现，但缺IP分部与原报表；商品上架不等于实销。"
+  },
+  "for_skills": {
+    "lab": "先寻找能持续发生的小日常：谁在何时需要一句轻松的回应；不要只写“治愈可爱”。",
+    "form": "可借圆软轮廓与清晰眼鼻关系的层级方法；须另建原型、比例及五官身份，不复用整组脸与围裙。",
+    "studio": "让服装/场景更新服务固定性格；毛绒、印花、人偶分别验证脸部可读性、缝线与穿着活动性。"
+  },
+  "gaps": [
+    "精确创作日、最早原帖与第一笔交易未取得；约2023是回溯判断。Emsphere开店日期有文本冲突。",
+    "创办人可核；视觉设计分工、版权及独家代理合同、授权期限地域未取得。",
+    "公司财务仅取得媒体引DBD，未读取政府原报表；独立IP授权收入、商品销量、复购率未知。",
+    "小红书连接返回“connected browser approval session failed”；两组站内搜索未能执行。公开索引没有得到可采纳笔记，评论样本为0。",
+    "未建立最近30天官方连续内容样本；粉丝画像、互动中位数与购买者分布均未统计。",
+    "未取得全套标准三视图、生产色卡、首次商品清单、材料比例及量产良率。",
+    "纯文字两版未通过；参考辅助仅限V01既有构图的二维重绘，未证明新动作或跨模型稳定性。",
+    "英文、实物概念与原创找形未测试，未发布为可用提示词。",
+    "本文聚焦Nong Noey；媒体提及Bianca等扩展角色，未据此拼合不同角色设定。"
+  ],
+  "sources": [
+    {
+      "id": "research-web",
+      "title": "黄油小熊完整研究网页",
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/butterbear/2026-10-20/",
+      "publisher": "本研究归档",
+      "published": "2026-10-20",
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A01",
+      "title": "Butterbear official About / Privacy Policy",
+      "url": "https://butterbear.co.th/pages/about",
+      "publisher": "Butterbear",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A02",
+      "title": "创办人 Boom 的 Matichon 原采访",
+      "url": "https://www.matichon.co.th/lifestyle/news_4666519",
+      "publisher": "Matichon",
+      "published": "2024-07-06",
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A03",
+      "title": "BUTTERBEAR CO., LTD. registration listing",
+      "url": "https://www.dataforthai.com/company/0105566062007/",
+      "publisher": "DataforThai",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A04",
+      "title": "Butterbear company 2025 results, citing DBD",
+      "url": "https://www.bangkokbiznews.com/business/1234795",
+      "publisher": "Bangkok Biz News",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A05",
+      "title": "TAT launches Apo + Butterbear tourism campaign",
+      "url": "https://www.tatnewsthai.org/article-infos/5731",
+      "publisher": "Tourism Authority of Thailand",
+      "published": "2024-08-05",
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A06",
+      "title": "BUTTERBEAR Signature Apron Plush Doll",
+      "url": "https://butterbear.co.th/products/butterbear-signature-apron-plush-doll",
+      "publisher": "Butterbear official shop",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A07",
+      "title": "Butterbear Plush Coffee Shop",
+      "url": "https://butterbear.co.th/products/butterbear-plush-coffee-shop",
+      "publisher": "Butterbear official shop",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A08",
+      "title": "SNIDEL HOME × Butterbear official launch",
+      "url": "https://prtimes.jp/main/html/rd/p/000004032.000018505.html",
+      "publisher": "MASH / SNIDEL HOME via PR TIMES",
+      "published": "2026-06-26",
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A09",
+      "title": "Furyu Butterbear Japanese amusement prizes",
+      "url": "https://www.furyu.jp/news/2026/06/butterbear/",
+      "publisher": "Furyu",
+      "published": "2026-06-26",
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A10",
+      "title": "Qualia Butterbear printed mini tote",
+      "url": "https://www.qualia-45.jp/product/view/2041",
+      "publisher": "Qualia",
+      "published": "2026-09",
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A11",
+      "title": "Buttery Day postponed on 21–22 February 2026",
+      "url": "https://www.sanook.com/news/9874814/",
+      "publisher": "Sanook",
+      "published": "2026-02-21",
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "A12",
+      "title": "起重集官方授权案例页",
+      "url": "https://www.qizhongjicn.cn/business.php",
+      "publisher": "厦门起重集文化传媒有限公司",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "S01",
+      "title": "Signature Butterbear Apron Stickers",
+      "url": "https://butterbear.co.th/products/signature-butterbear-apron-stickers",
+      "publisher": "Butterbear official shop",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "S02",
+      "title": "瑞幸咖啡Voice：2024年三季度经营传播稿",
+      "url": "https://wallstreetcn.com/articles/3732505",
+      "publisher": "瑞幸咖啡Voice / 华尔街见闻",
+      "published": "2024-10-31",
+      "observed": "2026-10-20",
+      "access": "full"
+    },
+    {
+      "id": "S03",
+      "title": "黄油小熊上海快闪现场采访",
+      "url": "https://www.shanghai.gov.cn/nw4411/20250525/7e95ea855e0943bfa8e6da7608ad05ce.html",
+      "publisher": "解放日报 / 上海市政府转载",
+      "published": "2025-05-25",
+      "observed": "2026-10-20",
+      "access": "full"
+    }
+  ],
+  "archive": "research/butterbear/2026-10-20/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/butterbear/2026-10-20/",
+  "prompt_gate": {
+    "status": "limited_reference_2d_near",
+    "selected": "reference-v1",
+    "scope": "V01端点心既有插画；二维重绘",
+    "text_only": "revise",
+    "user_approved": false,
+    "downstream": "not_tested"
+  },
+  "publication": {
+    "date": "2026-10-20",
+    "destination": "GitHub选品板研究库",
+    "user_authorized": true,
+    "note": "按既有授权直接上传；不是用户审美验收。"
+  }
+}
