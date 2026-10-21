@@ -1,0 +1,577 @@
+{
+  "id": "anmoo",
+  "name": "ANMOO 阿默",
+  "aliases": [
+    "AnMoo",
+    "阿默",
+    "LITTLE ANMOO"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-21",
+  "updated": "2026-10-21",
+  "summary": "将成长小情绪拆成可见场景，以大眼内细节、厚上睑、小圆鼻和收拢姿态提供投射；系列收藏与跨载体使用须分别验证。核验10组官方图像、8组产品、6篇笔记及平面实测。",
+  "owner": {
+    "creator": null,
+    "operator": "TNTSPACE／杭州引爆时空文化创意有限公司",
+    "relation": "产品发行/版权栏署TNTSPACE；共创项目创建账号塌鼻子冬冬；自然人作者和合同链未核",
+    "since": "晚2023公开展示被早2024报道记载；更早登记待核",
+    "sources": [
+      "A03",
+      "A11",
+      "A13",
+      "A14"
+    ]
+  },
+  "origin": {
+    "path": [
+      "产品先行",
+      "渠道孵化"
+    ],
+    "year": null,
+    "story": "现行独处时光登记2023-01-10缺同期证据；记忆碎片登记2023-12-30，角色运营账号回顾2024年1月，早2024渠道报道记双城线下独发。精确诞生和首售未知。",
+    "sources": [
+      "A02",
+      "A03",
+      "A10",
+      "A11",
+      "X06"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2023-01-10",
+      "event": "独处时光现行百科登记；缺同期复核，不当诞生日。",
+      "type": "fact",
+      "sources": [
+        "A02"
+      ]
+    },
+    {
+      "date": "2023年12月",
+      "event": "2024-02-26报道回顾广州正佳TOP TOY店LED展示ANMOO等IP。",
+      "type": "self_report",
+      "sources": [
+        "A11"
+      ]
+    },
+    {
+      "date": "2024-01／2023-12-30",
+      "event": "记忆碎片：运营账号回顾2024年1月；现行百科登记2023-12-30，商家图鉴写2024-01-13。",
+      "type": "self_report",
+      "sources": [
+        "A03",
+        "X02",
+        "X06"
+      ]
+    },
+    {
+      "date": "至2024-03-18",
+      "event": "赢商网报道广州/成都TOP TOY线下独家发售记忆碎片。",
+      "type": "fact",
+      "sources": [
+        "A10"
+      ]
+    },
+    {
+      "date": "2024-07-29",
+      "event": "角色运营账号称记忆碎片停产、直营售罄，并预告新系列；数量未知。",
+      "type": "self_report",
+      "sources": [
+        "X06"
+      ]
+    },
+    {
+      "date": "2024-08-05",
+      "event": "不完美的世界现行登记日期，非同期首发公告。",
+      "type": "fact",
+      "sources": [
+        "A04",
+        "A01"
+      ]
+    },
+    {
+      "date": "2025-03-15",
+      "event": "世界是一个谎言童话现行登记日期，非同期首发公告。",
+      "type": "fact",
+      "sources": [
+        "A05",
+        "A01"
+      ]
+    },
+    {
+      "date": "2025-09-10",
+      "event": "侧耳倾听现行登记日期，非同期首发公告。",
+      "type": "fact",
+      "sources": [
+        "A06",
+        "A01"
+      ]
+    },
+    {
+      "date": "2025-09-20",
+      "event": "山野寻旅现行登记日期，非同期首发公告。",
+      "type": "fact",
+      "sources": [
+        "A07",
+        "A01"
+      ]
+    },
+    {
+      "date": "2026-04-13",
+      "event": "遗失的玩偶现行登记日期，非同期首发公告。",
+      "type": "fact",
+      "sources": [
+        "A08",
+        "A01"
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "event": "一隅间现行登记日期，非同期首发公告。",
+      "type": "fact",
+      "sources": [
+        "A09",
+        "A01"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "不用马上开心，我会安静地听你说。",
+    "sentence_type": "陪伴",
+    "basis": "inferred",
+    "sources": [
+      "A01",
+      "A13"
+    ]
+  },
+  "core": {
+    "personality": "安静、共情、包容",
+    "emotion": "内收",
+    "action": "倾听亲友与陌生人的情绪，提供无声支持",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "角落独处、成长回忆、桌面陈列、包上携带",
+    "behavior": "用单款小故事分享情绪，陈列收藏、寻旧系列，也有人因重量放弃回购",
+    "state": "研究假设：不想强行积极，希望自己的小情绪被看见",
+    "conflict": "外界热闹与内心局促并存",
+    "unsaid": "我也想被安静地理解",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "购买者年龄/性别/地域分布未知；不把her或i人标签当人口统计",
+    "where": "小红书整理、收藏实拍、反馈与线下TOP TOY渠道",
+    "buy": "X03持有可见；X04自述不回购；X06评论集齐/端盒意愿非订单",
+    "signs": "一代/二代、记忆碎片、隐藏、端盒、尾编",
+    "share": "单款故事、系列图鉴、陈列、包挂体验与售后咨询",
+    "breakout": "双城渠道报道可核；独立拉新、粉丝增长与规模未知"
+  },
+  "pendulum": {
+    "position": "软萌治愈",
+    "against": "研究归纳：不要求角色始终开心，允许局促、委屈与安静；不是同期审美份额或受众心理测量"
+  },
+  "form": {
+    "archetype": "类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "五官",
+      "头顶"
+    ],
+    "mark": "宽钝短发与弯钩小发簇、大圆耳、大眼内星形细节、厚上睑、红棕圆鼻与短嘴；部分脸有细短线",
+    "face": "宽圆脸、低位大眼、较厚的上眼睑、短圆鼻、小下弯嘴；眼色、睁闭、泪与张嘴可变",
+    "emotion": "内收",
+    "odd": "亮色或怪兽装扮配局促小表情，收拢姿态与庇护道具",
+    "density": "中等",
+    "naming": "人名",
+    "group": "单角色"
+  },
+  "collide_combo": "原创不整体搬用圆罩短发＋弯钩发簇＋大圆耳＋星形大眼厚上睑＋红圆鼻＋短下弯嘴及脸部短线的组合；借场景承载小情绪的机制，重建独立头脸和轮廓。",
+  "color": {
+    "mode": "多色系列",
+    "main": "棕粉、奶白蓝紫、橙紫绿、骨白苔绿、黄绿、紫毛绒随系列变化",
+    "signature": null,
+    "notes": "浅脸与较深五官/红棕鼻为候选明度关系，非官方强制；V03七点取样只属单款。"
+  },
+  "materials": "官方类别含PVC盲盒、毛绒盲盒、抽抽乐周边；插画不证明工艺，骨材/骨架、完整BOM和挂伴克重未知。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "其他",
+    "note": "共创叙事插画和产品图文辅助；长篇动画漫画体系未核"
+  },
+  "product": {
+    "first_category": null,
+    "hit_category": null,
+    "hit_product": null,
+    "first_note": "早期独处时光登记缺同期复核，不能确定首品；目录代表款不冒充销量冠军",
+    "price_band": "2026-10-21美国/全球目录：PVC系列USD21.50，遗失的玩偶毛绒USD25.50；抽抽乐USD18.50/CNY102规格口径未核；中国首价未知",
+    "sources": [
+      "A01",
+      "A02",
+      "A03",
+      "A08"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "ANMOO独立年度收入/销量",
+      "value": null,
+      "unit": null,
+      "period": "截至2026-10-21",
+      "type": "fact",
+      "sources": [
+        "A12",
+        "A15"
+      ],
+      "boundary": "未核得；多IP并列众筹/套数不拆分，公司和DORA/Zoraa数字不移用。"
+    },
+    {
+      "metric": "记忆碎片停产与直营售罄",
+      "value": null,
+      "unit": null,
+      "period": "2024-07-29公告",
+      "type": "self_report",
+      "sources": [
+        "X06"
+      ],
+      "boundary": "仅范围性状态自述；没有产量、净售出或其他渠道库存，不量化规模。"
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "将成长中的小情绪拆成场景，再让造型承载它。",
+      "type": "inference",
+      "evidence": "V09成长自问，V10生日局促和小熊诉说；V01抱膝、V03擦泪、V06角落框。",
+      "boundary": "叙事意图有图证，用户是否为故事而非装扮购买未被隔离。",
+      "sources": [
+        "A13",
+        "A03",
+        "A05",
+        "A09",
+        "X01"
+      ]
+    },
+    {
+      "claim": "大星眼、圆鼻与小嘴提供情绪焦点，眼睑和姿态让情绪有范围。",
+      "type": "inference",
+      "evidence": "V02/V03大星眼，V01闭眼，V04变眼色，V08眨眼微笑；非一种固定悲伤脸。",
+      "boundary": "识别率未测；星眼、卷发和雀斑都含公共语汇，不能单点解释成功。",
+      "sources": [
+        "A03",
+        "A04",
+        "A05",
+        "A06",
+        "A07"
+      ]
+    },
+    {
+      "claim": "系列收藏与主题接力可能延续关系，但停产本身不能证明失败。",
+      "type": "inference",
+      "evidence": "X03自述收集和陈列；X06公告称首系列停产、直营售罄，并见对新系列与集齐的期待。",
+      "boundary": "公告为角色运营账号自述，缺产销总量；意愿与可见持有不能推出净销量或实际复购率。",
+      "sources": [
+        "X03",
+        "X06",
+        "A04"
+      ]
+    },
+    {
+      "claim": "毛绒把陈列角色带入随身场景，重量与售后成为转化之后的门槛。",
+      "type": "inference",
+      "evidence": "V07包挂，X04因重量放弃携带与回购，也有接受重量的评论；X05自述瑕疵并咨询维修。",
+      "boundary": "没有实测克重、缺陷率或现行售后政策；不同SKU/包型不能合并推断。",
+      "sources": [
+        "A02",
+        "A08",
+        "X04",
+        "X05"
+      ]
+    }
+  ],
+  "counterexamples": "X04重量不适、放弃回购与可接受重量的同帖反例并存；X05有瑕疵和维修自述但结果未核。未找到匹配条件的失败系列/竞品经营对照，停产不判失败。",
+  "theory": {
+    "shell": "大眼内部星形、厚上睑、圆鼻、小嘴、短发卷钩和大耳形成组合；套帽和姿态会遮挡或改变轮廓。",
+    "core": "官方安静共情；共创项目用童年/成年记忆、小熊与局促场景展开，不要求单一悲伤。",
+    "shadow": "卷发、星眼、雀斑、圆鼻、童话、动物装扮均有公共语汇；差异要回到整体组合、系列情境与持续内容。",
+    "two_layers": {
+      "surface": "假设：看见可爱的小表情或具体装扮，也可能借它容纳不开心；尚未隔离购买原因。",
+      "deep": "局部证据：辨代际/单款、集齐、隐藏、陈列与寻找旧系列；尾编大娃也有更严格质量期待。"
+    },
+    "validation": "有持有实拍、渠道发售报道、品牌售罄自述和放弃回购自述；没有订单、净销量、复购率或粉丝增长，点赞不顶替成交。"
+  },
+  "for_skills": {
+    "lab": "将抽象共情写成具体局促场景和关系，不把安静等同于无聊或抑郁；年龄性别和购买动机需单独验证。",
+    "form": "借鉴低幅度表情与姿态承载情绪的组织方式，建立自己的轮廓、眼鼻嘴与记忆点；不搬用整套星眼红鼻卷钩组合。",
+    "studio": "每个主题给出动作与小道具的理由；从陈列转包挂时实测重量、挂点与使用包型，质量和售后不能由外观热度代替。"
+  },
+  "gaps": [
+    "原始自然人创作者及授权合同、版权登记未知；塌鼻子冬冬为共创项目创建账号，不能直接填作原始作者。",
+    "独处时光2023-01缺同期复核；记忆碎片2023-12-30登记与2024年1月回顾/1月13日图鉴并列；精确创作/全球首发未知。",
+    "X02三代图鉴日期均与现行登记不同；区域、实际开售和登记关系未核，图鉴非截至今日全量。",
+    "独立年度收入、销量、毛利、粉丝规模、复购与售后率未知；并列多IP众筹200万/5万套不分摊。",
+    "完整材料与连接结构、裸娃尺寸、中国首发价、实测挂伴克重未知；不能采信评论中的骨架推测为规格。",
+    "六篇笔记属定向样本，订单/真伪/合作属性未核；LIVE只见首画面、收藏仅1/3图，负面不能代表全体。",
+    "X05大娃SKU、限量50与瑕疵位置未独立核，维修/更换结论和最终售后未知。",
+    "共创项目详情只读第1—2/8页；作者身份及评论日期仍有缺口，叙事年龄不是作者或角色年龄。",
+    "官方基础正侧背手册、头像缩小/灰度/实体和用户辨识率未测。",
+    "本轮只测消失的魔法V03可见正面二维转绘；英文、原创六条、3D/毛绒与稳定性未测。",
+    "实测结论：纯文字两轮仍未通过；附图V2在V03可见正面二维转绘范围已接近。短圆罩发型、非对称眼睑与星眼、圆鼻短嘴、主要色块和擦泪提熊关系基本保留；发束、眼内光点、脸部短线、熊轮廓与轻微渐变仍有差异，橙色较原渲染亮。不宣称精确复刻、全IP母版或纯文字复现成功。"
+  ],
+  "sources": [
+    {
+      "id": "A01",
+      "title": "ANMOO官方百科",
+      "url": "https://tntspace.com/us/encyclopedia/AM",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "代号AM；安静倾听、头顶发簇感知情绪；英文使用her；八组产品目录。",
+      "boundary": "角色设定非实际用户研究；无个人作者署名；页面现价不是首发价。",
+      "type": "self_report"
+    },
+    {
+      "id": "A02",
+      "title": "独处时光",
+      "url": "https://tntspace.com/us/encyclopedia/products/593",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2023-01-10；类别Lucky Draw；Box Quantity 52；发行/版权栏TNTSPACE；目录展示价CNY 102。",
+      "boundary": "当前数据库非同期发布；类别非完整材料组成；物流Piece Size不作裸娃尺寸；抽抽乐价格/盒数不是统一单娃价或常规款数；独处时光早期日期缺同期验证。",
+      "type": "fact"
+    },
+    {
+      "id": "A03",
+      "title": "阿默记忆碎片",
+      "url": "https://tntspace.com/us/encyclopedia/products/642",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2023-12-30；类别PVC Blind Box；Box Quantity 9；发行/版权栏TNTSPACE；目录展示价USD 21.5。",
+      "boundary": "当前百科登记非同期公告；官方类别非完整BOM；物流尺寸不作裸娃厘米；目录当前价非中国首发价。",
+      "type": "fact"
+    },
+    {
+      "id": "A04",
+      "title": "不完美的世界",
+      "url": "https://tntspace.com/us/encyclopedia/products/559",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2024-08-05；类别PVC Blind Box；Box Quantity 9；发行/版权栏TNTSPACE；目录展示价USD 21.5。",
+      "boundary": "当前百科登记非同期公告；官方类别非完整BOM；物流尺寸不作裸娃厘米；目录当前价非中国首发价。",
+      "type": "fact"
+    },
+    {
+      "id": "A05",
+      "title": "世界是一个谎言童话",
+      "url": "https://tntspace.com/us/encyclopedia/products/560",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2025-03-15；类别PVC Blind Box；Box Quantity 9；发行/版权栏TNTSPACE；目录展示价USD 21.5。",
+      "boundary": "当前百科登记非同期公告；官方类别非完整BOM；物流尺寸不作裸娃厘米；目录当前价非中国首发价。",
+      "type": "fact"
+    },
+    {
+      "id": "A06",
+      "title": "侧耳倾听",
+      "url": "https://tntspace.com/us/encyclopedia/products/612",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2025-09-10；类别PVC Blind Box；Box Quantity 9；发行/版权栏TNTSPACE；目录展示价USD 21.5。",
+      "boundary": "当前百科登记非同期公告；官方类别非完整BOM；物流尺寸不作裸娃厘米；目录当前价非中国首发价。",
+      "type": "fact"
+    },
+    {
+      "id": "A07",
+      "title": "山野寻旅",
+      "url": "https://tntspace.com/us/encyclopedia/products/598",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2025-09-20；类别Lucky Draw；Box Quantity 54；发行/版权栏TNTSPACE；目录展示价USD 18.5。",
+      "boundary": "当前数据库非同期发布；类别非完整材料组成；物流Piece Size不作裸娃尺寸；抽抽乐价格/盒数不是统一单娃价或常规款数；独处时光早期日期缺同期验证。",
+      "type": "fact"
+    },
+    {
+      "id": "A08",
+      "title": "遗失的玩偶",
+      "url": "https://tntspace.com/us/encyclopedia/products/700",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2026-04-13；类别Plush Blind Box；Box Quantity 9；发行/版权栏TNTSPACE；目录展示价USD 25.5。",
+      "boundary": "当前百科登记非同期公告；官方类别非完整BOM；物流尺寸不作裸娃厘米；目录当前价非中国首发价。",
+      "type": "fact"
+    },
+    {
+      "id": "A09",
+      "title": "一隅间",
+      "url": "https://tntspace.com/us/encyclopedia/products/776",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2026-05-22；类别PVC Blind Box；Box Quantity 9；发行/版权栏TNTSPACE；目录展示价USD 21.5。",
+      "boundary": "当前百科登记非同期公告；官方类别非完整BOM；物流尺寸不作裸娃厘米；目录当前价非中国首发价。",
+      "type": "fact"
+    },
+    {
+      "id": "A10",
+      "title": "赢商网：顶流商圈离不开硬核潮玩",
+      "url": "https://m.winshang.com/news722211.html",
+      "publisher": "赢商网／王菀",
+      "published": "2024-03-18",
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "记忆碎片在广州/成都TOP TOY线下独家发售；使用ANMOO阿默名称。",
+      "boundary": "营销报道未列具体发售日；同段500万属于猪猪侠，标题1.25亿属于TOP TOY，均非ANMOO。",
+      "type": "fact"
+    },
+    {
+      "id": "A11",
+      "title": "浪潮新消费：一年卖出千万盲盒",
+      "url": "https://k.sina.cn/article_7000397102_1a141952e00101nski.html",
+      "publisher": "浪潮新消费／新浪转载",
+      "published": "2024-02-26",
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "记载2023年12月广州正佳TOP TOY与TNTSPACE联名店LED展示ANMOO等IP。",
+      "boundary": "回顾两个月前活动；公司营收5亿和1000万销量不能归ANMOO。",
+      "type": "self_report"
+    },
+    {
+      "id": "A12",
+      "title": "文创潮：TNTSPACE与IP产业万物共生",
+      "url": "https://finance.sina.com.cn/roll/2024-10-17/doc-incswtrv2469908.shtml",
+      "publisher": "文创潮／新浪转载",
+      "published": "2024-10-17",
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "将Rayan、ANMOO、Liita并列后提众筹超200万、单系列超5万套；ANMOO定位懂你的小情绪。",
+      "boundary": "公司发布会供数，非审计；并列句归属不明，不能拆成ANMOO独立经营数字；同源百度版去重。",
+      "type": "self_report"
+    },
+    {
+      "id": "A13",
+      "title": "AnMoo阿默的记忆碎片共创页",
+      "url": "https://tntspace.com/tw/innovation/112251",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial",
+      "supports": "官方共创页项目创建者为塌鼻子冬冬，已发布2项目；当前5010评分/1239评论计数。",
+      "boundary": "公开HTML实际读取成功；项目创建账号不是实名设计师证明。评论本体未载入，2023-10-29仍仅索引；评分/评论不是销量或历史人数。本轮只看项目详情第1—2/8页；不把叙事中的7岁/27岁当作者生平。",
+      "type": "self_report"
+    },
+    {
+      "id": "A14",
+      "title": "2022年实现逆势增长的潮玩公司TNT SPACE还有什么“独家秘笈”？",
+      "url": "https://www.chinalicensingexpo.com/cn/media_center/detail?id=15934",
+      "publisher": "CLE中国授权展",
+      "published": "2023-03-02",
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "CLE行业采访主体杭州引爆时空文化创意有限公司，品牌创立2022。",
+      "boundary": "品牌公司身份非ANMOO作者、首发年份或版权合同。",
+      "type": "self_report"
+    },
+    {
+      "id": "A15",
+      "title": "胖鲸CEO采访",
+      "url": "https://pangjing.cn/jingyingzhe-2024/",
+      "publisher": "胖鲸／CEO王泽群访谈",
+      "published": "2024-10-17",
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "ANMOO列于已发售IP，团队为每IP配置设计师与主理人。",
+      "boundary": "3亿年零售额属于DORA/Zoraa，不含ANMOO；无个人作者署名。",
+      "type": "self_report"
+    },
+    {
+      "id": "X01",
+      "title": "深度分析潮玩IP丨ANMOO丨阿默记忆碎片",
+      "url": "https://www.xiaohongshu.com/explore/6660fc6f000000000e033535",
+      "publisher": "小红书／有鲸有鱼-品牌设计",
+      "published": "2024-06-06",
+      "observed": "2026-10-21",
+      "access": "partial",
+      "supports": "借玩笑款解读不合群、成长和故事；称包装有盲文；画面是个人分析排版，含1:1比例示意和147g自报。",
+      "boundary": "正文与封面已读；未见多图页数标注；无评论；包装盲文、实际克重、引用名人语录未核；1:1不作官方比例；不证明所有购买者需求。",
+      "type": "secondary_claim"
+    },
+    {
+      "id": "X02",
+      "title": "阿默全系列图鉴来啦！",
+      "url": "https://www.xiaohongshu.com/explore/6863410d000000000d01a4a8",
+      "publisher": "小红书／清仓潮玩（收娃&接寄拍）",
+      "published": "2025-12-02",
+      "observed": "2026-10-21",
+      "access": "partial",
+      "supports": "只列3代：记忆碎片2024-01-13、不完美世界2024-08-18、谎言童话2025-03-31；均与现行官方登记不同。",
+      "boundary": "正文、单张完整图鉴和可见评论；商家整理不算截至今日全量；日期并列不自选其一；评论寻一代/三代渠道不能证明成交。",
+      "type": "secondary_claim"
+    },
+    {
+      "id": "X03",
+      "title": "我的LITTLE ANMOO收藏✨🌙",
+      "url": "https://www.xiaohongshu.com/explore/6abc674c000000000f03a400",
+      "publisher": "小红书／starzsea",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial",
+      "supports": "作者称喜欢一起陈列、每款小表情和故事；想继续收集；评论有交流重复款。",
+      "boundary": "正文、可见评论与封面1/3；09-30，美国；年份未单独核；未看后两图，无订单/金额/复购时序核验；不因地区标签推海外人群结构。",
+      "type": "secondary_claim"
+    },
+    {
+      "id": "X04",
+      "title": "ANMOO虽貌美也太重了吧！！！",
+      "url": "https://www.xiaohongshu.com/explore/69f74e98000000001b0218ab",
+      "publisher": "小红书／黄豆豆的黄",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial",
+      "supports": "作者认为太重不适合包挂，不再回购；有人同意，也有评论称挂帆布袋重量刚好或好看就值得。",
+      "boundary": "正文、可见评论与LIVE首画面；未播放完整动态；05-03，年份未单独核；无称重，不引用具体克数；评论内部有骨架未独立核，不当结构结论；不同包型和容忍度有差别，不推缺陷率。",
+      "type": "secondary_claim"
+    },
+    {
+      "id": "X05",
+      "title": "好消息，尾编阿默，坏消息，大瑕",
+      "url": "https://www.xiaohongshu.com/explore/686e55cb000000001203f94f",
+      "publisher": "小红书／尘",
+      "published": "2025-07-09",
+      "observed": "2026-10-21",
+      "access": "partial",
+      "supports": "作者自称限量50、尾编、大瑕；联系售后，评论提到蹭色可以维修，最终结果未见。",
+      "boundary": "正文、可见评论与封面；页数未标；未匹配官方SKU，50为用户自述不采作官方限量；未独立定位缺陷或原因，订单和最终售后未知；维修回复不等于当前品牌政策。",
+      "type": "secondary_claim"
+    },
+    {
+      "id": "X06",
+      "title": "记忆的碎片渐远，我们的故事继续🧩",
+      "url": "https://www.xiaohongshu.com/explore/66a75781000000002701f148",
+      "publisher": "小红书／LITTLE ANMOO",
+      "published": "2024-07-29",
+      "observed": "2026-10-21",
+      "access": "partial",
+      "supports": "角色运营口吻称2024年1月出现；即日起记忆碎片停产、官方直营全面售罄，新系列见；评论有人想端盒、持有5只并想集齐。",
+      "boundary": "正文、完整停产公告封面与可见评论；账号与物料具有品牌运营特征，但本轮未查完整认证主体；停产/直营售罄是账号自述，没有数量、他渠库存或净销售；2024年1月与官网2023-12-30并列；购买意愿不算订单。",
+      "type": "self_report"
+    }
+  ],
+  "archive": "research/anmoo/2026-10-21/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/anmoo/2026-10-21/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/anmoo/2026-10-21/"
+}

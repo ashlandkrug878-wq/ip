@@ -1,0 +1,191 @@
+{
+  "palette_id": "vanishing-magic",
+  "scope": "series_palette",
+  "colors": [
+    {
+      "palette_id": "vanishing-magic",
+      "color_id": "灰棕",
+      "name": "灰棕",
+      "role": "main",
+      "scope": "series_palette",
+      "hex_preview": "#9b8675",
+      "value_basis": "image_sample",
+      "surface_or_region": "头发",
+      "image_ids": [
+        "V03"
+      ],
+      "evidence_ids": [
+        "A05"
+      ],
+      "sample_method": "3000×3000 RGBA原文件单个不透明像素直接读取RGB；未校色",
+      "sample_coordinates_or_mask": [
+        1500,
+        800
+      ],
+      "area_description": "定性大/小色块，无面积比例",
+      "area_basis": "visual_estimate",
+      "material_context": "商品渲染包含高光阴影反射；单点不代表整块真实材料",
+      "variation_boundary": "仅属此款，不是全IP签名色",
+      "uncertainty": "屏幕近似，非官方色号、染色或量产验收标准"
+    },
+    {
+      "palette_id": "vanishing-magic",
+      "color_id": "浅桃白",
+      "name": "浅桃白",
+      "role": "neutral",
+      "scope": "series_palette",
+      "hex_preview": "#dbcec3",
+      "value_basis": "image_sample",
+      "surface_or_region": "额头",
+      "image_ids": [
+        "V03"
+      ],
+      "evidence_ids": [
+        "A05"
+      ],
+      "sample_method": "3000×3000 RGBA原文件单个不透明像素直接读取RGB；未校色",
+      "sample_coordinates_or_mask": [
+        1580,
+        1240
+      ],
+      "area_description": "定性大/小色块，无面积比例",
+      "area_basis": "visual_estimate",
+      "material_context": "商品渲染包含高光阴影反射；单点不代表整块真实材料",
+      "variation_boundary": "仅属此款，不是全IP签名色",
+      "uncertainty": "屏幕近似，非官方色号、染色或量产验收标准"
+    },
+    {
+      "palette_id": "vanishing-magic",
+      "color_id": "南瓜橙",
+      "name": "南瓜橙",
+      "role": "main",
+      "scope": "series_palette",
+      "hex_preview": "#b9652b",
+      "value_basis": "image_sample",
+      "surface_or_region": "短裤",
+      "image_ids": [
+        "V03"
+      ],
+      "evidence_ids": [
+        "A05"
+      ],
+      "sample_method": "3000×3000 RGBA原文件单个不透明像素直接读取RGB；未校色",
+      "sample_coordinates_or_mask": [
+        1400,
+        2200
+      ],
+      "area_description": "定性大/小色块，无面积比例",
+      "area_basis": "visual_estimate",
+      "material_context": "商品渲染包含高光阴影反射；单点不代表整块真实材料",
+      "variation_boundary": "仅属此款，不是全IP签名色",
+      "uncertainty": "屏幕近似，非官方色号、染色或量产验收标准"
+    },
+    {
+      "palette_id": "vanishing-magic",
+      "color_id": "蓝紫",
+      "name": "蓝紫",
+      "role": "support",
+      "scope": "series_palette",
+      "hex_preview": "#4a4b82",
+      "value_basis": "image_sample",
+      "surface_or_region": "上衣底色",
+      "image_ids": [
+        "V03"
+      ],
+      "evidence_ids": [
+        "A05"
+      ],
+      "sample_method": "3000×3000 RGBA原文件单个不透明像素直接读取RGB；未校色",
+      "sample_coordinates_or_mask": [
+        1460,
+        1880
+      ],
+      "area_description": "定性大/小色块，无面积比例",
+      "area_basis": "visual_estimate",
+      "material_context": "商品渲染包含高光阴影反射；单点不代表整块真实材料",
+      "variation_boundary": "仅属此款，不是全IP签名色",
+      "uncertainty": "屏幕近似，非官方色号、染色或量产验收标准"
+    },
+    {
+      "palette_id": "vanishing-magic",
+      "color_id": "奶油黄",
+      "name": "奶油黄",
+      "role": "support",
+      "scope": "series_palette",
+      "hex_preview": "#c3ae8d",
+      "value_basis": "image_sample",
+      "surface_or_region": "围巾",
+      "image_ids": [
+        "V03"
+      ],
+      "evidence_ids": [
+        "A05"
+      ],
+      "sample_method": "3000×3000 RGBA原文件单个不透明像素直接读取RGB；未校色",
+      "sample_coordinates_or_mask": [
+        1500,
+        1700
+      ],
+      "area_description": "定性大/小色块，无面积比例",
+      "area_basis": "visual_estimate",
+      "material_context": "商品渲染包含高光阴影反射；单点不代表整块真实材料",
+      "variation_boundary": "仅属此款，不是全IP签名色",
+      "uncertainty": "屏幕近似，非官方色号、染色或量产验收标准"
+    },
+    {
+      "palette_id": "vanishing-magic",
+      "color_id": "藤绿",
+      "name": "藤绿",
+      "role": "accent",
+      "scope": "series_palette",
+      "hex_preview": "#5b8764",
+      "value_basis": "image_sample",
+      "surface_or_region": "帽顶藤",
+      "image_ids": [
+        "V03"
+      ],
+      "evidence_ids": [
+        "A05"
+      ],
+      "sample_method": "3000×3000 RGBA原文件单个不透明像素直接读取RGB；未校色",
+      "sample_coordinates_or_mask": [
+        990,
+        560
+      ],
+      "area_description": "定性大/小色块，无面积比例",
+      "area_basis": "visual_estimate",
+      "material_context": "商品渲染包含高光阴影反射；单点不代表整块真实材料",
+      "variation_boundary": "仅属此款，不是全IP签名色",
+      "uncertainty": "屏幕近似，非官方色号、染色或量产验收标准"
+    },
+    {
+      "palette_id": "vanishing-magic",
+      "color_id": "红棕",
+      "name": "红棕",
+      "role": "line_face",
+      "scope": "series_palette",
+      "hex_preview": "#bc706b",
+      "value_basis": "image_sample",
+      "surface_or_region": "鼻头",
+      "image_ids": [
+        "V03"
+      ],
+      "evidence_ids": [
+        "A05"
+      ],
+      "sample_method": "3000×3000 RGBA原文件单个不透明像素直接读取RGB；未校色",
+      "sample_coordinates_or_mask": [
+        1580,
+        1460
+      ],
+      "area_description": "定性大/小色块，无面积比例",
+      "area_basis": "visual_estimate",
+      "material_context": "商品渲染包含高光阴影反射；单点不代表整块真实材料",
+      "variation_boundary": "仅属此款，不是全IP签名色",
+      "uncertainty": "屏幕近似，非官方色号、染色或量产验收标准"
+    }
+  ],
+  "recurring_identity": "浅脸配红棕鼻、较深眼部细节常见；蓝紫星眼不是每款都有：V01闭眼，V04/V06变绿，V08眨眼。",
+  "editorial_environment": "V09/V10旧纸与拼贴、V07暖光和织物、V06框内墙面均单列环境。",
+  "checks": "未做色卡、灰度、头像缩小、5cm实物或消费者识别实验。"
+}

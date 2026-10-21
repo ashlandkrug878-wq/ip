@@ -1,0 +1,44 @@
+[
+  {
+    "subject": "记忆碎片",
+    "official_record": "2023-12-30",
+    "xhs_guide": "2024-01-13",
+    "operator_note": "2024年1月",
+    "sources": [
+      "A03",
+      "X02",
+      "X06"
+    ],
+    "conclusion": "登记/实际上市节点或区域差异未解决；不写精确全球首售。"
+  },
+  {
+    "subject": "不完美的世界",
+    "official_record": "2024-08-05",
+    "xhs_guide": "2024-08-18",
+    "sources": [
+      "A04",
+      "X02"
+    ],
+    "conclusion": "并列保留，未核市场/登记口径。"
+  },
+  {
+    "subject": "谎言童话",
+    "official_record": "2025-03-15",
+    "xhs_guide": "2025-03-31",
+    "sources": [
+      "A05",
+      "X02"
+    ],
+    "conclusion": "并列保留；不能用图鉴日期覆盖官方登记。"
+  },
+  {
+    "subject": "独处时光",
+    "official_record": "2023-01-10",
+    "sources": [
+      "A02",
+      "A13",
+      "X06"
+    ],
+    "conclusion": "早于目前已取得的记忆碎片共创与运营回顾节点，缺同期证据；首品/诞生日未知。"
+  }
+]

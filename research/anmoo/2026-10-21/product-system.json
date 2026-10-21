@@ -1,0 +1,177 @@
+{
+  "products": [
+    {
+      "id": "P02",
+      "name": "独处时光",
+      "date": "2023-01-10",
+      "category": "Lucky Draw",
+      "box_quantity": 52,
+      "sources": [
+        "A02",
+        "A01"
+      ],
+      "price": {
+        "value": 102,
+        "currency": "CNY",
+        "observed": "2026-10-21",
+        "basis": "美国/全球目录当前展示；抽抽乐规格口径不明，非中国首发或统一单娃价"
+      },
+      "launch_price": null,
+      "dimensions": null,
+      "complete_materials": null,
+      "boundary": "2023-01-10缺同期验证，不能作首发；抽抽乐盒数52与当前102元均需核奖池/单抽口径。"
+    },
+    {
+      "id": "P03",
+      "name": "阿默记忆碎片",
+      "date": "2023-12-30",
+      "category": "PVC Blind Box",
+      "box_quantity": 9,
+      "sources": [
+        "A03",
+        "A01"
+      ],
+      "price": {
+        "value": 21.5,
+        "currency": "USD",
+        "observed": "2026-10-21",
+        "basis": "美国/全球目录当前展示；抽抽乐规格口径不明，非中国首发或统一单娃价"
+      },
+      "launch_price": null,
+      "dimensions": null,
+      "complete_materials": null,
+      "boundary": "官网现行登记非同期首发公告；完整材料、裸娃尺寸、中国首价未知。"
+    },
+    {
+      "id": "P04",
+      "name": "不完美的世界",
+      "date": "2024-08-05",
+      "category": "PVC Blind Box",
+      "box_quantity": 9,
+      "sources": [
+        "A04",
+        "A01"
+      ],
+      "price": {
+        "value": 21.5,
+        "currency": "USD",
+        "observed": "2026-10-21",
+        "basis": "美国/全球目录当前展示；抽抽乐规格口径不明，非中国首发或统一单娃价"
+      },
+      "launch_price": null,
+      "dimensions": null,
+      "complete_materials": null,
+      "boundary": "官网现行登记非同期首发公告；完整材料、裸娃尺寸、中国首价未知。"
+    },
+    {
+      "id": "P05",
+      "name": "世界是一个谎言童话",
+      "date": "2025-03-15",
+      "category": "PVC Blind Box",
+      "box_quantity": 9,
+      "sources": [
+        "A05",
+        "A01"
+      ],
+      "price": {
+        "value": 21.5,
+        "currency": "USD",
+        "observed": "2026-10-21",
+        "basis": "美国/全球目录当前展示；抽抽乐规格口径不明，非中国首发或统一单娃价"
+      },
+      "launch_price": null,
+      "dimensions": null,
+      "complete_materials": null,
+      "boundary": "官网现行登记非同期首发公告；完整材料、裸娃尺寸、中国首价未知。"
+    },
+    {
+      "id": "P06",
+      "name": "侧耳倾听",
+      "date": "2025-09-10",
+      "category": "PVC Blind Box",
+      "box_quantity": 9,
+      "sources": [
+        "A06",
+        "A01"
+      ],
+      "price": {
+        "value": 21.5,
+        "currency": "USD",
+        "observed": "2026-10-21",
+        "basis": "美国/全球目录当前展示；抽抽乐规格口径不明，非中国首发或统一单娃价"
+      },
+      "launch_price": null,
+      "dimensions": null,
+      "complete_materials": null,
+      "boundary": "官网现行登记非同期首发公告；完整材料、裸娃尺寸、中国首价未知。"
+    },
+    {
+      "id": "P07",
+      "name": "山野寻旅",
+      "date": "2025-09-20",
+      "category": "Lucky Draw",
+      "box_quantity": 54,
+      "sources": [
+        "A07",
+        "A01"
+      ],
+      "price": {
+        "value": 18.5,
+        "currency": "USD",
+        "observed": "2026-10-21",
+        "basis": "美国/全球目录当前展示；抽抽乐规格口径不明，非中国首发或统一单娃价"
+      },
+      "launch_price": null,
+      "dimensions": null,
+      "complete_materials": null,
+      "boundary": "奖池混合多品类；54不是54种角色；18.5美元不能套所有奖品。"
+    },
+    {
+      "id": "P08",
+      "name": "遗失的玩偶",
+      "date": "2026-04-13",
+      "category": "Plush Blind Box",
+      "box_quantity": 9,
+      "sources": [
+        "A08",
+        "A01"
+      ],
+      "price": {
+        "value": 25.5,
+        "currency": "USD",
+        "observed": "2026-10-21",
+        "basis": "美国/全球目录当前展示；抽抽乐规格口径不明，非中国首发或统一单娃价"
+      },
+      "launch_price": null,
+      "dimensions": null,
+      "complete_materials": null,
+      "boundary": "官网现行登记非同期首发公告；完整材料、裸娃尺寸、中国首价未知。"
+    },
+    {
+      "id": "P09",
+      "name": "一隅间",
+      "date": "2026-05-22",
+      "category": "PVC Blind Box",
+      "box_quantity": 9,
+      "sources": [
+        "A09",
+        "A01"
+      ],
+      "price": {
+        "value": 21.5,
+        "currency": "USD",
+        "observed": "2026-10-21",
+        "basis": "美国/全球目录当前展示；抽抽乐规格口径不明，非中国首发或统一单娃价"
+      },
+      "launch_price": null,
+      "dimensions": null,
+      "complete_materials": null,
+      "boundary": "官网现行登记非同期首发公告；完整材料、裸娃尺寸、中国首价未知。"
+    }
+  ],
+  "notes": [
+    "目录所见8组，非整个历史全部限量/大娃和活动款。",
+    "独处时光2023-01、记忆碎片2023-12、运营账号2024-01及商家图鉴日期分开。",
+    "PVC Blind Box/Plush Blind Box为类别，非完整BOM；无单位物流字段不转cm。"
+  ]
+}
