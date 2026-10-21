@@ -88,5 +88,9 @@
     "palette-cdqmur",
     "palette-d409tv"
   ],
-  "updated": "2026-10-21T08:33:06+00:00"
+  "species": [
+    "01-sunflower",
+    "02-fear-curiosity"
+  ],
+  "updated": "2026-10-21T08:48:26+00:00"
 }

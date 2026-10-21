@@ -27,6 +27,7 @@
 - `data/forms/<方案 id>-<轮次字母><序号>.json`：形（五条轴、识别组合、造型规格、白模或线稿提示词，`render` 字段标明哪种），字段见 `skills/chaowan-ip-form/references/form-and-prompts.md`
 - `data/studies/<IP id>.json`：对标卡，字段见 `skills/chaowan-ip-study/references/card.md`，分类字段只能用 `vocab.md` 的词；写完运行 `python skills/chaowan-ip-study/scripts/validate_card.py data/studies/<id>.json`
 - `research/<IP id>/<日期>/`：标准档以上的研究报告和档案
+- `data/species/<编号>-<代号>.json`：栏目《你是什么物种》的访谈原点卡（嘉宾、访谈各段原话、洞察、物种、现场挑的表达、给找形的约束、进度和授权状态）。选品板「你是什么物种」一栏读这里；用户在卡上标保留时，用 chaowan-ip-lab 的访谈入口把它写成表达卡。仓库是公开的，嘉宾未确认公开前用化名，不写可识别的私人信息
 - `data/reviews/<方案或形 id>.json`：用户的选择（`status`：保留、待优化、淘汰）和批注（`note`）
 - `data/pools/<id>.json`：用户的素材池，`type` 为 `palette`（色系）、`color`（单色）、`material`（材质）、`origin`（原点）
 - `ip-archives/IP档案_<名字>_vN.md`：锁定 IP 的档案，第三步所有模块的依据
