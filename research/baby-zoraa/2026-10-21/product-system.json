@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": "P01",
+      "name": "捣蛋日记",
+      "date": "2023-04-30",
+      "category": "PVC盲盒",
+      "box_quantity": 9,
+      "sources": [
+        "B04"
+      ],
+      "price": null,
+      "boundary": "官网登记日期；不是2022角色诞生月，首售/首品未核。"
+    },
+    {
+      "id": "P02",
+      "name": "玲珑赋",
+      "date": "2024-04-24",
+      "category": "PVC盲盒",
+      "box_quantity": 9,
+      "sources": [
+        "B05"
+      ],
+      "price": null,
+      "boundary": "新国风主题；完整材料、裸娃尺寸、首发价未知。"
+    },
+    {
+      "id": "P03",
+      "name": "我爱吃果果mini",
+      "date": "2024-07-14",
+      "category": "PVC盲盒",
+      "box_quantity": 6,
+      "sources": [
+        "B07"
+      ],
+      "price": null,
+      "boundary": "mini不自动等于通用尺寸；不套用其他mini现价。"
+    },
+    {
+      "id": "P04",
+      "name": "我是大BOSS",
+      "date": "2024-09-14",
+      "category": "PVC盲盒",
+      "box_quantity": 9,
+      "sources": [
+        "B06"
+      ],
+      "price": null,
+      "boundary": "职业换装；9盒不直接等于9常规或全套含隐藏。"
+    },
+    {
+      "id": "P05",
+      "name": "Sanrio漫游美好时光",
+      "date": "2025-02-24",
+      "category": "PVC盲盒",
+      "box_quantity": 9,
+      "sources": [
+        "B08"
+      ],
+      "price": null,
+      "boundary": "官方声明仅中国大陆销售；合同地域品类细节未知。"
+    },
+    {
+      "id": "P06",
+      "name": "甜心叛逃",
+      "date": "2025-08-10",
+      "category": "抽抽乐／吊卡及周边",
+      "box_quantity": 52,
+      "sources": [
+        "S02"
+      ],
+      "price": null,
+      "boundary": "含皮革卡包、毯子、香薰等；52盒不是52款。"
+    },
+    {
+      "id": "P07",
+      "name": "城堡梦境",
+      "date": "2026-03-25",
+      "category": "搪胶毛绒挂件",
+      "box_quantity": 6,
+      "sources": [
+        "B09"
+      ],
+      "price": null,
+      "boundary": "完整材料和纤维比例未知；不把物流Piece Size写成裸娃cm。"
+    },
+    {
+      "id": "P08",
+      "name": "绒绒茶话会",
+      "date": "2026-06-12",
+      "category": "PVC毛绒挂件",
+      "box_quantity": 6,
+      "sources": [
+        "S01"
+      ],
+      "price": {
+        "value": 18.5,
+        "currency": "USD",
+        "basis": "B01美国站目录当前展示价",
+        "observed": "2026-10-21"
+      },
+      "boundary": "X02图鉴标2026-05-28；官方登记6月12日，两种口径并存。"
+    },
+    {
+      "id": "P09",
+      "name": "和你抱抱mini",
+      "date": "2026-08",
+      "category": "PVC盲盒",
+      "box_quantity": null,
+      "sources": [
+        "B01"
+      ],
+      "price": {
+        "value": 39,
+        "currency": "CNY",
+        "basis": "美国站目录以CN¥显示",
+        "observed": "2026-10-21"
+      },
+      "boundary": "混合币种元数据；非中国全渠道统一成交价。"
+    },
+    {
+      "id": "P10",
+      "name": "小香练习曲",
+      "date": "2026-07",
+      "category": "毛绒挂件",
+      "box_quantity": null,
+      "sources": [
+        "B01"
+      ],
+      "price": {
+        "value": 18.5,
+        "currency": "USD",
+        "basis": "美国站目录当前展示价",
+        "observed": "2026-10-21"
+      },
+      "boundary": "X02图鉴标2026-09-07；不能替换为统一全球发售日。"
+    }
+  ],
+  "notes": [
+    "代表产品清单，不是全量或销量排行。",
+    "Box Quantity为官网字段；随机概率、隐藏配置须逐SKU另核。",
+    "物流字段无明确单位且未明确裸娃尺寸，未据此填产品高度。"
+  ]
+}

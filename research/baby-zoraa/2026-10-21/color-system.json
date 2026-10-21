@@ -1,0 +1,162 @@
+{
+  "palette_id": "linglongfu-goose",
+  "scope": "series_palette",
+  "image_ids": [
+    "V02"
+  ],
+  "colors": [
+    {
+      "color_id": "深棕",
+      "name": "深棕",
+      "role": "main",
+      "scope": "series_palette",
+      "hex_preview": "#6e5f58",
+      "value_basis": "image_sample",
+      "surface_or_region": "头发",
+      "image_ids": [
+        "V02"
+      ],
+      "evidence_ids": [
+        "B05"
+      ],
+      "sample_coordinates_or_mask": [
+        1550,
+        700
+      ],
+      "sample_method": "3000×3000 RGBA原文件不透明单像素RGB直接记录，未校色",
+      "area_description": "仅定性大/小色块，不做面积比例",
+      "area_basis": "visual_estimate",
+      "material_context": "官方商品渲染，带高光、阴影与环境色",
+      "variation_boundary": "只适用于牧鹅妹妹；发色、衣色和眼色均可跨款变化",
+      "uncertainty": "不是官方色号、材料染色值或生产验收标准"
+    },
+    {
+      "color_id": "奶白",
+      "name": "奶白",
+      "role": "neutral",
+      "scope": "series_palette",
+      "hex_preview": "#d1c6c0",
+      "value_basis": "image_sample",
+      "surface_or_region": "脸部",
+      "image_ids": [
+        "V02"
+      ],
+      "evidence_ids": [
+        "B05"
+      ],
+      "sample_coordinates_or_mask": [
+        1530,
+        1120
+      ],
+      "sample_method": "3000×3000 RGBA原文件不透明单像素RGB直接记录，未校色",
+      "area_description": "仅定性大/小色块，不做面积比例",
+      "area_basis": "visual_estimate",
+      "material_context": "官方商品渲染，带高光、阴影与环境色",
+      "variation_boundary": "只适用于牧鹅妹妹；发色、衣色和眼色均可跨款变化",
+      "uncertainty": "不是官方色号、材料染色值或生产验收标准"
+    },
+    {
+      "color_id": "淡紫",
+      "name": "淡紫",
+      "role": "main",
+      "scope": "series_palette",
+      "hex_preview": "#cfc1de",
+      "value_basis": "image_sample",
+      "surface_or_region": "裙子",
+      "image_ids": [
+        "V02"
+      ],
+      "evidence_ids": [
+        "B05"
+      ],
+      "sample_coordinates_or_mask": [
+        1800,
+        2210
+      ],
+      "sample_method": "3000×3000 RGBA原文件不透明单像素RGB直接记录，未校色",
+      "area_description": "仅定性大/小色块，不做面积比例",
+      "area_basis": "visual_estimate",
+      "material_context": "官方商品渲染，带高光、阴影与环境色",
+      "variation_boundary": "只适用于牧鹅妹妹；发色、衣色和眼色均可跨款变化",
+      "uncertainty": "不是官方色号、材料染色值或生产验收标准"
+    },
+    {
+      "color_id": "深棕黑",
+      "name": "深棕黑",
+      "role": "line_face",
+      "scope": "series_palette",
+      "hex_preview": "#352b26",
+      "value_basis": "image_sample",
+      "surface_or_region": "眼珠",
+      "image_ids": [
+        "V02"
+      ],
+      "evidence_ids": [
+        "B05"
+      ],
+      "sample_coordinates_or_mask": [
+        1240,
+        1280
+      ],
+      "sample_method": "3000×3000 RGBA原文件不透明单像素RGB直接记录，未校色",
+      "area_description": "仅定性大/小色块，不做面积比例",
+      "area_basis": "visual_estimate",
+      "material_context": "官方商品渲染，带高光、阴影与环境色",
+      "variation_boundary": "只适用于牧鹅妹妹；发色、衣色和眼色均可跨款变化",
+      "uncertainty": "不是官方色号、材料染色值或生产验收标准"
+    },
+    {
+      "color_id": "鹅白",
+      "name": "鹅白",
+      "role": "support",
+      "scope": "series_palette",
+      "hex_preview": "#eae9e9",
+      "value_basis": "image_sample",
+      "surface_or_region": "鹅身",
+      "image_ids": [
+        "V02"
+      ],
+      "evidence_ids": [
+        "B05"
+      ],
+      "sample_coordinates_or_mask": [
+        1400,
+        1800
+      ],
+      "sample_method": "3000×3000 RGBA原文件不透明单像素RGB直接记录，未校色",
+      "area_description": "仅定性大/小色块，不做面积比例",
+      "area_basis": "visual_estimate",
+      "material_context": "官方商品渲染，带高光、阴影与环境色",
+      "variation_boundary": "只适用于牧鹅妹妹；发色、衣色和眼色均可跨款变化",
+      "uncertainty": "不是官方色号、材料染色值或生产验收标准"
+    },
+    {
+      "color_id": "橘红",
+      "name": "橘红",
+      "role": "accent",
+      "scope": "series_palette",
+      "hex_preview": "#be4f32",
+      "value_basis": "image_sample",
+      "surface_or_region": "舌头",
+      "image_ids": [
+        "V02"
+      ],
+      "evidence_ids": [
+        "B05"
+      ],
+      "sample_coordinates_or_mask": [
+        1520,
+        1490
+      ],
+      "sample_method": "3000×3000 RGBA原文件不透明单像素RGB直接记录，未校色",
+      "area_description": "仅定性大/小色块，不做面积比例",
+      "area_basis": "visual_estimate",
+      "material_context": "官方商品渲染，带高光、阴影与环境色",
+      "variation_boundary": "只适用于牧鹅妹妹；发色、衣色和眼色均可跨款变化",
+      "uncertainty": "不是官方色号、材料染色值或生产验收标准"
+    }
+  ],
+  "recurring_identity": "浅脸与深色五官的明度关系经常保留；V04/V07可变粉脸和亮色眼，未获得全IP签名色标准。",
+  "editorial_environment": "V07蓝金星空与粉色云雾只属于宣传环境。",
+  "checks": "未做实物色卡、灰度、实体5cm或辨识率测试。"
+}

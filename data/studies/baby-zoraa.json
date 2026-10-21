@@ -1,0 +1,486 @@
+{
+  "id": "baby-zoraa",
+  "name": "BABY ZORAA 妹妹",
+  "aliases": [
+    "BabyZoraa",
+    "Zoraa",
+    "佐拉",
+    "妹宝"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-21",
+  "updated": "2026-10-21",
+  "summary": "以幼态脸、小虎牙和调皮表情组织识别，通过换装、动作、mini与毛绒延伸使用情境。7组官方视觉样本、4篇小红书及平面实测；历史零售额保留自述与口径。",
+  "owner": {
+    "creator": null,
+    "operator": "TNTSPACE／杭州引爆时空文化创意有限公司",
+    "relation": "商品页版权与发行署TNTSPACE；自然人作者、合同及登记链未知",
+    "since": "2022（据品牌回顾）",
+    "sources": [
+      "B02",
+      "B05",
+      "B12"
+    ]
+  },
+  "origin": {
+    "path": [
+      "产品先行",
+      "渠道孵化"
+    ],
+    "year": "2022",
+    "story": "品牌2026回顾称角色2022-10出现；本轮较早已核官方产品记录是2023-04-30捣蛋日记，不能冒充最早首售。",
+    "sources": [
+      "B02",
+      "B04"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2022-10",
+      "event": "品牌2026回顾所述角色出现；同期原帖未核。",
+      "type": "self_report",
+      "sources": [
+        "B02"
+      ]
+    },
+    {
+      "date": "2023-04-30",
+      "event": "捣蛋日记官方目录记录；日期不自动等于全球首售。",
+      "type": "fact",
+      "sources": [
+        "B04"
+      ]
+    },
+    {
+      "date": "2024-04-24",
+      "event": "玲珑赋官方目录记录；日期不自动等于全球首售。",
+      "type": "fact",
+      "sources": [
+        "B05"
+      ]
+    },
+    {
+      "date": "2024-07-14",
+      "event": "我爱吃果果mini官方目录记录；日期不自动等于全球首售。",
+      "type": "fact",
+      "sources": [
+        "B07"
+      ]
+    },
+    {
+      "date": "2024-09-14",
+      "event": "我是大BOSS官方目录记录；日期不自动等于全球首售。",
+      "type": "fact",
+      "sources": [
+        "B06"
+      ]
+    },
+    {
+      "date": "2025-02-24",
+      "event": "Sanrio漫游美好时光官方目录记录；日期不自动等于全球首售。",
+      "type": "fact",
+      "sources": [
+        "B08"
+      ]
+    },
+    {
+      "date": "2025-08-10",
+      "event": "甜心叛逃官方目录记录；日期不自动等于全球首售。",
+      "type": "fact",
+      "sources": [
+        "S02"
+      ]
+    },
+    {
+      "date": "2026-03-25",
+      "event": "城堡梦境官方目录记录；日期不自动等于全球首售。",
+      "type": "fact",
+      "sources": [
+        "B09"
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "event": "绒绒茶话会官方目录记录；日期不自动等于全球首售。",
+      "type": "fact",
+      "sources": [
+        "S01"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "可爱，也可以有自己的小脾气。",
+    "sentence_type": "反差",
+    "basis": "inferred",
+    "sources": [
+      "B01",
+      "B03",
+      "B05"
+    ]
+  },
+  "core": {
+    "personality": "调皮、好奇、富于想象",
+    "emotion": "反差",
+    "action": "用换装与动作进入不同想象情境",
+    "basis": "inferred"
+  },
+  "insight": {
+    "scene": "商场遇见、拆盒、系列陈列、随身挂件",
+    "behavior": "用户展示持有单品、询问系列和购买路径，也反馈抽不到和瑕疵",
+    "state": "研究假设：既想亲近可爱，也想保留一点不乖的语气",
+    "conflict": "可爱常被理解为乖顺，调皮给它不同的表达空间",
+    "unsaid": "我可以可爱，也可以有一点自己的脾气",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "购买者人口分布未知；15+商品提示不是消费者年龄调查",
+    "where": "小红书图鉴/开箱/收藏讨论，商场购买自述",
+    "buy": "X03作者自报商场购买；X04展示持有毛绒；均无订单核验",
+    "signs": "妹宝、妹妹、系列名、款名、隐藏款",
+    "share": "图鉴、实拍、开箱、瑕疵与求购",
+    "breakout": "联名与产品延伸可核，净增用户与破圈程度未量化"
+  },
+  "pendulum": {
+    "position": "甜美治愈",
+    "against": "在甜美幼态中加入小虎牙、调皮动作和更酷的装扮；为研究定位，不是市场偏好趋势统计"
+  },
+  "form": {
+    "archetype": "类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "五官",
+      "头型"
+    ],
+    "mark": "宽圆脸、圆眼与小张嘴双虎牙，眉上短撇、脸颊小标记；短辫常见但非全款固定",
+    "face": "大眼与小嘴相对，耳朵外凸；闭眼/眨眼、眼色和腮红图案可变",
+    "emotion": "反差",
+    "odd": "幼态与小攻击性并置；变体从甜美到黑白酷装",
+    "density": "中等",
+    "naming": "人名",
+    "group": "单角色"
+  },
+  "collide_combo": "不要整套搬用宽圆幼态脸＋大圆眼＋上缘双虎牙＋白心腮红＋圆拱短辫的组合；可借甜与调皮并置的机制，原创须重建轮廓和五官关系。",
+  "color": {
+    "mode": "多色系列",
+    "main": "随SKU：棕白紫、绿黑、橙黄、黑白、彩色毛绒",
+    "signature": null,
+    "notes": "V02六点图像取样仅为本款色板；未获得全IP官方标准色。"
+  },
+  "materials": "官方可核PVC盲盒、PVC毛绒挂件、搪胶毛绒类目；未凭渲染补造完整材料或工艺。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "其他",
+    "note": "产品宣传与社媒图文为辅助；连续漫画动画体系未核"
+  },
+  "product": {
+    "first_category": null,
+    "hit_category": null,
+    "hit_product": "代表样本：捣蛋日记、玲珑赋、大BOSS、mini、三丽鸥与毛绒；无销量排行",
+    "price_band": "2026-10-21目录样本：mini CN¥39；茶话会/小香毛绒US$18.50。地区币种保留，非首发价。",
+    "sources": [
+      "B01",
+      "B04",
+      "B05",
+      "B06",
+      "B07",
+      "B08",
+      "B09",
+      "S01"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "BabyZoraa年零售额",
+      "value": 300000000,
+      "comparison": ">",
+      "unit": "人民币元",
+      "period": "2024-10-17访谈所述年度，未明确自然年/滚动年",
+      "type": "self_report",
+      "sources": [
+        "B03"
+      ],
+      "boundary": "CEO自述，非审计；不等于营收、利润或2026业绩。"
+    },
+    {
+      "metric": "2025/2026 IP独立收入",
+      "value": null,
+      "unit": null,
+      "period": "截至2026-10-21",
+      "type": "fact",
+      "sources": [
+        "B01",
+        "B03"
+      ],
+      "boundary": "本轮未核得可比数据。"
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "幼态的脸与一点小攻击性并置，让可爱有调皮的语气。",
+      "type": "inference",
+      "evidence": "V02/V03张嘴与双小虎牙、宽圆脸同时出现；V01闭眼例外，V06眨眼变体。",
+      "boundary": "可见造型关系；虎牙、辫子、大眼分别都是公共语言，不证明消费者统一在买“力量”。",
+      "sources": [
+        "B01",
+        "B05",
+        "B06",
+        "B04",
+        "S02"
+      ]
+    },
+    {
+      "claim": "主题在服装、道具和动作上展开，脸部关系承担跨款识别。",
+      "type": "inference",
+      "evidence": "抱鹅、便衣密探、抱榴莲和高马尾吊卡跨度大；X03用户赞整套款式。",
+      "boundary": "未进行去道具、剪影或盲测；某款服装好看也可能主导购买。",
+      "sources": [
+        "B05",
+        "B06",
+        "B07",
+        "S02",
+        "X03"
+      ]
+    },
+    {
+      "claim": "载体延伸增加接触场景，也把脸部细节和工艺一致性变成体验门槛。",
+      "type": "inference",
+      "evidence": "官方有手办、mini、毛绒挂件；X04持有者称脸部瑕疵，X03有做工好评。",
+      "boundary": "正负个案不能推总体投诉率；不同SKU、材料和批次不能合并。",
+      "sources": [
+        "B01",
+        "B09",
+        "S01",
+        "X03",
+        "X04"
+      ]
+    },
+    {
+      "claim": "系列收藏的吸引力与随机获取的失望同时存在。",
+      "type": "inference",
+      "evidence": "X03作者喜欢整套，评论有人想买、指定款缺货或一直抽不到；X02整理图鉴。",
+      "boundary": "个人自述而非订单；不能由互动推算付费、复购和隐藏款收益。",
+      "sources": [
+        "X02",
+        "X03"
+      ]
+    }
+  ],
+  "counterexamples": "X04有脸部瑕疵和换货自述，X03亦有做工好评及抽不到/缺货；不足以计算缺陷率。未找到可靠失败系列销量与同条件竞品对照。",
+  "theory": {
+    "shell": "大头短身、宽脸、圆眼、小张嘴、虎牙及短撇眉的组合；跨装扮保留脸部线索。",
+    "core": "品牌强调甜美外表与鬼马想象；研究归纳为可爱有小脾气。",
+    "shadow": "幼态、大眼、辫子、虎牙均有公共语汇的影子；不由元素相似判抄袭。区别须看组合、持续内容与产品体验。",
+    "two_layers": {
+      "surface": "假设：路人先被奶凶表情、单款装扮和实物质感吸引。",
+      "deep": "局部证据：收藏者查图鉴、认系列款名、关注隐藏和到货；不等于人人端盒。"
+    },
+    "validation": "付费自述和持有实拍强于点赞；无订单、复购率、独立销售审计及用户增长可比序列。"
+  },
+  "for_skills": {
+    "lab": "可借鉴“甜美外观＋自主的小脾气”的反差，但要先找独立场景与行为，不能把奶凶当万能需求。",
+    "form": "先检验无服装道具时能否识别；不要搬用圆拱短辫、大圆眼、双虎牙、白心腮红的整套关系。",
+    "studio": "将主题、动作、陈列/携带方式对应起来；毛绒脸部印刷、连接和运输一致性应靠真实样品验证，未知成本不反推。"
+  },
+  "gaps": [
+    "个人设计师与原始作品、版权登记和授权/劳动合同链未核。",
+    "2022-10是后来的品牌回顾；当月第一载体、首个SKU、首售日和首价未知。",
+    "角色4岁、幼儿园中班仅来自X01整理；尚未核一手设定原帖。",
+    "2025/2026 IP独立收入、SKU动销、成本毛利、售后率及复购率未知。",
+    "图鉴只读3/12页，不能声称已核22个系列全量；用户样本4个账号，非代表性。",
+    "官方标准正侧背面、不可见连接、完整材质及裸娃尺寸仍缺。",
+    "提示词仅测指定款的可见正面平面转绘；英文、原创六条和跨载体产品词未测试，不进入正式词区。",
+    "纯文字两轮仍未通过；附图V2只在V02可见正面二维转绘范围接近。轻微渐变、鼻点、眼白与脚趾线差异已披露。"
+  ],
+  "sources": [
+    {
+      "id": "B01",
+      "title": "Zoraa | TNT SPACE IP Encyclopedia",
+      "url": "https://tntspace.com/us/encyclopedia/ZR",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "甜美外观与鬼马内心的反差设定；目录列2026-08和你抱抱mini CN¥39、2026-06糖果mini CN¥39、2026-07小香练习曲毛绒US$18.50、2026-03羽翼精灵US$29.50。",
+      "boundary": "目录现价不是首发价；币种混合必须逐项保留；不含个人设计师。",
+      "type": "self_report"
+    },
+    {
+      "id": "B02",
+      "title": "The Unboxing of Us: The TNT SPACE Origin Story",
+      "url": "https://tntspace.com/us/articles/the-unboxing-of-us-the-tnt-space-origin-story",
+      "publisher": "TNTSPACE",
+      "published": "2026-05-09",
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "品牌回顾称Baby Zoraa于2022年10月出现；创始人吴文东。",
+      "boundary": "后写的品牌叙事；不证明当月首个SKU；2026网页里的2025利润预测不等于实际业绩。",
+      "type": "self_report"
+    },
+    {
+      "id": "B03",
+      "title": "对话TNTSPACE CEO王泽群：从DORA到BabyZoraa的爆火，我们有自己的明星IP打造方法论",
+      "url": "https://pangjing.cn/jingyingzhe-2024/",
+      "publisher": "胖鲸／CEO王泽群访谈",
+      "published": "2024-10-17",
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "CEO称DORA、BabyZoraa各自年零售额超3亿元；BabyZoraa可爱定位加擅长运动反差，Rayan是其哥哥；IP配设计师和主理人。",
+      "boundary": "未指明统计年或审计；不是2026销售、公司收入或利润；未署个人设计师；品牌2000万盲盒/500万其他商品不能归该IP。",
+      "type": "self_report"
+    },
+    {
+      "id": "B04",
+      "title": "Zoraa捣蛋日记系列手办",
+      "url": "https://tntspace.com/us/encyclopedia/products/818",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2023-04-30；PVC Blind Box；SKU TP-16-1601；Box Quantity 9。",
+      "boundary": "数据库登记日期；不自动等于角色诞生/全球首次出售；价格、完整材料、裸娃尺寸未知。",
+      "type": "fact"
+    },
+    {
+      "id": "B05",
+      "title": "Zoraa玲珑赋系列盲盒手办",
+      "url": "https://tntspace.com/us/encyclopedia/products/549",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2024-04-24；PVC Blind Box；9盒；发行与版权栏TNTSPACE；现代时尚结合新国风。",
+      "boundary": "未取首发价；Piece Size 80*90*120属物流字段且无单位，不宜写成裸娃尺寸；Discont标签不能推断滞销。",
+      "type": "fact"
+    },
+    {
+      "id": "B06",
+      "title": "Zoraa-我是大BOSS系列手办",
+      "url": "https://tntspace.com/us/encyclopedia/products/548",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2024-09-14；PVC Blind Box；9盒；发行/版权TNTSPACE；主题为演绎自己的人生角色。",
+      "boundary": "无可核首发价格；Piece Size为物流字段，不等于裸娃高度；权属栏非版权登记证。",
+      "type": "fact"
+    },
+    {
+      "id": "B07",
+      "title": "Baby Zoraa·mini系列盲盒·我爱吃果果",
+      "url": "https://tntspace.com/us/encyclopedia/products/550",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2024-07-14；PVC Blind Box；6盒；发行/版权TNTSPACE。",
+      "boundary": "无可核首发价格；70*70*90属于物流Piece Size，无明示单位。",
+      "type": "fact"
+    },
+    {
+      "id": "B08",
+      "title": "Zoraa × Sanrio漫游美好时光系列盲盒",
+      "url": "https://tntspace.com/us/encyclopedia/products/580",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2025-02-24；PVC Blind Box；9盒；SKU CZ-C469-C469001；页面声明仅中国大陆销售。",
+      "boundary": "无首发价/完整材料/授权合同；2月数据库日期不能自动替代3月市场推广日期。",
+      "type": "fact"
+    },
+    {
+      "id": "B09",
+      "title": "Zoraa城堡梦境系列搪胶毛绒挂件盲盒",
+      "url": "https://tntspace.com/us/encyclopedia/products/778",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2026-03-25；Vinyl Plush Keychain/Plush Blind Box；6盒；发行/版权TNTSPACE。",
+      "boundary": "标题证明搪胶毛绒品类，未见纤维含量；120*95*180为物流字段，不宜写裸娃尺寸；价格未知。",
+      "type": "fact"
+    },
+    {
+      "id": "B12",
+      "title": "2022年实现逆势增长的潮玩公司TNT SPACE还有什么“独家秘笈”？",
+      "url": "https://www.chinalicensingexpo.com/cn/media_center/detail?id=15934",
+      "publisher": "CLE中国授权展",
+      "published": "2023-03-02",
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "CLE行业报道主体杭州引爆时空文化创意有限公司、品牌创立2022。",
+      "boundary": "公司/品牌层面，不是BabyZoraa个人设计师或版权合同；企业供述非登记原件。",
+      "type": "self_report"
+    },
+    {
+      "id": "S01",
+      "title": "绒绒茶话会／官方商品图鉴",
+      "url": "https://tntspace.com/us/encyclopedia/products/799",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial",
+      "supports": "2026-06-12；PVC毛绒挂件类目；6盒。",
+      "boundary": "文字与V04、V07已读；官方图鉴日期与用户图鉴日期不同。"
+    },
+    {
+      "id": "S02",
+      "title": "甜心叛逃／官方抽抽乐图鉴",
+      "url": "https://tntspace.com/us/encyclopedia/products/604",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial",
+      "supports": "2025-08-10；抽抽乐，含吊卡与功能周边。",
+      "boundary": "只拆V06限定吊卡与产品列表；52盒字段不等于52种款式。"
+    },
+    {
+      "id": "X01",
+      "title": "🎀每天认识一个潮玩IP——Baby Zoraa妹妹",
+      "url": "https://www.xiaohongshu.com/explore/68c804e0000000001c03598c",
+      "publisher": "小红书／V姐的潮玩日记",
+      "published": "2025-09-15",
+      "observed": "2026-10-21",
+      "access": "partial",
+      "supports": "介绍奶凶、虎牙；列手办、mini、毛绒和联名分支。",
+      "boundary": "正文、可见评论及图1—2/10已读。配图为二次整理，图源权利链未核。4岁、中班为secondary_claim；不当实际年龄或诞生年份。"
+    },
+    {
+      "id": "X02",
+      "title": "🎀Zoraa全系列图鉴｜🔥22个系列一口气看完",
+      "url": "https://www.xiaohongshu.com/explore/6ab3abe8000000001802bd00",
+      "publisher": "小红书／王小胖没烦恼",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial",
+      "supports": "分毛绒、常规盲盒、mini、全明星；显示日期与官方登记有差异。",
+      "boundary": "正文、可见评论及图1—3/12已读；09-23无独立年份，图中日期延伸到2026。22个系列为作者覆盖范围，未逐格核全12页。"
+    },
+    {
+      "id": "X03",
+      "title": "此物的可爱值恐怕在我智商之上🥰",
+      "url": "https://www.xiaohongshu.com/explore/6918b3010000000007001826",
+      "publisher": "小红书／Erica不嘻嘻",
+      "published": "2025-11-16",
+      "observed": "2026-10-21",
+      "access": "partial",
+      "supports": "作者赞整套款式与做工；评论有求购买路径、指定款缺货与抽不到。",
+      "boundary": "正文、可见评论与实拍封面1/4已读。作者自述商场购买；无订单、合作披露核验，不代表全体用户或质量统计。"
+    },
+    {
+      "id": "X04",
+      "title": "zorra的品控太差了",
+      "url": "https://www.xiaohongshu.com/explore/6ad465f500000000290097cf",
+      "publisher": "小红书／月漓✨",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial",
+      "supports": "小香练习曲持有者称脸部瑕疵；另有评论自报换货两次。",
+      "boundary": "正文、可见评论与实拍封面1/3已读。页面显示3天前，精确日期未知；未核订单、真伪、缺陷成因与售后结果。"
+    }
+  ],
+  "archive": "research/baby-zoraa/2026-10-21/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/baby-zoraa/2026-10-21/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/baby-zoraa/2026-10-21/"
+}

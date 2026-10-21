@@ -1,0 +1,61 @@
+{
+  "platform": "小红书",
+  "observed": "2026-10-21",
+  "method": "站内定向检索并阅读可见正文、评论和部分图片；4个账号，不作代表性推断。",
+  "queries": [
+    {
+      "query": "Baby Zoraa 品牌介绍",
+      "status": "completed",
+      "notes": [
+        "X01"
+      ],
+      "images_read": "图1—2/10"
+    },
+    {
+      "query": "Baby Zoraa 产品汇总",
+      "status": "completed",
+      "notes": [
+        "X02",
+        "X03"
+      ],
+      "images_read": "图鉴1—3/12，使用封面1/4"
+    },
+    {
+      "query": "Zoraa 避雷",
+      "status": "completed",
+      "notes": [
+        "X04"
+      ],
+      "images_read": "封面1/3"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "4岁、中班、可爱即正义",
+      "source": "X01图2",
+      "finding": "口号有B03经营者自述支持；年龄与班级未获一手设定原帖，不由它推诞生年。"
+    },
+    {
+      "claim": "22系列为全量",
+      "source": "X02",
+      "finding": "作者自定范围，只读3/12；官网还有树脂大娃/抽抽乐等，不当截至今日全量。"
+    },
+    {
+      "claim": "绒绒茶话会2026-05-28",
+      "source": "X02图1",
+      "finding": "官方S01登记2026-06-12；两日期并列，不伪造统一首售日。"
+    },
+    {
+      "claim": "小香练习曲2026-09-07",
+      "source": "X02图1",
+      "finding": "B01美国站目录标2026-07；可能涉及地区/登记口径，原因未核。"
+    },
+    {
+      "claim": "每款都好看、做工好",
+      "source": "X03",
+      "finding": "持有者个人评价；X04有相反体验，不推广为整体结论。"
+    }
+  ],
+  "image_identity_check": "X01为非官方整理，配图仅作线索；X03/X04为自述实拍，未独立核真伪。技术锁定只使用官方V02。",
+  "url_handling": "公开链接只保留canonical explore URL，无访问令牌或追踪参数。"
+}
