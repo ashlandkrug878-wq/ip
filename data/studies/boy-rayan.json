@@ -1,0 +1,556 @@
+{
+  "id": "boy-rayan",
+  "name": "BOY RAYAN 哥哥",
+  "aliases": [
+    "BoyRayan",
+    "Rayan",
+    "瑞恩",
+    "哥哥"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-21",
+  "updated": "2026-10-21",
+  "summary": "圆钝体块与冷淡眉眼形成少年态度，关爱亲友设定通过动作与主题展开；跨载体也带来新鲜感和耐久要求。核验2023同期展售、8组官方视觉、5篇小红书及平面实测。",
+  "owner": {
+    "creator": null,
+    "operator": "TNTSPACE／杭州引爆时空文化创意有限公司",
+    "relation": "产品页发行/版权署TNTSPACE；自然人作者、劳动/授权与登记链未知",
+    "since": "至少2023公开展售",
+    "sources": [
+      "R02",
+      "R07",
+      "R10",
+      "R18"
+    ]
+  },
+  "origin": {
+    "path": [
+      "产品先行",
+      "渠道孵化"
+    ],
+    "year": "2023",
+    "story": "至少2023-09已在上海世茂广场游戏人生全国首展公开并售卖；不以全国首展冒充全球首售。",
+    "sources": [
+      "R02",
+      "R04"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2023-09-22—10-29",
+      "event": "游戏人生全国首展；同期报道记L1快闪店9款可买。",
+      "type": "fact",
+      "sources": [
+        "R02"
+      ]
+    },
+    {
+      "date": "2024-08-03",
+      "event": "年少时光现行官方图鉴登记；不自动等于首次开售。",
+      "type": "fact",
+      "sources": [
+        "R08"
+      ]
+    },
+    {
+      "date": "2025-01-01",
+      "event": "万物生长现行官方图鉴登记；不自动等于首次开售。",
+      "type": "fact",
+      "sources": [
+        "R09"
+      ]
+    },
+    {
+      "date": "2025-06-10",
+      "event": "天生玩家现行官方图鉴登记；不自动等于首次开售。",
+      "type": "fact",
+      "sources": [
+        "R10"
+      ]
+    },
+    {
+      "date": "2025-10-09",
+      "event": "请与我约会现行官方图鉴登记；不自动等于首次开售。",
+      "type": "fact",
+      "sources": [
+        "R11",
+        "R01"
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "event": "世界不能没有小狗现行官方图鉴登记；不自动等于首次开售。",
+      "type": "fact",
+      "sources": [
+        "S01",
+        "R01"
+      ]
+    },
+    {
+      "date": "2026-03-25",
+      "event": "时空裂缝mini现行官方图鉴登记；不自动等于首次开售。",
+      "type": "fact",
+      "sources": [
+        "R13",
+        "R01"
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "event": "异世界现行官方图鉴登记；不自动等于首次开售。",
+      "type": "fact",
+      "sources": [
+        "R12",
+        "R01"
+      ]
+    },
+    {
+      "date": "2026-04-18",
+      "event": "城市漫步现行官方图鉴登记；不自动等于首次开售。",
+      "type": "fact",
+      "sources": [
+        "R14",
+        "R01"
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "event": "怪兽低气压mini现行官方图鉴登记；不自动等于首次开售。",
+      "type": "fact",
+      "sources": [
+        "R15",
+        "R01"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "看起来淡淡的，也会用自己的方式在意你。",
+    "sentence_type": "反差",
+    "basis": "inferred",
+    "sources": [
+      "R01",
+      "R05"
+    ]
+  },
+  "core": {
+    "personality": "沉稳、好奇、关爱亲友",
+    "emotion": "反差",
+    "action": "面对压力时与亲友分享，继续探索生活",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "商场遇见、拆盒陈列、查图鉴、胸包携带",
+    "behavior": "持有多款与隐藏讨论，也有新品不满及挂伴掉落自述",
+    "state": "研究假设：想保留独立态度，也需要关系中的温暖",
+    "conflict": "外表不显露在意，内心仍希望表达关爱",
+    "unsaid": "不必热烈表态，也可以认真关心",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "实际性别年龄地域分布未知；X01男性65%和18—28未核",
+    "where": "小红书图鉴、收藏柜与使用反馈；同期线下快闪",
+    "buy": "X03可见持有陈列；X05自述再次抽取，无订单核验",
+    "signs": "哥哥、系列名、隐藏、单款名",
+    "share": "图鉴、收藏柜、开箱、携带和新品建议",
+    "breakout": "2023线下展售可核；长期新增用户和男性占比不可量化"
+  },
+  "pendulum": {
+    "position": "暗黑酷",
+    "against": "在圆润幼态的潮玩体块中加入冷淡、街头与不对称神态；不是全IP永远暗黑，也不是同期审美份额调查"
+  },
+  "form": {
+    "archetype": "类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "五官",
+      "头型"
+    ],
+    "mark": "不对称压眉半闭眼、小扁鼻与鼻下短线、短弯嘴；部分断眉，块状短发常见",
+    "face": "宽圆方脸、圆耳、左右高低不同眉眼；闭眼、眼色和遮挡会变",
+    "emotion": "反差",
+    "odd": "冷淡面部搭配吃瓜、抱幼龙或闭眼休息",
+    "density": "中等",
+    "naming": "人名",
+    "group": "单角色"
+  },
+  "collide_combo": "避免整体搬用块状短发＋不对称压眉半闭眼＋断眉＋扁鼻下短线＋小牙弯嘴的组合；原创需要重建头脸和轮廓，只借外冷内热的表达机制。",
+  "color": {
+    "mode": "多色系列",
+    "main": "随款变化：棕红白、棕绿白、奶油白酒红蓝、蓝灰黑紫、彩色毛绒",
+    "signature": null,
+    "notes": "V03六点取样仅为具体SKU色板；无全IP官方签名色标准。"
+  },
+  "materials": "官方类别有PVC盲盒、毛绒盲盒挂件；异世界独立眼片/涂层等为该系列设计师自述。完整BOM与纤维比例未知。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "其他",
+    "note": "线下装置与产品图文辅助；连续动画漫画体系未核"
+  },
+  "product": {
+    "first_category": "盲盒手办",
+    "hit_category": null,
+    "hit_product": "最早本轮可核：游戏人生2023展售；代表系列不冒充销量冠军",
+    "price_band": "2026-10-21美国目录：mini US$18.50，约会/异世界US$21.50，城市漫步毛绒US$29.50；非中国首发或统一全球成交价",
+    "sources": [
+      "R01",
+      "R02",
+      "R10",
+      "R11",
+      "R13",
+      "R14"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "品牌回顾所称Rayan众筹金额",
+      "value": 2000000,
+      "comparison": ">",
+      "unit": "人民币元",
+      "period": "2026-05-13回顾；众筹发生时间/统计窗口未知",
+      "type": "self_report",
+      "sources": [
+        "R04"
+      ],
+      "boundary": "原始众筹页与退款交付未核；不是2026年度销量/收入。"
+    },
+    {
+      "metric": "Rayan独立年度收入/零售额",
+      "value": null,
+      "unit": null,
+      "period": "截至2026-10-21",
+      "type": "fact",
+      "sources": [
+        "R01",
+        "R05"
+      ],
+      "boundary": "未核得；DORA与Zoraa各3亿不归Rayan。"
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "圆钝短体块配压低且不对称的眉眼，让幼态形体保留少年态度。",
+      "type": "inference",
+      "evidence": "V01/V03鼻下短线、小弯嘴和不对称眼神；V03断眉可见，V01未见明显断缝。",
+      "boundary": "不能把所有款固定为断眉、睁眼或插兜；眉眼组合的实际辨识率未测。",
+      "sources": [
+        "R08",
+        "R10"
+      ]
+    },
+    {
+      "claim": "冷脸与照顾小生命、休息的动作形成可展开的反差。",
+      "type": "inference",
+      "evidence": "官方关爱亲友设定；V01有小狗，V02闭眼休憩，V03抱睡眠幼龙。",
+      "boundary": "动作可见，但用户是否因此购买、是否投射恋人关系，未获代表性验证。",
+      "sources": [
+        "R01",
+        "R08",
+        "R09",
+        "R10"
+      ]
+    },
+    {
+      "claim": "跨主题收藏需要新鲜感，不能只靠同一张脸无限换装。",
+      "type": "inference",
+      "evidence": "X03收藏柜与隐藏讨论；X04对重复换装不满；异世界增加职业幻想与工艺自述。",
+      "boundary": "X04概念图身份未核，不能当官方效果对比或量产方案；评论成本和销量猜测不采用。",
+      "sources": [
+        "X03",
+        "X04",
+        "R06",
+        "R12"
+      ]
+    },
+    {
+      "claim": "从摆件到挂伴，角色识别之外增加连接和耐久的使用门槛。",
+      "type": "inference",
+      "evidence": "V07/V08显示毛绒变化；X05自述胸包挂伴身体丢失并再次抽取。",
+      "boundary": "不是缺陷率和现行售后政策；热爱挂伴问题不能直接套到毛绒系列。",
+      "sources": [
+        "R14",
+        "R15",
+        "X05"
+      ]
+    }
+  ],
+  "counterexamples": "X04有换装重复与设计期待落差，X05有挂伴掉落自述；销量成本和缺陷率均未核。未找到同条件失败系列与竞争对照数据。",
+  "theory": {
+    "shell": "宽圆方头和短身体，表情由不对称眉眼、鼻下短线与小嘴组织；服饰和发色变化大。",
+    "core": "官方强调表面冷淡与内心好奇关爱亲友；外冷内热是表达归纳。",
+    "shadow": "短发、断眉、半闭眼、链饰与街头服装均有公共语汇；单个元素不专属，区别要看组合与持续产品内容。",
+    "two_layers": {
+      "surface": "假设：先被神态、装扮或单款质感吸引；不限定买家性别。",
+      "deep": "局部证据：查图鉴、收不同款与隐藏、布置陈列柜；不意味着所有用户端盒或复购。"
+    },
+    "validation": "同期可售事实＋持有实拍＋购买自述；缺订单、全量销售和复购。点赞与品牌自述不能替代交易。"
+  },
+  "for_skills": {
+    "lab": "把外冷内热落在具体关系与行为里，而非把痞帅当完整内核；不先假定只有男性会投射。",
+    "form": "借鉴圆钝体块与神态反差的组织方式；重建独立轮廓和鼻嘴眉眼组合，避免连发型服装一起照搬。",
+    "studio": "主题需提供动作或体验的新意；挂件单独检验连接与运输耐久。宣传图和概念图要标清，不能用视觉细节猜成本。"
+  },
+  "gaps": [
+    "原始自然人作者与版权合同未核。Dva只有商家署名；异世界主设计师匿名，不等于原始作者。",
+    "2023同期报道证明公开展售；精确创作日、全球首售、首品原价仍未知。",
+    "受众年龄/性别及男性65%无统计依据；不从男性外形推买家性别。",
+    "独立年度营收/零售额、成本毛利、售后率、复购率和人群增长序列未核。",
+    "众筹200万是2026品牌回顾；原始众筹页、日期、退款及交付口径缺失。",
+    "图鉴只读3/8；5个小红书账号不具代表性，陈列和购买均无订单核验。",
+    "X04第一张为身份不明的概念/二创线索，不作官方产品标准；不采用其销量/成本猜测。",
+    "官方标准正侧背、完整材料、裸娃尺寸与实际耐久测试缺失。",
+    "本轮只测V03去字正面二维转绘；英文、重复稳定性及原创六条/跨载体实物词未测。",
+    "纯文字两轮仍未通过；附图V2只在V03去字可见正面二维转绘范围接近。发块、幼龙细节、裤纹及轻微渐变仍有差异，未做重复稳定性实验。"
+  ],
+  "sources": [
+    {
+      "id": "R01",
+      "title": "Rayan | TNT SPACE IP Encyclopedia",
+      "url": "https://tntspace.com/us/encyclopedia/RA",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "设定为表面冷淡、内心好奇关爱亲友；目录现价：约会与异世界US$21.50，时空mini US$18.50，城市漫步US$29.50，低气压mini US$18.50。",
+      "boundary": "当前目录价格不是首发价；无个人署名；目录混入DORA和匿名抽抽乐，排除。",
+      "type": "self_report"
+    },
+    {
+      "id": "R02",
+      "title": "上海黄浦：魔都潮流枢纽再放大招",
+      "url": "https://www.thepaper.cn/newsDetail_forward_24813639",
+      "publisher": "上海黄浦／澎湃号政务",
+      "published": "2023-10-01",
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "2023-09-22至10-29上海世茂广场游戏人生全国首展；L1快闪店售卖9款上新造型。",
+      "boundary": "同期活动报道证明2023公开和售卖；全国首展不等于全球首次产品出售；没有精确创作日。",
+      "type": "fact"
+    },
+    {
+      "id": "R04",
+      "title": "Boy Rayan：这个冷酷叛逆角色如何成为潮玩圈新星",
+      "url": "https://tntspace.com/us/articles/boy-rayan-how-this-cool-and-edgy-character-became-the-hottest-new-sensation-in-designer-toys-zh-TW",
+      "publisher": "TNTSPACE",
+      "published": "2026-05-13",
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "品牌回顾称2023开发亮相、众筹超200万元且目标20万元；回应Zoraa哥哥需求。",
+      "boundary": "没有众筹订单、时间窗或平台原页；男粉为主无样本方法；不能当审计业绩或实测人口统计。",
+      "type": "self_report"
+    },
+    {
+      "id": "R05",
+      "title": "胖鲸对话CEO王泽群",
+      "url": "https://pangjing.cn/jingyingzhe-2024/",
+      "publisher": "胖鲸／CEO王泽群访谈",
+      "published": "2024-10-17",
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Rayan是BabyZoraa亲哥哥；设计师+主理人分工。",
+      "boundary": "3亿年零售额属于DORA与Zoraa，不能赋给Rayan。",
+      "type": "self_report"
+    },
+    {
+      "id": "R06",
+      "title": "异世界主设计师故事",
+      "url": "https://tntspace.com/us/articles/the-creators-story-rayan-otherworld-a-gentle-guardian-in-a-cyberpunk-street",
+      "publisher": "TNTSPACE",
+      "published": "2026-04-25",
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "匿名主设计师称独立眼片、珠光底漆和透明荧光漆、云朵夜光材料；10造型含隐藏1:108。",
+      "boundary": "署名仅Lead Designer @ TNTSPACE，不能验证Dva或原始角色作者；工艺测试次数为自述。",
+      "type": "self_report"
+    },
+    {
+      "id": "R07",
+      "title": "Boy Rayan完整系列列表—TOYSEZ",
+      "url": "https://toysez.com/collections/boy-rayan-series-list-full-chronology",
+      "publisher": "TOYSEZ商家",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "商家标Designer:Dva，称内部设计师。",
+      "boundary": "不是官方或作者署名；仅可保留待核线索，不可写成已核实作者。",
+      "type": "self_report"
+    },
+    {
+      "id": "R08",
+      "title": "Rayan年少时光",
+      "url": "https://tntspace.com/us/encyclopedia/products/553",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2024-08-03；PVC Blind Box；Box Quantity 9；物流Piece Size 90*80*125；Publisher/Copyright TNTSPACE；15+。",
+      "boundary": "日期为当前百科登记；材料标签非完整BOM；Piece Size无单位且位于物流栏，不等于裸娃尺寸；首发价未核。",
+      "type": "fact"
+    },
+    {
+      "id": "R09",
+      "title": "Rayan万物生长",
+      "url": "https://tntspace.com/us/encyclopedia/products/552",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2025-01-01；PVC Blind Box；Box Quantity 9；物流Piece Size 90*80*125；Publisher/Copyright TNTSPACE；15+。",
+      "boundary": "日期为当前百科登记；材料标签非完整BOM；Piece Size无单位且位于物流栏，不等于裸娃尺寸；首发价未核。",
+      "type": "fact"
+    },
+    {
+      "id": "R10",
+      "title": "Rayan天生玩家",
+      "url": "https://tntspace.com/us/encyclopedia/products/568",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2025-06-10；PVC Blind Box；Box Quantity 9；物流Piece Size 99*150*99；Publisher/Copyright TNTSPACE；15+。",
+      "boundary": "日期为当前百科登记；材料标签非完整BOM；Piece Size无单位且位于物流栏，不等于裸娃尺寸；首发价未核。",
+      "type": "fact"
+    },
+    {
+      "id": "R11",
+      "title": "Rayan请与我约会",
+      "url": "https://tntspace.com/us/encyclopedia/products/621",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2025-10-09；PVC Blind Box；Box Quantity 12；物流Piece Size 78.9*58.1*122.8；Publisher/Copyright TNTSPACE；15+。",
+      "boundary": "日期为当前百科登记；材料标签非完整BOM；Piece Size无单位且位于物流栏，不等于裸娃尺寸；首发价未核。",
+      "type": "fact"
+    },
+    {
+      "id": "R12",
+      "title": "Rayan异世界",
+      "url": "https://tntspace.com/us/encyclopedia/products/779",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2026-04-14；PVC Blind Box；Box Quantity 9；物流Piece Size 90*85*130；Publisher/Copyright TNTSPACE；15+。",
+      "boundary": "日期为当前百科登记；材料标签非完整BOM；Piece Size无单位且位于物流栏，不等于裸娃尺寸；首发价未核。",
+      "type": "fact"
+    },
+    {
+      "id": "R13",
+      "title": "Rayan时空裂缝mini",
+      "url": "https://tntspace.com/us/encyclopedia/products/760",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2026-03-25；PVC Blind Box；Box Quantity 9；物流Piece Size 70*70*95；Publisher/Copyright TNTSPACE；15+。",
+      "boundary": "日期为当前百科登记；材料标签非完整BOM；Piece Size无单位且位于物流栏，不等于裸娃尺寸；首发价未核。",
+      "type": "fact"
+    },
+    {
+      "id": "R14",
+      "title": "Rayan城市漫步毛绒",
+      "url": "https://tntspace.com/us/encyclopedia/products/787",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2026-04-18；Plush Blind Box；Box Quantity 9；物流Piece Size 105*90*165；Publisher/Copyright TNTSPACE；15+。",
+      "boundary": "日期为当前百科登记；材料标签非完整BOM；Piece Size无单位且位于物流栏，不等于裸娃尺寸；首发价未核。",
+      "type": "fact"
+    },
+    {
+      "id": "R15",
+      "title": "Rayan怪兽低气压mini毛绒",
+      "url": "https://tntspace.com/us/encyclopedia/products/803",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "Release Time 2026-06-18；Plush Blind Box；Box Quantity 6；物流Piece Size 80*80*120；Publisher/Copyright TNTSPACE；15+。",
+      "boundary": "日期为当前百科登记；材料标签非完整BOM；Piece Size无单位且位于物流栏，不等于裸娃尺寸；首发价未核。",
+      "type": "fact"
+    },
+    {
+      "id": "R18",
+      "title": "2022年实现逆势增长的潮玩公司TNT SPACE还有什么“独家秘笈”？",
+      "url": "https://www.chinalicensingexpo.com/cn/media_center/detail?id=15934",
+      "publisher": "CLE中国授权展",
+      "published": "2023-03-02",
+      "observed": "2026-10-21",
+      "access": "full",
+      "supports": "CLE行业采访指TNTSPACE为杭州引爆时空文化创意有限公司，品牌创立2022。",
+      "boundary": "公司身份不是Rayan创作年份或版权合同。",
+      "type": "self_report"
+    },
+    {
+      "id": "S01",
+      "title": "Rayan世界不能没有小狗系列手办",
+      "url": "https://tntspace.com/us/encyclopedia/products/698",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial",
+      "supports": "PVC盲盒；Box Quantity9；完整材料未知。",
+      "boundary": "当前百科登记2026-02-10，与X02图2标4月14日不同；裸娃尺寸和首价未知。"
+    },
+    {
+      "id": "X01",
+      "title": "每天认识一个IP—【Rayan】的成长历程😎",
+      "url": "https://www.xiaohongshu.com/explore/68075bf3000000000900ed26",
+      "publisher": "小红书／小猛牛IP笔记",
+      "published": "2025-04-22",
+      "observed": "2026-10-21",
+      "access": "partial",
+      "supports": "哥哥关系有官方支持；2023首展有同期报道支持；65%待核。",
+      "boundary": "正文、可见评论、图1—2/6已读。男性65%、18—28岁无抽样或原始来源，不采纳为事实。封面为整理配图，不能当官方母版。"
+    },
+    {
+      "id": "X02",
+      "title": "👑Rayan全系列图鉴｜13个系列一口气看完！",
+      "url": "https://www.xiaohongshu.com/explore/6a61fd9b000000000a03ae3e",
+      "publisher": "小红书／王小胖没烦恼",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial",
+      "supports": "图区分手办、mini和挂伴；部分日期与官方不同，明确排除萌粒。",
+      "boundary": "正文、可见评论、图1—3/8已读。页面07-23无独立年份，图内最晚日期到2026；未读后5页，13个系列不是截至今日全量。"
+    },
+    {
+      "id": "X03",
+      "title": "Rayan全家福，还有三个放不下了",
+      "url": "https://www.xiaohongshu.com/explore/695cc948000000002202e575",
+      "publisher": "小红书／想开bc",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial",
+      "supports": "可见多层陈列柜和不同款持有；作者回复不出，评论讨论隐藏。",
+      "boundary": "正文/可见评论与LIVE首画面已读，未播放完整动态。01-06无独立年份；无订单或合作属性核验。"
+    },
+    {
+      "id": "X04",
+      "title": "rayan新品能不能用点心～",
+      "url": "https://www.xiaohongshu.com/explore/6ad583df000000001e024c88",
+      "publisher": "小红书／戾远-",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial",
+      "supports": "有人对换装重复感不满，讨论精细方案与现款差别。作者销量和评论成本猜测均未核，不采用。",
+      "boundary": "正文、可见评论与图1—2/2已读。2天前，精确时间未核。第一图来源与性质不明，只作概念/二创线索，第二图也未逐款核官网；不可用于锁定设定。"
+    },
+    {
+      "id": "X05",
+      "title": "Rayan热爱系列挂伴身子掉了",
+      "url": "https://www.xiaohongshu.com/explore/69567013000000001d03af51",
+      "publisher": "小红书／阿柏Ivan",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial",
+      "supports": "作者自述挂胸包后身体丢失、再抽新款；同帖有人报告类似情况。15天为用户转述店员说法，非核得现行政策。",
+      "boundary": "正文、可见评论与封面1/3已读；封面是商店场景与完整挂伴，不能当故障发生照片。01-01年份未单独核；订单、使用条件、缺陷及售后结果未独立核。"
+    }
+  ],
+  "archive": "research/boy-rayan/2026-10-21/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/boy-rayan/2026-10-21/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/boy-rayan/2026-10-21/"
+}

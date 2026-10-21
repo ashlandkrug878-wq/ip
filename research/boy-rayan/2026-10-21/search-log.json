@@ -1,0 +1,67 @@
+{
+  "platform": "小红书",
+  "observed": "2026-10-21",
+  "method": "定向站内搜索，按介绍、产品图鉴、持有与反证取5个账号；无代表性抽样。",
+  "queries": [
+    {
+      "query": "Boy Rayan 品牌介绍",
+      "status": "completed",
+      "notes": [
+        "X01"
+      ],
+      "read": "正文与评论、图1—2/6"
+    },
+    {
+      "query": "Boy Rayan 产品汇总",
+      "status": "completed",
+      "notes": [
+        "X02",
+        "X03"
+      ],
+      "read": "图鉴1—3/8；收藏LIVE首画面"
+    },
+    {
+      "query": "Rayan 避雷",
+      "status": "completed",
+      "notes": [
+        "X04",
+        "X05"
+      ],
+      "read": "图1—2/2；挂伴封面1/3"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "男性65%、18—28岁",
+      "source": "X01",
+      "finding": "无统计原页，R04也只称男性偏多；不采纳数字。"
+    },
+    {
+      "claim": "2023年9月首展",
+      "source": "X01图2",
+      "finding": "R02同期支持；2024成为核心矩阵的具体节点未另核。"
+    },
+    {
+      "claim": "世界不能没有小狗2026-04-14",
+      "source": "X02图2",
+      "finding": "S01登记2026-02-10；两口径并列，原因未知。"
+    },
+    {
+      "claim": "约会2025-10-10",
+      "source": "X02图3",
+      "finding": "R11登记2025-10-09；不强行合并。"
+    },
+    {
+      "claim": "新品卖不超200只、概念图成本119/300",
+      "source": "X04评论",
+      "finding": "无方法或订单/成本依据，不采用。"
+    },
+    {
+      "claim": "15天可补件",
+      "source": "X05",
+      "finding": "用户转述店员，非核得现行政策。"
+    }
+  ],
+  "image_identity": "X01为非官方整理；X03为LIVE持有场景首画面；X04图1来源不明，图2未逐款对官方；不拿来锁定标准。技术测试只用官方V03。",
+  "url_handling": "公开只保留canonical explore URL，去除访问令牌与追踪参数。"
+}

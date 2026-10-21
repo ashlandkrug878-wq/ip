@@ -1,0 +1,159 @@
+{
+  "palette_id": "natural-player-hatchling",
+  "scope": "series_palette",
+  "colors": [
+    {
+      "color_id": "奶油白",
+      "name": "奶油白",
+      "role": "main",
+      "scope": "series_palette",
+      "hex_preview": "#eeeae5",
+      "value_basis": "image_sample",
+      "surface_or_region": "头发",
+      "image_ids": [
+        "V03"
+      ],
+      "evidence_ids": [
+        "R10"
+      ],
+      "sample_method": "3000×3000 RGBA原文件的不透明单像素直接RGB记录；未校色",
+      "sample_coordinates_or_mask": [
+        1520,
+        720
+      ],
+      "area_description": "仅定性角色大/小色块，无面积比例",
+      "area_basis": "visual_estimate",
+      "material_context": "官方商品渲染，有高光、阴影与环境反射",
+      "variation_boundary": "只适用于本款，不推广为角色签名色",
+      "uncertainty": "屏幕近似；非官方色号或生产验收色"
+    },
+    {
+      "color_id": "桃白",
+      "name": "桃白",
+      "role": "neutral",
+      "scope": "series_palette",
+      "hex_preview": "#dec9bd",
+      "value_basis": "image_sample",
+      "surface_or_region": "额头",
+      "image_ids": [
+        "V03"
+      ],
+      "evidence_ids": [
+        "R10"
+      ],
+      "sample_method": "3000×3000 RGBA原文件的不透明单像素直接RGB记录；未校色",
+      "sample_coordinates_or_mask": [
+        1500,
+        1130
+      ],
+      "area_description": "仅定性角色大/小色块，无面积比例",
+      "area_basis": "visual_estimate",
+      "material_context": "官方商品渲染，有高光、阴影与环境反射",
+      "variation_boundary": "只适用于本款，不推广为角色签名色",
+      "uncertainty": "屏幕近似；非官方色号或生产验收色"
+    },
+    {
+      "color_id": "酒红",
+      "name": "酒红",
+      "role": "main",
+      "scope": "series_palette",
+      "hex_preview": "#974e52",
+      "value_basis": "image_sample",
+      "surface_or_region": "上衣",
+      "image_ids": [
+        "V03"
+      ],
+      "evidence_ids": [
+        "R10"
+      ],
+      "sample_method": "3000×3000 RGBA原文件的不透明单像素直接RGB记录；未校色",
+      "sample_coordinates_or_mask": [
+        1600,
+        1940
+      ],
+      "area_description": "仅定性角色大/小色块，无面积比例",
+      "area_basis": "visual_estimate",
+      "material_context": "官方商品渲染，有高光、阴影与环境反射",
+      "variation_boundary": "只适用于本款，不推广为角色签名色",
+      "uncertainty": "屏幕近似；非官方色号或生产验收色"
+    },
+    {
+      "color_id": "浅蓝",
+      "name": "浅蓝",
+      "role": "support",
+      "scope": "series_palette",
+      "hex_preview": "#adbfcd",
+      "value_basis": "image_sample",
+      "surface_or_region": "裤腿",
+      "image_ids": [
+        "V03"
+      ],
+      "evidence_ids": [
+        "R10"
+      ],
+      "sample_method": "3000×3000 RGBA原文件的不透明单像素直接RGB记录；未校色",
+      "sample_coordinates_or_mask": [
+        1660,
+        2410
+      ],
+      "area_description": "仅定性角色大/小色块，无面积比例",
+      "area_basis": "visual_estimate",
+      "material_context": "官方商品渲染，有高光、阴影与环境反射",
+      "variation_boundary": "只适用于本款，不推广为角色签名色",
+      "uncertainty": "屏幕近似；非官方色号或生产验收色"
+    },
+    {
+      "color_id": "深棕",
+      "name": "深棕",
+      "role": "line_face",
+      "scope": "series_palette",
+      "hex_preview": "#604844",
+      "value_basis": "image_sample",
+      "surface_or_region": "鼻子",
+      "image_ids": [
+        "V03"
+      ],
+      "evidence_ids": [
+        "R10"
+      ],
+      "sample_method": "3000×3000 RGBA原文件的不透明单像素直接RGB记录；未校色",
+      "sample_coordinates_or_mask": [
+        1500,
+        1300
+      ],
+      "area_description": "仅定性角色大/小色块，无面积比例",
+      "area_basis": "visual_estimate",
+      "material_context": "官方商品渲染，有高光、阴影与环境反射",
+      "variation_boundary": "只适用于本款，不推广为角色签名色",
+      "uncertainty": "屏幕近似；非官方色号或生产验收色"
+    },
+    {
+      "color_id": "奶油黄",
+      "name": "奶油黄",
+      "role": "accent",
+      "scope": "series_palette",
+      "hex_preview": "#e2d5c5",
+      "value_basis": "image_sample",
+      "surface_or_region": "幼龙脸",
+      "image_ids": [
+        "V03"
+      ],
+      "evidence_ids": [
+        "R10"
+      ],
+      "sample_method": "3000×3000 RGBA原文件的不透明单像素直接RGB记录；未校色",
+      "sample_coordinates_or_mask": [
+        1150,
+        1740
+      ],
+      "area_description": "仅定性角色大/小色块，无面积比例",
+      "area_basis": "visual_estimate",
+      "material_context": "官方商品渲染，有高光、阴影与环境反射",
+      "variation_boundary": "只适用于本款，不推广为角色签名色",
+      "uncertainty": "屏幕近似；非官方色号或生产验收色"
+    }
+  ],
+  "recurring_identity": "浅色脸与较深的眉眼鼻嘴反复出现；V02闭眼、V05下脸被遮、V07眼色变化，不能只靠固定发色。",
+  "editorial_environment": "V08地铁暖光、V07粉紫背景和药瓶均属宣传环境。",
+  "checks": "未做标准色卡、灰度、头像缩小、5cm实物或用户识别率实验。"
+}

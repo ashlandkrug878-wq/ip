@@ -1,0 +1,165 @@
+{
+  "products": [
+    {
+      "id": "P01",
+      "name": "游戏人生",
+      "date": "至少2023-09展售",
+      "category": "手办／场景装置",
+      "box_quantity": null,
+      "sources": [
+        "R02"
+      ],
+      "price": null,
+      "boundary": "同期报道9款可买，不等于盒数；全球首次售卖与完整材料未知。"
+    },
+    {
+      "id": "P02",
+      "name": "年少时光",
+      "date": "2024-08-03",
+      "category": "PVC盲盒",
+      "box_quantity": 9,
+      "sources": [
+        "R08"
+      ],
+      "price": null,
+      "boundary": "不是依据2024记录认作首代；首发价未知。"
+    },
+    {
+      "id": "P03",
+      "name": "万物生长",
+      "date": "2025-01-01",
+      "category": "PVC盲盒",
+      "box_quantity": 9,
+      "sources": [
+        "R09"
+      ],
+      "price": null,
+      "boundary": "主题与闭眼休息姿态；完整BOM未知。"
+    },
+    {
+      "id": "P04",
+      "name": "天生玩家",
+      "date": "2025-06-10",
+      "category": "PVC盲盒",
+      "box_quantity": 9,
+      "sources": [
+        "R10"
+      ],
+      "price": null,
+      "boundary": "多主题装扮；完整材料/首价未知。"
+    },
+    {
+      "id": "P05",
+      "name": "请与我约会",
+      "date": "2025-10-09",
+      "category": "PVC盲盒",
+      "box_quantity": 12,
+      "sources": [
+        "R11",
+        "R01"
+      ],
+      "price": {
+        "value": 21.5,
+        "currency": "USD",
+        "observed": "2026-10-21",
+        "basis": "美国站IP目录当前展示价，非首发价"
+      },
+      "boundary": "X02图3标2025-10-10；登记/市场首卖日差异未核。"
+    },
+    {
+      "id": "P06",
+      "name": "世界不能没有小狗",
+      "date": "2026-02-10",
+      "category": "PVC盲盒",
+      "box_quantity": 9,
+      "sources": [
+        "S01",
+        "R01"
+      ],
+      "price": {
+        "value": 18.5,
+        "currency": "USD",
+        "observed": "2026-10-21",
+        "basis": "美国站IP目录当前展示价，非首发价"
+      },
+      "boundary": "X02图2标2026-04-14；地区/登记口径原因未核。"
+    },
+    {
+      "id": "P07",
+      "name": "时空裂缝mini",
+      "date": "2026-03-25",
+      "category": "PVC盲盒",
+      "box_quantity": 9,
+      "sources": [
+        "R13",
+        "R01"
+      ],
+      "price": {
+        "value": 18.5,
+        "currency": "USD",
+        "observed": "2026-10-21",
+        "basis": "美国站IP目录当前展示价，非首发价"
+      },
+      "boundary": "mini与常规不同载体档，不据物流字段推裸娃身高。"
+    },
+    {
+      "id": "P08",
+      "name": "异世界",
+      "date": "2026-04-14",
+      "category": "PVC盲盒",
+      "box_quantity": 9,
+      "sources": [
+        "R12",
+        "R01"
+      ],
+      "price": {
+        "value": 21.5,
+        "currency": "USD",
+        "observed": "2026-10-21",
+        "basis": "美国站IP目录当前展示价，非首发价"
+      },
+      "boundary": "R06设计师稿称独立眼片、涂层和夜光云朵；不推广到所有款与系列。"
+    },
+    {
+      "id": "P09",
+      "name": "城市漫步",
+      "date": "2026-04-18",
+      "category": "毛绒盲盒挂件",
+      "box_quantity": 9,
+      "sources": [
+        "R14",
+        "R01"
+      ],
+      "price": {
+        "value": 29.5,
+        "currency": "USD",
+        "observed": "2026-10-21",
+        "basis": "美国站IP目录当前展示价，非首发价"
+      },
+      "boundary": "已看主图写9常规＋1隐藏；概率、完整材料、首发价未知。"
+    },
+    {
+      "id": "P10",
+      "name": "怪兽低气压mini",
+      "date": "2026-06-18",
+      "category": "毛绒盲盒挂件",
+      "box_quantity": 6,
+      "sources": [
+        "R15",
+        "R01"
+      ],
+      "price": {
+        "value": 18.5,
+        "currency": "USD",
+        "observed": "2026-10-21",
+        "basis": "美国站IP目录当前展示价，非首发价"
+      },
+      "boundary": "已看主图写6常规＋1隐藏；不把背景药瓶当附带配件。"
+    }
+  ],
+  "notes": [
+    "代表清单，非销量排行或全量目录。",
+    "Box Quantity不自动等于全系列款数；主图明确款数与概率分别记录。",
+    "Piece Size为物流栏且无明确单位，不作为裸娃cm尺寸。"
+  ]
+}
