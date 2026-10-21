@@ -1,0 +1,206 @@
+[
+  {
+    "id": "A01",
+    "title": "DORA | TNT SPACE IP Encyclopedia",
+    "url": "https://tntspace.com/us/encyclopedia/DR",
+    "publisher": "TNTSPACE",
+    "published": null,
+    "observed": "2026-10-21",
+    "access": "full",
+    "supports": "官方设定：自信、忠于自我、行动探索；2026产品目录含404街区8月、爪印街区BJD7月、On My Way6月。",
+    "boundary": "不含设计师署名/履历；目录不证明销量。",
+    "origin_family": "official-encyclopedia"
+  },
+  {
+    "id": "A02",
+    "title": "The Unboxing of Us: The TNT SPACE Origin Story",
+    "url": "https://tntspace.com/us/articles/the-unboxing-of-us-the-tnt-space-origin-story",
+    "publisher": "TNTSPACE",
+    "published": "2026-05-09",
+    "observed": "2026-10-21",
+    "access": "full",
+    "supports": "品牌自述DORA于2022诞生；首系列四个月50万units；创始人吴文东；品牌称2023营收超5亿元。",
+    "boundary": "宣传叙事非审计；2026发布仍有2025预测净利，不可当实际值。早年团队与2022品牌不可混同。",
+    "origin_family": "tnt-origin",
+    "related_urls": [
+      "https://tntspace.com/my/articles/the-unboxing-of-us-the-tnt-space-origin-story-zh-TW"
+    ]
+  },
+  {
+    "id": "A03",
+    "title": "2022年实现逆势增长的潮玩公司TNT SPACE还有什么“独家秘笈”？",
+    "url": "https://www.chinalicensingexpo.com/cn/media_center/detail?id=15934",
+    "publisher": "CLE中国授权展",
+    "published": "2023-03-02",
+    "observed": "2026-10-21",
+    "access": "full",
+    "supports": "CLE报道主体杭州引爆时空文化创意有限公司、创立2022；DORA一代四个月售出50万只；拒绝定义系列；产品验证与深圳工艺研发中心。",
+    "boundary": "行业报道含公司供数，不是审计；页面3.2.2023日期按月日读取。泛行业投诉不得归DORA。",
+    "origin_family": "cle-2023-launch"
+  },
+  {
+    "id": "A04",
+    "title": "对话TNTSPACE CEO王泽群：从DORA到BabyZoraa的爆火，我们有自己的明星IP打造方法论",
+    "url": "https://pangjing.cn/jingyingzhe-2024/",
+    "publisher": "胖鲸／CEO王泽群原访谈",
+    "published": "2024-10-17",
+    "observed": "2026-10-21",
+    "access": "full",
+    "supports": "CEO称DORA年零售额超3亿元；品牌每年盲盒2000万只和其他商品500万件；设计师+主理人分工；测试/投票/众筹；当时依赖经销商、无自营店。",
+    "boundary": "所有经营数字self_report；零售额统计年未明，品牌总量非DORA；无店仅2024时点。",
+    "origin_family": "pangjing-ceo-20241017"
+  },
+  {
+    "id": "A05",
+    "title": "一年销售2000万只盲盒的公司，核心竞争力不是盲盒，而是IP",
+    "url": "https://cn.ceibs.edu/people-stories/26618",
+    "publisher": "中欧国际工商学院／创始人分享整理",
+    "published": "2025-04-08",
+    "observed": "2026-10-21",
+    "access": "full",
+    "supports": "中欧参访按创始人吴文东分享整理；线上渠道供货受限后转自研；2025增长翻倍为预期；IP年销售额3亿为企业分享。",
+    "boundary": "不是学术独立验证或审计；历史项目不等于DORA诞生年份；预测兑现未知。",
+    "origin_family": "ceibs-founder-20250408"
+  },
+  {
+    "id": "A06",
+    "title": "DORA-Meet a trendy IP every day！",
+    "url": "https://toysez.com/blogs/designer-toys/dora-reject-definition-series",
+    "publisher": "TOYSEZ商家",
+    "published": "2023-09-26",
+    "observed": "2026-10-21",
+    "access": "full",
+    "supports": "商家文章标Designer:TUTU，昵称Big Cousin。",
+    "boundary": "非权利人或作者一手署名，仅线索；不证明中文实名/版权关系。",
+    "origin_family": "toysez-dora"
+  },
+  {
+    "id": "A07",
+    "title": "Dora — TOYSEZ",
+    "url": "https://toysez.com/collections/dora",
+    "publisher": "TOYSEZ商家",
+    "published": null,
+    "observed": "2026-10-21",
+    "access": "full",
+    "supports": "现商家页署Tutu Z；叙述DORA2022推出；搜索摘要写品牌2021；正文称首发四个月half a million sets。",
+    "boundary": "商家署名仅为线索；sets与较早中文报道“只”存在单位差异。品牌2021说法未获一手核实，不补造筹备年。",
+    "origin_family": "toysez-dora"
+  },
+  {
+    "id": "A08",
+    "title": "单系列四个月卖出50万只，TNT SPACE 如何用“大盲盒”逆势增长",
+    "url": "https://k.sina.com.cn/article_5893582170_15f48ed5a001010hhj.html",
+    "publisher": "文创潮／新浪转载",
+    "published": "2023-02-25",
+    "observed": "2026-10-21",
+    "access": "full",
+    "supports": "文创潮采访CEO：一代备50万只，四个月停产售罄；设计与工艺研发团队。",
+    "boundary": "经营者自述，无订单审计；百度/财经头条等版本为同源转载，不增加独立性。",
+    "origin_family": "wenchuangchao-20230225"
+  },
+  {
+    "id": "A09",
+    "title": "TNT space figures — r/vinyltoys",
+    "url": "https://www.reddit.com/r/vinyltoys/comments/1ees3fd/tnt_space_figures/",
+    "publisher": "Reddit r/vinyltoys 用户原帖",
+    "published": null,
+    "observed": "2026-10-21",
+    "access": "full",
+    "supports": "用户表示难找可靠海外销售渠道/品牌信息；也有用户称品质好。",
+    "boundary": "自选少量帖子；页面只显示2y ago，未补造精确日期；不证明总体不满或假货发生率。",
+    "origin_family": "reddit-1ees3fd"
+  },
+  {
+    "id": "S01",
+    "title": "DORA拒绝定义系列手办｜官方图鉴",
+    "url": "https://tntspace.com/tw/encyclopedia/products/814",
+    "publisher": "TNTSPACE",
+    "published": null,
+    "observed": "2026-10-21",
+    "access": "partial",
+    "supports": "系列DRM-AAXA、SKU TP-9-01；已下载并查看冥想者原始透明PNG及两款商品图。",
+    "boundary": "图鉴标发布2022-07-30；不等于独立核得首次开售日。端盒9个不自动等于全系列只有9款。"
+  },
+  {
+    "id": "S02",
+    "title": "DORA拒绝定义｜IP-X Club项目方案",
+    "url": "https://tntspace.com/us/innovation/2041",
+    "publisher": "TNTSPACE站内IP-X Club／投稿账户North Mound",
+    "published": null,
+    "observed": "2026-10-21",
+    "access": "partial",
+    "supports": "实际查看9张方案页，内含二维形象及角色图鉴。",
+    "boundary": "品牌网站托管的方案页，投稿账户不等于已核实的原作者或著作权人；无可靠发布时间。不能把此图认作官方基础设定或把署名改成TUTU。"
+  },
+  {
+    "id": "S03",
+    "title": "DORA甜酷警告毛绒挂件｜美国站商店",
+    "url": "https://tntspace.com/us/collections/all/products/C1000A~DORA-Watch-Out-Sweet-Cool-series-Plush-Pendant",
+    "publisher": "TNTSPACE",
+    "published": null,
+    "observed": "2026-10-21",
+    "access": "partial",
+    "supports": "已看产品展示、全图鉴、产品信息和盲盒规则图；PVC／聚酯纤维／金属，6常规+1隐藏，隐藏概率1:72。",
+    "boundary": "2026-10-21美国站商品列表from $19.50；图鉴显示$21.50，价差口径未核。产品图规格16—17cm，规则页插画标约15.5cm，测量范围有差异。",
+    "related_urls": [
+      "https://tntspace.com/us/collections/ip/DR",
+      "https://hotcache.willapps.com/shareData/20260629100403_3.jpg",
+      "https://hotcache.willapps.com/shareData/20260629100403_4.jpg"
+    ]
+  },
+  {
+    "id": "S04",
+    "title": "DORA甜酷警告系列毛绒挂件｜官方图鉴",
+    "url": "https://tntspace.com/us/encyclopedia/products/804",
+    "publisher": "TNTSPACE",
+    "published": null,
+    "observed": "2026-10-21",
+    "access": "partial",
+    "supports": "6个一盒；服装可穿脱，可用于钥匙串或背包；publisher/copyright均列TNTSPACE。",
+    "boundary": "图鉴发布日期2026-06-27；用户图鉴标7月3日，未核不同市场的上市日。物流尺寸未显单位，不换算产品尺寸。"
+  },
+  {
+    "id": "S05",
+    "title": "BABY DORA一口小面包mini系列盲盒｜官方图鉴",
+    "url": "https://tntspace.com/us/encyclopedia/products/837",
+    "publisher": "TNTSPACE",
+    "published": null,
+    "observed": "2026-10-21",
+    "access": "partial",
+    "supports": "属于DR编号分支；已看首张商品主图，主图写6常规+1小隐藏+1大隐藏。",
+    "boundary": "图鉴发布2026-07-01；美国站总图鉴该条列CN¥39，不冒充中国当前成交价。物流尺寸单位未明；未读完16张详情图。"
+  },
+  {
+    "id": "X01",
+    "title": "每天认识一个IP—【Dora】拒绝定义的女孩",
+    "url": "https://www.xiaohongshu.com/explore/6808bd5800000000070347ea",
+    "publisher": "小红书／小猛牛IP笔记",
+    "published": "2025-04-23",
+    "observed": "2026-10-21",
+    "access": "partial",
+    "supports": "有人自报因生人勿近、逃离计划或百无禁忌入坑；这不是订单或总体购买动机调查。",
+    "boundary": "正文、可见评论及封面1/6已读，未看其余5张。DUDOO姐姐为笔记说法，本轮未获官方关系设定；封面身份与官方商品可对照，原图权利链未核。"
+  },
+  {
+    "id": "X02",
+    "title": "💕Dora全系列图鉴｜喜欢Dora的朋友看过来！",
+    "url": "https://www.xiaohongshu.com/explore/6a7ae9380000000035014a9d",
+    "publisher": "小红书／王小胖没烦恼",
+    "published": null,
+    "observed": "2026-10-21",
+    "access": "partial",
+    "supports": "有手办、毛绒、挂件和全明星条目；早期拒绝定义标2022-07-13，与官方图鉴7月30日并存。",
+    "boundary": "正文、可见评论和10/10图均已读。显示08-11，正文无独立年份；图中最晚日期到2026，不能因此补造笔记发布时间。18系列为作者整理，排除单品和萌粒，并非截至今日全量。"
+  },
+  {
+    "id": "X03",
+    "title": "不知不觉，DORA陪伴了我一年了",
+    "url": "https://www.xiaohongshu.com/explore/6ab4d80e0000000013018822",
+    "publisher": "小红书／Linggggg。",
+    "published": null,
+    "observed": "2026-10-21",
+    "access": "partial",
+    "supports": "作者自述收集一年、等待与开箱的情绪；评论询问会员和提前购买，积分门槛为用户说法，不当官方现行规则。",
+    "boundary": "正文、可见评论与收藏柜封面1/3已读。页面显示09-24，正文提到2026年度；发布时间年份未单独确认。未看图2/3，未核交易凭证。"
+  }
+]

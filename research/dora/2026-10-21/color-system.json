@@ -1,0 +1,159 @@
+{
+  "scope": "V01冥想者官方渲染图，不代表全IP",
+  "method": "Pillow读取2160×3840 RGBA PNG的六个不透明单点；未作色彩管理转换、区域分割或面积计算",
+  "palette": [
+    {
+      "palette_id": "dora-meditator",
+      "color_id": "c1",
+      "name": "浅薄荷发／主体",
+      "hex_preview": "#DAE9DE",
+      "value_basis": "image_sample",
+      "scope": "series_palette",
+      "surface_or_region": "浅薄荷发／主体",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "S01"
+      ],
+      "sample_method": "single opaque RGBA pixel",
+      "sample_coordinates": [
+        1125,
+        1030
+      ],
+      "area_description": "大块/点缀按目视描述",
+      "area_basis": "visual_estimate",
+      "material_context": "官方商品渲染，存在阴影高光",
+      "variation_boundary": "仅此款此文件，发色与衣色跨款变化",
+      "uncertainty": "不是官方标准或实物验收色"
+    },
+    {
+      "palette_id": "dora-meditator",
+      "color_id": "c2",
+      "name": "蓝结／顶部点缀",
+      "hex_preview": "#2A6A8C",
+      "value_basis": "image_sample",
+      "scope": "series_palette",
+      "surface_or_region": "蓝结／顶部点缀",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "S01"
+      ],
+      "sample_method": "single opaque RGBA pixel",
+      "sample_coordinates": [
+        1310,
+        750
+      ],
+      "area_description": "大块/点缀按目视描述",
+      "area_basis": "visual_estimate",
+      "material_context": "官方商品渲染，存在阴影高光",
+      "variation_boundary": "仅此款此文件，发色与衣色跨款变化",
+      "uncertainty": "不是官方标准或实物验收色"
+    },
+    {
+      "palette_id": "dora-meditator",
+      "color_id": "c3",
+      "name": "肤色／渲染明暗区域",
+      "hex_preview": "#E0CFC9",
+      "value_basis": "image_sample",
+      "scope": "series_palette",
+      "surface_or_region": "肤色／渲染明暗区域",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "S01"
+      ],
+      "sample_method": "single opaque RGBA pixel",
+      "sample_coordinates": [
+        1200,
+        1570
+      ],
+      "area_description": "大块/点缀按目视描述",
+      "area_basis": "visual_estimate",
+      "material_context": "官方商品渲染，存在阴影高光",
+      "variation_boundary": "仅此款此文件，发色与衣色跨款变化",
+      "uncertainty": "不是官方标准或实物验收色"
+    },
+    {
+      "palette_id": "dora-meditator",
+      "color_id": "c4",
+      "name": "深灰外套／大色块",
+      "hex_preview": "#4C5867",
+      "value_basis": "image_sample",
+      "scope": "series_palette",
+      "surface_or_region": "深灰外套／大色块",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "S01"
+      ],
+      "sample_method": "single opaque RGBA pixel",
+      "sample_coordinates": [
+        750,
+        2150
+      ],
+      "area_description": "大块/点缀按目视描述",
+      "area_basis": "visual_estimate",
+      "material_context": "官方商品渲染，存在阴影高光",
+      "variation_boundary": "仅此款此文件，发色与衣色跨款变化",
+      "uncertainty": "不是官方标准或实物验收色"
+    },
+    {
+      "palette_id": "dora-meditator",
+      "color_id": "c5",
+      "name": "浅蓝裤／大色块",
+      "hex_preview": "#C4D4D8",
+      "value_basis": "image_sample",
+      "scope": "series_palette",
+      "surface_or_region": "浅蓝裤／大色块",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "S01"
+      ],
+      "sample_method": "single opaque RGBA pixel",
+      "sample_coordinates": [
+        844,
+        2625
+      ],
+      "area_description": "大块/点缀按目视描述",
+      "area_basis": "visual_estimate",
+      "material_context": "官方商品渲染，存在阴影高光",
+      "variation_boundary": "仅此款此文件，发色与衣色跨款变化",
+      "uncertainty": "不是官方标准或实物验收色"
+    },
+    {
+      "palette_id": "dora-meditator",
+      "color_id": "c6",
+      "name": "绿色坐垫／支撑",
+      "hex_preview": "#667A5E",
+      "value_basis": "image_sample",
+      "scope": "series_palette",
+      "surface_or_region": "绿色坐垫／支撑",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "S01"
+      ],
+      "sample_method": "single opaque RGBA pixel",
+      "sample_coordinates": [
+        1406,
+        3094
+      ],
+      "area_description": "大块/点缀按目视描述",
+      "area_basis": "visual_estimate",
+      "material_context": "官方商品渲染，存在阴影高光",
+      "variation_boundary": "仅此款此文件，发色与衣色跨款变化",
+      "uncertainty": "不是官方标准或实物验收色"
+    }
+  ],
+  "area_percent": null,
+  "cross_sample": "V02青灰粉、V03紫白金、V05浅金蓝白、V06红粉绿并存；暂无全IP单一签名色的可靠依据。",
+  "verification": "未实测灰度、头像缩小、实物色差或5cm识别率；屏幕色值不能替代材料打样。"
+}

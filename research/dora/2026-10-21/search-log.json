@@ -1,0 +1,61 @@
+{
+  "cutoff_date": "2026-10-21",
+  "platform": "小红书已登录浏览器",
+  "queries": [
+    {
+      "query": "DORA 品牌介绍",
+      "status": "executed",
+      "date": "2026-10-21"
+    },
+    {
+      "query": "DORA 产品汇总",
+      "status": "executed",
+      "date": "2026-10-21"
+    }
+  ],
+  "notes": [
+    {
+      "source_id": "X01",
+      "url": "https://www.xiaohongshu.com/explore/6808bd5800000000070347ea",
+      "read": "正文、可见评论、封面1/6"
+    },
+    {
+      "source_id": "X02",
+      "url": "https://www.xiaohongshu.com/explore/6a7ae9380000000035014a9d",
+      "read": "正文、可见评论、10/10图"
+    },
+    {
+      "source_id": "X03",
+      "url": "https://www.xiaohongshu.com/explore/6ab4d80e0000000013018822",
+      "read": "正文、可见评论、收藏柜封面1/3"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "DORA是DUDOO姐姐",
+      "source": "X01",
+      "status": "未核官方关系，作为secondary_claim保留"
+    },
+    {
+      "claim": "拒绝定义2022-07-13发售",
+      "source": "X02图6",
+      "status": "官方S01图鉴发布为2022-07-30；两日期并存，首次开售日待核"
+    },
+    {
+      "claim": "甜酷警告2026-07-03",
+      "source": "X02图7",
+      "status": "官方S04图鉴2026-06-27；市场与首卖日差异未核"
+    },
+    {
+      "claim": "18系列为全量",
+      "source": "X02正文",
+      "status": "作者明示排除单品与萌粒；官网后续新品未必涵盖，不当当前完整图鉴"
+    },
+    {
+      "claim": "会员20/25积分规则",
+      "source": "X03评论",
+      "status": "用户自述，未核官方现行政策"
+    }
+  ],
+  "boundaries": "定向检索、自选与可见评论，不具代表性。公开链接去除访问令牌和追踪参数。"
+}

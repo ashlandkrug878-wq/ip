@@ -1,0 +1,458 @@
+{
+  "id": "dora",
+  "name": "DORA 大表姐",
+  "aliases": [
+    "Dora",
+    "朵拉",
+    "大表姐"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-21",
+  "updated": "2026-10-21",
+  "summary": "圆润体块与拽酷眉眼并置，通过服装、主题、材质和携带方式延展角色。核验早期系列与2026分支、3篇小红书及4轮平面实测；经营数字保留零售额和只/套口径。",
+  "owner": {
+    "creator": "商家署TUTU／Tutu Z；官方作者署名待核",
+    "operator": "TNTSPACE／杭州引爆时空文化创意有限公司",
+    "relation": "官方商品图鉴列copyright TNTSPACE；自然人创作与劳动/授权合同链未知",
+    "since": "2022",
+    "sources": [
+      "A03",
+      "A06",
+      "A07",
+      "S04"
+    ]
+  },
+  "origin": {
+    "path": [
+      "艺术家潮玩",
+      "产品先行",
+      "渠道孵化"
+    ],
+    "year": "2022",
+    "story": "以拒绝定义等实体潮玩系列起步；创始团队更早线上业务与角色诞生分开。",
+    "sources": [
+      "A02",
+      "A03",
+      "S01"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2022年",
+      "event": "品牌2026英文回顾称DORA在2022年诞生；早期草图、创作日及官方作者履历未取得。",
+      "type": "self_report",
+      "sources": [
+        "A02"
+      ]
+    },
+    {
+      "date": "2022-07-30",
+      "event": "拒绝定义系列官方图鉴的发布日期；用户图鉴另列7月13日，两种日期并存，不认定哪个是首次开售。",
+      "type": "fact",
+      "sources": [
+        "S01",
+        "X02"
+      ]
+    },
+    {
+      "date": "2022-12-24",
+      "event": "早期报道记录杭州in77 DORA生人勿近主题发售现场；展会日期与系列创作日分开。",
+      "type": "self_report",
+      "sources": [
+        "A03"
+      ]
+    },
+    {
+      "date": "2023-02／03",
+      "event": "早期报道回顾首系列四个月约50万只；品牌发布“大盲盒”与渠道合作策略。",
+      "type": "self_report",
+      "sources": [
+        "A03",
+        "A08"
+      ]
+    },
+    {
+      "date": "2024-10-17",
+      "event": "CEO原访谈谈每IP设计师＋主理人分工，以及按层级配置零售合作门店。",
+      "type": "self_report",
+      "sources": [
+        "A04"
+      ]
+    },
+    {
+      "date": "2025-04-08",
+      "event": "创始人分享整理回顾从线上渠道走向自研IP；经营预期不当作后来已实现业绩。",
+      "type": "self_report",
+      "sources": [
+        "A05"
+      ]
+    },
+    {
+      "date": "2026-06-27",
+      "event": "甜酷警告毛绒挂件官方图鉴发布；产品把服装穿脱与携带功能纳入玩法。",
+      "type": "fact",
+      "sources": [
+        "S04"
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "event": "BABY DORA一口小面包mini系列图鉴发布，出现更圆小、更松软的主题分支。",
+      "type": "fact",
+      "sources": [
+        "S05"
+      ]
+    },
+    {
+      "date": "2026年8月",
+      "event": "官网目录列404街区系列，说明持续上新；目录存在不证明销量增长。",
+      "type": "fact",
+      "sources": [
+        "A01"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "我的样子和步调，由我自己决定。",
+    "sentence_type": "允许",
+    "basis": "inferred",
+    "sources": [
+      "A01",
+      "S04"
+    ]
+  },
+  "core": {
+    "personality": "自信、拽酷、行动派",
+    "emotion": "外放",
+    "action": "忠于自我，打破束缚并探索",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "陈列柜、包上携带、变装和开箱",
+    "behavior": "按系列和具体款式收集，有用户讲述等待、开箱与陈列经历",
+    "state": "研究假设：想保留个人态度，也享受打扮和收藏",
+    "conflict": "研究假设：被要求符合某种样子，与表达自己偏好之间的张力",
+    "unsaid": "研究假设：我可以按自己的方式来",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "购买者年龄、性别和地域分布未知；15+适用提示不是买家调查",
+    "where": "官方商品、合作零售、小红书图鉴与收藏分享；海外讨论寻找可信渠道",
+    "buy": "2024访谈有历史零售额自述；收藏者有持有与收集自述，无订单、总体复购或转化数据",
+    "signs": "大表姐、系列和款名是可见称呼；不补造粉丝黑话",
+    "share": "图鉴便于查漏补缺，收藏柜讲述个人经历，评论会问款名、价格、柜子和会员资格",
+    "breakout": "产品线与渠道协作可核；独立贡献未量化"
+  },
+  "pendulum": {
+    "position": "暗黑酷",
+    "against": "拽酷是态度入口，圆润形体和甜美配色仍并存；尚无证据认定它是对当时整个市场甜美审美的反动。"
+  },
+  "form": {
+    "archetype": "类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "五官",
+      "头型"
+    ],
+    "mark": "粗弧眉、带星点的眼部关系、鼻上小点、脸颊短线与下弯小嘴的常见组合",
+    "face": "脸宽圆、鼻嘴紧凑，半闭或张开的眼型及睫毛随款变化；有遮嘴款",
+    "emotion": "外放",
+    "odd": "幼态圆润体块和带距离感的面部态度形成张力",
+    "density": "繁复",
+    "naming": "人名",
+    "group": "单角色",
+    "note": "BABY DORA在官方DR目录下为产品分支；不能用一款发型或眼色定义全部。"
+  },
+  "collide_combo": "不要整组搬用宽圆幼态脸、粗弧压眉、星点眼、鼻上雀斑、脸侧短线与特定下弯嘴的比例关系，再仅换发型服装。",
+  "color": {
+    "mode": "多色系列",
+    "main": "随系列和SKU变化；冥想者为薄荷发、蓝结、蜜桃肤、深灰外套与浅蓝裤",
+    "signature": "暂无可靠证据支持某一种发色或衣色为全IP强制签名色",
+    "notes": "V01六点RGBA屏幕取样来自官方渲染图，受光照影响，不是标准色。"
+  },
+  "materials": "拒绝定义官方图鉴归PVC盲盒；甜酷警告产品信息图列PVC／聚酯纤维／金属，服装可穿脱。BABY DORA归PVC盲盒；不从照片反推ABS、搪胶工艺、真实皮草或内部连接。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "其他",
+    "note": "商品主题、社交展示与线下活动；未核到连续漫画或动画内容体系。"
+  },
+  "product": {
+    "first_category": "盲盒手办",
+    "hit_category": "盲盒手办",
+    "hit_product": "拒绝定义系列：早期报道有销售自述，独立销量冠军排行未知",
+    "price_band": "历史品牌大盲盒策略价74元，不是当前DORA统一售价；2026美国站甜酷警告商店列表from $19.50、图鉴$21.50，差异未核；BABY条目图鉴显示CN¥39，地区成交价未核。",
+    "sources": [
+      "A03",
+      "S03",
+      "A01"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "DORA首代盲盒销售数量",
+      "value": 500000,
+      "unit": "只",
+      "period": "2023报道回顾首系列四个月，具体起止月未知",
+      "type": "self_report",
+      "sources": [
+        "A03",
+        "A08"
+      ],
+      "boundary": "经营者供数，非审计订单；2026官方英文用units，繁中回顾和商家用套/sets，不按整盒倍数换算。"
+    },
+    {
+      "metric": "DORA年度零售额",
+      "value": 300000000,
+      "comparison": ">",
+      "unit": "人民币元",
+      "period": "2024-10-17访谈所称年度，未明确自然年或滚动年",
+      "type": "self_report",
+      "sources": [
+        "A04"
+      ],
+      "boundary": "非营收、非利润，也不是2026经营数字；不与Baby Zoraa或集团数据合并。"
+    },
+    {
+      "metric": "2026 DORA独立可比收入",
+      "value": null,
+      "unit": null,
+      "period": "截至2026-10-21所阅资料",
+      "type": "fact",
+      "sources": [
+        "A01",
+        "A04"
+      ],
+      "boundary": "未取得可比审计收入、SKU销量、退货、利润或复购明细。"
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "在圆润幼态的体块里，保留不讨好人的眉眼态度。",
+      "type": "inference",
+      "evidence": "V01半闭眼、下弯小嘴和托腮对照宽圆脸；V05毛绒形态仍用压眉、鼻点和嘴形保留态度。",
+      "boundary": "“拽酷”是官方定位；不能据此认定所有买家都在反抗、也不能将半闭眼设为每款不变量。",
+      "sources": [
+        "A01",
+        "S01",
+        "S03"
+      ]
+    },
+    {
+      "claim": "角色识别可留在脸部关系，主题在头发、服装、材质与眼部装饰上展开。",
+      "type": "inference",
+      "evidence": "V01—V03早期三款、V05毛绒、V06 BABY分支在配色、发型和载体上明显不同。",
+      "boundary": "仅为跨样本视觉归纳，未做盲测识别率；变体越远越需要单独核验。",
+      "sources": [
+        "S01",
+        "S03",
+        "S05"
+      ]
+    },
+    {
+      "claim": "产品主题与可玩方式，让角色进入收藏、穿搭和携带情境。",
+      "type": "inference",
+      "evidence": "手办陈列，甜酷警告可穿脱服装与挂件功能；收藏柜笔记出现持续收集、等待与开箱自述。",
+      "boundary": "功能与个案可核；没有证据量化其对整体收入或复购的贡献。",
+      "sources": [
+        "S04",
+        "X03"
+      ]
+    },
+    {
+      "claim": "形象背后有筛选、主理与渠道协作，传播结果不能只归给一张脸。",
+      "type": "inference",
+      "evidence": "早期报道的投票／众筹验证与渠道签约，CEO谈设计师和主理人的职责。",
+      "boundary": "这些是公司自述的运营方法；没有失败项目或对照数据来量化净效果。",
+      "sources": [
+        "A03",
+        "A04"
+      ]
+    }
+  ],
+  "counterexamples": "海外用户曾表示难找可信销售渠道并担心质量，也有用户称自己持有的产品质量好；小样本不能推总体投诉率。未取得失败系列销量或DORA专属大规模质量事件。",
+  "theory": {
+    "shell": "圆润大头和大耳，压眉、眼部装饰、小鼻嘴等构成面部识别；复杂衣饰承担主题变化。",
+    "core": "官方自信、拽酷、忠于自我的行动派；BABY休息主题提示表达范围可以扩展。",
+    "shadow": "大头、星眼、雀斑、双辫属于常见视觉语言，身份在于具体关系与持续产品语境；不据元素相同直接判抄袭或成功。",
+    "two_layers": {
+      "surface": "路人可能先被颜色、表情、服装或毛绒触感吸引，属于研究假设。",
+      "deep": "收藏者按系列和款名查漏补缺，陈列并讲述等待、开箱的经历；局部样本不能代表所有用户。"
+    },
+    "validation": "历史零售额支持公司自述的商业规模，收藏柜和评论支持局部持有及偏好，不支持总体复购、人口画像或设计因果。"
+  },
+  "for_skills": {
+    "lab": "把个人态度落进具体处境和选择，不以“拽酷”两个字代替内核；新角色另定表达。",
+    "form": "研究圆润体块与有距离感的面部关系；另定轮廓、五官和识别锚点，不搬专属组合。",
+    "studio": "把陈列、携带、穿脱和开箱作为不同任务研究；主题可以变化，但跨载体要单独检查识别。本轮只验证指定SKU平面。"
+  },
+  "gaps": [
+    "官方自然人作者署名、原始草图、版权登记与完整合同链未核；商家TUTU/Tutu Z署名不能代替。",
+    "2021成立说法来自商家线索，2022来自早期报道与品牌回顾；不补造“筹备年”。",
+    "首次开售日有7月13日用户图鉴与7月30日官方元数据差异；尚无同期首发公告。",
+    "2026独立收入、单品动销、成本利润、受众人口结构与复购率未知；历史零售额是自述。",
+    "用户样本为3个小红书账号加1组Reddit讨论；无代表性抽样、无交易凭证。",
+    "小红书介绍看1/6、产品图鉴看10/10、收藏柜看1/3；未看页不算已读。",
+    "IP-X Club二维方案为品牌站托管投稿，发布时间及原作者身份未核；不认作官方基础设定。",
+    "纯文字两轮未通过；附图V2只接近冥想者这一款的可见正面二维转绘，仍有局部渐变、腮红线数与细节差异。",
+    "英文、重复稳定性、标准侧背面、原创找形、原创上色与实物概念未测试；本轮不发布这些正式可用词。"
+  ],
+  "sources": [
+    {
+      "id": "A01",
+      "title": "DORA | TNT SPACE IP Encyclopedia",
+      "url": "https://tntspace.com/us/encyclopedia/DR",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full"
+    },
+    {
+      "id": "A02",
+      "title": "The Unboxing of Us: The TNT SPACE Origin Story",
+      "url": "https://tntspace.com/us/articles/the-unboxing-of-us-the-tnt-space-origin-story",
+      "publisher": "TNTSPACE",
+      "published": "2026-05-09",
+      "observed": "2026-10-21",
+      "access": "full"
+    },
+    {
+      "id": "A03",
+      "title": "2022年实现逆势增长的潮玩公司TNT SPACE还有什么“独家秘笈”？",
+      "url": "https://www.chinalicensingexpo.com/cn/media_center/detail?id=15934",
+      "publisher": "CLE中国授权展",
+      "published": "2023-03-02",
+      "observed": "2026-10-21",
+      "access": "full"
+    },
+    {
+      "id": "A04",
+      "title": "对话TNTSPACE CEO王泽群：从DORA到BabyZoraa的爆火，我们有自己的明星IP打造方法论",
+      "url": "https://pangjing.cn/jingyingzhe-2024/",
+      "publisher": "胖鲸／CEO王泽群原访谈",
+      "published": "2024-10-17",
+      "observed": "2026-10-21",
+      "access": "full"
+    },
+    {
+      "id": "A05",
+      "title": "一年销售2000万只盲盒的公司，核心竞争力不是盲盒，而是IP",
+      "url": "https://cn.ceibs.edu/people-stories/26618",
+      "publisher": "中欧国际工商学院／创始人分享整理",
+      "published": "2025-04-08",
+      "observed": "2026-10-21",
+      "access": "full"
+    },
+    {
+      "id": "A06",
+      "title": "DORA-Meet a trendy IP every day！",
+      "url": "https://toysez.com/blogs/designer-toys/dora-reject-definition-series",
+      "publisher": "TOYSEZ商家",
+      "published": "2023-09-26",
+      "observed": "2026-10-21",
+      "access": "full"
+    },
+    {
+      "id": "A07",
+      "title": "Dora — TOYSEZ",
+      "url": "https://toysez.com/collections/dora",
+      "publisher": "TOYSEZ商家",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full"
+    },
+    {
+      "id": "A08",
+      "title": "单系列四个月卖出50万只，TNT SPACE 如何用“大盲盒”逆势增长",
+      "url": "https://k.sina.com.cn/article_5893582170_15f48ed5a001010hhj.html",
+      "publisher": "文创潮／新浪转载",
+      "published": "2023-02-25",
+      "observed": "2026-10-21",
+      "access": "full"
+    },
+    {
+      "id": "A09",
+      "title": "TNT space figures — r/vinyltoys",
+      "url": "https://www.reddit.com/r/vinyltoys/comments/1ees3fd/tnt_space_figures/",
+      "publisher": "Reddit r/vinyltoys 用户原帖",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "full"
+    },
+    {
+      "id": "S01",
+      "title": "DORA拒绝定义系列手办｜官方图鉴",
+      "url": "https://tntspace.com/tw/encyclopedia/products/814",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial"
+    },
+    {
+      "id": "S02",
+      "title": "DORA拒绝定义｜IP-X Club项目方案",
+      "url": "https://tntspace.com/us/innovation/2041",
+      "publisher": "TNTSPACE站内IP-X Club／投稿账户North Mound",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial"
+    },
+    {
+      "id": "S03",
+      "title": "DORA甜酷警告毛绒挂件｜美国站商店",
+      "url": "https://tntspace.com/us/collections/all/products/C1000A~DORA-Watch-Out-Sweet-Cool-series-Plush-Pendant",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial"
+    },
+    {
+      "id": "S04",
+      "title": "DORA甜酷警告系列毛绒挂件｜官方图鉴",
+      "url": "https://tntspace.com/us/encyclopedia/products/804",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial"
+    },
+    {
+      "id": "S05",
+      "title": "BABY DORA一口小面包mini系列盲盒｜官方图鉴",
+      "url": "https://tntspace.com/us/encyclopedia/products/837",
+      "publisher": "TNTSPACE",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial"
+    },
+    {
+      "id": "X01",
+      "title": "每天认识一个IP—【Dora】拒绝定义的女孩",
+      "url": "https://www.xiaohongshu.com/explore/6808bd5800000000070347ea",
+      "publisher": "小红书／小猛牛IP笔记",
+      "published": "2025-04-23",
+      "observed": "2026-10-21",
+      "access": "partial"
+    },
+    {
+      "id": "X02",
+      "title": "💕Dora全系列图鉴｜喜欢Dora的朋友看过来！",
+      "url": "https://www.xiaohongshu.com/explore/6a7ae9380000000035014a9d",
+      "publisher": "小红书／王小胖没烦恼",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial"
+    },
+    {
+      "id": "X03",
+      "title": "不知不觉，DORA陪伴了我一年了",
+      "url": "https://www.xiaohongshu.com/explore/6ab4d80e0000000013018822",
+      "publisher": "小红书／Linggggg。",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial"
+    }
+  ],
+  "archive": "research/dora/2026-10-21/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/dora/2026-10-21/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/dora/2026-10-21/"
+}

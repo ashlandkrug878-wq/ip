@@ -1,0 +1,68 @@
+[
+  {
+    "id": "dora-reject-definition",
+    "name": "拒绝定义系列",
+    "carrier": "PVC盲盒手办",
+    "date": "2022-07-30",
+    "date_basis": "官网图鉴发布元数据",
+    "size": null,
+    "price": null,
+    "quantity": "官方端盒9；早期方案图10个形象，端盒数不自动等于全系列款数",
+    "sources": [
+      "S01",
+      "S02"
+    ],
+    "boundary": "首SKU与首次开售日需同期公告；用户图鉴另标7月13日。"
+  },
+  {
+    "id": "sweetcool",
+    "name": "甜酷警告毛绒挂件",
+    "carrier": "PVC面部与毛绒服饰挂件",
+    "date": "2026-06-27",
+    "date_basis": "官网图鉴元数据",
+    "size": "产品信息16—17cm；规则页插画约15.5cm，范围差异未核",
+    "price": [
+      {
+        "value": 19.5,
+        "currency": "USD",
+        "scope": "美国站商店列表from",
+        "observed": "2026-10-21"
+      },
+      {
+        "value": 21.5,
+        "currency": "USD",
+        "scope": "美国站IP图鉴",
+        "observed": "2026-10-21"
+      }
+    ],
+    "materials": "PVC／聚酯纤维／金属",
+    "quantity": "6常规＋1隐藏；端盒6，不重复；隐藏顶替一常规",
+    "secret_probability": "1:72，来自官方规则图",
+    "function": "挂包／钥匙串；服装可自由穿脱",
+    "sources": [
+      "S03",
+      "S04"
+    ],
+    "boundary": "不是7个一盒；概率和材质不推广到别的系列。"
+  },
+  {
+    "id": "baby-bread",
+    "name": "BABY DORA一口小面包mini",
+    "carrier": "PVC盲盒手办",
+    "date": "2026-07-01",
+    "date_basis": "官网图鉴元数据",
+    "size": null,
+    "price": {
+      "value": 39,
+      "currency": "CNY",
+      "scope": "美国站总图鉴该条显示CN¥，实际地区成交价未核",
+      "observed": "2026-10-21"
+    },
+    "quantity": "6常规＋1小隐藏＋1大隐藏；端盒6",
+    "sources": [
+      "S05",
+      "A01"
+    ],
+    "boundary": "BABY分支不等于DORA全部造型；物流尺寸单位未知，不换算成精确产品尺寸。"
+  }
+]
