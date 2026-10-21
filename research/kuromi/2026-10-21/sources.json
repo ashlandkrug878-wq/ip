@@ -1,0 +1,278 @@
+[
+  {
+    "id": "A01",
+    "title": "Sanrio official Kuromi profile",
+    "url": "https://www.sanrio.co.jp/characters/kuromi/",
+    "publication_date": null,
+    "accessed_at": "2026-10-21",
+    "source_type": "primary",
+    "access_status": "body_read",
+    "claims": [
+      "官方デビュー年2005；生日10月31日；自称美乐蒂的对手，黑头巾与粉红骷髅是特点；喜欢日记、恋爱小说。"
+    ],
+    "boundary": "公司角色设定；生日不是现实创作日期；不能据网站页脚证明原始作者。 本轮已看官网主形象和两张设计画廊图，图像创作日期未核。",
+    "images_visually_inspected": true,
+    "publisher": "Sanrio 三丽鸥",
+    "access": "partial"
+  },
+  {
+    "id": "A02",
+    "title": "Tokyo District Court Kuromi judgment",
+    "url": "https://www.courts.go.jp/assets/hanrei/hanrei-pdf-97104.pdf",
+    "publication_date": "2026-09-18",
+    "accessed_at": "2026-10-21",
+    "source_type": "court_primary",
+    "access_status": "full_pdf_read_and_local_text",
+    "claims": [
+      "令和6年（ワ）第70396号；原告Studio Comet，被告Sanrio，辅助参加Furyu Pictures；原告全部请求驳回。",
+      "法院认定涉案原始插画属Studio Comet单独法人著作；认定财产权由Studio Comet经We’ve转至Sanrio，以及有效著作者人格权不行使合意。",
+      "原画2005-03-02前由Studio Comet员工A制作，Sanrio员工B参与；2005-04-03动画播出。"
+    ],
+    "boundary": "一审判断，仅限涉案插画及请求；人格权不行使不是人格权转让；A/B匿名，不解匿名；上诉与是否确定未核实。",
+    "images_visually_inspected": false,
+    "publisher": "日本裁判所",
+    "access": "partial"
+  },
+  {
+    "id": "A03",
+    "title": "Sanrio statement on first-instance judgment",
+    "url": "https://corporate.sanrio.co.jp/information/20260918/",
+    "publication_date": "2026-09-18",
+    "accessed_at": "2026-10-21",
+    "source_type": "primary",
+    "access_status": "body_read",
+    "claims": [
+      "公司确认收到Studio Comet案一审判决，将审查内容并考虑应对。"
+    ],
+    "boundary": "公司声明未说明上诉或最终生效，不应补写。",
+    "images_visually_inspected": false,
+    "publisher": "Sanrio 三丽鸥",
+    "access": "partial"
+  },
+  {
+    "id": "A04",
+    "title": "ANNA×KUROMI official announcement",
+    "url": "https://corporate.sanrio.co.jp/news/assets/pdf/2011/20220412114329974s.pdf",
+    "publication_date": "2011-08-03",
+    "accessed_at": "2026-10-21",
+    "source_type": "primary",
+    "access_status": "full_pdf_read",
+    "claims": [
+      "Kuromi于2005年在《おねがいマイメロディ》登场，同年启动商品化。",
+      "明确没有特定动物的设定。"
+    ],
+    "boundary": "文件路径2022是上传信息；正文发布2011-08-03；不宜称官方固定物种为兔子。",
+    "images_visually_inspected": false,
+    "publisher": "Sanrio 三丽鸥",
+    "access": "partial"
+  },
+  {
+    "id": "A05",
+    "title": "Global Kuromi Project official portal",
+    "url": "https://kuromi.sanrio.co.jp/",
+    "publication_date": null,
+    "accessed_at": "2026-10-21",
+    "source_type": "primary",
+    "access_status": "body_read",
+    "claims": [
+      "项目历史列2021-10-31世界酷洛米化计划及Greedy Greedy MV；2023-02-17公布KUROMI’S PRETTY JOURNEY；2025-01-21周年网站。"
+    ],
+    "boundary": "项目行动日期不等于角色诞生；当前主页数字没有逐项独立审计。",
+    "images_visually_inspected": false,
+    "publisher": "Sanrio 三丽鸥",
+    "access": "partial"
+  },
+  {
+    "id": "A06",
+    "title": "20th anniversary Netflix and product announcement",
+    "url": "https://corporate.sanrio.co.jp/news/assets/pdf/2025/20250108113321136s.pdf",
+    "publication_date": "2025-01-09",
+    "accessed_at": "2026-10-21",
+    "source_type": "primary",
+    "access_status": "full_pdf_read",
+    "claims": [
+      "2025为Kuromi20周年；宣布7月Netflix动画。",
+      "VIS黑色酷洛米心形切口包7909日元、挂饰2189日元、脸型小包4389日元，均日本含税；2025-01-10预售、01-24店铺发售。",
+      "酷洛米莉卡娃娃4950日元、房间套装5940日元，日本含税建议零售价，公告计划2025年3月发售。"
+    ],
+    "boundary": "计划公告证明宣布而非实际交付；不能证明销量。",
+    "images_visually_inspected": false,
+    "publisher": "Sanrio 三丽鸥",
+    "access": "partial"
+  },
+  {
+    "id": "A07",
+    "title": "2023 character ranking official results",
+    "url": "https://www.sanrio.co.jp/special/characterranking/2023/result/",
+    "publication_date": null,
+    "accessed_at": "2026-10-21",
+    "source_type": "primary",
+    "access_status": "body_read",
+    "claims": [
+      "Kuromi第3名，3,566,050票。"
+    ],
+    "boundary": "票数不是独立投票人数、购买人数或销售额。",
+    "images_visually_inspected": false,
+    "publisher": "Sanrio 三丽鸥",
+    "access": "partial"
+  },
+  {
+    "id": "A08",
+    "title": "2024 character ranking official results",
+    "url": "https://www.sanrio.co.jp/special/characterranking/2024/result/",
+    "publication_date": null,
+    "accessed_at": "2026-10-21",
+    "source_type": "primary",
+    "access_status": "official_search_index_read_open_iframe_only",
+    "claims": [
+      "Kuromi第3名，4,125,678票。"
+    ],
+    "boundary": "正文渲染只得iframe；官方2025预告PDF索引亦列相同表格。不是销量。",
+    "images_visually_inspected": false,
+    "publisher": "Sanrio 三丽鸥",
+    "access": "snippet_only"
+  },
+  {
+    "id": "A09",
+    "title": "2025 character ranking official results",
+    "url": "https://www.sanrio.co.jp/special/characterranking/2025/result/",
+    "publication_date": null,
+    "accessed_at": "2026-10-21",
+    "source_type": "primary",
+    "access_status": "official_search_index_read_open_iframe_only",
+    "claims": [
+      "Kuromi第4名，3,652,492票。"
+    ],
+    "boundary": "官方2026预告PDF索引亦列相同表格；不可推定2025销量下降。",
+    "images_visually_inspected": false,
+    "publisher": "Sanrio 三丽鸥",
+    "access": "snippet_only"
+  },
+  {
+    "id": "A10",
+    "title": "2026 character ranking official press release",
+    "url": "https://corporate.sanrio.co.jp/news/20260628_01.html",
+    "publication_date": "2026-06-28",
+    "accessed_at": "2026-10-21",
+    "source_type": "primary",
+    "access_status": "body_read_pdf_text_read",
+    "claims": [
+      "Kuromi第4名；全部角色投票总数70,647,379。"
+    ],
+    "boundary": "全部角色票数绝不可归酷洛米；PDF表格作为图像未目检，单角色票数另见A11。",
+    "images_visually_inspected": false,
+    "publisher": "Sanrio 三丽鸥",
+    "access": "partial"
+  },
+  {
+    "id": "A11",
+    "title": "2026 character ranking official results",
+    "url": "https://www.sanrio.co.jp/special/characterranking/2026/result/",
+    "publication_date": null,
+    "accessed_at": "2026-10-21",
+    "source_type": "primary",
+    "access_status": "official_search_index_read_open_iframe_only",
+    "claims": [
+      "Kuromi第4名，3,792,049票。"
+    ],
+    "boundary": "本项数字来自官方页搜索索引；正文提取仅见iframe，访问范围受限。",
+    "images_visually_inspected": false,
+    "publisher": "Sanrio 三丽鸥",
+    "access": "snippet_only"
+  },
+  {
+    "id": "A12",
+    "title": "Sanrio FY3/2026 results presentation, company-authored TDnet disclosure mirrored by Yahoo",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260623/20260623576856.pdf",
+    "publication_date": "2026-06-23",
+    "accessed_at": "2026-10-21",
+    "source_type": "primary",
+    "access_status": "pdf_relevant_sections_read",
+    "claims": [
+      "公司FY3/2026合并收入194088百万日元；日本2025-04至2026-03、海外2025-01至12，不能直接当2025自然年。",
+      "北美战略是培育Kuromi成为Hello Kitty之后第二号角色，不是已实现全球收入第二名。",
+      "公司记载Netflix《My Melody & Kuromi》于2025-07-24上线；2025-10-22音乐EP。"
+    ],
+    "boundary": "未在所阅内容找到可独立填入Kuromi的营收、全球零售额或授权费；公司收入、授权业务收入、联名终端零售额口径不同。公司作者原材料，检索可读镜像非公司域名。",
+    "images_visually_inspected": false,
+    "publisher": "Sanrio 三丽鸥",
+    "access": "partial"
+  },
+  {
+    "id": "A13",
+    "title": "Sanrio Collabs being ugly - original Reddit discussion",
+    "url": "https://www.reddit.com/r/sanrio/comments/1qoodef/sanrio_collabs_being_ugly/",
+    "publication_date": "2026-01-27",
+    "accessed_at": "2026-10-21",
+    "source_type": "user_primary",
+    "access_status": "body_and_comments_read",
+    "claims": [
+      "BeautyBat认为酷洛米造型包不错但相较容量价格过高；pinkrosebunny不喜欢酷洛米款设计。",
+      "另有评论认为Kate Spade系列可爱；Shanzakwenttotarget表示购买Puma联名鞋且喜欢；同帖有用户认为鞋实物比线上显得厚重。"
+    ],
+    "boundary": "普通用户个体观点，不能推广为市场比例、退坑率或联名失败；此帖无可靠交易凭证。日期来自检索时间，正文相对时间抓取有变化。",
+    "images_visually_inspected": false,
+    "publisher": "Reddit r/sanrio 用户原帖",
+    "access": "partial"
+  },
+  {
+    "id": "S01",
+    "title": "KUROMI's Special Key 官方设计系列",
+    "url": "https://www.sanrio.co.jp/news/goods/ku-special-key-202510/",
+    "publisher": "Sanrio 日本",
+    "publication_date": "2025-10-01",
+    "accessed_at": "2026-10-21",
+    "source_type": "primary",
+    "access_status": "相关正文与所列图片已读",
+    "access": "partial",
+    "boundary": "2025-10-09上市；价格为公告中的日本含税日元历史标价。已看毛绒与两种八款收藏品配图；未取得材料全表、销量或端盒概率。"
+  },
+  {
+    "id": "S02",
+    "title": "Kuromi 10-inch Plush · 20th Anniversary Series",
+    "url": "https://www.sanrio.com/collections/sanrio-originals/products/kuromi-10-plush-20th-anniversary-series",
+    "publisher": "Sanrio US",
+    "publication_date": null,
+    "accessed_at": "2026-10-21",
+    "source_type": "primary",
+    "access_status": "相关正文与所列图片已读",
+    "access": "partial",
+    "boundary": "商品871460；2026-10-21页面列55美元、约10英寸、刺绣及贴布细节。属于美国周年款，精确发售日未知；不是日本Special Key同一SKU。"
+  },
+  {
+    "id": "X01",
+    "title": "每天认识一个IP角色——酷洛米Kuromi",
+    "url": "https://www.xiaohongshu.com/explore/69afe546000000002303a0cf",
+    "publisher": "小红书／每天认知一个品牌",
+    "publication_date": null,
+    "accessed_at": "2026-10-21",
+    "source_type": "social_secondary",
+    "access_status": "相关正文与所列图片已读",
+    "access": "partial",
+    "boundary": "正文、可见评论和封面1/6已读；页面显示03-10，年份未单独确认。笔记的生日年份、固定年龄、物种及创作者姓名不直接采信；配图原始授权与身份未核，不作为官方母版。"
+  },
+  {
+    "id": "X02",
+    "title": "萌之酷之！酷洛米大人今日联动合集来啦！！！",
+    "url": "https://www.xiaohongshu.com/explore/6aba8f1e0000000015017638",
+    "publisher": "小红书／小埋又发现联名啦",
+    "publication_date": null,
+    "accessed_at": "2026-10-21",
+    "source_type": "social_secondary",
+    "access_status": "相关正文与所列图片已读",
+    "access": "partial",
+    "boundary": "正文、可见评论及5/5合集图已读；显示09-29，年份未单独确认。25条条目是账号整理，部分非酷洛米独立项目；未逐一核实授权与日期，不当全量官方清单。"
+  },
+  {
+    "id": "X03",
+    "title": "拜见库洛米大王！！！！！",
+    "url": "https://www.xiaohongshu.com/explore/69324be100000000190273e9",
+    "publisher": "小红书／一啖",
+    "publication_date": "2025-12-05",
+    "accessed_at": "2026-10-21",
+    "source_type": "social_secondary",
+    "access_status": "相关正文与所列图片已读",
+    "access": "partial",
+    "boundary": "正文、可见评论及图1/12已读。首图为用户店铺陈列实拍；地点为作者自报广州北京路，未独立核店铺身份与全店授权。评论为个案，不代表成交、质量率或总体画像。"
+  }
+]

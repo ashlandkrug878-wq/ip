@@ -1,0 +1,105 @@
+{
+  "scope": "V01当前官网站姿；屏幕取样非官方色卡",
+  "method": "Pillow打开560×560 RGBA PNG，读取四个不透明像素；未做色彩管理转换、均值或区域分割",
+  "palette": [
+    {
+      "palette_id": "kuromi-v01",
+      "color_id": "c1",
+      "name": "头巾／主色",
+      "hex_preview": "#4B4948",
+      "value_basis": "image_sample",
+      "surface_or_region": "头巾／主色",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "A01"
+      ],
+      "sample_method": "single opaque RGBA pixel",
+      "sample_coordinates": [
+        280,
+        160
+      ],
+      "area_description": "主块/小块/线条按目视分级",
+      "area_basis": "visual_estimate",
+      "material_context": "官方二维图",
+      "variation_boundary": "仅此图，不能直接作为织物或塑胶色标准",
+      "uncertainty": "文件色值不等于官方标准或实物色"
+    },
+    {
+      "palette_id": "kuromi-v01",
+      "color_id": "c2",
+      "name": "骷髅／识别点",
+      "hex_preview": "#F4B4D0",
+      "value_basis": "image_sample",
+      "surface_or_region": "骷髅／识别点",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "A01"
+      ],
+      "sample_method": "single opaque RGBA pixel",
+      "sample_coordinates": [
+        280,
+        200
+      ],
+      "area_description": "主块/小块/线条按目视分级",
+      "area_basis": "visual_estimate",
+      "material_context": "官方二维图",
+      "variation_boundary": "仅此图，不能直接作为织物或塑胶色标准",
+      "uncertainty": "文件色值不等于官方标准或实物色"
+    },
+    {
+      "palette_id": "kuromi-v01",
+      "color_id": "c3",
+      "name": "脸身／中性色",
+      "hex_preview": "#FFFFFF",
+      "value_basis": "image_sample",
+      "surface_or_region": "脸身／中性色",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "A01"
+      ],
+      "sample_method": "single opaque RGBA pixel",
+      "sample_coordinates": [
+        280,
+        300
+      ],
+      "area_description": "主块/小块/线条按目视分级",
+      "area_basis": "visual_estimate",
+      "material_context": "官方二维图",
+      "variation_boundary": "仅此图，不能直接作为织物或塑胶色标准",
+      "uncertainty": "文件色值不等于官方标准或实物色"
+    },
+    {
+      "palette_id": "kuromi-v01",
+      "color_id": "c4",
+      "name": "轮廓／五官",
+      "hex_preview": "#231815",
+      "value_basis": "image_sample",
+      "surface_or_region": "轮廓／五官",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "A01"
+      ],
+      "sample_method": "single opaque RGBA pixel",
+      "sample_coordinates": [
+        280,
+        130
+      ],
+      "area_description": "主块/小块/线条按目视分级",
+      "area_basis": "visual_estimate",
+      "material_context": "官方二维图",
+      "variation_boundary": "仅此图，不能直接作为织物或塑胶色标准",
+      "uncertainty": "文件色值不等于官方标准或实物色"
+    }
+  ],
+  "area_percent": null,
+  "cross_sample": "V02单色、V03环境紫、V05异色骷髅和V06紫色头巾表明颜色会变化；识别需看组合。",
+  "production": "未取得PANTONE或供应商色号；灰度/缩小/杂背景与实物色差均未实测。"
+}

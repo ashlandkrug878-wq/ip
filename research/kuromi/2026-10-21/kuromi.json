@@ -1,0 +1,497 @@
+{
+  "id": "kuromi",
+  "name": "KUROMI 酷洛米",
+  "aliases": [
+    "Kuromi",
+    "クロミ",
+    "可罗米",
+    "库洛米"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-21",
+  "updated": "2026-10-21",
+  "summary": "以强势外表与少女心的反差建立性格，用头巾、骷髅和脸部组合维持识别，再扩展动画、音乐、服装与日用授权。核验6图、3篇小红书和4轮平面实测；附2026一审权属进展。",
+  "owner": {
+    "creator": "涉案原始插画：Studio Comet法人著作；具体自然人姓名本轮不作认定",
+    "operator": "Sanrio 三丽鸥",
+    "relation": "2026一审认定涉案插画财产权经We’ve转至Sanrio、人格权不行使合意有效；上诉/终局未知",
+    "since": null,
+    "sources": [
+      "A02",
+      "A03"
+    ]
+  },
+  "origin": {
+    "path": [
+      "动画影视"
+    ],
+    "year": "2005",
+    "story": "为《おねがいマイメロディ》制作过程中的新角色；动画播出与商品化同在2005年，虚构生日另为10月31日。",
+    "sources": [
+      "A01",
+      "A02",
+      "A04"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2005-03-02之前",
+      "event": "涉案原始全身插画已完成；依据2026年一审判决回溯，不是全部早期草图的创作日。",
+      "type": "fact",
+      "sources": [
+        "A02"
+      ]
+    },
+    {
+      "date": "2005-04-03",
+      "event": "《おねがいマイメロディ》播出；官网记出道年2005。",
+      "type": "fact",
+      "sources": [
+        "A01",
+        "A02"
+      ]
+    },
+    {
+      "date": "2005年",
+      "event": "2011年品牌公告回溯称同年商品化；首SKU与首价未知。",
+      "type": "self_report",
+      "sources": [
+        "A04"
+      ]
+    },
+    {
+      "date": "2011-08-03",
+      "event": "ANNA×KUROMI童装合作公告，说明酷感服装联名早于近年翻红。",
+      "type": "fact",
+      "sources": [
+        "A04"
+      ]
+    },
+    {
+      "date": "2021-10-31",
+      "event": "世界酷洛米化计划及Greedy Greedy MV启动。",
+      "type": "self_report",
+      "sources": [
+        "A05"
+      ]
+    },
+    {
+      "date": "2023-02-17",
+      "event": "官方独立动画项目KUROMI’S PRETTY JOURNEY公布。",
+      "type": "self_report",
+      "sources": [
+        "A05"
+      ]
+    },
+    {
+      "date": "2025年",
+      "event": "20周年，与美乐蒂50周年联动；Netflix新作7月24日上线。",
+      "type": "self_report",
+      "sources": [
+        "A06",
+        "A12"
+      ]
+    },
+    {
+      "date": "2025-10-09",
+      "event": "日本Special Key设计系列上市，包含毛绒、包袋、日用与随机收藏品。",
+      "type": "fact",
+      "sources": [
+        "S01"
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "event": "角色大赏综合第4名；票数不等于人数或销量。",
+      "type": "fact",
+      "sources": [
+        "A10",
+        "A11"
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "event": "创作与权利相关诉讼一审宣判，原告全部请求被驳回；上诉及终局状态未核。",
+      "type": "fact",
+      "sources": [
+        "A02",
+        "A03"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "可爱，也可以有自己的脾气。",
+    "sentence_type": "反差",
+    "basis": "inferred",
+    "sources": [
+      "A01",
+      "A05"
+    ]
+  },
+  "core": {
+    "personality": "强势、少女心、爱幻想",
+    "emotion": "反差",
+    "action": "写日记、看恋爱小说，并号召成为想成为的自己",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "穿搭、包上携带、房间与日常用品",
+    "behavior": "按造型、颜色、实用性与价格选择；有人看店铺图询问地址",
+    "state": "希望柔软和主见可以同时存在",
+    "conflict": "被要求乖巧甜美，与表达个人偏好之间的张力",
+    "unsaid": "我喜欢可爱，也想按自己的方式来",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "没有代表性年龄、性别或地区购买者调查；不把Z世代营销标签当统计",
+    "where": "官方内容、零售、授权商品、活动与用户穿搭陈列分享",
+    "buy": "用户自报购买联名鞋有局部证据，IP独立收入与复购未知",
+    "signs": "KUROMIES为官方项目称呼；主题服装、头巾和骷髅是常见识别入口",
+    "share": "小红书陈列图与联动合集吸引询问门店、包袋和奖牌，仍是兴趣行为",
+    "breakout": "2021项目、周年动画音乐与联名可核，任何单一动作贡献未量化"
+  },
+  "pendulum": {
+    "position": "暗黑酷",
+    "against": "研究归纳：在可爱角色中提供带主见与尖锐符号的入口；白脸、粉色与少女心仍保留亲近感。",
+    "note": "不是全体作品纯暗黑，也不是已证明行业审美周期"
+  },
+  "form": {
+    "archetype": "类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "头型",
+      "五官"
+    ],
+    "mark": "两片球尖头巾突出物、额前骷髅与白脸窗/上挑眼型的组合",
+    "face": "基本图为无高光实心上挑豆眼、粉鼻与小嘴；表情和眼部装饰可变",
+    "emotion": "反差",
+    "odd": "圆润可爱体块与尖耳、骷髅、箭头尾的张力",
+    "density": "中等",
+    "naming": "其他",
+    "group": "单角色",
+    "note": "2011官方公告称无特定动物设定；有配角群，不把每个配角合并成酷洛米"
+  },
+  "collide_combo": "不整组照搬球尖双耳头巾、额前粉骷髅、白脸窗、上挑豆眼、四球尖领与箭头尾；换色换衣不足以原创。",
+  "color": {
+    "mode": "暗黑加亮色",
+    "main": "基本图深灰头巾、白脸白身、粉色小块；跨款可紫色、金色或单色",
+    "signature": "黑白明暗关系与粉色骷髅是常见身份线索，但V05已有异色骷髅",
+    "notes": "V01四个HEX来自实际单点RGBA取样，不是官方色号；紫色等主题配色另论"
+  },
+  "materials": "日本Special Key公告写亮片/闪光树脂、闪光绒面等各SKU信息；美国10英寸毛绒列刺绣与贴布。未取得全部纤维组成或耐久检测，不把全部产品统一写PVC/聚酯。",
+  "carrier": {
+    "primary": "授权图案",
+    "secondary": "动画",
+    "note": "以动画起盘，现并行图案授权、自营商品、音乐、活动及人偶"
+  },
+  "product": {
+    "first_category": null,
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "日本Special Key 2025历史含税公告：贴纸550、随机挂件990、发夹1298、托特包3696、毛绒5500日元；2026-10-21美国10英寸周年毛绒55美元，地区与日期分开。",
+    "sources": [
+      "A04",
+      "S01",
+      "S02"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "三丽鸥角色大赏酷洛米票数",
+      "value": 3566050,
+      "unit": "票",
+      "period": "2023",
+      "rank": 3,
+      "type": "fact",
+      "sources": [
+        "A07"
+      ],
+      "boundary": "投票口径，不是独立人数或付费；2024—2026票数本轮来自官方结果页索引，正文提取有访问限制。"
+    },
+    {
+      "metric": "三丽鸥角色大赏酷洛米票数",
+      "value": 4125678,
+      "unit": "票",
+      "period": "2024",
+      "rank": 3,
+      "type": "fact",
+      "sources": [
+        "A08"
+      ],
+      "boundary": "投票口径，不是独立人数或付费；2024—2026票数本轮来自官方结果页索引，正文提取有访问限制。"
+    },
+    {
+      "metric": "三丽鸥角色大赏酷洛米票数",
+      "value": 3652492,
+      "unit": "票",
+      "period": "2025",
+      "rank": 4,
+      "type": "fact",
+      "sources": [
+        "A09"
+      ],
+      "boundary": "投票口径，不是独立人数或付费；2024—2026票数本轮来自官方结果页索引，正文提取有访问限制。"
+    },
+    {
+      "metric": "三丽鸥角色大赏酷洛米票数",
+      "value": 3792049,
+      "unit": "票",
+      "period": "2026",
+      "rank": 4,
+      "type": "fact",
+      "sources": [
+        "A11"
+      ],
+      "boundary": "投票口径，不是独立人数或付费；2024—2026票数本轮来自官方结果页索引，正文提取有访问限制。"
+    },
+    {
+      "metric": "酷洛米独立年度收入",
+      "value": null,
+      "unit": null,
+      "period": "截至2026-10-21所阅资料",
+      "type": "fact",
+      "sources": [
+        "A12"
+      ],
+      "boundary": "未核得可独立使用的年度营收、授权费或全球终端零售额；不按公司收入或大赏票数分摊。"
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "外表强势与少女心形成可持续的性格张力。",
+      "type": "inference",
+      "evidence": "官网自称对手、爱日记与恋爱小说；V01上挑眼型对圆白脸，V03眨眼与梳妆道具。",
+      "boundary": "角色可爱或强势并不自动证明消费者购买动机；不能把所有用户归为同一心理。",
+      "sources": [
+        "A01"
+      ]
+    },
+    {
+      "claim": "辨识组合相对稳定，风格与载体可以扩展。",
+      "type": "inference",
+      "evidence": "V01基本图、V03装饰插画、V04黑裙毛绒、V05紫色及金色小物、V06垂耳紫色周年毛绒。",
+      "boundary": "不能把黑头巾、粉骷髅、竖耳、纯黑眼全部视为任何SKU都不变；特例需保留。",
+      "sources": [
+        "A01",
+        "S01",
+        "S02"
+      ]
+    },
+    {
+      "claim": "角色主张、内容与跨品类日用共同增加接触机会。",
+      "type": "inference",
+      "evidence": "世界酷洛米化计划、动画与音乐、周年活动；包袋、夹子、镜子、毛绒、挂件等。",
+      "boundary": "同时存在多种活动和三丽鸥渠道资源，无法把增长单因归给一首歌、短视频或一句话。",
+      "sources": [
+        "A05",
+        "A06",
+        "A12",
+        "S01"
+      ]
+    },
+    {
+      "claim": "想拥有角色，也要通过价格与实用性的检验。",
+      "type": "inference",
+      "evidence": "造型包的价格容量争议、联名鞋实穿反馈；小红书评论会问门店与购买渠道。",
+      "boundary": "评论不是交易凭证；少数反例不能证明整个联名或角色失败。",
+      "sources": [
+        "A13",
+        "X02",
+        "X03"
+      ]
+    }
+  ],
+  "counterexamples": "喜欢角色仍会嫌造型包容量小、价格高或不喜欢具体设计；也有认可同联名及实际购买的回复。小红书店铺笔记亦有喜欢角色但拒绝特定渠道的评论；不计算退坑率。",
+  "theory": {
+    "shell": "简洁的大头白脸与尖锐头巾/骷髅有强对比，组合比任一公共元素更关键。",
+    "core": "外表强硬而有少女心、在意他人又想保留自己；世界酷洛米化计划将其延伸为自我表达。",
+    "shadow": "黑粉、骷髅、尖耳、大头都属常见视觉语言；具体几何组合、关系角色和长期内容形成身份，不能用元素相同直接判抄袭。",
+    "two_layers": {
+      "surface": "路人可先被黑粉配色、表情与某种商品实用性吸引，属于研究假设。",
+      "deep": "动画关系、日记与少女心、歌曲、周年和历代设计可成为长期参与入口。"
+    },
+    "validation": "大赏票数支持投票参与；评论支持局部偏好与购买自述；没有足够的IP收入与复购数据，不能将票数当付费规模。"
+  },
+  "for_skills": {
+    "lab": "借鉴让柔软与主见并存，从新用户的具体处境写出动作和态度，不照搬角色关系。",
+    "form": "可以研究尖与圆、强硬五官与柔和体块的张力；新角色重新选择原型、轮廓和五官，避开专属组合。",
+    "studio": "区分收藏、携带、穿搭和日用任务，让外形在具体功能中成立；优先测试造型包容量、价格和材料触感。当前只验证指定站姿平面。"
+  },
+  "gaps": [
+    "首个商品SKU、价格与完整早期改版链未知；未取得2005年完整设定手册与标准侧背面。",
+    "自然人设计者不由法院匿名A/B倒推出姓名；一审判决是否上诉或已生效未核。",
+    "独立年度营收、授权费、终端零售额、单SKU销量、成本、利润、复购率与买家结构未知。",
+    "2024—2026大赏票数来自官方结果页索引，正文提取仅见iframe；2026第4名另有官方公告正文支持。",
+    "小红书读3个独立账号：介绍只看封面1/6，联动合集看5/5，店铺实拍只看1/12；没有将未看页算已读。",
+    "两轮纯文字未通过；参考辅助V2接近当前官网指定站姿，仍有线宽、嘴形与局部渐变差异，不等于全IP全姿态母版。",
+    "英文、原创黑白找形、原创平面与实物概念未生成未验证；本轮不做下游延展。"
+  ],
+  "sources": [
+    {
+      "id": "A01",
+      "title": "Sanrio official Kuromi profile",
+      "url": "https://www.sanrio.co.jp/characters/kuromi/",
+      "publisher": "Sanrio 三丽鸥",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial"
+    },
+    {
+      "id": "A02",
+      "title": "Tokyo District Court Kuromi judgment",
+      "url": "https://www.courts.go.jp/assets/hanrei/hanrei-pdf-97104.pdf",
+      "publisher": "日本裁判所",
+      "published": "2026-09-18",
+      "observed": "2026-10-21",
+      "access": "partial"
+    },
+    {
+      "id": "A03",
+      "title": "Sanrio statement on first-instance judgment",
+      "url": "https://corporate.sanrio.co.jp/information/20260918/",
+      "publisher": "Sanrio 三丽鸥",
+      "published": "2026-09-18",
+      "observed": "2026-10-21",
+      "access": "partial"
+    },
+    {
+      "id": "A04",
+      "title": "ANNA×KUROMI official announcement",
+      "url": "https://corporate.sanrio.co.jp/news/assets/pdf/2011/20220412114329974s.pdf",
+      "publisher": "Sanrio 三丽鸥",
+      "published": "2011-08-03",
+      "observed": "2026-10-21",
+      "access": "partial"
+    },
+    {
+      "id": "A05",
+      "title": "Global Kuromi Project official portal",
+      "url": "https://kuromi.sanrio.co.jp/",
+      "publisher": "Sanrio 三丽鸥",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial"
+    },
+    {
+      "id": "A06",
+      "title": "20th anniversary Netflix and product announcement",
+      "url": "https://corporate.sanrio.co.jp/news/assets/pdf/2025/20250108113321136s.pdf",
+      "publisher": "Sanrio 三丽鸥",
+      "published": "2025-01-09",
+      "observed": "2026-10-21",
+      "access": "partial"
+    },
+    {
+      "id": "A07",
+      "title": "2023 character ranking official results",
+      "url": "https://www.sanrio.co.jp/special/characterranking/2023/result/",
+      "publisher": "Sanrio 三丽鸥",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial"
+    },
+    {
+      "id": "A08",
+      "title": "2024 character ranking official results",
+      "url": "https://www.sanrio.co.jp/special/characterranking/2024/result/",
+      "publisher": "Sanrio 三丽鸥",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "snippet_only"
+    },
+    {
+      "id": "A09",
+      "title": "2025 character ranking official results",
+      "url": "https://www.sanrio.co.jp/special/characterranking/2025/result/",
+      "publisher": "Sanrio 三丽鸥",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "snippet_only"
+    },
+    {
+      "id": "A10",
+      "title": "2026 character ranking official press release",
+      "url": "https://corporate.sanrio.co.jp/news/20260628_01.html",
+      "publisher": "Sanrio 三丽鸥",
+      "published": "2026-06-28",
+      "observed": "2026-10-21",
+      "access": "partial"
+    },
+    {
+      "id": "A11",
+      "title": "2026 character ranking official results",
+      "url": "https://www.sanrio.co.jp/special/characterranking/2026/result/",
+      "publisher": "Sanrio 三丽鸥",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "snippet_only"
+    },
+    {
+      "id": "A12",
+      "title": "Sanrio FY3/2026 results presentation, company-authored TDnet disclosure mirrored by Yahoo",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260623/20260623576856.pdf",
+      "publisher": "Sanrio 三丽鸥",
+      "published": "2026-06-23",
+      "observed": "2026-10-21",
+      "access": "partial"
+    },
+    {
+      "id": "A13",
+      "title": "Sanrio Collabs being ugly - original Reddit discussion",
+      "url": "https://www.reddit.com/r/sanrio/comments/1qoodef/sanrio_collabs_being_ugly/",
+      "publisher": "Reddit r/sanrio 用户原帖",
+      "published": "2026-01-27",
+      "observed": "2026-10-21",
+      "access": "partial"
+    },
+    {
+      "id": "S01",
+      "title": "KUROMI's Special Key 官方设计系列",
+      "url": "https://www.sanrio.co.jp/news/goods/ku-special-key-202510/",
+      "publisher": "Sanrio 日本",
+      "published": "2025-10-01",
+      "observed": "2026-10-21",
+      "access": "partial"
+    },
+    {
+      "id": "S02",
+      "title": "Kuromi 10-inch Plush · 20th Anniversary Series",
+      "url": "https://www.sanrio.com/collections/sanrio-originals/products/kuromi-10-plush-20th-anniversary-series",
+      "publisher": "Sanrio US",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial"
+    },
+    {
+      "id": "X01",
+      "title": "每天认识一个IP角色——酷洛米Kuromi",
+      "url": "https://www.xiaohongshu.com/explore/69afe546000000002303a0cf",
+      "publisher": "小红书／每天认知一个品牌",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial"
+    },
+    {
+      "id": "X02",
+      "title": "萌之酷之！酷洛米大人今日联动合集来啦！！！",
+      "url": "https://www.xiaohongshu.com/explore/6aba8f1e0000000015017638",
+      "publisher": "小红书／小埋又发现联名啦",
+      "published": null,
+      "observed": "2026-10-21",
+      "access": "partial"
+    },
+    {
+      "id": "X03",
+      "title": "拜见库洛米大王！！！！！",
+      "url": "https://www.xiaohongshu.com/explore/69324be100000000190273e9",
+      "publisher": "小红书／一啖",
+      "published": "2025-12-05",
+      "observed": "2026-10-21",
+      "access": "partial"
+    }
+  ],
+  "archive": "research/kuromi/2026-10-21/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/kuromi/2026-10-21/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/kuromi/2026-10-21/"
+}
