@@ -1,0 +1,226 @@
+[
+  {
+    "image_id": "V01",
+    "title": "当前官方角色主图",
+    "source_id": "M02",
+    "source_page_url": "https://www.sanrio.co.jp/characters/mymelody/",
+    "original_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/list-mymelody.png",
+    "research_cache_path": "my-melody-research/refs/profile-0.png",
+    "image_type": "官方角色插画",
+    "observed_features": "粉帽白兔，暖棕描边、低位白色椭圆脸、实心竖椭圆眼、浅黄小鼻与短微笑。左侧耳横伸，另一耳竖起向内折；蓝色小结在左耳根，颈前粉带，小身坐姿、爪近脸、右侧圆尾。",
+    "visual_language": "极简线面，耳姿不对称；本轮唯一平面实测目标。不是官方三视图。",
+    "image_created_at": null,
+    "observed_at": "2026-10-26",
+    "actual_size": [
+      560,
+      560
+    ],
+    "actual_format": "PNG",
+    "sha256": "6c53bd64e8f601c0709c69daee863f282eaa763affa2f4f96ce77b5aa2b0b41c",
+    "official_source": true,
+    "display_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/list-mymelody.png",
+    "save_status": "reference_only",
+    "rights": "角色及原图归原权利人；公开研究仅引用原站URL，不打包原图，不授予商业复用许可。",
+    "interpretation": {
+      "type": "inference",
+      "claim": "极简线面，耳姿不对称；本轮唯一平面实测目标。不是官方三视图。",
+      "boundary": "研究者观察，未做辨识率或促购实验。"
+    }
+  },
+  {
+    "image_id": "V02",
+    "title": "红帽／粉帽并置",
+    "source_id": "M02",
+    "source_page_url": "https://www.sanrio.co.jp/characters/mymelody/",
+    "original_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-mymelody9-scaled.png",
+    "research_cache_path": "my-melody-research/refs/profile-4.png",
+    "image_type": "官方角色插画",
+    "observed_features": "同页画面左侧红帽、草莓与格纹裙，右侧粉帽、花朵和褶边裙；均为白脸，椭圆眼、小鼻嘴。双耳下垂，帽色、服装和纹样随主题变化。",
+    "visual_language": "证明粉色不是全历史唯一帽色，蓝结也不是全IP强制物。图像创作日期未署明，不按URL路径认作1975或1997原稿。",
+    "image_created_at": null,
+    "observed_at": "2026-10-26",
+    "actual_size": [
+      2560,
+      1280
+    ],
+    "actual_format": "PNG",
+    "sha256": "b927bf296af6baf25fa491799fa074c2445fbcbedf6e55b67aae097422ce8d2b",
+    "official_source": true,
+    "display_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-mymelody9-scaled.png",
+    "save_status": "reference_only",
+    "rights": "角色及原图归原权利人；公开研究仅引用原站URL，不打包原图，不授予商业复用许可。",
+    "interpretation": {
+      "type": "inference",
+      "claim": "证明粉色不是全历史唯一帽色，蓝结也不是全IP强制物。图像创作日期未署明，不按URL路径认作1975或1997原稿。",
+      "boundary": "研究者观察，未做辨识率或促购实验。"
+    }
+  },
+  {
+    "image_id": "V03",
+    "title": "花冠与洋装",
+    "source_id": "M02",
+    "source_page_url": "https://www.sanrio.co.jp/characters/mymelody/",
+    "original_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-mymelody7-1.png",
+    "research_cache_path": "my-melody-research/refs/profile-1.png",
+    "image_type": "官方角色插画",
+    "observed_features": "粉色双垂耳上有花冠、珠链与褶边头饰，叠层裙、花束、蝴蝶结；淡灰棕线、渐变眼、淡腮红，背景帷幔与结纹。",
+    "visual_language": "细节从极简升至繁复；妆感与渐变是本图变化，不把主图纯色规则推广全IP。",
+    "image_created_at": null,
+    "observed_at": "2026-10-26",
+    "actual_size": [
+      1266,
+      1350
+    ],
+    "actual_format": "PNG",
+    "sha256": "b797514770383dbc502f1897c9be37a8d138754105d69d96284ed891c1eddb76",
+    "official_source": true,
+    "display_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-mymelody7-1.png",
+    "save_status": "reference_only",
+    "rights": "角色及原图归原权利人；公开研究仅引用原站URL，不打包原图，不授予商业复用许可。",
+    "interpretation": {
+      "type": "inference",
+      "claim": "细节从极简升至繁复；妆感与渐变是本图变化，不把主图纯色规则推广全IP。",
+      "boundary": "研究者观察，未做辨识率或促购实验。"
+    }
+  },
+  {
+    "image_id": "V04",
+    "title": "黑色蝴蝶结洋装",
+    "source_id": "M02",
+    "source_page_url": "https://www.sanrio.co.jp/characters/mymelody/",
+    "original_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-mymelody3.png",
+    "research_cache_path": "my-melody-research/refs/profile-7.png",
+    "image_type": "官方角色插画",
+    "observed_features": "粉帽配大黑结、耳部黑缎带交叉、黑靴与心形饰，眼睛带高光和睫毛、嘴为小圆点，背景黑蕾丝。",
+    "visual_language": "美乐蒂可使用黑色；粉帽白脸并未变成酷洛米的黑尖帽与骷髅。深色款不是新角色证据。",
+    "image_created_at": null,
+    "observed_at": "2026-10-26",
+    "actual_size": [
+      956,
+      1350
+    ],
+    "actual_format": "PNG",
+    "sha256": "163609f20c4ff94b90fb8a9f35a3bbaff79334b1fac86e75762d43faf692e3f3",
+    "official_source": true,
+    "display_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-mymelody3.png",
+    "save_status": "reference_only",
+    "rights": "角色及原图归原权利人；公开研究仅引用原站URL，不打包原图，不授予商业复用许可。",
+    "interpretation": {
+      "type": "inference",
+      "claim": "美乐蒂可使用黑色；粉帽白脸并未变成酷洛米的黑尖帽与骷髅。深色款不是新角色证据。",
+      "boundary": "研究者观察，未做辨识率或促购实验。"
+    }
+  },
+  {
+    "image_id": "V05",
+    "title": "50周年蝴蝶结视觉",
+    "source_id": "M02",
+    "source_page_url": "https://www.sanrio.co.jp/characters/mymelody/",
+    "original_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-mymelody6-1.png",
+    "research_cache_path": "my-melody-research/refs/profile-2.png",
+    "image_type": "官方角色插画",
+    "observed_features": "粉帽垂耳配大粉结和长带、身上多枚结，棕眼、黄鼻与小笑，周围排不同蝴蝶结；标注50th Anniversary。",
+    "visual_language": "周年主题集中重复结元素；素材本身能证明50周年主题，不能证明具体商品销量。",
+    "image_created_at": null,
+    "observed_at": "2026-10-26",
+    "actual_size": [
+      1350,
+      1350
+    ],
+    "actual_format": "PNG",
+    "sha256": "d71aaa437c4d7a3e3622c665a44fa50b214de01b8229767621ef00e25cea56bf",
+    "official_source": true,
+    "display_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-mymelody6-1.png",
+    "save_status": "reference_only",
+    "rights": "角色及原图归原权利人；公开研究仅引用原站URL，不打包原图，不授予商业复用许可。",
+    "interpretation": {
+      "type": "inference",
+      "claim": "周年主题集中重复结元素；素材本身能证明50周年主题，不能证明具体商品销量。",
+      "boundary": "研究者观察，未做辨识率或促购实验。"
+    }
+  },
+  {
+    "image_id": "V06",
+    "title": "Classic粉帽毛绒",
+    "source_id": "M09",
+    "source_page_url": "https://www.sanrio.com/products/my-melody-10-plush-classic-series",
+    "original_image_url": "https://www.sanrio.com/cdn/shop/products/618764-Zoom.1_600x.jpg?v=1664384402",
+    "research_cache_path": "my-melody-research/refs/M09.jpg",
+    "image_type": "官方商品图",
+    "observed_features": "粉帽、黄色耳根结、黑色椭圆眼和黄鼻、小微笑，白色坐姿，粉色脚底图案。",
+    "visual_language": "软毛表面把平面描边换成缝接和刺绣；颜色与耳姿已不是V01一模一样。",
+    "image_created_at": null,
+    "observed_at": "2026-10-26",
+    "actual_size": [
+      600,
+      600
+    ],
+    "actual_format": "JPEG",
+    "sha256": "50a5e17d17669860c58eff6b4ecd9b3a95f4105cee8af1cd782ffe11fb3cf852",
+    "official_source": true,
+    "display_image_url": "https://www.sanrio.com/cdn/shop/products/618764-Zoom.1_600x.jpg?v=1664384402",
+    "save_status": "reference_only",
+    "rights": "角色及原图归原权利人；公开研究仅引用原站URL，不打包原图，不授予商业复用许可。",
+    "interpretation": {
+      "type": "inference",
+      "claim": "软毛表面把平面描边换成缝接和刺绣；颜色与耳姿已不是V01一模一样。",
+      "boundary": "研究者观察，未做辨识率或促购实验。"
+    }
+  },
+  {
+    "image_id": "V07",
+    "title": "Classic红帽毛绒",
+    "source_id": "M10",
+    "source_page_url": "https://www.sanrio.com/products/my-melody-12-plush-red-classic-series",
+    "original_image_url": "https://www.sanrio.com/cdn/shop/files/490270-Zoom.1_600x.jpg?v=1773442163",
+    "research_cache_path": "my-melody-research/refs/M10.jpg",
+    "image_type": "官方商品图",
+    "observed_features": "深红竖耳帽包白脸，黑眼黄鼻，颈前红色缎面结，白肚和粉脚底，坐姿。",
+    "visual_language": "官网明确ABS眼鼻；其他纤维成分仍未知。红帽并非历史照片，本品首发日期未知。",
+    "image_created_at": null,
+    "observed_at": "2026-10-26",
+    "actual_size": [
+      600,
+      600
+    ],
+    "actual_format": "JPEG",
+    "sha256": "5032d83e49681b058dedccadfe8055605d33249bde4ea8d5bf4f968cce694a25",
+    "official_source": true,
+    "display_image_url": "https://www.sanrio.com/cdn/shop/files/490270-Zoom.1_600x.jpg?v=1773442163",
+    "save_status": "reference_only",
+    "rights": "角色及原图归原权利人；公开研究仅引用原站URL，不打包原图，不授予商业复用许可。",
+    "interpretation": {
+      "type": "inference",
+      "claim": "官网明确ABS眼鼻；其他纤维成分仍未知。红帽并非历史照片，本品首发日期未知。",
+      "boundary": "研究者观察，未做辨识率或促购实验。"
+    }
+  },
+  {
+    "image_id": "V08",
+    "title": "双IP联名黑色高帮鞋",
+    "source_id": "M11",
+    "source_page_url": "https://www.sanrio.com/products/converse-x-my-melody-kuromi-chuck-70-hi-top-sneaker-adult-black",
+    "original_image_url": "https://www.sanrio.com/cdn/shop/files/A21834_9Y_600x.png?v=1790013429",
+    "research_cache_path": "my-melody-research/refs/M11.jpg",
+    "image_type": "官方商品图",
+    "observed_features": "黑色鞋面布满压纹角色图案，淡紫缎带鞋带、金属孔，浅色鞋头与底边。",
+    "visual_language": "形象从完整立体角色变成低对比纹样；双IP共享商品，不将其销售拆归美乐蒂。",
+    "image_created_at": null,
+    "observed_at": "2026-10-26",
+    "actual_size": [
+      600,
+      559
+    ],
+    "actual_format": "PNG",
+    "sha256": "e2e2a4ae256828f58c51931c92540a193d1d89df474c1c2dfb2244693f73b99b",
+    "official_source": true,
+    "display_image_url": "https://www.sanrio.com/cdn/shop/files/A21834_9Y_600x.png?v=1790013429",
+    "save_status": "reference_only",
+    "rights": "角色及原图归原权利人；公开研究仅引用原站URL，不打包原图，不授予商业复用许可。",
+    "interpretation": {
+      "type": "inference",
+      "claim": "形象从完整立体角色变成低对比纹样；双IP共享商品，不将其销售拆归美乐蒂。",
+      "boundary": "研究者观察，未做辨识率或促购实验。"
+    }
+  }
+]

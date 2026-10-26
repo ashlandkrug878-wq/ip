@@ -1,0 +1,122 @@
+{
+  "colors": [
+    {
+      "name": "粉",
+      "hex_preview": "#f6bec8",
+      "scope": "current_profile_illustration",
+      "role": "main",
+      "value_basis": "image_sample",
+      "surface_or_region": "头巾",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "M02"
+      ],
+      "sample_coordinates_or_mask": [
+        300,
+        90
+      ],
+      "sample_method": "560×560原始RGBA PNG，左上角为原点，不透明单像素RGB；未校色",
+      "area_basis": "visual_estimate",
+      "area_description": "未分割主体，不给面积百分比",
+      "variation_boundary": "仅V01屏幕近似，非官方色号和量产验收标准"
+    },
+    {
+      "name": "白",
+      "hex_preview": "#ffffff",
+      "scope": "current_profile_illustration",
+      "role": "neutral",
+      "value_basis": "image_sample",
+      "surface_or_region": "脸与身体",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "M02"
+      ],
+      "sample_coordinates_or_mask": [
+        260,
+        300
+      ],
+      "sample_method": "560×560原始RGBA PNG，左上角为原点，不透明单像素RGB；未校色",
+      "area_basis": "visual_estimate",
+      "area_description": "未分割主体，不给面积百分比",
+      "variation_boundary": "仅V01屏幕近似，非官方色号和量产验收标准"
+    },
+    {
+      "name": "暖金棕",
+      "hex_preview": "#bd8b56",
+      "scope": "current_profile_illustration",
+      "role": "line_face",
+      "value_basis": "image_sample",
+      "surface_or_region": "眼与描边",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "M02"
+      ],
+      "sample_coordinates_or_mask": [
+        222,
+        334
+      ],
+      "sample_method": "560×560原始RGBA PNG，左上角为原点，不透明单像素RGB；未校色",
+      "area_basis": "visual_estimate",
+      "area_description": "未分割主体，不给面积百分比",
+      "variation_boundary": "仅V01屏幕近似，非官方色号和量产验收标准"
+    },
+    {
+      "name": "浅蓝",
+      "hex_preview": "#d3edfb",
+      "scope": "current_profile_illustration",
+      "role": "accent",
+      "value_basis": "image_sample",
+      "surface_or_region": "耳根小结",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "M02"
+      ],
+      "sample_coordinates_or_mask": [
+        145,
+        186
+      ],
+      "sample_method": "560×560原始RGBA PNG，左上角为原点，不透明单像素RGB；未校色",
+      "area_basis": "visual_estimate",
+      "area_description": "未分割主体，不给面积百分比",
+      "variation_boundary": "仅V01屏幕近似，非官方色号和量产验收标准"
+    },
+    {
+      "name": "浅黄",
+      "hex_preview": "#fff9b0",
+      "scope": "current_profile_illustration",
+      "role": "accent",
+      "value_basis": "image_sample",
+      "surface_or_region": "鼻",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "M02"
+      ],
+      "sample_coordinates_or_mask": [
+        300,
+        340
+      ],
+      "sample_method": "560×560原始RGBA PNG，左上角为原点，不透明单像素RGB；未校色",
+      "area_basis": "visual_estimate",
+      "area_description": "未分割主体，不给面积百分比",
+      "variation_boundary": "仅V01屏幕近似，非官方色号和量产验收标准"
+    }
+  ],
+  "signature_boundary": "粉帽常见，但1975红帽起源、1977粉帽及黑结款并存；V01五色不代表全IP固定色规范。",
+  "environment": "V02格纹、V03帷幔、V04黑蕾丝、V05周年字样和结纹是场景/装饰，不计入本体五色。",
+  "untested": [
+    "灰度与头像缩小辨识率",
+    "印刷色差",
+    "纤维染色色卡",
+    "实体尺寸/触感"
+  ]
+}

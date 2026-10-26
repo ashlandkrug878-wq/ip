@@ -1,0 +1,648 @@
+{
+  "id": "my-melody",
+  "name": "美乐蒂 My Melody",
+  "aliases": [
+    "マイメロディ",
+    "Melody"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-26",
+  "updated": "2026-10-26",
+  "summary": "从1975商品角色走向跨代陪伴：帽罩白兔脸保持识别，耳姿、帽色、洋装与故事持续变化；收藏复刻、功能周边和渠道信任分别检验。8组官方视觉、10项产品、6篇笔记与真实平面测试。",
+  "owner": {
+    "creator": null,
+    "operator": "Sanrio／株式会社サンリオ",
+    "relation": "官方运营与版权署名；初代自然人姓名及合同链未知；小林久美子为2025受访担当设计师",
+    "sources": [
+      "M01",
+      "M02",
+      "M15"
+    ]
+  },
+  "origin": {
+    "path": [
+      "产品先行"
+    ],
+    "year": 1975,
+    "story": "官方回顾：圣诞商品企划中的兔子小红帽，原名Little Red Riding Hood；约1976改名，1977出现粉帽，1997红帽回归。生日1月18日是世界观日期，不作首售日期。",
+    "sources": [
+      "M01",
+      "M02"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1975",
+      "event": "小红帽兔子作为圣诞商品角色诞生",
+      "type": "self_report",
+      "sources": [
+        "M01"
+      ]
+    },
+    {
+      "date": "约1976",
+      "event": "面向美国出口时改名My Melody",
+      "type": "self_report",
+      "sources": [
+        "M01"
+      ]
+    },
+    {
+      "date": "1977",
+      "event": "官方回顾记粉帽出现；采访称到1979已有，不必冲突",
+      "type": "self_report",
+      "sources": [
+        "M01",
+        "M15"
+      ]
+    },
+    {
+      "date": "1980年代后半",
+      "event": "负责人回顾：人气停滞，一度没有新品",
+      "type": "self_report",
+      "sources": [
+        "M16"
+      ]
+    },
+    {
+      "date": "1996—1997",
+      "event": "1996投票回升促使开发，1997红帽回归；属于回顾口径",
+      "type": "self_report",
+      "sources": [
+        "M01",
+        "M16"
+      ]
+    },
+    {
+      "date": "2005-04-03",
+      "event": "TV大阪首季动画开播；不是IP诞生",
+      "type": "self_report",
+      "sources": [
+        "M03"
+      ]
+    },
+    {
+      "date": "2025-01",
+      "event": "50周年Ribbon Princess与纪念店上新",
+      "type": "self_report",
+      "sources": [
+        "M12",
+        "M13"
+      ]
+    },
+    {
+      "date": "2025-07-17／07-24",
+      "event": "Netflix联动商品先发、定格动画后上线；销量归因未知",
+      "type": "self_report",
+      "sources": [
+        "M04",
+        "M14"
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "event": "角色大赏最终第7、2,975,439票",
+      "type": "self_report",
+      "sources": [
+        "M07"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "把小小的温柔，留在每天身边。",
+    "sentence_type": "陪伴",
+    "basis": "inferred",
+    "sources": [
+      "M02",
+      "X03",
+      "X05"
+    ]
+  },
+  "core": {
+    "personality": "坦率、明朗、关心弟弟",
+    "emotion": "外放",
+    "action": "重视奶奶的头巾，与妈妈烘焙、和朋友相处",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "收藏柜、日常镜梳杯包、纪念礼物与装扮主题",
+    "behavior": "找单款、整套陈列、求链接与挑脸；喜欢也会比较品控和包装",
+    "state": "研究假设：希望温柔陪伴能持续出现在日常，而非只看一次故事",
+    "conflict": "可爱吸引与实际拥有成本并存",
+    "unsaid": "想把这份喜欢安放在每天能看见的位置",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "有收藏与实用型需求的局部账号；总体人口统计未知，非仅儿童或女性",
+    "where": "Sanrio门店/官方网店、联名商品、动画与小红书整理/陈列",
+    "buy": "X04/X05实拍支持可见持有；购买数量金额仍为自述，意愿非订单",
+    "signs": "中古、复刻、国限、挑脸、委屈脸、兔年限定；社群别名非统一官方命名",
+    "share": "系列图鉴、收藏柜、洋装搭配、功能周边、品控与渠道讨论",
+    "breakout": "内容、周年与联名提供多个入口，独立拉新和成交归因未知"
+  },
+  "pendulum": {
+    "position": "甜美治愈",
+    "against": "研究归纳：在多IP竞争中提供熟悉温柔与可装扮空间；未取得1975同期审美份额，不能编反潮流叙事"
+  },
+  "form": {
+    "archetype": "动物类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "头型",
+      "五官"
+    ],
+    "mark": "兔耳头巾包住宽白脸，间距较宽的小椭圆眼、小黄鼻、小嘴形成组合；帽色耳姿饰物可变",
+    "face": "低位横向椭圆白脸、竖椭圆眼、居中小鼻与短嘴；高光睫毛腮红随图案变化",
+    "emotion": "外放",
+    "odd": "小小白兔脸与可夸张更换的帽饰/衣装并置；没有强制怪趣",
+    "density": "极简",
+    "naming": "其他",
+    "group": "单角色",
+    "note": "命名沿革见起源；极简指当前基础主图，主题洋装可繁复"
+  },
+  "collide_combo": "原创不整套搬用兔耳头巾＋低位宽白脸＋宽距竖椭圆眼＋小黄鼻＋耳根结／花的识别组合；可借“稳定身份与装扮变化分层”的机制，重建自己的头脸、轮廓与关系。",
+  "color": {
+    "mode": "白底加签名色",
+    "main": "白兔脸配粉或红帽；主题存在黑结、紫、花纹与渐变",
+    "signature": "红/粉帽为历史与当前常见线索，不能缩成唯一粉HEX",
+    "notes": "V01实取5点只作当前图像屏幕近似；非全IP配色手册"
+  },
+  "materials": "官方商品含毛绒、刺绣、ABS眼鼻、皮革鞋面、缎带与金属等，按SKU确认；插画蕾丝与绒感不证明实际成分。",
+  "carrier": {
+    "primary": "授权图案",
+    "secondary": "动画",
+    "note": "早期商品先行；官方自产企划与授权联名并存，非全部同一种商业合同"
+  },
+  "product": {
+    "first_category": "其他",
+    "hit_category": null,
+    "hit_product": null,
+    "first_note": "首发36件包含文具、毛绒等组合，不能选其中一件当最早单品；未核销量冠军",
+    "price_band": "10项官方代表样本：日本2025含税发布JPY550—5500；美国2026访问USD34/43/100。不可换算统一中国价格带。",
+    "sources": [
+      "M01",
+      "M09",
+      "M10",
+      "M11",
+      "M12",
+      "M13",
+      "M14"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "2025角色大赏最终名次",
+      "value": 6,
+      "unit": "名",
+      "period": "2025最终",
+      "type": "self_report",
+      "sources": [
+        "M06"
+      ],
+      "boundary": "活动名次，不是销量"
+    },
+    {
+      "metric": "2026角色大赏最终名次",
+      "value": 7,
+      "unit": "名",
+      "period": "2026最终",
+      "type": "self_report",
+      "sources": [
+        "M07"
+      ],
+      "boundary": "不拿中间第6名替代最终"
+    },
+    {
+      "metric": "2026角色大赏美乐蒂票数",
+      "value": 2975439,
+      "unit": "票",
+      "period": "2026活动",
+      "type": "self_report",
+      "sources": [
+        "M07",
+        "M08"
+      ],
+      "boundary": "累计多渠道票，非独立人数或成交"
+    },
+    {
+      "metric": "美乐蒂独立收入/授权费/利润",
+      "value": null,
+      "unit": null,
+      "period": "截至2026-10-26",
+      "type": "fact",
+      "sources": [
+        "M06",
+        "M07",
+        "M15"
+      ],
+      "boundary": "本轮未取得独立可核口径，不移用集团营收。"
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "固定识别关系，给装扮留出变化空间。",
+      "type": "inference",
+      "evidence": "V01到V05保持帽罩白兔脸与小五官，但红粉帽、耳姿、眼部画法、黑结和蕾丝均可变。",
+      "boundary": "不是技术母版不变量清单，辨识率与不同改版销量未测。",
+      "sources": [
+        "M01",
+        "M02",
+        "M15"
+      ]
+    },
+    {
+      "claim": "将温柔具体化为家庭、烘焙和朋友关系。",
+      "type": "inference",
+      "evidence": "奶奶头巾、与妈妈烤饼干、照顾弟弟；动画加入对手关系，商品可承载同伴与小屋情境。",
+      "boundary": "人设有出处，不证明全部消费者因故事购买；各动画版本不合并。",
+      "sources": [
+        "M02",
+        "M03",
+        "M04",
+        "M14",
+        "M17"
+      ]
+    },
+    {
+      "claim": "经典款、纪念与复刻，可能让旧关系重新进入当下。",
+      "type": "inference",
+      "evidence": "1997红帽回归、2025周年、X04系列收藏与X05仍想买复刻。",
+      "boundary": "收藏饱和也出现；没有复购率、净销售或复刻溢价统计。",
+      "sources": [
+        "M01",
+        "M12",
+        "M13",
+        "X04",
+        "X05"
+      ]
+    },
+    {
+      "claim": "跨品类提供不同使用入口，也带来功能与渠道信任门槛。",
+      "type": "inference",
+      "evidence": "官方有毛绒、贴纸、托特、鞋、娃屋；X03求镜梳，X04比较包与公仔、批评品控和包装，X06表达真伪焦虑。",
+      "boundary": "X06为预警传闻，不能确认假货事实；授权合同、缺陷率及功能实测仍缺。",
+      "sources": [
+        "M09",
+        "M10",
+        "M11",
+        "M12",
+        "M14",
+        "X03",
+        "X04",
+        "X06"
+      ]
+    }
+  ],
+  "counterexamples": "1980年代后半停滞与无新品有负责人回顾；X04品控、包装负重负面与款式满意共存；X05标题淡坑但仍计划购买，不当完全流失。",
+  "theory": {
+    "shell": "帽罩兔脸和小五官形成组合，不把粉色/蓝结/固定耳姿当全IP必须。",
+    "core": "官方家庭、烘焙与关心他人让温柔有具体行动；动画关系与网络解读须分版本。",
+    "shadow": "兔子、小红帽、蝴蝶结、蕾丝与粉色都是公共语汇，具体组合、历史内容和渠道不可自动复制。",
+    "two_layers": {
+      "surface": "假设：低细节小表情、服装或功能小物提供即时可爱入口；购买归因未隔离。",
+      "deep": "局部实拍与评论显示辨款、陈列、找旧款与复刻意愿，也有收藏饱和和质量期待。"
+    },
+    "validation": "官方商品与发行、收藏实拍可核；无净销售、复购与受众统计，投票与互动不替代成交。"
+  },
+  "for_skills": {
+    "lab": "把温柔写成可见关系和日常动作；区分熟悉感、装扮偏好、功能需求与购买动机。",
+    "form": "分开身份识别层与装扮层；用自己的头脸轮廓承接变化，避免整套搬用兔帽白脸黄鼻组合。",
+    "studio": "跨品类先定义使用理由；毛绒重点检查脸部一致性、包体饱满度、包装/重量与渠道追溯，主题图不能代替样品验证。"
+  },
+  "gaps": [
+    "初代个人创作者的一手姓名与完整权利链未核；小林久美子为2025受访担当设计师，非已证初代。",
+    "本轮没有取得官方商务授权手册/技术三视图、不可见背面、生产色卡和完整BOM。",
+    "单IP年收入、销量、授权费、利润、受众年龄/性别/地域、复购率均未知；角色大赏票不当独立粉丝或收入。",
+    "2025/2026票数规则不同渠道混合；年度名次变化不可直接解释销售或喜好衰退。",
+    "六篇小红书是定向样本，多图仅封面；部分日期无年份或相对日期，未强补；未核订单、广告合作、真伪或全部评论。",
+    "X02中国洋装物语清单未与大陆官方SKU逐项匹配；X06假货为未证传闻，不作为鉴定结论。",
+    "美国现价和日本发布价地域/时间口径不同；完整材料、成本、毛绒重量、包装重量与耐用性未实测。",
+    "没有对官方连续30天内容采样，也无观看留存、投流、授权转化或跨代用户统计。",
+    "仅V01当前官方主图可见正面的中文二维复现实测；英文、3D、毛绒、原创六条衍生与重复稳定性未测试。",
+    "实测结论：5次真实生成：纯文字2次、附图3次。附图v3在V01当前主图可见正面的角色相似度上通过；纯文字未通过，不能用附图成功替代。并排QA与原图像素读取纠正了前两轮把小蓝结中心误写成浅黄的问题，v3中心浅蓝更接近原图。所有输出仍有浅渐变/纹理，严格五色平涂未通过；已测词仅用于限定目标的附图二维研究复现，不是矢量或生产母版。未继续3D或毛绒。"
+  ],
+  "sources": [
+    {
+      "id": "M01",
+      "title": "Sanrio Times：美乐蒂50年回顾",
+      "url": "https://sanriotimes.sanrio.co.jp/n/nd5f797f0c810",
+      "publisher": "Sanrio／官方",
+      "published": "2025-01-16",
+      "observed": "2026-10-26",
+      "access": "full",
+      "type": "self_report",
+      "supports": [
+        "1975圣诞以兔子版小红帽、Little Red Riding Hood诞生；约1976出口美国时改名My Melody",
+        "1977出现粉色帽；1997红帽回归；2000后图案与色彩扩展",
+        "首发36件商品；早期含毛绒、文具等"
+      ],
+      "boundary": "官方追溯，不是1975同期档案；个人初代作者未署名。勿把文章作者当设计师。"
+    },
+    {
+      "id": "M02",
+      "title": "日本Sanrio官方角色档案",
+      "url": "https://www.sanrio.co.jp/characters/mymelody/",
+      "publisher": "Sanrio／官方",
+      "published": null,
+      "observed": "2026-10-26",
+      "access": "full",
+      "type": "self_report",
+      "supports": [
+        "1975 debut；生日1月18日；坦率明朗、关心弟弟；奶奶制帽；爱烤饼干、杏仁磅蛋糕",
+        "家人父母、弟弟Rhythm、祖父母；好友Flat、Piano等"
+      ],
+      "boundary": "世界观设定不是用户研究；版权页面归Sanrio，未提供个人创作者合同。"
+    },
+    {
+      "id": "M03",
+      "title": "TV大阪：おねがいマイメロディ系列",
+      "url": "https://www.tv-osaka.co.jp/ip4/mymelo_kirara_k/series.php",
+      "publisher": "TV大阪",
+      "published": null,
+      "observed": "2026-10-26",
+      "access": "full",
+      "type": "fact",
+      "supports": [
+        "首季播出2005-04-03至2006-03-26；后续季2006/2007开启"
+      ],
+      "boundary": "电视播出日期，不是IP创立日期。"
+    },
+    {
+      "id": "M04",
+      "title": "Netflix定格动画正式上线日期新闻稿",
+      "url": "https://corporate.sanrio.co.jp/news/assets/pdf/2025/20250611152821657s.pdf",
+      "publisher": "Sanrio／官方",
+      "published": "2025-06-12",
+      "observed": "2026-10-26",
+      "access": "full",
+      "type": "self_report",
+      "supports": [
+        "2025-07-24 Netflix全球独家；12集每集约13分钟；美乐蒂50周年及酷洛米20周年"
+      ],
+      "boundary": "发行公告，观看量/商业效果未知。"
+    },
+    {
+      "id": "M05",
+      "title": "Netflix动画制作发布",
+      "url": "https://corporate.sanrio.co.jp/news/assets/pdf/2025/20250108113321136s.pdf",
+      "publisher": "Sanrio／官方",
+      "published": "2025-01-09",
+      "observed": "2026-10-26",
+      "access": "full",
+      "type": "self_report",
+      "supports": [
+        "原作Sanrio；导演见里朝希；编剧根本宗子；TORUKU from WIT STUDIO制作"
+      ],
+      "boundary": "动画创作者不可当1975角色原创者。"
+    },
+    {
+      "id": "M06",
+      "title": "2025角色大赏最终结果",
+      "url": "https://corporate.sanrio.co.jp/news/assets/pdf/2025/20250629234414182s.pdf",
+      "publisher": "Sanrio／官方",
+      "published": "2025-06-29",
+      "observed": "2026-10-26",
+      "access": "full",
+      "type": "self_report",
+      "supports": [
+        "美乐蒂最终第6；总票数63,160,696"
+      ],
+      "boundary": "总票数属整个活动；不是美乐蒂独立人数/销量。"
+    },
+    {
+      "id": "M07",
+      "title": "2026角色大赏最终结果",
+      "url": "https://corporate.sanrio.co.jp/news/20260628_01.html",
+      "publisher": "Sanrio／官方",
+      "published": "2026-06-28",
+      "observed": "2026-10-26",
+      "access": "full",
+      "type": "self_report",
+      "supports": [
+        "美乐蒂第7、2,975,439票（官方嵌入榜图）；上一年6、该年中间6",
+        "整个活动总票数70,647,379"
+      ],
+      "boundary": "榜图下载并目视读取；票数非独立人数。图片URL https://corporate.sanrio.co.jp/news/assets/images/20260628_01-03.jpg"
+    },
+    {
+      "id": "M08",
+      "title": "2026角色大赏规则公告",
+      "url": "https://corporate.sanrio.co.jp/news/assets/pdf/2026/20260310103039703s.pdf",
+      "publisher": "Sanrio／官方",
+      "published": "2026-03-10",
+      "observed": "2026-10-26",
+      "access": "full",
+      "type": "self_report",
+      "supports": [
+        "90角色参赛，2026-04-09至05-24投票；包括WEB、店铺/网购、草莓新闻、会员积分/票券等渠道"
+      ],
+      "boundary": "多渠道累积票数，非随机代表性调查；不推导付费人数/销量/市占。"
+    },
+    {
+      "id": "M09",
+      "title": "My Melody Classic 10-inch plush",
+      "url": "https://www.sanrio.com/products/my-melody-10-plush-classic-series",
+      "publisher": "Sanrio／官方",
+      "published": null,
+      "observed": "2026-10-26",
+      "access": "full",
+      "type": "fact",
+      "supports": [
+        "美国官方现价USD34；货号618764；约10英寸；毛绒、刺绣、后部标识"
+      ],
+      "boundary": "价格为访问时观察，不是首发价；发布日期/完整纤维成分未知。"
+    },
+    {
+      "id": "M10",
+      "title": "My Melody Red Classic 12-inch plush",
+      "url": "https://www.sanrio.com/products/my-melody-12-plush-red-classic-series",
+      "publisher": "Sanrio／官方",
+      "published": null,
+      "observed": "2026-10-26",
+      "access": "full",
+      "type": "fact",
+      "supports": [
+        "美国官方现价USD43；货号490270；约12英寸；ABS眼鼻、毛绒、刺绣贴布"
+      ],
+      "boundary": "发布日期/完整纤维成分未知。"
+    },
+    {
+      "id": "M11",
+      "title": "Converse x My Melody & Kuromi Chuck70成人黑色高帮",
+      "url": "https://www.sanrio.com/products/converse-x-my-melody-kuromi-chuck-70-hi-top-sneaker-adult-black",
+      "publisher": "Sanrio／官方",
+      "published": null,
+      "observed": "2026-10-26",
+      "access": "full",
+      "type": "fact",
+      "supports": [
+        "美国官方现价USD100；货号566781；皮革鞋面、缎带、金属鞋带头/挂饰"
+      ],
+      "boundary": "双IP联名，非美乐蒂独立销售；页面日期未知。"
+    },
+    {
+      "id": "M12",
+      "title": "50周年Ribbon Princess系列",
+      "url": "https://www.sanrio.co.jp/news/goods/mm-ribbon-princess-202501/",
+      "publisher": "Sanrio／官方",
+      "published": "2024-12-26",
+      "observed": "2026-10-26",
+      "access": "full",
+      "type": "fact",
+      "supports": [
+        "2025-01-08日本发售；生日娃娃5500日元；A4托特3498；贴纸550；全为含税",
+        "页面说明Sanrio企划开发；2025-05-16更新部分商品再售"
+      ],
+      "boundary": "材料与具体尺寸多未披露；再售不能推导卖出多少。"
+    },
+    {
+      "id": "M13",
+      "title": "50周年纪念商店",
+      "url": "https://www.sanrio.co.jp/news/spots/mm-50th-anniversary-shop-20241226/",
+      "publisher": "Sanrio／官方",
+      "published": "2024-12-26",
+      "observed": "2026-10-26",
+      "access": "full",
+      "type": "fact",
+      "supports": [
+        "2025-01-09至02-09，35家店和官方网店；纪念毛绒8款各3894日元含税"
+      ],
+      "boundary": "页有后续受注/配送更新；不得把限购当销量。"
+    },
+    {
+      "id": "M14",
+      "title": "Netflix纪念商品系列新闻稿",
+      "url": "https://corporate.sanrio.co.jp/news/assets/pdf/2025/20250710170537036s.pdf",
+      "publisher": "Sanrio／官方",
+      "published": "2025-07-11",
+      "observed": "2026-10-26",
+      "access": "full",
+      "type": "fact",
+      "supports": [
+        "2025-07-17日本发售；美乐蒂可动毛绒3300日元；娃屋5500；布绒证件套2200；均含税",
+        "系列另有共享托特2497、贴纸550等；8月8日下一系列重制2009兔套装设计"
+      ],
+      "boundary": "PDF web读取超大小限制；公开下载并pdftotext全文读取。羊毛吉祥物风是造型描述，不是纯羊毛成分证明。"
+    },
+    {
+      "id": "M15",
+      "title": "ORICON对担当设计师小林久美子采访",
+      "url": "https://contents.oricon.co.jp/special/70040/",
+      "publisher": "ORICON／Sanrio设计师采访",
+      "published": "2025-01-18",
+      "observed": "2026-10-26",
+      "access": "full",
+      "type": "self_report",
+      "supports": [
+        "实名受访者为Sanrio担当设计师小林久美子；称Rex兔原型",
+        "称资料到1979已有粉帽；1997红帽面向高中/大学年龄；近年真夜中メロクロ尝试深色妆容"
+      ],
+      "boundary": "她是当前担当设计师，不据此断言初代。1979已有不必与官方1977首次出现矛盾；地区颜色偏好只是访谈印象，非统计。"
+    },
+    {
+      "id": "M16",
+      "title": "WalkerPlus采访Sanrio负责人：45年起伏",
+      "url": "https://www.walkerplus.com/trend/matome/article/227387/amp/",
+      "publisher": "WalkerPlus／Sanrio负责人采访",
+      "published": "2020-03-23",
+      "observed": "2026-10-26",
+      "access": "full",
+      "type": "self_report",
+      "supports": [
+        "负责人承认1980年代后半人气停滞、一段时间没有新品；1996投票上升促使开发新品",
+        "2005动画拓宽到成人动画观众；2010角色Twitter深化陪伴（受访者解释）"
+      ],
+      "boundary": "回顾性自述，无销售时间序列；因果未独立验证。"
+    },
+    {
+      "id": "M17",
+      "title": "Kuromi官方关系定义",
+      "url": "https://www.sanrio.co.jp/characters/kuromi/",
+      "publisher": "Sanrio／官方",
+      "published": null,
+      "observed": "2026-10-26",
+      "access": "full",
+      "type": "self_report",
+      "supports": [
+        "酷洛米自称美乐蒂的对手；2005登场"
+      ],
+      "boundary": "不是姐妹；共同商品和动画不等于相同IP。"
+    },
+    {
+      "id": "X01",
+      "title": "每天认识一个ip：美乐蒂",
+      "url": "https://www.xiaohongshu.com/explore/69148c5c0000000007022329",
+      "publisher": "小红书／世界需要萌物",
+      "published": "2025-11-12",
+      "observed": "2026-10-26",
+      "access": "partial",
+      "type": "self_report",
+      "supports": "从小红帽到美乐蒂的角色史整理；评论主要表情贴纸和求图。历史主张回到M01核验。",
+      "boundary": "正文、封面、可见评论；图数未独立取得；整理封面不是官方基础图；不能据此确定出生、销售或客群。"
+    },
+    {
+      "id": "X02",
+      "title": "记录 | 26年三丽鸥美乐蒂洋装物语系列",
+      "url": "https://www.xiaohongshu.com/explore/6acf54490000000015000eb6",
+      "publisher": "小红书／兔乐蒂",
+      "published": "页面编辑于10-15，年份未独立展示；正文明确2026",
+      "observed": "2026-10-26",
+      "access": "partial",
+      "type": "self_report",
+      "supports": "作者整理称中国2026-10-20发售，公仔5款399元、挂件5款159元、包3款199元、胸针5款99元；称图源官方。评论有抢到、历史款年份和代购。",
+      "boundary": "正文、1/8封面、可见7条评论；封面五只穿蕾丝洋装的美乐蒂；以上中国价格和日期是第三方整理，未取得大陆官方SKU页交叉确认，不并入已核官方产品价格表。历史初版2014/2016只是评论记忆。"
+    },
+    {
+      "id": "X03",
+      "title": "美乐蒂🍧｜自用实用型好物分享🎀",
+      "url": "https://www.xiaohongshu.com/explore/6aadeed1000000002a02eeca",
+      "publisher": "小红书／关于三丽鸥的一切🎀",
+      "published": "09-19，页面未展示年份",
+      "observed": "2026-10-26",
+      "access": "partial",
+      "type": "self_report",
+      "supports": "作者称自用实用型好物，封面为收纳、镜梳、包、杯等拼贴；评论求梳子、手持镜和随身镜链接，作者建议识图。",
+      "boundary": "正文、1/5拼贴封面、10条可见评论；自用为账号自述，封面不能独立证明每件持有、性能、正版授权或购买；无订单。"
+    },
+    {
+      "id": "X04",
+      "title": "美乐蒂洋装复刻系列收藏记录",
+      "url": "https://www.xiaohongshu.com/explore/6ada192c000000002a01c8ec",
+      "publisher": "小红书／KOKOKOKOKO",
+      "published": "编辑于2天前，访问2026-10-26；不换算绝对日期",
+      "observed": "2026-10-26",
+      "access": "partial",
+      "type": "self_report",
+      "supports": "作者称跑两次线下买齐挂件与斜挎包，另买绿紫公仔。喜欢甜粉/小蓝与包的性价比；认为挂件品控一般、包饱满度不如公仔、包装盒无用且重，线下可二选一。",
+      "boundary": "正文、1/6收藏实拍封面；页面暂无评论；封面可见一排五只洋装角色和后方大娃，但未逐个识别SKU。质量、价格感受与抢购均个人自述；无重量、订单、缺陷率实测。"
+    },
+    {
+      "id": "X05",
+      "title": "严肃淡坑…",
+      "url": "https://www.xiaohongshu.com/explore/6ad22fa400000000140034e7",
+      "publisher": "小红书／装鱿鱼被烤了",
+      "published": "10-16，页面未展示年份",
+      "observed": "2026-10-26",
+      "access": "partial",
+      "type": "self_report",
+      "supports": "作者说喜欢的已收得差不多，整齐陈列很幸福；评论自述累计约两万元，并称仍会买下一组复刻。评论辨委屈脸、兔年限定、草莓二代，并问收纳盒。",
+      "boundary": "正文、完整当前单张收藏陈列图、已加载可见评论（页面总84，未逐条展开全部回复）；标题淡坑不等于完全流失，作者仍有购买意愿。金额未审计，别名是社群用语，无二手行情或单IP客单价推导。"
+    },
+    {
+      "id": "X06",
+      "title": "洋装物语美乐蒂｜重磅避雷！",
+      "url": "https://www.xiaohongshu.com/explore/6adbf76c0000000033012d8e",
+      "publisher": "小红书／雪纳",
+      "published": "2天前；访问2026-10-26，不换算绝对日期",
+      "observed": "2026-10-26",
+      "access": "partial",
+      "type": "self_report",
+      "supports": "作者预警低价预售和假货；封面明确用“据说”称花嫁款假货将预定，正文称无外置吊牌和盒装遮挡辨真困难。评论有人倾向实体/小程序购买。",
+      "boundary": "正文、完整当前文字封面、2条可见评论；封面是传闻预警，没有鉴定实物或官方打假公告。不确认假货已经出货，不采信为真假鉴别标准、假货率或特定商家结论。"
+    }
+  ],
+  "archive": "research/my-melody/2026-10-26/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/my-melody/2026-10-26/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/my-melody/2026-10-26/"
+}
