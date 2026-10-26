@@ -1,0 +1,290 @@
+[
+  {
+    "image_id": "V01",
+    "title": "当前官方主图／唯一实测目标",
+    "source_id": "C03",
+    "source_page_url": "https://www.sanrio.co.jp/characters/cinnamon/",
+    "original_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/mv-cinnamon.png",
+    "research_cache_path": "cinnamoroll-research/refs/main.png",
+    "image_type": "官方角色插画",
+    "observed_features": "横向巨大白长耳，中央宽扁头脸略向画面右下斜；头顶两段浅弧交叠，暖棕连续描边。宽距蓝色竖椭圆眼、两团粉腮红、小w形棕嘴，无鼻；小梨形身体，双爪举于脸下，短脚站立，左腰后白色卷尾。",
+    "visual_language": "四种平色与大留白；全宽约两倍全高是该视角估计，不是官方尺寸比例。主图不是技术三视图。",
+    "subject_id": "cinnamoroll",
+    "image_created_at": null,
+    "observed_at": "2026-10-26",
+    "actual_size": [
+      1004,
+      560
+    ],
+    "actual_format": "PNG",
+    "sha256": "9344d335e7591c8599e7cc32730b315401037d58e15c14dcf23853de74867520",
+    "official_source": true,
+    "display_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/mv-cinnamon.png",
+    "save_status": "reference_only",
+    "official_settings": "本体为云上白色小狗男孩、咖啡店看板犬；安静亲人、长耳飞行，出处C03。I分支另看C09。",
+    "material_and_structure": "插画只说明可见线面；工艺成分依SKU说明，未见结构不补造。",
+    "presentation": "正面或近正面插画/商品展示，估计比例受视角影响。",
+    "rights": "角色及原图归原权利人；公开研究引用原站URL，不打包原图，不授予商业复用许可。",
+    "interpretation": {
+      "type": "inference",
+      "claim": "四种平色与大留白；全宽约两倍全高是该视角估计，不是官方尺寸比例。主图不是技术三视图。",
+      "boundary": "研究者观察；无辨识率或促购实验。"
+    }
+  },
+  {
+    "image_id": "V02",
+    "title": "贝雷帽与小熊",
+    "source_id": "C03",
+    "source_page_url": "https://www.sanrio.co.jp/characters/cinnamon/",
+    "original_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-cinnamoroll12.png",
+    "research_cache_path": "cinnamoroll-research/refs/profile-1.png",
+    "image_type": "官方角色插画",
+    "observed_features": "白色长耳配深蓝贝雷帽，深蓝眼和描边，粉腮红，怀抱小棕熊，腰后卷尾；背景蓝格纹、红结、红字。",
+    "visual_language": "眼和线可以变成深蓝，帽与熊是主题变量，不是本体强制道具。",
+    "subject_id": "cinnamoroll",
+    "image_created_at": null,
+    "observed_at": "2026-10-26",
+    "actual_size": [
+      955,
+      1350
+    ],
+    "actual_format": "PNG",
+    "sha256": "cdc845826e6e05c7f1c0573dfde63fcb00f27e117607b37261ab6b1a91fcb9e0",
+    "official_source": true,
+    "display_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-cinnamoroll12.png",
+    "save_status": "reference_only",
+    "official_settings": "本体为云上白色小狗男孩、咖啡店看板犬；安静亲人、长耳飞行，出处C03。I分支另看C09。",
+    "material_and_structure": "插画只说明可见线面；工艺成分依SKU说明，未见结构不补造。",
+    "presentation": "正面或近正面插画/商品展示，估计比例受视角影响。",
+    "rights": "角色及原图归原权利人；公开研究引用原站URL，不打包原图，不授予商业复用许可。",
+    "interpretation": {
+      "type": "inference",
+      "claim": "眼和线可以变成深蓝，帽与熊是主题变量，不是本体强制道具。",
+      "boundary": "研究者观察；无辨识率或促购实验。"
+    }
+  },
+  {
+    "image_id": "V03",
+    "title": "蓝色底与白色轮廓",
+    "source_id": "C03",
+    "source_page_url": "https://www.sanrio.co.jp/characters/cinnamon/",
+    "original_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-cinnamoroll5.jpg",
+    "research_cache_path": "cinnamoroll-research/refs/profile-7.png",
+    "image_type": "官方角色插画",
+    "observed_features": "浅蓝背景上，两只小狗以白色外线和偏蓝五官呈现，伞、糖果与结饰构成情境；左侧角色长耳、卷尾，右侧角色有额前卷簇。",
+    "visual_language": "图案降低白色实体填充的显著度，依靠轮廓和脸维持读图；不推定染成蓝毛，未实测辨识率。",
+    "subject_id": "cinnamoroll",
+    "image_created_at": null,
+    "observed_at": "2026-10-26",
+    "actual_size": [
+      954,
+      1350
+    ],
+    "actual_format": "JPEG",
+    "sha256": "28b56bc9c34f4eaf52055ee4f21dd4158cd13982e11607404d3a76ff69c13334",
+    "official_source": true,
+    "display_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-cinnamoroll5.jpg",
+    "save_status": "reference_only",
+    "official_settings": "本体为云上白色小狗男孩、咖啡店看板犬；安静亲人、长耳飞行，出处C03。I分支另看C09。",
+    "material_and_structure": "插画只说明可见线面；工艺成分依SKU说明，未见结构不补造。",
+    "presentation": "正面或近正面插画/商品展示，估计比例受视角影响。",
+    "rights": "角色及原图归原权利人；公开研究引用原站URL，不打包原图，不授予商业复用许可。",
+    "interpretation": {
+      "type": "inference",
+      "claim": "图案降低白色实体填充的显著度，依靠轮廓和脸维持读图；不推定染成蓝毛，未实测辨识率。",
+      "boundary": "研究者观察；无辨识率或促购实验。"
+    }
+  },
+  {
+    "image_id": "V04",
+    "title": "甜点杯中的角色",
+    "source_id": "C03",
+    "source_page_url": "https://www.sanrio.co.jp/characters/cinnamon/",
+    "original_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-cinnamon2.png",
+    "research_cache_path": "cinnamoroll-research/refs/profile-12.png",
+    "image_type": "官方角色插画",
+    "observed_features": "白色长耳角色坐进蓝绿色圆点杯中，蓝色描边与眼、粉腮红，爪搭杯沿；四周马卡龙、纸杯蛋糕。",
+    "visual_language": "杯与甜点为场景，不是身体结构或真实餐饮商品；坐姿遮住下身，不能补出脚尾。",
+    "subject_id": "cinnamoroll",
+    "image_created_at": null,
+    "observed_at": "2026-10-26",
+    "actual_size": [
+      1350,
+      1350
+    ],
+    "actual_format": "PNG",
+    "sha256": "412c50392fd57f708d480bbddb9f02ead367f9f629b5974454452bf332673acc",
+    "official_source": true,
+    "display_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-cinnamon2.png",
+    "save_status": "reference_only",
+    "official_settings": "本体为云上白色小狗男孩、咖啡店看板犬；安静亲人、长耳飞行，出处C03。I分支另看C09。",
+    "material_and_structure": "插画只说明可见线面；工艺成分依SKU说明，未见结构不补造。",
+    "presentation": "正面或近正面插画/商品展示，估计比例受视角影响。",
+    "rights": "角色及原图归原权利人；公开研究引用原站URL，不打包原图，不授予商业复用许可。",
+    "interpretation": {
+      "type": "inference",
+      "claim": "杯与甜点为场景，不是身体结构或真实餐饮商品；坐姿遮住下身，不能补出脚尾。",
+      "boundary": "研究者观察；无辨识率或促购实验。"
+    }
+  },
+  {
+    "image_id": "V05",
+    "title": "星空与卷尾",
+    "source_id": "C03",
+    "source_page_url": "https://www.sanrio.co.jp/characters/cinnamon/",
+    "original_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-cinnamon3.png",
+    "research_cache_path": "cinnamoroll-research/refs/profile-13.png",
+    "image_type": "官方角色插画",
+    "observed_features": "深蓝星空上白长耳角色持星星，金色粗糙线、眼内星形高光、粉色短线腮红；身前露出大卷尾，脚下白云。",
+    "visual_language": "图案眼睛和描边不固定为主图实心蓝眼/棕线；星空和云是展示环境，不代表身体发光或金属材质。",
+    "subject_id": "cinnamoroll",
+    "image_created_at": null,
+    "observed_at": "2026-10-26",
+    "actual_size": [
+      1350,
+      1350
+    ],
+    "actual_format": "PNG",
+    "sha256": "c66442a6c0cf1601cef591bb027e3df1a767b1b84a12d5d03831986ecd315658",
+    "official_source": true,
+    "display_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-cinnamon3.png",
+    "save_status": "reference_only",
+    "official_settings": "本体为云上白色小狗男孩、咖啡店看板犬；安静亲人、长耳飞行，出处C03。I分支另看C09。",
+    "material_and_structure": "插画只说明可见线面；工艺成分依SKU说明，未见结构不补造。",
+    "presentation": "正面或近正面插画/商品展示，估计比例受视角影响。",
+    "rights": "角色及原图归原权利人；公开研究引用原站URL，不打包原图，不授予商业复用许可。",
+    "interpretation": {
+      "type": "inference",
+      "claim": "图案眼睛和描边不固定为主图实心蓝眼/棕线；星空和云是展示环境，不代表身体发光或金属材质。",
+      "boundary": "研究者观察；无辨识率或促购实验。"
+    }
+  },
+  {
+    "image_id": "V06",
+    "title": "云朵与粉色同伴",
+    "source_id": "C03",
+    "source_page_url": "https://www.sanrio.co.jp/characters/cinnamon/",
+    "original_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-cinnamoroll16.png",
+    "research_cache_path": "cinnamoroll-research/refs/profile-5.png",
+    "image_type": "官方角色插画",
+    "observed_features": "白色长耳角色与一位粉色同伴立于云间，白色长耳主角无鼻，小嘴、眼内星光、粉色短线脸颊，持黄色星星，后方为云、彩虹和星。",
+    "visual_language": "关系与情境扩展画面；这里只记录粉色同伴，不把整张群像当同一角色的换色，也不凭图确定人物关系。",
+    "subject_id": "cinnamoroll",
+    "image_created_at": null,
+    "observed_at": "2026-10-26",
+    "actual_size": [
+      1913,
+      1350
+    ],
+    "actual_format": "PNG",
+    "sha256": "5bccd2e882843665eba8cff841b579c206a2df0be600d49dc177960f180bc6f1",
+    "official_source": true,
+    "display_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-cinnamoroll16.png",
+    "save_status": "reference_only",
+    "official_settings": "本体为云上白色小狗男孩、咖啡店看板犬；安静亲人、长耳飞行，出处C03。I分支另看C09。",
+    "material_and_structure": "插画只说明可见线面；工艺成分依SKU说明，未见结构不补造。",
+    "presentation": "正面或近正面插画/商品展示，估计比例受视角影响。",
+    "rights": "角色及原图归原权利人；公开研究引用原站URL，不打包原图，不授予商业复用许可。",
+    "interpretation": {
+      "type": "inference",
+      "claim": "关系与情境扩展画面；这里只记录粉色同伴，不把整张群像当同一角色的换色，也不凭图确定人物关系。",
+      "boundary": "研究者观察；无辨识率或促购实验。"
+    }
+  },
+  {
+    "image_id": "V07",
+    "title": "Classic白色毛绒",
+    "source_id": "C16",
+    "source_page_url": "https://www.sanrio.com/collections/sanrio-originals/products/cinnamoroll-12-large-classic-plush-sanrio-original-series",
+    "original_image_url": "https://www.sanrio.com/cdn/shop/files/imgi_11_zz-2508148377_CN_--1_600x.jpg?v=1778020972",
+    "research_cache_path": "cinnamoroll-research/refs/C16.jpg",
+    "image_type": "官方商品图",
+    "observed_features": "白色长垂耳、圆脸、蓝色椭圆眼与w嘴，粉脸颊，小身坐姿、短手脚。",
+    "visual_language": "立体坐姿改变耳落点、头脸和支撑关系；刺绣/贴布见商品说明，触感和纤维成分未知。",
+    "subject_id": "cinnamoroll",
+    "image_created_at": null,
+    "observed_at": "2026-10-26",
+    "actual_size": [
+      600,
+      600
+    ],
+    "actual_format": "JPEG",
+    "sha256": "a4a95622cdf8d4b7d8a25acc130782bbf3a1bc458affab98b43b2e33fe3e34d7",
+    "official_source": true,
+    "display_image_url": "https://www.sanrio.com/cdn/shop/files/imgi_11_zz-2508148377_CN_--1_600x.jpg?v=1778020972",
+    "save_status": "reference_only",
+    "official_settings": "本体为云上白色小狗男孩、咖啡店看板犬；安静亲人、长耳飞行，出处C03。I分支另看C09。",
+    "material_and_structure": "插画只说明可见线面；工艺成分依SKU说明，未见结构不补造。",
+    "presentation": "正面或近正面插画/商品展示，估计比例受视角影响。",
+    "rights": "角色及原图归原权利人；公开研究引用原站URL，不打包原图，不授予商业复用许可。",
+    "interpretation": {
+      "type": "inference",
+      "claim": "立体坐姿改变耳落点、头脸和支撑关系；刺绣/贴布见商品说明，触感和纤维成分未知。",
+      "boundary": "研究者观察；无辨识率或促购实验。"
+    }
+  },
+  {
+    "image_id": "V08",
+    "title": "可转换棉帆布小托特",
+    "source_id": "C18",
+    "source_page_url": "https://www.sanrio.com/products/cinnamoroll-convertible-cotton-mini-tote-bag",
+    "original_image_url": "https://www.sanrio.com/cdn/shop/files/zz-2307069868_CN_--1_600x.jpg?v=1689265687",
+    "research_cache_path": "cinnamoroll-research/refs/C18.jpg",
+    "image_type": "官方商品图",
+    "observed_features": "水蓝色方形小包，短把与长肩带、金属扣，包身印白长耳小狗和小熊、英文标识；蓝眼与粉脸颊。",
+    "visual_language": "完整长耳图案缩到包面，包的容量、肩带和日常搭配是独立使用条件，未实测承重或耐洗。",
+    "subject_id": "cinnamoroll",
+    "image_created_at": null,
+    "observed_at": "2026-10-26",
+    "actual_size": [
+      600,
+      600
+    ],
+    "actual_format": "JPEG",
+    "sha256": "05ff19582dff0173627a07ee411c0e7ccbdf1e624f6a505246fa5b599cb502f6",
+    "official_source": true,
+    "display_image_url": "https://www.sanrio.com/cdn/shop/files/zz-2307069868_CN_--1_600x.jpg?v=1689265687",
+    "save_status": "reference_only",
+    "official_settings": "本体为云上白色小狗男孩、咖啡店看板犬；安静亲人、长耳飞行，出处C03。I分支另看C09。",
+    "material_and_structure": "插画只说明可见线面；工艺成分依SKU说明，未见结构不补造。",
+    "presentation": "正面或近正面插画/商品展示，估计比例受视角影响。",
+    "rights": "角色及原图归原权利人；公开研究引用原站URL，不打包原图，不授予商业复用许可。",
+    "interpretation": {
+      "type": "inference",
+      "claim": "完整长耳图案缩到包面，包的容量、肩带和日常搭配是独立使用条件，未实测承重或耐洗。",
+      "boundary": "研究者观察；无辨识率或促购实验。"
+    }
+  },
+  {
+    "image_id": "V09",
+    "title": "I.CINNAMOROLL分支毛绒",
+    "source_id": "C21",
+    "source_page_url": "https://www.sanrio.co.jp/news/goods/in-202401/",
+    "original_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2023/12/kv-goods-in-2401-1120x630.jpg",
+    "research_cache_path": "cinnamoroll-research/refs/C21.jpg",
+    "image_type": "官方商品图／分支样本",
+    "observed_features": "偏长身白色毛绒，两只耳向下垂，蓝色眼、小黑短嘴，正面坐姿；青绿背景和黄色分支标题。",
+    "visual_language": "分支样本单列：无本体主图同款w嘴和粉腮红；按C09成人平行世界定位理解，不当母版被替换。",
+    "subject_id": "cinnamoroll",
+    "image_created_at": null,
+    "observed_at": "2026-10-26",
+    "actual_size": [
+      1120,
+      630
+    ],
+    "actual_format": "JPEG",
+    "sha256": "1fa0dd2f1634c854fbef79c0a7e1c4f8ab408273a1a65ff512c0456ebf2f825e",
+    "official_source": true,
+    "display_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2023/12/kv-goods-in-2401-1120x630.jpg",
+    "save_status": "reference_only",
+    "official_settings": "本体为云上白色小狗男孩、咖啡店看板犬；安静亲人、长耳飞行，出处C03。I分支另看C09。",
+    "material_and_structure": "插画只说明可见线面；工艺成分依SKU说明，未见结构不补造。",
+    "presentation": "正面或近正面插画/商品展示，估计比例受视角影响。",
+    "rights": "角色及原图归原权利人；公开研究引用原站URL，不打包原图，不授予商业复用许可。",
+    "interpretation": {
+      "type": "inference",
+      "claim": "分支样本单列：无本体主图同款w嘴和粉腮红；按C09成人平行世界定位理解，不当母版被替换。",
+      "boundary": "研究者观察；无辨识率或促购实验。"
+    }
+  }
+]

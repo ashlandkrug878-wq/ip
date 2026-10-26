@@ -1,0 +1,724 @@
+{
+  "id": "cinnamoroll",
+  "name": "玉桂狗 Cinnamoroll",
+  "aliases": [
+    "大耳狗",
+    "喜拿",
+    "シナモロール",
+    "シナモン",
+    "Cinnamon"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-26",
+  "updated": "2026-10-26",
+  "summary": "长耳飞行与肉桂卷尾把轮廓、命名、故事连起来；咖啡店日常与可变主题承接陪伴，再以成人向平行世界分支服务不同阶段。9组官方视觉、10项产品、5篇笔记与真实平面实测。",
+  "owner": {
+    "creator": "奥村心雪",
+    "operator": "Sanrio／株式会社サンリオ",
+    "relation": "官方同期称奥村为作者，现行版权属Sanrio；原始合同与分配未知。2024离职后既有团队继续，2025活动列Team Cielみどり，不能替代原作者身份。",
+    "sources": [
+      "C01",
+      "C06",
+      "C07",
+      "C15"
+    ]
+  },
+  "origin": {
+    "path": [
+      "产品先行"
+    ],
+    "year": 2001,
+    "story": "官方记2001开发、2002年5月开始商品销售；官网2002指首发商品年。生日3月6日是世界观日期，不认作2002-03-06首售。",
+    "sources": [
+      "C01",
+      "C02",
+      "C03"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2001",
+      "event": "奥村心雪开发角色；官方回顾与同期署名交叉支持",
+      "type": "self_report",
+      "sources": [
+        "C01"
+      ]
+    },
+    {
+      "date": "2002-05",
+      "event": "开始商品销售；官网以2002为出道年",
+      "type": "self_report",
+      "sources": [
+        "C02"
+      ]
+    },
+    {
+      "date": "2007-12-22",
+      "event": "シナモン the movie公映，45分钟；票房未知",
+      "type": "fact",
+      "sources": [
+        "C08"
+      ]
+    },
+    {
+      "date": "2011-02-16",
+      "event": "甘×辛Marine面向长大的高中/大学年龄粉丝；当期策略自述",
+      "type": "self_report",
+      "sources": [
+        "C15"
+      ]
+    },
+    {
+      "date": "2023-06-11",
+      "event": "I.CINNAMOROLL成人向平行世界品牌发布",
+      "type": "self_report",
+      "sources": [
+        "C09"
+      ]
+    },
+    {
+      "date": "2024-11-11",
+      "event": "官方宣布奥村离职，由既有制作团队继续",
+      "type": "self_report",
+      "sources": [
+        "C06"
+      ]
+    },
+    {
+      "date": "2025-03-06",
+      "event": "首部定格动画公告，最初12话；后续不混写成初始集数",
+      "type": "self_report",
+      "sources": [
+        "C10"
+      ]
+    },
+    {
+      "date": "2025-06-29",
+      "event": "角色大赏最终第二，结束此前五连冠",
+      "type": "self_report",
+      "sources": [
+        "C12"
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "event": "单独3D动画发布，后续月更为公告计划",
+      "type": "self_report",
+      "sources": [
+        "C11"
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "event": "角色大赏最终第二，6,313,623票",
+      "type": "self_report",
+      "sources": [
+        "C13"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "安静地靠近，也能把日常变得轻一点。",
+    "sentence_type": "陪伴",
+    "basis": "inferred",
+    "sources": [
+      "C03",
+      "X01",
+      "X05"
+    ]
+  },
+  "core": {
+    "personality": "安静、亲人",
+    "emotion": "内收",
+    "action": "用大耳飞行，在咖啡店与客人相处，也会在客人膝上睡着",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "头像、咖啡日常、桌面收藏、随身包与礼物",
+    "behavior": "晒收藏、找特殊款、围绕生日和版本讨论；喜欢也会因款式/做工而不买",
+    "state": "假设：希望日常有一个轻柔熟悉、可以靠近的角色",
+    "conflict": "普遍可爱与不同人生阶段、不同拥有体验的需求并存",
+    "unsaid": "不必热闹，也想有一个在身边的伙伴",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "局部有头像使用者、毛绒收藏者、功能周边关注者和I分支观看者；总体统计未知",
+    "where": "官方店、联名商品、YouTube/电影/节目、人偶及小红书",
+    "buy": "X03收藏实拍支持可见持有，购入/金额自述；X04负面与放弃购买自述，非订单统计",
+    "signs": "玉桂妈、中古、梦情、挑脸、I喜拿、班味；自称与梗非官方人口分类",
+    "share": "周边拼贴、收藏墙、触感、做工、生日、头像与平行世界比较",
+    "breakout": "跨媒介与长大粉丝策略可核，独立拉新成交贡献未知"
+  },
+  "pendulum": {
+    "position": "软萌治愈",
+    "against": "研究归纳：横向白色长耳与安静亲人提供柔和入口；未取得2001同期审美份额，不编造反潮流成功因果"
+  },
+  "form": {
+    "archetype": "动物类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "整体轮廓",
+      "五官"
+    ],
+    "mark": "横向长耳、宽扁白头脸、宽距椭圆眼、小w嘴、粉腮红与卷尾组合；非兔子",
+    "face": "宽扁头脸、蓝色小竖椭圆眼、无鼻、小w嘴和两侧粉脸；星光眼、线色和嘴随主题变化",
+    "emotion": "内收",
+    "odd": "耳幅远大于身体，耳朵能飞；卷尾与命名相连",
+    "density": "极简",
+    "naming": "其他",
+    "group": "单角色",
+    "note": "本体单角色；朋友群与I平行世界分开"
+  },
+  "collide_combo": "原创避免整体搬用横向巨大白长耳＋宽扁头脸＋宽距蓝椭圆眼＋小w嘴/粉腮红＋肉桂卷尾的组合；可借“识别点兼具叙事功能”的方法，另建自己的物种、轮廓、脸与能力。",
+  "color": {
+    "mode": "白底加签名色",
+    "main": "白色本体、常见蓝眼/粉脸；主题描边有棕、蓝、白、金",
+    "signature": "白—蓝—粉为本体常见关系，非官方生产色号；I分支另列",
+    "notes": "V01四个不透明像素已核，不把蓝背景算主体；V03线描和V05星光眼为反例。"
+  },
+  "materials": "官方样本含毛绒刺绣/贴布、棉帆布、棉/聚酯/钢；具体按SKU，boa为绒面描述非纤维配比。",
+  "carrier": {
+    "primary": "授权图案",
+    "secondary": "动画",
+    "note": "商品先行后延展电影、定格、3D与料理节目；官方企划与授权合作并存，分支不等于原角色停用"
+  },
+  "product": {
+    "first_category": null,
+    "hit_category": null,
+    "hit_product": null,
+    "first_note": "2002年5月商品销售开始可核，首件具体SKU和销售冠军未知",
+    "price_band": "官方代表样本：日本2011/2024/2026发布JPY420—4796（年份/税口径不同）；美国访问USD22.80/68，C17检索记录25.99；菲律宾展示PHP1300。不混为中国统一价格带。",
+    "sources": [
+      "C02",
+      "C15",
+      "C16",
+      "C17",
+      "C18",
+      "C19",
+      "C20",
+      "C21"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "2025角色大赏最终名次",
+      "value": 2,
+      "unit": "名",
+      "period": "2025最终",
+      "type": "self_report",
+      "sources": [
+        "C12"
+      ],
+      "boundary": "活动最终，不是销量"
+    },
+    {
+      "metric": "2025角色大赏票数",
+      "value": 5427983,
+      "unit": "票",
+      "period": "2025活动",
+      "type": "self_report",
+      "sources": [
+        "C12"
+      ],
+      "boundary": "非独立人数或付费人数"
+    },
+    {
+      "metric": "2026角色大赏最终名次",
+      "value": 2,
+      "unit": "名",
+      "period": "2026最终",
+      "type": "self_report",
+      "sources": [
+        "C13"
+      ],
+      "boundary": "初报第一不替代最终"
+    },
+    {
+      "metric": "2026角色大赏票数",
+      "value": 6313623,
+      "unit": "票",
+      "period": "2026活动",
+      "type": "self_report",
+      "sources": [
+        "C13",
+        "C14"
+      ],
+      "boundary": "多渠道可累积，规则不必与2025完全相同"
+    },
+    {
+      "metric": "单IP收入/利润/授权费",
+      "value": null,
+      "unit": null,
+      "period": "截至2026-10-26",
+      "type": "fact",
+      "sources": [
+        "C12",
+        "C13",
+        "C15"
+      ],
+      "boundary": "本轮未核得，不移用公司口径或投票换算。"
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "让记忆点参与故事，而不只承担装饰。",
+      "type": "inference",
+      "evidence": "官方长耳用来飞行，卷尾对应肉桂卷命名；V01把横向耳幅和小身体形成对比，咖啡店提供关系与日常。",
+      "boundary": "设定存在不证明消费者都因这段故事买单；剪影辨识率未测。",
+      "sources": [
+        "C03",
+        "C04"
+      ]
+    },
+    {
+      "claim": "同一识别关系，进入不同主题与日常用途。",
+      "type": "inference",
+      "evidence": "V02贝雷帽/小熊、V04甜点杯、V05星空，C16毛绒与C18/C19棉帆布包；X02跨品类拼贴。",
+      "boundary": "图案变体不等于每种品类都有市场；商品功能需独立验证。",
+      "sources": [
+        "C03",
+        "C16",
+        "C18",
+        "C19",
+        "X02"
+      ]
+    },
+    {
+      "claim": "面对长大的粉丝，可以开分支而非覆盖原角色。",
+      "type": "inference",
+      "evidence": "2011面向高中生的产品，2023成人向I平行世界；X05有人从不适应外形到看动画后喜欢。",
+      "boundary": "官方目标并非实际年龄分布；个体自述不能量化内容转化，更不能把原角色写成低龄专属。",
+      "sources": [
+        "C09",
+        "C15",
+        "C21",
+        "X05"
+      ]
+    },
+    {
+      "claim": "喜欢角色之后，仍会挑款、挑触感、算价值。",
+      "type": "inference",
+      "evidence": "X03偏好特殊材质中古，X04质疑挂件做工与约120元价格，并见放弃购买反馈；C18官方也存在折扣。",
+      "boundary": "中古规格/成交价与挂件SKU未核；缺陷率、溢价率与复购率未知，折扣不判失败。",
+      "sources": [
+        "C18",
+        "X03",
+        "X04"
+      ]
+    }
+  ],
+  "counterexamples": "2025结束此前五连冠、2026仍第二，反驳一直第一，不等于经营衰退。C18折扣不是滞销证明；X04喜欢角色仍质疑具体款式价值，X05不适应分支外形亦有改变态度自述。",
+  "theory": {
+    "shell": "长耳横幅、扁白头脸、小五官与卷尾形成整体，头像裁切可能丢耳尾但未测试识别率。",
+    "core": "安静亲人不是拒绝社交；天空、咖啡、膝上睡觉与伙伴组成日常。I分支的自爱表达单列。",
+    "shadow": "白狗、蓝眼、腮红、云、甜点属于公共语汇，具体轮廓与组合、世界观、渠道积累不可自动复制。",
+    "two_layers": {
+      "surface": "假设：柔和脸和长耳带来即时可爱，头像/图案也可先于知道角色名被使用。",
+      "deep": "局部线索：辨本体与I分支、找中古特殊触感、收藏陈列和挑脸；并非所有粉丝都买所有新品。"
+    },
+    "validation": "官方销售页面/发售公告、收藏实拍、购买自述与放弃购买自述分别记录；无净销售、复购或人群统计，票与赞不代成交。"
+  },
+  "for_skills": {
+    "lab": "把安静亲人写成相处动作和关系，不以i人或治愈标签代替动机；不同成长阶段可另开表达分支。",
+    "form": "让记忆点参与能力、命名或行为，再建立独立外形；不搬用白色长耳蓝眼w嘴卷尾组合。",
+    "studio": "主题变化保留角色关系，跨载体另验功能；毛绒把耳根缝制、脸部一致性、触感/重量与价格预期作为样品核验项。"
+  },
+  "gaps": [
+    "2001作者和2002年5月出道有官方支持，首件具体SKU、首批用户行为和原始个人合同仍未知。",
+    "2024离职与团队延续可核；角色专属团队规模、成本、授权分成、合同地域/期限未披露。",
+    "未取得官方商务手册、技术三视图与完整生产色卡；本轮目标只限V01可见正面。",
+    "单IP独立收入、利润、授权费、净销售与实际复购率未知，不移用Sanrio集团数字；投票不作人数。",
+    "2011及2023是目标人群口径，不是当下年龄/性别/地域占比；没有连续30天官方互动采样。",
+    "5篇小红书为定向样本，多图仅封面、部分评论未展开；年份不明处未强补，无订单/真假/重量独立核验。",
+    "X03 Steiff年份、限量、价格和材料混合口径未独立确认；X04挂件未逐款匹配SKU，不推广全品牌质量。",
+    "C17检索服务可读官方商品全文，但直接URL请求404；展示价非实时可买保证，商品图未取得；C19库存字段冲突不采用。",
+    "X05配音、料理和国内开播等细节未逐集核实；班味/i人是社群投射，不改写官方世界观。",
+    "本轮仅测中文平面复现；英文、原创六条、3D/毛绒、重复稳定性与用户盲测未完成。",
+    "实测结论：3次真实生成：纯文字2次、附图1次。附图v1在V01当前官方主图可见正面的二维角色相似度上通过；纯文字版仍多出顶部发簇，未通过具体目标复现。附图结果保留描边略粗、局部曲率和轻微渐变/纹理差异，不是严格四平色、矢量或生产母版；英文和重复稳定性未测，未继续3D/毛绒。"
+  ],
+  "sources": [
+    {
+      "id": "C01",
+      "title": "Sanrio Times 奥村心雪采访",
+      "url": "https://sanriotimes.sanrio.co.jp/n/n55a732b3226a",
+      "publisher": "Sanrio／官方发布或官方店",
+      "published": "2022-09-14",
+      "observed": "2026-10-26",
+      "access": "full",
+      "retrieval": "opened_full_text",
+      "type": "self_report",
+      "supports": [
+        "奥村心雪2001年制作シナモロール；本人称受Little Twin Stars粉彩世界影响"
+      ],
+      "boundary": "官方当事人回顾，非独立销售验证。"
+    },
+    {
+      "id": "C02",
+      "title": "官方15周年公告",
+      "url": "https://prtimes.jp/main/html/rd/p/000000094.000007643.html",
+      "publisher": "Sanrio／官方发布或官方店",
+      "published": "2016-12-08",
+      "observed": "2026-10-26",
+      "access": "full",
+      "retrieval": "opened_full_text",
+      "type": "self_report",
+      "supports": [
+        "2001年开发；2002年5月开始商品销售；2017为出道15周年"
+      ],
+      "boundary": "2001创作和2002商业出道必须分列；未证明第一件具体商品。"
+    },
+    {
+      "id": "C03",
+      "title": "日本Sanrio角色档案",
+      "url": "https://www.sanrio.co.jp/characters/cinnamon/",
+      "publisher": "Sanrio／官方发布或官方店",
+      "published": null,
+      "observed": "2026-10-26",
+      "access": "full",
+      "retrieval": "opened_full_text",
+      "type": "self_report",
+      "supports": [
+        "2002明确指首次商品发售年；生日3月6日；白色小狗男孩；长耳飞行，肉桂卷尾巴",
+        "本名シナモン，咖啡店看板犬；安静亲人；朋友Cappuccino/Mocha/Chiffon/Espresso/Milk等"
+      ],
+      "boundary": "世界观设定；不是兔子，不把生日写成2002-03-06发售日。"
+    },
+    {
+      "id": "C04",
+      "title": "大陆三丽鸥角色页",
+      "url": "https://www.sanrio.com.cn/m/family_details4.html",
+      "publisher": "Sanrio／官方发布或官方店",
+      "published": null,
+      "observed": "2026-10-26",
+      "access": "full",
+      "retrieval": "opened_full_text",
+      "type": "self_report",
+      "supports": [
+        "中文官方称大耳狗，名喜拿"
+      ],
+      "boundary": "玉桂狗为常见别称，本页未用；不强行替换用户称呼。"
+    },
+    {
+      "id": "C05",
+      "title": "台湾Gift Gate生日见面会",
+      "url": "https://www.sanriogiftgate.com.tw/blogs/news/64721",
+      "publisher": "台湾Gift Gate／丽婴国际",
+      "published": "2021-03-12",
+      "observed": "2026-10-26",
+      "access": "full",
+      "retrieval": "opened_full_text",
+      "type": "fact",
+      "supports": [
+        "台湾官方购物渠道使用大耳狗喜拿"
+      ],
+      "boundary": "为丽婴国际运营Gift Gate，不写成Sanrio日本统一命名规则。"
+    },
+    {
+      "id": "C06",
+      "title": "奥村心雪离职公告",
+      "url": "https://sanriotimes.sanrio.co.jp/n/nc556ba7ff2b8",
+      "publisher": "Sanrio／官方发布或官方店",
+      "published": "2024-11-11",
+      "observed": "2026-10-26",
+      "access": "full",
+      "retrieval": "opened_full_text",
+      "type": "self_report",
+      "supports": [
+        "奥村主动提出离职；既有制作团队继续角色工作"
+      ],
+      "boundary": "未披露私人原因/合同/所有权转移；离职非IP停运。"
+    },
+    {
+      "id": "C07",
+      "title": "Team Ciel担当签名活动",
+      "url": "https://www.sanrio.co.jp/news/spots/event-tobu-ikebukuro-0913-20250821/",
+      "publisher": "Sanrio／官方发布或官方店",
+      "published": "2025-08-21",
+      "observed": "2026-10-26",
+      "access": "full",
+      "retrieval": "opened_full_text",
+      "type": "self_report",
+      "supports": [
+        "官方列担当为Team Ciel みどり；2025-09-13签名会"
+      ],
+      "boundary": "不能称其2001原创者，也不补未经证实的全名。"
+    },
+    {
+      "id": "C08",
+      "title": "松竹电影数据库",
+      "url": "https://www.shochiku.co.jp/cinema/database/04679/",
+      "publisher": "松竹电影数据库",
+      "published": null,
+      "observed": "2026-10-26",
+      "access": "full",
+      "retrieval": "opened_full_text",
+      "type": "fact",
+      "supports": [
+        "シナモン the movie于2007-12-22公映；45分钟"
+      ],
+      "boundary": "发行方事实记录；票房未知。"
+    },
+    {
+      "id": "C09",
+      "title": "I.CINNAMOROLL品牌发布",
+      "url": "https://prtimes.jp/main/html/rd/p/000000499.000037629.html",
+      "publisher": "Sanrio／官方发布或官方店",
+      "published": "2023-06-11",
+      "observed": "2026-10-26",
+      "access": "full",
+      "retrieval": "opened_full_text",
+      "type": "self_report",
+      "supports": [
+        "面向成人的新品牌；假如没有遇到咖啡店姐姐的平行世界；自爱主题",
+        "2023-10-07开始TBS与安田显烹饪节目，10月动画计划"
+      ],
+      "boundary": "目标受众不是实际购买人群比例；不是原角色改名/停止。"
+    },
+    {
+      "id": "C10",
+      "title": "首次定格动画",
+      "url": "https://www.sanrio.co.jp/news/movies/cn-youtube-stop-motion-animation-20250306/",
+      "publisher": "Sanrio／官方发布或官方店",
+      "published": "2025-03-06",
+      "observed": "2026-10-26",
+      "access": "full",
+      "retrieval": "opened_full_text",
+      "type": "self_report",
+      "supports": [
+        "2025-03-06起每周YouTube播出Let’s Roll,Cinnamoroll；公告首批12话"
+      ],
+      "boundary": "后续扩展不能反写为最初24集。观看效果未知。"
+    },
+    {
+      "id": "C11",
+      "title": "首次单独3D动画",
+      "url": "https://www.sanrio.co.jp/news/movies/cn-3d-animation-20260306/",
+      "publisher": "Sanrio／官方发布或官方店",
+      "published": "2026-03-06",
+      "observed": "2026-10-26",
+      "access": "full",
+      "retrieval": "opened_full_text",
+      "type": "self_report",
+      "supports": [
+        "Welcome to Sucre Town，3月6日首映；4至6月每月1话计划"
+      ],
+      "boundary": "公告不等于每集播放量；未据公告确认全部排期实际履行。"
+    },
+    {
+      "id": "C12",
+      "title": "2025角色大赏最终结果",
+      "url": "https://corporate.sanrio.co.jp/news/assets/pdf/2025/20250629234414182s.pdf",
+      "publisher": "Sanrio／官方发布或官方店",
+      "published": "2025-06-29",
+      "observed": "2026-10-26",
+      "access": "full",
+      "retrieval": "pdf_text_and_downloaded_page_visually_read",
+      "type": "self_report",
+      "supports": [
+        "第2名、5,427,983票（PDF首面图目视）；结束此前5连冠"
+      ],
+      "boundary": "票数非独立人数、销售额；排名不是市场份额。"
+    },
+    {
+      "id": "C13",
+      "title": "2026角色大赏最终结果",
+      "url": "https://corporate.sanrio.co.jp/news/20260628_01.html",
+      "publisher": "Sanrio／官方发布或官方店",
+      "published": "2026-06-28",
+      "observed": "2026-10-26",
+      "access": "full",
+      "retrieval": "html_and_official_chart_visually_read",
+      "type": "self_report",
+      "supports": [
+        "最终第2、6,313,623票；初回第1、中间第2（官方榜图）"
+      ],
+      "boundary": "榜图URL https://corporate.sanrio.co.jp/news/assets/images/20260628_01-03.jpg；不可称2026最终第一。"
+    },
+    {
+      "id": "C14",
+      "title": "2026角色大赏规则",
+      "url": "https://corporate.sanrio.co.jp/news/assets/pdf/2026/20260310103039703s.pdf",
+      "publisher": "Sanrio／官方发布或官方店",
+      "published": "2026-03-10",
+      "observed": "2026-10-26",
+      "access": "full",
+      "retrieval": "opened_full_text",
+      "type": "self_report",
+      "supports": [
+        "90角色，4月9日至5月24日投票；网页、购物、草莓新闻、会员积分及票券多渠道"
+      ],
+      "boundary": "非一人一票抽样调研；2025/2026规则不可假设完全一致。"
+    },
+    {
+      "id": "C15",
+      "title": "2011甘×辛Marine系列官方发布",
+      "url": "https://corporate.sanrio.co.jp/news/assets/pdf/2011/20220413111040134s.pdf",
+      "publisher": "Sanrio／官方发布或官方店",
+      "published": "2011-01-21",
+      "observed": "2026-10-26",
+      "access": "full",
+      "retrieval": "opened_full_text",
+      "type": "self_report",
+      "supports": [
+        "2011-02-16首个面向高中生系列24件；B6笔记本420日元；当时初代小学生粉丝长大",
+        "同期直接写シナモロール作者奥村心雪"
+      ],
+      "boundary": "同期受众定位自述，不是今天画像；文件路径2022为归档不可改发布日期。没有收入下降数据。"
+    },
+    {
+      "id": "C16",
+      "title": "经典12英寸毛绒美国官方",
+      "url": "https://www.sanrio.com/collections/sanrio-originals/products/cinnamoroll-12-large-classic-plush-sanrio-original-series",
+      "publisher": "Sanrio／官方发布或官方店",
+      "published": null,
+      "observed": "2026-10-26",
+      "access": "full",
+      "retrieval": "opened_full_text",
+      "type": "fact",
+      "supports": [
+        "148431；USD68；约12英寸；刺绣贴布"
+      ],
+      "boundary": "发布日期及纤维成分未知。"
+    },
+    {
+      "id": "C17",
+      "title": "Dreamy Sleepover8英寸毛绒",
+      "url": "https://www.sanrio.com/products/cinnamoroll-8-plush-dreamy-sleepover-series",
+      "publisher": "Sanrio／官方发布或官方店",
+      "published": null,
+      "observed": "2026-10-26",
+      "access": "full",
+      "retrieval": "官方页面检索全文；直接URL请求404",
+      "type": "fact",
+      "supports": [
+        "622311；USD25.99，页面划线价34；毛绒睡衣眼罩"
+      ],
+      "boundary": "折扣观察不能证明滞销；上市日期未知。检索服务可读官方页面（抓取标注约两周前），本轮直接请求该商品URL返回404，未取得原图；价格作可检索记录，不保证实时可买或库存。"
+    },
+    {
+      "id": "C18",
+      "title": "Convertible Cotton Mini Tote",
+      "url": "https://www.sanrio.com/products/cinnamoroll-convertible-cotton-mini-tote-bag",
+      "publisher": "Sanrio／官方发布或官方店",
+      "published": null,
+      "observed": "2026-10-26",
+      "access": "full",
+      "retrieval": "opened_full_text",
+      "type": "fact",
+      "supports": [
+        "069906；USD22.80，划线38；棉帆布；8.5×6×8.5英寸"
+      ],
+      "boundary": "此为美国访问现价，非中国价格；折扣不等于失败。"
+    },
+    {
+      "id": "C19",
+      "title": "2WAY CANVAS TOTE全球官方店",
+      "url": "https://shop.fromjp.sanrio.co.jp/products/e-2505-615226",
+      "publisher": "Sanrio／官方发布或官方店",
+      "published": null,
+      "observed": "2026-10-26",
+      "access": "full",
+      "retrieval": "opened_full_text",
+      "type": "fact",
+      "supports": [
+        "615226；页面菲律宾区域PHP1300含税；25×13×21cm；棉/聚酯/钢"
+      ],
+      "boundary": "日本发货不等于日元价；Sold out与Stock7并存，不采信库存状态。编码不作为发售月证据。"
+    },
+    {
+      "id": "C20",
+      "title": "水色四叶草生日系列",
+      "url": "https://www.sanrio.co.jp/news/goods/cn-light-blue-clover-202603/",
+      "publisher": "Sanrio／官方发布或官方店",
+      "published": "2026-02-25",
+      "observed": "2026-10-26",
+      "access": "full",
+      "retrieval": "opened_full_text",
+      "type": "fact",
+      "supports": [
+        "通常2026-03-04日本发售，Sunshine City2月27先发，部分地区3月5",
+        "抱抱毛绒4796、A4托特3696、贴纸550、包挂2200日元含税"
+      ],
+      "boundary": "尺寸/完整材料未披露；系列价不是独立SKU销量。"
+    },
+    {
+      "id": "C21",
+      "title": "I.CINNAMOROLL毛绒商品",
+      "url": "https://www.sanrio.co.jp/news/goods/in-202401/",
+      "publisher": "Sanrio／官方发布或官方店",
+      "published": null,
+      "observed": "2026-10-26",
+      "access": "full",
+      "retrieval": "opened_full_text",
+      "type": "fact",
+      "supports": [
+        "2024-01-11日本推出；毛绒2970日元含税"
+      ],
+      "boundary": "材料成分/尺寸未读到；不能把软糯触感当具体材料。"
+    },
+    {
+      "id": "X01",
+      "title": "每天认识一个IP｜大耳狗🐾生日快乐",
+      "url": "https://www.xiaohongshu.com/explore/69a6d456000000002602e4a4",
+      "publisher": "小红书／品牌研究所（求关注版",
+      "published": "编辑于03-06，页面未展示年份",
+      "observed": "2026-10-26",
+      "access": "partial",
+      "type": "self_report",
+      "supports": "正文主要为生日与角色标签；封面为围蓝白围巾、抱膝白色长耳角色的介绍图。置顶邀请分享喜欢的周边；评论有生日祝福、自述使用头像多年仍不知角色名，也有不在意角色男女只喜欢可爱的表达。",
+      "boundary": "正文、1/5封面、已加载可见评论（总110，未展开全部）；围巾抱膝是整理配图，不确定原始图源，不作官方基础母版；生日互动、头像使用与周边意愿均非成交。"
+    },
+    {
+      "id": "X02",
+      "title": "🛒玉桂狗周边合集🌟好软萌可爱的宝宝呀",
+      "url": "https://www.xiaohongshu.com/explore/6936a53c000000000d0378c3",
+      "publisher": "小红书／五月搜罗记",
+      "published": "2025-12-08",
+      "observed": "2026-10-26",
+      "access": "partial",
+      "type": "self_report",
+      "supports": "封面拼贴毛绒、杯、包、钟表、旅行用品与小饰物，正文只有分享标签；评论问合计价格，也有代购推广。",
+      "boundary": "正文、1/5拼贴封面、4条可见评论；图内小字未逐项读取，款式、授权、材料、价格和是否持有均未独立核；拼贴不是官方全品类目录。"
+    },
+    {
+      "id": "X03",
+      "title": "奖励自己一只玉桂狗",
+      "url": "https://www.xiaohongshu.com/explore/6a05ff74000000003701e21f",
+      "publisher": "小红书／b.mo",
+      "published": "05-15，页面未展示年份",
+      "observed": "2026-10-26",
+      "access": "partial",
+      "type": "self_report",
+      "supports": "作者自述购入2017 Steiff联名中古，约3k，触感不同于软毛绒、偏沉，提及耳部豆豆与可重绑蝴蝶结，并希望继续收集特殊款。封面为多款角色收藏陈列。",
+      "boundary": "正文、当前封面收藏实拍（图数未确认）、3条可见评论；作者承认加滤镜与细节图；17年、3k、限量1500和49%马海毛/51%棉的混合口径未经独立核；不填入官方规格、实际成交或二手行情，封面也不等于逐件核SKU。"
+    },
+    {
+      "id": "X04",
+      "title": "我是玉桂妈我不是收割机",
+      "url": "https://www.xiaohongshu.com/explore/6a48a8b8000000001c0263da",
+      "publisher": "小红书／Kuun",
+      "published": "07-04，页面未展示年份",
+      "observed": "2026-10-26",
+      "access": "partial",
+      "type": "self_report",
+      "supports": "作者质疑一款棕色夏装挂件约120元的价值、耳朵缝制不对称、衣服和头颈做工、限购分批次；封面为手持棕色长耳蓝眼角色，戴草帽蓝眼镜、蓝白衣。评论有人自述看到实物后不想买或被拔草。",
+      "boundary": "正文、当前单张手持实拍、已加载可见评论（总13，未展开全部）；没有独立核SKU、授权/真伪、订单、缺陷率或现行定价，不把个人对性价比和限购的不满推广全品牌；棕色主题不能直接判身份失败。"
+    },
+    {
+      "id": "X05",
+      "title": "三丽鸥两只玉桂狗的相似点与不同点比较",
+      "url": "https://www.xiaohongshu.com/explore/69a973ff000000002202d8a0",
+      "publisher": "小红书／不甘寂寞的小康",
+      "published": "编辑于03-13，页面未展示年份",
+      "observed": "2026-10-26",
+      "access": "partial",
+      "type": "self_report",
+      "supports": "作者比较本体与I喜拿的平行世界、关系和自爱主题；评论讨论班味、内向、希望两者相遇，也有人说最初以为同人，观看动画后逐渐喜欢。",
+      "boundary": "正文、对照封面（总图数未确认）、已加载可见评论（总198，未逐条展开）；成人目标与平行世界由C09官方交叉核实；年龄偏好、MBTI和班味是用户投射，不当总体画像；配音、国内开播与节目细节未逐集复核；动画后喜欢是自述非实验因果。"
+    }
+  ],
+  "archive": "research/cinnamoroll/2026-10-26/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/cinnamoroll/2026-10-26/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/cinnamoroll/2026-10-26/"
+}

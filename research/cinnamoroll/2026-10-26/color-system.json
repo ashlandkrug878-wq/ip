@@ -1,0 +1,116 @@
+{
+  "colors": [
+    {
+      "name": "白",
+      "hex_preview": "#ffffff",
+      "palette_id": "current-official-profile",
+      "color_id": "white",
+      "role": "main",
+      "scope": "current_profile_illustration",
+      "value_basis": "image_sample",
+      "surface_or_region": "本体",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "C03"
+      ],
+      "sample_coordinates_or_mask": [
+        470,
+        190
+      ],
+      "sample_method": "1004×560原始RGBA PNG，左上角为原点，不透明单像素RGB；未校色",
+      "area_basis": "visual_estimate",
+      "area_description": "大面积白、小面积脸部色；无主体分割和面积百分比",
+      "material_context": "二维插画屏幕色，不是实物纤维或移印色",
+      "variation_boundary": "主图四点不是全IP生产色标准",
+      "uncertainty": "没有官方色卡，不能直接作印刷/纤维验收。"
+    },
+    {
+      "name": "暖棕",
+      "hex_preview": "#bd946a",
+      "palette_id": "current-official-profile",
+      "color_id": "line",
+      "role": "line_face",
+      "scope": "current_profile_illustration",
+      "value_basis": "image_sample",
+      "surface_or_region": "描边与嘴",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "C03"
+      ],
+      "sample_coordinates_or_mask": [
+        520,
+        111
+      ],
+      "sample_method": "1004×560原始RGBA PNG，左上角为原点，不透明单像素RGB；未校色",
+      "area_basis": "visual_estimate",
+      "area_description": "大面积白、小面积脸部色；无主体分割和面积百分比",
+      "material_context": "二维插画屏幕色，不是实物纤维或移印色",
+      "variation_boundary": "主图四点不是全IP生产色标准",
+      "uncertainty": "没有官方色卡，不能直接作印刷/纤维验收。"
+    },
+    {
+      "name": "天蓝",
+      "hex_preview": "#52c3f1",
+      "palette_id": "current-official-profile",
+      "color_id": "blue",
+      "role": "accent",
+      "scope": "current_profile_illustration",
+      "value_basis": "image_sample",
+      "surface_or_region": "眼睛",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "C03"
+      ],
+      "sample_coordinates_or_mask": [
+        387,
+        230
+      ],
+      "sample_method": "1004×560原始RGBA PNG，左上角为原点，不透明单像素RGB；未校色",
+      "area_basis": "visual_estimate",
+      "area_description": "大面积白、小面积脸部色；无主体分割和面积百分比",
+      "material_context": "二维插画屏幕色，不是实物纤维或移印色",
+      "variation_boundary": "主图四点不是全IP生产色标准",
+      "uncertainty": "没有官方色卡，不能直接作印刷/纤维验收。"
+    },
+    {
+      "name": "浅粉",
+      "hex_preview": "#fadce9",
+      "palette_id": "current-official-profile",
+      "color_id": "pink",
+      "role": "accent",
+      "scope": "current_profile_illustration",
+      "value_basis": "image_sample",
+      "surface_or_region": "脸颊",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "C03"
+      ],
+      "sample_coordinates_or_mask": [
+        351,
+        277
+      ],
+      "sample_method": "1004×560原始RGBA PNG，左上角为原点，不透明单像素RGB；未校色",
+      "area_basis": "visual_estimate",
+      "area_description": "大面积白、小面积脸部色；无主体分割和面积百分比",
+      "material_context": "二维插画屏幕色，不是实物纤维或移印色",
+      "variation_boundary": "主图四点不是全IP生产色标准",
+      "uncertainty": "没有官方色卡，不能直接作印刷/纤维验收。"
+    }
+  ],
+  "signature_boundary": "白色长耳与蓝眼/粉脸是本体常见关系；V02深蓝五官、V03底色透出、V05金线星眼均为变化。I分支无同款脸颊/嘴，另列。",
+  "environment": "蓝格纹、糖果、杯子、夜空、彩虹和云归环境/主题，不计入主图四点。",
+  "untested": [
+    "头像裁切/剪影/灰度辨识率",
+    "深浅背景用户测试",
+    "实体5cm辨识",
+    "印刷与纤维色差"
+  ]
+}
