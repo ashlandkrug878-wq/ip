@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "evidence_count": 17,
+  "evidence_count": 20,
   "evidence": [
     {
       "id": "2026w42-5",
@@ -12,6 +12,39 @@
       "expression": "别问静静是谁，今天我不在线",
       "mark": "两片合拢软壳、低位闭眼与露出的鞋头；不靠头顶灯泡和卧室布景。",
       "source": "data/reviews/2026w42-5.json"
+    },
+    {
+      "id": "daily-20261025-03",
+      "batch": "daily-20261025",
+      "name": "侧镜客",
+      "quote": "不好看 淘汰",
+      "updated_at": "2026-10-28T13:03:03.457Z",
+      "origin": "镜面操纵视角与权力关系",
+      "expression": "我站的位置，不等于全部真相",
+      "mark": "偏置镜面短刘海",
+      "source": "data/reviews/daily-20261025-03.json"
+    },
+    {
+      "id": "daily-20261025-04",
+      "batch": "daily-20261025",
+      "name": "潮生团",
+      "quote": "质感还行 但是不好看 不够特别",
+      "updated_at": "2026-10-28T13:03:21.042Z",
+      "origin": "“湿润之物仿佛有生命”水装置",
+      "expression": "还会晃，就还活着",
+      "mark": "透明水囊头＋单颗悬浮泡",
+      "source": "data/reviews/daily-20261025-04.json"
+    },
+    {
+      "id": "daily-20261025-05",
+      "batch": "daily-20261025",
+      "name": "旧厂雀",
+      "quote": "普通 淘汰",
+      "updated_at": "2026-10-28T13:03:29.460Z",
+      "origin": "回收工业材料、城市共同创作",
+      "expression": "城市丢下的边角，也能替我挡雨",
+      "mark": "折弯旧屋檐羽冠",
+      "source": "data/reviews/daily-20261025-05.json"
     },
     {
       "id": "daily-20261026-01",
