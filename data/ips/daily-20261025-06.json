@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261025",
   "order": 6,
-  "name": "绸蚕",
-  "en": "daily-20261025-06",
+  "name": "蚕蚕",
+  "en": "Cancan",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -50,5 +50,21 @@
   "zh": "直立蚕宝宝，头顶一条手绘丝绸折成不规则单环，窄眼放空，奶白极简分节短绒身，抱丝卷，搪胶毛绒全身产品图。 EN: Original upright silkworm with one irregular loop of hand-painted silk above the head, narrow vacant eyes, minimal ivory segmented plush body, holding a silk spool, full-body vinyl-plush concept.",
   "enp": "Original upright silkworm with one irregular loop of hand-painted silk above the head, narrow vacant eyes, minimal ivory segmented plush body, holding a silk spool, full-body vinyl-plush concept.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "绸蚕",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "蚕蚕"
+    ],
+    "descriptive": [
+      "丝带蚕"
+    ],
+    "sound": [
+      "沙沙"
+    ],
+    "why": "直立的蚕宝宝，头顶一条手绘绸带",
+    "checks": "顺口；能当小名；看图能猜到；谐音「惨惨」声调不同，轻微；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

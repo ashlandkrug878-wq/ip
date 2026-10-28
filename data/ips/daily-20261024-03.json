@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261024",
   "order": 3,
-  "name": "静响偶",
-  "en": "daily-20261024-03",
+  "name": "珠珠",
+  "en": "Zhuzhu",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -54,5 +54,21 @@
   "zh": "细长中性类人偶，闭眼，灰紫连体服，一侧太阳穴升起不对称陶瓷大珠弧环，哑光PVC与缎面陶珠，全身棚拍。",
   "enp": "ce 的陶珠、手作与感官连接；转成“轻触头环才会听见细微声音”。",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "静响偶",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "珠珠"
+    ],
+    "descriptive": [
+      "陶珠环"
+    ],
+    "sound": [
+      "叮咚"
+    ],
+    "why": "太阳穴升起一串不对称陶珠",
+    "checks": "顺口；能当小名；谐音「猪猪」偏可爱，无不雅；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

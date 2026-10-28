@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261026",
   "order": 3,
-  "name": "圈座团",
-  "en": "daily-20261026-03",
+  "name": "窝窝",
+  "en": "Wowo",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -50,5 +50,22 @@
   "zh": "的conversation pit与亲密观看；“靠近一点，不必立刻说话”｜陪伴型。",
   "enp": "Original conversation-pit creature with a circular recessed seat head, caramel velvet and deep teal.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "圈座团",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "窝窝"
+    ],
+    "descriptive": [
+      "沙发窝",
+      "下沉座"
+    ],
+    "sound": [
+      "噗"
+    ],
+    "why": "整个身体是一圈下沉的沙发座，可以窝进去",
+    "checks": "顺口；能当小名；会联想窝窝头，亲切；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

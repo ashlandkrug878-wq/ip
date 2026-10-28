@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261027",
   "order": 1,
-  "name": "隐光客",
-  "en": "daily-20261027-01",
+  "name": "调调",
+  "en": "Tiaotiao",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -62,5 +62,22 @@
   "zh": "中性类人PVC盲盒，半明半暗滑动光闸横跨额眼，2.3头身，石墨灰雾白电青，单手调光，完整全身，灰色棚拍。",
   "enp": "Original gender-neutral 2.3-head PVC figure, half-clear half-smoked sliding optical shutter across forehead and eyes, graphite/fog white/electric cyan, hand adjusting visor, full body studio product render.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "隐光客",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "调调"
+    ],
+    "descriptive": [
+      "光闸头",
+      "遮光帽"
+    ],
+    "sound": [
+      "咔"
+    ],
+    "why": "额前一块可以滑动的光闸，自己调亮暗；「调调」也是「有自己的调调」",
+    "checks": "顺口；能当小名；看图要配说明；无不雅谐音；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

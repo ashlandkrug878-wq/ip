@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261026",
   "order": 9,
-  "name": "锚睡鱼",
-  "en": "daily-20261026-09",
+  "name": "锚锚",
+  "en": "Maomao",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -50,5 +50,23 @@
   "zh": "深海蓝小鱼，圆钝倒U软锚冠，抱住尾巴，困眼，搪胶毛绒。EN: Original deep-sea fish plush with a rounded soft anchor-shaped crown, sleepy eyes and tail held in both arms.",
   "enp": "Original deep-sea fish plush with a rounded soft anchor-shaped crown, sleepy eyes and tail held in both arms.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "锚睡鱼",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "锚锚",
+      "困困"
+    ],
+    "descriptive": [
+      "软锚鱼",
+      "睡锚鱼"
+    ],
+    "sound": [
+      "咕噜"
+    ],
+    "why": "头顶一个软锚，先把自己停稳；谐音「猫猫」可爱",
+    "checks": "顺口；能当小名；看图能猜到（锚）；谐音猫猫，无碍；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

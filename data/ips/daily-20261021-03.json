@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261021",
   "order": 3,
-  "name": "绵劲",
-  "en": "daily-20261021-03",
+  "name": "推推",
+  "en": "Tuitui",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -70,5 +70,22 @@
   "zh": "性的矿物配色。",
   "enp": "Round weighted original creature, two comma-shaped head lobes forming a circular void, one palm pushing, ink black/rice white/cinnabar dot, rough matte PVC collectible.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "绵劲",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "推推",
+      "绵绵"
+    ],
+    "descriptive": [
+      "逗号角"
+    ],
+    "sound": [
+      "推推"
+    ],
+    "why": "表达是「把世界推开一点」，姿势也是推",
+    "checks": "顺口；能当小名；看图能猜到（推的手势）；无不雅谐音；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

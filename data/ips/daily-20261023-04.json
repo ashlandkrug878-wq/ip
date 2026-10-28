@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261023",
   "order": 4,
-  "name": "丝扣",
-  "en": "daily-20261023-04",
+  "name": "绕绕",
+  "en": "Raorao",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -58,5 +58,22 @@
   "zh": "性类人、2.2头身柱体；窄眼[公共]、单线空心结冠[专属]。",
   "enp": "Vermilion gender-neutral humanoid with one continuous brass filigree line forming an open mechanical knot above the head, black lacquer column body, hard-PVC collectible.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "丝扣",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "绕绕",
+      "结结"
+    ],
+    "descriptive": [
+      "结冠人"
+    ],
+    "sound": [
+      "绕"
+    ],
+    "why": "头顶一根绕成空心结的线，表达是「绕远一点也能扣住自己」",
+    "checks": "顺口；能当小名；看图能猜到（绕线）；无不雅谐音；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

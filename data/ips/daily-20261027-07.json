@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261027",
   "order": 7,
-  "name": "锅响怪",
-  "en": "daily-20261027-07",
+  "name": "哐哐",
+  "en": "Kuangkuang",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -62,5 +62,24 @@
   "zh": "单一燕麦黄毛绒怪，头后偏置单个铁锅声晕，举玉米软槌，辣椒红槌头，完整全身产品图。",
   "enp": "One oat-yellow plush creature, single off-center black iron-pan sound halo behind head, raising corn-cob mallet with red soft tip, full body.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "锅响怪",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "锅锅",
+      "哐哐"
+    ],
+    "descriptive": [
+      "背锅团子",
+      "铁锅怪"
+    ],
+    "sound": [
+      "哐哐",
+      "当当"
+    ],
+    "why": "背着铁锅、举槌，一敲就「哐」，对应「没意义也要响一声」",
+    "checks": "顺口；能当小名；看图能猜到（锅）；无不雅谐音；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

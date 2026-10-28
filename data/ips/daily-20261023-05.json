@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261023",
   "order": 5,
-  "name": "橙壳",
-  "en": "daily-20261023-05",
+  "name": "橙橙",
+  "en": "Chengcheng",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -58,5 +58,22 @@
   "zh": "象牙纤维茧状原创生物，一条半透明橙皮宽带从头顶螺旋包身，极简五官，1.5头身PVC潮玩。",
   "enp": "Ivory fibrous cocoon creature wrapped by one broad translucent orange-peel spiral growing from its crown, minimal face, 1.5-head sculptural PVC collectible.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "橙壳",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "橙橙"
+    ],
+    "descriptive": [
+      "橙皮茧",
+      "剥皮团"
+    ],
+    "sound": [
+      "剥剥"
+    ],
+    "why": "一条橙皮螺旋包住全身",
+    "checks": "顺口；能当小名；看图能猜到；谐音「成成」无碍；常用昵称，撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

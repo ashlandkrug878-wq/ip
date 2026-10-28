@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261023",
   "order": 1,
-  "name": "霜边仔",
-  "en": "daily-20261023-01",
+  "name": "冻冻",
+  "en": "Dongdong",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -58,5 +58,23 @@
   "zh": "单角色甲虫形搪胶毛绒，前额一枚透明霜月刃，炭灰短绒，抱臂，1.6头身，成人潮玩，灰底全身棚拍。",
   "enp": "Single beetle-like vinyl-plush collectible, one translucent frosted crescent blade on forehead, charcoal short fur, arms hugging body, 1.6-head proportion, full-body studio product shot.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "霜边仔",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "冻冻",
+      "霜霜"
+    ],
+    "descriptive": [
+      "霜角虫",
+      "月刃甲"
+    ],
+    "sound": [
+      "咔咔"
+    ],
+    "why": "额前一枚霜冻月刃，缩着身体的冷，叫冻冻好记",
+    "checks": "顺口；能当小名；看图能猜到（霜）；谐音「东东」无碍；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

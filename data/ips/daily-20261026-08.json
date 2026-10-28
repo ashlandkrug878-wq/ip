@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261026",
   "order": 8,
-  "name": "漂纤兽",
-  "en": "daily-20261026-08",
+  "name": "飘飘",
+  "en": "Piaopiao",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -50,5 +50,21 @@
   "zh": "无动物耳原创梨形生物，头顶三股粗纤维桥从土红过渡到海蓝。EN: Original earless pear-shaped creature with a three-strand fibre bridge transitioning from earth red to ocean blue.",
   "enp": "Original earless pear-shaped creature with a three-strand fibre bridge transitioning from earth red to ocean blue.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "漂纤兽",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "飘飘"
+    ],
+    "descriptive": [
+      "纤维冠"
+    ],
+    "sound": [
+      "呼"
+    ],
+    "why": "头顶三股纤维从土红飘到海蓝，「换一片土地」",
+    "checks": "顺口；能当小名；看图能联想；无不雅谐音；常用词，撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

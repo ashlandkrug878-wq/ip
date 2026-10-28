@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261021",
   "order": 8,
-  "name": "留隙",
-  "en": "daily-20261021-08",
+  "name": "圈圈",
+  "en": "Quanquan",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -70,5 +70,22 @@
   "zh": "出现暖金属、曲线与“分隔但不挡光”的格栅；属行业编辑趋势信号。",
   "enp": "Oval-headed humanoid with one warm-bronze open lattice halo, holding an empty rectangle, terracotta and deep plum matte PVC collectible.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "留隙",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "圈圈",
+      "环环"
+    ],
+    "descriptive": [
+      "铜圈人"
+    ],
+    "sound": [
+      "叮"
+    ],
+    "why": "头上一个青铜开格圆环",
+    "checks": "顺口；能当小名；看图能猜到；无不雅谐音；常用词，撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261024",
   "order": 9,
-  "name": "倦肢椅",
-  "en": "daily-20261024-09",
+  "name": "瘫瘫",
+  "en": "Tantan",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -54,5 +54,24 @@
   "zh": "拟人椅子毛绒角色，深甜菜红圆角椅背头，顶部两枚不对称下垂软肩瓣，半垂眼，超长垂臂，雾蓝靠垫，全身短绒产品棚拍。",
   "enp": "Anthropomorphic plush chair creature, deep beet-red rounded chair-back head, two asymmetric drooping padded shoulder lobes, sleepy eyes, very long hanging arms, pale-blue cushion, full-body studio product render.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "倦肢椅",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "瘫瘫",
+      "椅椅"
+    ],
+    "descriptive": [
+      "下班椅",
+      "沙发人"
+    ],
+    "sound": [
+      "唉唉",
+      "噗通"
+    ],
+    "why": "椅子身体加超长垂臂，整个人瘫着，就是「身体先下班」",
+    "checks": "顺口；能当小名；看图能猜到；无不雅谐音；撞名待查（探探 App 读音 tàntàn，声调不同）",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

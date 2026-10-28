@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261028",
   "order": 7,
-  "name": "空袋客",
-  "en": "daily-20261028-07",
+  "name": "袋袋",
+  "en": "Daidai",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -62,5 +62,22 @@
   "zh": "",
   "enp": "Z 玩乐祭；**表达**：我不是来吓你，是来装走尴尬（自嘲型）。",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "空袋客",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "袋袋"
+    ],
+    "descriptive": [
+      "纸袋头",
+      "新月眼"
+    ],
+    "sound": [
+      "哗啦"
+    ],
+    "why": "头是一个只开了一只新月眼的纸袋",
+    "checks": "顺口；能当小名；看图能猜到；无不雅谐音；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

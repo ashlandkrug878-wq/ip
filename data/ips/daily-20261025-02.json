@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261025",
   "order": 2,
-  "name": "铜名兽",
-  "en": "daily-20261025-02",
+  "name": "摁摁",
+  "en": "Enen",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -50,5 +50,22 @@
   "zh": "深棕短绒原创小兽，圆钝头，额头单枚黄铜锤揲拇指印徽片，宽眼距小眼，举名牌，搪胶毛绒全身产品图。 EN: Original dark-brown plush creature with a blunt round head, one hammered-brass fingerprint medallion on the forehead, wide-set tiny eyes, holding a name plaque, vinyl-plush full-body product concept.",
   "enp": "Original dark-brown plush creature with a blunt round head, one hammered-brass fingerprint medallion on the forehead, wide-set tiny eyes, holding a name plaque, vinyl-plush full-body product concept.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "铜名兽",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "摁摁",
+      "印印"
+    ],
+    "descriptive": [
+      "拇指印"
+    ],
+    "sound": [
+      "摁"
+    ],
+    "why": "额头一枚黄铜拇指印，像刚摁上去",
+    "checks": "顺口；能当小名；看图能猜到（拇指印）；谐音「嗯嗯」口头禅，加分；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

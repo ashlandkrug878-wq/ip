@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261020",
   "order": 6,
-  "name": "针偏",
-  "en": "daily-20261020-06",
+  "name": "叉叉",
+  "en": "Chacha",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -74,5 +74,22 @@
   "zh": "的增长。",
   "enp": "An androgynous thread-worker humanoid, 2 heads tall, only one broad flat X-shaped crossed hair lock on top, dark brown hair and warm skin, tiny dot eyes and one wide horizontal mouth as the sole enlarged facial feature, pale-lilac short plush body with warm-gray work apron, matte vinyl face and crossed hair lock, arms crossing over chest, no needles or loose threads, vinyl-plush charm, vermilion accent. One character only, complete full body and all feet visible, slightly turned 15 degrees, approximately 75 percent frame height, light warm-gray seamless background, soft studio lighting, realistic material cues, clear silhouette. Small number 06 in lower left. No logos, packaging, extra characters or environment. Product concept render, not an engineered prototype.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "针偏",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "叉叉"
+    ],
+    "descriptive": [
+      "叉叉头",
+      "交叉发"
+    ],
+    "sound": [
+      "嚓嚓"
+    ],
+    "why": "头顶交叉 X 发束是唯一记忆点",
+    "checks": "顺口；能当小名；看图能猜到；「叉叉」也指打错的×，可当梗；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

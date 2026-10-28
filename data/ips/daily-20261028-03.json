@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261028",
   "order": 3,
-  "name": "退场粒",
-  "en": "daily-20261028-03",
+  "name": "沙沙",
+  "en": "Shasha",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -62,5 +62,21 @@
   "zh": "",
   "enp": "提示词**：半透明乳白颗粒头、沙漏镂空、青柠透明小身体、豆眼短嘴、1.5头身、透明PVC全身产品渲染。 / Translucent milky pellet head with hourglass cutout, lime transparent body, dot eyes and short mouth, 1.5-head proportion, full-body clear PVC product render.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "退场粒",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "沙沙"
+    ],
+    "descriptive": [
+      "沙漏头"
+    ],
+    "sound": [
+      "沙沙"
+    ],
+    "why": "头里是一个镂空沙漏，沙子沙沙落下",
+    "checks": "顺口；能当小名；看图能猜到；无不雅谐音；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

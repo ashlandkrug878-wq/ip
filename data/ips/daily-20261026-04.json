@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261026",
   "order": 4,
-  "name": "皱幕怪",
-  "en": "daily-20261026-04",
+  "name": "皱皱",
+  "en": "Zhouzhou",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -50,5 +50,22 @@
   "zh": "方形皱画布头怪兽，单道橙色斜折痕，双手撑开，硬PVC。EN: Original creature with a crumpled square canvas head, one orange diagonal crease, stretching itself open.",
   "enp": "Original creature with a crumpled square canvas head, one orange diagonal crease, stretching itself open.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "皱幕怪",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "皱皱"
+    ],
+    "descriptive": [
+      "皱布头",
+      "画布头"
+    ],
+    "sound": [
+      "窸窣"
+    ],
+    "why": "方形皱画布当头，可以换不同的布和头饰",
+    "checks": "顺口；能当小名；看图能猜到（皱）；谐音「周周」无碍；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

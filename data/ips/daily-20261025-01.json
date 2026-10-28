@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261025",
   "order": 1,
-  "name": "纬停",
-  "en": "daily-20261025-01",
+  "name": "梭梭",
+  "en": "Suosuo",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -50,5 +50,21 @@
   "zh": "毛发细节略多，量产版应简化发丝；梭冠挂包防勾需圆角。",
   "enp": "Original 2-head-tall textile apprentice, horizontal wooden shuttle crown, single vermilion seam, half-lidded eyes, counting stitches, indigo and ivory, matte vinyl head and short plush body, full-body front studio product concept.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "纬停",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "梭梭"
+    ],
+    "descriptive": [
+      "梭子头"
+    ],
+    "sound": [
+      "嗦嗦"
+    ],
+    "why": "头上横着一把织布梭",
+    "checks": "顺口；能当小名；看图要配说明；谐音「嗦嗦」（嗦粉）有趣无碍；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

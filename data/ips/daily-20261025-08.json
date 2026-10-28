@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261025",
   "order": 8,
-  "name": "夜橙蛾",
-  "en": "daily-20261025-08",
+  "name": "扑扑",
+  "en": "Pupu",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -50,5 +50,24 @@
   "zh": "原创夜蛾，橙色花梗形短触角，白色折翼像披肩，深夜蓝身体，接住一片白瓣，短绒毛绒挂件全身图。 EN: Original night moth with short orange stem-like antennae, broad folded ivory wings worn like a cape, midnight-blue plush body, catching one white petal, full-body plush charm concept.",
   "enp": "GE",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "夜橙蛾",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "蛾蛾",
+      "扑扑"
+    ],
+    "descriptive": [
+      "斗篷蛾",
+      "白披肩"
+    ],
+    "sound": [
+      "扑扑",
+      "扑棱"
+    ],
+    "why": "白色折翼像披肩，翅膀扑扑响",
+    "checks": "顺口；能当小名；看图能联想到翅膀；谐音「噗噗」可爱无碍；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

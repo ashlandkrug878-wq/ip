@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261021",
   "order": 2,
-  "name": "影脊",
-  "en": "daily-20261021-02",
+  "name": "嗖嗖",
+  "en": "Sousou",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -70,5 +70,23 @@
   "zh": "山貂跑者，单片竹影额鳍，持续上坡前倾，浮影绿/炭灰，搪胶头短绒身体挂件，全身棚拍。",
   "enp": "Anthropomorphic mountain marten runner, one bamboo-shadow forehead fin, permanent uphill lean, floating green and charcoal, vinyl head and short-plush charm, full-body studio shot.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "影脊",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "貂貂",
+      "嗖嗖"
+    ],
+    "descriptive": [
+      "竹叶貂",
+      "跑步貂"
+    ],
+    "sound": [
+      "嗖嗖"
+    ],
+    "why": "一直在往前跑，带风声",
+    "checks": "顺口；能当小名；看图能猜到（跑）；无不雅谐音；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

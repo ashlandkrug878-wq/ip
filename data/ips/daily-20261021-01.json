@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261021",
   "order": 1,
-  "name": "同檐",
-  "en": "daily-20261021-01",
+  "name": "嗒嗒",
+  "en": "Dada",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -70,5 +70,22 @@
   "zh": "国青年报/中新网均于2026-10-20报道，属近期双源信号。",
   "enp": "Gender-neutral 2.2-head chibi, double roof-eave hair, amber window clip, mismatched knitted cuffs touching, graphite/ivory/amber matte PVC collectible, full-body studio product shot.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "同檐",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "檐檐",
+      "嗒嗒"
+    ],
+    "descriptive": [
+      "屋檐头"
+    ],
+    "sound": [
+      "嗒嗒"
+    ],
+    "why": "屋檐形头发，雨落在屋檐上嗒嗒响",
+    "checks": "顺口；能当小名；看图要配说明；无不雅谐音；撞名待查（形象本身用户说太像之前的，名字之外要改造型）",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

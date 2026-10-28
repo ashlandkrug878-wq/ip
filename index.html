@@ -162,6 +162,35 @@ details.builder[open] summary::after{content:"收起"}
 .connpanel ol{margin:0;padding-left:20px;color:var(--muted);font-size:13px}
 .connpanel input{font:inherit;font-family:var(--mono);font-size:13px;padding:6px 10px;border:1px solid var(--line);border-radius:6px;background:var(--sunk);color:var(--fg);flex:1;min-width:0}
 .connrow{display:flex;gap:8px;flex-wrap:wrap}
+#grid{display:flex;flex-direction:column;gap:22px}
+.igroup{display:flex;flex-direction:column;gap:10px}
+.ghead{display:flex;align-items:center;gap:8px;font-size:15px;font-weight:700;margin:6px 0 0}
+.ghead small{font-weight:400;color:var(--muted);font-size:13px}
+.gdot{width:10px;height:10px;border-radius:50%;background:var(--muted)}
+.gdot.s-保留{background:var(--keep)}.gdot.s-待优化{background:var(--mid)}
+.igrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:12px}
+.icard{background:var(--surface);border:1px solid var(--line);border-radius:12px;display:flex;flex-direction:column;min-width:0;overflow:hidden;border-top:3px solid transparent}
+.icard.s-保留{border-top-color:var(--keep)}.icard.s-待优化{border-top-color:var(--mid)}.icard.s-淘汰{border-top-color:var(--drop);opacity:.75}
+.iimg{display:flex;align-items:center;justify-content:center;width:100%;aspect-ratio:1/1;overflow:hidden;padding:0;border:0;background:var(--sunk);cursor:pointer}
+.iimg img{width:100%;aspect-ratio:1/1;height:auto;object-fit:cover;display:block}
+@media (max-width:520px){.igrid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.iname h3{font-size:16px}.ifoot .status button{font-size:11px}.iname .old{display:none}}
+.iimg span{color:var(--muted);font-size:12px}
+.ibody{padding:10px 12px 8px;display:flex;flex-direction:column;gap:4px;flex:1;min-width:0}
+.iname{display:flex;align-items:baseline;gap:6px;flex-wrap:wrap}
+.iname h3{font-size:18px;font-weight:900;margin:0}
+.iname .old{font-size:11px;color:var(--muted)}
+.nsug{font-size:10.5px;color:var(--accent);background:var(--accent-soft);border-radius:4px;padding:0 5px}
+.iexpr{font-size:13px;line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.inote{font-size:12px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.imeta{font-size:11.5px;color:var(--muted);margin-top:auto;padding-top:2px}
+.imeta .btn.link{font-size:11.5px;padding:0}
+.ifoot{border-top:1px solid var(--line);padding:8px 10px}
+.ifoot .status{display:flex;gap:4px}
+.ifoot .status button{flex:1;padding:3px 0;font-size:12px}
+.md h4{font-size:14px;margin:10px 0 4px}.md p{margin:0 0 6px}.md ul{margin:0 0 6px;padding-left:18px}
+.namebox{display:flex;flex-direction:column;gap:4px;background:var(--sunk);border:1px solid var(--line);border-radius:10px;padding:10px 12px;font-size:13px}
+.namebox b{font-weight:600}
+.navsep{width:1px;align-self:stretch;background:var(--line);margin:4px 2px}
 .cimg{display:block;width:100%;aspect-ratio:1/1;object-fit:contain;border-radius:11px 11px 0 0;background:var(--sunk)}
 .dimg{width:100%;max-width:360px;border-radius:10px;border:1px solid var(--line)}
 .pending{font-size:12px;color:var(--muted)}
@@ -206,6 +235,7 @@ button,select,textarea,input{font:inherit;color:inherit}
       <button role="tab" id="tab-ips" data-tab="ips" aria-selected="true">① 表达<small id="c-ips"></small></button>
       <button role="tab" id="tab-form" data-tab="form" aria-selected="false">② 找形<small id="c-form"></small></button>
       <button role="tab" id="tab-lock" data-tab="lock" aria-selected="false">③ 定型<small id="c-lock"></small></button>
+      <span class="navsep" aria-hidden="true"></span>
       <button role="tab" id="tab-mat" data-tab="mat" aria-selected="false">本期素材<small id="c-mat"></small></button>
       <button role="tab" id="tab-pool" data-tab="pool" aria-selected="false">我的素材池<small id="c-pool"></small></button>
     </div>
@@ -285,20 +315,23 @@ function pid(type,name){let h=0;const s=type+"|"+name;for(let i=0;i<s.length;i++
 function poolBtn(type,item,mini){const on=!!POOLS[pid(type,item.name)];return `<button type="button" class="btn pri ${mini?"mini":""} ${on?"saved":""}" data-act="pool" data-type="${type}" data-name="${esc(item.name)}">${on?"✓ 已存入"+POOLNAME[type]:"+ 存入"+POOLNAME[type]}</button>`;}
 function stripHtml(roles){const cnt={};roles.forEach(r=>cnt[r.role]=(cnt[r.role]||0)+1);return `<div class="strip">${roles.map(r=>{const w=(ROLEW[r.role]||10)/(cnt[r.role]||1);return `<div style="flex:${w} 1 0;background:${okHex(r.hex)};color:${lum(r.hex)>.6?"#201d2b":"#ffffff"}">${w>=12?esc(r.role):""}</div>`;}).join("")}</div>`;}
 function rolesHtml(roles){return `<div class="roles">${roles.map(r=>`<span>${esc(r.role)}</span><i style="background:${okHex(r.hex)}"></i><span>${esc(r.name)} <span class="sub" style="display:inline">${esc(r.hex)}</span></span>`).join("")}</div>`;}
-function curBatch(){return BATCHES.find(x=>x.id===cur);}
-function batchIps(){return IPS.filter(i=>i.batch===cur).sort((a,b)=>(a.order||0)-(b.order||0));}
-function ipOrigins(i){const B=curBatch()||{};return (B.origins||[]).filter(o=>String(o.to||"").split(/[、，,]/).map(x=>x.trim()).includes(i.name));}
+const ALL="__all";
+function curBatch(){return cur===ALL?null:BATCHES.find(x=>x.id===cur);}
+function matBatch(){return curBatch()||BATCHES[0];}
+function batchOf(i){return BATCHES.find(x=>x.id===i.batch);}
+function batchIps(){const l=cur===ALL?IPS.slice():IPS.filter(i=>i.batch===cur);return l.sort((a,b)=>String(b.batch).localeCompare(String(a.batch))||(a.order||0)-(b.order||0));}
+function ipOrigins(i){const B=batchOf(i)||{};return (B.origins||[]).filter(o=>String(o.to||"").split(/[、，,]/).map(x=>x.trim()).includes(i.name));}
 function setTabs(el,list,active,key){el.innerHTML=list.map(([k,l,n])=>`<button role="tab" data-${key}="${k}" aria-selected="${k===active}">${esc(l)}${n!=null?`<small>${n}</small>`:""}</button>`).join("");}
 
 /* ---------- top ---------- */
 function renderTop(){
-  const sel=$("batchSel");sel.innerHTML=BATCHES.map(b=>`<option value="${esc(b.id)}" ${b.id===cur?"selected":""}>${esc(b.title)}</option>`).join("")||`<option>还没有任何一期</option>`;
+  const sel=$("batchSel");sel.innerHTML=(BATCHES.length?`<option value="${ALL}" ${cur===ALL?"selected":""}>全部批次</option>`:"")+BATCHES.map(b=>`<option value="${esc(b.id)}" ${b.id===cur?"selected":""}>${esc(b.title)}</option>`).join("")||`<option>还没有任何一期</option>`;
   document.querySelectorAll("[data-tab]").forEach(t=>t.setAttribute("aria-selected",t.dataset.tab===tab));
   $("p-study").hidden=tab!=="study";$("p-species").hidden=tab!=="species";$("c-species").textContent=SPECIES.length||"";$("c-study").textContent=STUDIES.length||"";$("p-ips").hidden=tab!=="ips";$("p-form").hidden=tab!=="form";$("p-lock").hidden=tab!=="lock";$("p-mat").hidden=tab!=="mat";$("p-pool").hidden=tab!=="pool";
   $("c-form").textContent=FORMS.length||"";$("c-lock").textContent=FORMS.filter(f=>f.locked).length||"";
   const B=curBatch()||{};
   $("c-ips").textContent=batchIps().length||"";
-  $("c-mat").textContent=((B.palettes||[]).length+(B.materials||[]).length+(B.origins||[]).length)||"";
+  const MB=matBatch()||{};$("c-mat").textContent=((MB.palettes||[]).length+(MB.materials||[]).length+(MB.origins||[]).length)||"";
   $("c-pool").textContent=Object.keys(POOLS).length||"";
 }
 /* ---------- ips ---------- */
@@ -324,22 +357,18 @@ const NOTE_DRAFTS={};
 function reviewDraft(id){return NOTE_DRAFTS[id]??(openId===id?$("note-"+id)?.value:$("cover-note-"+id)?.value)??REVIEWS[id]?.note??"";}
 function card(i){
   const r=REVIEWS[i.id]||{};const st=r.status||"";const os=ipOrigins(i);
-  const im=ipImage(i.id);
-  return `<article class="card ${st?"s-"+st:""}">
-   ${im?`<img class="cimg" src="${esc(im)}" alt="${esc(i.name)} 基础形象" loading="lazy">`:""}
-   <div class="cmain">
-    <div class="cname"><h3>${esc(i.name)}</h3><span class="en">${esc(i.en)}</span>${r.note?`<span class="noted">✎ 有批注</span>`:""}</div>
-    <div class="expr">${esc(i.expr)}</div>
-    ${i.insight?`<div class="unsaid">${esc(i.insight.unsaid)}</div>`:""}
-    <div class="tags"><span class="tag">${esc(i.type)}</span>${i.prompt_revision?`<span class="tag">造型修订 R${esc(i.prompt_revision)}</span>`:""}</div>
+  const im=ipImage(i.id);const note=String(NOTE_DRAFTS[i.id]??r.note??"").trim();
+  const B=batchOf(i);const nf=formsOf(i.id).length;
+  return `<article class="icard ${st?"s-"+st:""}">
+   <button type="button" class="iimg" data-act="open" data-id="${esc(i.id)}" aria-label="打开 ${esc(i.name)} 详情">${im?`<img src="${esc(im)}" alt="${esc(i.name)}" loading="lazy">`:`<span>还没有图</span>`}</button>
+   <div class="ibody">
+    <div class="iname"><h3>${esc(i.name)}</h3>${i.name_status==="suggested"?`<span class="nsug" title="建议名，待你确认">建议名</span>`:""}${i.old_name?`<span class="old">原名 ${esc(i.old_name)}</span>`:""}</div>
+    <div class="iexpr">${esc(i.expr)}</div>
+    ${note?`<div class="inote" title="${esc(note)}">✎ ${esc(note)}</div>`:""}
     ${os.length?`<div class="oline">原点：${os.map(o=>`<span>${esc(o.name)}</span>${poolBtn("origin",o,true)}`).join("")}</div>`:""}
+    <div class="imeta">${cur===ALL&&B?esc(B.date||B.id):""}${nf?` · <button type="button" class="btn link" data-act="gotoform" data-id="${esc(i.id)}">找形 ${nf} →</button>`:st==="保留"?` · <button type="button" class="btn link" data-act="gotoform" data-id="${esc(i.id)}">去找形 →</button>`:""}</div>
    </div>
-   <div class="cfoot">${statusBtns(i.id)}<span>${(st==="保留"||formsOf(i.id).length)?`<button type="button" class="btn link" data-act="gotoform" data-id="${esc(i.id)}">找形${formsOf(i.id).length?" · "+formsOf(i.id).length:""} →</button>`:""}<button type="button" class="btn link" data-act="open" data-id="${esc(i.id)}">详情与批注 →</button></span></div>
-   <div class="cover-note">
-    <label for="cover-note-${esc(i.id)}">批注 / 淘汰原因</label>
-    <textarea id="cover-note-${esc(i.id)}" data-note-id="${esc(i.id)}" placeholder="喜欢什么、想改什么、为什么淘汰…">${esc(NOTE_DRAFTS[i.id]??r.note??"")}</textarea>
-    <div class="row-between"><span class="note" id="cover-saved-${esc(i.id)}" role="status" aria-live="polite">${NOTE_DRAFTS[i.id]!==undefined?"有未保存批注":r.note?"批注已保存":"写完点保存；选状态也会一起保存"}</span><button type="button" class="btn pri" data-act="note" data-id="${esc(i.id)}">保存批注</button></div>
-   </div>
+   <div class="ifoot">${statusBtns(i.id)}</div>
   </article>`;
 }
 function formsOf(ipId){return FORMS.filter(f=>f.ip===ipId).sort((a,b)=>String(a.round).localeCompare(String(b.round))||(a.n||0)-(b.n||0));}
@@ -350,12 +379,19 @@ const LOCALIMG={};
 function ipImage(id){if(LOCALIMG[id])return LOCALIMG[id];const j=ipJobs(id).find(j=>j.status==="done"&&/^images\/[\w./-]+\.(png|jpe?g|webp)$/i.test(j.output||""));return j?j.output+(j.v?"?v="+encodeURIComponent(j.v):""):null;}
 function renderGrid(){
   const g=$("grid");let list=batchIps();
-  if(filter==="全部")list=list.filter(i=>!isRetired(i.id));else if(filter==="未处理")list=list.filter(i=>!REVIEWS[i.id]?.status);else list=list.filter(i=>REVIEWS[i.id]?.status===filter);
   if(loadError){g.innerHTML=`<div class="empty"><b>没有读到方案数据</b><span>${esc(loadError)}</span></div>`;return;}
-  if(!loaded){g.innerHTML=`<div class="empty"><b>正在载入本期方案</b><span>从仓库读取数据…</span></div>`;return;}
+  if(!loaded){g.innerHTML=`<div class="empty"><b>正在载入方案</b><span>从仓库读取数据…</span></div>`;return;}
   if(!BATCHES.length){g.innerHTML=`<div class="empty"><b>还没有任何一期</b><span>第一期生成后会自动出现在这里。</span></div>`;return;}
+  const grid=l=>`<div class="igrid">${l.map(card).join("")}</div>`;
+  if(filter==="全部"){
+    const groups=[["保留",list.filter(i=>REVIEWS[i.id]?.status==="保留")],["待优化",list.filter(i=>REVIEWS[i.id]?.status==="待优化")],["未处理",list.filter(i=>!REVIEWS[i.id]?.status)]].filter(([,l])=>l.length);
+    if(!groups.length){g.innerHTML=`<div class="empty"><b>没有候选</b><span>淘汰的方案在「淘汰档案」里。</span></div>`;return;}
+    g.innerHTML=groups.map(([t,l])=>`<section class="igroup"><h2 class="ghead"><span class="gdot s-${t}"></span>${t}<small>${l.length}</small></h2>${grid(l)}</section>`).join("");
+    return;
+  }
+  if(filter==="未处理")list=list.filter(i=>!REVIEWS[i.id]?.status);else list=list.filter(i=>REVIEWS[i.id]?.status===filter);
   if(!list.length){g.innerHTML=`<div class="empty"><b>这个筛选下没有方案</b><span>换一个状态看看。</span></div>`;return;}
-  g.innerHTML=list.map(card).join("");
+  g.innerHTML=grid(list);
 }
 
 /* ---------- species (interview origins) ---------- */
@@ -408,6 +444,7 @@ function renderDrawer(){
   $("drawer").innerHTML=`<div class="dhead">
      <div class="row-between"><h2 id="dTitle">${esc(i.name)} <span class="note" style="font-family:var(--mono)">${esc(i.en)}</span></h2><button type="button" class="btn" id="dClose" data-act="close">关闭</button></div>
      <div class="expr">${esc(i.expr)}</div>
+     ${i.name_candidates?`<div class="namebox"><div><b>${i.name_status==="suggested"?"建议名":"名字"}：${esc(i.name)}</b> ${esc(i.en||"")}${i.old_name?` <span class="note">原名 ${esc(i.old_name)}</span>`:""}</div><div class="note">${esc(i.name_candidates.why||"")}</div><div>叠音：${esc((i.name_candidates.doubled||[]).join("、"))}　描述：${esc((i.name_candidates.descriptive||[]).join("、"))}　拟声：${esc((i.name_candidates.sound||[]).join("、"))}</div><div class="note">${esc(i.name_candidates.checks||"")}</div><div class="note">想用别的名字，写在下面批注里，例如"名字用 xx"</div></div>`:""}
      <div class="row-between">${statusBtns(i.id)}<span class="note">${esc(i.type)}</span></div>
      ${legacy?(()=>{const im=ipImage(i.id);if(im)return `<img class="dimg" src="${esc(im)}" alt="${esc(i.name)} 基础形象">`;const j=ipJobs(i.id)[0];return j?jobStatus(j):"";})():""}
      ${legacy?`<div class="upl"><label class="btn pri" for="upl-${esc(i.id)}">${ipImage(i.id)?"换一张图":"上传图片"}</label><input type="file" id="upl-${esc(i.id)}" accept="image/png,image/jpeg,image/webp" data-upl="${esc(i.id)}" hidden><button type="button" class="btn" data-act="copy" data-id="${esc(i.id)}" data-v="en">复制英文提示词</button><span class="note" id="uplmsg-${esc(i.id)}">旧版方案的成品图。新流程先在「找形」看线稿</span></div>`:""}
@@ -416,7 +453,7 @@ function renderDrawer(){
    </div>
    <div class="dbody">
     ${i.import_warning?sec("历史版本提示",esc(i.import_warning)):""}
-    ${i.complete_card?sec("完整原始方案卡（历史导入）",`<div style="white-space:pre-wrap;overflow-wrap:anywhere">${esc(i.complete_card)}</div>`):""}
+    ${i.complete_card?`<details class="sec"><summary><b>完整方案卡</b> <span class="note">点开看全文</span></summary><div class="md">${mdLite(i.complete_card)}</div></details>`:""}
     ${i.report?sec("本期完整报告与来源",linksHtml([{t:"打开原始报告（含本期证据与风险）",url:`https://github.com/${OWNER}/${REPO}/blob/${BRANCH}/${i.report}`}])):""}
     ${i.revision?sec("本次修订 · R"+esc(i.prompt_revision),`<span class="note">${esc(i.revision.date)}</span><p>${esc(i.revision.summary)}</p><p class="note">保留原点与来源；新版图由你从本次对话下载后上传。历史批注与选择继续保留。</p>`):""}
     ${ins?sec("洞察",`<div class="quote">${esc(ins.unsaid)}</div><div class="kv"><span>场景</span><span>${esc(ins.scene)}</span><span>行为</span><span>${esc(ins.act)}</span><span>状态</span><span>${esc(ins.state)}</span><span>矛盾</span><span>${esc(ins.conflict)}</span><span>深度</span><span>${esc(ins.depth)}</span><span>来源</span><span>${esc(ins.source)}</span></div>${(i.links||[]).length?linksHtml(i.links):""}`):""}
@@ -435,6 +472,19 @@ function renderDrawer(){
     ${legacy?sec("基础形象出图提示词（旧版）",`<div class="prompt"><div><b>中文</b><button type="button" class="btn" data-act="copy" data-id="${esc(i.id)}" data-v="zh">复制</button></div><span>${esc(i.zh)}</span></div><div class="prompt"><div><b>English</b><button type="button" class="btn" data-act="copy" data-id="${esc(i.id)}" data-v="en">复制</button></div><span>${esc(i.enp||"")}</span></div>`):""}
     ${(i.revision_history||[]).length?sec("历史版本",(i.revision_history||[]).slice().reverse().map(v=>`<details class="builder"><summary>查看 R${esc(v.revision)} 修订前提示词</summary><div class="bbody"><p>${esc(v.snapshot?.mark||"")}</p><div class="prompt"><b>中文</b><span>${esc(v.snapshot?.zh||"")}</span></div><div class="prompt"><b>English</b><span>${esc(v.snapshot?.enp||"")}</span></div></div></details>`).join("")):""}
    </div>`;
+}
+function mdLite(src){
+  const out=[];let list=false;
+  String(src||"").split(/\n/).forEach(raw=>{
+    const line=raw.trim();
+    const inline=t=>esc(t).replace(/\*\*(.+?)\*\*/g,"<b>$1</b>");
+    if(/^[-*·]\s+/.test(line)){if(!list){out.push("<ul>");list=true;}out.push("<li>"+inline(line.replace(/^[-*·]\s+/,""))+"</li>");return;}
+    if(list){out.push("</ul>");list=false;}
+    if(!line)return;
+    const h=line.match(/^#{1,6}\s+(.*)$/);
+    out.push(h?"<h4>"+inline(h[1])+"</h4>":"<p>"+inline(line)+"</p>");
+  });
+  if(list)out.push("</ul>");return out.join("");
 }
 function jobStatus(j){return `<span class="pending">出图状态：${esc({pending:"待出图（复制提示词去出图后上传）",awaiting_upload:"待上传",failed:"失败",done:"已完成"}[j.status]||j.status)}${j.status==="failed"&&j.note?"（"+esc(String(j.note).slice(0,120))+"）":""}</span>`;}
 /* ---------- forms ---------- */
@@ -536,7 +586,7 @@ function renderLock(){
 }
 /* ---------- materials ---------- */
 function renderMat(){
-  const B=curBatch()||{};
+  const B=matBatch()||{};
   setTabs($("matTabs"),[["palette","色系",(B.palettes||[]).length],["material","材质",(B.materials||[]).length],["origin","原点",(B.origins||[]).length]],matTab,"mattab");
   const notes={palette:"整套保存推荐色系，或展开搭配器自己组一套。色值是近似值，打样以官方色卡为准",material:"材质留给第二步选材时用",origin:"原点会作为下一期的候选"};
   $("matNote").textContent=notes[matTab];
@@ -558,7 +608,7 @@ function renderMat(){
 function chosen(){const out=[];if(BUILD.main)out.push({role:"主色",...BUILD.main});BUILD.aux.forEach(c=>out.push({role:"辅助色",...c}));BUILD.neutral.forEach(c=>out.push({role:"中性色",...c}));if(BUILD.accent)out.push({role:"点缀色",...BUILD.accent});return out;}
 function renderBuilder(){
   const el=$("builder");if(!el)return;
-  const B=curBatch()||{};const singles=Object.values(POOLS).filter(p=>p.type==="color");
+  const B=matBatch()||{};const singles=Object.values(POOLS).filter(p=>p.type==="color");
   const sw=c=>`<button type="button" class="swatch" data-act="pick" data-name="${esc(c.name)}" data-hex="${esc(c.hex)}" title="${esc(c.detail||"")}"><i style="background:${okHex(c.hex)}"></i>${esc(c.name)}</button>`;
   const slot=(k,l)=>{const v=BUILD[k];const arr=Array.isArray(v)?v:(v?[v]:[]);return `<div class="slot"><span>${l}</span><div class="items">${arr.length?arr.map((c,ix)=>`<button type="button" class="swatch" data-act="unrole" data-role="${k}" data-ix="${ix}" title="移除"><i style="background:${okHex(c.hex)}"></i>${esc(c.name)} ✕</button>`).join(""):`<span class="note">${k==="main"||k==="accent"?"1 个":"0 到 2 个"}</span>`}</div></div>`;};
   const ch=chosen();
@@ -618,7 +668,7 @@ async function loadAll(){
     SPECIES=Object.entries(sp).map(([id,d])=>({...d,id})).sort((x,y)=>String(x.no).localeCompare(String(y.no)));
     BATCHES=Object.entries(b).map(([id,d])=>({id,...d})).sort((x,y)=>String(y.date).localeCompare(String(x.date)));
     IPS=Object.entries(ip).map(([id,d])=>({id,...d}));FORMS=Object.entries(fm).map(([id,d])=>({id,...d}));STUDIES=Object.entries(st).map(([id,d])=>({...d,id}));REVIEWS=rv;POOLS=pl;
-    if(!cur||!BATCHES.find(x=>x.id===cur))cur=BATCHES[0]?.id||null;
+    if(!cur||(cur!==ALL&&!BATCHES.find(x=>x.id===cur)))cur=BATCHES.length?ALL:null;
     loaded=true;loadError="";
   }catch(e){loadError=String(e.message||e);}
   renderAll();renderConn();
@@ -647,7 +697,7 @@ async function saveReview(id,patch){
 }
 async function togglePool(type,name){
   if(!TOKEN){openConnect();return;}
-  const B=curBatch()||{};const list=type==="color"?B.colors:type==="material"?B.materials:type==="palette"?B.palettes:B.origins;
+  const B=matBatch()||{};const list=type==="color"?B.colors:type==="material"?B.materials:type==="palette"?B.palettes:B.origins;
   const item=(list||[]).find(x=>x.name===name);if(!item)return;const id=pid(type,name);
   if(POOLS[id]){const old=POOLS[id];delete POOLS[id];renderAll();try{await queueWrite(async()=>{await delFile(`data/pools/${id}.json`,`选品板：从${POOLNAME[type]}移除 ${name}`);await touchIndex("pools",id,false);});}catch(e){POOLS[id]=old;renderAll();}return;}
   const doc={type,name:item.name,hex:item.hex||"",roles:item.roles||[],tone:item.tone||"",detail:item.detail||"",toy:item.toy||"",source:item.source||"",use:item.use||"",window:item.window||"",cred:item.cred||"",links:item.links||[],fromBatch:cur,fromTitle:B.title||"",savedAt:new Date().toISOString()};
@@ -659,7 +709,7 @@ async function saveBuild(){
   if(!TOKEN){openConnect();return;}
   const nm=($("pal-name").value||"").trim(),tone=($("pal-tone").value||"").trim(),msg=$("pal-msg");
   if(!BUILD.main){msg.textContent="先选一个主色";return;}if(!nm){msg.textContent="给这套色系起个名字";return;}
-  const id=pid("palette",nm);const doc={type:"palette",name:nm,tone,roles:chosen(),links:[],fromBatch:cur,fromTitle:(curBatch()||{}).title||"",custom:true,savedAt:new Date().toISOString()};
+  const id=pid("palette",nm);const doc={type:"palette",name:nm,tone,roles:chosen(),links:[],fromBatch:cur,fromTitle:(matBatch()||{}).title||"",custom:true,savedAt:new Date().toISOString()};
   msg.textContent="正在保存…";
   try{await queueWrite(async()=>{await putJson(`data/pools/${id}.json`,doc,`选品板：存入色系池 ${nm}`);await touchIndex("pools",id,true);});POOLS[id]=doc;BUILD={main:null,aux:[],accent:null,neutral:[]};activeRole="main";renderAll();const b=$("builderBox");if(b)b.open=true;const m=$("pal-msg");if(m)m.textContent="已存入色系池";}
   catch(e){msg.textContent="没有保存成功："+e.message;}

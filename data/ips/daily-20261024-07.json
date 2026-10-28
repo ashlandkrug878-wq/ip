@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261024",
   "order": 7,
-  "name": "化冰怪",
-  "en": "daily-20261024-07",
+  "name": "融融",
+  "en": "Rongrong",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -54,5 +54,22 @@
   "zh": "透明烟水蓝融化生物，头顶一根向前弯成问号的滴冰冠，宽眼距小眼，乳白内芯，抱腰，脚融入水洼底座，透明PVC全身棚拍。",
   "enp": "Translucent smoky-aqua melting creature, one long drooping icicle crest curled like a question mark, wide tiny navy eyes, milky core, arms hugging waist, feet merging into puddle base, clear PVC full-body render.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "化冰怪",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "融融",
+      "冰冰"
+    ],
+    "descriptive": [
+      "滴冰冠"
+    ],
+    "sound": [
+      "滴答"
+    ],
+    "why": "在融化的冰，形状一直在变",
+    "checks": "顺口；能当小名；看图能猜到（融化）；无不雅谐音；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

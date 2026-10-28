@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261022",
   "order": 9,
-  "name": "粉潮",
-  "en": "daily-20261022-09",
+  "name": "雾雾",
+  "en": "Wuwu",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -63,5 +63,22 @@
   "enp": "Genderless shoreline-mist creature, no dress and no human hair, exactly three wind-swept pink mist plumes, bold ultramarine tide line, dusty-pink plush with vinyl face.",
   "imported_at": "2026-10-28",
   "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
-  "import_warning": "本批原始报告与对话摘要的部分名字、原点存在差异（例如接接/拍拍鳐、坐醒/串场、成束/墨芽）。本页保留原始报告与对应原图，不把不同设定合并，也未重新设计。"
+  "import_warning": "本批原始报告与对话摘要的部分名字、原点存在差异（例如接接/拍拍鳐、坐醒/串场、成束/墨芽）。本页保留原始报告与对应原图，不把不同设定合并，也未重新设计。",
+  "old_name": "粉潮",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "雾雾",
+      "粉粉"
+    ],
+    "descriptive": [
+      "粉雾冠"
+    ],
+    "sound": [
+      "呼呼"
+    ],
+    "why": "三束侧风粉雾冠",
+    "checks": "顺口；能当小名；看图能猜到（粉雾）；无不雅谐音；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

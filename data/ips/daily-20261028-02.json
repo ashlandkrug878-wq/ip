@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261028",
   "order": 2,
-  "name": "吞响貘",
-  "en": "daily-20261028-02",
+  "name": "咕嘟",
+  "en": "Gudu",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -62,5 +62,24 @@
   "zh": "炭灰圆胖貘，头顶一圈电光黄折扇吸音软片冠，眯眼，双臂内收，搪胶脸短毛绒身体，单角色全身产品图。",
   "enp": "Original round charcoal tapir, electric-yellow fan-shaped acoustic baffle crown, closed eyes, arms folded inward, matte vinyl face and short plush body, single full-body product concept.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "吞响貘",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "貘貘",
+      "扇扇"
+    ],
+    "descriptive": [
+      "扇冠貘",
+      "静音貘"
+    ],
+    "sound": [
+      "咕嘟",
+      "咕咚"
+    ],
+    "why": "头顶吸音冠把吵闹「咕嘟」吞下去，拟声正好说出表达",
+    "checks": "顺口；能当小名；看图要配一句表达才懂；无不雅谐音；撞名待查（咕嘟是常见拟声词）",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

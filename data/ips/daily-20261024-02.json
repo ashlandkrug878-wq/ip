@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261024",
   "order": 2,
-  "name": "玩钉兽",
-  "en": "daily-20261024-02",
+  "name": "拼拼",
+  "en": "Pinpin",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -54,5 +54,22 @@
   "zh": "青绿色圆角连接块原创生物，1.7头身，头顶斜插珊瑚红大软栓，腹部黄色接口模块，豆豆眼，哑光PVC全身产品图。",
   "enp": "Squat turquoise connector-block creature, diagonal coral soft plug on crown, yellow removable belly connector, tiny eyes, matte PVC collectible, full-body catalog render.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "玩钉兽",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "拼拼",
+      "栓栓"
+    ],
+    "descriptive": [
+      "插栓块"
+    ],
+    "sound": [
+      "咔哒"
+    ],
+    "why": "一块能拼接的积木，头顶插着大软栓",
+    "checks": "顺口；能当小名；看图能猜到；会联想到拼多多，弱；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

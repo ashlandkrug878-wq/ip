@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261022",
   "order": 8,
-  "name": "波波停",
-  "en": "daily-20261022-08",
+  "name": "停停",
+  "en": "Tingting",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -63,5 +63,22 @@
   "enp": "Broad gender-neutral humanoid, one waveform hair arc settling into a flat line, one hand on chest and one pause gesture, navy/peach/acid-yellow matte PVC.",
   "imported_at": "2026-10-28",
   "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
-  "import_warning": "本批原始报告与对话摘要的部分名字、原点存在差异（例如接接/拍拍鳐、坐醒/串场、成束/墨芽）。本页保留原始报告与对应原图，不把不同设定合并，也未重新设计。"
+  "import_warning": "本批原始报告与对话摘要的部分名字、原点存在差异（例如接接/拍拍鳐、坐醒/串场、成束/墨芽）。本页保留原始报告与对应原图，不把不同设定合并，也未重新设计。",
+  "old_name": "波波停",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "停停",
+      "平平"
+    ],
+    "descriptive": [
+      "波形头"
+    ],
+    "sound": [
+      "哔"
+    ],
+    "why": "头发是一条波峰落成平线，「暂停」",
+    "checks": "顺口；能当小名；谐音「婷婷」人名，无碍；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

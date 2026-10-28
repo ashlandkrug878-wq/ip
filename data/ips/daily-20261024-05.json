@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261024",
   "order": 5,
-  "name": "金箔螺",
-  "en": "daily-20261024-05",
+  "name": "慢慢",
+  "en": "Manman",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -54,5 +54,23 @@
   "zh": "直立灰紫短绒蜗牛，搪胶脸，头侧一枚古金包边的珠母扇冠，低位螺壳，手持无字小镜，全身产品棚拍。",
   "enp": "Upright dusty-lilac plush snail, vinyl face, one fan-shaped translucent nacre crown edged in antique gold, low spiral shell, holding a plain mirror, full-body studio product render.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "金箔螺",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "螺螺",
+      "慢慢"
+    ],
+    "descriptive": [
+      "珠冠螺",
+      "镜子螺"
+    ],
+    "sound": [
+      "啵啵"
+    ],
+    "why": "蜗牛加「慢没关系」，名字就是表达",
+    "checks": "顺口；能当小名；看图能猜到（蜗牛慢）；无不雅谐音；常用词，撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

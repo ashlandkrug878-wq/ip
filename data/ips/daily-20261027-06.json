@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261027",
   "order": 6,
-  "name": "软垒堡",
-  "en": "daily-20261027-06",
+  "name": "堡堡",
+  "en": "Baobao",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -62,5 +62,22 @@
   "zh": "两层圆润沙袋构成的原创堡垒生物，城垛眉、单袋结、酸绿粗缝，展开双臂，灰色哑光PVC全身。",
   "enp": "Original protective creature made of two stacked rounded sandbag modules, crenelated brow and one tied tab, gray matte PVC with lime seam, arms wide, full body.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "软垒堡",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "堡堡",
+      "袋袋"
+    ],
+    "descriptive": [
+      "沙袋堡"
+    ],
+    "sound": [
+      "噗"
+    ],
+    "why": "两层沙袋垒成的小堡垒，替你挡一下；谐音「宝宝」",
+    "checks": "顺口；能当小名；看图能猜到（堡垒）；谐音宝宝，加分；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }

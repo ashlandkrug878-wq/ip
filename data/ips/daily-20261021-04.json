@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261021",
   "order": 4,
-  "name": "不标准",
-  "en": "daily-20261021-04",
+  "name": "卷卷",
+  "en": "Juanjuan",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -70,5 +70,22 @@
   "zh": "短宽自信人形，巨大单卷舞台帘发、粗眉、叉腰、错位袜，茄紫芥黄孔雀青，哑光PVC。",
   "enp": "Short broad confident human figure, one giant curtain-curl hairstyle, bold eyebrow, hands on hips, mismatched socks, aubergine/mustard/teal matte PVC.",
   "imported_at": "2026-10-28",
-  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "old_name": "不标准",
+  "name_status": "suggested",
+  "name_candidates": {
+    "doubled": [
+      "卷卷"
+    ],
+    "descriptive": [
+      "大卷毛",
+      "舞台卷"
+    ],
+    "sound": [
+      "哼哼"
+    ],
+    "why": "一个巨大的舞台帘卷发",
+    "checks": "顺口；能当小名；看图能猜到；谐音「娟娟」人名，无碍；撞名待查",
+    "by": "Claude 2026-10-28，按 naming.md"
+  }
 }
