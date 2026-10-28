@@ -1,0 +1,379 @@
+{
+  "name": "NYOTA",
+  "aliases": [
+    "Nyota"
+  ],
+  "summary": "以大黑眼、白月牙与恬淡日常动作形成身份，把成长、季节和猫的陪伴做成小场景。PDC于2024推出的角色，当前已有毛绒及樱桃小丸子联名；增长与用户动机不凭官方好评推断。",
+  "owner": {
+    "creator": "KaKa／PDC内部设计师",
+    "operator": "POP MART 泡泡玛特",
+    "relation": "2024年报将其列于内部IP原创工作室PDC；2025直接采访确认内部设计师及KaKa署名。劳动创作、版权和商标原始文件未逐份核验，不把内部孵化等同个人全部权利已转让。",
+    "since": "2024",
+    "sources": [
+      "FIN24",
+      "INT"
+    ]
+  },
+  "origin": {
+    "path": [
+      "渠道孵化"
+    ],
+    "year": 2024,
+    "story": "公司2024年报称当年新推出，早期Fluffy Life美国商品页记录2024-02-16。采访出现late 2023/2024宽泛说法，不能据此确定首次公开月份；作者更早原稿和独立作品未知。",
+    "sources": [
+      "FIN24",
+      "INT",
+      "SKU08"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2024",
+      "event": "年报列为PDC内部工作室新推出IP",
+      "type": "self_report",
+      "sources": [
+        "FIN24"
+      ]
+    },
+    {
+      "date": "2024-02-16",
+      "event": "Fluffy Life美国商品页发售记录",
+      "type": "self_report",
+      "sources": [
+        "SKU08"
+      ]
+    },
+    {
+      "date": "2024-12-06",
+      "event": "Growing up by Your Way手办商品页记录",
+      "type": "self_report",
+      "sources": [
+        "SKU06"
+      ]
+    },
+    {
+      "date": "2025-07",
+      "event": "季节手办与树形单体商品进入美国站",
+      "type": "self_report",
+      "sources": [
+        "SKU05",
+        "SKU07"
+      ]
+    },
+    {
+      "date": "2025-08-08",
+      "event": "美洲授权负责人直接采访谈KaKa、SDCC签名及角色内部孵化",
+      "type": "self_report",
+      "sources": [
+        "INT"
+      ]
+    },
+    {
+      "date": "2026-04-30",
+      "event": "Where Moments Meet毛绒商品页记录",
+      "type": "self_report",
+      "sources": [
+        "SKU03"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "event": "樱桃小丸子联名手办与毛绒挂件发布记录",
+      "type": "self_report",
+      "sources": [
+        "SKU01",
+        "SKU02"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "普通的一天，也可以慢慢过。",
+    "sentence_type": "允许",
+    "basis": "inferred",
+    "sources": [
+      "BIO",
+      "SKU08"
+    ]
+  },
+  "core": {
+    "personality": "温柔、恬淡、好奇",
+    "emotion": "内收",
+    "action": "在小日常里发呆、休息，与猫相伴",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "居家、睡前、桌面休息与季节更替",
+    "behavior": "选一个安静小动作或熟悉物件来陈列/携带",
+    "state": "想在忙碌中暂停一下",
+    "conflict": "没有戏剧化的大事件，也想保留生活的意义",
+    "unsaid": "不必每一天都很精彩。",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "手办、毛绒与联名是购买入口；用户年龄性别、地区比例未知",
+    "where": "POP MART官方渠道、展会签名；本批跳过小红书",
+    "buy": "官网产品与公司推广可确认；未有单IP收入或个人购买队列",
+    "signs": "Fluffy Life、Growing up、Seasons、All Stars为主题线索",
+    "share": "陈列、日常代入和猫主题分享为待观察行为",
+    "breakout": "毛绒与小丸子联名可能增加触达；新增/重合用户无数据"
+  },
+  "pendulum": {
+    "position": "软萌治愈",
+    "note": "恬淡、少戏剧性的幼态女孩，官方定位；治愈不等于治疗效果。",
+    "against": "可以和强情绪、大世界观的角色比较，但没有证明2024此定位稀缺或直接驱动销售。"
+  },
+  "form": {
+    "archetype": "人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "五官",
+      "头型"
+    ],
+    "mark": "巨大黑椭圆眼内侧白月牙、短眉与点线小嘴、饱满脸颊和短发侧翼",
+    "face": "V01浅棕刘海、黑眼白月牙、双短睫、分离短眉、腮红细纹与小横嘴；不同系列发色与造型可变",
+    "emotion": "内收",
+    "odd": "巨眼与极小口鼻造成安静凝视，宽大衣服和短腿强化幼态；为目视解释",
+    "density": "中等",
+    "naming": "其他",
+    "group": "单角色"
+  },
+  "collide_combo": "宽大圆方脸＋黑椭圆眼白月牙及短睫＋分离短眉小横嘴＋外展短发与短身动作关系应避免直接照搬；大眼、腮红、短发各自是公共元素。",
+  "color": {
+    "mode": "多色系列",
+    "main": "早期样本浅棕发、奶白黄衣；季节、星辰和联名采用不同衣帽色",
+    "signature": "黑眼白月牙的明暗关系比单一服装色更稳定（样本观察）",
+    "notes": "八区真实屏幕取样仅对应早期商品宣传图V01；黄色、棕发不是全部款式固定色。"
+  },
+  "materials": "手办PVC/ABS与五金；部分系列含磁体、电子元件或纺织材料；毛绒混合聚酯/PVC/ABS/POM，按SKU区分。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "授权图案"
+  },
+  "product": {
+    "first_category": null,
+    "hit_category": null,
+    "hit_product": "Fluffy Life为本轮核到的2024早期系列；未证实第一商品或当前销量冠军",
+    "price_band": "美国官网代表单件/单抽USD19.99–39.99；Wind单体当日29.99，与旧索引43.99分开",
+    "sources": [
+      "COL",
+      "SKU01",
+      "SKU03",
+      "SKU07",
+      "SKU08"
+    ]
+  },
+  "numbers": [],
+  "mechanisms": [
+    {
+      "claim": "用微小动作而非大剧情承载恬淡性格",
+      "type": "inference",
+      "evidence": "早期擦眼、季节中抱猫、纸张包裹等场景与官方日常设定呼应。",
+      "boundary": "没有用户访谈证明安静动作为购买原因；不能把所有用户都写成疲惫或焦虑。",
+      "sources": [
+        "BIO",
+        "SKU05",
+        "SKU06",
+        "SKU08"
+      ]
+    },
+    {
+      "claim": "稳定的眼脸关系可跨服装、手办与毛绒保留身份",
+      "type": "inference",
+      "evidence": "八项样本中黑眼白月牙与小口鼻反复出现；小丸子联名改变发型服装，脸部仍有共性。",
+      "boundary": "这是样本比较，未做匿名识别实验；毛绒脸比例和发型并非完全相同。",
+      "sources": [
+        "SKU01",
+        "SKU02",
+        "SKU03",
+        "SKU08"
+      ]
+    },
+    {
+      "claim": "内部孵化与展会让作者和渠道同时可见",
+      "type": "hypothesis",
+      "evidence": "年报说明PDC；美洲负责人采访谈KaKa在SDCC签名。",
+      "boundary": "签名活动存在不等于转化率、增量收入或品牌忠诚已验证。",
+      "sources": [
+        "FIN24",
+        "INT"
+      ]
+    },
+    {
+      "claim": "联名增加接触理由，也可能稀释自有识别",
+      "type": "hypothesis",
+      "evidence": "小丸子联名同时出现手办及毛绒，黄色帽衣红裙成为强外部线索。",
+      "boundary": "没有联名前后销量、识别或用户重合数据；无法判断净获益。",
+      "sources": [
+        "SKU01",
+        "SKU02"
+      ]
+    }
+  ],
+  "counterexamples": "Wind当前集合页29.99美元，旧索引曾43.99，不能混为单一永久价格；年报106.9%增长属于HIRONO；尚未找到匹配的失败款、用户退坑或独立销量，不能据此说从未失败。",
+  "theory": {
+    "shell": "巨大黑白眼与幼态脸构成识别，服装、季节物件和动作提供系列差异",
+    "core": "官方温柔女孩被简单快乐打动，喜欢休息、发呆和猫；消费者是否这样体验仍待验证",
+    "shadow": "大眼、短发、腮红、猫与季节是公共元素，具体脸部配置和长期系列形成身份",
+    "two_layers": {
+      "surface": "安静、可爱的日常场景可能容易理解（假设）",
+      "deep": "成长/季节主题与猫的重复关系可供收藏者积累版本记忆；未采直接行为"
+    },
+    "validation": "公司称吸引关注、负责人称美国畅销属于自述；没有可比较销量或独立复购数据。"
+  },
+  "for_skills": {
+    "lab": "可借普通日常也值得被表达的立场，用具体动作验证；不把柔和审美自动写成疗愈人群。",
+    "form": "可借眼部明暗与小动作的分工；需重新设计原型、比例与眼鼻嘴，避免复制巨大黑眼白月牙加短发脸。",
+    "studio": "陈列小场景、随身毛绒和联名分开评估；设计需核磁体/电子元件的实际用途与安全规格，不能凭宣传图猜。"
+  },
+  "gaps": [
+    "KaKa更早经历与原始创作动机、最早草图及首次公开月份未知；2024为公司推出年份。",
+    "PDC归属已核，原始版权、商标与劳动创作协议未逐份核验。",
+    "未取得单IP收入、系列销量、成本、毛利、库存和专属团队；2024年报邻近106.9%属于HIRONO。",
+    "按用户要求暂跳过小红书；没有直接用户需求、复购/退坑和账号连续发布/增长样本。",
+    "当前八项SKU不是全量图鉴；不同收藏页旧价格与当前29.99美元冲突按当日正式集合页记录。",
+    "英文附图v1可见视角接近，腮红、轮廓线与衣服细节有所简化；纯文字、中文、3D和毛绒生成均未测。"
+  ],
+  "id": "nyota",
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-28",
+  "updated": "2026-10-28",
+  "sources": [
+    {
+      "id": "BIO",
+      "title": "官方NYOTA角色设定",
+      "url": "https://www.popmart.com/gb/collections/nyota/803e2d18-7d88-4ddf-b421-2c16db3d1a06",
+      "publisher": "POP MART英国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "支持温柔、简单快乐、舒适小世界及与猫发呆；不代表用户心理调查。"
+    },
+    {
+      "id": "COL",
+      "title": "美国站NYOTA当前商品集合",
+      "url": "https://www.popmart.com/us/collection/nyota",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "当日美元标价；Wind29.99美元采用本页与商品页推荐价，不用旧集合索引43.99。不是销量排名。"
+    },
+    {
+      "id": "FIN24",
+      "title": "2024年报：PDC与新IP NYOTA",
+      "url": "https://prod-out-res.popmart.com/cms/ANNUAL_REPORT_2024_976e7e443e.pdf",
+      "publisher": "POP MART／年报",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "下载PDF并读相关段落，支持2024新推出与PDC归属；同段106.9%属于HIRONO，不能移植；具体发布时间以披露文件为准。"
+    },
+    {
+      "id": "INT",
+      "title": "美洲授权负责人在SDCC的直接采访",
+      "url": "https://nerdist.com/article/pop-mart-intervew-reflection-on-past-15-years-future-labubus-and-more/",
+      "publisher": "Nerdist／Emily Brough直接采访",
+      "published": "2025-08-08",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "支持内部设计师、KaKa署名和SDCC签名；畅销说法为公司自述，无独立销量表；late2023/2024不是精确首次公开日。"
+    },
+    {
+      "id": "SKU01",
+      "title": "NYOTA × 樱桃小丸子毛绒挂件官方规格",
+      "url": "https://www.popmart.com/us/products/8428/nyota-×-chibi-maruko-chan-plush-doll-pendant",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "联名挂件与同系列手办规格分开，不把16cm写成含环总高。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU02",
+      "title": "NYOTA × 樱桃小丸子手办官方规格",
+      "url": "https://www.popmart.com/us/products/8430/nyota-×-chibi-maruko-chan-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "磁体存在不代表具体可动结构已实测。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU03",
+      "title": "Where Moments Meet 毛绒官方规格",
+      "url": "https://www.popmart.com/us/products/6268/nyota-where-moments-meet-series-plush-doll",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "品名Plush Doll但站点亦归挂件类别；不以名称猜全部结构。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU04",
+      "title": "We are All Stars 手办官方规格",
+      "url": "https://www.popmart.com/us/products/4706/nyota-we-are-all-stars-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "未核每款电路功能、续航与附件，宣传星光不等于每款都发光。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU05",
+      "title": "I Am the Seasons 手办官方规格",
+      "url": "https://www.popmart.com/us/products/3080/nyota-i-am-the-seasons-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "混合材料按系列页记录，不替每款推断具体材料位置。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU06",
+      "title": "Growing up by Your Way 手办官方规格",
+      "url": "https://www.popmart.com/us/products/1720/nyota-growing-up-by-your-way-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "纸张外观不证明真实纸材，材质以规格为准。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU07",
+      "title": "Love Comes with the Wind 单体官方规格",
+      "url": "https://www.popmart.com/us/products/3074/nyota-love-comes-with-the-wind-figure",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "本轮当日正式集合页与相关推荐29.99美元；旧索引43.99不用作当前定价。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU08",
+      "title": "Fluffy Life 手办官方规格",
+      "url": "https://www.popmart.com/us/products/959/nyota's-fluffy-life-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "本轮核到的早期系列，不擅自认定最早商品；当前图为实测参考。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    }
+  ],
+  "archive": "research/nyota/2026-10-28/index.html",
+  "webpage": "research/nyota/2026-10-28/index.html",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/nyota/2026-10-28/",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/nyota/2026-10-28/"
+}

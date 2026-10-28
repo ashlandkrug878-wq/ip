@@ -1,0 +1,25 @@
+[
+  {
+    "prompt_id": "nyota-flat-ref-v1",
+    "subject_id": "nyota",
+    "version": 1,
+    "target_scope": "V01官方商品图可见视角平面转译",
+    "carrier": "flat",
+    "exact_prompt": "Use the attached official product photograph as the sole identity, clothing, proportions, expression and pose reference. Translate only the exact single visible girl figure and her low flat orange oval base into a clean flat 2D full-body illustration on a white square canvas. Preserve her oversized broad rounded-square pale peach face, light taupe-brown blunt bob with scalloped short fringe and two long outward-splaying lower side locks, tiny ears, two enormous black oval eyes with broad white crescent areas on their viewer-left sides and two short upward lashes above each eye, two separate short taupe dash eyebrows, tiny subtle nose and tiny horizontal brown mouth. Preserve the flushed pink cheek areas with fine short hatch marks. Her head leans toward the viewer's right; her viewer-left arm bends up with a very long cream sleeve and her bare hand lightly touching the outer upper area of the viewer-left eye; her other arm hangs down with the hand pinching the lower hem. Preserve the loose cream long-sleeved top with mustard-yellow rounded collar, a small outlined coral-red heart and handwritten black LOVE at the center chest, loose mustard-yellow ribbed cropped pants and small bare feet together on the low orange base. Keep the exact short-legged body proportions, eye-to-face spacing, sideways hair silhouette, quiet expression and hand-to-face relationship in the reference. Use thin clean dark outlines and flat solid local colors. Remove molded plastic shine, dimensional shading, cast shadows, material texture and photographic background; do not add new props or scenery. Do not change the hair to black, add a smile or makeup, move the raised hand onto the forehead, switch the raised arm to the opposite side, or make her a teenager. No logos, no watermark, no additional text beyond the small chest graphic visible in the supplied reference. Reconstruct only this view; do not invent sides or a back.",
+    "language": "en",
+    "input_mode": "reference_assisted",
+    "reference_image_ids": [
+      "V01"
+    ],
+    "reference_sha256": "be01d7b860bfc2d18bd2cf450a32bc26e8ab5482f324c48dacc97cd2acbc0958",
+    "generated_image_path": "assets/nyota-flat-ref-v1.webp",
+    "original_generated_file": "generated_images/exec-a23a2ee3-8582-4f03-93de-d7714968c025.png",
+    "generated_sha256": "f09b987c78c74958468ae9268fe678259eb92614d304ece61f664417594c15cf",
+    "observations": "黑眼白月牙、分离短眉、双短睫、浅棕短发侧翼、歪头擦眼、另一手捏衣角与奶白黄裤橙底均接近。腮红强化、轮廓线更重、衣服黄色晕染被简化，仍有极浅明暗；仅附图平面转译目视通过。",
+    "revision_reason": "首轮明确绑定已实际看过的本地官方原图",
+    "tested_at": "2026-10-28",
+    "status": "ready",
+    "protocol_validity": "valid",
+    "validation": "逐项目视对照，无数值相似度、多用户盲测或重复稳定性结论"
+  }
+]

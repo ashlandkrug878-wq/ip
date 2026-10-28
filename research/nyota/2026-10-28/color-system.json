@@ -1,0 +1,161 @@
+{
+  "image_dimensions": [
+    1200,
+    1200
+  ],
+  "source_sha256": "be01d7b860bfc2d18bd2cf450a32bc26e8ab5482f324c48dacc97cd2acbc0958",
+  "colors": [
+    {
+      "name": "浅棕发",
+      "role": "头型",
+      "scope": "仅本轮V01",
+      "hex_preview": "#9c7d65",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          650,
+          190
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "肤色",
+      "role": "脸部",
+      "scope": "仅本轮V01",
+      "hex_preview": "#ffe8db",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          650,
+          330
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "黑眼",
+      "role": "识别锚点",
+      "scope": "仅本轮V01",
+      "hex_preview": "#423c3a",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          520,
+          390
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "奶白上衣",
+      "role": "主体",
+      "scope": "仅本轮V01",
+      "hex_preview": "#fffefa",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          540,
+          690
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "黄裤",
+      "role": "下装",
+      "scope": "仅本轮V01",
+      "hex_preview": "#fece73",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          520,
+          900
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "橙底",
+      "role": "支撑",
+      "scope": "仅本轮V01",
+      "hex_preview": "#ff9e5b",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          600,
+          1040
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "腮红",
+      "role": "点色",
+      "scope": "仅本轮V01",
+      "hex_preview": "#f4a79b",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          710,
+          520
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "胸前红心",
+      "role": "图案",
+      "scope": "仅本轮V01",
+      "hex_preview": "#f66354",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          605,
+          640
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    }
+  ]
+}

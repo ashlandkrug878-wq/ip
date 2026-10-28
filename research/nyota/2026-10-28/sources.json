@@ -1,0 +1,134 @@
+[
+  {
+    "id": "BIO",
+    "title": "官方NYOTA角色设定",
+    "url": "https://www.popmart.com/gb/collections/nyota/803e2d18-7d88-4ddf-b421-2c16db3d1a06",
+    "publisher": "POP MART英国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "支持温柔、简单快乐、舒适小世界及与猫发呆；不代表用户心理调查。"
+  },
+  {
+    "id": "COL",
+    "title": "美国站NYOTA当前商品集合",
+    "url": "https://www.popmart.com/us/collection/nyota",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "当日美元标价；Wind29.99美元采用本页与商品页推荐价，不用旧集合索引43.99。不是销量排名。"
+  },
+  {
+    "id": "FIN24",
+    "title": "2024年报：PDC与新IP NYOTA",
+    "url": "https://prod-out-res.popmart.com/cms/ANNUAL_REPORT_2024_976e7e443e.pdf",
+    "publisher": "POP MART／年报",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "下载PDF并读相关段落，支持2024新推出与PDC归属；同段106.9%属于HIRONO，不能移植；具体发布时间以披露文件为准。"
+  },
+  {
+    "id": "INT",
+    "title": "美洲授权负责人在SDCC的直接采访",
+    "url": "https://nerdist.com/article/pop-mart-intervew-reflection-on-past-15-years-future-labubus-and-more/",
+    "publisher": "Nerdist／Emily Brough直接采访",
+    "published": "2025-08-08",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "支持内部设计师、KaKa署名和SDCC签名；畅销说法为公司自述，无独立销量表；late2023/2024不是精确首次公开日。"
+  },
+  {
+    "id": "SKU01",
+    "title": "NYOTA × 樱桃小丸子毛绒挂件官方规格",
+    "url": "https://www.popmart.com/us/products/8428/nyota-×-chibi-maruko-chan-plush-doll-pendant",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "联名挂件与同系列手办规格分开，不把16cm写成含环总高。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU02",
+    "title": "NYOTA × 樱桃小丸子手办官方规格",
+    "url": "https://www.popmart.com/us/products/8430/nyota-×-chibi-maruko-chan-series-figures",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "磁体存在不代表具体可动结构已实测。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU03",
+    "title": "Where Moments Meet 毛绒官方规格",
+    "url": "https://www.popmart.com/us/products/6268/nyota-where-moments-meet-series-plush-doll",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "品名Plush Doll但站点亦归挂件类别；不以名称猜全部结构。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU04",
+    "title": "We are All Stars 手办官方规格",
+    "url": "https://www.popmart.com/us/products/4706/nyota-we-are-all-stars-series-figures",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "未核每款电路功能、续航与附件，宣传星光不等于每款都发光。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU05",
+    "title": "I Am the Seasons 手办官方规格",
+    "url": "https://www.popmart.com/us/products/3080/nyota-i-am-the-seasons-series-figures",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "混合材料按系列页记录，不替每款推断具体材料位置。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU06",
+    "title": "Growing up by Your Way 手办官方规格",
+    "url": "https://www.popmart.com/us/products/1720/nyota-growing-up-by-your-way-series-figures",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "纸张外观不证明真实纸材，材质以规格为准。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU07",
+    "title": "Love Comes with the Wind 单体官方规格",
+    "url": "https://www.popmart.com/us/products/3074/nyota-love-comes-with-the-wind-figure",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "本轮当日正式集合页与相关推荐29.99美元；旧索引43.99不用作当前定价。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU08",
+    "title": "Fluffy Life 手办官方规格",
+    "url": "https://www.popmart.com/us/products/959/nyota's-fluffy-life-series-figures",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "本轮核到的早期系列，不擅自认定最早商品；当前图为实测参考。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  }
+]
