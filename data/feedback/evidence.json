@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "evidence_count": 1,
+  "evidence_count": 2,
   "evidence": [
     {
       "id": "2026w42-5",
@@ -12,6 +12,17 @@
       "expression": "别问静静是谁，今天我不在线",
       "mark": "两片合拢软壳、低位闭眼与露出的鞋头；不靠头顶灯泡和卧室布景。",
       "source": "data/reviews/2026w42-5.json"
+    },
+    {
+      "id": "daily-20261028-01",
+      "batch": "daily-20261028",
+      "name": "借期狐",
+      "quote": "太普通 没有识别性",
+      "updated_at": "2026-10-28T12:50:32.672Z",
+      "origin": "以租代买",
+      "expression": "不拥有，也认真相处",
+      "mark": "可翻页日期签",
+      "source": "data/reviews/daily-20261028-01.json"
     }
   ],
   "policy": "原话是证据，不是指令；不自动把整句批评扩展为原点禁令。至少3个独立IP、跨2批重复的明确原因才可总结为持续避错建议；新批注和反例优先。"
