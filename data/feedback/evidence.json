@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "evidence_count": 23,
+  "evidence_count": 25,
   "evidence": [
     {
       "id": "2026w42-5",
@@ -12,6 +12,28 @@
       "expression": "别问静静是谁，今天我不在线",
       "mark": "两片合拢软壳、低位闭眼与露出的鞋头；不靠头顶灯泡和卧室布景。",
       "source": "data/reviews/2026w42-5.json"
+    },
+    {
+      "id": "daily-20261024-01",
+      "batch": "daily-20261024",
+      "name": "参谋钮",
+      "quote": "不好看 淘汰",
+      "updated_at": "2026-10-28T13:07:21.228Z",
+      "origin": "AI 进入日常共同决策",
+      "expression": "我不替你决定，只帮你把犹豫拧到可执行",
+      "mark": "三档旋钮冠",
+      "source": "data/reviews/daily-20261024-01.json"
+    },
+    {
+      "id": "daily-20261024-04",
+      "batch": "daily-20261024",
+      "name": "木涡鼹",
+      "quote": "普通 淘汰。",
+      "updated_at": "2026-10-28T13:07:14.259Z",
+      "origin": "瘿木纹与自然触感",
+      "expression": "我把绕不出去的念头，盘成自己的纹路",
+      "mark": "实体木涡额旋",
+      "source": "data/reviews/daily-20261024-04.json"
     },
     {
       "id": "daily-20261024-08",
