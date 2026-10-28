@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "evidence_count": 20,
+  "evidence_count": 21,
   "evidence": [
     {
       "id": "2026w42-5",
@@ -45,6 +45,17 @@
       "expression": "城市丢下的边角，也能替我挡雨",
       "mark": "折弯旧屋檐羽冠",
       "source": "data/reviews/daily-20261025-05.json"
+    },
+    {
+      "id": "daily-20261025-07",
+      "batch": "daily-20261025",
+      "name": "火口盏",
+      "quote": "普通",
+      "updated_at": "2026-10-28T13:04:25.707Z",
+      "origin": "火山岩浆陶瓷、粗陶与流釉",
+      "expression": "压力不必藏，烧成表面就好",
+      "mark": "不对称火山口＋单道流釉",
+      "source": "data/reviews/daily-20261025-07.json"
     },
     {
       "id": "daily-20261026-01",
