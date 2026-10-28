@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "evidence_count": 32,
+  "evidence_count": 34,
   "evidence": [
     {
       "id": "2026w42-5",
@@ -23,6 +23,28 @@
       "expression": "气味替我把房间调成想要的心情。",
       "mark": "侧卷巨型烟环",
       "source": "data/reviews/daily-20261022-01.json"
+    },
+    {
+      "id": "daily-20261022-04",
+      "batch": "daily-20261022",
+      "name": "坐醒",
+      "quote": "气质独特 但不好看 淘汰。",
+      "updated_at": "2026-10-28T13:11:02.578Z",
+      "origin": "会迫使身体参与的陶珠座椅",
+      "expression": "舒服不是躺平，是重新感觉自己。",
+      "mark": "五颗陶珠拱冠",
+      "source": "data/reviews/daily-20261022-04.json"
+    },
+    {
+      "id": "daily-20261022-06",
+      "batch": "daily-20261022",
+      "name": "养痕",
+      "quote": "不好看",
+      "updated_at": "2026-10-28T13:11:00.163Z",
+      "origin": "植鞣革与木材随使用形成包浆",
+      "expression": "旧痕不是损耗，是你参与完成的部分。",
+      "mark": "皮革鞋头额片",
+      "source": "data/reviews/daily-20261022-06.json"
     },
     {
       "id": "daily-20261022-07",
