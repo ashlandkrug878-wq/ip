@@ -303,10 +303,11 @@ function renderInfo(){
   $("infoBody").innerHTML=`<div><b>时机判断</b>${esc(B.timing)}</div>`+(B.tradeoff?`<div><b>方案之间的取舍</b>${esc(B.tradeoff)}</div>`:"")+(B.learned?`<div><b>从你上一期的选择里学到的</b>${esc(B.learned)}</div>`:"");
 }
 function renderFilters(){
-  const list=batchIps();const c={全部:list.length,未处理:0,保留:0,待优化:0,淘汰:0};
+  const list=batchIps();const c={全部:list.filter(i=>!isRetired(i.id)).length,未处理:0,保留:0,待优化:0,淘汰:0};
   list.forEach(i=>{const s=REVIEWS[i.id]?.status;c[s||"未处理"]++;});
-  setTabs($("filters"),["全部","未处理",...STATUSES].map(s=>[s,s,c[s]]),filter,"filter");
+  setTabs($("filters"),["全部","未处理",...STATUSES].map(s=>[s,s==="全部"?"候选":s==="淘汰"?"淘汰档案":s,c[s]]),filter,"filter");
 }
+function isRetired(id){const f=FORMS.find(x=>x.id===id);return REVIEWS[id]?.status==="淘汰"||(f&&REVIEWS[f.ip]?.status==="淘汰");}
 function statusBtns(id){const st=REVIEWS[id]?.status||"";return `<div class="status" role="group" aria-label="你的选择">${STATUSES.map(s=>`<button type="button" class="${s} ${st===s?"on":""}" data-act="status" data-id="${esc(id)}" data-v="${s}">${s}</button>`).join("")}</div>`;}
 function card(i){
   const r=REVIEWS[i.id]||{};const st=r.status||"";const os=ipOrigins(i);
@@ -331,7 +332,7 @@ const LOCALIMG={};
 function ipImage(id){if(LOCALIMG[id])return LOCALIMG[id];const j=ipJobs(id).find(j=>j.status==="done"&&/^images\/[\w./-]+\.(png|jpe?g|webp)$/i.test(j.output||""));return j?j.output+(j.v?"?v="+encodeURIComponent(j.v):""):null;}
 function renderGrid(){
   const g=$("grid");let list=batchIps();
-  if(filter==="未处理")list=list.filter(i=>!REVIEWS[i.id]?.status);else if(filter!=="全部")list=list.filter(i=>REVIEWS[i.id]?.status===filter);
+  if(filter==="全部")list=list.filter(i=>!isRetired(i.id));else if(filter==="未处理")list=list.filter(i=>!REVIEWS[i.id]?.status);else list=list.filter(i=>REVIEWS[i.id]?.status===filter);
   if(loadError){g.innerHTML=`<div class="empty"><b>没有读到方案数据</b><span>${esc(loadError)}</span></div>`;return;}
   if(!loaded){g.innerHTML=`<div class="empty"><b>正在载入本期方案</b><span>从仓库读取数据…</span></div>`;return;}
   if(!BATCHES.length){g.innerHTML=`<div class="empty"><b>还没有任何一期</b><span>第一期生成后会自动出现在这里。</span></div>`;return;}
@@ -431,13 +432,13 @@ function formCard(f){
   </article>`;
 }
 function renderForms(){
-  const list=formIps();const sel=$("formIpSel");
+  const list=formIps().filter(i=>!isRetired(i.id));const sel=$("formIpSel");
   if(!formIp||!list.find(i=>i.id===formIp))formIp=list[0]?.id||null;
   sel.innerHTML=list.map(i=>`<option value="${esc(i.id)}" ${i.id===formIp?"selected":""}>${esc(i.name)} · ${esc(i.expr)}${formsOf(i.id).length?"":"（还没出形）"}</option>`).join("")||`<option>还没有可以找形的表达</option>`;
   const body=$("formBody"),head=$("formHead");
   if(!loaded){body.innerHTML="";head.innerHTML="";return;}
   if(!formIp){head.innerHTML="";body.innerHTML=`<div class="empty"><b>还没有可以找形的表达</b><span>在「① 表达」里把一张表达卡标为保留，再让 Claude 用找形 skill 出第一轮线稿。</span></div>`;return;}
-  const ip=IPS.find(i=>i.id===formIp);const fs=formsOf(formIp);
+  const ip=IPS.find(i=>i.id===formIp);const fs=formsOf(formIp).filter(f=>!isRetired(f.id));
   head.innerHTML=`<details class="info"><summary>表达 · ${esc(ip.expr)}</summary><div class="infobody">${ip.core?`<div><b>情绪范围</b>${esc(ip.core.emotion)}</div><div><b>它在做什么</b>${esc(ip.core.action)}</div>`:""}${ip.insight?`<div><b>没说出口的话</b>${esc(ip.insight.unsaid)}</div>`:""}${ip.circle?`<div><b>圈层</b>${esc(ip.circle.name)}</div>`:""}</div></details>`;
   if(!fs.length){body.innerHTML=`<div class="empty"><b>这个表达还没有形</b><span>在对话里让 Claude 用找形 skill 给「${esc(ip.name)}」出第一轮 6 个线稿方向，写进仓库后会出现在这里。</span></div>`;return;}
   const rounds={};fs.forEach(f=>{(rounds[f.round]=rounds[f.round]||[]).push(f);});
@@ -507,7 +508,7 @@ function renderStudyDrawer(){
 }
 function renderLock(){
   const g=$("lockGrid");if(!loaded){g.innerHTML="";return;}
-  const list=FORMS.filter(f=>f.locked);
+  const list=FORMS.filter(f=>f.locked&&!isRetired(f.id));
   if(!list.length){g.innerHTML=`<div class="empty"><b>还没有锁定的形</b><span>在「② 找形」里挑中一个形，让 Claude 锁定并生成 IP 档案，它会出现在这里，进入配色选材和内容制作。</span></div>`;return;}
   g.innerHTML=list.map(f=>{const ip=IPS.find(i=>i.id===f.ip)||{};const im=ipImage(f.id);const arch=f.archive&&/^ip-archives\/[^?#]+\.md$/.test(f.archive)?`https://github.com/${OWNER}/${REPO}/blob/${BRANCH}/${f.archive.split("/").map(encodeURIComponent).join("/")}`:null;
     return `<article class="card">${im?`<img class="cimg" src="${esc(im)}" alt="锁定线稿" loading="lazy">`:`<div class="cimg ph">还没有线稿</div>`}<div class="cmain"><div class="cname"><h3>${esc(ip.name||"")}</h3><span class="lockflag">已锁定</span></div><div class="expr">${esc(ip.expr||"")}</div><div class="note"><span class="fid">${esc(f.round)}${esc(f.n)}</span>${esc(f.title)}</div></div><div class="cfoot"><span class="note">下一步：配色选材</span><span>${arch?`<a class="btn link" href="${esc(arch)}" target="_blank" rel="noopener noreferrer">IP 档案 ↗</a>`:""}<button type="button" class="btn link" data-act="open" data-id="${esc(f.id)}">详情 →</button></span></div></article>`;}).join("");
@@ -610,12 +611,17 @@ function flash(id,text){const s=$(id);if(s)s.textContent=text;}
 async function saveReview(id,patch){
   if(!TOKEN){openConnect();return;}
   const fm=FORMS.find(x=>x.id===id);const prev=REVIEWS[id]||{};const next={...prev,...patch,ip:id,batch:IPS.find(x=>x.id===(fm?fm.ip:id))?.batch||cur,updatedAt:new Date().toISOString()};if(fm){next.kind="form";next.parentIp=fm.ip;}delete next.score;
+  if(patch.status!==undefined&&patch.status!==(prev.status||"")){
+    next.history=[...(prev.history||[]),{status:prev.status||"",note:prev.note||"",at:prev.updatedAt||null},{status:patch.status,note:patch.note??prev.note??"",at:next.updatedAt}];
+    next.archived=patch.status==="淘汰";
+    if(next.archived)next.retiredAt=next.updatedAt;
+  }
   const draft=$("note-"+id)?.value;const isNew=!REVIEWS[id];
   REVIEWS[id]=next;renderFilters();renderGrid();renderForms();renderSpecies();if(openId===id){renderDrawer();if(draft!=null&&!("note" in patch))$("note-"+id).value=draft;}
   flash("saved-"+id,"正在保存…");
   const nm=itemName(id);
   try{await queueWrite(async()=>{await putJson(`data/reviews/${id}.json`,next,`选品板：${nm} ${patch.status!==undefined?"标记为"+(patch.status||"未处理"):"更新批注"}`);if(isNew)await touchIndex("reviews",id,true);});flash("saved-"+id,"已保存到仓库");}
-  catch(e){flash("saved-"+id,"没有保存成功："+e.message);}
+  catch(e){if(isNew)delete REVIEWS[id];else REVIEWS[id]=prev;renderAll();alert("没有保存成功，已恢复原状态："+e.message);}
 }
 async function togglePool(type,name){
   if(!TOKEN){openConnect();return;}
