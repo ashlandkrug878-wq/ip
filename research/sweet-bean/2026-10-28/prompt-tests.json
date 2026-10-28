@@ -1,0 +1,25 @@
+[
+  {
+    "prompt_id": "sweet-bean-flat-ref-v1",
+    "subject_id": "sweet-bean",
+    "version": 1,
+    "target_scope": "V01官方商品图可见视角平面转译",
+    "carrier": "flat",
+    "exact_prompt": "Use the attached official character rendering as the sole identity, geometry, outfit, pose and prop reference. Translate exactly the visible baby in the yellow duck rain hood into one clean flat 2D full-body character illustration on a white square canvas. Preserve the enormous rounded duck hood with orange duck bill at its upper viewer-left/front and small black duck-eye dot, the pale yellow-green chunky side-swept fringe underneath, broad pale peach face, two simple tall black oval eyes with no white highlights, one round salmon-pink button nose, two large muted rosy cheek disks and tiny quiet mouth. Keep the yellow rain cape with a small tied yellow bow beneath the chin, bare chubby hands, white lower garment with visible mint-green oval spots, pale-blue inner leg areas and two rounded mint-green boot soles pointing toward the viewer. Preserve the exact diagonally tilted sitting or floating pose, the viewer-right knee raised high, viewer-left leg lower, head angled toward viewer-left and both hands placed around the folded umbrella across the front. The umbrella has a thick pale-gray curved hook entering from viewer-left and a folded clear canopy extending diagonally down to viewer-right between the feet; represent the canopy using simple light gray-white flat angular panels and thin contours, not real transparent reflections. Preserve the actual head-to-body scale, eye spacing, nose size, hand positions, umbrella orientation and silhouette from the reference. Use thin clean dark outlines and solid flat local colors, removing plastic gloss, sculptural shading, material texture, cast shadows and all photographic lighting. Do not add a smile, eyelashes, eyebrows, black pupils inside white eyes, a fully opened umbrella, standing legs, new props or scenery. No text, no logos, no watermark. Reconstruct only this visible view and do not invent unseen structure.",
+    "language": "en",
+    "input_mode": "reference_assisted",
+    "reference_image_ids": [
+      "V01"
+    ],
+    "reference_sha256": "957b7caf91ba4221c1cee05b423699bb7e03a5d861df92e02e3f9e09d8750a9c",
+    "generated_image_path": "assets/sweet-bean-flat-ref-v1.webp",
+    "original_generated_file": "generated_images/exec-e0f26e75-8666-4859-a20a-a41ca550014f.png",
+    "generated_sha256": "811244320a672e28d0b0574cba7e183c12ae080ea424579d9e576cf0ff8ca555",
+    "observations": "鸭帽橙嘴、浅黄绿发、豆眼粉圆鼻大腮、黄披肩、腿脚朝前与折伞斜向均接近。手指、发块与鼻部轮廓简化，仍有浅色过渡；透明伞转为灰白面。只通过该可见视角附图平面转译，不是纯文字或生产结构验证。",
+    "revision_reason": "首轮明确绑定已实际看过的本地官方原图",
+    "tested_at": "2026-10-28",
+    "status": "ready",
+    "protocol_validity": "valid",
+    "validation": "逐项目视对照，无数值相似度、多用户盲测或重复稳定性结论"
+  }
+]

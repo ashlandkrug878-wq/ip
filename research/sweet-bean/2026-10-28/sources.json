@@ -1,0 +1,145 @@
+[
+  {
+    "id": "COL",
+    "title": "当前官方设定、PDC作者及美国商品集合",
+    "url": "https://www.popmart.com/us/collection/sweet-bean",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "两岁半、PDC Xuechen署名；读取当日HTML时Language of Love有19.99原价/50%OFF9.99，索引仍19.99，活动期限未核。"
+  },
+  {
+    "id": "PROS",
+    "title": "2020招股书：内部创作IP表",
+    "url": "https://prod-out-res.popmart.com/cms/Prospectus_7ce2a0b409.pdf",
+    "publisher": "POP MART／招股书",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "partial",
+    "type": "fact",
+    "boundary": "已下载原PDF，读印刷页235表；SWEET BEAN创作年2019、类型Blind box，内部自有IP；不是首次公开/首售日期。"
+  },
+  {
+    "id": "FIN21",
+    "title": "2021中报：小甜豆收入",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0928/2021092800460_c.pdf",
+    "publisher": "POP MART／港交所",
+    "published": "2021-09-28",
+    "observed": "2026-10-28",
+    "access": "partial",
+    "type": "fact",
+    "boundary": "印刷页7称2021上半年超过63.7百万元人民币，是下限叙述，不当精确全年收入。"
+  },
+  {
+    "id": "FIN22",
+    "title": "2022年报：小甜豆2021/2022收入及自有分类",
+    "url": "https://prod-out-res.popmart.com/cms/ANNUAL_REPORT_2022_e5c3886181.pdf",
+    "publisher": "POP MART／年报",
+    "published": "2023-04-21",
+    "observed": "2026-10-28",
+    "access": "partial",
+    "type": "fact",
+    "boundary": "下载原PDF并读按IP收入表，人民币千元161526/147940；自有分类为历史披露，非2026销量。"
+  },
+  {
+    "id": "INT1",
+    "title": "雪宸直接访谈：生活与陪伴",
+    "url": "https://www.harpersbazaar.com.sg/lifestyle/pop-mart-artists-interview",
+    "publisher": "Harper’s Bazaar Singapore／直接访谈",
+    "published": "2025-10-07",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "作者经历、设计过程与愿景；同文照片alt写Ling而正文Xuechen，别名关系不另作推定；与Marina Bay Sands合作。"
+  },
+  {
+    "id": "INT2",
+    "title": "雪宸中文访谈：You're the best与日常",
+    "url": "https://www.nuyou.com.sg/lifestyle/pop-mart-artists-share-design-stories-behind-zsiga-sweet-bean-pino-jelly",
+    "publisher": "NUYOU／直接访谈",
+    "published": "2025-10-08",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "作者生活与鼓励设计自述；粉丝摆放/感动仅作者转述，本轮未直接访问那些用户；同SPH活动背景。"
+  },
+  {
+    "id": "MAIN",
+    "title": "当前官方主图所在首页",
+    "url": "https://www.popmart.com/en-GB",
+    "publisher": "POP MART",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "partial",
+    "type": "self_report",
+    "boundary": "实际下载并看1920×2704鸭帽雨衣渲染，图像原始创作/首发时间未知，不当2019原稿或具体SKU材料证据。"
+  },
+  {
+    "id": "SKU01",
+    "title": "Your Exclusive Holiday 手办官方规格",
+    "url": "https://www.popmart.com/us/products/4198/sweet-bean-your-exclusive-holiday-series-figures",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "节日群像主题，图上全部道具/布景不等于每盒内容。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU02",
+    "title": "Celebrate Ordinary Days 场景套装官方规格",
+    "url": "https://www.popmart.com/us/products/3775/sweet-bean-celebrate-ordinary-days-series-scene-sets",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "壳与人物分开；3.5cm原文字段指代不清，不擅自写成全套总高。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU03",
+    "title": "The Language of Love 手办官方规格",
+    "url": "https://www.popmart.com/us/products/2234/sweet-bean-the-language-of-love-series-figures",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "当日集合HTML50%促销9.99、原标19.99；推荐位仍19.99，适用范围/期限未知，不作永久定价。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU04",
+    "title": "I Want a Hug 手办官方规格",
+    "url": "https://www.popmart.com/us/products/1977/sweet-bean-i-want-a-hug-series-figures",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "不同款道具、电子功能和附件未逐件拆验。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU05",
+    "title": "Afternoon Tea 手办官方规格",
+    "url": "https://www.popmart.com/us/products/1054/sweet-bean-afternoon-tea-series-figures",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "食品/饮料外观不等于真实食品或软胶材质。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU06",
+    "title": "× INSTINCTOY Sweet Together 联名官方规格",
+    "url": "https://www.popmart.com/us/products/144/sweet-bean-×-instinctoy-sweet-together-series",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "整盒12不重复，隐藏概率未核；冰晶外观不证明真实玻璃或树脂。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "image_id": "V01",
+    "title": "当前官方鸭帽雨衣／V01实测",
+    "original_image_url": "https://prod-server-r2.popmart.com/uploads/aKPgp5qdzlgcjDtBEXR6O7m0f3hsRYNi/A5Yeb2nkbrHydWJ7-1763369384-LSTq_K8ze5UQ2me4-1757770456-1723457730556_sweet-bean%E5%AE%98%E7%BD%91ip%E5%B1%95%E7%A4%BA%E7%B4%A0%E4%BD%93.png",
+    "source_page_url": "https://www.popmart.com/en-GB",
+    "source_id": "MAIN",
+    "dimensions": [
+      1920,
+      2704
+    ],
+    "sha256": "957b7caf91ba4221c1cee05b423699bb7e03a5d861df92e02e3f9e09d8750a9c",
+    "observed_features": "黄鸭大帽橙嘴、浅黄绿发、黑豆眼粉圆鼻大腮，黄披肩蝴蝶结，绿鞋底朝前，折伞横斜在双腿间。",
+    "visual_language": "少量五官与大帽/伞形成关系；鸭帽是局部款式，不是角色原型永久为鸭。",
+    "material_and_structure": "当前宣传渲染；未将其关联为具体SKU材料（结构内部不由图像推断）"
+  },
+  {
+    "image_id": "V02",
+    "title": "专属假日群像",
+    "original_image_url": "https://prod-america-res.popmart.com/default/20251031_164034_252829____scene_sweet-bean-your-exclusive-holiday-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/4198/sweet-bean-your-exclusive-holiday-series-figures",
+    "source_id": "SKU01",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "670ebd261c8f3c446cd71eb22e968c18efc4323b972d1a610b303296d7cab912",
+    "observed_features": "雪地舞台里多款圣诞、礼物与小屋主题，颜色、外壳和姿态分化。",
+    "visual_language": "节日通过道具组合表达；不当完整款式数量图鉴。",
+    "material_and_structure": "PVC／ABS／PC（结构内部不由图像推断）"
+  },
+  {
+    "image_id": "V03",
+    "title": "日常交通场景盒",
+    "original_image_url": "https://prod-america-res.popmart.com/default/20250912_165340_699552____5_sweet-bean-celebrate-ordinary-days-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/3775/sweet-bean-celebrate-ordinary-days-series-scene-sets",
+    "source_id": "SKU02",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "c2c8c99fee6a09a4d0981f9109c7363dcae1c5366fef7a977fdfff9ffa2ee9c6",
+    "observed_features": "黄壳打开，内部绿座椅与红吊环，大/小两只人物坐着，旁有剪刀形装饰。",
+    "visual_language": "壳与场景是消费内容的一部分；整体与角色尺寸分别看。",
+    "material_and_structure": "ABS／PVC／五金／电子元件（结构内部不由图像推断）"
+  },
+  {
+    "image_id": "V04",
+    "title": "爱的语言礼物样本",
+    "original_image_url": "https://prod-america-res.popmart.com/default/20250509_152146_419836____2_sweet-bean-the-language-of-love-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/2234/sweet-bean-the-language-of-love-series-figures",
+    "source_id": "SKU03",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "975b80951952b82e3f196f43160271354298b4b249ea67e487fe1d47196dd6ec",
+    "observed_features": "熊外壳中的黄发脸，粉圆鼻，小人物前倾亲近，礼盒文字KISS与红蝴蝶结，蓝球支撑。",
+    "visual_language": "文字和动作共同把关心表达显性化。",
+    "material_and_structure": "ABS／PVC／五金／电子元件（结构内部不由图像推断）"
+  },
+  {
+    "image_id": "V05",
+    "title": "拥抱主题桌面样本",
+    "original_image_url": "https://prod-america-res.popmart.com/default/20250122_115518_693356____1_sweet-bean-i-want-a-hug-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/1977/sweet-bean-i-want-a-hug-series-figures",
+    "source_id": "SKU04",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "366d11ec8b195d690913cc71c2ada288985414073366e3ef1b32c52d22382359",
+    "observed_features": "绿发人物戴黄色帽，桌前拥抱杯形对象，旁有小人物与立体I want a Hug字样。",
+    "visual_language": "语句不只在包装上，进入产品轮廓；本轮未实测受众理解。",
+    "material_and_structure": "PVC／ABS／五金／电子元件／聚酯（结构内部不由图像推断）"
+  },
+  {
+    "image_id": "V06",
+    "title": "下午茶推车样本",
+    "original_image_url": "https://prod-america-res.popmart.com/default/20240402_142723_722239__1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/1054/sweet-bean-afternoon-tea-series-figures",
+    "source_id": "SKU05",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "a9f0fef3c880f79a8b00d1993f4572ee1276526ec01ee0a1f5ea7bd0cf0a98d5",
+    "observed_features": "黄发、浅绿帽、粉杯，小角色在粉绿推车上，前方心形豆眼脸和橙片状轮。",
+    "visual_language": "低信息五官可扩展到主题道具，但不据此认定新独立角色。",
+    "material_and_structure": "PVC／ABS／金属（结构内部不由图像推断）"
+  },
+  {
+    "image_id": "V07",
+    "title": "冰晶联名样本",
+    "original_image_url": "https://prod-america-res.popmart.com/default/01_rp12r2YUNR_1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/144/sweet-bean-×-instinctoy-sweet-together-series",
+    "source_id": "SKU06",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "7d4275e7009a5ad1e0c0a53ae760ed01fe6c2c2ea324c9120bf04ddf6043fbd9",
+    "observed_features": "粉发人物俯在蓝色透明滴状怪物上，怪物周边多突起，顶部小透明物。",
+    "visual_language": "合作方外壳与小甜豆脸分层，不把联名怪物的特征全部归给本IP。",
+    "material_and_structure": "PVC／ABS（结构内部不由图像推断）"
+  }
+]

@@ -1,0 +1,161 @@
+{
+  "image_dimensions": [
+    1920,
+    2704
+  ],
+  "source_sha256": "957b7caf91ba4221c1cee05b423699bb7e03a5d861df92e02e3f9e09d8750a9c",
+  "colors": [
+    {
+      "name": "鸭帽黄暗部",
+      "role": "主轮廓",
+      "scope": "仅本轮V01",
+      "hex_preview": "#c6b237",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          1050,
+          650
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "鸭嘴橙暗部",
+      "role": "帽部",
+      "scope": "仅本轮V01",
+      "hex_preview": "#c85f21",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          650,
+          650
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "浅黄绿发",
+      "role": "头型",
+      "scope": "仅本轮V01",
+      "hex_preview": "#c9c164",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          800,
+          950
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "黑豆眼",
+      "role": "五官",
+      "scope": "仅本轮V01",
+      "hex_preview": "#1e201f",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          950,
+          1180
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "粉圆鼻",
+      "role": "核心点色",
+      "scope": "仅本轮V01",
+      "hex_preview": "#f0a794",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          800,
+          1280
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "腮红暗部",
+      "role": "面部",
+      "scope": "仅本轮V01",
+      "hex_preview": "#ab6657",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          1000,
+          1320
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "肤色阴影",
+      "role": "留白",
+      "scope": "仅本轮V01",
+      "hex_preview": "#ccac8f",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          850,
+          1380
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "绿鞋底",
+      "role": "下部",
+      "scope": "仅本轮V01",
+      "hex_preview": "#528f71",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          1230,
+          1870
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    }
+  ]
+}

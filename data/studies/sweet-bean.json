@@ -1,0 +1,417 @@
+{
+  "name": "SWEET BEAN 小甜豆",
+  "aliases": [
+    "Sweet Bean",
+    "小甜豆"
+  ],
+  "summary": "两岁半孩子的低密度脸，与食物、日常和鼓励语句相连；作者把真实生活关系转成小场景。招股书创作年为2019，不能与2020商品推出混同；历史收入与促销都保留，疗愈愿景不当用户结论。",
+  "owner": {
+    "creator": "雪宸 Xuechen／POP MART Design Center",
+    "operator": "POP MART 泡泡玛特",
+    "relation": "官方当前集合页署名PDC的Xuechen；2020招股书列内部创作自有IP，2022年报仍归自有IP。原始劳动创作、版权与商标文件未逐份核验。",
+    "since": "2019",
+    "sources": [
+      "COL",
+      "PROS",
+      "FIN22"
+    ]
+  },
+  "origin": {
+    "path": [
+      "渠道孵化"
+    ],
+    "year": 2019,
+    "story": "2020招股书内部设计团队表明确列SWEET BEAN Year of creation为2019；这是创作年，不是已证实首次公开或首售。作者直接访谈说明日常、关系和旅行进入系列；常见2020商品推出说法另待同期官方首发档案。",
+    "sources": [
+      "PROS",
+      "INT1",
+      "INT2"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2019",
+      "event": "2020招股书内部设计团队表列创作年2019，产品类型盲盒",
+      "type": "fact",
+      "sources": [
+        "PROS"
+      ]
+    },
+    {
+      "date": "2021上半年",
+      "event": "中报称PDC小甜豆系列收入超过63.7百万元，非全年",
+      "type": "self_report",
+      "sources": [
+        "FIN21"
+      ]
+    },
+    {
+      "date": "2021/2022",
+      "event": "全年归类收入161.526与147.940百万元，2022同比约-8.41%",
+      "type": "fact",
+      "sources": [
+        "FIN22"
+      ]
+    },
+    {
+      "date": "2023-03-03",
+      "event": "INSTINCTOY联名美国商品页记录",
+      "type": "self_report",
+      "sources": [
+        "SKU06"
+      ]
+    },
+    {
+      "date": "2025-02/05",
+      "event": "I Want a Hug与The Language of Love商品记录",
+      "type": "self_report",
+      "sources": [
+        "SKU04",
+        "SKU03"
+      ]
+    },
+    {
+      "date": "2025-09/11",
+      "event": "Ordinary Days场景盒与Exclusive Holiday手办记录",
+      "type": "self_report",
+      "sources": [
+        "SKU02",
+        "SKU01"
+      ]
+    },
+    {
+      "date": "2025-10-07/08",
+      "event": "作者访谈谈生活经验、鼓励与陪伴意图",
+      "type": "self_report",
+      "sources": [
+        "INT1",
+        "INT2"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "你已经很好了，普通日子也值得被喜欢。",
+    "sentence_type": "允许",
+    "basis": "inferred",
+    "sources": [
+      "INT2",
+      "SKU02",
+      "SKU03"
+    ]
+  },
+  "core": {
+    "personality": "天真、好奇、贪玩",
+    "emotion": "内收",
+    "action": "像孩子一样探索食物、日常和亲密关系的小场景",
+    "basis": "inferred"
+  },
+  "insight": {
+    "scene": "独处、收礼、睡前、日常休息与需要鼓励的时刻",
+    "behavior": "选择带动作或语句的小物，作为陈列或送礼",
+    "state": "想被关心，也保留玩耍的自由",
+    "conflict": "成年人的功能要求与孩子式简单快乐并存",
+    "unsaid": "我也想偶尔被夸一句、被抱一下。",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "幼态、食物、场景收藏与鼓励礼物是候选入口；无年龄性别占比",
+    "where": "POP MART官方渠道、艺术家展会；本批跳过小红书",
+    "buy": "历史分IP收入支持商业规模；没有个人复购、订单或转售成交样本",
+    "signs": "两岁半、豆眼圆鼻、拥抱、爱的语言、日常场景与青蛙等物件线索需按样本核",
+    "share": "作者转述床头/浴室摆放与被鼓励感动，仅间接个案，非本轮直接访谈",
+    "breakout": "文字礼物和联名可增加接触；真实送礼占比与新增用户未知"
+  },
+  "pendulum": {
+    "position": "软萌治愈",
+    "note": "幼态与日常关心的审美/表达定位；不等同心理疗效。",
+    "against": "可与强态度、复杂剧情角色作对照，但未证明2019此定位稀缺，也不把2019创作解释成疫情驱动。"
+  },
+  "form": {
+    "archetype": "人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "五官",
+      "头型"
+    ],
+    "mark": "简单黑椭圆豆眼、圆粉鼻、大腮红、小嘴与圆润幼态脸；服装和物件承担主题",
+    "face": "V01无眉无睫黑豆眼、圆鼻、两圆腮和极小嘴，浅黄绿发在鸭帽下；跨样本发色和眼色处理可变",
+    "emotion": "内收",
+    "odd": "面部信息很少，外壳/道具却能丰富；圆鼻与豆眼区别于单靠大眼的角色",
+    "density": "中等",
+    "naming": "描述",
+    "group": "单角色"
+  },
+  "collide_combo": "黑豆眼、突出的粉圆鼻、双大圆腮、小嘴与婴儿脸身关系及具体发帽组合，避免整套复制；婴儿、食物、动物帽和鼓励语各自为公共资源。",
+  "color": {
+    "mode": "多色系列",
+    "main": "V01黄鸭雨衣、浅黄绿发、粉鼻与绿鞋；不同日常主题换色",
+    "signature": "面部黑眼/粉鼻/腮红的对比关系为样本锚点，黄鸭不是全IP唯一签名",
+    "notes": "八区屏幕取样来自V01当前宣传图，暖光与阴影明显；不做官方量产色卡或母版。"
+  },
+  "materials": "代表手办PVC/ABS/PC，场景盒含五金与电子元件，Hug系列另有聚酯；联名透明冰晶外观仍以官方PVC/ABS规格为准。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "授权图案"
+  },
+  "product": {
+    "first_category": null,
+    "hit_category": null,
+    "hit_product": "招股书早期产品类型为盲盒；第一具体SKU与当前销量冠军未核",
+    "price_band": "美国代表常规单抽15.99–19.99美元；当日Language of Love集合HTML显示50%促销9.99，原标19.99，活动范围未完整核",
+    "sources": [
+      "COL",
+      "PROS",
+      "SKU03",
+      "SKU05",
+      "SKU06"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "小甜豆归类产品收入",
+      "value": 161.526,
+      "unit": "百万元人民币",
+      "period": "2021全年",
+      "subject": "POP MART按IP分类收入",
+      "type": "fact",
+      "sources": [
+        "FIN22"
+      ]
+    },
+    {
+      "metric": "小甜豆归类产品收入",
+      "value": 147.94,
+      "unit": "百万元人民币",
+      "period": "2022全年",
+      "subject": "POP MART按IP分类收入",
+      "type": "fact",
+      "sources": [
+        "FIN22"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "小表情保留情绪空间，主题由动作与物件补足",
+      "type": "inference",
+      "evidence": "豆眼圆鼻在鸭帽、茶饮和联名样本中重复；雨伞、杯子、场景与文字改变语境。",
+      "boundary": "没有去道具识别、情绪理解或用户盲测，不能说越简单越容易投射。",
+      "sources": [
+        "MAIN",
+        "SKU02",
+        "SKU04",
+        "SKU05",
+        "SKU06"
+      ]
+    },
+    {
+      "claim": "真实关系片段可以转成可被理解的鼓励内容",
+      "type": "inference",
+      "evidence": "作者说You're the best设计来自身边人对自己的鼓励；产品已有爱的语言系列。",
+      "boundary": "作者转述他人感动不是本轮直接用户证据；语句是否促进送礼或复购未知。",
+      "sources": [
+        "INT2",
+        "SKU03"
+      ]
+    },
+    {
+      "claim": "场景盒把角色带进可陈列的小生活空间",
+      "type": "hypothesis",
+      "evidence": "Ordinary Days用交通座位等小空间包裹人物，壳与角色分别有尺寸。",
+      "boundary": "只确认产品结构与可见场景，没有实测互动耐用性、使用频次或留存。",
+      "sources": [
+        "SKU02"
+      ]
+    },
+    {
+      "claim": "内部设计与既有渠道降低新品落地的组织门槛",
+      "type": "inference",
+      "evidence": "招股书内部创作清单、PDC署名与历史单IP收入可以对应。",
+      "boundary": "专属团队、成本和渠道归因未知；2022收入回落反证成熟渠道不保证每年增长。",
+      "sources": [
+        "PROS",
+        "COL",
+        "FIN22"
+      ]
+    }
+  ],
+  "counterexamples": "2022收入较2021下降约8.41%；当前集合页有促销但不能由此判断滞销。2015是网页上Ling开始做原创的履历，不能自动当小甜豆诞生；2019创作与2020商品说法分开。未取得匹配失败款或退坑样本。",
+  "theory": {
+    "shell": "低信息豆眼圆鼻脸，借服装与物件构成生活场景；鸭帽是局部样本",
+    "core": "孩童的玩耍与日常关心，作者生活经验与陪伴意图进入作品",
+    "shadow": "婴儿、腮红、动物帽、食物与鼓励语都是公共语言；具体脸部配置和产品关系仍是独立身份",
+    "two_layers": {
+      "surface": "幼态与熟悉生活场景可能容易理解（假设）",
+      "deep": "不同日常物件、鼓励语的来源与系列记忆可能深化收藏；未核长期持有人行为"
+    },
+    "validation": "历史分IP收入比点赞更强，但不能分离设计细节贡献；作者转述个案不是订单或用户总体。"
+  },
+  "for_skills": {
+    "lab": "可借从具体关系和生活片段产生表达，保留谁在何时需要鼓励；不把所有成人写成孤独缺爱。",
+    "form": "可借面部低信息与主题道具的分工；重新设计原型及眼鼻嘴关系，避免豆眼粉圆鼻大腮的同组合。",
+    "studio": "将单体摆件、场景盒、语句礼物与联名分开验证；尺寸区分壳/人物，电子元件和聚酯按SKU，不推BOM和毛利。"
+  },
+  "gaps": [
+    "2019创作年已由招股书核到；首次公开、最早原稿与第一具体SKU日期未完整取得，不把2020商品化直接当创作。",
+    "作者用当前官方Xuechen/雪宸署名；其他页面Ling称呼与其对应关系未取得明确原始说明，不擅自合并履历。",
+    "自有IP与PDC归属有历史官方披露，原始版权、商标和劳动创作文件未逐份核验。",
+    "最新单IP收入、各系列销量、成本利润、专属团队与库存未知；2021/2022不冒充2026。",
+    "访谈中粉丝摆放与感动属于作者转述个案；本批跳过小红书，没有直接用户/复购/退坑采样。",
+    "Language of Love当前HTML显示9.99促销，网页索引/推荐位仍19.99；保留原价与当日活动差异，适用期限未知。",
+    "英文附图鸭帽雨衣v1接近，鼻/发/手线简化，伞透明反射转为灰白色块；纯文字与中文未测，未继续3D/毛绒生成。"
+  ],
+  "id": "sweet-bean",
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-28",
+  "updated": "2026-10-28",
+  "sources": [
+    {
+      "id": "COL",
+      "title": "当前官方设定、PDC作者及美国商品集合",
+      "url": "https://www.popmart.com/us/collection/sweet-bean",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "两岁半、PDC Xuechen署名；读取当日HTML时Language of Love有19.99原价/50%OFF9.99，索引仍19.99，活动期限未核。"
+    },
+    {
+      "id": "PROS",
+      "title": "2020招股书：内部创作IP表",
+      "url": "https://prod-out-res.popmart.com/cms/Prospectus_7ce2a0b409.pdf",
+      "publisher": "POP MART／招股书",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "partial",
+      "type": "fact",
+      "boundary": "已下载原PDF，读印刷页235表；SWEET BEAN创作年2019、类型Blind box，内部自有IP；不是首次公开/首售日期。"
+    },
+    {
+      "id": "FIN21",
+      "title": "2021中报：小甜豆收入",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0928/2021092800460_c.pdf",
+      "publisher": "POP MART／港交所",
+      "published": "2021-09-28",
+      "observed": "2026-10-28",
+      "access": "partial",
+      "type": "fact",
+      "boundary": "印刷页7称2021上半年超过63.7百万元人民币，是下限叙述，不当精确全年收入。"
+    },
+    {
+      "id": "FIN22",
+      "title": "2022年报：小甜豆2021/2022收入及自有分类",
+      "url": "https://prod-out-res.popmart.com/cms/ANNUAL_REPORT_2022_e5c3886181.pdf",
+      "publisher": "POP MART／年报",
+      "published": "2023-04-21",
+      "observed": "2026-10-28",
+      "access": "partial",
+      "type": "fact",
+      "boundary": "下载原PDF并读按IP收入表，人民币千元161526/147940；自有分类为历史披露，非2026销量。"
+    },
+    {
+      "id": "INT1",
+      "title": "雪宸直接访谈：生活与陪伴",
+      "url": "https://www.harpersbazaar.com.sg/lifestyle/pop-mart-artists-interview",
+      "publisher": "Harper’s Bazaar Singapore／直接访谈",
+      "published": "2025-10-07",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "作者经历、设计过程与愿景；同文照片alt写Ling而正文Xuechen，别名关系不另作推定；与Marina Bay Sands合作。"
+    },
+    {
+      "id": "INT2",
+      "title": "雪宸中文访谈：You're the best与日常",
+      "url": "https://www.nuyou.com.sg/lifestyle/pop-mart-artists-share-design-stories-behind-zsiga-sweet-bean-pino-jelly",
+      "publisher": "NUYOU／直接访谈",
+      "published": "2025-10-08",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "作者生活与鼓励设计自述；粉丝摆放/感动仅作者转述，本轮未直接访问那些用户；同SPH活动背景。"
+    },
+    {
+      "id": "MAIN",
+      "title": "当前官方主图所在首页",
+      "url": "https://www.popmart.com/en-GB",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "partial",
+      "type": "self_report",
+      "boundary": "实际下载并看1920×2704鸭帽雨衣渲染，图像原始创作/首发时间未知，不当2019原稿或具体SKU材料证据。"
+    },
+    {
+      "id": "SKU01",
+      "title": "Your Exclusive Holiday 手办官方规格",
+      "url": "https://www.popmart.com/us/products/4198/sweet-bean-your-exclusive-holiday-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "节日群像主题，图上全部道具/布景不等于每盒内容。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU02",
+      "title": "Celebrate Ordinary Days 场景套装官方规格",
+      "url": "https://www.popmart.com/us/products/3775/sweet-bean-celebrate-ordinary-days-series-scene-sets",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "壳与人物分开；3.5cm原文字段指代不清，不擅自写成全套总高。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU03",
+      "title": "The Language of Love 手办官方规格",
+      "url": "https://www.popmart.com/us/products/2234/sweet-bean-the-language-of-love-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "当日集合HTML50%促销9.99、原标19.99；推荐位仍19.99，适用范围/期限未知，不作永久定价。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU04",
+      "title": "I Want a Hug 手办官方规格",
+      "url": "https://www.popmart.com/us/products/1977/sweet-bean-i-want-a-hug-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "不同款道具、电子功能和附件未逐件拆验。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU05",
+      "title": "Afternoon Tea 手办官方规格",
+      "url": "https://www.popmart.com/us/products/1054/sweet-bean-afternoon-tea-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "食品/饮料外观不等于真实食品或软胶材质。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU06",
+      "title": "× INSTINCTOY Sweet Together 联名官方规格",
+      "url": "https://www.popmart.com/us/products/144/sweet-bean-×-instinctoy-sweet-together-series",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "整盒12不重复，隐藏概率未核；冰晶外观不证明真实玻璃或树脂。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    }
+  ],
+  "archive": "research/sweet-bean/2026-10-28/index.html",
+  "webpage": "research/sweet-bean/2026-10-28/index.html",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/sweet-bean/2026-10-28/",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/sweet-bean/2026-10-28/"
+}
