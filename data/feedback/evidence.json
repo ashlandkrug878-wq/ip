@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "evidence_count": 21,
+  "evidence_count": 22,
   "evidence": [
     {
       "id": "2026w42-5",
@@ -56,6 +56,17 @@
       "expression": "压力不必藏，烧成表面就好",
       "mark": "不对称火山口＋单道流釉",
       "source": "data/reviews/daily-20261025-07.json"
+    },
+    {
+      "id": "daily-20261025-09",
+      "batch": "daily-20261025",
+      "name": "藤步",
+      "quote": "不好看",
+      "updated_at": "2026-10-28T13:04:43.662Z",
+      "origin": "广交会编织/藤铁工艺＋“学艺式旅行”",
+      "expression": "手上编得慢，脚下可以走很远",
+      "mark": "单一粗藤环把手",
+      "source": "data/reviews/daily-20261025-09.json"
     },
     {
       "id": "daily-20261026-01",
