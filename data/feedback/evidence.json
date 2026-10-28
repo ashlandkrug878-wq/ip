@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "evidence_count": 14,
+  "evidence_count": 16,
   "evidence": [
     {
       "id": "2026w42-5",
@@ -34,6 +34,28 @@
       "expression": "不回消息时，我在回到自己",
       "mark": "关闭拨片冠",
       "source": "data/reviews/daily-20261026-02.json"
+    },
+    {
+      "id": "daily-20261026-05",
+      "batch": "daily-20261026",
+      "name": "叠声人",
+      "quote": "不好看 淘汰",
+      "updated_at": "2026-10-28T12:59:52.568Z",
+      "origin": "巨型文字、声音叠层",
+      "expression": "说不完整，也要留下这一层",
+      "mark": "三层错位字块冠",
+      "source": "data/reviews/daily-20261026-05.json"
+    },
+    {
+      "id": "daily-20261026-06",
+      "batch": "daily-20261026",
+      "name": "光鬃獾",
+      "quote": "不好看 太普通，没有识别性",
+      "updated_at": "2026-10-28T13:00:03.808Z",
+      "origin": "毛发灯具、触觉照明",
+      "expression": "我不负责耀眼，只负责把你照到",
+      "mark": "发光环鬃",
+      "source": "data/reviews/daily-20261026-06.json"
     },
     {
       "id": "daily-20261027-02",
