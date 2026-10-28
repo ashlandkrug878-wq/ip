@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "evidence_count": 25,
+  "evidence_count": 26,
   "evidence": [
     {
       "id": "2026w42-5",
@@ -12,6 +12,17 @@
       "expression": "别问静静是谁，今天我不在线",
       "mark": "两片合拢软壳、低位闭眼与露出的鞋头；不靠头顶灯泡和卧室布景。",
       "source": "data/reviews/2026w42-5.json"
+    },
+    {
+      "id": "daily-20261023-09",
+      "batch": "daily-20261023",
+      "name": "融冻",
+      "quote": "不好看 淘汰。",
+      "updated_at": "2026-10-28T13:09:09.477Z",
+      "origin": "熔融现代主义与冻结审美",
+      "expression": "我可以同时坚硬和失控",
+      "mark": "冰鳍与熔滴二分头",
+      "source": "data/reviews/daily-20261023-09.json"
     },
     {
       "id": "daily-20261024-01",
