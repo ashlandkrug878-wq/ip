@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "evidence_count": 34,
+  "evidence_count": 36,
   "evidence": [
     {
       "id": "2026w42-5",
@@ -12,6 +12,28 @@
       "expression": "别问静静是谁，今天我不在线",
       "mark": "两片合拢软壳、低位闭眼与露出的鞋头；不靠头顶灯泡和卧室布景。",
       "source": "data/reviews/2026w42-5.json"
+    },
+    {
+      "id": "daily-20261021-05",
+      "batch": "daily-20261021",
+      "name": "层层",
+      "quote": "不好看 没特点",
+      "updated_at": "2026-10-28T13:13:32.496Z",
+      "origin": "遗产元素当代转译",
+      "expression": "我不是旧东西，我只是活得更久。",
+      "mark": "三层考古断面冠",
+      "source": "data/reviews/daily-20261021-05.json"
+    },
+    {
+      "id": "daily-20261021-07",
+      "batch": "daily-20261021",
+      "name": "一片甲",
+      "quote": "不好看 淘汰。",
+      "updated_at": "2026-10-28T13:13:15.624Z",
+      "origin": "木瓦/鳞甲覆盖",
+      "expression": "我只竖起一片甲，剩下的仍愿意相信。",
+      "mark": "一片巨大木瓦额甲",
+      "source": "data/reviews/daily-20261021-07.json"
     },
     {
       "id": "daily-20261022-01",
