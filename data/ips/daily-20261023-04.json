@@ -1,8 +1,8 @@
 {
   "batch": "daily-20261023",
   "order": 4,
-  "name": "绕绕",
-  "en": "Raorao",
+  "name": "绳绳",
+  "en": "Shengsheng",
   "type": "每日完整概念 · 历史导入",
   "stage": "concept",
   "source": "daily-lab",
@@ -63,17 +63,18 @@
   "name_status": "suggested",
   "name_candidates": {
     "doubled": [
-      "绕绕",
-      "结结"
+      "绳绳",
+      "线线"
     ],
     "descriptive": [
-      "结冠人"
+      "结冠人",
+      "绕线头"
     ],
     "sound": [
       "绕"
     ],
-    "why": "头顶一根绕成空心结的线，表达是「绕远一点也能扣住自己」",
-    "checks": "顺口；能当小名；看图能猜到（绕线）；无不雅谐音；撞名待查",
+    "why": "头顶一根绕成空心结的绳线；「绕绕」已被 2026w43-4 用掉，「结结」和「接接」拼音相同，改用「绳绳」",
+    "checks": "顺口；能当小名；看图能猜到（绳结）；无不雅谐音；撞名待查",
     "by": "Claude 2026-10-28，按 naming.md"
   }
 }
