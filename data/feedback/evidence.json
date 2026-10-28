@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "evidence_count": 12,
+  "evidence_count": 14,
   "evidence": [
     {
       "id": "2026w42-5",
@@ -12,6 +12,28 @@
       "expression": "别问静静是谁，今天我不在线",
       "mark": "两片合拢软壳、低位闭眼与露出的鞋头；不靠头顶灯泡和卧室布景。",
       "source": "data/reviews/2026w42-5.json"
+    },
+    {
+      "id": "daily-20261026-01",
+      "batch": "daily-20261026",
+      "name": "省算仔",
+      "quote": "太普通了 和别的ip太像了 没有自己的特点。",
+      "updated_at": "2026-10-28T12:59:01.517Z",
+      "origin": "理性省钱、折扣决策",
+      "expression": "省下来的不是面子，是决定权",
+      "mark": "倾斜减号印章冠",
+      "source": "data/reviews/daily-20261026-01.json"
+    },
+    {
+      "id": "daily-20261026-02",
+      "batch": "daily-20261026",
+      "name": "断讯鼹",
+      "quote": "没有自己的特点 很奇怪的设计，颜色也不好",
+      "updated_at": "2026-10-28T12:58:59.974Z",
+      "origin": "数字排毒、一人时刻",
+      "expression": "不回消息时，我在回到自己",
+      "mark": "关闭拨片冠",
+      "source": "data/reviews/daily-20261026-02.json"
     },
     {
       "id": "daily-20261027-02",
