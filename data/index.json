@@ -112,7 +112,10 @@
     "daily-20261028-06",
     "daily-20261028-07",
     "daily-20261028-08",
-    "daily-20261028-09"
+    "daily-20261028-09",
+    "star-huangjingyu-e1",
+    "star-huangjingyu-e2",
+    "star-huangjingyu-e3"
   ],
   "forms": [
     "2026w42b-1-A1",
@@ -120,7 +123,16 @@
     "2026w42b-1-A3",
     "2026w42b-1-A4",
     "2026w42b-1-A5",
-    "2026w42b-1-A6"
+    "2026w42b-1-A6",
+    "star-huangjingyu-e1-A1",
+    "star-huangjingyu-e1-A2",
+    "star-huangjingyu-e1-A3",
+    "star-huangjingyu-e2-A1",
+    "star-huangjingyu-e2-A2",
+    "star-huangjingyu-e2-A3",
+    "star-huangjingyu-e3-A1",
+    "star-huangjingyu-e3-A2",
+    "star-huangjingyu-e3-A3"
   ],
   "studies": [
     "anmoo",
@@ -278,6 +290,8 @@
     "01-sunflower",
     "02-fear-curiosity"
   ],
-  "stars": [],
-  "updated": "2026-10-28T14:59:42+00:00"
+  "stars": [
+    "star-huangjingyu"
+  ],
+  "updated": "2026-10-28T15:03:05+00:00"
 }

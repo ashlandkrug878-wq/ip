@@ -1,0 +1,80 @@
+{
+  "ip": "star-huangjingyu-e1",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "合上的皮鞘拖成披风",
+  "axes": {
+    "archetype": "怪兽精灵",
+    "silhouette": "物件轮廓，鞘比身子长",
+    "mark": "身后 · 合上的皮鞘披风",
+    "face": "宽眼距的小黑点，无嘴",
+    "emotion": "面无",
+    "fusion": "物件是披风：合上的鞘从肩拖到地",
+    "material": "身体雾灰短绒，只有鞘是皮革",
+    "palette": "雾灰配深棕，扣子一点黄铜"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "竖高的小圆头，没有头发，耳是两粒圆点",
+  "combo": "小圆头 + 宽距点眼 + 一条合拢的长皮鞘从肩拖到脚外 + 雾灰对深棕",
+  "odd": "鞘的长度约身体的两倍，脸极小",
+  "line": "",
+  "why": "他说过刀尖，也说过后来变成握刀的人。这只角色把刀留在鞘里，鞘变成披风，硬被收住。",
+  "spec": {
+    "proportion": "头高约占全高 30%，鞘长约全高的 1.6 倍并堆在地上",
+    "outline": "小身体加一条长的合拢鞘，整体像一把竖着的勺子",
+    "volume": "大：皮鞘；中：短绒身体；小：头和两只圆手",
+    "face": "点眼在头高中部，眼距约两个眼宽，无嘴，无眉",
+    "stance": "坐着，鞘在身侧堆成稳定的底",
+    "structure": "鞘从肩胛长出，合缝一条，没有开刃"
+  },
+  "toy_check": "坐在鞘堆上所以稳。鞘长在肩上，拿掉就没有轮廓。皮革只在鞘上。合拢的鞘不是出鞘的武器。头像靠小头加大块深棕。鞘是厚的圆卷，不断。坐着。",
+  "crop": "头很小。头像必须带上鞘的上端，否则只剩一个点眼圆头。",
+  "collide": "不是尖耳坏笑，也不是穿披风的人。鞘是合拢的一卷皮，没有刃。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "画出刀刃"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "鞘变成衣服"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "坐不稳"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "头像里鞘被裁掉"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "皮革被画成金属盔甲"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只小精灵和刀鞘长在一起：合上的厚皮鞘从肩胛长出，拖到脚外，在身侧堆成底，拿掉鞘轮廓就没了。没有刀刃。头是竖高小圆，约占全高百分之三十，两粒圆点耳，宽眼距的小黑点眼，没有嘴，面无表情。坐着。身体是雾灰短绒，只有鞘是深棕皮革，合缝处一枚小黄铜扣。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要画出任何刀刃或血迹，不要人类身体、头发和衣服，不要把鞘画成可摘下的配件。",
+  "enp": "Original designer toy character: a small spirit fused with a sheath — a thick closed leather sheath grows from the shoulder blade, trails past the feet and pools beside the body so the silhouette fails without it. No blade. Tall small round head about 30 percent of the height, two dot ears, widely spaced black dot eyes, no mouth, a blank face. Seated. Mist-grey short plush; only the sheath is dark brown leather, with one small brass stud on the closed seam. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.No blade and no blood, no human body, hair or clothes, do not make the sheath a removable accessory.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-28",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "不是穿披风的小人，鞘和身体长在一起。识别是这条过长的合拢鞘。不普通。皮革对得上鞘，刃不出来，避免凶器感和疼痛。雾灰对深棕，对比清楚。鞘的长度被夸大。",
+  "pose": "坐着，鞘堆在身侧"
+}

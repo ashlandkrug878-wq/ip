@@ -1,0 +1,80 @@
+{
+  "ip": "star-huangjingyu-e3",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "肚子是一块没有指针的钢盘",
+  "axes": {
+    "archetype": "圆鲸",
+    "silhouette": "团子，腹前一块圆盘",
+    "mark": "腹部 · 没有指针的圆盘",
+    "face": "半垂眼，位置偏低，无嘴",
+    "emotion": "放空",
+    "fusion": "物件就是身体的一块：圆盘嵌进腹部",
+    "material": "身体沙色短绒，只有圆盘是搪瓷钢",
+    "palette": "沙色配盘面的黑刻度"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "圆头，顶部平，两只极短圆鳍",
+  "combo": "沙色圆鲸 + 腹前无指针的圆盘 + 偏低的半垂眼 + 黑刻度",
+  "odd": "圆盘大，上面没有针，也没有数字",
+  "line": "",
+  "why": "明天下午不被看着。肚子上的盘没有指针，时间停在没被安排的地方，东西却已经长在身上。",
+  "spec": {
+    "proportion": "头加身约 1.3 头身，圆盘直径约身宽的 65%",
+    "outline": "圆团，腹前一块圆",
+    "volume": "大：绒身；中：钢盘；小：鳍和脚",
+    "face": "眼在头高下三分之一，半垂，无嘴，无数字",
+    "stance": "瘫坐，肚子上的盘正对前方",
+    "structure": "圆盘嵌入绒里，盘面只有四根短刻度，没有针"
+  },
+  "toy_check": "瘫坐，盘贴着肚子所以重心低。盘长进腹部。搪瓷钢只在盘上。无指针不是故障伤口。头像含盘的上沿。盘厚、刻度短。瘫坐。",
+  "crop": "盘在腹部。头像要裁进盘的上沿，否则只剩圆头。",
+  "collide": "不是戴表的人，也不是钟楼角色。盘上没有针、没有数字、没有商标。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "画出指针和数字"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "盘被拿在手里"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "刻度密到像病变"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "变成挂钟场景"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "沙色太接近普通玩偶"
+    ]
+  ],
+  "zh": "原创潮玩角色，圆鲸肚子上长着一块圆盘：盘嵌进腹部，直径约身宽的百分之六十五，没有指针，没有数字，只有四根短黑刻度。头身约一点三头身，头顶略平，两只极短圆鳍。半垂眼在头的下三分之一，没有嘴，神情放空。瘫坐。身体是沙色短绒，只有圆盘是奶油搪瓷钢。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要画指针、数字、商标和手表带，不要把圆盘拿在手里，不要人类的脸。",
+  "enp": "Original designer toy character: a round whale with a dial grown into the belly — the disc is set into the abdomen, about 65 percent of the body width, no hands, no numerals, only four short black ticks. About 1.3 heads tall, the crown slightly flat, two very short round fins. Half-lidded eyes in the lower third of the head, no mouth, a vacant look. Slumped sitting. Sand-colored short plush; only the dial is cream enamel over steel. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.No clock hands, numerals, logos or watch strap, do not hold the dial, no human face.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-28",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "无指针的腹盘不是手表角色。盘加半垂眼能认。不是动物戴表。钢盘和刻度对应，刻度只有四根，不密。沙色对黑刻度。盘被放大到肚子的主体。",
+  "pose": "瘫坐"
+}

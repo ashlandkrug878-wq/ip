@@ -1,0 +1,80 @@
+{
+  "ip": "star-huangjingyu-e3",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "身体是一扇虚掩的磨砂窗",
+  "axes": {
+    "archetype": "物件生物",
+    "silhouette": "宽窗，下沿厚",
+    "mark": "躯干 · 虚掩的窗",
+    "face": "窗下框上两只看向一侧的小眼，一只眼皮更低",
+    "emotion": "内收，视线偏开",
+    "fusion": "物件是壳：窗框是身体，中间留一条缝",
+    "material": "缝里露出短绒，窗本身是磨砂玻璃",
+    "palette": "雾灰玻璃配暖白绒，缝的内侧一条海蓝"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "没有单独的头，脸长在窗的下框",
+  "combo": "厚窗框 + 一条不闭合的竖缝 + 下框不对称的小眼 + 缝内海蓝",
+  "odd": "窗很大，脸只在下框",
+  "line": "",
+  "why": "他说窗户打开就很难再关上。这只角色的身体就是那扇窗，只留一条缝，不展示里面。",
+  "spec": {
+    "proportion": "窗高约占全高 80%，下框厚，底座宽于窗",
+    "outline": "一个圆角窗，底边外扩",
+    "volume": "大：窗；小：下框上的眼和两只短脚",
+    "face": "眼在下框中部，右眼眼皮更低，视线向一侧，无嘴",
+    "stance": "坐在外扩的底座上",
+    "structure": "两扇窗之间一条缝，缝宽约窗宽的八分之一，磨砂，不是全透明"
+  },
+  "toy_check": "底座宽，坐得稳。窗是壳。磨砂玻璃只在窗上，身体不是透明果冻。缝是留白不是破碎。头像能看见缝。玻璃做厚。坐着。",
+  "crop": "记忆点是窗。脸在下框，头像会带上缝。",
+  "collide": "不是房屋吉祥物，也不是全身透明。只有这一扇厚窗，眼在下框。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "玻璃被画成破碎"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "全身透明"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "缝被填死"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "画成建筑而不是角色"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "海蓝铺满"
+    ]
+  ],
+  "zh": "原创潮玩角色，小兽和一扇窗长在一起：圆角厚窗框就是身体，两扇之间留一条竖缝，缝宽约窗的八分之一，底座比窗宽。脸在下框，两只小眼看向一侧，其中一只眼皮更低，没有嘴。坐在底座上。缝里露出暖白短绒，窗是雾灰磨砂玻璃，不是透明的，缝的内侧一条窄海蓝。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要画成破碎玻璃，不要整个身体透明，不要房屋和窗帘，不要人类的脸。",
+  "enp": "Original designer toy character: a small creature fused with a window — a thick rounded window frame is the body, a vertical gap about one eighth of the width left between the two panes, the base wider than the window. The face sits on the lower frame, two small eyes looking aside, one lid lower, no mouth. Seated on the base. Warm-white short plush shows in the gap; the window is fog-grey frosted glass, not clear, with one narrow ocean-blue line inside the gap. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.No broken glass, no fully transparent body, no house and no curtains, no human face.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-28",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "不是房子吉祥物。一条缝加下框的眼能认。窗是身体不是背景。磨砂只一处，不做成会扎人的碎片。雾灰对暖白，海蓝只在缝里。窗相对脸很大。",
+  "pose": "坐在底座上"
+}

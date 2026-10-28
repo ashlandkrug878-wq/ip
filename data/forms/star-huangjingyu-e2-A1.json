@@ -1,0 +1,80 @@
+{
+  "ip": "star-huangjingyu-e2",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "身体是一口铜锅的圆鲸",
+  "axes": {
+    "archetype": "物件生物，圆鲸",
+    "silhouette": "锅的圆",
+    "mark": "躯干 · 一口铜锅",
+    "face": "压低的小横眼，嘴角向一边歪",
+    "emotion": "内收，像话刚说完",
+    "fusion": "物件就是身体：锅身是躯干",
+    "material": "锅沿以上是短绒，锅身是铸铜",
+    "palette": "铸铜配墨黑"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "锅沿上面探出一小块横宽的头，两只极短侧鳍",
+  "combo": "铜锅躯干 + 锅沿上的小横眼 + 歪向一边的短嘴 + 墨黑锅内",
+  "odd": "锅比头大三倍，嘴却很小",
+  "line": "",
+  "why": "数落像锅沿碰一下的响。锅把人拢在里面，脸只在沿上，并不张开。",
+  "spec": {
+    "proportion": "锅身约占全高 70%，头只露出锅沿以上一截",
+    "outline": "一个圆锅，上沿有一小块头",
+    "volume": "大：铜锅；小：头、两只侧鳍和锅底两只短脚",
+    "face": "眼在锅沿上方，平直眼皮压住小横眼，嘴是一段斜线",
+    "stance": "坐在自己的锅底上",
+    "structure": "没有锅耳当手，锅耳若有也短、圆、连在锅上"
+  },
+  "toy_check": "锅底坐得稳。锅是躯干。铜只在锅上，绒只在头。不是动物捧锅。嘴是斜线不是吼。头像要带锅沿。厚铜壁做得成。坐着。",
+  "crop": "记忆点是锅。头像若只切头会丢识别，构图让锅沿进入上部。",
+  "collide": "不同于背上背锅的角色：锅就是身体，头从锅沿长出，颜色是铜和墨黑。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "锅被拿在手里"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "锅耳变成细手"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "嘴被画成大叫"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "剪影里头和锅分不清"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "铜被画成黄金盔甲"
+    ]
+  ],
+  "zh": "原创潮玩角色，圆鲸和一口锅长在一起：铸铜锅身就是躯干，头从锅沿上面探出来，没有单独的肚子。锅身约占全高百分之七十。平直眼皮压住小横眼，嘴是一小段斜线，像刚说完，并不张开。坐在自己的锅底上，两只极短侧鳍，锅耳又短又圆。锅沿以上是墨黑短绒，锅身是暖铸铜。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要把锅画成背着或拿着，不要食物和蒸汽，不要张开的吼叫，不要人类的脸。",
+  "enp": "Original designer toy character: a round whale fused with a pot — the cast-copper pot is the torso, the head rises only above the rim, no separate belly. The pot is about 70 percent of the height. Straight lids press on small horizontal eyes, the mouth a short slanted line, just finished speaking, not open. Seated on its own base, two very short side fins, pot ears short and round. Short plush above the rim is ink black; the pot is warm cast copper. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.Do not carry or hold the pot, no food or steam, no open shouting mouth, no human face.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-28",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "不是背锅动物。识别是锅沿上那张很小的歪嘴。锅身不可替换成道具。铜和锅对应，没有第二种硬材质。铜对墨黑。锅明显大于脸。",
+  "pose": "坐在锅底"
+}

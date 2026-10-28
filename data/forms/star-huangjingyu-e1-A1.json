@@ -1,0 +1,80 @@
+{
+  "ip": "star-huangjingyu-e1",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "肚子是一块铸铁烤架的圆鲸",
+  "axes": {
+    "archetype": "物件生物，圆鲸",
+    "silhouette": "团子，腹前一块平格",
+    "mark": "腹部 · 和身体长成一块的铸铁烤架",
+    "face": "半垂小黑豆眼，眼距约一个眼宽，极小一字嘴",
+    "emotion": "内收，放空",
+    "fusion": "物件就是身体：烤架是腹部，不是手里的夹子",
+    "material": "主体短绒暖白，只有烤架是铸铁",
+    "palette": "暖白配铁黑，烤架外沿一条窄海蓝"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头身几乎一体，头顶两只极短的圆耳状鳍，下颌收进烤架上沿",
+  "combo": "圆鲸团子 + 腹前一块四格铸铁烤架 + 半垂豆眼压在烤架上沿 + 铁黑对暖白",
+  "odd": "烤架比脸宽，脸只占烤架上沿一条",
+  "line": "",
+  "why": "刀已经收好，所以不画出刃。还热的是肚子上这块烤架：人聚过来，是因为这里还暖。",
+  "spec": {
+    "proportion": "全高约等于身宽的 1.1 倍，头脸只占全高上部 25%",
+    "outline": "一个圆团，腹前凸出一块圆角矩形烤架，宽约团子的 70%",
+    "volume": "大：短绒圆身；中：铸铁烤架；小：两只不及头宽四分之一的圆鳍和两只短脚",
+    "face": "眼在烤架上沿，半垂，眼距约一个眼宽，嘴是烤架上方的一条短线",
+    "stance": "坐着，短脚前伸，重心落在烤架下沿，不站直",
+    "structure": "烤架四边嵌进绒里，拿掉烤架腹部就空了"
+  },
+  "toy_check": "站得住：坐在宽烤架上。物件长进去：烤架是腹。特殊材质只有铸铁，对应烤架。新组合：鲸腹是烤架。不像绘本：无大眼无笑。头像还剩铁格和暖白。做得成：格子只留四格，边是圆的。姿态：坐着，不是立正。",
+  "crop": "记忆点在腹部。头像裁切后靠烤架上沿和半垂眼认，烤架顶边要进入头像。",
+  "collide": "不同于背着锅的圆角色：锅不在背上，烤架就是腹部，配色是暖白和铁黑，不是黄。也不同于尖耳露齿的毛绒。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "烤架被画成手里的网"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "格子在剪影里糊成一块"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "四格被加粗到像窗户"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时眼和格子抢"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换成别的金属仍要是腹前这块平板"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只圆鲸和一块烤架长在一起：腹前的圆角铸铁烤架就是肚子，四格，边嵌进短绒，拿掉它腹部就空。全高约等于身宽的一点一倍，头脸只占上部四分之一，两只极短圆鳍。半垂的小黑豆眼压在烤架上沿，眼距约一个眼宽，极小一字嘴，神情放空。坐着，短脚前伸。身体是暖白短绒，只有烤架是哑光铸铁，外沿一条窄的海蓝色。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要画出刀刃，不要把烤架画成手里的工具，不要火焰和食物，不要人类的脸、头发和衣服，不要长鳍。",
+  "enp": "Original designer toy character: a round whale fused with a grill — the belly is a rounded cast-iron grill of four bars, set into the plush so the body fails without it. Height about 1.1 times the body width, the face only the upper quarter, two very short round fins. Half-lidded black bead eyes sit on the grill's top edge, about one eye-width apart, a tiny straight mouth, a blank calm look. Seated, short feet forward. Warm-white short plush; only the grill is matte cast iron, with one narrow ocean-blue rim. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.No drawn blade, do not put the grill in the hands, no flames or food, no human face, hair or clothes, no long fins.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-28",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：不是背锅动物，烤架长进腹部。识别：四格铁板加半垂眼。不普通：没有这块铁就不是它。材质对应且只有一处，不做成烫伤或尖角。暖白对铁黑，海蓝只是一条边。组合少见，烤架尺度大于脸。",
+  "pose": "坐着"
+}

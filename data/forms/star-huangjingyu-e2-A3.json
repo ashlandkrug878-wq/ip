@@ -1,0 +1,80 @@
+{
+  "ip": "star-huangjingyu-e2",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "头是一只编织喇叭",
+  "axes": {
+    "archetype": "物件生物",
+    "silhouette": "上宽下窄",
+    "mark": "头部 · 编织喇叭",
+    "face": "喇叭口下方两只靠得很近的点眼",
+    "emotion": "反差，壳大脸小",
+    "fusion": "物件就是头：喇叭是头",
+    "material": "身体奶油短绒，只有喇叭是藤编",
+    "palette": "奶油配喇叭内壁的海蓝"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头是一只横向的圆喇叭，口朝前，口缘厚",
+  "combo": "喇叭头 + 口下面的近距点眼 + 奶油小身 + 喇叭内壁海蓝",
+  "odd": "喇叭口比脸宽四倍，脸在口的下面",
+  "line": "",
+  "why": "数落的声音很大，所以头是喇叭。真正的脸缩在喇叭下面，并不张开。海蓝只留在喇叭里面。",
+  "spec": {
+    "proportion": "喇叭头约占全高 55%，身宽约喇叭口的一半",
+    "outline": "上宽的喇叭，下窄的身子",
+    "volume": "大：喇叭；小：身子、两只圆脚",
+    "face": "点眼在喇叭下缘，间距不到一个眼宽，嘴是眼下的一个点",
+    "stance": "重心略前，双脚前后半步站稳，不是走",
+    "structure": "喇叭和身子直接相连，口缘是一圈厚边"
+  },
+  "toy_check": "脚分开所以站得住。喇叭是头。藤编只在喇叭上。不是动物举着喇叭。内壁海蓝，脸是两个点。头像就是喇叭。口缘做厚。重心前但脚钉住。",
+  "crop": "记忆点在头部。",
+  "collide": "不是机器人大眼，也不是手里拿麦克风的人。脸在喇叭下面，眼睛是点。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "喇叭被拿在手里"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "画成声波和喊叫"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "眼被放进喇叭深处变成发光"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "藤编过碎"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "海蓝铺满身体"
+    ]
+  ],
+  "zh": "原创潮玩角色，小兽和一只喇叭长在一起：头就是那只横向的圆喇叭，口朝前，厚边，身子是喇叭下面的奶油短绒。喇叭约占全高百分之五十五。两只靠得很近的黑点眼在喇叭下缘，嘴只是一个点，不张开。重心略前，双脚前后半步站稳。身体是短绒，只有喇叭是藤编，内壁是海蓝，外面仍是奶油色。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要把喇叭拿在手里，不要声波、音符和张开的嘴，不要人类的脸，不要让蓝色铺满全身。",
+  "enp": "Original designer toy character: a small creature fused with a horn — the head is a round side-facing horn with a thick rim, the body a cream plush stub beneath it. The horn is about 55 percent of the height. Two close-set black dot eyes sit under the rim, the mouth a single dot, not open. Weight slightly forward, feet planted a half step apart, stable. Short plush body; only the horn is woven rattan, ocean blue inside the mouth of the horn, cream on the outside. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.Do not hold the horn, no sound waves, notes or open mouth, no human face, do not cover the body in blue.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-28",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "不是拿麦克风的人。喇叭头在小尺寸上仍是一个大口。不是动物配配件。藤编和喇叭对应。奶油对内壁海蓝，蓝不铺满。喇叭口被放大。",
+  "pose": "重心略前，双脚前后半步"
+}

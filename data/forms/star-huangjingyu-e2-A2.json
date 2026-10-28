@@ -1,0 +1,80 @@
+{
+  "ip": "star-huangjingyu-e2",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "五片圆纸瓣从头顶垂下来",
+  "axes": {
+    "archetype": "圆鲸",
+    "silhouette": "团子加下垂的瓣",
+    "mark": "头顶 · 五片厚圆纸瓣",
+    "face": "闭成细缝的眼，无嘴",
+    "emotion": "内收",
+    "fusion": "物件是长出来的结构：纸瓣从头顶长出并向前垂",
+    "material": "身体暖灰短绒，只有纸瓣是厚纸",
+    "palette": "暖灰配甜菜红纸瓣尖"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "横宽扁圆头，纸瓣从顶缝长出",
+  "combo": "扁圆头 + 闭缝眼 + 五片向前垂的厚圆纸瓣 + 瓣尖甜菜红",
+  "odd": "纸瓣垂到胸口，比耳朵长得多",
+  "line": "",
+  "why": "数落是从头顶落下来的，不是从张开的嘴里喊出来。纸瓣向前拢，像把人圈近，边缘是圆的。",
+  "spec": {
+    "proportion": "头身一体的团，纸瓣长度约全高的 60%",
+    "outline": "圆团上面五片向前的瓣",
+    "volume": "大：身子；中：五片纸瓣；小：闭着的眼",
+    "face": "眼是头正中两道细缝，无嘴，纸瓣不贴在脸上",
+    "stance": "坐着，瓣垂在胸前但不勒住身体",
+    "structure": "每片纸瓣根部宽、头圆，只有五片"
+  },
+  "toy_check": "坐得稳。纸瓣长在头上，不是戴的帽子。厚纸只在瓣上。圆头不扎人。头像能看见垂下的瓣。纸瓣厚、根部宽，不易断。坐着，瓣代替了张开的手。",
+  "crop": "记忆点在头上，五片瓣进入头像。",
+  "collide": "不是尖刺冠，也不是花朵精灵的笑脸。瓣是圆头厚纸，眼睛闭成缝。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "纸瓣被画成尖刺"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "瓣贴在脸上像纹路"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "变成帽子"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "片数太多"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "甜菜红铺满全身"
+    ]
+  ],
+  "zh": "原创潮玩角色，圆鲸头顶长出五片厚纸瓣：瓣从头顶的缝里长出，根部宽、头是圆的，向前垂到胸口，不贴脸，拿掉瓣这只角色的轮廓就普通了。头身是一个暖灰短绒团。眼睛是两道细缝，没有嘴。坐着。只有纸瓣是厚纸，瓣尖是甜菜红，其余是暖灰。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要画成尖刺、荆棘或伤口，不要花瓣精灵的笑脸，不要人类头发，不要把纸瓣画成可摘的帽子。",
+  "enp": "Original designer toy character: a round whale with five thick paper tabs grown from the crown — they sprout from a seam on top, wide at the root, round at the tip, hanging forward to the chest, not stuck to the face; without them the silhouette goes plain. Head and body are one warm-grey plush lump. Eyes are two thin closed slits, no mouth. Seated. Only the tabs are thick paper, beet-red at the tips, everything else warm grey. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.No spikes, thorns or wounds, no smiling flower sprite, no human hair, do not make the tabs a removable hat.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-28",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "纸瓣冠不是常见花冠笑脸。五片圆瓣在头像里认得出。不是动物戴帽子。纸和瓣对应，圆头避免扎和疼。暖灰对瓣尖的甜菜红。瓣被加长到胸口。",
+  "pose": "坐着"
+}

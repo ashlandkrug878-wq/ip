@@ -1,0 +1,80 @@
+{
+  "ip": "star-huangjingyu-e1",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "头是一颗圆炭的小兽",
+  "axes": {
+    "archetype": "物件生物",
+    "silhouette": "大头小身",
+    "mark": "头部 · 一颗圆炭",
+    "face": "两只眯成短线的眼，无嘴",
+    "emotion": "内收",
+    "fusion": "物件就是头：头壳是炭球",
+    "material": "身体短绒奶黄，只有头是无釉陶炭",
+    "palette": "奶黄配炭黑，裂缝里一点余烬橘"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头是一颗完整的圆炭，顶部微平，下缘收成短弧",
+  "combo": "炭球头 + 奶黄小身 + 眯成线的眼在炭球下三分之一 + 一条橘缝",
+  "odd": "头比身子宽，身子只是炭下面的一小节",
+  "line": "",
+  "why": "烧炭是早期的零工，也是烤架还热的原因。炭成为头，角色就还在余温里，而不是去表演做饭。",
+  "spec": {
+    "proportion": "炭球头约占全高 62%，身宽约头宽的一半",
+    "outline": "上大下小，头是圆炭，身是短柱",
+    "volume": "大：炭头；小：短绒身子和两只圆脚，没有手臂",
+    "face": "眼在炭球下三分之一，两道短横线，间距约两个眼宽，无嘴，裂缝不穿过眼睛",
+    "stance": "坐着，两只圆脚分开，重心在炭球正下方",
+    "structure": "炭球直接连着身子，没有脖子"
+  },
+  "toy_check": "站得住：大头坐稳。物件是头本身。只有炭是陶，身体是绒。炭头加小身是新组合。眼睛是线，不是伤口。头像就是这颗炭。圆炭没有薄片。坐着。",
+  "crop": "记忆点在头部，缩成头像仍是炭球和两道线。",
+  "collide": "不是食物拟人贴纸，也不是满脸孔洞。裂缝只有一条，离开眼睛。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "炭被画成手里的煤块"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "裂缝变成伤疤"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "眯眼被画成闭眼笑"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "头身比例被拉长"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "陶的哑光被画成金属"
+    ]
+  ],
+  "zh": "原创潮玩角色，小兽和一颗圆炭长在一起：头就是那颗微平的圆炭，没有脖子，身子只是炭下面一小节奶黄短绒。炭球约占全高百分之六十二。两只眯成短线的眼在炭球下三分之一，间距宽，没有嘴。坐着，两只圆脚分开，没有手臂。身体是短绒，只有头是哑光无釉陶，表面一条短的余烬橙色裂缝，不穿过眼睛。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要把炭画成能拿起来的道具，不要伤口和黑灰糊脸，不要火焰，不要人类的脸和头发。",
+  "enp": "Original designer toy character: a small creature fused with a round charcoal briquette — the head is that slightly flattened charcoal ball, no neck, the body only a short milk-yellow plush stub beneath it. The ball is about 62 percent of the height. Two short slit eyes in the lower third, widely spaced, no mouth. Seated on two round feet, no arms. Body is short plush; only the head is matte unglazed ceramic, with one short ember-orange crack that does not cross the eyes. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.Do not make the charcoal a handheld prop, no wounds or soot smeared on a face, no flames, no human face or hair.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-28",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "炭头不是现成吉祥物的脸。识别靠圆炭和两道线。不是动物加一块炭。陶炭和绒身讲得通，裂缝不贴在眼睛上，避免疼痛感。奶黄对炭黑，橘只在缝里。炭头的尺度被推大。",
+  "pose": "坐着"
+}
