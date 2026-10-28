@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "evidence_count": 31,
+  "evidence_count": 32,
   "evidence": [
     {
       "id": "2026w42-5",
@@ -23,6 +23,17 @@
       "expression": "气味替我把房间调成想要的心情。",
       "mark": "侧卷巨型烟环",
       "source": "data/reviews/daily-20261022-01.json"
+    },
+    {
+      "id": "daily-20261022-07",
+      "batch": "daily-20261022",
+      "name": "成束",
+      "quote": "不好看",
+      "updated_at": "2026-10-28T13:10:57.558Z",
+      "origin": "高性能纤维、复合材料",
+      "expression": "单根会散，成束就能承重。",
+      "mark": "三束融合扇冠",
+      "source": "data/reviews/daily-20261022-07.json"
     },
     {
       "id": "daily-20261023-02",
