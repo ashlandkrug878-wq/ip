@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "evidence_count": 36,
+  "evidence_count": 37,
   "evidence": [
     {
       "id": "2026w42-5",
@@ -23,6 +23,17 @@
       "expression": "我不是旧东西，我只是活得更久。",
       "mark": "三层考古断面冠",
       "source": "data/reviews/daily-20261021-05.json"
+    },
+    {
+      "id": "daily-20261021-06",
+      "batch": "daily-20261021",
+      "name": "固气",
+      "quote": "不好看",
+      "updated_at": "2026-10-28T13:13:35.337Z",
+      "origin": "气球被固化",
+      "expression": "看起来快破了，其实我已经定型。",
+      "mark": "橙色气阀结",
+      "source": "data/reviews/daily-20261021-06.json"
     },
     {
       "id": "daily-20261021-07",
