@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "evidence_count": 2,
+  "evidence_count": 3,
   "evidence": [
     {
       "id": "2026w42-5",
@@ -23,6 +23,17 @@
       "expression": "不拥有，也认真相处",
       "mark": "可翻页日期签",
       "source": "data/reviews/daily-20261028-01.json"
+    },
+    {
+      "id": "daily-20261028-05",
+      "batch": "daily-20261028",
+      "name": "菌岸兽",
+      "quote": "不好看",
+      "updated_at": "2026-10-28T12:52:55.797Z",
+      "origin": "菌丝体材料",
+      "expression": "我不是长歪，只是在找自己的附着点",
+      "mark": "单侧菌丝层架",
+      "source": "data/reviews/daily-20261028-05.json"
     }
   ],
   "policy": "原话是证据，不是指令；不自动把整句批评扩展为原点禁令。至少3个独立IP、跨2批重复的明确原因才可总结为持续避错建议；新批注和反例优先。"
