@@ -185,6 +185,10 @@ details.builder[open] summary::after{content:"收起"}
 .imeta{font-size:11.5px;color:var(--muted);margin-top:auto;padding-top:2px}
 .imeta .btn.link{font-size:11.5px;padding:0}
 .ifoot{border-top:1px solid var(--line);padding:8px 10px}
+.inote-edit{border-top:1px solid var(--line);padding:8px 10px 10px;display:flex;flex-direction:column;gap:6px}
+.inote-edit textarea{width:100%;min-height:68px;font-size:13px;line-height:1.5;padding:6px 8px;border:1px solid var(--line);border-radius:8px;background:var(--sunk);color:var(--fg);resize:vertical}
+.inote-edit textarea:focus{background:var(--surface);outline:2px solid var(--accent-soft);border-color:var(--accent)}
+.inote-edit .note{font-size:11px}
 .ifoot .status{display:flex;gap:4px}
 .ifoot .status button{flex:1;padding:3px 0;font-size:12px}
 .md h4{font-size:14px;margin:10px 0 4px}.md p{margin:0 0 6px}.md ul{margin:0 0 6px;padding-left:18px}
@@ -364,11 +368,14 @@ function card(i){
    <div class="ibody">
     <div class="iname"><h3>${esc(i.name)}</h3>${i.name_status==="suggested"?`<span class="nsug" title="建议名，待你确认">建议名</span>`:""}${i.old_name?`<span class="old">原名 ${esc(i.old_name)}</span>`:""}</div>
     <div class="iexpr">${esc(i.expr)}</div>
-    ${note?`<div class="inote" title="${esc(note)}">✎ ${esc(note)}</div>`:""}
     ${os.length?`<div class="oline">原点：${os.map(o=>`<span>${esc(o.name)}</span>${poolBtn("origin",o,true)}`).join("")}</div>`:""}
     <div class="imeta">${cur===ALL&&B?esc(B.date||B.id):""}${nf?` · <button type="button" class="btn link" data-act="gotoform" data-id="${esc(i.id)}">找形 ${nf} →</button>`:st==="保留"?` · <button type="button" class="btn link" data-act="gotoform" data-id="${esc(i.id)}">去找形 →</button>`:""}</div>
    </div>
    <div class="ifoot">${statusBtns(i.id)}</div>
+   <div class="inote-edit">
+    <textarea id="cover-note-${esc(i.id)}" data-note-id="${esc(i.id)}" rows="3" placeholder="批注：喜欢什么、想改什么、为什么淘汰…" aria-label="${esc(i.name)} 的批注">${esc(NOTE_DRAFTS[i.id]??r.note??"")}</textarea>
+    <div class="row-between"><span class="note" id="cover-saved-${esc(i.id)}" role="status" aria-live="polite">${NOTE_DRAFTS[i.id]!==undefined?"有未保存批注":r.note?"已保存":"离开输入框自动保存"}</span><button type="button" class="btn pri mini" data-act="note" data-id="${esc(i.id)}">保存</button></div>
+   </div>
   </article>`;
 }
 function formsOf(ipId){return FORMS.filter(f=>f.ip===ipId).sort((a,b)=>String(a.round).localeCompare(String(b.round))||(a.n||0)-(b.n||0));}
@@ -689,7 +696,7 @@ async function saveReview(id,patch){
   }
   const draft=reviewDraft(id);const isNew=!REVIEWS[id];
   if(patch.status!==undefined&&draft!=null){next.note=draft.trim();if(next.history?.length)next.history[next.history.length-1].note=next.note;}
-  REVIEWS[id]=next;renderFeedback();renderFilters();renderGrid();renderForms();renderSpecies();if(openId===id){renderDrawer();if(draft!=null&&!("note" in patch))$("note-"+id).value=draft;}
+  REVIEWS[id]=next;renderFeedback();if(patch.status!==undefined){renderFilters();renderGrid();renderForms();renderSpecies();if(openId===id){renderDrawer();if(draft!=null&&!("note" in patch))$("note-"+id).value=draft;}}else{const d=$("note-"+id),c=$("cover-note-"+id);[d,c].forEach(t=>{if(t&&t!==document.activeElement&&patch.note!=null)t.value=patch.note;});}
   flash("saved-"+id,"正在保存…");
   const nm=itemName(id);
   try{await queueWrite(async()=>{await putJson(`data/reviews/${id}.json`,next,`选品板：${nm} ${patch.status!==undefined?"标记为"+(patch.status||"未处理"):"更新批注"}`);if(isNew)await touchIndex("reviews",id,true);});if(NOTE_DRAFTS[id]?.trim()===next.note)delete NOTE_DRAFTS[id];flash("saved-"+id,"已保存到仓库");}
@@ -768,6 +775,8 @@ function openConnect(){$("connPanel").hidden=false;$("tokenInput").focus();}
 
 /* ---------- events ---------- */
 document.addEventListener("input",e=>{const t=e.target;if(t?.tagName!=="TEXTAREA")return;const id=t.dataset.noteId||(t.id.startsWith("note-")?t.id.slice(5):null);if(!id)return;NOTE_DRAFTS[id]=t.value;flash("saved-"+id,"有未保存批注");const other=$(t.id.startsWith("cover-note-")?"note-"+id:"cover-note-"+id);if(other&&other!==t)other.value=t.value;});
+document.addEventListener("focusout",e=>{const t=e.target;if(t?.tagName!=="TEXTAREA"||!t.dataset.noteId)return;const id=t.dataset.noteId;if(NOTE_DRAFTS[id]===undefined)return;if(String(NOTE_DRAFTS[id]).trim()===String(REVIEWS[id]?.note||"").trim()){delete NOTE_DRAFTS[id];return;}if(!TOKEN){flash("saved-"+id,"有未保存批注（连接 GitHub 后才能保存）");return;}saveReview(id,{note:String(NOTE_DRAFTS[id]).trim()});});
+document.addEventListener("keydown",e=>{const t=e.target;if(t?.tagName==="TEXTAREA"&&t.dataset.noteId&&e.key==="Enter"&&(e.metaKey||e.ctrlKey)){e.preventDefault();t.blur();}});
 $("batchSel").addEventListener("change",e=>{cur=e.target.value;filter="全部";closeDrawer();renderAll();});
 $("formIpSel").addEventListener("change",e=>{formIp=e.target.value;closeDrawer();renderForms();});
 $("shade").addEventListener("click",closeDrawer);
