@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "evidence_count": 10,
+  "evidence_count": 12,
   "evidence": [
     {
       "id": "2026w42-5",
@@ -56,6 +56,28 @@
       "expression": "不是裂开，是我自己打开",
       "mark": "三瓣栗壳机械花",
       "source": "data/reviews/daily-20261027-05.json"
+    },
+    {
+      "id": "daily-20261027-08",
+      "batch": "daily-20261027",
+      "name": "回温灵",
+      "quote": "不好看 也觉的很奇怪 看着很疼的感觉 淘汰。",
+      "updated_at": "2026-10-28T12:58:09.058Z",
+      "origin": "柔性发热皮革",
+      "expression": "不必火热，慢慢回温就好",
+      "mark": "热谱椭圆额片",
+      "source": "data/reviews/daily-20261027-08.json"
+    },
+    {
+      "id": "daily-20261027-09",
+      "batch": "daily-20261027",
+      "name": "压光鹭",
+      "quote": "太普通了 没有识别性，淘汰。",
+      "updated_at": "2026-10-28T12:58:04.899Z",
+      "origin": "彩色压花玻璃＋湿地观鸟",
+      "expression": "先看清水面，再决定落脚",
+      "mark": "三肋压花玻璃扇冠",
+      "source": "data/reviews/daily-20261027-09.json"
     },
     {
       "id": "daily-20261028-01",
