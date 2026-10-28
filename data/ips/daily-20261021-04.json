@@ -1,0 +1,74 @@
+{
+  "batch": "daily-20261021",
+  "order": 4,
+  "name": "不标准",
+  "en": "daily-20261021-04",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "不像模板，才像一个真的人。",
+  "origin": "反模板化身体",
+  "mark": "舞台帘卷发＋粗眉",
+  "biz": "PVC盲盒",
+  "complete_card": "04 不标准 / UNSTANDARD\n人\n允许型\n原点：\n10月20日关于艺考“颜值内卷”与选材同质化的公开讨论；这是议题热度而非商品销量证据。\n表达：\n不像模板，才像一个真的人。\n性格/背景：\n骄傲、戏多、敢抢戏；在缺少“普通人”的剧团里专演最难忘的配角。\n动作：\n叉腰抬下巴。\n头部：\n短宽身体；单枚舞台帘卷发[专属]＋粗挑眉[专属]，小眼小嘴。\n色/工艺：\n茄紫＋芥黄，签名孔雀青；哑光PVC。\n首品/价：\n10cm PVC盲盒，69–99元。\n系列：\n候场 / 抢戏 / 谢幕。\n文案：\n“模板里没有我的码。” “配角先谢幕。” “我长得很有剧情。”\n撞车：\n接近人形娃；区别在非婴儿体、舞台卷发与宽体姿态。\n风险：\n不能将身体多样性做成笑料；文案与视觉需经包容性审阅。\n设计预评：\n闭眼通过；剪影通过；简笔画通过；缩小通过；换皮存疑—宽体与卷发必须同时保留。\n中文提示：\n短宽自信人形，巨大单卷舞台帘发、粗眉、叉腰、错位袜，茄紫芥黄孔雀青，哑光PVC。\nEnglish:\nShort broad confident human figure, one giant curtain-curl hairstyle, bold eyebrow, hands on hips, mismatched socks, aubergine/mustard/teal matte PVC.",
+  "report": "research/daily/daily-20261021/report.txt",
+  "links": [
+    {
+      "t": "https://www.news.cn/politics/20261020/164f6bb7dfa04919adc527eeb66c630f/c.html",
+      "url": "https://www.news.cn/politics/20261020/164f6bb7dfa04919adc527eeb66c630f/c.html"
+    },
+    {
+      "t": "https://www.chinanews.com/sh/2026/10-20/10717558.shtml",
+      "url": "https://www.chinanews.com/sh/2026/10-20/10717558.shtml"
+    },
+    {
+      "t": "https://sh.news.cn/20261020/d82f583825b04782b966cfa4eb7edb0d/c.html",
+      "url": "https://sh.news.cn/20261020/d82f583825b04782b966cfa4eb7edb0d/c.html"
+    },
+    {
+      "t": "https://www.cnu.com.cn/hotnews/202610/298408.html",
+      "url": "https://www.cnu.com.cn/hotnews/202610/298408.html"
+    },
+    {
+      "t": "https://www.moganshan.saihuitong.com/events?mid=72300",
+      "url": "https://www.moganshan.saihuitong.com/events?mid=72300"
+    },
+    {
+      "t": "https://www.xinhuanet.com/culture/20261019/c0b05a07effb46c4a9944cbe0e68e976/c.html",
+      "url": "https://www.xinhuanet.com/culture/20261019/c0b05a07effb46c4a9944cbe0e68e976/c.html"
+    },
+    {
+      "t": "https://news.hubeidaily.net/pc/c_6083167.html",
+      "url": "https://news.hubeidaily.net/pc/c_6083167.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34287229",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34287229"
+    },
+    {
+      "t": "https://zjnews.zjol.com.cn/zjnews/202610/t20261019_31972955.shtml?v=1.0",
+      "url": "https://zjnews.zjol.com.cn/zjnews/202610/t20261019_31972955.shtml?v=1.0"
+    },
+    {
+      "t": "https://www.xinhuanet.com/photo/20261018/6d45d7a792e24898bce15dc9eebb3750/c.html",
+      "url": "https://www.xinhuanet.com/photo/20261018/6d45d7a792e24898bce15dc9eebb3750/c.html"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/pad-london-2026-emerging-designers",
+      "url": "https://www.wallpaper.com/design-interiors/pad-london-2026-emerging-designers"
+    },
+    {
+      "t": "https://english.elpais.com/icon-design/2026-10-20/the-interior-design-trends-that-will-turn-your-house-into-a-refuge-from-the-real-world.html",
+      "url": "https://english.elpais.com/icon-design/2026-10-20/the-interior-design-trends-that-will-turn-your-house-into-a-refuge-from-the-real-world.html"
+    },
+    {
+      "t": "https://www.news.cn/culture/",
+      "url": "https://www.news.cn/culture/"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "短宽自信人形，巨大单卷舞台帘发、粗眉、叉腰、错位袜，茄紫芥黄孔雀青，哑光PVC。",
+  "enp": "Short broad confident human figure, one giant curtain-curl hairstyle, bold eyebrow, hands on hips, mismatched socks, aubergine/mustard/teal matte PVC.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

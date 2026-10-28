@@ -1,0 +1,67 @@
+{
+  "batch": "daily-20261022",
+  "order": 4,
+  "name": "坐醒",
+  "en": "daily-20261022-04",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "舒服不是躺平，是重新感觉自己。",
+  "origin": "会迫使身体参与的陶珠座椅",
+  "mark": "五颗陶珠拱冠",
+  "biz": "8cm PVC盲盒；79–109元。",
+  "complete_card": "编号：04\n\n暂定名：坐醒\n\n原型：原创生物\n\n句式：允许型\n\n表达：舒服不是躺平，是重新感觉自己。\n\n原点及证据：Design Miami Paris“Design for Presence”中陶珠座椅要求坐者主动感知；海外创意信号。\n\n情绪性格背景：安静但警觉，坐下反而醒来；每一颗珠子记录一种身体感觉。\n\n经典动作：双手压膝，眼睛突然睁大。\n\n外壳与头部：1.5头身低豆体；恰好五颗大陶珠成拱冠[专属]，大眼为唯一放大五官。\n\n色彩材质：粉笔白＋酒红，签名钴蓝珠；哑光PVC＋半光陶瓷感嵌件。\n\n首品与假设价格：8cm PVC盲盒；79–109元。\n\n系列：冷珠 / 暖珠 / 不平珠\n\n文案：“坐下，但别消失。”|“身体上线了。”|“舒服也可以很清醒。”\n\n撞车检查：接近珠饰娃；区别是五珠拱冠和主动坐姿。\n\n风险：生成图偏幼态且大眼抢记忆点；下一版需缩眼、放大五珠轮廓。\n\n五项设计预评：闭眼存疑；剪影通过；简笔画通过；缩小通过；换皮通过。\n\n中文提示词：低豆形生物，五颗巨大陶珠拱冠，双手压膝突然醒来，粉笔白酒红钴蓝，哑光PVC。\n\nEnglish prompt：Low bean creature, exactly five oversized ceramic beads forming an arch crown, hands pressing knees, suddenly awake, chalk white/burgundy/cobalt matte PVC.",
+  "report": "research/daily/daily-20261022/report.txt",
+  "links": [
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34288295",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34288295"
+    },
+    {
+      "t": "https://www.yicai.com/news/103396424.html",
+      "url": "https://www.yicai.com/news/103396424.html"
+    },
+    {
+      "t": "https://www.nppa.gov.cn/xxfb/ywdt/202610/t20261021_1013445.html",
+      "url": "https://www.nppa.gov.cn/xxfb/ywdt/202610/t20261021_1013445.html"
+    },
+    {
+      "t": "https://finance.people.com.cn/n1/2026/1012/c1004-40813133.html",
+      "url": "https://finance.people.com.cn/n1/2026/1012/c1004-40813133.html"
+    },
+    {
+      "t": "https://pkunews.pku.edu.cn/info/7921/3308781.htm",
+      "url": "https://pkunews.pku.edu.cn/info/7921/3308781.htm"
+    },
+    {
+      "t": "https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivxewz5598711.shtml",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivxewz5598711.shtml"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/apple-designers-of-tomorrow-design-miami-paris-2026",
+      "url": "https://www.wallpaper.com/design-interiors/apple-designers-of-tomorrow-design-miami-paris-2026"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/artek-hender-scheme-collection-ryo-kashiwazaki-interview",
+      "url": "https://www.wallpaper.com/design-interiors/artek-hender-scheme-collection-ryo-kashiwazaki-interview"
+    },
+    {
+      "t": "https://www.csfcm.org.cn/",
+      "url": "https://www.csfcm.org.cn/"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34279321",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34279321"
+    },
+    {
+      "t": "https://k.sina.com.cn/article_1668589317_6374a70502701jliq.html",
+      "url": "https://k.sina.com.cn/article_1668589317_6374a70502701jliq.html"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "陶珠座椅要求坐者主动感知；海外创意信号。",
+  "enp": "ce”中陶珠座椅要求坐者主动感知；海外创意信号。",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "import_warning": "本批原始报告与对话摘要的部分名字、原点存在差异（例如接接/拍拍鳐、坐醒/串场、成束/墨芽）。本页保留原始报告与对应原图，不把不同设定合并，也未重新设计。"
+}

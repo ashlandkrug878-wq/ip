@@ -1,0 +1,74 @@
+{
+  "batch": "daily-20261021",
+  "order": 2,
+  "name": "影脊",
+  "en": "daily-20261021-02",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "跑得快，不等于逃得远。",
+  "origin": "竹影跑山、浮影绿",
+  "mark": "单片竹影额鳍",
+  "biz": "搪胶毛绒挂件",
+  "complete_card": "02 影脊 / YINGJI\n动物类人\n自嘲型\n原点：\n莫干山跑山赛十周年与“浮影绿”竹影光轨；10月17—20媒体及赛事信息多源出现。\n表达：\n跑得快，不等于逃得远。\n性格/背景：\n嘴硬、耐力好、方向感差；总在竹影里绕远，但会把迷路说成加练。\n动作：\n上坡前倾，尾巴反向稳住重心。\n外壳/头：\n山貂类人、2头身；单片竹影额鳍[专属]，小圆耳[公共]，窄眼放大。\n色/工艺：\n炭灰短绒＋浮影绿，签名荧光青；搪胶头、短绒身体、软叶片额鳍。\n首品/价：\n12cm搪胶毛绒挂件，89–129元。\n系列：\n迷路加练 / 雨线越野 / 城市楼梯赛。\n文案：\n“不是迷路，是路线自由。” “先喘，别劝。” “上坡见真我。”\n撞车：\n接近运动动物公仔；区别为竹影额鳍与持续前倾剪影。\n风险：\n生成图配件偏多，量产首版需删背叶与绳结，只留额鳍。\n设计预评：\n闭眼通过；剪影通过；简笔画通过；缩小通过；换皮通过—额鳍与跑姿仍在。\n中文提示：\n山貂跑者，单片竹影额鳍，持续上坡前倾，浮影绿/炭灰，搪胶头短绒身体挂件，全身棚拍。\nEnglish:\nAnthropomorphic mountain marten runner, one bamboo-shadow forehead fin, permanent uphill lean, floating green and charcoal, vinyl head and short-plush charm, full-body studio shot.",
+  "report": "research/daily/daily-20261021/report.txt",
+  "links": [
+    {
+      "t": "https://www.news.cn/politics/20261020/164f6bb7dfa04919adc527eeb66c630f/c.html",
+      "url": "https://www.news.cn/politics/20261020/164f6bb7dfa04919adc527eeb66c630f/c.html"
+    },
+    {
+      "t": "https://www.chinanews.com/sh/2026/10-20/10717558.shtml",
+      "url": "https://www.chinanews.com/sh/2026/10-20/10717558.shtml"
+    },
+    {
+      "t": "https://sh.news.cn/20261020/d82f583825b04782b966cfa4eb7edb0d/c.html",
+      "url": "https://sh.news.cn/20261020/d82f583825b04782b966cfa4eb7edb0d/c.html"
+    },
+    {
+      "t": "https://www.cnu.com.cn/hotnews/202610/298408.html",
+      "url": "https://www.cnu.com.cn/hotnews/202610/298408.html"
+    },
+    {
+      "t": "https://www.moganshan.saihuitong.com/events?mid=72300",
+      "url": "https://www.moganshan.saihuitong.com/events?mid=72300"
+    },
+    {
+      "t": "https://www.xinhuanet.com/culture/20261019/c0b05a07effb46c4a9944cbe0e68e976/c.html",
+      "url": "https://www.xinhuanet.com/culture/20261019/c0b05a07effb46c4a9944cbe0e68e976/c.html"
+    },
+    {
+      "t": "https://news.hubeidaily.net/pc/c_6083167.html",
+      "url": "https://news.hubeidaily.net/pc/c_6083167.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34287229",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34287229"
+    },
+    {
+      "t": "https://zjnews.zjol.com.cn/zjnews/202610/t20261019_31972955.shtml?v=1.0",
+      "url": "https://zjnews.zjol.com.cn/zjnews/202610/t20261019_31972955.shtml?v=1.0"
+    },
+    {
+      "t": "https://www.xinhuanet.com/photo/20261018/6d45d7a792e24898bce15dc9eebb3750/c.html",
+      "url": "https://www.xinhuanet.com/photo/20261018/6d45d7a792e24898bce15dc9eebb3750/c.html"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/pad-london-2026-emerging-designers",
+      "url": "https://www.wallpaper.com/design-interiors/pad-london-2026-emerging-designers"
+    },
+    {
+      "t": "https://english.elpais.com/icon-design/2026-10-20/the-interior-design-trends-that-will-turn-your-house-into-a-refuge-from-the-real-world.html",
+      "url": "https://english.elpais.com/icon-design/2026-10-20/the-interior-design-trends-that-will-turn-your-house-into-a-refuge-from-the-real-world.html"
+    },
+    {
+      "t": "https://www.news.cn/culture/",
+      "url": "https://www.news.cn/culture/"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "山貂跑者，单片竹影额鳍，持续上坡前倾，浮影绿/炭灰，搪胶头短绒身体挂件，全身棚拍。",
+  "enp": "Anthropomorphic mountain marten runner, one bamboo-shadow forehead fin, permanent uphill lean, floating green and charcoal, vinyl head and short-plush charm, full-body studio shot.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

@@ -1,0 +1,62 @@
+{
+  "batch": "daily-20261023",
+  "order": 1,
+  "name": "霜边仔",
+  "en": "daily-20261023-01",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "冷到缩起来，也不耽误我长出边界",
+  "origin": "霜降、凉燥与冷暖交界",
+  "mark": "前折霜月刃",
+  "biz": "搪胶毛绒",
+  "complete_card": "## 01 霜边仔\n\n![01](ip-lab-20261023-assets/01.png)\n\n- **原点与转译**：霜降的冷暖交界、白霜边缘→“边界不是拒绝，是保护温度”。\n- **表达/句式/时机**：冷到缩起来，也不耽误我长出边界｜允许型｜站在软萌主流对面，以冷硬透明头壳包住柔软身体。\n- **内核与背景**：克制、警觉、嘴硬；独居在一天里最冷的那一厘米，遇冷时霜刃才显形。\n- **动作**：双臂抱紧，霜刃向前挡风。\n- **外壳/头部**：甲虫原创生物、1.6头身；圆头[公共]、半垂眼[公共]、前折半月霜刃[反常/专属]；其余五官减法。\n- **视觉/产品**：炭灰＋冰白，签名色透明冷蓝；短绒身＋透明软搪胶头；约9cm搪胶毛绒挂件，假设¥79—109。\n- **三系列**：晨霜、窗霜、黑霜。**三文案**：“先别靠近，我在保温。”“边界长出来了。”“冷静不是没温度。”\n- **对标与区别**：最接近暗色收藏型人偶；区别是非人形甲虫、霜刃功能来自气候，不用骨骼头罩或尖牙。\n- **五项设计预评**：闭眼通过—霜月刃；剪影通过—前折大弧；简笔画通过—圆身加月刃；缩小通过—黑白对比；换皮通过—刃与抱臂仍在。\n- **风险**：当前图霜壳面积偏大，量产需控制透明件重量与刃尖安全圆角。\n- **提示词**：中文：单角色甲虫形搪胶毛绒，前额一枚透明霜月刃，炭灰短绒，抱臂，1.6头身，成人潮玩，灰底全身棚拍。 English: Single beetle-like vinyl-plush collectible, one translucent frosted crescent blade on forehead, charcoal short fur, arms hugging body, 1.6-head proportion, full-body studio product shot.\n\n",
+  "report": "research/daily/daily-20261023/report.txt",
+  "links": [
+    {
+      "t": "https://www.xinhuanet.com/20261022/85af510703d6471bad0c3d1b992db2e9/c.html",
+      "url": "https://www.xinhuanet.com/20261022/85af510703d6471bad0c3d1b992db2e9/c.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34288202",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34288202"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34289011",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34289011"
+    },
+    {
+      "t": "https://news.bjd.com.cn/2026/10/22/12004879.shtml",
+      "url": "https://news.bjd.com.cn/2026/10/22/12004879.shtml"
+    },
+    {
+      "t": "https://www.vogue.com/article/cfda-vogue-fashion-fund-sustainability-challenge-10-16-2026",
+      "url": "https://www.vogue.com/article/cfda-vogue-fashion-fund-sustainability-challenge-10-16-2026"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/collectible-design-new-names-to-know-pad-london-2026",
+      "url": "https://www.wallpaper.com/design-interiors/collectible-design-new-names-to-know-pad-london-2026"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/interior-design/furniture/furniture-at-frieze-london-2026",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/furniture/furniture-at-frieze-london-2026"
+    },
+    {
+      "t": "https://www.livingetc.com/features/frieze-week-2026-report",
+      "url": "https://www.livingetc.com/features/frieze-week-2026-report"
+    },
+    {
+      "t": "https://www.housebeautiful.com/design-inspiration/a74205282/wood-look-tile-trend/",
+      "url": "https://www.housebeautiful.com/design-inspiration/a74205282/wood-look-tile-trend/"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market",
+      "url": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "单角色甲虫形搪胶毛绒，前额一枚透明霜月刃，炭灰短绒，抱臂，1.6头身，成人潮玩，灰底全身棚拍。",
+  "enp": "Single beetle-like vinyl-plush collectible, one translucent frosted crescent blade on forehead, charcoal short fur, arms hugging body, 1.6-head proportion, full-body studio product shot.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

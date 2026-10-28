@@ -221,6 +221,7 @@ button,select,textarea,input{font:inherit;color:inherit}
 
   <section class="panel" id="p-ips">
     <details class="info" id="info"><summary id="infoSum">本期说明</summary><div class="infobody" id="infoBody"></div></details>
+    <details class="info"><summary id="feedbackSum">淘汰备注 · 持续积累</summary><div class="infobody" id="feedbackBody"></div></details>
     <div class="row-between"><div class="seg sm" id="filters" role="group" aria-label="按状态筛选"></div><span class="note">只看你的选择和批注，下一期按它们调整</span></div>
     <div class="grid" id="grid"><div class="empty"><b>正在载入本期方案</b><span>每期的方案会自动出现在这里。</span></div></div>
   </section>
@@ -298,9 +299,15 @@ function renderTop(){
 }
 /* ---------- ips ---------- */
 function renderInfo(){
+  renderFeedback();
   const B=curBatch();$("info").hidden=!B;if(!B)return;
   $("infoSum").textContent="本期说明 · "+(B.title||"");
   $("infoBody").innerHTML=`<div><b>时机判断</b>${esc(B.timing)}</div>`+(B.tradeoff?`<div><b>方案之间的取舍</b>${esc(B.tradeoff)}</div>`:"")+(B.learned?`<div><b>从你上一期的选择里学到的</b>${esc(B.learned)}</div>`:"");
+}
+function renderFeedback(){
+  const notes=Object.entries(REVIEWS).filter(([,r])=>r.status==="淘汰"&&String(r.note||"").trim()).sort((a,b)=>String(b[1].updatedAt).localeCompare(String(a[1].updatedAt)));
+  $("feedbackSum").textContent=`淘汰备注 · ${notes.length} 条（跨批次积累）`;
+  $("feedbackBody").innerHTML=`<div><b>学习边界</b>原话保留；一次否决只约束该候选。重复原因累计后，后续任务会总结为带证据的避错建议，不把“这次没画好”当成否决原点。</div>`+(notes.length?notes.map(([id,r])=>`<div><b>${esc(itemName(id))} · ${esc(r.batch||"")}</b><p>${esc(r.note)}</p></div>`).join(""):`<div>还没有足够的淘汰备注。你可以在详情写“哪里不好、为什么、哪些仍想保留”，再点保存批注。</div>`);
 }
 function renderFilters(){
   const list=batchIps();const c={全部:list.filter(i=>!isRetired(i.id)).length,未处理:0,保留:0,待优化:0,淘汰:0};
@@ -397,6 +404,9 @@ function renderDrawer(){
      <div class="row-between"><span class="note" id="saved-${esc(i.id)}">${r.updatedAt?"已保存 "+new Date(r.updatedAt).toLocaleString("zh-CN",{month:"numeric",day:"numeric",hour:"2-digit",minute:"2-digit"}):(TOKEN?"还没有选择":"连接 GitHub 后可保存")}</span><button type="button" class="btn pri" data-act="note" data-id="${esc(i.id)}">保存批注</button></div>
    </div>
    <div class="dbody">
+    ${i.import_warning?sec("历史版本提示",esc(i.import_warning)):""}
+    ${i.complete_card?sec("完整原始方案卡（历史导入）",`<div style="white-space:pre-wrap;overflow-wrap:anywhere">${esc(i.complete_card)}</div>`):""}
+    ${i.report?sec("本期完整报告与来源",linksHtml([{t:"打开原始报告（含本期证据与风险）",url:`https://github.com/${OWNER}/${REPO}/blob/${BRANCH}/${i.report}`}])):""}
     ${i.revision?sec("本次修订 · R"+esc(i.prompt_revision),`<span class="note">${esc(i.revision.date)}</span><p>${esc(i.revision.summary)}</p><p class="note">保留原点与来源；新版图由你从本次对话下载后上传。历史批注与选择继续保留。</p>`):""}
     ${ins?sec("洞察",`<div class="quote">${esc(ins.unsaid)}</div><div class="kv"><span>场景</span><span>${esc(ins.scene)}</span><span>行为</span><span>${esc(ins.act)}</span><span>状态</span><span>${esc(ins.state)}</span><span>矛盾</span><span>${esc(ins.conflict)}</span><span>深度</span><span>${esc(ins.depth)}</span><span>来源</span><span>${esc(ins.source)}</span></div>${(i.links||[]).length?linksHtml(i.links):""}`):""}
     ${sec("原点",`<span>${esc(i.origin)}</span>${os.map(o=>`<div class="orow"><span>${esc(o.name)}</span>${poolBtn("origin",o)}</div>`).join("")}`)}
@@ -617,7 +627,8 @@ async function saveReview(id,patch){
     if(next.archived)next.retiredAt=next.updatedAt;
   }
   const draft=$("note-"+id)?.value;const isNew=!REVIEWS[id];
-  REVIEWS[id]=next;renderFilters();renderGrid();renderForms();renderSpecies();if(openId===id){renderDrawer();if(draft!=null&&!("note" in patch))$("note-"+id).value=draft;}
+  if(patch.status!==undefined&&draft!=null){next.note=draft.trim();if(next.history?.length)next.history[next.history.length-1].note=next.note;}
+  REVIEWS[id]=next;renderFeedback();renderFilters();renderGrid();renderForms();renderSpecies();if(openId===id){renderDrawer();if(draft!=null&&!("note" in patch))$("note-"+id).value=draft;}
   flash("saved-"+id,"正在保存…");
   const nm=itemName(id);
   try{await queueWrite(async()=>{await putJson(`data/reviews/${id}.json`,next,`选品板：${nm} ${patch.status!==undefined?"标记为"+(patch.status||"未处理"):"更新批注"}`);if(isNew)await touchIndex("reviews",id,true);});flash("saved-"+id,"已保存到仓库");}

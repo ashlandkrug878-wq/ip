@@ -1,0 +1,74 @@
+{
+  "batch": "daily-20261021",
+  "order": 7,
+  "name": "一片甲",
+  "en": "daily-20261021-07",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "我只竖起一片甲，剩下的仍愿意相信。",
+  "origin": "木瓦/鳞甲覆盖",
+  "mark": "一片巨大木瓦额甲",
+  "biz": "搪胶毛绒",
+  "complete_card": "07 一片甲 / YIPIANJIA\n动物类人\n允许型\n原点：\nPAD London报道的木瓦覆盖、回收木材与自然颜料家具；2026-10-14海外创意信号。\n表达：\n我只竖起一片甲，剩下的仍愿意相信。\n性格/背景：\n谨慎、慢热、守信用；每天只允许一片甲闭合，避免把自己彻底封住。\n动作：\n双臂轻抱，但额甲保持半开。\n头部：\n穿山甲类人；一片巨大木瓦额甲[专属]，脸部完全光滑，避免密集纹理。\n色/工艺：\n胡桃木＋苔灰，签名钴蓝边；搪胶脸、短绒身、仿木额甲。\n首品/价：\n13cm搪胶毛绒，109–159元。\n系列：\n半开 / 雨甲 / 新木。\n文案：\n“今天只防一点。” “甲开一片，心开半格。” “慢熟，不是拒绝。”\n撞车：\n物种常见度低；区别为单片功能额甲，不做满身重复鳞片。\n风险：\n当前图仍出现多片背甲，量产设计必须删到“头部一片＋身体纯绒”。\n设计预评：\n闭眼通过；剪影通过；简笔画通过；缩小通过；换皮通过。\n中文提示：\n穿山甲类人，光滑脸，一片巨大可掀木瓦额甲，胡桃木苔灰钴蓝边，搪胶头短绒身。\nEnglish:\nAnthropomorphic pangolin with a smooth face and one oversized hinged wooden forehead shingle, walnut/moss/cobalt edge, vinyl head and plush body.",
+  "report": "research/daily/daily-20261021/report.txt",
+  "links": [
+    {
+      "t": "https://www.news.cn/politics/20261020/164f6bb7dfa04919adc527eeb66c630f/c.html",
+      "url": "https://www.news.cn/politics/20261020/164f6bb7dfa04919adc527eeb66c630f/c.html"
+    },
+    {
+      "t": "https://www.chinanews.com/sh/2026/10-20/10717558.shtml",
+      "url": "https://www.chinanews.com/sh/2026/10-20/10717558.shtml"
+    },
+    {
+      "t": "https://sh.news.cn/20261020/d82f583825b04782b966cfa4eb7edb0d/c.html",
+      "url": "https://sh.news.cn/20261020/d82f583825b04782b966cfa4eb7edb0d/c.html"
+    },
+    {
+      "t": "https://www.cnu.com.cn/hotnews/202610/298408.html",
+      "url": "https://www.cnu.com.cn/hotnews/202610/298408.html"
+    },
+    {
+      "t": "https://www.moganshan.saihuitong.com/events?mid=72300",
+      "url": "https://www.moganshan.saihuitong.com/events?mid=72300"
+    },
+    {
+      "t": "https://www.xinhuanet.com/culture/20261019/c0b05a07effb46c4a9944cbe0e68e976/c.html",
+      "url": "https://www.xinhuanet.com/culture/20261019/c0b05a07effb46c4a9944cbe0e68e976/c.html"
+    },
+    {
+      "t": "https://news.hubeidaily.net/pc/c_6083167.html",
+      "url": "https://news.hubeidaily.net/pc/c_6083167.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34287229",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34287229"
+    },
+    {
+      "t": "https://zjnews.zjol.com.cn/zjnews/202610/t20261019_31972955.shtml?v=1.0",
+      "url": "https://zjnews.zjol.com.cn/zjnews/202610/t20261019_31972955.shtml?v=1.0"
+    },
+    {
+      "t": "https://www.xinhuanet.com/photo/20261018/6d45d7a792e24898bce15dc9eebb3750/c.html",
+      "url": "https://www.xinhuanet.com/photo/20261018/6d45d7a792e24898bce15dc9eebb3750/c.html"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/pad-london-2026-emerging-designers",
+      "url": "https://www.wallpaper.com/design-interiors/pad-london-2026-emerging-designers"
+    },
+    {
+      "t": "https://english.elpais.com/icon-design/2026-10-20/the-interior-design-trends-that-will-turn-your-house-into-a-refuge-from-the-real-world.html",
+      "url": "https://english.elpais.com/icon-design/2026-10-20/the-interior-design-trends-that-will-turn-your-house-into-a-refuge-from-the-real-world.html"
+    },
+    {
+      "t": "https://www.news.cn/culture/",
+      "url": "https://www.news.cn/culture/"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "穿山甲类人，光滑脸，一片巨大可掀木瓦额甲，胡桃木苔灰钴蓝边，搪胶头短绒身。",
+  "enp": "Anthropomorphic pangolin with a smooth face and one oversized hinged wooden forehead shingle, walnut/moss/cobalt edge, vinyl head and plush body.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

@@ -1,0 +1,559 @@
+{
+  "title": "2026-10-20 · 每日完整概念（历史导入）",
+  "date": "2026-10-20",
+  "timing": "历史原件导入；证据、价格与设计预评均保持生成当日语境，不代表当前验证。",
+  "learned": "本次仅导入，不把AI推荐或设计预评当作用户选择。",
+  "origins": [
+    {
+      "name": "夜游光影",
+      "links": [
+        {
+          "t": "https://www1.meet-in-shanghai.net/cn/news/from-sijing-ancient-town-to-the-entire-shanghai-shanghais-intangible-cultural-heritage-new-styles-during-the-national-day-holiday-759826/",
+          "url": "https://www1.meet-in-shanghai.net/cn/news/from-sijing-ancient-town-to-the-entire-shanghai-shanghais-intangible-cultural-heritage-new-styles-during-the-national-day-holiday-759826/"
+        },
+        {
+          "t": "https://www.sh-act.org/index.php?content_id=3000&r=article/Content/index",
+          "url": "https://www.sh-act.org/index.php?content_id=3000&r=article/Content/index"
+        },
+        {
+          "t": "https://us.fairphone.com/stories/the-new-fairbuds-2-your-sound-made-better",
+          "url": "https://us.fairphone.com/stories/the-new-fairbuds-2-your-sound-made-better"
+        },
+        {
+          "t": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
+          "url": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability"
+        },
+        {
+          "t": "https://www.hengqin.gov.cn/macao_zh_hans/hzqgl/dtyw/dtxx/content/post_3948059.html",
+          "url": "https://www.hengqin.gov.cn/macao_zh_hans/hzqgl/dtyw/dtxx/content/post_3948059.html"
+        },
+        {
+          "t": "https://hi.people.com.cn/n2/2026/1011/c231190-41718502.html",
+          "url": "https://hi.people.com.cn/n2/2026/1011/c231190-41718502.html"
+        },
+        {
+          "t": "https://ucishanghai2026.com/",
+          "url": "https://ucishanghai2026.com/"
+        },
+        {
+          "t": "https://www.changzhou.gov.cn/ns_news/665179196881661",
+          "url": "https://www.changzhou.gov.cn/ns_news/665179196881661"
+        },
+        {
+          "t": "https://www1.xinhuanet.com/culture/20261014/e9630d2fa8c94e11956a22ed6f440657/c.html",
+          "url": "https://www1.xinhuanet.com/culture/20261014/e9630d2fa8c94e11956a22ed6f440657/c.html"
+        },
+        {
+          "t": "https://www.cnqlib.sh.cn/lectures/events/18674.html",
+          "url": "https://www.cnqlib.sh.cn/lectures/events/18674.html"
+        },
+        {
+          "t": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202610/t20261008_10747564.shtml",
+          "url": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202610/t20261008_10747564.shtml"
+        },
+        {
+          "t": "https://www.guojialvye.com/cb/lyzx/9722.html",
+          "url": "https://www.guojialvye.com/cb/lyzx/9722.html"
+        },
+        {
+          "t": "https://society.yunnan.cn/system/2026/10/07/034166260.shtml",
+          "url": "https://society.yunnan.cn/system/2026/10/07/034166260.shtml"
+        },
+        {
+          "t": "https://gx.people.com.cn/n2/2026/1002/c414936-41713675.html",
+          "url": "https://gx.people.com.cn/n2/2026/1002/c414936-41713675.html"
+        }
+      ]
+    },
+    {
+      "name": "古村慢停留",
+      "links": [
+        {
+          "t": "https://www1.meet-in-shanghai.net/cn/news/from-sijing-ancient-town-to-the-entire-shanghai-shanghais-intangible-cultural-heritage-new-styles-during-the-national-day-holiday-759826/",
+          "url": "https://www1.meet-in-shanghai.net/cn/news/from-sijing-ancient-town-to-the-entire-shanghai-shanghais-intangible-cultural-heritage-new-styles-during-the-national-day-holiday-759826/"
+        },
+        {
+          "t": "https://www.sh-act.org/index.php?content_id=3000&r=article/Content/index",
+          "url": "https://www.sh-act.org/index.php?content_id=3000&r=article/Content/index"
+        },
+        {
+          "t": "https://us.fairphone.com/stories/the-new-fairbuds-2-your-sound-made-better",
+          "url": "https://us.fairphone.com/stories/the-new-fairbuds-2-your-sound-made-better"
+        },
+        {
+          "t": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
+          "url": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability"
+        },
+        {
+          "t": "https://www.hengqin.gov.cn/macao_zh_hans/hzqgl/dtyw/dtxx/content/post_3948059.html",
+          "url": "https://www.hengqin.gov.cn/macao_zh_hans/hzqgl/dtyw/dtxx/content/post_3948059.html"
+        },
+        {
+          "t": "https://hi.people.com.cn/n2/2026/1011/c231190-41718502.html",
+          "url": "https://hi.people.com.cn/n2/2026/1011/c231190-41718502.html"
+        },
+        {
+          "t": "https://ucishanghai2026.com/",
+          "url": "https://ucishanghai2026.com/"
+        },
+        {
+          "t": "https://www.changzhou.gov.cn/ns_news/665179196881661",
+          "url": "https://www.changzhou.gov.cn/ns_news/665179196881661"
+        },
+        {
+          "t": "https://www1.xinhuanet.com/culture/20261014/e9630d2fa8c94e11956a22ed6f440657/c.html",
+          "url": "https://www1.xinhuanet.com/culture/20261014/e9630d2fa8c94e11956a22ed6f440657/c.html"
+        },
+        {
+          "t": "https://www.cnqlib.sh.cn/lectures/events/18674.html",
+          "url": "https://www.cnqlib.sh.cn/lectures/events/18674.html"
+        },
+        {
+          "t": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202610/t20261008_10747564.shtml",
+          "url": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202610/t20261008_10747564.shtml"
+        },
+        {
+          "t": "https://www.guojialvye.com/cb/lyzx/9722.html",
+          "url": "https://www.guojialvye.com/cb/lyzx/9722.html"
+        },
+        {
+          "t": "https://society.yunnan.cn/system/2026/10/07/034166260.shtml",
+          "url": "https://society.yunnan.cn/system/2026/10/07/034166260.shtml"
+        },
+        {
+          "t": "https://gx.people.com.cn/n2/2026/1002/c414936-41713675.html",
+          "url": "https://gx.people.com.cn/n2/2026/1002/c414936-41713675.html"
+        }
+      ]
+    },
+    {
+      "name": "可维修与模块化",
+      "links": [
+        {
+          "t": "https://www1.meet-in-shanghai.net/cn/news/from-sijing-ancient-town-to-the-entire-shanghai-shanghais-intangible-cultural-heritage-new-styles-during-the-national-day-holiday-759826/",
+          "url": "https://www1.meet-in-shanghai.net/cn/news/from-sijing-ancient-town-to-the-entire-shanghai-shanghais-intangible-cultural-heritage-new-styles-during-the-national-day-holiday-759826/"
+        },
+        {
+          "t": "https://www.sh-act.org/index.php?content_id=3000&r=article/Content/index",
+          "url": "https://www.sh-act.org/index.php?content_id=3000&r=article/Content/index"
+        },
+        {
+          "t": "https://us.fairphone.com/stories/the-new-fairbuds-2-your-sound-made-better",
+          "url": "https://us.fairphone.com/stories/the-new-fairbuds-2-your-sound-made-better"
+        },
+        {
+          "t": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
+          "url": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability"
+        },
+        {
+          "t": "https://www.hengqin.gov.cn/macao_zh_hans/hzqgl/dtyw/dtxx/content/post_3948059.html",
+          "url": "https://www.hengqin.gov.cn/macao_zh_hans/hzqgl/dtyw/dtxx/content/post_3948059.html"
+        },
+        {
+          "t": "https://hi.people.com.cn/n2/2026/1011/c231190-41718502.html",
+          "url": "https://hi.people.com.cn/n2/2026/1011/c231190-41718502.html"
+        },
+        {
+          "t": "https://ucishanghai2026.com/",
+          "url": "https://ucishanghai2026.com/"
+        },
+        {
+          "t": "https://www.changzhou.gov.cn/ns_news/665179196881661",
+          "url": "https://www.changzhou.gov.cn/ns_news/665179196881661"
+        },
+        {
+          "t": "https://www1.xinhuanet.com/culture/20261014/e9630d2fa8c94e11956a22ed6f440657/c.html",
+          "url": "https://www1.xinhuanet.com/culture/20261014/e9630d2fa8c94e11956a22ed6f440657/c.html"
+        },
+        {
+          "t": "https://www.cnqlib.sh.cn/lectures/events/18674.html",
+          "url": "https://www.cnqlib.sh.cn/lectures/events/18674.html"
+        },
+        {
+          "t": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202610/t20261008_10747564.shtml",
+          "url": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202610/t20261008_10747564.shtml"
+        },
+        {
+          "t": "https://www.guojialvye.com/cb/lyzx/9722.html",
+          "url": "https://www.guojialvye.com/cb/lyzx/9722.html"
+        },
+        {
+          "t": "https://society.yunnan.cn/system/2026/10/07/034166260.shtml",
+          "url": "https://society.yunnan.cn/system/2026/10/07/034166260.shtml"
+        },
+        {
+          "t": "https://gx.people.com.cn/n2/2026/1002/c414936-41713675.html",
+          "url": "https://gx.people.com.cn/n2/2026/1002/c414936-41713675.html"
+        }
+      ]
+    },
+    {
+      "name": "秋季候鸟与观鸟",
+      "links": [
+        {
+          "t": "https://www1.meet-in-shanghai.net/cn/news/from-sijing-ancient-town-to-the-entire-shanghai-shanghais-intangible-cultural-heritage-new-styles-during-the-national-day-holiday-759826/",
+          "url": "https://www1.meet-in-shanghai.net/cn/news/from-sijing-ancient-town-to-the-entire-shanghai-shanghais-intangible-cultural-heritage-new-styles-during-the-national-day-holiday-759826/"
+        },
+        {
+          "t": "https://www.sh-act.org/index.php?content_id=3000&r=article/Content/index",
+          "url": "https://www.sh-act.org/index.php?content_id=3000&r=article/Content/index"
+        },
+        {
+          "t": "https://us.fairphone.com/stories/the-new-fairbuds-2-your-sound-made-better",
+          "url": "https://us.fairphone.com/stories/the-new-fairbuds-2-your-sound-made-better"
+        },
+        {
+          "t": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
+          "url": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability"
+        },
+        {
+          "t": "https://www.hengqin.gov.cn/macao_zh_hans/hzqgl/dtyw/dtxx/content/post_3948059.html",
+          "url": "https://www.hengqin.gov.cn/macao_zh_hans/hzqgl/dtyw/dtxx/content/post_3948059.html"
+        },
+        {
+          "t": "https://hi.people.com.cn/n2/2026/1011/c231190-41718502.html",
+          "url": "https://hi.people.com.cn/n2/2026/1011/c231190-41718502.html"
+        },
+        {
+          "t": "https://ucishanghai2026.com/",
+          "url": "https://ucishanghai2026.com/"
+        },
+        {
+          "t": "https://www.changzhou.gov.cn/ns_news/665179196881661",
+          "url": "https://www.changzhou.gov.cn/ns_news/665179196881661"
+        },
+        {
+          "t": "https://www1.xinhuanet.com/culture/20261014/e9630d2fa8c94e11956a22ed6f440657/c.html",
+          "url": "https://www1.xinhuanet.com/culture/20261014/e9630d2fa8c94e11956a22ed6f440657/c.html"
+        },
+        {
+          "t": "https://www.cnqlib.sh.cn/lectures/events/18674.html",
+          "url": "https://www.cnqlib.sh.cn/lectures/events/18674.html"
+        },
+        {
+          "t": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202610/t20261008_10747564.shtml",
+          "url": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202610/t20261008_10747564.shtml"
+        },
+        {
+          "t": "https://www.guojialvye.com/cb/lyzx/9722.html",
+          "url": "https://www.guojialvye.com/cb/lyzx/9722.html"
+        },
+        {
+          "t": "https://society.yunnan.cn/system/2026/10/07/034166260.shtml",
+          "url": "https://society.yunnan.cn/system/2026/10/07/034166260.shtml"
+        },
+        {
+          "t": "https://gx.people.com.cn/n2/2026/1002/c414936-41713675.html",
+          "url": "https://gx.people.com.cn/n2/2026/1002/c414936-41713675.html"
+        }
+      ]
+    },
+    {
+      "name": "场地骑行的弯道",
+      "links": [
+        {
+          "t": "https://www1.meet-in-shanghai.net/cn/news/from-sijing-ancient-town-to-the-entire-shanghai-shanghais-intangible-cultural-heritage-new-styles-during-the-national-day-holiday-759826/",
+          "url": "https://www1.meet-in-shanghai.net/cn/news/from-sijing-ancient-town-to-the-entire-shanghai-shanghais-intangible-cultural-heritage-new-styles-during-the-national-day-holiday-759826/"
+        },
+        {
+          "t": "https://www.sh-act.org/index.php?content_id=3000&r=article/Content/index",
+          "url": "https://www.sh-act.org/index.php?content_id=3000&r=article/Content/index"
+        },
+        {
+          "t": "https://us.fairphone.com/stories/the-new-fairbuds-2-your-sound-made-better",
+          "url": "https://us.fairphone.com/stories/the-new-fairbuds-2-your-sound-made-better"
+        },
+        {
+          "t": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
+          "url": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability"
+        },
+        {
+          "t": "https://www.hengqin.gov.cn/macao_zh_hans/hzqgl/dtyw/dtxx/content/post_3948059.html",
+          "url": "https://www.hengqin.gov.cn/macao_zh_hans/hzqgl/dtyw/dtxx/content/post_3948059.html"
+        },
+        {
+          "t": "https://hi.people.com.cn/n2/2026/1011/c231190-41718502.html",
+          "url": "https://hi.people.com.cn/n2/2026/1011/c231190-41718502.html"
+        },
+        {
+          "t": "https://ucishanghai2026.com/",
+          "url": "https://ucishanghai2026.com/"
+        },
+        {
+          "t": "https://www.changzhou.gov.cn/ns_news/665179196881661",
+          "url": "https://www.changzhou.gov.cn/ns_news/665179196881661"
+        },
+        {
+          "t": "https://www1.xinhuanet.com/culture/20261014/e9630d2fa8c94e11956a22ed6f440657/c.html",
+          "url": "https://www1.xinhuanet.com/culture/20261014/e9630d2fa8c94e11956a22ed6f440657/c.html"
+        },
+        {
+          "t": "https://www.cnqlib.sh.cn/lectures/events/18674.html",
+          "url": "https://www.cnqlib.sh.cn/lectures/events/18674.html"
+        },
+        {
+          "t": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202610/t20261008_10747564.shtml",
+          "url": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202610/t20261008_10747564.shtml"
+        },
+        {
+          "t": "https://www.guojialvye.com/cb/lyzx/9722.html",
+          "url": "https://www.guojialvye.com/cb/lyzx/9722.html"
+        },
+        {
+          "t": "https://society.yunnan.cn/system/2026/10/07/034166260.shtml",
+          "url": "https://society.yunnan.cn/system/2026/10/07/034166260.shtml"
+        },
+        {
+          "t": "https://gx.people.com.cn/n2/2026/1002/c414936-41713675.html",
+          "url": "https://gx.people.com.cn/n2/2026/1002/c414936-41713675.html"
+        }
+      ]
+    },
+    {
+      "name": "乱针绣交叉走线",
+      "links": [
+        {
+          "t": "https://www1.meet-in-shanghai.net/cn/news/from-sijing-ancient-town-to-the-entire-shanghai-shanghais-intangible-cultural-heritage-new-styles-during-the-national-day-holiday-759826/",
+          "url": "https://www1.meet-in-shanghai.net/cn/news/from-sijing-ancient-town-to-the-entire-shanghai-shanghais-intangible-cultural-heritage-new-styles-during-the-national-day-holiday-759826/"
+        },
+        {
+          "t": "https://www.sh-act.org/index.php?content_id=3000&r=article/Content/index",
+          "url": "https://www.sh-act.org/index.php?content_id=3000&r=article/Content/index"
+        },
+        {
+          "t": "https://us.fairphone.com/stories/the-new-fairbuds-2-your-sound-made-better",
+          "url": "https://us.fairphone.com/stories/the-new-fairbuds-2-your-sound-made-better"
+        },
+        {
+          "t": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
+          "url": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability"
+        },
+        {
+          "t": "https://www.hengqin.gov.cn/macao_zh_hans/hzqgl/dtyw/dtxx/content/post_3948059.html",
+          "url": "https://www.hengqin.gov.cn/macao_zh_hans/hzqgl/dtyw/dtxx/content/post_3948059.html"
+        },
+        {
+          "t": "https://hi.people.com.cn/n2/2026/1011/c231190-41718502.html",
+          "url": "https://hi.people.com.cn/n2/2026/1011/c231190-41718502.html"
+        },
+        {
+          "t": "https://ucishanghai2026.com/",
+          "url": "https://ucishanghai2026.com/"
+        },
+        {
+          "t": "https://www.changzhou.gov.cn/ns_news/665179196881661",
+          "url": "https://www.changzhou.gov.cn/ns_news/665179196881661"
+        },
+        {
+          "t": "https://www1.xinhuanet.com/culture/20261014/e9630d2fa8c94e11956a22ed6f440657/c.html",
+          "url": "https://www1.xinhuanet.com/culture/20261014/e9630d2fa8c94e11956a22ed6f440657/c.html"
+        },
+        {
+          "t": "https://www.cnqlib.sh.cn/lectures/events/18674.html",
+          "url": "https://www.cnqlib.sh.cn/lectures/events/18674.html"
+        },
+        {
+          "t": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202610/t20261008_10747564.shtml",
+          "url": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202610/t20261008_10747564.shtml"
+        },
+        {
+          "t": "https://www.guojialvye.com/cb/lyzx/9722.html",
+          "url": "https://www.guojialvye.com/cb/lyzx/9722.html"
+        },
+        {
+          "t": "https://society.yunnan.cn/system/2026/10/07/034166260.shtml",
+          "url": "https://society.yunnan.cn/system/2026/10/07/034166260.shtml"
+        },
+        {
+          "t": "https://gx.people.com.cn/n2/2026/1002/c414936-41713675.html",
+          "url": "https://gx.people.com.cn/n2/2026/1002/c414936-41713675.html"
+        }
+      ]
+    },
+    {
+      "name": "乌金陶手作",
+      "links": [
+        {
+          "t": "https://www1.meet-in-shanghai.net/cn/news/from-sijing-ancient-town-to-the-entire-shanghai-shanghais-intangible-cultural-heritage-new-styles-during-the-national-day-holiday-759826/",
+          "url": "https://www1.meet-in-shanghai.net/cn/news/from-sijing-ancient-town-to-the-entire-shanghai-shanghais-intangible-cultural-heritage-new-styles-during-the-national-day-holiday-759826/"
+        },
+        {
+          "t": "https://www.sh-act.org/index.php?content_id=3000&r=article/Content/index",
+          "url": "https://www.sh-act.org/index.php?content_id=3000&r=article/Content/index"
+        },
+        {
+          "t": "https://us.fairphone.com/stories/the-new-fairbuds-2-your-sound-made-better",
+          "url": "https://us.fairphone.com/stories/the-new-fairbuds-2-your-sound-made-better"
+        },
+        {
+          "t": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
+          "url": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability"
+        },
+        {
+          "t": "https://www.hengqin.gov.cn/macao_zh_hans/hzqgl/dtyw/dtxx/content/post_3948059.html",
+          "url": "https://www.hengqin.gov.cn/macao_zh_hans/hzqgl/dtyw/dtxx/content/post_3948059.html"
+        },
+        {
+          "t": "https://hi.people.com.cn/n2/2026/1011/c231190-41718502.html",
+          "url": "https://hi.people.com.cn/n2/2026/1011/c231190-41718502.html"
+        },
+        {
+          "t": "https://ucishanghai2026.com/",
+          "url": "https://ucishanghai2026.com/"
+        },
+        {
+          "t": "https://www.changzhou.gov.cn/ns_news/665179196881661",
+          "url": "https://www.changzhou.gov.cn/ns_news/665179196881661"
+        },
+        {
+          "t": "https://www1.xinhuanet.com/culture/20261014/e9630d2fa8c94e11956a22ed6f440657/c.html",
+          "url": "https://www1.xinhuanet.com/culture/20261014/e9630d2fa8c94e11956a22ed6f440657/c.html"
+        },
+        {
+          "t": "https://www.cnqlib.sh.cn/lectures/events/18674.html",
+          "url": "https://www.cnqlib.sh.cn/lectures/events/18674.html"
+        },
+        {
+          "t": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202610/t20261008_10747564.shtml",
+          "url": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202610/t20261008_10747564.shtml"
+        },
+        {
+          "t": "https://www.guojialvye.com/cb/lyzx/9722.html",
+          "url": "https://www.guojialvye.com/cb/lyzx/9722.html"
+        },
+        {
+          "t": "https://society.yunnan.cn/system/2026/10/07/034166260.shtml",
+          "url": "https://society.yunnan.cn/system/2026/10/07/034166260.shtml"
+        },
+        {
+          "t": "https://gx.people.com.cn/n2/2026/1002/c414936-41713675.html",
+          "url": "https://gx.people.com.cn/n2/2026/1002/c414936-41713675.html"
+        }
+      ]
+    },
+    {
+      "name": "螺钿异色反光",
+      "links": [
+        {
+          "t": "https://www1.meet-in-shanghai.net/cn/news/from-sijing-ancient-town-to-the-entire-shanghai-shanghais-intangible-cultural-heritage-new-styles-during-the-national-day-holiday-759826/",
+          "url": "https://www1.meet-in-shanghai.net/cn/news/from-sijing-ancient-town-to-the-entire-shanghai-shanghais-intangible-cultural-heritage-new-styles-during-the-national-day-holiday-759826/"
+        },
+        {
+          "t": "https://www.sh-act.org/index.php?content_id=3000&r=article/Content/index",
+          "url": "https://www.sh-act.org/index.php?content_id=3000&r=article/Content/index"
+        },
+        {
+          "t": "https://us.fairphone.com/stories/the-new-fairbuds-2-your-sound-made-better",
+          "url": "https://us.fairphone.com/stories/the-new-fairbuds-2-your-sound-made-better"
+        },
+        {
+          "t": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
+          "url": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability"
+        },
+        {
+          "t": "https://www.hengqin.gov.cn/macao_zh_hans/hzqgl/dtyw/dtxx/content/post_3948059.html",
+          "url": "https://www.hengqin.gov.cn/macao_zh_hans/hzqgl/dtyw/dtxx/content/post_3948059.html"
+        },
+        {
+          "t": "https://hi.people.com.cn/n2/2026/1011/c231190-41718502.html",
+          "url": "https://hi.people.com.cn/n2/2026/1011/c231190-41718502.html"
+        },
+        {
+          "t": "https://ucishanghai2026.com/",
+          "url": "https://ucishanghai2026.com/"
+        },
+        {
+          "t": "https://www.changzhou.gov.cn/ns_news/665179196881661",
+          "url": "https://www.changzhou.gov.cn/ns_news/665179196881661"
+        },
+        {
+          "t": "https://www1.xinhuanet.com/culture/20261014/e9630d2fa8c94e11956a22ed6f440657/c.html",
+          "url": "https://www1.xinhuanet.com/culture/20261014/e9630d2fa8c94e11956a22ed6f440657/c.html"
+        },
+        {
+          "t": "https://www.cnqlib.sh.cn/lectures/events/18674.html",
+          "url": "https://www.cnqlib.sh.cn/lectures/events/18674.html"
+        },
+        {
+          "t": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202610/t20261008_10747564.shtml",
+          "url": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202610/t20261008_10747564.shtml"
+        },
+        {
+          "t": "https://www.guojialvye.com/cb/lyzx/9722.html",
+          "url": "https://www.guojialvye.com/cb/lyzx/9722.html"
+        },
+        {
+          "t": "https://society.yunnan.cn/system/2026/10/07/034166260.shtml",
+          "url": "https://society.yunnan.cn/system/2026/10/07/034166260.shtml"
+        },
+        {
+          "t": "https://gx.people.com.cn/n2/2026/1002/c414936-41713675.html",
+          "url": "https://gx.people.com.cn/n2/2026/1002/c414936-41713675.html"
+        }
+      ]
+    },
+    {
+      "name": "赏秋与拾叶",
+      "links": [
+        {
+          "t": "https://www1.meet-in-shanghai.net/cn/news/from-sijing-ancient-town-to-the-entire-shanghai-shanghais-intangible-cultural-heritage-new-styles-during-the-national-day-holiday-759826/",
+          "url": "https://www1.meet-in-shanghai.net/cn/news/from-sijing-ancient-town-to-the-entire-shanghai-shanghais-intangible-cultural-heritage-new-styles-during-the-national-day-holiday-759826/"
+        },
+        {
+          "t": "https://www.sh-act.org/index.php?content_id=3000&r=article/Content/index",
+          "url": "https://www.sh-act.org/index.php?content_id=3000&r=article/Content/index"
+        },
+        {
+          "t": "https://us.fairphone.com/stories/the-new-fairbuds-2-your-sound-made-better",
+          "url": "https://us.fairphone.com/stories/the-new-fairbuds-2-your-sound-made-better"
+        },
+        {
+          "t": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
+          "url": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability"
+        },
+        {
+          "t": "https://www.hengqin.gov.cn/macao_zh_hans/hzqgl/dtyw/dtxx/content/post_3948059.html",
+          "url": "https://www.hengqin.gov.cn/macao_zh_hans/hzqgl/dtyw/dtxx/content/post_3948059.html"
+        },
+        {
+          "t": "https://hi.people.com.cn/n2/2026/1011/c231190-41718502.html",
+          "url": "https://hi.people.com.cn/n2/2026/1011/c231190-41718502.html"
+        },
+        {
+          "t": "https://ucishanghai2026.com/",
+          "url": "https://ucishanghai2026.com/"
+        },
+        {
+          "t": "https://www.changzhou.gov.cn/ns_news/665179196881661",
+          "url": "https://www.changzhou.gov.cn/ns_news/665179196881661"
+        },
+        {
+          "t": "https://www1.xinhuanet.com/culture/20261014/e9630d2fa8c94e11956a22ed6f440657/c.html",
+          "url": "https://www1.xinhuanet.com/culture/20261014/e9630d2fa8c94e11956a22ed6f440657/c.html"
+        },
+        {
+          "t": "https://www.cnqlib.sh.cn/lectures/events/18674.html",
+          "url": "https://www.cnqlib.sh.cn/lectures/events/18674.html"
+        },
+        {
+          "t": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202610/t20261008_10747564.shtml",
+          "url": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202610/t20261008_10747564.shtml"
+        },
+        {
+          "t": "https://www.guojialvye.com/cb/lyzx/9722.html",
+          "url": "https://www.guojialvye.com/cb/lyzx/9722.html"
+        },
+        {
+          "t": "https://society.yunnan.cn/system/2026/10/07/034166260.shtml",
+          "url": "https://society.yunnan.cn/system/2026/10/07/034166260.shtml"
+        },
+        {
+          "t": "https://gx.people.com.cn/n2/2026/1002/c414936-41713675.html",
+          "url": "https://gx.people.com.cn/n2/2026/1002/c414936-41713675.html"
+        }
+      ]
+    }
+  ],
+  "source": "daily-lab",
+  "report": "research/daily/daily-20261020/report.txt"
+}

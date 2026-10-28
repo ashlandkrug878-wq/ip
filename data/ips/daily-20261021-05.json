@@ -1,0 +1,74 @@
+{
+  "batch": "daily-20261021",
+  "order": 5,
+  "name": "层层",
+  "en": "daily-20261021-05",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "我不是旧东西，我只是活得更久。",
+  "origin": "遗产元素当代转译",
+  "mark": "三层考古断面冠",
+  "biz": "PVC盲盒",
+  "complete_card": "05 层层 / CEN-CEN\n拟物生物\n陪伴型\n原点：\n10月18日开幕的中国文化遗产元素创新设计特展，主题强调将历史遗存转为当代创造；新华网与浙江在线双源。\n表达：\n我不是旧东西，我只是活得更久。\n性格/背景：\n安静、好奇、爱做标签；每发现一层就把故事留白给下一位。\n动作：\n举空白标签等待用户命名。\n头部：\n方圆豆体，三层考古断面冠[反常/专属]，豆眼小嘴。\n色/工艺：\n砂岩色＋炭灰，签名松石缝；矿物哑光PVC。\n首品/价：\n8cm PVC盲盒，69–99元。\n系列：\n土层 / 水层 / 城层。\n文案：\n“别急，我还有下一层。” “标签先空着。” “旧，不等于结束。”\n撞车：\n接近方头拟物；区别为可读的三层断面与空标签行为，不复制具体文物。\n风险：\n断面细碎会像蛋糕；控制为三大色块并移除碎石零件。\n设计预评：\n闭眼通过；剪影通过；简笔画通过；缩小通过；换皮通过。\n中文提示：\n三层考古断面冠的方圆原创生物，举空白标签，砂岩炭灰松石缝，矿物哑光PVC。\nEnglish:\nSquare-rounded archaeology creature with a three-layer cross-section crown, holding a blank tag, sandstone/charcoal/turquoise seam, mineral matte PVC.",
+  "report": "research/daily/daily-20261021/report.txt",
+  "links": [
+    {
+      "t": "https://www.news.cn/politics/20261020/164f6bb7dfa04919adc527eeb66c630f/c.html",
+      "url": "https://www.news.cn/politics/20261020/164f6bb7dfa04919adc527eeb66c630f/c.html"
+    },
+    {
+      "t": "https://www.chinanews.com/sh/2026/10-20/10717558.shtml",
+      "url": "https://www.chinanews.com/sh/2026/10-20/10717558.shtml"
+    },
+    {
+      "t": "https://sh.news.cn/20261020/d82f583825b04782b966cfa4eb7edb0d/c.html",
+      "url": "https://sh.news.cn/20261020/d82f583825b04782b966cfa4eb7edb0d/c.html"
+    },
+    {
+      "t": "https://www.cnu.com.cn/hotnews/202610/298408.html",
+      "url": "https://www.cnu.com.cn/hotnews/202610/298408.html"
+    },
+    {
+      "t": "https://www.moganshan.saihuitong.com/events?mid=72300",
+      "url": "https://www.moganshan.saihuitong.com/events?mid=72300"
+    },
+    {
+      "t": "https://www.xinhuanet.com/culture/20261019/c0b05a07effb46c4a9944cbe0e68e976/c.html",
+      "url": "https://www.xinhuanet.com/culture/20261019/c0b05a07effb46c4a9944cbe0e68e976/c.html"
+    },
+    {
+      "t": "https://news.hubeidaily.net/pc/c_6083167.html",
+      "url": "https://news.hubeidaily.net/pc/c_6083167.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34287229",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34287229"
+    },
+    {
+      "t": "https://zjnews.zjol.com.cn/zjnews/202610/t20261019_31972955.shtml?v=1.0",
+      "url": "https://zjnews.zjol.com.cn/zjnews/202610/t20261019_31972955.shtml?v=1.0"
+    },
+    {
+      "t": "https://www.xinhuanet.com/photo/20261018/6d45d7a792e24898bce15dc9eebb3750/c.html",
+      "url": "https://www.xinhuanet.com/photo/20261018/6d45d7a792e24898bce15dc9eebb3750/c.html"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/pad-london-2026-emerging-designers",
+      "url": "https://www.wallpaper.com/design-interiors/pad-london-2026-emerging-designers"
+    },
+    {
+      "t": "https://english.elpais.com/icon-design/2026-10-20/the-interior-design-trends-that-will-turn-your-house-into-a-refuge-from-the-real-world.html",
+      "url": "https://english.elpais.com/icon-design/2026-10-20/the-interior-design-trends-that-will-turn-your-house-into-a-refuge-from-the-real-world.html"
+    },
+    {
+      "t": "https://www.news.cn/culture/",
+      "url": "https://www.news.cn/culture/"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "国文化遗产元素创新设计特展，主题强调将历史遗存转为当代创造；新华网与浙江在线双源。",
+  "enp": "-CEN",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

@@ -1,0 +1,66 @@
+{
+  "batch": "daily-20261027",
+  "order": 7,
+  "name": "锅响怪",
+  "en": "daily-20261027-07",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "没意义也要响一声",
+  "origin": "土味无厘头竞技",
+  "mark": "偏置铁锅声晕",
+  "biz": "搪胶毛绒",
+  "complete_card": "## 07 锅响怪\n\n- **表达/句式/时机**：没意义也要响一声｜自嘲型｜站在规整治愈的对面，走民间荒诞喜剧。\n- **原点/来源**：掰玉米、甩铁锅等土味无厘头赛事；2026-10-4；灵感线索。\n- **情绪与性格**：没包袱、敢出丑、声音大。\n- **背景/动作**：没有乐器就把日常敲成节拍；举玉米槌击锅。\n- **外壳与头部**：原创生物，2头身；偏置铁锅声晕[反常]，小挑眉[公共]，一线嘴[公共]。\n- **色材/产品/价格**：燕麦黄、铁黑，签名辣椒红；短绒身＋轻量软胶锅＋软槌；12cm挂件假设89元。\n- **系列**：玉米第一响；花生雨；甩锅决赛。\n- **文案**：“先响再说。”／“这锅我来敲。”／“无意义，正开心。”\n- **提示词中**：单一燕麦黄毛绒怪，头后偏置单个铁锅声晕，举玉米软槌，辣椒红槌头，完整全身产品图。\n- **Prompt EN**：One oat-yellow plush creature, single off-center black iron-pan sound halo behind head, raising corn-cob mallet with red soft tip, full body.\n- **撞车**：接近沙雕表情包型IP；区别是锅晕剪影和民间竞技动作。\n- **五项设计预评**：闭眼通过；剪影通过；简笔画通过；缩小存疑（腰部杂件应删）；换皮通过。\n- **风险**：铁锅过真可能像厨具广告；量产应抽象成无柄浅盘。\n\n",
+  "report": "research/daily/daily-20261027/report.txt",
+  "links": [
+    {
+      "t": "https://finance.people.com.cn/n1/2026/1021/c1004-40819079.html",
+      "url": "https://finance.people.com.cn/n1/2026/1021/c1004-40819079.html"
+    },
+    {
+      "t": "https://finance.people.com.cn/n1/2026/1010/c1004-40811939.html",
+      "url": "https://finance.people.com.cn/n1/2026/1010/c1004-40811939.html"
+    },
+    {
+      "t": "https://www.xinhuanet.com/20261007/93d8451e877a49609e8eac0a0b7d0702/c.html",
+      "url": "https://www.xinhuanet.com/20261007/93d8451e877a49609e8eac0a0b7d0702/c.html"
+    },
+    {
+      "t": "https://www.bjnews.com.cn/detail/1791114245169372.html",
+      "url": "https://www.bjnews.com.cn/detail/1791114245169372.html"
+    },
+    {
+      "t": "https://whhlyt.hunan.gov.cn/whhlyt/cyfz/cyxm/202610/t20261023_34087494.html",
+      "url": "https://whhlyt.hunan.gov.cn/whhlyt/cyfz/cyxm/202610/t20261023_34087494.html"
+    },
+    {
+      "t": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html",
+      "url": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html"
+    },
+    {
+      "t": "https://www.shejijingsai.com/2026/10/1654771.html",
+      "url": "https://www.shejijingsai.com/2026/10/1654771.html"
+    },
+    {
+      "t": "https://www.dexerials.jp/news/2026/news26051.html",
+      "url": "https://www.dexerials.jp/news/2026/news26051.html"
+    },
+    {
+      "t": "https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/",
+      "url": "https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/"
+    },
+    {
+      "t": "https://sh.people.com.cn/n2/2026/1004/c134768-41714246.html",
+      "url": "https://sh.people.com.cn/n2/2026/1004/c134768-41714246.html"
+    },
+    {
+      "t": "https://www.suanchang.com/tags-17610.html",
+      "url": "https://www.suanchang.com/tags-17610.html"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "单一燕麦黄毛绒怪，头后偏置单个铁锅声晕，举玉米软槌，辣椒红槌头，完整全身产品图。",
+  "enp": "One oat-yellow plush creature, single off-center black iron-pan sound halo behind head, raising corn-cob mallet with red soft tip, full body.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

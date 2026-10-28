@@ -1,0 +1,54 @@
+{
+  "batch": "daily-20261025",
+  "order": 6,
+  "name": "绸蚕",
+  "en": "daily-20261025-06",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "旧故事，不必用旧手感讲",
+  "origin": "手绘织绸重述旧民间图像",
+  "mark": "单环手绘绸带",
+  "biz": "搪胶毛绒 / ¥99–129",
+  "complete_card": "### 06 绸蚕 CHOUCAN\n\n- **原点/时机**：手绘织绸、不完美触感、民间图像再讲述；处于工艺细分，不是古风换装。\n- **表达/句式**：旧故事，不必用旧手感讲｜允许型。\n- **内核与背景**：慵懒、讲究、记性好；每吃一段旧故事，便吐出一圈新颜色。\n- **动作**：抱丝卷，缓慢绕成单环。\n- **外壳/头部**：动物类人蚕，1.7头身；手绘绸带单环冠[反常]，窄眼、小圆鼻、一字嘴；分节做减法。\n- **色材/产品**：象牙白＋茜草红＋孔雀绿；搪胶脸、短绒身、手绘纹样织带；12cm 搪胶毛绒，¥99–129。\n- **系列**：民间色 / 错笔纹 / 旧画新吐。\n- **文案**：①旧故事，重新吐丝 ②画歪了才是这一卷 ③别催，我在消化传统。\n- **近似与区别**：接近柔软类人玩偶，但原型为蚕，头部 ID 是单环手绘绸而非蝴蝶结或头巾。\n- **设计预评**：闭眼通过—绸环；剪影通过—大单环；简笔画通过—环＋分节；缩小存疑—纹样会丢，应保留三色块；换皮通过—蚕节与环仍在。\n- **风险**：绸带易塌；小尺寸版需内置软骨条或改搪胶环。\n- **提示词**：中：直立蚕宝宝，头顶一条手绘丝绸折成不规则单环，窄眼放空，奶白极简分节短绒身，抱丝卷，搪胶毛绒全身产品图。 EN: Original upright silkworm with one irregular loop of hand-painted silk above the head, narrow vacant eyes, minimal ivory segmented plush body, holding a silk spool, full-body vinyl-plush concept.\n\n",
+  "report": "research/daily/daily-20261025/report.txt",
+  "links": [
+    {
+      "t": "https://gd.people.com.cn/n2/2026/1023/c123932-41731048.html",
+      "url": "https://gd.people.com.cn/n2/2026/1023/c123932-41731048.html"
+    },
+    {
+      "t": "https://www.mofcom.gov.cn/sqfb/art/2026/art_1cf4e599ebaf412b95868bd31b686276.html",
+      "url": "https://www.mofcom.gov.cn/sqfb/art/2026/art_1cf4e599ebaf412b95868bd31b686276.html"
+    },
+    {
+      "t": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html",
+      "url": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html"
+    },
+    {
+      "t": "https://m.21jingji.com/article/20261005/herald/5caf3ec20c5f2b1df8cacef740ac626c.html",
+      "url": "https://m.21jingji.com/article/20261005/herald/5caf3ec20c5f2b1df8cacef740ac626c.html"
+    },
+    {
+      "t": "https://www.why.com.cn/epublish/qnb/html/2026-01/08/content_122_40607.htm",
+      "url": "https://www.why.com.cn/epublish/qnb/html/2026-01/08/content_122_40607.htm"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/dutch-design-week-2026-highlights",
+      "url": "https://www.wallpaper.com/design-interiors/dutch-design-week-2026-highlights"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/fall-market-tabula-rasa",
+      "url": "https://www.architecturaldigest.com/story/fall-market-tabula-rasa"
+    },
+    {
+      "t": "https://www.financialexpress.com/life/lifestyle-vikram-goyal-on-indias-craft-legacy-design-led-practice-and-why-attribution-matters-4021234/",
+      "url": "https://www.financialexpress.com/life/lifestyle-vikram-goyal-on-indias-craft-legacy-design-led-practice-and-why-attribution-matters-4021234/"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "直立蚕宝宝，头顶一条手绘丝绸折成不规则单环，窄眼放空，奶白极简分节短绒身，抱丝卷，搪胶毛绒全身产品图。 EN: Original upright silkworm with one irregular loop of hand-painted silk above the head, narrow vacant eyes, minimal ivory segmented plush body, holding a silk spool, full-body vinyl-plush concept.",
+  "enp": "Original upright silkworm with one irregular loop of hand-painted silk above the head, narrow vacant eyes, minimal ivory segmented plush body, holding a silk spool, full-body vinyl-plush concept.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

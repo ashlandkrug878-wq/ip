@@ -1,0 +1,66 @@
+{
+  "batch": "daily-20261028",
+  "order": 5,
+  "name": "菌岸兽",
+  "en": "daily-20261028-05",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "我不是长歪，只是在找自己的附着点",
+  "origin": "菌丝体材料",
+  "mark": "单侧菌丝层架",
+  "biz": "搪胶毛绒 79–109 元",
+  "complete_card": "## 05 菌岸兽\n\n**原点/来源**：CMF 展菌丝体材料（灵感线索）；**表达**：我不是长歪，只是在找自己的附着点（允许型）。  \n**性格/背景**：敏感、耐心、擅长在边缘生长；它在废弃空间的边界建立小型生态。**动作**：抱膝微蹲，让单侧层架向外伸。  \n**外壳/头部**：原创生物、1.8 头身；宽眼距[反常]、单侧菌丝地层环[专属]，不是蘑菇帽。**色彩**：暖灰 + 象牙白。**材质**：仿貂短绒身、哑光搪胶脸、层架用轻质软胶；减少孔洞，避免密集恐惧。**品类**：搪胶毛绒 79–109 元。  \n**系列**：墙角附着 / 雨后扩岸 / 冬眠收边。**文案**：①“边边上，也能长成一片。”②“别扶正我。”③“我的方向，刚好有地方落脚。”  \n**CN/EN**：暖灰仿貂绒原创生物，脸部极简，头部单侧象牙白菌丝层架环，宽眼距，抱膝，搪胶脸毛绒身。 / Original warm-gray faux-mink creature, minimal face, one asymmetric ivory mycelium shelf-ring growing from one side of the head, wide-set eyes, knees hugged, vinyl face and plush body.  \n**对标/区别**：最接近孢绒绒的真菌语义，但无蘑菇帽、歪嘴、睡眠毯；本体是侧向地层轮廓和附着表达。**预评**：闭眼、剪影、缩小、换皮通过；简笔画存疑。**风险**：层架过写实会不适；需降细节并做软圆边。  \n\n",
+  "report": "research/daily/daily-20261028/report.txt",
+  "links": [
+    {
+      "t": "https://cade.bauchina.com/Visit",
+      "url": "https://cade.bauchina.com/Visit"
+    },
+    {
+      "t": "https://cade.bauchina.com/Details?id=1818900470449991681",
+      "url": "https://cade.bauchina.com/Details?id=1818900470449991681"
+    },
+    {
+      "t": "https://info.datadowell.com/gxncl/0-1790214967401.html",
+      "url": "https://info.datadowell.com/gxncl/0-1790214967401.html"
+    },
+    {
+      "t": "https://www.bjnews.com.cn/detail/1792852833129624.html",
+      "url": "https://www.bjnews.com.cn/detail/1792852833129624.html"
+    },
+    {
+      "t": "https://finance.eastmoney.com/a/202610223904113491.html",
+      "url": "https://finance.eastmoney.com/a/202610223904113491.html"
+    },
+    {
+      "t": "https://www.forestry.gov.cn/lyj/1/dfdt/20261024/693277.html",
+      "url": "https://www.forestry.gov.cn/lyj/1/dfdt/20261024/693277.html"
+    },
+    {
+      "t": "https://whhlyt.hunan.gov.cn/whhlyt/news/mtjj/202610/t20261023_34087496.html",
+      "url": "https://whhlyt.hunan.gov.cn/whhlyt/news/mtjj/202610/t20261023_34087496.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34341993",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34341993"
+    },
+    {
+      "t": "https://www.xinhuanet.com/fashion/20261013/8737e89e971c4ccea3e83fa593dae816/c.html",
+      "url": "https://www.xinhuanet.com/fashion/20261013/8737e89e971c4ccea3e83fa593dae816/c.html"
+    },
+    {
+      "t": "https://www.discoverhongkong.cn/events/halloween.html",
+      "url": "https://www.discoverhongkong.cn/events/halloween.html"
+    },
+    {
+      "t": "https://etf.etnet.com.hk/www/sc/attraction/5224/",
+      "url": "https://etf.etnet.com.hk/www/sc/attraction/5224/"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "",
+  "enp": "暖灰仿貂绒原创生物，脸部极简，头部单侧象牙白菌丝层架环，宽眼距，抱膝，搪胶脸毛绒身。 / Original warm-gray faux-mink creature, minimal face, one asymmetric ivory mycelium shelf-ring growing from one side of the head, wide-set eyes, knees hugged, vinyl face and plush body.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

@@ -1,0 +1,58 @@
+{
+  "batch": "daily-20261024",
+  "order": 4,
+  "name": "木涡鼹",
+  "en": "daily-20261024-04",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "我把绕不出去的念头，盘成自己的纹路",
+  "origin": "瘿木纹与自然触感",
+  "mark": "实体木涡额旋",
+  "biz": "搪胶毛绒 / 99—129 元",
+  "complete_card": "### 04 木涡鼹 / Burl Mole\n\n- **原点与转译**：High Point 的瘿木纹与触觉木材回归；转成额头一圈“想法木涡”。\n- **表达 / 句式 / 时机**：我把绕不出去的念头，盘成自己的纹路；自嘲型；用沉稳棕色对抗粉彩软萌拥挤。\n- **情绪与性格 / 背景**：慢、固执、踏实；在地下收集树根遇阻后形成的纹理。\n- **经典动作**：背手眯眼，用额旋轻轻顶墙。\n- **外壳与头部**：动物类人/鼹鼠，梨形 1.8 头身；宽铲爪，实体木涡额旋[反常]，眯眼[公共]。\n- **色彩 / 工艺**：可可短绒＋灰褐搪胶脸；签名芥末黄鼻点；额旋仿木纹移印。\n- **首品 / 价格 / 系列**：12cm 搪胶毛绒，99—129 元；系列：根结、年轮、雨后木。\n- **内容文案**：①“想不通，先盘圆。”②“我有自己的纹路。”③“绕路也算路。”\n- **提示词**：中文：`可可短绒梨形鼹鼠，灰褐搪胶脸，额头一枚实体瘿木螺旋，眯眼、芥末黄小鼻，背手，全身搪胶毛绒产品图。` English: `Pear-shaped anthropomorphic mole, cocoa short plush body, taupe vinyl face, one solid burlwood spiral forelock, closed eyes, mustard nose, hands behind back, full-body vinyl-plush product render.`\n- **对标与区别**：接近布丁狗的慵懒亲和；区别是鼹鼠宽爪、木涡额旋及“把纠结盘成纹路”。\n- **设计预评**：闭眼通过；剪影通过；简笔画通过；缩小通过；换皮通过。\n- **风险**：棕色可能显旧；芥末鼻与木纹对比需在货架灯下测试。\n\n",
+  "report": "research/daily/daily-20261024/report.txt",
+  "links": [
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34316141",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34316141"
+    },
+    {
+      "t": "https://www.news.cn/tech/20261023/a61a7a21fad04fb39f72e695e1f8b414/c.html",
+      "url": "https://www.news.cn/tech/20261023/a61a7a21fad04fb39f72e695e1f8b414/c.html"
+    },
+    {
+      "t": "https://www.china-toy-expo.com/",
+      "url": "https://www.china-toy-expo.com/"
+    },
+    {
+      "t": "https://finance.eastmoney.com/a/202610223904337987.html",
+      "url": "https://finance.eastmoney.com/a/202610223904337987.html"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/apple-designers-of-tomorrow-design-miami-paris-2026",
+      "url": "https://www.wallpaper.com/design-interiors/apple-designers-of-tomorrow-design-miami-paris-2026"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market",
+      "url": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market"
+    },
+    {
+      "t": "https://www.livingetc.com/features/frieze-week-2026-report",
+      "url": "https://www.livingetc.com/features/frieze-week-2026-report"
+    },
+    {
+      "t": "https://elpais.com/icon-design/2026-10-20/la-calidez-vuelve-a-casa-las-tendencias-que-marcan-el-interiorismo-de-esta-temporada.html",
+      "url": "https://elpais.com/icon-design/2026-10-20/la-calidez-vuelve-a-casa-las-tendencias-que-marcan-el-interiorismo-de-esta-temporada.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34264135",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34264135"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "可可短绒梨形鼹鼠，灰褐搪胶脸，额头一枚实体瘿木螺旋，眯眼、芥末黄小鼻，背手，全身搪胶毛绒产品图。",
+  "enp": "Pear-shaped anthropomorphic mole, cocoa short plush body, taupe vinyl face, one solid burlwood spiral forelock, closed eyes, mustard nose, hands behind back, full-body vinyl-plush product render.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

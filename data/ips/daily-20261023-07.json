@@ -1,0 +1,62 @@
+{
+  "batch": "daily-20261023",
+  "order": 7,
+  "name": "伪木兽",
+  "en": "daily-20261023-07",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "像什么不重要，好用才是真的",
+  "origin": "逼真木纹瓷砖、真假材质",
+  "mark": "掀起的木纹额板",
+  "biz": "PVC盲盒",
+  "complete_card": "## 07 伪木兽\n\n![07](ip-lab-20261023-assets/07.png)\n\n- **原点与转译**：木纹瓷砖越来越逼真，但仍因耐水耐磨而被选择→不必成为真木头才有价值。\n- **表达**：像什么不重要，好用才是真的｜自嘲型；笨拙、诚实、实用主义。\n- **背景/动作**：总被误认成木兽，见面第一件事是掀开额板露出蓝瓷。\n- **外壳/头部**：低趴方块原创兽、1.8头身；可掀木纹额板[专属]、方头[反常]、豆眼[公共]。\n- **视觉/产品**：胡桃木纹＋钴蓝釉；木纹转印PVC＋高光陶瓷漆；10cm盲盒，¥89—119。\n- **三系列**：胡桃蓝瓷、橡木白瓷、柚木绿瓷。**文案**：“我不是木头。”“耐水。”“别只看表面。”\n- **对标与区别**：接近固定比例积木玩具；区别是四足兽、掀板揭示和内外材质反转。\n- **五测**：闭眼通过；剪影通过；简笔画通过；缩小通过；换皮通过。\n- **风险**：当前图仍像设计家具或积木狗；需把鼻口再弱化、腿做陶瓷楔形。\n- **提示词**：中文：低趴方块原创兽，额头一块可掀木纹瓷砖板，板下亮钴蓝陶瓷，极简小眼线嘴，四条楔形短腿。 English: Low blocky original quadruped with one hinged wood-grain ceramic forehead plate revealing glossy cobalt porcelain beneath, minimal bead eyes, wedge legs.\n\n",
+  "report": "research/daily/daily-20261023/report.txt",
+  "links": [
+    {
+      "t": "https://www.xinhuanet.com/20261022/85af510703d6471bad0c3d1b992db2e9/c.html",
+      "url": "https://www.xinhuanet.com/20261022/85af510703d6471bad0c3d1b992db2e9/c.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34288202",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34288202"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34289011",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34289011"
+    },
+    {
+      "t": "https://news.bjd.com.cn/2026/10/22/12004879.shtml",
+      "url": "https://news.bjd.com.cn/2026/10/22/12004879.shtml"
+    },
+    {
+      "t": "https://www.vogue.com/article/cfda-vogue-fashion-fund-sustainability-challenge-10-16-2026",
+      "url": "https://www.vogue.com/article/cfda-vogue-fashion-fund-sustainability-challenge-10-16-2026"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/collectible-design-new-names-to-know-pad-london-2026",
+      "url": "https://www.wallpaper.com/design-interiors/collectible-design-new-names-to-know-pad-london-2026"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/interior-design/furniture/furniture-at-frieze-london-2026",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/furniture/furniture-at-frieze-london-2026"
+    },
+    {
+      "t": "https://www.livingetc.com/features/frieze-week-2026-report",
+      "url": "https://www.livingetc.com/features/frieze-week-2026-report"
+    },
+    {
+      "t": "https://www.housebeautiful.com/design-inspiration/a74205282/wood-look-tile-trend/",
+      "url": "https://www.housebeautiful.com/design-inspiration/a74205282/wood-look-tile-trend/"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market",
+      "url": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "低趴方块原创兽，额头一块可掀木纹瓷砖板，板下亮钴蓝陶瓷，极简小眼线嘴，四条楔形短腿。",
+  "enp": "Low blocky original quadruped with one hinged wood-grain ceramic forehead plate revealing glossy cobalt porcelain beneath, minimal bead eyes, wedge legs.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

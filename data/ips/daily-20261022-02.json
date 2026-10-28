@@ -1,0 +1,67 @@
+{
+  "batch": "daily-20261022",
+  "order": 2,
+  "name": "错色",
+  "en": "daily-20261022-02",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "对不齐，也能留下我的版本。",
+  "origin": "数字印刷、多介质与环保油墨",
+  "mark": "CMY错位月牙发片",
+  "biz": "10cm PVC盲盒；69–99元。",
+  "complete_card": "编号：02\n\n暂定名：错色\n\n原型：人/类人\n\n句式：自嘲型\n\n表达：对不齐，也能留下我的版本。\n\n原点及证据：全印展集中展示数码印刷、按需印刷、多介质与植物油墨；近期双源行业信号。\n\n情绪性格背景：冷静、挑剔但允许误差；专门收集机器之外的那半毫米。\n\n经典动作：侧头，让三层发片故意错开。\n\n外壳与头部：2.2头身类人；CMY三层月牙发片[专属]＋黑色套准十字夹[专属]；小五官。\n\n色彩材质：纸白＋青/品红/黄，签名套准黑；哑光PVC，局部错位丝印。\n\n首品与假设价格：10cm PVC盲盒；69–99元。\n\n系列：偏一毫米 / 漏一色 / 重印一次\n\n文案：“没对齐，先别对不起。”|“误差也是署名。”|“这一版只印一次。”\n\n撞车检查：接近彩发人形；区别是印刷套准结构而非普通挑染。\n\n风险：CMY容易廉价，需降低饱和度并控制衣服配件。\n\n五项设计预评：闭眼通过；剪影通过；简笔画存疑：套准夹需保留；缩小通过；换皮通过。\n\n中文提示词：类人印刷师，CMY错位月牙发片，黑色套准十字夹，纸白哑光PVC，极简服装，全身棚拍。\n\nEnglish prompt：Human-like printmaker, offset CMY crescent hair plates, black registration-cross clip, paper-white matte PVC, minimal outfit, full-body product shot.",
+  "report": "research/daily/daily-20261022/report.txt",
+  "links": [
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34288295",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34288295"
+    },
+    {
+      "t": "https://www.yicai.com/news/103396424.html",
+      "url": "https://www.yicai.com/news/103396424.html"
+    },
+    {
+      "t": "https://www.nppa.gov.cn/xxfb/ywdt/202610/t20261021_1013445.html",
+      "url": "https://www.nppa.gov.cn/xxfb/ywdt/202610/t20261021_1013445.html"
+    },
+    {
+      "t": "https://finance.people.com.cn/n1/2026/1012/c1004-40813133.html",
+      "url": "https://finance.people.com.cn/n1/2026/1012/c1004-40813133.html"
+    },
+    {
+      "t": "https://pkunews.pku.edu.cn/info/7921/3308781.htm",
+      "url": "https://pkunews.pku.edu.cn/info/7921/3308781.htm"
+    },
+    {
+      "t": "https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivxewz5598711.shtml",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivxewz5598711.shtml"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/apple-designers-of-tomorrow-design-miami-paris-2026",
+      "url": "https://www.wallpaper.com/design-interiors/apple-designers-of-tomorrow-design-miami-paris-2026"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/artek-hender-scheme-collection-ryo-kashiwazaki-interview",
+      "url": "https://www.wallpaper.com/design-interiors/artek-hender-scheme-collection-ryo-kashiwazaki-interview"
+    },
+    {
+      "t": "https://www.csfcm.org.cn/",
+      "url": "https://www.csfcm.org.cn/"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34279321",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34279321"
+    },
+    {
+      "t": "https://k.sina.com.cn/article_1668589317_6374a70502701jliq.html",
+      "url": "https://k.sina.com.cn/article_1668589317_6374a70502701jliq.html"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "展示数码印刷、按需印刷、多介质与植物油墨；近期双源行业信号。",
+  "enp": "Human-like printmaker, offset CMY crescent hair plates, black registration-cross clip, paper-white matte PVC, minimal outfit, full-body product shot.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。",
+  "import_warning": "本批原始报告与对话摘要的部分名字、原点存在差异（例如接接/拍拍鳐、坐醒/串场、成束/墨芽）。本页保留原始报告与对应原图，不把不同设定合并，也未重新设计。"
+}

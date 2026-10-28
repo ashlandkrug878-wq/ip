@@ -33,7 +33,10 @@ jobs:
         run: python scripts/build_index.py
       - name: Queue base images for new IPs
         run: python scripts/build_queue.py
+      - name: Collect retirement feedback evidence
+        run: python scripts/build_feedback.py
       - name: Generate pending images
+        if: "!contains(github.event.head_commit.message, '[skip images]')"
         env:
           IMAGE_API_KEY: ${{ secrets.IMAGE_API_KEY }}
           IMAGE_API_URL: ${{ vars.IMAGE_API_URL }}
@@ -43,7 +46,7 @@ jobs:
         run: |
           git config user.name "pipeline-bot"
           git config user.email "pipeline-bot@users.noreply.github.com"
-          git add data/index.json images queue/image-jobs.json
+          git add data/index.json data/feedback images queue/image-jobs.json
           if git diff --cached --quiet; then
             echo "nothing to commit"
             exit 0

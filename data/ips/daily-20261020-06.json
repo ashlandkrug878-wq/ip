@@ -1,0 +1,78 @@
+{
+  "batch": "daily-20261020",
+  "order": 6,
+  "name": "针偏",
+  "en": "daily-20261020-06",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "不整齐，也能成画",
+  "origin": "乱针绣交叉走线",
+  "mark": "交叉X发束",
+  "biz": "搪胶毛绒",
+  "complete_card": "06｜针偏\n\n原点及来源\n：乱针绣交叉走线；S8、S1（具体发布日期与链接见来源账本）。近期获奖和非遗体验供给信号；灵感线索，无法外推乱针绣在18—35岁中的增长。\n原点如何转译为表达\n：交叉叠绣而成画→X发束与交叉动作→不整齐也有作品。\n表达\n：不整齐，也能成画。\n句式\n：反差型。\n时机位置\n：手作与创作人圈层。\n层\n选择\n内核\n嘴硬、手稳、外表随意；独立小工\n内容\n原创概念出身；实物主载体、表情包/短漫画为次；接到直线任务总会绕一下，但最后总能把零散线条变成图案。\n经典动作\n两臂交叉，再像铺线一样打开。\n外壳\n中性类人纺线小工，2头身，大头上仅一撮宽扁的交叉X形发束，深棕发暖肤色，细小豆眼，一条宽的水平嘴为唯一放大五官，淡紫短绒身体和暖灰工装围裙，脸和X发束是哑光搪胶，手臂在胸前比出交叉动作，无针无细线，搪胶毛绒挂件，签名色橘红；描述型/叠音暂定名。衣服与色彩可变，头部主结构不变。\n头部\n[专属候选]单撮交叉X发束；[公共]圆头、棕发、人耳、小豆眼、无眉鼻、暖肤色；放大水平宽嘴；固定表情。\n视觉\n淡紫 #B6A2CA；签名橘红 #DC6C42；暖灰围裙；低至中等细节密度，手感以所选品类为准。\n材质工艺\n搪胶脸与发束、短绒身体、织物围裙，嘴印成略弯宽线。现图宽嘴呈橙色条状，下一版需减少创可贴联想。\n商业\n搪胶毛绒，约13cm，假设零售¥99—129；普通基础款先测，延展配色公开销售，不承诺人为稀缺。节点可借换季/生日，不使用未授权赛事或品牌。\n记忆点与反常限额\n：X形发束与水平宽嘴两项；发束为单个交叉块面，不做乱线贴脸。\n最接近的既有IP及区别\n：WAKUKU：同有不规整与自由感；本案不使用数字挂件、野孩子装束，围绕X发束和走线动作。 此为形态和表达初筛，未做完整外观数据库查重。\n五项测试｜设计预评\n：\n测试\n判断与理由\n闭眼\n通过：X发束＋宽嘴可复述\n剪影\n通过：交叉头顶形成缺口\n简笔画\n通过：X、圆脸、横嘴可概括\n缩小\n存疑：嘴易读成色条\n换皮\n通过：X发束保持时不靠围裙\n三个系列延展\n：1. 走线偏了；2. 交叉成画；3. 收针下班。系列保留头部结构和表达，以场景/动作/配色为变量，不能把换装另计新IP。\n三条表情包/内容文案\n：线没直，事办成了。／我有自己的走线。／今天收针，不收心。\n圈层彩蛋\n：允许走线偏一点。\n中文出图提示词\n：中性类人纺线小工，2头身，大头上仅一撮宽扁的交叉X形发束，深棕发暖肤色，细小豆眼，一条宽的水平嘴为唯一放大五官，淡紫短绒身体和暖灰工装围裙，脸和X发束是哑光搪胶，手臂在胸前比出交叉动作，无针无细线，搪胶毛绒挂件，签名色橘红。完整全身单一角色、正面略偏15度、角色约占画面高度75%、暖灰无缝背景、柔和棚拍光、真实材质、清晰轮廓、左下角编号06、无品牌标识、无包装、无第二角色。概念渲染，不是工程样机。\nEnglish prompt\n: An androgynous thread-worker humanoid, 2 heads tall, only one broad flat X-shaped crossed hair lock on top, dark brown hair and warm skin, tiny dot eyes and one wide horizontal mouth as the sole enlarged facial feature, pale-lilac short plush body with warm-gray work apron, matte vinyl face and crossed hair lock, arms crossing over chest, no needles or loose threads, vinyl-plush charm, vermilion accent. One character only, complete full body and all feet visible, slightly turned 15 degrees, approximately 75 percent frame height, light warm-gray seamless background, soft studio lighting, realistic material cues, clear silhouette. Small number 06 in lower left. No logos, packaging, extra characters or environment. Product concept render, not an engineered prototype.\n主要风险及实图偏差\n：X发束被读成包子头；宽嘴像贴条；不应宣称本产品使用真正乱针绣。\n下一轮只改一件事\n：把橙色贴条嘴改成有嘴角的宽短弧线。",
+  "report": "research/daily/daily-20261020/report.txt",
+  "links": [
+    {
+      "t": "https://www1.meet-in-shanghai.net/cn/news/from-sijing-ancient-town-to-the-entire-shanghai-shanghais-intangible-cultural-heritage-new-styles-during-the-national-day-holiday-759826/",
+      "url": "https://www1.meet-in-shanghai.net/cn/news/from-sijing-ancient-town-to-the-entire-shanghai-shanghais-intangible-cultural-heritage-new-styles-during-the-national-day-holiday-759826/"
+    },
+    {
+      "t": "https://www.sh-act.org/index.php?content_id=3000&r=article/Content/index",
+      "url": "https://www.sh-act.org/index.php?content_id=3000&r=article/Content/index"
+    },
+    {
+      "t": "https://us.fairphone.com/stories/the-new-fairbuds-2-your-sound-made-better",
+      "url": "https://us.fairphone.com/stories/the-new-fairbuds-2-your-sound-made-better"
+    },
+    {
+      "t": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
+      "url": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability"
+    },
+    {
+      "t": "https://www.hengqin.gov.cn/macao_zh_hans/hzqgl/dtyw/dtxx/content/post_3948059.html",
+      "url": "https://www.hengqin.gov.cn/macao_zh_hans/hzqgl/dtyw/dtxx/content/post_3948059.html"
+    },
+    {
+      "t": "https://hi.people.com.cn/n2/2026/1011/c231190-41718502.html",
+      "url": "https://hi.people.com.cn/n2/2026/1011/c231190-41718502.html"
+    },
+    {
+      "t": "https://ucishanghai2026.com/",
+      "url": "https://ucishanghai2026.com/"
+    },
+    {
+      "t": "https://www.changzhou.gov.cn/ns_news/665179196881661",
+      "url": "https://www.changzhou.gov.cn/ns_news/665179196881661"
+    },
+    {
+      "t": "https://www1.xinhuanet.com/culture/20261014/e9630d2fa8c94e11956a22ed6f440657/c.html",
+      "url": "https://www1.xinhuanet.com/culture/20261014/e9630d2fa8c94e11956a22ed6f440657/c.html"
+    },
+    {
+      "t": "https://www.cnqlib.sh.cn/lectures/events/18674.html",
+      "url": "https://www.cnqlib.sh.cn/lectures/events/18674.html"
+    },
+    {
+      "t": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202610/t20261008_10747564.shtml",
+      "url": "https://www.qingdao.gov.cn/zwgk/xxgk/whly/gkml/gzxx/202610/t20261008_10747564.shtml"
+    },
+    {
+      "t": "https://www.guojialvye.com/cb/lyzx/9722.html",
+      "url": "https://www.guojialvye.com/cb/lyzx/9722.html"
+    },
+    {
+      "t": "https://society.yunnan.cn/system/2026/10/07/034166260.shtml",
+      "url": "https://society.yunnan.cn/system/2026/10/07/034166260.shtml"
+    },
+    {
+      "t": "https://gx.people.com.cn/n2/2026/1002/c414936-41713675.html",
+      "url": "https://gx.people.com.cn/n2/2026/1002/c414936-41713675.html"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "的增长。",
+  "enp": "An androgynous thread-worker humanoid, 2 heads tall, only one broad flat X-shaped crossed hair lock on top, dark brown hair and warm skin, tiny dot eyes and one wide horizontal mouth as the sole enlarged facial feature, pale-lilac short plush body with warm-gray work apron, matte vinyl face and crossed hair lock, arms crossing over chest, no needles or loose threads, vinyl-plush charm, vermilion accent. One character only, complete full body and all feet visible, slightly turned 15 degrees, approximately 75 percent frame height, light warm-gray seamless background, soft studio lighting, realistic material cues, clear silhouette. Small number 06 in lower left. No logos, packaging, extra characters or environment. Product concept render, not an engineered prototype.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

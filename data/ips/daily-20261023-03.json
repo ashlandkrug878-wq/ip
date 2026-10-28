@@ -1,0 +1,62 @@
+{
+  "batch": "daily-20261023",
+  "order": 3,
+  "name": "水吨吨",
+  "en": "daily-20261023-03",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "先喝够，再处理世界",
+  "origin": "年轻人“喝大水”",
+  "mark": "刻度量杯额帽",
+  "biz": "搪胶毛绒",
+  "complete_card": "## 03 水吨吨\n\n![03](ip-lab-20261023-assets/03.png)\n\n- **原点与转译**：大容量饮水从精致小杯转向直接补水→先满足身体，再谈效率。\n- **表达**：先喝够，再处理世界｜自嘲型；元气不足但执行直接。\n- **背景/动作**：负责给办公室里忘记喝水的人举杯；每次只说“吨”。举起大杯，不催人。\n- **外壳/头部**：海豹类动物、1.5头身水滴体；量杯额帽[专属]、半垂眼[公共]；当前图意外偏猫。\n- **视觉/产品**：淡水蓝＋白，酸橙黄签名边；透明搪胶头件＋短绒身；10cm挂件，¥79—109。\n- **三系列**：晨起500ml、下午续杯、睡前一口。**文案**：“先吨一下。”“脑子干了。”“水到位，人未必。”\n- **对标与区别**：接近圆胖动物类，但刻度帽和举杯动作构成身份；无大嘴、无长耳。\n- **五测**：闭眼通过；剪影通过；简笔画通过；缩小通过；换皮存疑—去掉杯帽后趋于普通。\n- **风险**：当前猫相明显；下一版取消胡须、猫鼻和趾爪，改扁海豹吻部。\n- **提示词**：中文：无猫特征的直立海豹水体，额头倾斜透明量杯帽，水滴圆身，举大水杯，淡蓝短绒与搪胶，1.5头身。 English: Upright seal-like water creature with no feline traits, tilted transparent measuring-cap forehead piece, round droplet torso, lifting a large tumbler, pale-blue plush and vinyl.\n\n",
+  "report": "research/daily/daily-20261023/report.txt",
+  "links": [
+    {
+      "t": "https://www.xinhuanet.com/20261022/85af510703d6471bad0c3d1b992db2e9/c.html",
+      "url": "https://www.xinhuanet.com/20261022/85af510703d6471bad0c3d1b992db2e9/c.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34288202",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34288202"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34289011",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34289011"
+    },
+    {
+      "t": "https://news.bjd.com.cn/2026/10/22/12004879.shtml",
+      "url": "https://news.bjd.com.cn/2026/10/22/12004879.shtml"
+    },
+    {
+      "t": "https://www.vogue.com/article/cfda-vogue-fashion-fund-sustainability-challenge-10-16-2026",
+      "url": "https://www.vogue.com/article/cfda-vogue-fashion-fund-sustainability-challenge-10-16-2026"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/collectible-design-new-names-to-know-pad-london-2026",
+      "url": "https://www.wallpaper.com/design-interiors/collectible-design-new-names-to-know-pad-london-2026"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/interior-design/furniture/furniture-at-frieze-london-2026",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/furniture/furniture-at-frieze-london-2026"
+    },
+    {
+      "t": "https://www.livingetc.com/features/frieze-week-2026-report",
+      "url": "https://www.livingetc.com/features/frieze-week-2026-report"
+    },
+    {
+      "t": "https://www.housebeautiful.com/design-inspiration/a74205282/wood-look-tile-trend/",
+      "url": "https://www.housebeautiful.com/design-inspiration/a74205282/wood-look-tile-trend/"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market",
+      "url": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "无猫特征的直立海豹水体，额头倾斜透明量杯帽，水滴圆身，举大水杯，淡蓝短绒与搪胶，1.5头身。",
+  "enp": "Upright seal-like water creature with no feline traits, tilted transparent measuring-cap forehead piece, round droplet torso, lifting a large tumbler, pale-blue plush and vinyl.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

@@ -1,0 +1,58 @@
+{
+  "batch": "daily-20261024",
+  "order": 5,
+  "name": "金箔螺",
+  "en": "daily-20261024-05",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "慢没关系，我把光背在身上",
+  "origin": "珠母、旧金与轻奢手作",
+  "mark": "珠母扇冠",
+  "biz": "搪胶毛绒 / 129—159 元",
+  "complete_card": "### 05 金箔螺 / Gilt Snail\n\n- **原点与转译**：珠母、古铜和手工光泽回归；转成背光而行的慢速收藏家。\n- **表达 / 句式 / 时机**：慢没关系，我把光背在身上；反差型；以成年轻奢材料切入非萌宠赛道。\n- **情绪与性格 / 背景**：从容、爱打量细节；把沿途的微光压成薄片插在头侧。\n- **经典动作**：举镜看一眼，再继续慢慢走。\n- **外壳与头部**：动物类人/蜗牛，1.7 头身；珠母扇冠[反常/原创]，触角[公共]，低位螺壳。\n- **色彩 / 工艺**：灰紫短绒，珠母乳白＋古金签名；搪胶脸、透明珠光 ABS 扇片，金边喷涂。\n- **首品 / 价格 / 系列**：14cm 搪胶毛绒，129—159 元；系列：晨光、旧剧院、月壳。\n- **内容文案**：①“迟到的光也算光。”②“慢慢来，反光更完整。”③“我背着自己的高光。”\n- **提示词**：中文：`直立灰紫短绒蜗牛，搪胶脸，头侧一枚古金包边的珠母扇冠，低位螺壳，手持无字小镜，全身产品棚拍。` English: `Upright dusty-lilac plush snail, vinyl face, one fan-shaped translucent nacre crown edged in antique gold, low spiral shell, holding a plain mirror, full-body studio product render.`\n- **对标与区别**：接近玲娜贝儿的可携带精致感；区别是非狐狸、非粉毛，以珠母硬片与慢速自持为核心。\n- **设计预评**：闭眼通过；剪影通过；简笔画存疑；缩小通过；换皮通过。\n- **风险**：扇片边缘安全与电镀成本；首版应圆角化并控制片数。\n\n",
+  "report": "research/daily/daily-20261024/report.txt",
+  "links": [
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34316141",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34316141"
+    },
+    {
+      "t": "https://www.news.cn/tech/20261023/a61a7a21fad04fb39f72e695e1f8b414/c.html",
+      "url": "https://www.news.cn/tech/20261023/a61a7a21fad04fb39f72e695e1f8b414/c.html"
+    },
+    {
+      "t": "https://www.china-toy-expo.com/",
+      "url": "https://www.china-toy-expo.com/"
+    },
+    {
+      "t": "https://finance.eastmoney.com/a/202610223904337987.html",
+      "url": "https://finance.eastmoney.com/a/202610223904337987.html"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/apple-designers-of-tomorrow-design-miami-paris-2026",
+      "url": "https://www.wallpaper.com/design-interiors/apple-designers-of-tomorrow-design-miami-paris-2026"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market",
+      "url": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market"
+    },
+    {
+      "t": "https://www.livingetc.com/features/frieze-week-2026-report",
+      "url": "https://www.livingetc.com/features/frieze-week-2026-report"
+    },
+    {
+      "t": "https://elpais.com/icon-design/2026-10-20/la-calidez-vuelve-a-casa-las-tendencias-que-marcan-el-interiorismo-de-esta-temporada.html",
+      "url": "https://elpais.com/icon-design/2026-10-20/la-calidez-vuelve-a-casa-las-tendencias-que-marcan-el-interiorismo-de-esta-temporada.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34264135",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34264135"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "直立灰紫短绒蜗牛，搪胶脸，头侧一枚古金包边的珠母扇冠，低位螺壳，手持无字小镜，全身产品棚拍。",
+  "enp": "Upright dusty-lilac plush snail, vinyl face, one fan-shaped translucent nacre crown edged in antique gold, low spiral shell, holding a plain mirror, full-body studio product render.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

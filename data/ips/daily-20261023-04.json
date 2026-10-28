@@ -1,0 +1,62 @@
+{
+  "batch": "daily-20261023",
+  "order": 4,
+  "name": "丝扣",
+  "en": "daily-20261023-04",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "绕远一点，也能扣住自己",
+  "origin": "花丝、珐琅与机械结构入题",
+  "mark": "单线空心结冠",
+  "biz": "PVC盲盒",
+  "complete_card": "## 04 丝扣\n\n![04](ip-lab-20261023-assets/04.png)\n\n- **原点与转译**：花丝、珐琅、建筑线与机械结构共同进入当代首饰→传统不是纹样库，而是连接方式。\n- **表达**：绕远一点，也能扣住自己｜留白型；冷静、自持、精确。\n- **背景/动作**：把散开的线头绕成不会解开的扣；背手站立，头冠微转。\n- **外壳/头部**：中性类人、2.2头身柱体；窄眼[公共]、单线空心结冠[专属]。\n- **视觉/产品**：朱砂红＋漆黑，签名色松石蓝；硬PVC、金属漆、珐琅点；12cm盲盒，¥99—129。\n- **三系列**：花丝扣、建筑扣、机械扣。**文案**：“绕一下。”“没松开。”“复杂也能闭环。”\n- **对标与区别**：接近繁复收藏型人偶；区别是头部用单根空心线形成负空间，不用骨骼头罩。\n- **五测**：闭眼通过；剪影通过；简笔画存疑—结形稍复杂；缩小通过；换皮通过。\n- **风险**：当前图过于时装人偶，且头冠零件成本高；首版需把结形减为两环一扣。\n- **提示词**：中文：朱砂红中性类人，头顶一根黄铜花丝绕成不闭合空心机械扣，黑漆柱形身体，背手，硬PVC全身。 English: Vermilion gender-neutral humanoid with one continuous brass filigree line forming an open mechanical knot above the head, black lacquer column body, hard-PVC collectible.\n\n",
+  "report": "research/daily/daily-20261023/report.txt",
+  "links": [
+    {
+      "t": "https://www.xinhuanet.com/20261022/85af510703d6471bad0c3d1b992db2e9/c.html",
+      "url": "https://www.xinhuanet.com/20261022/85af510703d6471bad0c3d1b992db2e9/c.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34288202",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34288202"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34289011",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34289011"
+    },
+    {
+      "t": "https://news.bjd.com.cn/2026/10/22/12004879.shtml",
+      "url": "https://news.bjd.com.cn/2026/10/22/12004879.shtml"
+    },
+    {
+      "t": "https://www.vogue.com/article/cfda-vogue-fashion-fund-sustainability-challenge-10-16-2026",
+      "url": "https://www.vogue.com/article/cfda-vogue-fashion-fund-sustainability-challenge-10-16-2026"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/collectible-design-new-names-to-know-pad-london-2026",
+      "url": "https://www.wallpaper.com/design-interiors/collectible-design-new-names-to-know-pad-london-2026"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/interior-design/furniture/furniture-at-frieze-london-2026",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/furniture/furniture-at-frieze-london-2026"
+    },
+    {
+      "t": "https://www.livingetc.com/features/frieze-week-2026-report",
+      "url": "https://www.livingetc.com/features/frieze-week-2026-report"
+    },
+    {
+      "t": "https://www.housebeautiful.com/design-inspiration/a74205282/wood-look-tile-trend/",
+      "url": "https://www.housebeautiful.com/design-inspiration/a74205282/wood-look-tile-trend/"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market",
+      "url": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "性类人、2.2头身柱体；窄眼[公共]、单线空心结冠[专属]。",
+  "enp": "Vermilion gender-neutral humanoid with one continuous brass filigree line forming an open mechanical knot above the head, black lacquer column body, hard-PVC collectible.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

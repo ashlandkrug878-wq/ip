@@ -1,0 +1,54 @@
+{
+  "batch": "daily-20261025",
+  "order": 1,
+  "name": "纬停",
+  "en": "daily-20261025-01",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "慢不是停，是每一针都有数",
+  "origin": "六英尺手织物、数针、拼接缝",
+  "mark": "横梭发冠＋朱红长缝",
+  "biz": "搪胶毛绒挂件 / ¥79–109",
+  "complete_card": "### 01 纬停 WEITING\n\n- **原点/时机**：数针、长织幅与显眼拼接缝；站在“快产出”的对面，属于手作细分。\n- **表达/句式**：慢不是停，是每一针都有数｜允许型。\n- **内核与背景**：平静、固执、可靠；它替城市里没人愿意数的细节计数，缝完才走。\n- **动作**：拇指与食指逐针点数。\n- **外壳/头部**：类人，2头身；横梭发冠[反常]、半垂眼[公共]、短眉[公共]、一字嘴[公共]；朱红长缝贯穿冠与衣。\n- **色材/产品**：靛蓝＋米白，签名朱红；哑光搪胶头、短绒身、粗线明缝；12cm 挂件，¥79–109。\n- **系列**：漏针日 / 夜班经纬 / 城市补丁。\n- **文案**：①今天也一针不少 ②别催，线会记得 ③进度：正在发生。\n- **近似与区别**：接近 HIRONO 的安静人形，但以梭冠、数针动作和显缝叙事区分。\n- **设计预评**：闭眼通过—梭冠；剪影通过—横梭；简笔画通过—横梭＋长缝；缩小存疑—缝线需加粗；换皮通过—梭冠仍在。\n- **风险**：图中毛发细节略多，量产版应简化发丝；梭冠挂包防勾需圆角。\n- **提示词**：中：类人纺织学徒，2头身，横向木梭发冠、朱红长缝、半垂眼、数针动作，靛蓝与米白，搪胶头短绒身，全身正面暖灰棚拍。 EN: Original 2-head-tall textile apprentice, horizontal wooden shuttle crown, single vermilion seam, half-lidded eyes, counting stitches, indigo and ivory, matte vinyl head and short plush body, full-body front studio product concept.\n\n",
+  "report": "research/daily/daily-20261025/report.txt",
+  "links": [
+    {
+      "t": "https://gd.people.com.cn/n2/2026/1023/c123932-41731048.html",
+      "url": "https://gd.people.com.cn/n2/2026/1023/c123932-41731048.html"
+    },
+    {
+      "t": "https://www.mofcom.gov.cn/sqfb/art/2026/art_1cf4e599ebaf412b95868bd31b686276.html",
+      "url": "https://www.mofcom.gov.cn/sqfb/art/2026/art_1cf4e599ebaf412b95868bd31b686276.html"
+    },
+    {
+      "t": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html",
+      "url": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html"
+    },
+    {
+      "t": "https://m.21jingji.com/article/20261005/herald/5caf3ec20c5f2b1df8cacef740ac626c.html",
+      "url": "https://m.21jingji.com/article/20261005/herald/5caf3ec20c5f2b1df8cacef740ac626c.html"
+    },
+    {
+      "t": "https://www.why.com.cn/epublish/qnb/html/2026-01/08/content_122_40607.htm",
+      "url": "https://www.why.com.cn/epublish/qnb/html/2026-01/08/content_122_40607.htm"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/dutch-design-week-2026-highlights",
+      "url": "https://www.wallpaper.com/design-interiors/dutch-design-week-2026-highlights"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/fall-market-tabula-rasa",
+      "url": "https://www.architecturaldigest.com/story/fall-market-tabula-rasa"
+    },
+    {
+      "t": "https://www.financialexpress.com/life/lifestyle-vikram-goyal-on-indias-craft-legacy-design-led-practice-and-why-attribution-matters-4021234/",
+      "url": "https://www.financialexpress.com/life/lifestyle-vikram-goyal-on-indias-craft-legacy-design-led-practice-and-why-attribution-matters-4021234/"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "毛发细节略多，量产版应简化发丝；梭冠挂包防勾需圆角。",
+  "enp": "Original 2-head-tall textile apprentice, horizontal wooden shuttle crown, single vermilion seam, half-lidded eyes, counting stitches, indigo and ivory, matte vinyl head and short plush body, full-body front studio product concept.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

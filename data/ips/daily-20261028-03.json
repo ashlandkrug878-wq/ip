@@ -1,0 +1,66 @@
+{
+  "batch": "daily-20261028",
+  "order": 3,
+  "name": "退场粒",
+  "en": "daily-20261028-03",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "离开也不留麻烦",
+  "origin": "可降解材料",
+  "mark": "沙漏镂空头",
+  "biz": "透明 PVC 79–109 元",
+  "complete_card": "## 03 退场粒\n\n**原点/来源**：国际 CMF 展生物基/PHA/可降解材料清单（灵感线索）；**表达**：离开也不留麻烦（允许型）。  \n**性格/背景**：干净、果断、不留尾巴；完成任务后会把自己的痕迹收进头顶沙漏。**动作**：双手背后，安静退一步。  \n**外壳/头部**：拟物颗粒生物、1.5 头身；透明果冻头[反常]、沙漏镂空[专属]、豆眼与短嘴[公共]。**色彩**：乳白透明 + 青柠绿。**材质**：概念阶段用透明 PVC 表现；若主张可降解必须另做材料认证，不可拿效果图当证明。**品类**：PVC 79–109 元。  \n**系列**：已读退场 / 聚会退场 / 项目退场。**文案**：①“我先撤，不留烂摊子。”②“告别也要轻一点。”③“存在过，不必占满。”  \n**CN/EN 提示词**：半透明乳白颗粒头、沙漏镂空、青柠透明小身体、豆眼短嘴、1.5头身、透明PVC全身产品渲染。 / Translucent milky pellet head with hourglass cutout, lime transparent body, dot eyes and short mouth, 1.5-head proportion, full-body clear PVC product render.  \n**对标/区别**：接近蛋黄哥的拟物入口，但不是食物、无软趴轮廓，表达是清洁离场。**预评**：闭眼通过；剪影存疑；简笔画通过；缩小通过；换皮通过。**风险**：透明件易显浇口与刮痕；环保表达有“漂绿”风险。  \n\n",
+  "report": "research/daily/daily-20261028/report.txt",
+  "links": [
+    {
+      "t": "https://cade.bauchina.com/Visit",
+      "url": "https://cade.bauchina.com/Visit"
+    },
+    {
+      "t": "https://cade.bauchina.com/Details?id=1818900470449991681",
+      "url": "https://cade.bauchina.com/Details?id=1818900470449991681"
+    },
+    {
+      "t": "https://info.datadowell.com/gxncl/0-1790214967401.html",
+      "url": "https://info.datadowell.com/gxncl/0-1790214967401.html"
+    },
+    {
+      "t": "https://www.bjnews.com.cn/detail/1792852833129624.html",
+      "url": "https://www.bjnews.com.cn/detail/1792852833129624.html"
+    },
+    {
+      "t": "https://finance.eastmoney.com/a/202610223904113491.html",
+      "url": "https://finance.eastmoney.com/a/202610223904113491.html"
+    },
+    {
+      "t": "https://www.forestry.gov.cn/lyj/1/dfdt/20261024/693277.html",
+      "url": "https://www.forestry.gov.cn/lyj/1/dfdt/20261024/693277.html"
+    },
+    {
+      "t": "https://whhlyt.hunan.gov.cn/whhlyt/news/mtjj/202610/t20261023_34087496.html",
+      "url": "https://whhlyt.hunan.gov.cn/whhlyt/news/mtjj/202610/t20261023_34087496.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34341993",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34341993"
+    },
+    {
+      "t": "https://www.xinhuanet.com/fashion/20261013/8737e89e971c4ccea3e83fa593dae816/c.html",
+      "url": "https://www.xinhuanet.com/fashion/20261013/8737e89e971c4ccea3e83fa593dae816/c.html"
+    },
+    {
+      "t": "https://www.discoverhongkong.cn/events/halloween.html",
+      "url": "https://www.discoverhongkong.cn/events/halloween.html"
+    },
+    {
+      "t": "https://etf.etnet.com.hk/www/sc/attraction/5224/",
+      "url": "https://etf.etnet.com.hk/www/sc/attraction/5224/"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "",
+  "enp": "提示词**：半透明乳白颗粒头、沙漏镂空、青柠透明小身体、豆眼短嘴、1.5头身、透明PVC全身产品渲染。 / Translucent milky pellet head with hourglass cutout, lime transparent body, dot eyes and short mouth, 1.5-head proportion, full-body clear PVC product render.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

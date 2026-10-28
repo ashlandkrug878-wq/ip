@@ -1,0 +1,62 @@
+{
+  "batch": "daily-20261023",
+  "order": 2,
+  "name": "日常丁",
+  "en": "daily-20261023-02",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "今天没表演，只是把日子过完",
+  "origin": "“纯过日子”的精神减负",
+  "mark": "折毛巾屋檐",
+  "biz": "搪胶毛绒",
+  "complete_card": "## 02 日常丁\n\n![02](ip-lab-20261023-assets/02.png)\n\n- **原点与转译**：“纯过日子”从人设消费回到吃饭、睡觉、散步→不精彩也不需要解释。\n- **表达/句式/时机**：今天没表演，只是把日子过完｜允许型｜细分务实生活圈层。\n- **内核与背景**：稳、懒得自证；每天只完成三件事：吃热饭、洗毛巾、准时关灯。\n- **动作**：双手端白碗，毛巾檐压低。\n- **外壳/头部**：中性类人、2头身梨形；圆头[公共]、半垂眼[公共]、折毛巾屋檐[专属]。\n- **视觉/产品**：燕麦白＋米色，签名色钴蓝针脚；搪胶头＋针织毛绒身；11cm挂件，假设¥69—99。\n- **三系列**：热饭、晒被、关灯。**文案**：“没营业。”“饭热就行。”“今天不优化。”\n- **对标与区别**：最接近慵懒动物陪伴型；区别是类人、毛巾屋檐与家务动作，不靠贝雷帽或无嘴。\n- **五测**：闭眼通过；剪影通过；简笔画通过；缩小存疑—白碗会丢；换皮通过。\n- **风险**：容易被读成普通家居服娃，需把毛巾折角固定为不可换的不变量。\n- **提示词**：中文：折毛巾屋檐头的中性类人潮玩，半垂眼，燕麦针织衣，端白碗，2头身，搪胶毛绒，灰底全身。 English: Gender-neutral 2-head vinyl-plush figure with a thick folded-towel roof silhouette, half-lidded eyes, oatmeal knit suit, holding a plain bowl, full-body studio shot.\n\n",
+  "report": "research/daily/daily-20261023/report.txt",
+  "links": [
+    {
+      "t": "https://www.xinhuanet.com/20261022/85af510703d6471bad0c3d1b992db2e9/c.html",
+      "url": "https://www.xinhuanet.com/20261022/85af510703d6471bad0c3d1b992db2e9/c.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34288202",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34288202"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34289011",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34289011"
+    },
+    {
+      "t": "https://news.bjd.com.cn/2026/10/22/12004879.shtml",
+      "url": "https://news.bjd.com.cn/2026/10/22/12004879.shtml"
+    },
+    {
+      "t": "https://www.vogue.com/article/cfda-vogue-fashion-fund-sustainability-challenge-10-16-2026",
+      "url": "https://www.vogue.com/article/cfda-vogue-fashion-fund-sustainability-challenge-10-16-2026"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/collectible-design-new-names-to-know-pad-london-2026",
+      "url": "https://www.wallpaper.com/design-interiors/collectible-design-new-names-to-know-pad-london-2026"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/interior-design/furniture/furniture-at-frieze-london-2026",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/furniture/furniture-at-frieze-london-2026"
+    },
+    {
+      "t": "https://www.livingetc.com/features/frieze-week-2026-report",
+      "url": "https://www.livingetc.com/features/frieze-week-2026-report"
+    },
+    {
+      "t": "https://www.housebeautiful.com/design-inspiration/a74205282/wood-look-tile-trend/",
+      "url": "https://www.housebeautiful.com/design-inspiration/a74205282/wood-look-tile-trend/"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market",
+      "url": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "性类人、2头身梨形；圆头[公共]、半垂眼[公共]、折毛巾屋檐[专属]。",
+  "enp": "Gender-neutral 2-head vinyl-plush figure with a thick folded-towel roof silhouette, half-lidded eyes, oatmeal knit suit, holding a plain bowl, full-body studio shot.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

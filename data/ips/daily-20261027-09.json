@@ -1,0 +1,66 @@
+{
+  "batch": "daily-20261027",
+  "order": 9,
+  "name": "压光鹭",
+  "en": "daily-20261027-09",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "先看清水面，再决定落脚",
+  "origin": "彩色压花玻璃＋湿地观鸟",
+  "mark": "三肋压花玻璃扇冠",
+  "biz": "PVC盲盒",
+  "complete_card": "## 09 压光鹭\n\n- **表达/句式/时机**：先看清水面，再决定落脚｜留白型｜站在团子软萌对面，走锐利收藏向。\n- **原点/来源**：彩色压花玻璃入围材料奖＋湿地观鸟秋游线路；2026-10-13/23；探索性组合。\n- **情绪与性格**：警觉、克制、观察后行动。\n- **背景/动作**：在浑水上寻找唯一清晰倒影的涉禽；单脚抬起试水。\n- **外壳与头部**：动物类人，涉禽，2头身细长[反常]；三肋玻璃扇冠[反常]，短楔喙、侧眼[公共]。\n- **色材/产品/价格**：烟蓝、琥珀青透明，签名洋红边；哑光PVC＋透明压纹冠插片；10cm盲盒假设109元。\n- **系列**：浅滩试步；雾河停栖；夜潮反光。\n- **文案**：“先别落脚。”／“水面会回答。”／“看清，再走。”\n- **提示词中**：烟蓝涉禽潮玩，三条粗肋彩色压花玻璃扇冠，短楔喙，单脚试水，琥珀青透明插片洋红边，PVC全身。\n- **Prompt EN**：Stylized wetland bird PVC figure, wide fan crest of translucent colored embossed glass with three large ribs, smoke blue body, amber-teal clear insert, magenta edge, one leg raised.\n- **撞车**：最接近收藏向动物雕塑；区别是压花扇冠与“试水”固定动作。\n- **五项设计预评**：闭眼通过；剪影通过；简笔画存疑（细长腿）；缩小存疑；换皮通过。\n- **风险**：生成图偏成熟雕塑、腿过细；盲盒版应把腿加粗并降至2头身。\n\n## 出图复核与下一步\n\n9 张独立图均为内置图像生成结果；02、07 首次出现多角色/双头，已重生成并仅采用修正版。总览由最终九张原图机械拼排，未重新设计脸或轮廓。\n\n低成本验证顺序：先对01/06/08做同尺度头像、纯黑剪影与5秒记忆测试；再做9款产品图盲测；进入工程前必须补商标检索、3D结构、跌落/拉力/材料安全及供应商报价。比“喜欢”更可靠的是愿望单、预约或可退定金，但本轮未发布、未预售、未投产。\n\n## 公开来源\n\n1. [人民网：消费“烟火气”，藏着内需涌动大图景，2026-10-21](https://finance.people.com.cn/n1/2026/1021/c1004-40819079.html)\n2. [人民网：抖音生活服务发布中秋国庆消费报告，2026-10-10](https://finance.people.com.cn/n1/2026/1010/c1004-40811939.html)\n3. [新华网：假日中国新图景，2026-10-07](https://www.xinhuanet.com/20261007/93d8451e877a49609e8eac0a0b7d0702/c.html)\n4. [新京报：学化妆、看球赛、追秋色，2026-10-04](https://www.bjnews.com.cn/detail/1791114245169372.html)\n5. [湖南省文旅厅：秋季文旅十条线路，2026-10-23](https://whhlyt.hunan.gov.cn/whhlyt/cyfz/cyxm/202610/t20261023_34087494.html)\n6. [深圳国际CMF展官方页，2026-10-27—29](https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html)\n7. [国际CMF设计奖入围作品公示，2026-10](https://www.shejijingsai.com/2026/10/1654771.html)\n8. [Dexerials：反射防止膜参展发布，2026-10](https://www.dexerials.jp/news/2026/news26051.html)\n9. [designboom：低碳混凝土沙袋城堡，2026-10-20](https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/)\n10. [人民网：上海乡村无厘头赛事，2026-10-04](https://sh.people.com.cn/n2/2026/1004/c134768-41714246.html)\n11. [近期毛绒/搪胶毛绒新品价格汇总页，2026-10](https://www.suanchang.com/tags-17610.html)\n\n",
+  "report": "research/daily/daily-20261027/report.txt",
+  "links": [
+    {
+      "t": "https://finance.people.com.cn/n1/2026/1021/c1004-40819079.html",
+      "url": "https://finance.people.com.cn/n1/2026/1021/c1004-40819079.html"
+    },
+    {
+      "t": "https://finance.people.com.cn/n1/2026/1010/c1004-40811939.html",
+      "url": "https://finance.people.com.cn/n1/2026/1010/c1004-40811939.html"
+    },
+    {
+      "t": "https://www.xinhuanet.com/20261007/93d8451e877a49609e8eac0a0b7d0702/c.html",
+      "url": "https://www.xinhuanet.com/20261007/93d8451e877a49609e8eac0a0b7d0702/c.html"
+    },
+    {
+      "t": "https://www.bjnews.com.cn/detail/1791114245169372.html",
+      "url": "https://www.bjnews.com.cn/detail/1791114245169372.html"
+    },
+    {
+      "t": "https://whhlyt.hunan.gov.cn/whhlyt/cyfz/cyxm/202610/t20261023_34087494.html",
+      "url": "https://whhlyt.hunan.gov.cn/whhlyt/cyfz/cyxm/202610/t20261023_34087494.html"
+    },
+    {
+      "t": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html",
+      "url": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html"
+    },
+    {
+      "t": "https://www.shejijingsai.com/2026/10/1654771.html",
+      "url": "https://www.shejijingsai.com/2026/10/1654771.html"
+    },
+    {
+      "t": "https://www.dexerials.jp/news/2026/news26051.html",
+      "url": "https://www.dexerials.jp/news/2026/news26051.html"
+    },
+    {
+      "t": "https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/",
+      "url": "https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/"
+    },
+    {
+      "t": "https://sh.people.com.cn/n2/2026/1004/c134768-41714246.html",
+      "url": "https://sh.people.com.cn/n2/2026/1004/c134768-41714246.html"
+    },
+    {
+      "t": "https://www.suanchang.com/tags-17610.html",
+      "url": "https://www.suanchang.com/tags-17610.html"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "烟蓝涉禽潮玩，三条粗肋彩色压花玻璃扇冠，短楔喙，单脚试水，琥珀青透明插片洋红边，PVC全身。",
+  "enp": "Stylized wetland bird PVC figure, wide fan crest of translucent colored embossed glass with three large ribs, smoke blue body, amber-teal clear insert, magenta edge, one leg raised.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

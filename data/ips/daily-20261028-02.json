@@ -1,0 +1,66 @@
+{
+  "batch": "daily-20261028",
+  "order": 2,
+  "name": "吞响貘",
+  "en": "daily-20261028-02",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "世界太响，我先替你吞掉一点",
+  "origin": "声学与宁静空间",
+  "mark": "吸音折片冠",
+  "biz": "搪胶毛绒 79–109 元",
+  "complete_card": "## 02 吞响貘\n\n**原点/来源**：CADE 2026 建筑声学主题展区；**表达/句式**：世界太响，我先替你吞掉一点（陪伴型）。  \n**内核/背景**：沉稳、护短、少说话；住在回声过量的城市，背部能把尖锐声音磨圆。**动作**：双臂内收，把声音抱进胸口。  \n**外壳/头部**：动物貘、1.7 头身圆胖；短吻[物种特征]，眯眼[公共]，头顶折扇吸音软片冠[专属]。**色彩**：炭灰 + 电光黄。**材质**：搪胶脸、短绒身、冠片用超纤绒包泡棉。**品类**：搪胶毛绒 79–109 元。  \n**系列**：地铁低频 / 办公室键盘 / 深夜施工。**文案**：①“请把音量交给我。”②“今天先静音一小会。”③“不是没听见，是替你消化。”  \n**CN 提示词**：炭灰圆胖貘，头顶一圈电光黄折扇吸音软片冠，眯眼，双臂内收，搪胶脸短毛绒身体，单角色全身产品图。  \n**EN**: Original round charcoal tapir, electric-yellow fan-shaped acoustic baffle crown, closed eyes, arms folded inward, matte vinyl face and short plush body, single full-body product concept.  \n**对标/区别**：与布丁狗同为圆胖松弛，但非帽饰与慵懒，记忆点是功能性声学冠。**预评**：闭眼通过；剪影通过；简笔画存疑；缩小通过；换皮通过。**风险**：冠片数量要减到 5–7 片，否则成本与密度过高。  \n\n",
+  "report": "research/daily/daily-20261028/report.txt",
+  "links": [
+    {
+      "t": "https://cade.bauchina.com/Visit",
+      "url": "https://cade.bauchina.com/Visit"
+    },
+    {
+      "t": "https://cade.bauchina.com/Details?id=1818900470449991681",
+      "url": "https://cade.bauchina.com/Details?id=1818900470449991681"
+    },
+    {
+      "t": "https://info.datadowell.com/gxncl/0-1790214967401.html",
+      "url": "https://info.datadowell.com/gxncl/0-1790214967401.html"
+    },
+    {
+      "t": "https://www.bjnews.com.cn/detail/1792852833129624.html",
+      "url": "https://www.bjnews.com.cn/detail/1792852833129624.html"
+    },
+    {
+      "t": "https://finance.eastmoney.com/a/202610223904113491.html",
+      "url": "https://finance.eastmoney.com/a/202610223904113491.html"
+    },
+    {
+      "t": "https://www.forestry.gov.cn/lyj/1/dfdt/20261024/693277.html",
+      "url": "https://www.forestry.gov.cn/lyj/1/dfdt/20261024/693277.html"
+    },
+    {
+      "t": "https://whhlyt.hunan.gov.cn/whhlyt/news/mtjj/202610/t20261023_34087496.html",
+      "url": "https://whhlyt.hunan.gov.cn/whhlyt/news/mtjj/202610/t20261023_34087496.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34341993",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34341993"
+    },
+    {
+      "t": "https://www.xinhuanet.com/fashion/20261013/8737e89e971c4ccea3e83fa593dae816/c.html",
+      "url": "https://www.xinhuanet.com/fashion/20261013/8737e89e971c4ccea3e83fa593dae816/c.html"
+    },
+    {
+      "t": "https://www.discoverhongkong.cn/events/halloween.html",
+      "url": "https://www.discoverhongkong.cn/events/halloween.html"
+    },
+    {
+      "t": "https://etf.etnet.com.hk/www/sc/attraction/5224/",
+      "url": "https://etf.etnet.com.hk/www/sc/attraction/5224/"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "炭灰圆胖貘，头顶一圈电光黄折扇吸音软片冠，眯眼，双臂内收，搪胶脸短毛绒身体，单角色全身产品图。",
+  "enp": "Original round charcoal tapir, electric-yellow fan-shaped acoustic baffle crown, closed eyes, arms folded inward, matte vinyl face and short plush body, single full-body product concept.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

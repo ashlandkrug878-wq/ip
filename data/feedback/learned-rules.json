@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-28",
+  "rules": [],
+  "observations": [
+    {
+      "id": "separate-origin-from-visualization",
+      "state": "单例观察，不是长期审美规则",
+      "summary": "用户认可注意力保护原点，但否决当前具象化方式；不能把该原点加入黑名单。",
+      "scope": ["2026w42-5"],
+      "evidence": [{"id": "2026w42-5", "batch": "2026w42", "quote": "注意力保护这个可以在存到原点池，但是展示方式具像化这个太差了。", "source": "data/reviews/2026w42-5.json"}],
+      "counterexamples": [],
+      "independent_ip_count": 1
+    }
+  ],
+  "history": [],
+  "note": "目前证据不足以建立跨IP持续避错规则；AI原有风险点评不计入用户证据。"
+}

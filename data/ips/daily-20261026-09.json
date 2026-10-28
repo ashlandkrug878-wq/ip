@@ -1,0 +1,54 @@
+{
+  "batch": "daily-20261026",
+  "order": 9,
+  "name": "锚睡鱼",
+  "en": "daily-20261026-09",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "今天不远航，只先把自己停稳",
+  "origin": "确定性消费、情绪锚点",
+  "mark": "圆钝软锚冠",
+  "biz": "搪胶毛绒 / ¥79–109",
+  "complete_card": "### 09 锚睡鱼\n- **来源/表达/句式**：Z世代确定性与情绪锚点长期背景；“今天不远航，只先把自己停稳”｜允许型。\n- **性格背景/动作**：困倦、谨慎；把尾巴抱紧，等情绪海浪过去；抱尾静立。\n- **外壳头部**：深海鱼1.6头身；圆钝倒U软锚冠[反常]，半闭眼小圆嘴。\n- **颜色工艺产品**：深海蓝＋珊瑚红，米白腹点；搪胶冠短绒身，12cm，¥79–109。\n- **系列**：浅停 / 潮退 / 安全港。**文案**：先停稳再说 / 今天不出港 / 浪过去我再动。\n- **近似区别**：不同于厚唇半鱼人，以软锚冠、抱尾和困眼构成表达。\n- **设计预评**：闭眼、剪影、缩小、换皮通过；简笔画通过。\n- **风险**：现图锚形接近提手，需让两端向外形成软锚语义；鱼鳍不宜过多。\n- **提示词**：中：深海蓝小鱼，圆钝倒U软锚冠，抱住尾巴，困眼，搪胶毛绒。EN: Original deep-sea fish plush with a rounded soft anchor-shaped crown, sleepy eyes and tail held in both arms.\n\n## 下一步\n\n先做匿名九选三与5厘米头像缩小测试；入围后再出正侧背、结构拆件和无品牌成本询价。真实成本信号优先于点赞，但本轮不自动发布、预售或投产。可回复：**“选04，保留方形皱幕和橙折痕，修改身体比例。”**\n",
+  "report": "research/daily/daily-20261026/report.txt",
+  "links": [
+    {
+      "t": "https://www.wallpaper.com/design-interiors/design-events/dutch-design-week-2026",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/dutch-design-week-2026"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market",
+      "url": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/design-events/best-of-design-miami-paris-2026",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/best-of-design-miami-paris-2026"
+    },
+    {
+      "t": "https://www.lemonde.fr/en/culture/article/2026/10/22/at-art-basel-paris-social-tensions-fail-to-deter-international-collectors-from-turning-out-in-force_6761482_30.html",
+      "url": "https://www.lemonde.fr/en/culture/article/2026/10/22/at-art-basel-paris-social-tensions-fail-to-deter-international-collectors-from-turning-out-in-force_6761482_30.html"
+    },
+    {
+      "t": "https://cade.bauchina.com/Discover",
+      "url": "https://cade.bauchina.com/Discover"
+    },
+    {
+      "t": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html",
+      "url": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html"
+    },
+    {
+      "t": "https://fddi.fudan.edu.cn/a7/ea/c19047a763882/page.htm",
+      "url": "https://fddi.fudan.edu.cn/a7/ea/c19047a763882/page.htm"
+    },
+    {
+      "t": "https://www.accenture.cn/content/dam/accenture/final/accenture-com/document-fy26/q3/The-certainty-economy-Chinas-Gen-Z-CN-Accenture-Chinese-Consumer-Insights.pdf",
+      "url": "https://www.accenture.cn/content/dam/accenture/final/accenture-com/document-fy26/q3/The-certainty-economy-Chinas-Gen-Z-CN-Accenture-Chinese-Consumer-Insights.pdf"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "深海蓝小鱼，圆钝倒U软锚冠，抱住尾巴，困眼，搪胶毛绒。EN: Original deep-sea fish plush with a rounded soft anchor-shaped crown, sleepy eyes and tail held in both arms.",
+  "enp": "Original deep-sea fish plush with a rounded soft anchor-shaped crown, sleepy eyes and tail held in both arms.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

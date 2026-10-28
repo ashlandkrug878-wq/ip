@@ -1,0 +1,66 @@
+{
+  "batch": "daily-20261027",
+  "order": 1,
+  "name": "隐光客",
+  "en": "daily-20261027-01",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "不必一直被看见，出现也由我决定",
+  "origin": "智能调光、隐私玻璃",
+  "mark": "半明半暗滑动光闸",
+  "biz": "PVC盲盒",
+  "complete_card": "## 01 隐光客\n\n- **表达/句式/时机**：不必一直被看见，出现也由我决定｜允许型｜站在普通甜软萌的对面。\n- **原点/来源**：智能调光隐私车窗、反射防止膜；2026-10-13/20/27；设计产业信号。\n- **情绪与性格**：冷静、边界清楚、非讨好；单人。\n- **背景/内容/动作**：住在永不熄灯的展示城，负责给窗户分配明暗；主载体实物，次载体短视频；经典动作是单手拉下光闸。\n- **外壳与头部**：类人，2.3头身；光闸额镜[反常]，半垂眼[公共]，小嘴[公共]，其余五官减法；梯形短外套。\n- **色材/产品/价格**：石墨灰、雾白，签名电青；哑光PVC＋烟黑透明插片；8cm PVC盲盒，假设89元。\n- **系列**：可见度0%；黄昏半透；警戒全暗。\n- **文案**：“暂不展示。”／“看见不等于拥有。”／“今天由我调暗。”\n- **提示词中**：中性类人PVC盲盒，半明半暗滑动光闸横跨额眼，2.3头身，石墨灰雾白电青，单手调光，完整全身，灰色棚拍。\n- **Prompt EN**：Original gender-neutral 2.3-head PVC figure, half-clear half-smoked sliding optical shutter across forehead and eyes, graphite/fog white/electric cyan, hand adjusting visor, full body studio product render.\n- **撞车**：最接近冷感人偶类；区别是不靠头罩/发型，而靠可操作光闸和“可见权”。\n- **五项设计预评**：闭眼通过（半暗光闸）；剪影存疑（额镜侧面需加厚）；简笔画通过；缩小通过；换皮通过。\n- **风险**：本次图偏时装潮人、零件过多；下一版应删腰带和发丝，压回2头身。\n\n",
+  "report": "research/daily/daily-20261027/report.txt",
+  "links": [
+    {
+      "t": "https://finance.people.com.cn/n1/2026/1021/c1004-40819079.html",
+      "url": "https://finance.people.com.cn/n1/2026/1021/c1004-40819079.html"
+    },
+    {
+      "t": "https://finance.people.com.cn/n1/2026/1010/c1004-40811939.html",
+      "url": "https://finance.people.com.cn/n1/2026/1010/c1004-40811939.html"
+    },
+    {
+      "t": "https://www.xinhuanet.com/20261007/93d8451e877a49609e8eac0a0b7d0702/c.html",
+      "url": "https://www.xinhuanet.com/20261007/93d8451e877a49609e8eac0a0b7d0702/c.html"
+    },
+    {
+      "t": "https://www.bjnews.com.cn/detail/1791114245169372.html",
+      "url": "https://www.bjnews.com.cn/detail/1791114245169372.html"
+    },
+    {
+      "t": "https://whhlyt.hunan.gov.cn/whhlyt/cyfz/cyxm/202610/t20261023_34087494.html",
+      "url": "https://whhlyt.hunan.gov.cn/whhlyt/cyfz/cyxm/202610/t20261023_34087494.html"
+    },
+    {
+      "t": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html",
+      "url": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html"
+    },
+    {
+      "t": "https://www.shejijingsai.com/2026/10/1654771.html",
+      "url": "https://www.shejijingsai.com/2026/10/1654771.html"
+    },
+    {
+      "t": "https://www.dexerials.jp/news/2026/news26051.html",
+      "url": "https://www.dexerials.jp/news/2026/news26051.html"
+    },
+    {
+      "t": "https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/",
+      "url": "https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/"
+    },
+    {
+      "t": "https://sh.people.com.cn/n2/2026/1004/c134768-41714246.html",
+      "url": "https://sh.people.com.cn/n2/2026/1004/c134768-41714246.html"
+    },
+    {
+      "t": "https://www.suanchang.com/tags-17610.html",
+      "url": "https://www.suanchang.com/tags-17610.html"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "中性类人PVC盲盒，半明半暗滑动光闸横跨额眼，2.3头身，石墨灰雾白电青，单手调光，完整全身，灰色棚拍。",
+  "enp": "Original gender-neutral 2.3-head PVC figure, half-clear half-smoked sliding optical shutter across forehead and eyes, graphite/fog white/electric cyan, hand adjusting visor, full body studio product render.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

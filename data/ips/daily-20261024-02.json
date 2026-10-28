@@ -1,0 +1,58 @@
+{
+  "batch": "daily-20261024",
+  "order": 2,
+  "name": "玩钉兽",
+  "en": "daily-20261024-02",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "有用是底线，好玩才让我接上生活",
+  "origin": "从“能用”到“好玩”",
+  "mark": "斜插软胶大插栓",
+  "biz": "PVC 盲盒 / 79—99 元",
+  "complete_card": "### 02 玩钉兽 / Plugbit\n\n- **原点与转译**：从“能用”转向“好玩”，转成一个只有接上有趣模块才启动的生物。\n- **表达 / 句式 / 时机**：有用是底线，好玩才让我接上生活；反差型；同侧借势但避开换装娃，以插拔行为作 ID。\n- **情绪与性格 / 背景**：顽皮、务实；收集城市里被忽略的小乐趣，插进腹部接口才存档。\n- **经典动作**：把黄色小栓“咔嗒”插入腹部。\n- **外壳与头部**：原创生物，1.7 头身豆形；圆角连接块头，微斜珊瑚大插栓[反常/原创]，豆豆眼[公共]。\n- **色彩 / 工艺**：青绿主色，珊瑚红签名，黄模块；硬 PVC＋头顶软胶件。\n- **首品 / 价格 / 系列**：8cm PVC，79—99 元；系列：接上周末、接上勇气、接上荒唐。\n- **内容文案**：①“今天插点好玩的。”②“咔嗒，接上了。”③“无聊接口不兼容。”\n- **提示词**：中文：`青绿色圆角连接块原创生物，1.7头身，头顶斜插珊瑚红大软栓，腹部黄色接口模块，豆豆眼，哑光PVC全身产品图。` English: `Squat turquoise connector-block creature, diagonal coral soft plug on crown, yellow removable belly connector, tiny eyes, matte PVC collectible, full-body catalog render.`\n- **对标与区别**：接近 Bearbrick 的模块化收藏逻辑；区别是非标准画布体型，以“插接动作”而不是涂装为核心。\n- **设计预评**：闭眼通过；剪影通过；简笔画通过；缩小通过；换皮通过。\n- **风险**：可动插栓涉及小零件与耐久；首版建议大尺寸卡扣或固定造型。\n\n",
+  "report": "research/daily/daily-20261024/report.txt",
+  "links": [
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34316141",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34316141"
+    },
+    {
+      "t": "https://www.news.cn/tech/20261023/a61a7a21fad04fb39f72e695e1f8b414/c.html",
+      "url": "https://www.news.cn/tech/20261023/a61a7a21fad04fb39f72e695e1f8b414/c.html"
+    },
+    {
+      "t": "https://www.china-toy-expo.com/",
+      "url": "https://www.china-toy-expo.com/"
+    },
+    {
+      "t": "https://finance.eastmoney.com/a/202610223904337987.html",
+      "url": "https://finance.eastmoney.com/a/202610223904337987.html"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/apple-designers-of-tomorrow-design-miami-paris-2026",
+      "url": "https://www.wallpaper.com/design-interiors/apple-designers-of-tomorrow-design-miami-paris-2026"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market",
+      "url": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market"
+    },
+    {
+      "t": "https://www.livingetc.com/features/frieze-week-2026-report",
+      "url": "https://www.livingetc.com/features/frieze-week-2026-report"
+    },
+    {
+      "t": "https://elpais.com/icon-design/2026-10-20/la-calidez-vuelve-a-casa-las-tendencias-que-marcan-el-interiorismo-de-esta-temporada.html",
+      "url": "https://elpais.com/icon-design/2026-10-20/la-calidez-vuelve-a-casa-las-tendencias-que-marcan-el-interiorismo-de-esta-temporada.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34264135",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34264135"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "青绿色圆角连接块原创生物，1.7头身，头顶斜插珊瑚红大软栓，腹部黄色接口模块，豆豆眼，哑光PVC全身产品图。",
+  "enp": "Squat turquoise connector-block creature, diagonal coral soft plug on crown, yellow removable belly connector, tiny eyes, matte PVC collectible, full-body catalog render.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

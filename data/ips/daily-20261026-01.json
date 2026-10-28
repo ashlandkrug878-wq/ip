@@ -1,0 +1,54 @@
+{
+  "batch": "daily-20261026",
+  "order": 1,
+  "name": "省算仔",
+  "en": "daily-20261026-01",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "省下来的不是面子，是决定权",
+  "origin": "理性省钱、折扣决策",
+  "mark": "倾斜减号印章冠",
+  "biz": "PVC / ¥79–99",
+  "complete_card": "### 01 省算仔\n- **来源/表达/句式**：理性消费与促销策略长期背景；“省下来的不是面子，是决定权”｜反差型。\n- **性格背景/动作**：精明、克制、嘴硬；替冲动购物的人多算三秒；手指拨小算盘。\n- **外壳头部**：类人2.1头身；倾斜圆形减号印章冠[反常]，一眯一睁眼[反常]，短嘴。\n- **颜色工艺产品**：酒红＋灰蓝，荧光黄签名扣；哑光PVC，9cm，¥79–99。\n- **系列**：凑单夜 / 退货期 / 券后价。**文案**：我不是抠，是有选择 / 等一下，我再算一遍 / 省到就是赚到决定权。\n- **近似区别**：接近潮流人形盲盒，但印章冠与心算动作固定，不以服装成立。\n- **设计预评**：闭眼通过；剪影通过；简笔画通过；缩小通过；换皮通过。\n- **风险**：现图街头潮人感过强，下一版应减发量、去算盘实物，保留手势。\n- **中英提示词**：中：倾斜减号印章冠、异向眼、心算手势的2.1头身类人硬PVC。EN: Original 2.1-head-tall vinyl figure with one tilted minus-stamp crown, asymmetric eyes and mental-calculation gesture.\n\n",
+  "report": "research/daily/daily-20261026/report.txt",
+  "links": [
+    {
+      "t": "https://www.wallpaper.com/design-interiors/design-events/dutch-design-week-2026",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/dutch-design-week-2026"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market",
+      "url": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/design-events/best-of-design-miami-paris-2026",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/best-of-design-miami-paris-2026"
+    },
+    {
+      "t": "https://www.lemonde.fr/en/culture/article/2026/10/22/at-art-basel-paris-social-tensions-fail-to-deter-international-collectors-from-turning-out-in-force_6761482_30.html",
+      "url": "https://www.lemonde.fr/en/culture/article/2026/10/22/at-art-basel-paris-social-tensions-fail-to-deter-international-collectors-from-turning-out-in-force_6761482_30.html"
+    },
+    {
+      "t": "https://cade.bauchina.com/Discover",
+      "url": "https://cade.bauchina.com/Discover"
+    },
+    {
+      "t": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html",
+      "url": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html"
+    },
+    {
+      "t": "https://fddi.fudan.edu.cn/a7/ea/c19047a763882/page.htm",
+      "url": "https://fddi.fudan.edu.cn/a7/ea/c19047a763882/page.htm"
+    },
+    {
+      "t": "https://www.accenture.cn/content/dam/accenture/final/accenture-com/document-fy26/q3/The-certainty-economy-Chinas-Gen-Z-CN-Accenture-Chinese-Consumer-Insights.pdf",
+      "url": "https://www.accenture.cn/content/dam/accenture/final/accenture-com/document-fy26/q3/The-certainty-economy-Chinas-Gen-Z-CN-Accenture-Chinese-Consumer-Insights.pdf"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "英提示词**：中：倾斜减号印章冠、异向眼、心算手势的2.1头身类人硬PVC。EN: Original 2.1-head-tall vinyl figure with one tilted minus-stamp crown, asymmetric eyes and mental-calculation gesture.",
+  "enp": "Original 2.1-head-tall vinyl figure with one tilted minus-stamp crown, asymmetric eyes and mental-calculation gesture.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

@@ -1,0 +1,54 @@
+{
+  "batch": "daily-20261025",
+  "order": 2,
+  "name": "铜名兽",
+  "en": "daily-20261025-02",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "手留下名字，物才有来处",
+  "origin": "手艺归属、黄铜锤揲",
+  "mark": "黄铜拇指印额牌",
+  "biz": "搪胶毛绒 / ¥99–129",
+  "complete_card": "### 02 铜名兽 TONGMING\n\n- **原点/时机**：手艺署名、公平补偿、黄铜锤揲；站在无名代工的对面。\n- **表达/句式**：手留下名字，物才有来处｜反差型。\n- **内核与背景**：庄重、害羞、护短；为每件无名器物收集制作者的手印。\n- **动作**：双手举起自己的小名牌。\n- **外壳/头部**：怪兽精灵，1.8头身；圆钝头[公共]，单枚黄铜拇指印额牌[反常]，宽眼距[反常]，极小嘴。\n- **色材/产品**：深棕＋古铜，签名金；锤揲搪胶件＋短绒身；12cm 搪胶毛绒，¥99–129。\n- **系列**：锤印 / 绣名 / 木纹落款。\n- **文案**：①这不是无名款 ②手印比标签真 ③请把作者写上。\n- **近似与区别**：体量接近通用毛绒怪兽，但无尖耳尖牙，以“拇指印额牌＋署名立场”构成核心。\n- **设计预评**：闭眼通过—金属手印；剪影存疑—额牌需略外凸；简笔画通过—圆头＋椭圆牌；缩小通过—金棕对比；换皮通过—额牌不变。\n- **风险**：真金属会增重，首测用轻质镀金塑料；“拇指印”避免使用真人可识别纹样。\n- **提示词**：中：深棕短绒原创小兽，圆钝头，额头单枚黄铜锤揲拇指印徽片，宽眼距小眼，举名牌，搪胶毛绒全身产品图。 EN: Original dark-brown plush creature with a blunt round head, one hammered-brass fingerprint medallion on the forehead, wide-set tiny eyes, holding a name plaque, vinyl-plush full-body product concept.\n\n",
+  "report": "research/daily/daily-20261025/report.txt",
+  "links": [
+    {
+      "t": "https://gd.people.com.cn/n2/2026/1023/c123932-41731048.html",
+      "url": "https://gd.people.com.cn/n2/2026/1023/c123932-41731048.html"
+    },
+    {
+      "t": "https://www.mofcom.gov.cn/sqfb/art/2026/art_1cf4e599ebaf412b95868bd31b686276.html",
+      "url": "https://www.mofcom.gov.cn/sqfb/art/2026/art_1cf4e599ebaf412b95868bd31b686276.html"
+    },
+    {
+      "t": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html",
+      "url": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html"
+    },
+    {
+      "t": "https://m.21jingji.com/article/20261005/herald/5caf3ec20c5f2b1df8cacef740ac626c.html",
+      "url": "https://m.21jingji.com/article/20261005/herald/5caf3ec20c5f2b1df8cacef740ac626c.html"
+    },
+    {
+      "t": "https://www.why.com.cn/epublish/qnb/html/2026-01/08/content_122_40607.htm",
+      "url": "https://www.why.com.cn/epublish/qnb/html/2026-01/08/content_122_40607.htm"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/dutch-design-week-2026-highlights",
+      "url": "https://www.wallpaper.com/design-interiors/dutch-design-week-2026-highlights"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/fall-market-tabula-rasa",
+      "url": "https://www.architecturaldigest.com/story/fall-market-tabula-rasa"
+    },
+    {
+      "t": "https://www.financialexpress.com/life/lifestyle-vikram-goyal-on-indias-craft-legacy-design-led-practice-and-why-attribution-matters-4021234/",
+      "url": "https://www.financialexpress.com/life/lifestyle-vikram-goyal-on-indias-craft-legacy-design-led-practice-and-why-attribution-matters-4021234/"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "深棕短绒原创小兽，圆钝头，额头单枚黄铜锤揲拇指印徽片，宽眼距小眼，举名牌，搪胶毛绒全身产品图。 EN: Original dark-brown plush creature with a blunt round head, one hammered-brass fingerprint medallion on the forehead, wide-set tiny eyes, holding a name plaque, vinyl-plush full-body product concept.",
+  "enp": "Original dark-brown plush creature with a blunt round head, one hammered-brass fingerprint medallion on the forehead, wide-set tiny eyes, holding a name plaque, vinyl-plush full-body product concept.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

@@ -1,0 +1,62 @@
+{
+  "batch": "daily-20261023",
+  "order": 8,
+  "name": "乱绒",
+  "en": "daily-20261023-08",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "越想压平，越有自己的方向",
+  "origin": "刷丝家具、制造者痕迹",
+  "mark": "横向爆开的刷丝束",
+  "biz": "PVC＋纤维",
+  "complete_card": "## 08 乱绒\n\n![08](ip-lab-20261023-assets/08.png)\n\n- **原点与转译**：刷丝椅把“乱发”和情感依附变成家具→制造痕迹不必被抹平。\n- **表达**：越想压平，越有自己的方向｜自嘲型；尴尬、倔、拒绝服帖。\n- **背景/动作**：每天花很久整理，却总在出门那刻向一边炸开；单手压绒。\n- **外壳/头部**：中性类人、计划2.3头身；错位眼[反常]、单侧横爆刷丝束[专属]。\n- **视觉/产品**：陶灰＋黑红，签名色电红；哑光PVC＋植入长纤维；12cm收藏盲盒，¥109—149。\n- **三系列**：静电、逆风、睡醒。**文案**：“压不平。”“方向不同。”“整理失败，出门成功。”\n- **对标与区别**：接近标志发型人偶；区别是毛束作为动态整体轮廓，脸和衣服极度删减。\n- **五测**：闭眼通过；剪影通过；简笔画存疑—纤维难画；缩小通过；换皮通过。\n- **风险**：当前图身体过人模且近裸感；下一版改1.8头身方块躯干，不做人体曲线。\n- **提示词**：中文：1.8头身中性方块类人，陶灰哑光身体无人体曲线，头部一束黑红长刷丝横向爆开，错位小眼，单手压绒。 English: 1.8-head gender-neutral block-bodied figure with no human curves, one huge sideways burst of black-and-red brush fibers, offset tiny eyes, one hand pressing the fibers.\n\n",
+  "report": "research/daily/daily-20261023/report.txt",
+  "links": [
+    {
+      "t": "https://www.xinhuanet.com/20261022/85af510703d6471bad0c3d1b992db2e9/c.html",
+      "url": "https://www.xinhuanet.com/20261022/85af510703d6471bad0c3d1b992db2e9/c.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34288202",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34288202"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34289011",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34289011"
+    },
+    {
+      "t": "https://news.bjd.com.cn/2026/10/22/12004879.shtml",
+      "url": "https://news.bjd.com.cn/2026/10/22/12004879.shtml"
+    },
+    {
+      "t": "https://www.vogue.com/article/cfda-vogue-fashion-fund-sustainability-challenge-10-16-2026",
+      "url": "https://www.vogue.com/article/cfda-vogue-fashion-fund-sustainability-challenge-10-16-2026"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/collectible-design-new-names-to-know-pad-london-2026",
+      "url": "https://www.wallpaper.com/design-interiors/collectible-design-new-names-to-know-pad-london-2026"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/interior-design/furniture/furniture-at-frieze-london-2026",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/furniture/furniture-at-frieze-london-2026"
+    },
+    {
+      "t": "https://www.livingetc.com/features/frieze-week-2026-report",
+      "url": "https://www.livingetc.com/features/frieze-week-2026-report"
+    },
+    {
+      "t": "https://www.housebeautiful.com/design-inspiration/a74205282/wood-look-tile-trend/",
+      "url": "https://www.housebeautiful.com/design-inspiration/a74205282/wood-look-tile-trend/"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market",
+      "url": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "性类人、计划2.3头身；错位眼[反常]、单侧横爆刷丝束[专属]。",
+  "enp": "1.8-head gender-neutral block-bodied figure with no human curves, one huge sideways burst of black-and-red brush fibers, offset tiny eyes, one hand pressing the fibers.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

@@ -1,0 +1,66 @@
+{
+  "batch": "daily-20261027",
+  "order": 4,
+  "name": "暖涡獭",
+  "en": "daily-20261027-04",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "今天先把自己泡回温",
+  "origin": "温泉度假升温",
+  "mark": "青绿蒸汽涡冠",
+  "biz": "毛绒挂件",
+  "complete_card": "## 04 暖涡獭\n\n- **表达/句式/时机**：今天先把自己泡回温｜允许型｜软萌同侧，但以季节行为切细分。\n- **原点/来源**：温泉搜索升温、秋季温泉康养线路；2026-10-4/23。\n- **情绪与性格**：慢、爱惜体温、沉默陪伴。\n- **背景/动作**：替山泉保管最后一点余温的水獭；闭眼抱热石。\n- **外壳与头部**：动物原型，1.5头身梨形；单个蒸汽涡冠[反常]，圆耳/动物鼻[公共]，闭眼减法。\n- **色材/产品/价格**：可可棕、奶油白，签名矿物青；全短绒＋刺绣脸＋软胶蒸汽；10cm挂件，假设79元。\n- **系列**：晨雾石；雪夜汤；冷泉醒神。\n- **文案**：“已开始回温。”／“石头先借我。”／“不急，泡完再说。”\n- **提示词中**：水獭毛绒挂件，青绿色单个蒸汽涡冠，抱黑色温泉石，闭眼，可可棕奶油白，完整全身棚拍。\n- **Prompt EN**：Original otter plush keychain, single turquoise spiral steam crest, hugging a smooth black hot-spring stone, cocoa and cream, sleepy closed eyes, full body.\n- **撞车**：接近慢生活动物IP；区别是蒸汽冠与“回温”动作，不靠帽子。\n- **五项设计预评**：闭眼通过；剪影通过；简笔画通过；缩小通过；换皮存疑（蒸汽件必须保留）。\n- **风险**：赛道较拥挤；需用青色蒸汽作为长期不变量。\n\n",
+  "report": "research/daily/daily-20261027/report.txt",
+  "links": [
+    {
+      "t": "https://finance.people.com.cn/n1/2026/1021/c1004-40819079.html",
+      "url": "https://finance.people.com.cn/n1/2026/1021/c1004-40819079.html"
+    },
+    {
+      "t": "https://finance.people.com.cn/n1/2026/1010/c1004-40811939.html",
+      "url": "https://finance.people.com.cn/n1/2026/1010/c1004-40811939.html"
+    },
+    {
+      "t": "https://www.xinhuanet.com/20261007/93d8451e877a49609e8eac0a0b7d0702/c.html",
+      "url": "https://www.xinhuanet.com/20261007/93d8451e877a49609e8eac0a0b7d0702/c.html"
+    },
+    {
+      "t": "https://www.bjnews.com.cn/detail/1791114245169372.html",
+      "url": "https://www.bjnews.com.cn/detail/1791114245169372.html"
+    },
+    {
+      "t": "https://whhlyt.hunan.gov.cn/whhlyt/cyfz/cyxm/202610/t20261023_34087494.html",
+      "url": "https://whhlyt.hunan.gov.cn/whhlyt/cyfz/cyxm/202610/t20261023_34087494.html"
+    },
+    {
+      "t": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html",
+      "url": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html"
+    },
+    {
+      "t": "https://www.shejijingsai.com/2026/10/1654771.html",
+      "url": "https://www.shejijingsai.com/2026/10/1654771.html"
+    },
+    {
+      "t": "https://www.dexerials.jp/news/2026/news26051.html",
+      "url": "https://www.dexerials.jp/news/2026/news26051.html"
+    },
+    {
+      "t": "https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/",
+      "url": "https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/"
+    },
+    {
+      "t": "https://sh.people.com.cn/n2/2026/1004/c134768-41714246.html",
+      "url": "https://sh.people.com.cn/n2/2026/1004/c134768-41714246.html"
+    },
+    {
+      "t": "https://www.suanchang.com/tags-17610.html",
+      "url": "https://www.suanchang.com/tags-17610.html"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "水獭毛绒挂件，青绿色单个蒸汽涡冠，抱黑色温泉石，闭眼，可可棕奶油白，完整全身棚拍。",
+  "enp": "Original otter plush keychain, single turquoise spiral steam crest, hugging a smooth black hot-spring stone, cocoa and cream, sleepy closed eyes, full body.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

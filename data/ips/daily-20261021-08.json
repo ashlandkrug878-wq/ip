@@ -1,0 +1,74 @@
+{
+  "batch": "daily-20261021",
+  "order": 8,
+  "name": "留隙",
+  "en": "daily-20261021-08",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "关系里留一道缝，光才能进来。",
+  "origin": "暖金属格栅、透而不断",
+  "mark": "青铜开格圆环",
+  "biz": "PVC盲盒",
+  "complete_card": "08 留隙 / LIUXI\n类人\n留白型\n原点：\n10月20日室内设计趋势报道集中出现暖金属、曲线与“分隔但不挡光”的格栅；属行业编辑趋势信号。\n表达：\n关系里留一道缝，光才能进来。\n性格/背景：\n冷静、有边界、不失温度；负责给拥挤的空间画出不封闭的界线。\n动作：\n举空框看人。\n头部：\n椭圆头[公共]＋单个青铜开格圆环[专属]，半垂眼，面部无纹理。\n色/工艺：\n陶土红＋暖青铜，签名深梅紫；哑光PVC，金属件改真空镀/金属漆二选一测试。\n首品/价：\n11cm PVC盲盒，89–129元。\n系列：\n门缝 / 窗格 / 呼吸墙。\n文案：\n“别靠太满。” “留白不是离开。” “这条线会透光。”\n撞车：\n接近时装类人；区别为功能性的开格头环与空框动作。\n风险：\n头环过细易断；量产需加粗至安全厚度并减少格数。\n设计预评：\n闭眼通过；剪影通过；简笔画存疑；缩小通过；换皮通过。\n中文提示：\n椭圆类人，单个暖青铜开格圆环头框，举空矩形框，陶土红深梅紫，哑光PVC。\nEnglish:\nOval-headed humanoid with one warm-bronze open lattice halo, holding an empty rectangle, terracotta and deep plum matte PVC collectible.",
+  "report": "research/daily/daily-20261021/report.txt",
+  "links": [
+    {
+      "t": "https://www.news.cn/politics/20261020/164f6bb7dfa04919adc527eeb66c630f/c.html",
+      "url": "https://www.news.cn/politics/20261020/164f6bb7dfa04919adc527eeb66c630f/c.html"
+    },
+    {
+      "t": "https://www.chinanews.com/sh/2026/10-20/10717558.shtml",
+      "url": "https://www.chinanews.com/sh/2026/10-20/10717558.shtml"
+    },
+    {
+      "t": "https://sh.news.cn/20261020/d82f583825b04782b966cfa4eb7edb0d/c.html",
+      "url": "https://sh.news.cn/20261020/d82f583825b04782b966cfa4eb7edb0d/c.html"
+    },
+    {
+      "t": "https://www.cnu.com.cn/hotnews/202610/298408.html",
+      "url": "https://www.cnu.com.cn/hotnews/202610/298408.html"
+    },
+    {
+      "t": "https://www.moganshan.saihuitong.com/events?mid=72300",
+      "url": "https://www.moganshan.saihuitong.com/events?mid=72300"
+    },
+    {
+      "t": "https://www.xinhuanet.com/culture/20261019/c0b05a07effb46c4a9944cbe0e68e976/c.html",
+      "url": "https://www.xinhuanet.com/culture/20261019/c0b05a07effb46c4a9944cbe0e68e976/c.html"
+    },
+    {
+      "t": "https://news.hubeidaily.net/pc/c_6083167.html",
+      "url": "https://news.hubeidaily.net/pc/c_6083167.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34287229",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34287229"
+    },
+    {
+      "t": "https://zjnews.zjol.com.cn/zjnews/202610/t20261019_31972955.shtml?v=1.0",
+      "url": "https://zjnews.zjol.com.cn/zjnews/202610/t20261019_31972955.shtml?v=1.0"
+    },
+    {
+      "t": "https://www.xinhuanet.com/photo/20261018/6d45d7a792e24898bce15dc9eebb3750/c.html",
+      "url": "https://www.xinhuanet.com/photo/20261018/6d45d7a792e24898bce15dc9eebb3750/c.html"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/pad-london-2026-emerging-designers",
+      "url": "https://www.wallpaper.com/design-interiors/pad-london-2026-emerging-designers"
+    },
+    {
+      "t": "https://english.elpais.com/icon-design/2026-10-20/the-interior-design-trends-that-will-turn-your-house-into-a-refuge-from-the-real-world.html",
+      "url": "https://english.elpais.com/icon-design/2026-10-20/the-interior-design-trends-that-will-turn-your-house-into-a-refuge-from-the-real-world.html"
+    },
+    {
+      "t": "https://www.news.cn/culture/",
+      "url": "https://www.news.cn/culture/"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "出现暖金属、曲线与“分隔但不挡光”的格栅；属行业编辑趋势信号。",
+  "enp": "Oval-headed humanoid with one warm-bronze open lattice halo, holding an empty rectangle, terracotta and deep plum matte PVC collectible.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

@@ -1,0 +1,66 @@
+{
+  "batch": "daily-20261027",
+  "order": 3,
+  "name": "攀点狸",
+  "en": "daily-20261027-03",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "抓不稳，也先找下一个点",
+  "origin": "攀岩体验上升",
+  "mark": "斜置橙色岩点额板",
+  "biz": "搪胶毛绒",
+  "complete_card": "## 03 攀点狸\n\n- **表达/句式/时机**：抓不稳，也先找下一个点｜允许型｜运动体验细分。\n- **原点/来源**：攀岩体验课搜索同比上升；2026-10-4。\n- **情绪与性格**：倔、专注、不逞强；单人。\n- **背景/动作**：城市墙缝里的小灵狸，把每个难题看作一个抓点；伸爪、后脚蹬稳。\n- **外壳与头部**：动物类人，小灵猫/狸，1.8头身；斜置岩点额板[反常]，小耳[公共]，眯眼[公共]。\n- **色材/产品/价格**：炭灰、粉笔白，签名安全橙；搪胶脸与岩点、短绒身；挂件假设99元。\n- **系列**：第一抓点；滑落粉尘；屋顶完攀。\n- **文案**：“先挂一下。”／“手滑不算退场。”／“下一个点见。”\n- **提示词中**：灵狸动物类人，额头斜置单个橙色攀岩点，炭灰短绒，伸爪攀爬，搪胶毛绒挂件，全身。\n- **Prompt EN**：Anthropomorphic civet vinyl-plush keychain, single oversized orange climbing hold integrated diagonally on forehead, charcoal plush, reaching pose, full body.\n- **撞车**：接近宠物型动物IP；区别是岩点额板和持续攀行动作。\n- **五项设计预评**：闭眼通过；剪影存疑（狸轮廓常见）；简笔画通过；缩小通过；换皮通过。\n- **风险**：生成图底座不适合挂件，应删石头、让双脚独立。\n\n",
+  "report": "research/daily/daily-20261027/report.txt",
+  "links": [
+    {
+      "t": "https://finance.people.com.cn/n1/2026/1021/c1004-40819079.html",
+      "url": "https://finance.people.com.cn/n1/2026/1021/c1004-40819079.html"
+    },
+    {
+      "t": "https://finance.people.com.cn/n1/2026/1010/c1004-40811939.html",
+      "url": "https://finance.people.com.cn/n1/2026/1010/c1004-40811939.html"
+    },
+    {
+      "t": "https://www.xinhuanet.com/20261007/93d8451e877a49609e8eac0a0b7d0702/c.html",
+      "url": "https://www.xinhuanet.com/20261007/93d8451e877a49609e8eac0a0b7d0702/c.html"
+    },
+    {
+      "t": "https://www.bjnews.com.cn/detail/1791114245169372.html",
+      "url": "https://www.bjnews.com.cn/detail/1791114245169372.html"
+    },
+    {
+      "t": "https://whhlyt.hunan.gov.cn/whhlyt/cyfz/cyxm/202610/t20261023_34087494.html",
+      "url": "https://whhlyt.hunan.gov.cn/whhlyt/cyfz/cyxm/202610/t20261023_34087494.html"
+    },
+    {
+      "t": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html",
+      "url": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html"
+    },
+    {
+      "t": "https://www.shejijingsai.com/2026/10/1654771.html",
+      "url": "https://www.shejijingsai.com/2026/10/1654771.html"
+    },
+    {
+      "t": "https://www.dexerials.jp/news/2026/news26051.html",
+      "url": "https://www.dexerials.jp/news/2026/news26051.html"
+    },
+    {
+      "t": "https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/",
+      "url": "https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/"
+    },
+    {
+      "t": "https://sh.people.com.cn/n2/2026/1004/c134768-41714246.html",
+      "url": "https://sh.people.com.cn/n2/2026/1004/c134768-41714246.html"
+    },
+    {
+      "t": "https://www.suanchang.com/tags-17610.html",
+      "url": "https://www.suanchang.com/tags-17610.html"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "灵狸动物类人，额头斜置单个橙色攀岩点，炭灰短绒，伸爪攀爬，搪胶毛绒挂件，全身。",
+  "enp": "Anthropomorphic civet vinyl-plush keychain, single oversized orange climbing hold integrated diagonally on forehead, charcoal plush, reaching pose, full body.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

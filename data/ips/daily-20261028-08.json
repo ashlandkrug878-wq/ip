@@ -1,0 +1,66 @@
+{
+  "batch": "daily-20261028",
+  "order": 8,
+  "name": "慢住鸬",
+  "en": "daily-20261028-08",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "不急着打卡，先住进日常",
+  "origin": "旅行从打卡转向深住",
+  "mark": "折叠地图羽片",
+  "biz": "PVC 89–119 元",
+  "complete_card": "## 08 慢住鸬\n\n**原点/来源**：10-27 澎湃文旅扫描、10-13 经济日报服务消费；**表达**：不急着打卡，先住进日常（留白型）。  \n**性格/背景**：观察型、慢热、记路不记景点；每到一座城先学会早市的路线。**动作**：双手插兜，地图羽片只折开一角。  \n**外壳/头部**：鸬鹚动物类人、2 头身；短厚喙[公共物种特征]、折叠地图硬羽[专属]、半垂眼[公共]。**配色**：墨蓝 + 暖橙 + 纸白。**材质**：哑光 PVC，地图纹用浅浮雕。**品类**：PVC 89–119 元。  \n**系列**：住进早市 / 住进雨天 / 住进末班车。**文案**：①“景点先等等，我去买菜。”②“今天不赶下一站。”③“住两晚，才听见城市说话。”  \n**CN/EN**：墨蓝鸬鹚类人，短厚喙，头顶折叠地图形白色硬羽，暖橙登记带，半垂眼插兜，哑光PVC全身。 / Ink-blue cormorant humanoid, short thick beak, white folded-map hard feather on the crown, warm-orange stay tag, half-lidded eyes, hands in pockets, matte full-body PVC figure.  \n**对标/区别**：接近 HIRONO 的成年内省气质，但物种、地图羽轮廓和“深住”内容完全不同。**预评**：闭眼、剪影、缩小、换皮通过；简笔画存疑。**风险**：鸬鹚认知度低；地图符号可能像旅行社吉祥物。  \n\n",
+  "report": "research/daily/daily-20261028/report.txt",
+  "links": [
+    {
+      "t": "https://cade.bauchina.com/Visit",
+      "url": "https://cade.bauchina.com/Visit"
+    },
+    {
+      "t": "https://cade.bauchina.com/Details?id=1818900470449991681",
+      "url": "https://cade.bauchina.com/Details?id=1818900470449991681"
+    },
+    {
+      "t": "https://info.datadowell.com/gxncl/0-1790214967401.html",
+      "url": "https://info.datadowell.com/gxncl/0-1790214967401.html"
+    },
+    {
+      "t": "https://www.bjnews.com.cn/detail/1792852833129624.html",
+      "url": "https://www.bjnews.com.cn/detail/1792852833129624.html"
+    },
+    {
+      "t": "https://finance.eastmoney.com/a/202610223904113491.html",
+      "url": "https://finance.eastmoney.com/a/202610223904113491.html"
+    },
+    {
+      "t": "https://www.forestry.gov.cn/lyj/1/dfdt/20261024/693277.html",
+      "url": "https://www.forestry.gov.cn/lyj/1/dfdt/20261024/693277.html"
+    },
+    {
+      "t": "https://whhlyt.hunan.gov.cn/whhlyt/news/mtjj/202610/t20261023_34087496.html",
+      "url": "https://whhlyt.hunan.gov.cn/whhlyt/news/mtjj/202610/t20261023_34087496.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34341993",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34341993"
+    },
+    {
+      "t": "https://www.xinhuanet.com/fashion/20261013/8737e89e971c4ccea3e83fa593dae816/c.html",
+      "url": "https://www.xinhuanet.com/fashion/20261013/8737e89e971c4ccea3e83fa593dae816/c.html"
+    },
+    {
+      "t": "https://www.discoverhongkong.cn/events/halloween.html",
+      "url": "https://www.discoverhongkong.cn/events/halloween.html"
+    },
+    {
+      "t": "https://etf.etnet.com.hk/www/sc/attraction/5224/",
+      "url": "https://etf.etnet.com.hk/www/sc/attraction/5224/"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "",
+  "enp": "墨蓝鸬鹚类人，短厚喙，头顶折叠地图形白色硬羽，暖橙登记带，半垂眼插兜，哑光PVC全身。 / Ink-blue cormorant humanoid, short thick beak, white folded-map hard feather on the crown, warm-orange stay tag, half-lidded eyes, hands in pockets, matte full-body PVC figure.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

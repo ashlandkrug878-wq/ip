@@ -1,0 +1,66 @@
+{
+  "batch": "daily-20261028",
+  "order": 6,
+  "name": "枫迟鹿",
+  "en": "daily-20261028-06",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "我有自己的变红时区",
+  "origin": "红叶变色进度",
+  "mark": "半绿半红叶缘冠",
+  "biz": "毛绒挂件 59–89 元",
+  "complete_card": "## 06 枫迟鹿\n\n**原点/来源**：2026 全国红叶地图、同程赏枫日历；**表达**：我有自己的变红时区（允许型）。  \n**性格/背景**：温和但不追赶；负责记录每片叶子各自变色的日期。**动作**：双手插兜，叶缘从左绿到右红。  \n**外壳/头部**：鹿类人、2 头身，无角；动物耳[公共]、半绿半红叶缘冠[专属]、豆眼[公共]。**配色**：米白 + 苔绿 + 赤橙。**材质**：短绒本体、叶冠热压绒布或薄搪胶。**品类**：毛绒挂件 59–89 元。  \n**系列**：初红 / 盛红 / 迟红。**文案**：①“还没红，不代表没在变。”②“别催，温度还没到。”③“今天只红一点点。”  \n**CN/EN**：米白短绒鹿，无角，头顶一片从苔绿渐变赤橙的叶缘冠，双手插斗篷口袋，2头身，全身毛绒挂件。 / Cream short-plush deer without antlers, a leaf-edge crown shifting moss green to burnt orange, hands in cape pockets, 2-head proportion, full-body plush charm.  \n**对标/区别**：与大耳狗/玲娜贝儿等动物毛绒不同，耳朵不放大，识别由颜色边界与“变色时区”承担。**预评**：闭眼、剪影、简笔画、缩小通过；换皮存疑（需保留双色边界）。**风险**：秋季窗口短；鹿形公共度高。  \n\n",
+  "report": "research/daily/daily-20261028/report.txt",
+  "links": [
+    {
+      "t": "https://cade.bauchina.com/Visit",
+      "url": "https://cade.bauchina.com/Visit"
+    },
+    {
+      "t": "https://cade.bauchina.com/Details?id=1818900470449991681",
+      "url": "https://cade.bauchina.com/Details?id=1818900470449991681"
+    },
+    {
+      "t": "https://info.datadowell.com/gxncl/0-1790214967401.html",
+      "url": "https://info.datadowell.com/gxncl/0-1790214967401.html"
+    },
+    {
+      "t": "https://www.bjnews.com.cn/detail/1792852833129624.html",
+      "url": "https://www.bjnews.com.cn/detail/1792852833129624.html"
+    },
+    {
+      "t": "https://finance.eastmoney.com/a/202610223904113491.html",
+      "url": "https://finance.eastmoney.com/a/202610223904113491.html"
+    },
+    {
+      "t": "https://www.forestry.gov.cn/lyj/1/dfdt/20261024/693277.html",
+      "url": "https://www.forestry.gov.cn/lyj/1/dfdt/20261024/693277.html"
+    },
+    {
+      "t": "https://whhlyt.hunan.gov.cn/whhlyt/news/mtjj/202610/t20261023_34087496.html",
+      "url": "https://whhlyt.hunan.gov.cn/whhlyt/news/mtjj/202610/t20261023_34087496.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34341993",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34341993"
+    },
+    {
+      "t": "https://www.xinhuanet.com/fashion/20261013/8737e89e971c4ccea3e83fa593dae816/c.html",
+      "url": "https://www.xinhuanet.com/fashion/20261013/8737e89e971c4ccea3e83fa593dae816/c.html"
+    },
+    {
+      "t": "https://www.discoverhongkong.cn/events/halloween.html",
+      "url": "https://www.discoverhongkong.cn/events/halloween.html"
+    },
+    {
+      "t": "https://etf.etnet.com.hk/www/sc/attraction/5224/",
+      "url": "https://etf.etnet.com.hk/www/sc/attraction/5224/"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "",
+  "enp": "米白短绒鹿，无角，头顶一片从苔绿渐变赤橙的叶缘冠，双手插斗篷口袋，2头身，全身毛绒挂件。 / Cream short-plush deer without antlers, a leaf-edge crown shifting moss green to burnt orange, hands in cape pockets, 2-head proportion, full-body plush charm.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

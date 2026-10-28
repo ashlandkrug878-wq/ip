@@ -1,0 +1,54 @@
+{
+  "batch": "daily-20261025",
+  "order": 3,
+  "name": "侧镜客",
+  "en": "daily-20261025-03",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "我站的位置，不等于全部真相",
+  "origin": "镜面操纵视角与权力关系",
+  "mark": "偏置镜面短刘海",
+  "biz": "PVC 盲盒 / ¥79–99",
+  "complete_card": "### 03 侧镜客 CEMIRROR\n\n- **原点/时机**：镜面改变观看角度；站在软萌治愈的对面，偏冷酷与认知自嘲。\n- **表达/句式**：我站的位置，不等于全部真相｜留白型。\n- **内核与背景**：冷静、怀疑、自持；它从不替人下结论，只把镜片轻轻偏转。\n- **动作**：背手，左右各看一次。\n- **外壳/头部**：中性类人，2.3头身、方圆头[反常]；偏置镜面短刘海[反常]，一眼正视一眼斜视，其余减法。\n- **色材/产品**：石墨灰＋电光青；哑光硬 PVC、安全镀膜镜片；9cm 盲盒，¥79–99。\n- **系列**：盲区 / 回看 / 群像偏差。\n- **文案**：①换个位置再说 ②我看到，但不全信 ③你的正面，可能是我的侧面。\n- **近似与区别**：接近冷感人形收藏玩具，但镜片不是头罩，眼神不忧郁，表达指向“视角而非孤独”。\n- **设计预评**：闭眼通过—偏镜片；剪影通过—斜片；简笔画通过—方头＋斜叶；缩小通过—青边可识别；换皮通过—镜片/异向眼仍成立。\n- **风险**：镜面易刮花与拍摄炫光；可用珠光银替代真镜面做 A/B。\n- **提示词**：中：中性类人，方圆头，额前单片不对称镜面叶片，一眼正视一眼斜视，石墨灰连体衣与青色窄边，硬PVC盲盒全身图。 EN: Original androgynous figure, rounded-square head, one asymmetrical mirrored leaf plate over the forehead, mismatched gaze, graphite suit with cyan piping, matte hard-PVC full-body blind-box concept.\n\n",
+  "report": "research/daily/daily-20261025/report.txt",
+  "links": [
+    {
+      "t": "https://gd.people.com.cn/n2/2026/1023/c123932-41731048.html",
+      "url": "https://gd.people.com.cn/n2/2026/1023/c123932-41731048.html"
+    },
+    {
+      "t": "https://www.mofcom.gov.cn/sqfb/art/2026/art_1cf4e599ebaf412b95868bd31b686276.html",
+      "url": "https://www.mofcom.gov.cn/sqfb/art/2026/art_1cf4e599ebaf412b95868bd31b686276.html"
+    },
+    {
+      "t": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html",
+      "url": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html"
+    },
+    {
+      "t": "https://m.21jingji.com/article/20261005/herald/5caf3ec20c5f2b1df8cacef740ac626c.html",
+      "url": "https://m.21jingji.com/article/20261005/herald/5caf3ec20c5f2b1df8cacef740ac626c.html"
+    },
+    {
+      "t": "https://www.why.com.cn/epublish/qnb/html/2026-01/08/content_122_40607.htm",
+      "url": "https://www.why.com.cn/epublish/qnb/html/2026-01/08/content_122_40607.htm"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/dutch-design-week-2026-highlights",
+      "url": "https://www.wallpaper.com/design-interiors/dutch-design-week-2026-highlights"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/fall-market-tabula-rasa",
+      "url": "https://www.architecturaldigest.com/story/fall-market-tabula-rasa"
+    },
+    {
+      "t": "https://www.financialexpress.com/life/lifestyle-vikram-goyal-on-indias-craft-legacy-design-led-practice-and-why-attribution-matters-4021234/",
+      "url": "https://www.financialexpress.com/life/lifestyle-vikram-goyal-on-indias-craft-legacy-design-led-practice-and-why-attribution-matters-4021234/"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "性类人，2.3头身、方圆头[反常]；偏置镜面短刘海[反常]，一眼正视一眼斜视，其余减法。",
+  "enp": "Original androgynous figure, rounded-square head, one asymmetrical mirrored leaf plate over the forehead, mismatched gaze, graphite suit with cyan piping, matte hard-PVC full-body blind-box concept.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

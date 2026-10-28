@@ -1,0 +1,62 @@
+{
+  "batch": "daily-20261023",
+  "order": 6,
+  "name": "固泡",
+  "en": "daily-20261023-06",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "看着要破，其实比想象中结实",
+  "origin": "环氧包覆气球、脆弱变坚固",
+  "mark": "气球结头",
+  "biz": "透明PVC",
+  "complete_card": "## 06 固泡\n\n![06](ip-lab-20261023-assets/06.png)\n\n- **原点与转译**：环氧涂层把脆弱气球固定成家具→外表易碎与真实耐受力的反差。\n- **表达**：看着要破，其实比想象中结实｜反差型；安静、抗压、拒绝被小心翼翼对待。\n- **背景/动作**：把每一次紧张呼吸存在身体气泡里；四肢向外撑住压力。\n- **外壳/头部**：原创气球精灵、1.7头身；单个粗钝气球结[专属]、小眼[公共]、删嘴。\n- **视觉/产品**：烟紫透明＋珊瑚内核；透明PVC/树脂效果；10cm盲盒，¥109—139。\n- **三系列**：憋气、漏气、回弹。**文案**：“别轻拿轻放。”“还没破。”“压力有地方放。”\n- **对标与区别**：最接近透明画布型玩具，但气球结和内部压力核固定不变，不靠涂装联名识别。\n- **五测**：闭眼通过；剪影通过；简笔画通过；缩小通过；换皮通过。\n- **风险**：透明件易显塑料廉价，内核固定与气泡分布要做样验证。\n- **提示词**：中文：烟紫透明硬质气球精灵，头顶一个粗钝打结，体内珊瑚光核与少量气泡，小眼无嘴，短肢外撑。 English: Rigid smoky-lilac transparent balloon creature with one blunt tied knot on crown, coral inner core, sparse bubbles, tiny eyes, no mouth, short limbs bracing outward.\n\n",
+  "report": "research/daily/daily-20261023/report.txt",
+  "links": [
+    {
+      "t": "https://www.xinhuanet.com/20261022/85af510703d6471bad0c3d1b992db2e9/c.html",
+      "url": "https://www.xinhuanet.com/20261022/85af510703d6471bad0c3d1b992db2e9/c.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34288202",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34288202"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34289011",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34289011"
+    },
+    {
+      "t": "https://news.bjd.com.cn/2026/10/22/12004879.shtml",
+      "url": "https://news.bjd.com.cn/2026/10/22/12004879.shtml"
+    },
+    {
+      "t": "https://www.vogue.com/article/cfda-vogue-fashion-fund-sustainability-challenge-10-16-2026",
+      "url": "https://www.vogue.com/article/cfda-vogue-fashion-fund-sustainability-challenge-10-16-2026"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/collectible-design-new-names-to-know-pad-london-2026",
+      "url": "https://www.wallpaper.com/design-interiors/collectible-design-new-names-to-know-pad-london-2026"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/interior-design/furniture/furniture-at-frieze-london-2026",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/furniture/furniture-at-frieze-london-2026"
+    },
+    {
+      "t": "https://www.livingetc.com/features/frieze-week-2026-report",
+      "url": "https://www.livingetc.com/features/frieze-week-2026-report"
+    },
+    {
+      "t": "https://www.housebeautiful.com/design-inspiration/a74205282/wood-look-tile-trend/",
+      "url": "https://www.housebeautiful.com/design-inspiration/a74205282/wood-look-tile-trend/"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market",
+      "url": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "结实｜反差型；安静、抗压、拒绝被小心翼翼对待。",
+  "enp": "Rigid smoky-lilac transparent balloon creature with one blunt tied knot on crown, coral inner core, sparse bubbles, tiny eyes, no mouth, short limbs bracing outward.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

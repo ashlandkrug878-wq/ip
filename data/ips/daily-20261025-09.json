@@ -1,0 +1,54 @@
+{
+  "batch": "daily-20261025",
+  "order": 9,
+  "name": "藤步",
+  "en": "daily-20261025-09",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "手上编得慢，脚下可以走很远",
+  "origin": "广交会编织/藤铁工艺＋“学艺式旅行”",
+  "mark": "单一粗藤环把手",
+  "biz": "搪胶针织挂件 / ¥79–109",
+  "complete_card": "### 09 藤步 TENGSTEP\n\n- **原点/时机**：编织藤铁品类、新品密集发布与学艺式旅行；站在生活器物与角色之间。\n- **表达/句式**：手上编得慢，脚下可以走很远｜反差型。\n- **内核与背景**：行动派、耐心、不怕迷路；它每到一城学一种编法，把路编进身体。\n- **动作**：迈一步，双手虚握旅途中收来的小物。\n- **外壳/头部**：拟物生物，1.8头身；单一粗藤环把手[反常]，椭圆搪胶脸、宽眼距、小挑眉；篮形整体轮廓。\n- **色材/产品**：浅藤黄＋米色，签名群青蓝；针织藤纹身、搪胶脸、软芯把手；12cm 挂件，¥79–109。\n- **系列**：岭南编 / 海边结 / 山城绕。\n- **文案**：①慢慢编，马上走 ②把这座城装一点 ③路长，手别空。\n- **近似与区别**：接近拟物包袋，但脸不是印花，环把手同时是头部 ID 和真实挂包结构，步态是固定动作。\n- **设计预评**：闭眼通过—藤环；剪影通过—篮把；简笔画通过—环＋篮＋腿；缩小通过—群青脸框；换皮通过—把手/步态不变。\n- **风险**：真实藤材会扎手且难清洁，首品应以针织/压纹模拟；概念图篮纹需在量产时降密度。\n- **提示词**：中：会走路的小藤篮生物，头顶单个粗藤环把手，椭圆搪胶脸，宽眼距小眼，迈一步，浅藤黄针织纹与群青蓝脸框，全身挂件图。 EN: Original walking basket creature with one thick rattan loop handle above the head, oval vinyl face, wide-set tiny eyes, stepping forward, pale woven texture and cobalt-blue face rim, full-body charm concept.\n\n## 共通说明与下一步\n\n- 名称均为暂定名，**未做商标、著作权或外观专利检索**。\n- 五项测试均为基于概念图的**设计预评**，不是用户测试。\n- 图像是完整可评审概念，不代表结构拆件、配重、跌落、耐磨、色牢度或量产成本已验证。\n- 建议先用统一版式做 9 选 3 的盲测；入围后做正侧背三视图和 5cm 缩小测试，再向供应商询价。真实成本信号优先级：可退款预约/小额定金 > 收藏意向登记 > 点赞。\n\n可直接回复：**“选03，保留偏镜片和异向眼，修改配色与身体比例”**。\n",
+  "report": "research/daily/daily-20261025/report.txt",
+  "links": [
+    {
+      "t": "https://gd.people.com.cn/n2/2026/1023/c123932-41731048.html",
+      "url": "https://gd.people.com.cn/n2/2026/1023/c123932-41731048.html"
+    },
+    {
+      "t": "https://www.mofcom.gov.cn/sqfb/art/2026/art_1cf4e599ebaf412b95868bd31b686276.html",
+      "url": "https://www.mofcom.gov.cn/sqfb/art/2026/art_1cf4e599ebaf412b95868bd31b686276.html"
+    },
+    {
+      "t": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html",
+      "url": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html"
+    },
+    {
+      "t": "https://m.21jingji.com/article/20261005/herald/5caf3ec20c5f2b1df8cacef740ac626c.html",
+      "url": "https://m.21jingji.com/article/20261005/herald/5caf3ec20c5f2b1df8cacef740ac626c.html"
+    },
+    {
+      "t": "https://www.why.com.cn/epublish/qnb/html/2026-01/08/content_122_40607.htm",
+      "url": "https://www.why.com.cn/epublish/qnb/html/2026-01/08/content_122_40607.htm"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/dutch-design-week-2026-highlights",
+      "url": "https://www.wallpaper.com/design-interiors/dutch-design-week-2026-highlights"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/fall-market-tabula-rasa",
+      "url": "https://www.architecturaldigest.com/story/fall-market-tabula-rasa"
+    },
+    {
+      "t": "https://www.financialexpress.com/life/lifestyle-vikram-goyal-on-indias-craft-legacy-design-led-practice-and-why-attribution-matters-4021234/",
+      "url": "https://www.financialexpress.com/life/lifestyle-vikram-goyal-on-indias-craft-legacy-design-led-practice-and-why-attribution-matters-4021234/"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "收来的小物。",
+  "enp": "GSTEP",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

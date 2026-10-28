@@ -1,0 +1,54 @@
+{
+  "batch": "daily-20261025",
+  "order": 8,
+  "name": "夜橙蛾",
+  "en": "daily-20261025-08",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "有些盛开，只给晚归的人看",
+  "origin": "夜香木白花与橙色花梗",
+  "mark": "橙梗短触角＋白折翼",
+  "biz": "毛绒挂件 / ¥69–99",
+  "complete_card": "### 08 夜橙蛾 YECHENGE\n\n- **原点/时机**：夜香木白花与橙梗；属于季节灵感线索，避开白花拟人，转为夜蛾生态关系。\n- **表达/句式**：有些盛开，只给晚归的人看｜陪伴型。\n- **内核与背景**：安静、守夜、轻微社恐；它替晚归的人接住夜里掉落的第一片花瓣。\n- **动作**：双手接白瓣，翅膀向前合拢。\n- **外壳/头部**：动物夜蛾，2头身；橙梗短触角[反常]、白折翼大轮廓、豆眼一字嘴。\n- **色材/产品**：奶白＋深夜蓝，签名橙；短绒、刺绣梗、软填充折翼；11cm 毛绒挂件，¥69–99。\n- **系列**：末班车 / 凌晨便利店 / 雨夜花落。\n- **文案**：①我替夜里留灯 ②晚归也有花看 ③别怕，翅膀还醒着。\n- **近似与区别**：接近通用软萌飞虫，但不用大耳/星兜帽/粉色，以橙梗、披肩式折翼和夜归叙事区分。\n- **设计预评**：闭眼通过—橙梗白翼；剪影通过—翼披肩；简笔画通过—双触角＋双翼；缩小通过—橙白蓝；换皮通过—触角/翼姿保留。\n- **风险**：白色毛绒易脏；触角挂包易折，建议短化并加回弹芯。\n- **提示词**：中：原创夜蛾，橙色花梗形短触角，白色折翼像披肩，深夜蓝身体，接住一片白瓣，短绒毛绒挂件全身图。 EN: Original night moth with short orange stem-like antennae, broad folded ivory wings worn like a cape, midnight-blue plush body, catching one white petal, full-body plush charm concept.\n\n",
+  "report": "research/daily/daily-20261025/report.txt",
+  "links": [
+    {
+      "t": "https://gd.people.com.cn/n2/2026/1023/c123932-41731048.html",
+      "url": "https://gd.people.com.cn/n2/2026/1023/c123932-41731048.html"
+    },
+    {
+      "t": "https://www.mofcom.gov.cn/sqfb/art/2026/art_1cf4e599ebaf412b95868bd31b686276.html",
+      "url": "https://www.mofcom.gov.cn/sqfb/art/2026/art_1cf4e599ebaf412b95868bd31b686276.html"
+    },
+    {
+      "t": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html",
+      "url": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html"
+    },
+    {
+      "t": "https://m.21jingji.com/article/20261005/herald/5caf3ec20c5f2b1df8cacef740ac626c.html",
+      "url": "https://m.21jingji.com/article/20261005/herald/5caf3ec20c5f2b1df8cacef740ac626c.html"
+    },
+    {
+      "t": "https://www.why.com.cn/epublish/qnb/html/2026-01/08/content_122_40607.htm",
+      "url": "https://www.why.com.cn/epublish/qnb/html/2026-01/08/content_122_40607.htm"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/dutch-design-week-2026-highlights",
+      "url": "https://www.wallpaper.com/design-interiors/dutch-design-week-2026-highlights"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/fall-market-tabula-rasa",
+      "url": "https://www.architecturaldigest.com/story/fall-market-tabula-rasa"
+    },
+    {
+      "t": "https://www.financialexpress.com/life/lifestyle-vikram-goyal-on-indias-craft-legacy-design-led-practice-and-why-attribution-matters-4021234/",
+      "url": "https://www.financialexpress.com/life/lifestyle-vikram-goyal-on-indias-craft-legacy-design-led-practice-and-why-attribution-matters-4021234/"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "原创夜蛾，橙色花梗形短触角，白色折翼像披肩，深夜蓝身体，接住一片白瓣，短绒毛绒挂件全身图。 EN: Original night moth with short orange stem-like antennae, broad folded ivory wings worn like a cape, midnight-blue plush body, catching one white petal, full-body plush charm concept.",
+  "enp": "GE",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

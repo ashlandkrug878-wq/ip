@@ -1,0 +1,66 @@
+{
+  "batch": "daily-20261028",
+  "order": 1,
+  "name": "借期狐",
+  "en": "daily-20261028-01",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "不拥有，也认真相处",
+  "origin": "以租代买",
+  "mark": "可翻页日期签",
+  "biz": "搪胶毛绒 69–99 元",
+  "complete_card": "## 01 借期狐\n\n**原点/来源**：以租代买（2026-10-24 新京报、10-22 新华财经转载）；**表达/句式**：不拥有，也认真相处（反差型）。  \n**内核**：冷静、守约、略疏离；每件借来的东西都会被它擦干净、按时归还。**背景**：住在“借期站”，保管物品的共同记忆。**经典动作**：翻额头日期签，再把空钥匙圈递出。  \n**外壳/头部**：动物类人狐狸、2 头身；短耳[公共]、半垂眼[公共]、额头可翻页日期签[反常/专属]；只放大日期签，其余五官减法。**色彩**：石板蓝 + 荧光薄荷绿。**材质工艺**：哑光搪胶头、短绒身、日期签建议首发做固定浮雕而非活动件。  \n**首品类**：约 10 cm 搪胶毛绒挂件，69–99 元；首发不设复杂稀缺机制。**三系列**：借来一天 / 借来一季 / 准时归还。  \n**文案**：①“借你的，不借口。”②“到期提醒：想念可以续。”③“没买下，也没敷衍。”  \n**提示词 CN**：石板蓝短毛绒狐狸类人，短耳，额头荧光薄荷绿色可翻日期签，半垂眼，递出空钥匙圈，2头身，哑光搪胶头与短绒身体，单角色全身，浅灰影棚。  \n**Prompt EN**: Original slate-blue short-fur fox humanoid, short ears, fluorescent mint flip-date tab on forehead, half-lidded eyes, offering an empty key ring, 2-head proportion, matte vinyl head and plush body, single full-body product render, light-gray studio.  \n**最接近/区别**：接近 WAKUKU 的挂件社交属性，但无野孩子、数字心情牌；核心是期限与归还行为。**设计预评**：闭眼通过（日期签）；剪影存疑（签片正面强、侧面弱）；简笔画通过；缩小通过；换皮通过。**风险**：活动翻页件成本和脱落；“租赁”可能被读成节省而非态度。  \n\n",
+  "report": "research/daily/daily-20261028/report.txt",
+  "links": [
+    {
+      "t": "https://cade.bauchina.com/Visit",
+      "url": "https://cade.bauchina.com/Visit"
+    },
+    {
+      "t": "https://cade.bauchina.com/Details?id=1818900470449991681",
+      "url": "https://cade.bauchina.com/Details?id=1818900470449991681"
+    },
+    {
+      "t": "https://info.datadowell.com/gxncl/0-1790214967401.html",
+      "url": "https://info.datadowell.com/gxncl/0-1790214967401.html"
+    },
+    {
+      "t": "https://www.bjnews.com.cn/detail/1792852833129624.html",
+      "url": "https://www.bjnews.com.cn/detail/1792852833129624.html"
+    },
+    {
+      "t": "https://finance.eastmoney.com/a/202610223904113491.html",
+      "url": "https://finance.eastmoney.com/a/202610223904113491.html"
+    },
+    {
+      "t": "https://www.forestry.gov.cn/lyj/1/dfdt/20261024/693277.html",
+      "url": "https://www.forestry.gov.cn/lyj/1/dfdt/20261024/693277.html"
+    },
+    {
+      "t": "https://whhlyt.hunan.gov.cn/whhlyt/news/mtjj/202610/t20261023_34087496.html",
+      "url": "https://whhlyt.hunan.gov.cn/whhlyt/news/mtjj/202610/t20261023_34087496.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34341993",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34341993"
+    },
+    {
+      "t": "https://www.xinhuanet.com/fashion/20261013/8737e89e971c4ccea3e83fa593dae816/c.html",
+      "url": "https://www.xinhuanet.com/fashion/20261013/8737e89e971c4ccea3e83fa593dae816/c.html"
+    },
+    {
+      "t": "https://www.discoverhongkong.cn/events/halloween.html",
+      "url": "https://www.discoverhongkong.cn/events/halloween.html"
+    },
+    {
+      "t": "https://etf.etnet.com.hk/www/sc/attraction/5224/",
+      "url": "https://etf.etnet.com.hk/www/sc/attraction/5224/"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "",
+  "enp": "Original slate-blue short-fur fox humanoid, short ears, fluorescent mint flip-date tab on forehead, half-lidded eyes, offering an empty key ring, 2-head proportion, matte vinyl head and plush body, single full-body product render, light-gray studio.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

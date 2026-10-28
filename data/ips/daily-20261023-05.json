@@ -1,0 +1,62 @@
+{
+  "batch": "daily-20261023",
+  "order": 5,
+  "name": "橙壳",
+  "en": "daily-20261023-05",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "被剥下来的，也能重新包住自己",
+  "origin": "橙皮丝等生物基材料",
+  "mark": "螺旋橙皮带",
+  "biz": "PVC盲盒",
+  "complete_card": "## 05 橙壳\n\n![05](ip-lab-20261023-assets/05.png)\n\n- **原点与转译**：橙皮丝、葡萄皮革等生物基材料→废弃外皮重新成为保护层。\n- **表达**：被剥下来的，也能重新包住自己｜反差型；温和、韧、善于重组。\n- **背景/动作**：收集被丢掉的果皮，织成会呼吸的外壳；走路时皮带绕身体慢慢转。\n- **外壳/头部**：拟物原创生物、1.5头身茧体；螺旋橙皮冠与包裹带[反常/专属]、豆眼[公共]。\n- **视觉/产品**：纤维象牙白＋焦橙，叶脉绿签名线；纤维感PVC＋半透明软胶；9cm盲盒，¥89—119。\n- **三系列**：橙皮、葡萄皮、叶纤。**文案**：“皮也有第二次。”“重新包好。”“我不是废料。”\n- **对标与区别**：接近软团拟物，但不是食物本体或蘑菇帽；包裹带是结构与动作。\n- **五测**：闭眼通过；剪影通过；简笔画通过；缩小通过；换皮通过。\n- **风险**：容易被看作橙子宝宝；传播时强调“茧”和材料再生，避免水果萌物路线。\n- **提示词**：中文：象牙纤维茧状原创生物，一条半透明橙皮宽带从头顶螺旋包身，极简五官，1.5头身PVC潮玩。 English: Ivory fibrous cocoon creature wrapped by one broad translucent orange-peel spiral growing from its crown, minimal face, 1.5-head sculptural PVC collectible.\n\n",
+  "report": "research/daily/daily-20261023/report.txt",
+  "links": [
+    {
+      "t": "https://www.xinhuanet.com/20261022/85af510703d6471bad0c3d1b992db2e9/c.html",
+      "url": "https://www.xinhuanet.com/20261022/85af510703d6471bad0c3d1b992db2e9/c.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34288202",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34288202"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34289011",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34289011"
+    },
+    {
+      "t": "https://news.bjd.com.cn/2026/10/22/12004879.shtml",
+      "url": "https://news.bjd.com.cn/2026/10/22/12004879.shtml"
+    },
+    {
+      "t": "https://www.vogue.com/article/cfda-vogue-fashion-fund-sustainability-challenge-10-16-2026",
+      "url": "https://www.vogue.com/article/cfda-vogue-fashion-fund-sustainability-challenge-10-16-2026"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/collectible-design-new-names-to-know-pad-london-2026",
+      "url": "https://www.wallpaper.com/design-interiors/collectible-design-new-names-to-know-pad-london-2026"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/interior-design/furniture/furniture-at-frieze-london-2026",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/furniture/furniture-at-frieze-london-2026"
+    },
+    {
+      "t": "https://www.livingetc.com/features/frieze-week-2026-report",
+      "url": "https://www.livingetc.com/features/frieze-week-2026-report"
+    },
+    {
+      "t": "https://www.housebeautiful.com/design-inspiration/a74205282/wood-look-tile-trend/",
+      "url": "https://www.housebeautiful.com/design-inspiration/a74205282/wood-look-tile-trend/"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market",
+      "url": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "象牙纤维茧状原创生物，一条半透明橙皮宽带从头顶螺旋包身，极简五官，1.5头身PVC潮玩。",
+  "enp": "Ivory fibrous cocoon creature wrapped by one broad translucent orange-peel spiral growing from its crown, minimal face, 1.5-head sculptural PVC collectible.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

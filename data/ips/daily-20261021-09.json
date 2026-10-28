@@ -1,0 +1,74 @@
+{
+  "batch": "daily-20261021",
+  "order": 9,
+  "name": "晚开",
+  "en": "daily-20261021-09",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "晚一点开，也算我的花期。",
+  "origin": "秋菊与迟开",
+  "mark": "三瓣不对称花冠",
+  "biz": "毛绒挂件",
+  "complete_card": "09 晚开 / WANKAI\n动物\n允许型\n原点：\n开封第44届菊花文化节于2026-10-20开幕的公开信号；当前只证明时令与活动，不足以证明消费热度，故标“灵感线索”。\n表达：\n晚一点开，也算我的花期。\n性格/背景：\n倔、慢热、对催促过敏；是一只把三瓣花冠留到最后才展开的种籽鸟。\n动作：\n翅膀背后，第三瓣最后才开。\n头部：\n矮胖鸟；恰好三片宽而不齐的花冠[专属]，短喙[公共]，不做密集花瓣。\n色/工艺：\n矿物黄＋深橄榄，签名电蓝花心；短绒身、搪胶脸。\n首品/价：\n11cm毛绒挂件，69–99元。\n系列：\n未开 / 半开 / 霜后开。\n文案：\n“催也不开。” “我的季节晚五分钟。” “最后一瓣，自己决定。”\n撞车：\n接近花鸟毛绒；区别为固定三瓣轮廓、电蓝中心与“迟开”行为。\n风险：\n图中花冠过大像耳朵；下一版应压低三瓣并强化鸟喙。\n设计预评：\n闭眼通过；剪影通过；简笔画通过；缩小通过；换皮存疑—三瓣必须固定。\n中文提示：\n矮胖种籽鸟，恰好三片不对称宽花冠，短喙，翅膀背后，矿物黄深橄榄电蓝中心，短绒挂件。\nEnglish:\nStout seed-pod bird with exactly three broad asymmetrical crown petals, short beak, wings behind back, mineral yellow/dark olive/electric-blue center, short-plush charm.",
+  "report": "research/daily/daily-20261021/report.txt",
+  "links": [
+    {
+      "t": "https://www.news.cn/politics/20261020/164f6bb7dfa04919adc527eeb66c630f/c.html",
+      "url": "https://www.news.cn/politics/20261020/164f6bb7dfa04919adc527eeb66c630f/c.html"
+    },
+    {
+      "t": "https://www.chinanews.com/sh/2026/10-20/10717558.shtml",
+      "url": "https://www.chinanews.com/sh/2026/10-20/10717558.shtml"
+    },
+    {
+      "t": "https://sh.news.cn/20261020/d82f583825b04782b966cfa4eb7edb0d/c.html",
+      "url": "https://sh.news.cn/20261020/d82f583825b04782b966cfa4eb7edb0d/c.html"
+    },
+    {
+      "t": "https://www.cnu.com.cn/hotnews/202610/298408.html",
+      "url": "https://www.cnu.com.cn/hotnews/202610/298408.html"
+    },
+    {
+      "t": "https://www.moganshan.saihuitong.com/events?mid=72300",
+      "url": "https://www.moganshan.saihuitong.com/events?mid=72300"
+    },
+    {
+      "t": "https://www.xinhuanet.com/culture/20261019/c0b05a07effb46c4a9944cbe0e68e976/c.html",
+      "url": "https://www.xinhuanet.com/culture/20261019/c0b05a07effb46c4a9944cbe0e68e976/c.html"
+    },
+    {
+      "t": "https://news.hubeidaily.net/pc/c_6083167.html",
+      "url": "https://news.hubeidaily.net/pc/c_6083167.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34287229",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34287229"
+    },
+    {
+      "t": "https://zjnews.zjol.com.cn/zjnews/202610/t20261019_31972955.shtml?v=1.0",
+      "url": "https://zjnews.zjol.com.cn/zjnews/202610/t20261019_31972955.shtml?v=1.0"
+    },
+    {
+      "t": "https://www.xinhuanet.com/photo/20261018/6d45d7a792e24898bce15dc9eebb3750/c.html",
+      "url": "https://www.xinhuanet.com/photo/20261018/6d45d7a792e24898bce15dc9eebb3750/c.html"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/pad-london-2026-emerging-designers",
+      "url": "https://www.wallpaper.com/design-interiors/pad-london-2026-emerging-designers"
+    },
+    {
+      "t": "https://english.elpais.com/icon-design/2026-10-20/the-interior-design-trends-that-will-turn-your-house-into-a-refuge-from-the-real-world.html",
+      "url": "https://english.elpais.com/icon-design/2026-10-20/the-interior-design-trends-that-will-turn-your-house-into-a-refuge-from-the-real-world.html"
+    },
+    {
+      "t": "https://www.news.cn/culture/",
+      "url": "https://www.news.cn/culture/"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "心与“迟开”行为。",
+  "enp": "Stout seed-pod bird with exactly three broad asymmetrical crown petals, short beak, wings behind back, mineral yellow/dark olive/electric-blue center, short-plush charm.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

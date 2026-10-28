@@ -1,0 +1,58 @@
+{
+  "batch": "daily-20261024",
+  "order": 9,
+  "name": "倦肢椅",
+  "en": "daily-20261024-09",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "身体先下班，也算完成今天",
+  "origin": "屏幕时代的身体疲惫",
+  "mark": "下垂双肩椅背",
+  "biz": "毛绒挂件 / 89—119 元",
+  "complete_card": "### 09 倦肢椅 / Off-Duty Chair\n\n- **原点与转译**：Frieze 对屏幕时代身体疲惫与肢体碎片的关注；转成“椅子自己也累瘫”。\n- **表达 / 句式 / 时机**：身体先下班，也算完成今天；自嘲型；面向办公、通勤和久坐圈层。\n- **情绪与性格 / 背景**：疲惫、无攻击性、诚实；白天托住别人，晚上把自己的肩放下来。\n- **经典动作**：双臂垂地，拎着却不用的靠垫。\n- **外壳与头部**：拟物/椅子生物，2 头身；圆角椅背头＋下垂双肩瓣[反常/原创]，半垂眼[公共]，座垫为身体功能件。\n- **色彩 / 工艺**：深甜菜红短绒；雾蓝靠垫签名；全毛绒、刺绣眼、内置软板保持椅背轮廓。\n- **首品 / 价格 / 系列**：15cm 毛绒挂件，89—119 元；系列：会议后、通勤后、社交后。\n- **内容文案**：①“身体已读，不回。”②“今天托不住了。”③“靠垫带了，没力气靠。”\n- **提示词**：中文：`拟人椅子毛绒角色，深甜菜红圆角椅背头，顶部两枚不对称下垂软肩瓣，半垂眼，超长垂臂，雾蓝靠垫，全身短绒产品棚拍。` English: `Anthropomorphic plush chair creature, deep beet-red rounded chair-back head, two asymmetric drooping padded shoulder lobes, sleepy eyes, very long hanging arms, pale-blue cushion, full-body studio product render.`\n- **对标与区别**：接近蛋黄哥的疲惫自嘲；区别是直立家具轮廓、肩部下垂和“托住别人”的职业关系。\n- **设计预评**：闭眼通过；剪影通过；简笔画通过；缩小存疑（长臂需保留）；换皮通过。\n- **风险**：可能被误读成狗耳；内容与包装需明确“肩膀/椅背”，避免动物化。\n\n## 共通判断与下一步\n\n- 这 9 个方案覆盖：人/类人（01、03、06）、动物/动物类人（04、05、08）、拟物/原创生物（02、07、09）；品类覆盖 PVC、透明 PVC、搪胶毛绒、毛绒挂件。\n- 近期材料趋势证据主要来自设计展会编辑观察，不能等同于中国潮玩销量趋势；其中 03—09 更准确地说是“有近期依据的创意信号”。\n- 名称均为暂定，**未做商标与著作权近似检索**。概念图为 AI 生成的视觉评审稿，局部结构、材料表现与比例仍需工业设计校正。\n- 建议每个方向先做同版式 A/B 图测，观察记忆点复述率、收藏意向与愿付价；在任何开模前增加预约或小额定金验证，不以点赞替代付费信号。\n\n可回复：`选 07，保留问号滴冰冠和透明材质，修改眼神与配色。`\n",
+  "report": "research/daily/daily-20261024/report.txt",
+  "links": [
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34316141",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34316141"
+    },
+    {
+      "t": "https://www.news.cn/tech/20261023/a61a7a21fad04fb39f72e695e1f8b414/c.html",
+      "url": "https://www.news.cn/tech/20261023/a61a7a21fad04fb39f72e695e1f8b414/c.html"
+    },
+    {
+      "t": "https://www.china-toy-expo.com/",
+      "url": "https://www.china-toy-expo.com/"
+    },
+    {
+      "t": "https://finance.eastmoney.com/a/202610223904337987.html",
+      "url": "https://finance.eastmoney.com/a/202610223904337987.html"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/apple-designers-of-tomorrow-design-miami-paris-2026",
+      "url": "https://www.wallpaper.com/design-interiors/apple-designers-of-tomorrow-design-miami-paris-2026"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market",
+      "url": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market"
+    },
+    {
+      "t": "https://www.livingetc.com/features/frieze-week-2026-report",
+      "url": "https://www.livingetc.com/features/frieze-week-2026-report"
+    },
+    {
+      "t": "https://elpais.com/icon-design/2026-10-20/la-calidez-vuelve-a-casa-las-tendencias-que-marcan-el-interiorismo-de-esta-temporada.html",
+      "url": "https://elpais.com/icon-design/2026-10-20/la-calidez-vuelve-a-casa-las-tendencias-que-marcan-el-interiorismo-de-esta-temporada.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34264135",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34264135"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "拟人椅子毛绒角色，深甜菜红圆角椅背头，顶部两枚不对称下垂软肩瓣，半垂眼，超长垂臂，雾蓝靠垫，全身短绒产品棚拍。",
+  "enp": "Anthropomorphic plush chair creature, deep beet-red rounded chair-back head, two asymmetric drooping padded shoulder lobes, sleepy eyes, very long hanging arms, pale-blue cushion, full-body studio product render.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

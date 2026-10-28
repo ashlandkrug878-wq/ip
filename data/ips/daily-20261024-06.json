@@ -1,0 +1,58 @@
+{
+  "batch": "daily-20261024",
+  "order": 6,
+  "name": "焊点仔",
+  "en": "daily-20261024-06",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "接得不平，也不妨碍我继续成形",
+  "origin": "可见焊缝与不完美手作",
+  "mark": "银色焊线＋橙色焊点",
+  "biz": "PVC 盲盒 / 99—129 元",
+  "complete_card": "### 06 焊点仔 / Weld Dot\n\n- **原点与转译**：可见焊缝、手工缺陷成为价值；转成把“接缝”公开放在额头。\n- **表达 / 句式 / 时机**：接得不平，也不妨碍我继续成形；允许型；明确站在无瑕软萌的对面。\n- **情绪与性格 / 背景**：硬气、幽默；每次修复都多一个橙色焊点，只有一个被放在脸上当勋章。\n- **经典动作**：插袋挑眉，额头略向前。\n- **外壳与头部**：人/类人，2.2 头身；光头[反常]，银色焊线＋橙焊点[原创]，挑眉[公共]。\n- **色彩 / 工艺**：炭黑工装、陶土肤色；橙焊点签名。哑光 PVC＋银漆，不做真实伤口。\n- **首品 / 价格 / 系列**：10cm PVC，99—129 元；系列：第一次补、粗焊、返工也行。\n- **内容文案**：①“接上了，别问平不平。”②“返工不是重来。”③“这一点，焊住了。”\n- **提示词**：中文：`光头两头身类人，额顶到眉端一条夸张银色焊缝，末端单颗橙色焊点，炭黑工装，插袋挑眉，哑光PVC全身图。` English: `Bald 2.2-head-tall humanoid, bold silver weld seam from crown to eyebrow ending in one orange weld bead, charcoal workwear, hands in pockets, matte PVC full-body render.`\n- **对标与区别**：接近 SKULLPANDA 的酷感；区别是不使用头罩或骨骼，核心是制造痕迹与修复允许。\n- **设计预评**：闭眼通过；剪影存疑；简笔画通过；缩小通过；换皮通过。\n- **风险**：焊缝可能被误读为伤疤；需保持金属凸点与工业语境。\n\n",
+  "report": "research/daily/daily-20261024/report.txt",
+  "links": [
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34316141",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34316141"
+    },
+    {
+      "t": "https://www.news.cn/tech/20261023/a61a7a21fad04fb39f72e695e1f8b414/c.html",
+      "url": "https://www.news.cn/tech/20261023/a61a7a21fad04fb39f72e695e1f8b414/c.html"
+    },
+    {
+      "t": "https://www.china-toy-expo.com/",
+      "url": "https://www.china-toy-expo.com/"
+    },
+    {
+      "t": "https://finance.eastmoney.com/a/202610223904337987.html",
+      "url": "https://finance.eastmoney.com/a/202610223904337987.html"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/apple-designers-of-tomorrow-design-miami-paris-2026",
+      "url": "https://www.wallpaper.com/design-interiors/apple-designers-of-tomorrow-design-miami-paris-2026"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market",
+      "url": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market"
+    },
+    {
+      "t": "https://www.livingetc.com/features/frieze-week-2026-report",
+      "url": "https://www.livingetc.com/features/frieze-week-2026-report"
+    },
+    {
+      "t": "https://elpais.com/icon-design/2026-10-20/la-calidez-vuelve-a-casa-las-tendencias-que-marcan-el-interiorismo-de-esta-temporada.html",
+      "url": "https://elpais.com/icon-design/2026-10-20/la-calidez-vuelve-a-casa-las-tendencias-que-marcan-el-interiorismo-de-esta-temporada.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34264135",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34264135"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "光头两头身类人，额顶到眉端一条夸张银色焊缝，末端单颗橙色焊点，炭黑工装，插袋挑眉，哑光PVC全身图。",
+  "enp": "Bald 2.2-head-tall humanoid, bold silver weld seam from crown to eyebrow ending in one orange weld bead, charcoal workwear, hands in pockets, matte PVC full-body render.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

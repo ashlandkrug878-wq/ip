@@ -1,0 +1,74 @@
+{
+  "batch": "daily-20261021",
+  "order": 1,
+  "name": "同檐",
+  "en": "daily-20261021-01",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "我们不必同龄，也能互相接住。",
+  "origin": "代际共居",
+  "mark": "双坡屋檐发＋琥珀窗夹",
+  "biz": "PVC盲盒",
+  "complete_card": "01 同檐 / TONGYAN\n类人\n反差型\n推荐\n原点及来源：\n年轻人以陪伴服务换取养老机构住宿的“代际共居”。新华网与中国青年报/中新网均于2026-10-20报道，属近期双源信号。\n表达：\n我们不必同龄，也能互相接住。\n情绪/性格/背景：\n克制、可靠、会听；住在一座每天交换技能的房子里，左袖学会旧针法，右袖教会视频通话。\n经典动作：\n把两只不同针法的袖口轻轻搭在一起。\n外壳与头部：\n2.2头身、短宽中性类人；双坡屋檐发[反常]、琥珀窗夹[专属]，其余五官减法。\n色/工艺：\n石墨灰＋暖象牙，签名琥珀橙；哑光PVC，针织纹仅作浮雕。\n首品/假设价：\n8–10cm PVC盲盒，69–99元。\n系列：\n交换技能 / 同桌晚饭 / 雨天接送。\n文案：\n“今天我教你慢一点。” “屋檐不问年龄。” “你讲过去，我修明天。”\n最接近：\n人形收藏玩具；区别在“双龄同体＋关系动作”，不靠大眼/嘟嘴。\n风险：\n双拼若处理不当会像概念服装；需真人确认是否感到年龄刻板化。\n五项设计预评（未真人验证）：\n闭眼通过—双坡屋檐；剪影通过—双色坡发；简笔画存疑—窗夹可能被省略；缩小通过—黑白分区仍清楚；换皮通过—双坡发与双袖关系不变。\n中文提示：\n中性类人，2.2头身，双坡屋檐发、琥珀窗夹、两种针织袖口相搭，石墨灰/象牙/琥珀橙，哑光PVC盲盒，全身棚拍。\nEnglish:\nGender-neutral 2.2-head chibi, double roof-eave hair, amber window clip, mismatched knitted cuffs touching, graphite/ivory/amber matte PVC collectible, full-body studio product shot.",
+  "report": "research/daily/daily-20261021/report.txt",
+  "links": [
+    {
+      "t": "https://www.news.cn/politics/20261020/164f6bb7dfa04919adc527eeb66c630f/c.html",
+      "url": "https://www.news.cn/politics/20261020/164f6bb7dfa04919adc527eeb66c630f/c.html"
+    },
+    {
+      "t": "https://www.chinanews.com/sh/2026/10-20/10717558.shtml",
+      "url": "https://www.chinanews.com/sh/2026/10-20/10717558.shtml"
+    },
+    {
+      "t": "https://sh.news.cn/20261020/d82f583825b04782b966cfa4eb7edb0d/c.html",
+      "url": "https://sh.news.cn/20261020/d82f583825b04782b966cfa4eb7edb0d/c.html"
+    },
+    {
+      "t": "https://www.cnu.com.cn/hotnews/202610/298408.html",
+      "url": "https://www.cnu.com.cn/hotnews/202610/298408.html"
+    },
+    {
+      "t": "https://www.moganshan.saihuitong.com/events?mid=72300",
+      "url": "https://www.moganshan.saihuitong.com/events?mid=72300"
+    },
+    {
+      "t": "https://www.xinhuanet.com/culture/20261019/c0b05a07effb46c4a9944cbe0e68e976/c.html",
+      "url": "https://www.xinhuanet.com/culture/20261019/c0b05a07effb46c4a9944cbe0e68e976/c.html"
+    },
+    {
+      "t": "https://news.hubeidaily.net/pc/c_6083167.html",
+      "url": "https://news.hubeidaily.net/pc/c_6083167.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34287229",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34287229"
+    },
+    {
+      "t": "https://zjnews.zjol.com.cn/zjnews/202610/t20261019_31972955.shtml?v=1.0",
+      "url": "https://zjnews.zjol.com.cn/zjnews/202610/t20261019_31972955.shtml?v=1.0"
+    },
+    {
+      "t": "https://www.xinhuanet.com/photo/20261018/6d45d7a792e24898bce15dc9eebb3750/c.html",
+      "url": "https://www.xinhuanet.com/photo/20261018/6d45d7a792e24898bce15dc9eebb3750/c.html"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/pad-london-2026-emerging-designers",
+      "url": "https://www.wallpaper.com/design-interiors/pad-london-2026-emerging-designers"
+    },
+    {
+      "t": "https://english.elpais.com/icon-design/2026-10-20/the-interior-design-trends-that-will-turn-your-house-into-a-refuge-from-the-real-world.html",
+      "url": "https://english.elpais.com/icon-design/2026-10-20/the-interior-design-trends-that-will-turn-your-house-into-a-refuge-from-the-real-world.html"
+    },
+    {
+      "t": "https://www.news.cn/culture/",
+      "url": "https://www.news.cn/culture/"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "国青年报/中新网均于2026-10-20报道，属近期双源信号。",
+  "enp": "Gender-neutral 2.2-head chibi, double roof-eave hair, amber window clip, mismatched knitted cuffs touching, graphite/ivory/amber matte PVC collectible, full-body studio product shot.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

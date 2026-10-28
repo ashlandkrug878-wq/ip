@@ -1,0 +1,54 @@
+{
+  "batch": "daily-20261026",
+  "order": 4,
+  "name": "皱幕怪",
+  "en": "daily-20261026-04",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "被揉皱，也不等于撤回",
+  "origin": "揉皱画布与公共表达",
+  "mark": "方形皱幕头＋橙折痕",
+  "biz": "PVC / ¥79–99",
+  "complete_card": "### 04 皱幕怪\n- **来源/表达/句式**：Art Basel Paris近期出现揉皱画布与抗议表达；“被揉皱，也不等于撤回”｜反差型。\n- **性格背景/动作**：倔强、直白；把被否定的话重新撑开；双臂拉住画布两角。\n- **外壳头部**：怪兽精灵2头身；方形皱幕头[反常]＋单道橙折痕。\n- **颜色工艺产品**：米白＋雾紫，签名亮橙；硬PVC布纹，9cm，¥79–99。\n- **系列**：撤稿 / 退场 / 再展开。**文案**：皱了，没撤 / 这句我还留着 / 别替我抚平。\n- **近似区别**：不靠尖牙怪趣，整张皱幕就是面部与表达。\n- **设计预评**：五项均通过。\n- **风险**：四角结构可能锋利；需大圆角，折痕只保留一条。\n- **提示词**：中：方形皱画布头怪兽，单道橙色斜折痕，双手撑开，硬PVC。EN: Original creature with a crumpled square canvas head, one orange diagonal crease, stretching itself open.\n\n",
+  "report": "research/daily/daily-20261026/report.txt",
+  "links": [
+    {
+      "t": "https://www.wallpaper.com/design-interiors/design-events/dutch-design-week-2026",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/dutch-design-week-2026"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market",
+      "url": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/design-events/best-of-design-miami-paris-2026",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/best-of-design-miami-paris-2026"
+    },
+    {
+      "t": "https://www.lemonde.fr/en/culture/article/2026/10/22/at-art-basel-paris-social-tensions-fail-to-deter-international-collectors-from-turning-out-in-force_6761482_30.html",
+      "url": "https://www.lemonde.fr/en/culture/article/2026/10/22/at-art-basel-paris-social-tensions-fail-to-deter-international-collectors-from-turning-out-in-force_6761482_30.html"
+    },
+    {
+      "t": "https://cade.bauchina.com/Discover",
+      "url": "https://cade.bauchina.com/Discover"
+    },
+    {
+      "t": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html",
+      "url": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html"
+    },
+    {
+      "t": "https://fddi.fudan.edu.cn/a7/ea/c19047a763882/page.htm",
+      "url": "https://fddi.fudan.edu.cn/a7/ea/c19047a763882/page.htm"
+    },
+    {
+      "t": "https://www.accenture.cn/content/dam/accenture/final/accenture-com/document-fy26/q3/The-certainty-economy-Chinas-Gen-Z-CN-Accenture-Chinese-Consumer-Insights.pdf",
+      "url": "https://www.accenture.cn/content/dam/accenture/final/accenture-com/document-fy26/q3/The-certainty-economy-Chinas-Gen-Z-CN-Accenture-Chinese-Consumer-Insights.pdf"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "方形皱画布头怪兽，单道橙色斜折痕，双手撑开，硬PVC。EN: Original creature with a crumpled square canvas head, one orange diagonal crease, stretching itself open.",
+  "enp": "Original creature with a crumpled square canvas head, one orange diagonal crease, stretching itself open.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

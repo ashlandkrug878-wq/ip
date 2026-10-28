@@ -1,0 +1,58 @@
+{
+  "batch": "daily-20261024",
+  "order": 8,
+  "name": "拼壳鲎",
+  "en": "daily-20261024-08",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "补丁不是遮丑，是我活过的接口",
+  "origin": "破裂、修补、再使用",
+  "mark": "缝合修补甲片",
+  "biz": "PVC 盲盒 / 99—129 元",
+  "complete_card": "### 08 拼壳鲎 / Patchshoe\n\n- **原点与转译**：破裂家具、补丁和再利用；转成把修补板缝在古老甲壳上的鲎。\n- **表达 / 句式 / 时机**：补丁不是遮丑，是我活过的接口；反差型；非典型动物＋硬壳，远离猫狗兔熊。\n- **情绪与性格 / 背景**：警觉、长情；每次退潮都把丢失的壳片换成不同颜色的补片。\n- **经典动作**：用尾刺当手杖，壳沿压低看人。\n- **外壳与头部**：动物类人/鲎，1.6 头身宽盾形；薄荷绿修补甲片＋三枚大缝钉[原创]，眼藏壳沿下。\n- **色彩 / 工艺**：赤陶主色，薄荷绿签名，奶油缝钉；硬 PVC，修补片独立浅浮雕。\n- **首品 / 价格 / 系列**：9cm PVC，99—129 元；系列：退潮补、城市铁皮补、夜光海玻璃补。\n- **内容文案**：①“这不是裂，是接口。”②“旧壳也能继续上岸。”③“补过，所以更知道哪里要护住。”\n- **提示词**：中文：`直立鲎角色，宽盾形赤陶硬壳，壳顶一块薄荷绿修补甲片，以三枚奶油大缝钉连接，小眼藏在壳沿，尾刺作手杖，哑光PVC全身图。` English: `Anthropomorphic horseshoe crab with wide terracotta shield shell, one mint repair plate joined by three oversized cream stitches, tiny eyes under rim, tail used as walking cane, matte PVC full-body product render.`\n- **对标与区别**：接近 LABUBU 的怪趣收藏性；区别是无牙无尖耳，以鲎盾形、修补甲片和低重心识别。\n- **设计预评**：闭眼通过；剪影通过；简笔画通过；缩小通过；换皮通过。\n- **风险**：鲎真实形态可能引起甲壳虫联想；需维持圆角盾面和低细节腹部。\n\n",
+  "report": "research/daily/daily-20261024/report.txt",
+  "links": [
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34316141",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34316141"
+    },
+    {
+      "t": "https://www.news.cn/tech/20261023/a61a7a21fad04fb39f72e695e1f8b414/c.html",
+      "url": "https://www.news.cn/tech/20261023/a61a7a21fad04fb39f72e695e1f8b414/c.html"
+    },
+    {
+      "t": "https://www.china-toy-expo.com/",
+      "url": "https://www.china-toy-expo.com/"
+    },
+    {
+      "t": "https://finance.eastmoney.com/a/202610223904337987.html",
+      "url": "https://finance.eastmoney.com/a/202610223904337987.html"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/apple-designers-of-tomorrow-design-miami-paris-2026",
+      "url": "https://www.wallpaper.com/design-interiors/apple-designers-of-tomorrow-design-miami-paris-2026"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market",
+      "url": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market"
+    },
+    {
+      "t": "https://www.livingetc.com/features/frieze-week-2026-report",
+      "url": "https://www.livingetc.com/features/frieze-week-2026-report"
+    },
+    {
+      "t": "https://elpais.com/icon-design/2026-10-20/la-calidez-vuelve-a-casa-las-tendencias-que-marcan-el-interiorismo-de-esta-temporada.html",
+      "url": "https://elpais.com/icon-design/2026-10-20/la-calidez-vuelve-a-casa-las-tendencias-que-marcan-el-interiorismo-de-esta-temporada.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34264135",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34264135"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "直立鲎角色，宽盾形赤陶硬壳，壳顶一块薄荷绿修补甲片，以三枚奶油大缝钉连接，小眼藏在壳沿，尾刺作手杖，哑光PVC全身图。",
+  "enp": "Anthropomorphic horseshoe crab with wide terracotta shield shell, one mint repair plate joined by three oversized cream stitches, tiny eyes under rim, tail used as walking cane, matte PVC full-body product render.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

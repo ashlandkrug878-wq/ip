@@ -1,0 +1,54 @@
+{
+  "batch": "daily-20261026",
+  "order": 8,
+  "name": "漂纤兽",
+  "en": "daily-20261026-08",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "换一片土地，不等于拔掉来处",
+  "origin": "纤维传统迁移与扎根",
+  "mark": "跨头纤维桥冠",
+  "biz": "搪胶毛绒 / ¥99–129",
+  "complete_card": "### 08 漂纤兽\n- **来源/表达/句式**：10月纤维展讨论传统迁移与扎根；“换一片土地，不等于拔掉来处”｜允许型。\n- **性格背景/动作**：坚韧、寡言；把旧土颜色带到新地方重新扎根；握住根线。\n- **外壳头部**：原创生物1.7头身；跨头纤维桥冠[反常]，窄眼，梨形身体。\n- **颜色工艺产品**：土红→海蓝，米白底；搪胶脸粗纤维身，12cm，¥99–129。\n- **系列**：越海 / 换土 / 新根。**文案**：我只是换土 / 根还在手里 / 走远了，也没丢来处。\n- **近似区别**：不做动物头套或云发，纤维桥有明确迁移方向。\n- **设计预评**：闭眼、剪影、换皮通过；简笔画存疑；缩小存疑。\n- **风险**：现图像羊，且冠过细乱；下一版去耳、把纤维桥简化成三股粗绳。\n- **提示词**：中：无动物耳原创梨形生物，头顶三股粗纤维桥从土红过渡到海蓝。EN: Original earless pear-shaped creature with a three-strand fibre bridge transitioning from earth red to ocean blue.\n\n",
+  "report": "research/daily/daily-20261026/report.txt",
+  "links": [
+    {
+      "t": "https://www.wallpaper.com/design-interiors/design-events/dutch-design-week-2026",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/dutch-design-week-2026"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market",
+      "url": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/design-events/best-of-design-miami-paris-2026",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/best-of-design-miami-paris-2026"
+    },
+    {
+      "t": "https://www.lemonde.fr/en/culture/article/2026/10/22/at-art-basel-paris-social-tensions-fail-to-deter-international-collectors-from-turning-out-in-force_6761482_30.html",
+      "url": "https://www.lemonde.fr/en/culture/article/2026/10/22/at-art-basel-paris-social-tensions-fail-to-deter-international-collectors-from-turning-out-in-force_6761482_30.html"
+    },
+    {
+      "t": "https://cade.bauchina.com/Discover",
+      "url": "https://cade.bauchina.com/Discover"
+    },
+    {
+      "t": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html",
+      "url": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html"
+    },
+    {
+      "t": "https://fddi.fudan.edu.cn/a7/ea/c19047a763882/page.htm",
+      "url": "https://fddi.fudan.edu.cn/a7/ea/c19047a763882/page.htm"
+    },
+    {
+      "t": "https://www.accenture.cn/content/dam/accenture/final/accenture-com/document-fy26/q3/The-certainty-economy-Chinas-Gen-Z-CN-Accenture-Chinese-Consumer-Insights.pdf",
+      "url": "https://www.accenture.cn/content/dam/accenture/final/accenture-com/document-fy26/q3/The-certainty-economy-Chinas-Gen-Z-CN-Accenture-Chinese-Consumer-Insights.pdf"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "无动物耳原创梨形生物，头顶三股粗纤维桥从土红过渡到海蓝。EN: Original earless pear-shaped creature with a three-strand fibre bridge transitioning from earth red to ocean blue.",
+  "enp": "Original earless pear-shaped creature with a three-strand fibre bridge transitioning from earth red to ocean blue.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

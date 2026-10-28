@@ -1,0 +1,74 @@
+{
+  "batch": "daily-20261021",
+  "order": 6,
+  "name": "固气",
+  "en": "daily-20261021-06",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "看起来快破了，其实我已经定型。",
+  "origin": "气球被固化",
+  "mark": "橙色气阀结",
+  "biz": "透明果冻PVC",
+  "complete_card": "06 固气 / GUQI\n原创生物\n反差型\n推荐\n原点：\nPAD London新锐收藏设计报道中的环氧树脂涂层气球家具，强调“脆弱外观/坚固实体”；2026-10-14海外创意信号。\n表达：\n看起来快破了，其实我已经定型。\n性格/背景：\n疲惫脸、抗压强；把别人以为的脆弱冻成自己的外壳。\n动作：\n慢慢飘起一只脚。\n头部：\n整体即头身，单个皱褶气阀结[专属]，半垂眼放大，去掉嘴。\n色/工艺：\n烟紫透明体，签名酸橙阀；透明果冻PVC/软胶，首版需做黄变测试。\n首品/价：\n8cm透明PVC盲盒，79–119元。\n系列：\n憋住 / 放一点 / 定型。\n文案：\n“别戳，我很稳定。” “气还在，人已定型。” “看着软，立得住。”\n撞车：\n接近团子拟物；区别在可识别气阀结与“软外观/硬实体”材料叙事。\n风险：\n透明料成本、气泡、黄变；需先做材料样片，不把概念图当量产结论。\n设计预评：\n闭眼通过；剪影通过；简笔画通过；缩小通过；换皮通过—阀结仍是ID。\n中文提示：\n透明烟紫气球生物，单个橙色皱褶气阀结，半垂眼，小垂手脚，果冻透明PVC，全身棚拍。\nEnglish:\nTransparent smoky-lavender balloon creature, single orange puckered valve-knot crown, half-lidded eyes, tiny drooping limbs, jelly-clear PVC collectible.",
+  "report": "research/daily/daily-20261021/report.txt",
+  "links": [
+    {
+      "t": "https://www.news.cn/politics/20261020/164f6bb7dfa04919adc527eeb66c630f/c.html",
+      "url": "https://www.news.cn/politics/20261020/164f6bb7dfa04919adc527eeb66c630f/c.html"
+    },
+    {
+      "t": "https://www.chinanews.com/sh/2026/10-20/10717558.shtml",
+      "url": "https://www.chinanews.com/sh/2026/10-20/10717558.shtml"
+    },
+    {
+      "t": "https://sh.news.cn/20261020/d82f583825b04782b966cfa4eb7edb0d/c.html",
+      "url": "https://sh.news.cn/20261020/d82f583825b04782b966cfa4eb7edb0d/c.html"
+    },
+    {
+      "t": "https://www.cnu.com.cn/hotnews/202610/298408.html",
+      "url": "https://www.cnu.com.cn/hotnews/202610/298408.html"
+    },
+    {
+      "t": "https://www.moganshan.saihuitong.com/events?mid=72300",
+      "url": "https://www.moganshan.saihuitong.com/events?mid=72300"
+    },
+    {
+      "t": "https://www.xinhuanet.com/culture/20261019/c0b05a07effb46c4a9944cbe0e68e976/c.html",
+      "url": "https://www.xinhuanet.com/culture/20261019/c0b05a07effb46c4a9944cbe0e68e976/c.html"
+    },
+    {
+      "t": "https://news.hubeidaily.net/pc/c_6083167.html",
+      "url": "https://news.hubeidaily.net/pc/c_6083167.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34287229",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34287229"
+    },
+    {
+      "t": "https://zjnews.zjol.com.cn/zjnews/202610/t20261019_31972955.shtml?v=1.0",
+      "url": "https://zjnews.zjol.com.cn/zjnews/202610/t20261019_31972955.shtml?v=1.0"
+    },
+    {
+      "t": "https://www.xinhuanet.com/photo/20261018/6d45d7a792e24898bce15dc9eebb3750/c.html",
+      "url": "https://www.xinhuanet.com/photo/20261018/6d45d7a792e24898bce15dc9eebb3750/c.html"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/pad-london-2026-emerging-designers",
+      "url": "https://www.wallpaper.com/design-interiors/pad-london-2026-emerging-designers"
+    },
+    {
+      "t": "https://english.elpais.com/icon-design/2026-10-20/the-interior-design-trends-that-will-turn-your-house-into-a-refuge-from-the-real-world.html",
+      "url": "https://english.elpais.com/icon-design/2026-10-20/the-interior-design-trends-that-will-turn-your-house-into-a-refuge-from-the-real-world.html"
+    },
+    {
+      "t": "https://www.news.cn/culture/",
+      "url": "https://www.news.cn/culture/"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "的环氧树脂涂层气球家具，强调“脆弱外观/坚固实体”；2026-10-14海外创意信号。",
+  "enp": "Transparent smoky-lavender balloon creature, single orange puckered valve-knot crown, half-lidded eyes, tiny drooping limbs, jelly-clear PVC collectible.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

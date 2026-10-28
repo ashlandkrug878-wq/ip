@@ -1,0 +1,493 @@
+{
+  "imported_at": "2026-10-28",
+  "count": 81,
+  "items": [
+    {
+      "id": "daily-20261020-01",
+      "name": "折夜",
+      "date": "2026-10-20",
+      "image": "images/daily-20261020-01/base-01.webp"
+    },
+    {
+      "id": "daily-20261020-02",
+      "name": "慢巷",
+      "date": "2026-10-20",
+      "image": "images/daily-20261020-02/base-01.webp"
+    },
+    {
+      "id": "daily-20261020-03",
+      "name": "续续",
+      "date": "2026-10-20",
+      "image": "images/daily-20261020-03/base-01.webp"
+    },
+    {
+      "id": "daily-20261020-04",
+      "name": "候候",
+      "date": "2026-10-20",
+      "image": "images/daily-20261020-04/base-01.webp"
+    },
+    {
+      "id": "daily-20261020-05",
+      "name": "出圈",
+      "date": "2026-10-20",
+      "image": "images/daily-20261020-05/base-01.webp"
+    },
+    {
+      "id": "daily-20261020-06",
+      "name": "针偏",
+      "date": "2026-10-20",
+      "image": "images/daily-20261020-06/base-01.webp"
+    },
+    {
+      "id": "daily-20261020-07",
+      "name": "留坯",
+      "date": "2026-10-20",
+      "image": "images/daily-20261020-07/base-01.webp"
+    },
+    {
+      "id": "daily-20261020-08",
+      "name": "借光",
+      "date": "2026-10-20",
+      "image": "images/daily-20261020-08/base-01.webp"
+    },
+    {
+      "id": "daily-20261020-09",
+      "name": "叶慢",
+      "date": "2026-10-20",
+      "image": "images/daily-20261020-09/base-01.webp"
+    },
+    {
+      "id": "daily-20261021-01",
+      "name": "同檐",
+      "date": "2026-10-21",
+      "image": "images/daily-20261021-01/base-01.webp"
+    },
+    {
+      "id": "daily-20261021-02",
+      "name": "影脊",
+      "date": "2026-10-21",
+      "image": "images/daily-20261021-02/base-01.webp"
+    },
+    {
+      "id": "daily-20261021-03",
+      "name": "绵劲",
+      "date": "2026-10-21",
+      "image": "images/daily-20261021-03/base-01.webp"
+    },
+    {
+      "id": "daily-20261021-04",
+      "name": "不标准",
+      "date": "2026-10-21",
+      "image": "images/daily-20261021-04/base-01.webp"
+    },
+    {
+      "id": "daily-20261021-05",
+      "name": "层层",
+      "date": "2026-10-21",
+      "image": "images/daily-20261021-05/base-01.webp"
+    },
+    {
+      "id": "daily-20261021-06",
+      "name": "固气",
+      "date": "2026-10-21",
+      "image": "images/daily-20261021-06/base-01.webp"
+    },
+    {
+      "id": "daily-20261021-07",
+      "name": "一片甲",
+      "date": "2026-10-21",
+      "image": "images/daily-20261021-07/base-01.webp"
+    },
+    {
+      "id": "daily-20261021-08",
+      "name": "留隙",
+      "date": "2026-10-21",
+      "image": "images/daily-20261021-08/base-01.webp"
+    },
+    {
+      "id": "daily-20261021-09",
+      "name": "晚开",
+      "date": "2026-10-21",
+      "image": "images/daily-20261021-09/base-01.webp"
+    },
+    {
+      "id": "daily-20261022-01",
+      "name": "闻闻间",
+      "date": "2026-10-22",
+      "image": "images/daily-20261022-01/base-01.webp"
+    },
+    {
+      "id": "daily-20261022-02",
+      "name": "错色",
+      "date": "2026-10-22",
+      "image": "images/daily-20261022-02/base-01.webp"
+    },
+    {
+      "id": "daily-20261022-03",
+      "name": "接接",
+      "date": "2026-10-22",
+      "image": "images/daily-20261022-03/base-01.webp"
+    },
+    {
+      "id": "daily-20261022-04",
+      "name": "坐醒",
+      "date": "2026-10-22",
+      "image": "images/daily-20261022-04/base-01.webp"
+    },
+    {
+      "id": "daily-20261022-05",
+      "name": "短短",
+      "date": "2026-10-22",
+      "image": "images/daily-20261022-05/base-01.webp"
+    },
+    {
+      "id": "daily-20261022-06",
+      "name": "养痕",
+      "date": "2026-10-22",
+      "image": "images/daily-20261022-06/base-01.webp"
+    },
+    {
+      "id": "daily-20261022-07",
+      "name": "成束",
+      "date": "2026-10-22",
+      "image": "images/daily-20261022-07/base-01.webp"
+    },
+    {
+      "id": "daily-20261022-08",
+      "name": "波波停",
+      "date": "2026-10-22",
+      "image": "images/daily-20261022-08/base-01.webp"
+    },
+    {
+      "id": "daily-20261022-09",
+      "name": "粉潮",
+      "date": "2026-10-22",
+      "image": "images/daily-20261022-09/base-01.webp"
+    },
+    {
+      "id": "daily-20261023-01",
+      "name": "霜边仔",
+      "date": "2026-10-23",
+      "image": "images/daily-20261023-01/base-01.webp"
+    },
+    {
+      "id": "daily-20261023-02",
+      "name": "日常丁",
+      "date": "2026-10-23",
+      "image": "images/daily-20261023-02/base-01.webp"
+    },
+    {
+      "id": "daily-20261023-03",
+      "name": "水吨吨",
+      "date": "2026-10-23",
+      "image": "images/daily-20261023-03/base-01.webp"
+    },
+    {
+      "id": "daily-20261023-04",
+      "name": "丝扣",
+      "date": "2026-10-23",
+      "image": "images/daily-20261023-04/base-01.webp"
+    },
+    {
+      "id": "daily-20261023-05",
+      "name": "橙壳",
+      "date": "2026-10-23",
+      "image": "images/daily-20261023-05/base-01.webp"
+    },
+    {
+      "id": "daily-20261023-06",
+      "name": "固泡",
+      "date": "2026-10-23",
+      "image": "images/daily-20261023-06/base-01.webp"
+    },
+    {
+      "id": "daily-20261023-07",
+      "name": "伪木兽",
+      "date": "2026-10-23",
+      "image": "images/daily-20261023-07/base-01.webp"
+    },
+    {
+      "id": "daily-20261023-08",
+      "name": "乱绒",
+      "date": "2026-10-23",
+      "image": "images/daily-20261023-08/base-01.webp"
+    },
+    {
+      "id": "daily-20261023-09",
+      "name": "融冻",
+      "date": "2026-10-23",
+      "image": "images/daily-20261023-09/base-01.webp"
+    },
+    {
+      "id": "daily-20261024-01",
+      "name": "参谋钮",
+      "date": "2026-10-24",
+      "image": "images/daily-20261024-01/base-01.webp"
+    },
+    {
+      "id": "daily-20261024-02",
+      "name": "玩钉兽",
+      "date": "2026-10-24",
+      "image": "images/daily-20261024-02/base-01.webp"
+    },
+    {
+      "id": "daily-20261024-03",
+      "name": "静响偶",
+      "date": "2026-10-24",
+      "image": "images/daily-20261024-03/base-01.webp"
+    },
+    {
+      "id": "daily-20261024-04",
+      "name": "木涡鼹",
+      "date": "2026-10-24",
+      "image": "images/daily-20261024-04/base-01.webp"
+    },
+    {
+      "id": "daily-20261024-05",
+      "name": "金箔螺",
+      "date": "2026-10-24",
+      "image": "images/daily-20261024-05/base-01.webp"
+    },
+    {
+      "id": "daily-20261024-06",
+      "name": "焊点仔",
+      "date": "2026-10-24",
+      "image": "images/daily-20261024-06/base-01.webp"
+    },
+    {
+      "id": "daily-20261024-07",
+      "name": "化冰怪",
+      "date": "2026-10-24",
+      "image": "images/daily-20261024-07/base-01.webp"
+    },
+    {
+      "id": "daily-20261024-08",
+      "name": "拼壳鲎",
+      "date": "2026-10-24",
+      "image": "images/daily-20261024-08/base-01.webp"
+    },
+    {
+      "id": "daily-20261024-09",
+      "name": "倦肢椅",
+      "date": "2026-10-24",
+      "image": "images/daily-20261024-09/base-01.webp"
+    },
+    {
+      "id": "daily-20261025-01",
+      "name": "纬停",
+      "date": "2026-10-25",
+      "image": "images/daily-20261025-01/base-01.webp"
+    },
+    {
+      "id": "daily-20261025-02",
+      "name": "铜名兽",
+      "date": "2026-10-25",
+      "image": "images/daily-20261025-02/base-01.webp"
+    },
+    {
+      "id": "daily-20261025-03",
+      "name": "侧镜客",
+      "date": "2026-10-25",
+      "image": "images/daily-20261025-03/base-01.webp"
+    },
+    {
+      "id": "daily-20261025-04",
+      "name": "潮生团",
+      "date": "2026-10-25",
+      "image": "images/daily-20261025-04/base-01.webp"
+    },
+    {
+      "id": "daily-20261025-05",
+      "name": "旧厂雀",
+      "date": "2026-10-25",
+      "image": "images/daily-20261025-05/base-01.webp"
+    },
+    {
+      "id": "daily-20261025-06",
+      "name": "绸蚕",
+      "date": "2026-10-25",
+      "image": "images/daily-20261025-06/base-01.webp"
+    },
+    {
+      "id": "daily-20261025-07",
+      "name": "火口盏",
+      "date": "2026-10-25",
+      "image": "images/daily-20261025-07/base-01.webp"
+    },
+    {
+      "id": "daily-20261025-08",
+      "name": "夜橙蛾",
+      "date": "2026-10-25",
+      "image": "images/daily-20261025-08/base-01.webp"
+    },
+    {
+      "id": "daily-20261025-09",
+      "name": "藤步",
+      "date": "2026-10-25",
+      "image": "images/daily-20261025-09/base-01.webp"
+    },
+    {
+      "id": "daily-20261026-01",
+      "name": "省算仔",
+      "date": "2026-10-26",
+      "image": "images/daily-20261026-01/base-01.webp"
+    },
+    {
+      "id": "daily-20261026-02",
+      "name": "断讯鼹",
+      "date": "2026-10-26",
+      "image": "images/daily-20261026-02/base-01.webp"
+    },
+    {
+      "id": "daily-20261026-03",
+      "name": "圈座团",
+      "date": "2026-10-26",
+      "image": "images/daily-20261026-03/base-01.webp"
+    },
+    {
+      "id": "daily-20261026-04",
+      "name": "皱幕怪",
+      "date": "2026-10-26",
+      "image": "images/daily-20261026-04/base-01.webp"
+    },
+    {
+      "id": "daily-20261026-05",
+      "name": "叠声人",
+      "date": "2026-10-26",
+      "image": "images/daily-20261026-05/base-01.webp"
+    },
+    {
+      "id": "daily-20261026-06",
+      "name": "光鬃獾",
+      "date": "2026-10-26",
+      "image": "images/daily-20261026-06/base-01.webp"
+    },
+    {
+      "id": "daily-20261026-07",
+      "name": "算椅",
+      "date": "2026-10-26",
+      "image": "images/daily-20261026-07/base-01.webp"
+    },
+    {
+      "id": "daily-20261026-08",
+      "name": "漂纤兽",
+      "date": "2026-10-26",
+      "image": "images/daily-20261026-08/base-01.webp"
+    },
+    {
+      "id": "daily-20261026-09",
+      "name": "锚睡鱼",
+      "date": "2026-10-26",
+      "image": "images/daily-20261026-09/base-01.webp"
+    },
+    {
+      "id": "daily-20261027-01",
+      "name": "隐光客",
+      "date": "2026-10-27",
+      "image": "images/daily-20261027-01/base-01.webp"
+    },
+    {
+      "id": "daily-20261027-02",
+      "name": "入戏签",
+      "date": "2026-10-27",
+      "image": "images/daily-20261027-02/base-01.webp"
+    },
+    {
+      "id": "daily-20261027-03",
+      "name": "攀点狸",
+      "date": "2026-10-27",
+      "image": "images/daily-20261027-03/base-01.webp"
+    },
+    {
+      "id": "daily-20261027-04",
+      "name": "暖涡獭",
+      "date": "2026-10-27",
+      "image": "images/daily-20261027-04/base-01.webp"
+    },
+    {
+      "id": "daily-20261027-05",
+      "name": "栗开兽",
+      "date": "2026-10-27",
+      "image": "images/daily-20261027-05/base-01.webp"
+    },
+    {
+      "id": "daily-20261027-06",
+      "name": "软垒堡",
+      "date": "2026-10-27",
+      "image": "images/daily-20261027-06/base-01.webp"
+    },
+    {
+      "id": "daily-20261027-07",
+      "name": "锅响怪",
+      "date": "2026-10-27",
+      "image": "images/daily-20261027-07/base-01.webp"
+    },
+    {
+      "id": "daily-20261027-08",
+      "name": "回温灵",
+      "date": "2026-10-27",
+      "image": "images/daily-20261027-08/base-01.webp"
+    },
+    {
+      "id": "daily-20261027-09",
+      "name": "压光鹭",
+      "date": "2026-10-27",
+      "image": "images/daily-20261027-09/base-01.webp"
+    },
+    {
+      "id": "daily-20261028-01",
+      "name": "借期狐",
+      "date": "2026-10-28",
+      "image": "images/daily-20261028-01/base-01.webp"
+    },
+    {
+      "id": "daily-20261028-02",
+      "name": "吞响貘",
+      "date": "2026-10-28",
+      "image": "images/daily-20261028-02/base-01.webp"
+    },
+    {
+      "id": "daily-20261028-03",
+      "name": "退场粒",
+      "date": "2026-10-28",
+      "image": "images/daily-20261028-03/base-01.webp"
+    },
+    {
+      "id": "daily-20261028-04",
+      "name": "流铬童",
+      "date": "2026-10-28",
+      "image": "images/daily-20261028-04/base-01.webp"
+    },
+    {
+      "id": "daily-20261028-05",
+      "name": "菌岸兽",
+      "date": "2026-10-28",
+      "image": "images/daily-20261028-05/base-01.webp"
+    },
+    {
+      "id": "daily-20261028-06",
+      "name": "枫迟鹿",
+      "date": "2026-10-28",
+      "image": "images/daily-20261028-06/base-01.webp"
+    },
+    {
+      "id": "daily-20261028-07",
+      "name": "空袋客",
+      "date": "2026-10-28",
+      "image": "images/daily-20261028-07/base-01.webp"
+    },
+    {
+      "id": "daily-20261028-08",
+      "name": "慢住鸬",
+      "date": "2026-10-28",
+      "image": "images/daily-20261028-08/base-01.webp"
+    },
+    {
+      "id": "daily-20261028-09",
+      "name": "认真无聊怪",
+      "date": "2026-10-28",
+      "image": "images/daily-20261028-09/base-01.webp"
+    }
+  ],
+  "note": "历史原始报告优先；聊天摘要名称有出入时未静默替换。"
+}

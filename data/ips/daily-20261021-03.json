@@ -1,0 +1,74 @@
+{
+  "batch": "daily-20261021",
+  "order": 3,
+  "name": "绵劲",
+  "en": "daily-20261021-03",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "我不硬碰，也能把世界推开一点。",
+  "origin": "太极与“软力”",
+  "mark": "逗号双角形成圆形留白",
+  "biz": "PVC盲盒",
+  "complete_card": "03 绵劲 / MIANJIN\n原创生物\n反差型\n推荐\n原点：\n2026国际武当太极文化节于10月17—19举行，创意市集与全民推广提供近期活动信号。\n表达：\n我不硬碰，也能把世界推开一点。\n性格/背景：\n慢、坚定、不争先；身体会在压力来时弯成弧，再把力送回地面。\n动作：\n一掌推出，另一拳收腰。\n外壳/头：\n1.7头身圆重生物；两枚逗号角围成圆形负空间[专属]，豆眼和直线嘴做减法。\n色/工艺：\n米白＋墨黑，签名朱砂点；哑光PVC，可见刷痕。\n首品/价：\n9cm PVC盲盒，59–89元。\n系列：\n借力 / 化力 / 定步。\n文案：\n“不顶，照样站住。” “把急事先画个圆。” “软不是退。”\n撞车：\n不使用熊猫、头罩或阴阳图；区别在双逗号角的整体剪影与动作语义。\n风险：\n黑白容易被误读为传统符号直译；需测试更中性的矿物配色。\n设计预评：\n闭眼通过—圆孔角；剪影通过；简笔画通过；缩小通过；换皮通过。\n中文提示：\n圆重原创生物，双逗号头角围成圆孔，一掌推一拳收，墨黑米白朱砂点，粗哑光PVC，全身棚拍。\nEnglish:\nRound weighted original creature, two comma-shaped head lobes forming a circular void, one palm pushing, ink black/rice white/cinnabar dot, rough matte PVC collectible.",
+  "report": "research/daily/daily-20261021/report.txt",
+  "links": [
+    {
+      "t": "https://www.news.cn/politics/20261020/164f6bb7dfa04919adc527eeb66c630f/c.html",
+      "url": "https://www.news.cn/politics/20261020/164f6bb7dfa04919adc527eeb66c630f/c.html"
+    },
+    {
+      "t": "https://www.chinanews.com/sh/2026/10-20/10717558.shtml",
+      "url": "https://www.chinanews.com/sh/2026/10-20/10717558.shtml"
+    },
+    {
+      "t": "https://sh.news.cn/20261020/d82f583825b04782b966cfa4eb7edb0d/c.html",
+      "url": "https://sh.news.cn/20261020/d82f583825b04782b966cfa4eb7edb0d/c.html"
+    },
+    {
+      "t": "https://www.cnu.com.cn/hotnews/202610/298408.html",
+      "url": "https://www.cnu.com.cn/hotnews/202610/298408.html"
+    },
+    {
+      "t": "https://www.moganshan.saihuitong.com/events?mid=72300",
+      "url": "https://www.moganshan.saihuitong.com/events?mid=72300"
+    },
+    {
+      "t": "https://www.xinhuanet.com/culture/20261019/c0b05a07effb46c4a9944cbe0e68e976/c.html",
+      "url": "https://www.xinhuanet.com/culture/20261019/c0b05a07effb46c4a9944cbe0e68e976/c.html"
+    },
+    {
+      "t": "https://news.hubeidaily.net/pc/c_6083167.html",
+      "url": "https://news.hubeidaily.net/pc/c_6083167.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34287229",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34287229"
+    },
+    {
+      "t": "https://zjnews.zjol.com.cn/zjnews/202610/t20261019_31972955.shtml?v=1.0",
+      "url": "https://zjnews.zjol.com.cn/zjnews/202610/t20261019_31972955.shtml?v=1.0"
+    },
+    {
+      "t": "https://www.xinhuanet.com/photo/20261018/6d45d7a792e24898bce15dc9eebb3750/c.html",
+      "url": "https://www.xinhuanet.com/photo/20261018/6d45d7a792e24898bce15dc9eebb3750/c.html"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/pad-london-2026-emerging-designers",
+      "url": "https://www.wallpaper.com/design-interiors/pad-london-2026-emerging-designers"
+    },
+    {
+      "t": "https://english.elpais.com/icon-design/2026-10-20/the-interior-design-trends-that-will-turn-your-house-into-a-refuge-from-the-real-world.html",
+      "url": "https://english.elpais.com/icon-design/2026-10-20/the-interior-design-trends-that-will-turn-your-house-into-a-refuge-from-the-real-world.html"
+    },
+    {
+      "t": "https://www.news.cn/culture/",
+      "url": "https://www.news.cn/culture/"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "性的矿物配色。",
+  "enp": "Round weighted original creature, two comma-shaped head lobes forming a circular void, one palm pushing, ink black/rice white/cinnabar dot, rough matte PVC collectible.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

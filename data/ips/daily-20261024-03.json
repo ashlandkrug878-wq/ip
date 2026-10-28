@@ -1,0 +1,58 @@
+{
+  "batch": "daily-20261024",
+  "order": 3,
+  "name": "静响偶",
+  "en": "daily-20261024-03",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "安静不是没声音，是终于听见自己",
+  "origin": "慢下来、感官在场",
+  "mark": "不对称陶珠弧环",
+  "biz": "PVC 盲盒 / 109—139 元",
+  "complete_card": "### 03 静响偶 / Hush Beads\n\n- **原点与转译**：Design for Presence 的陶珠、手作与感官连接；转成“轻触头环才会听见细微声音”。\n- **表达 / 句式 / 时机**：安静不是没声音，是终于听见自己；允许型；切入成人收藏与感官设计细分。\n- **情绪与性格 / 背景**：克制、专注；每颗陶珠记录一次认真听完别人说话的时刻。\n- **经典动作**：闭眼轻触最靠近耳边的一颗珠。\n- **外壳与头部**：类人，2.4 头身细长；闭眼[公共]，不对称陶珠弧环[反常/原创]，脸部减法。\n- **色彩 / 工艺**：灰紫主色，乳白裂纹珠为签名；哑光 PVC＋独立 ABS 珠，首版不可活动。\n- **首品 / 价格 / 系列**：12cm PVC，109—139 元；系列：听雨、听杯沿、听停顿。\n- **内容文案**：①“我在听，慢慢说。”②“把音量调小，细节会回来。”③“今天不抢答。”\n- **提示词**：中文：`细长中性类人偶，闭眼，灰紫连体服，一侧太阳穴升起不对称陶瓷大珠弧环，哑光PVC与缎面陶珠，全身棚拍。` English: `Slender androgynous figure with closed eyes, muted plum suit, asymmetric crescent halo of imperfect ceramic beads rising from one temple, matte PVC, full-body studio render.`\n- **对标与区别**：接近 DIMOO 的梦感；区别是不使用云发，以硬质珠环、听觉动作和成人比例建立识别。\n- **设计预评**：闭眼通过；剪影通过；简笔画存疑（珠数需简化为 5 颗）；缩小存疑；换皮通过。\n- **风险**：当前概念图服装细节偏繁；量产需减到一体衣与 5 珠。\n\n",
+  "report": "research/daily/daily-20261024/report.txt",
+  "links": [
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34316141",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34316141"
+    },
+    {
+      "t": "https://www.news.cn/tech/20261023/a61a7a21fad04fb39f72e695e1f8b414/c.html",
+      "url": "https://www.news.cn/tech/20261023/a61a7a21fad04fb39f72e695e1f8b414/c.html"
+    },
+    {
+      "t": "https://www.china-toy-expo.com/",
+      "url": "https://www.china-toy-expo.com/"
+    },
+    {
+      "t": "https://finance.eastmoney.com/a/202610223904337987.html",
+      "url": "https://finance.eastmoney.com/a/202610223904337987.html"
+    },
+    {
+      "t": "https://www.wallpaper.com/design-interiors/apple-designers-of-tomorrow-design-miami-paris-2026",
+      "url": "https://www.wallpaper.com/design-interiors/apple-designers-of-tomorrow-design-miami-paris-2026"
+    },
+    {
+      "t": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market",
+      "url": "https://www.architecturaldigest.com/story/the-high-point-market-report-emerging-design-trends-from-fall-2026-market"
+    },
+    {
+      "t": "https://www.livingetc.com/features/frieze-week-2026-report",
+      "url": "https://www.livingetc.com/features/frieze-week-2026-report"
+    },
+    {
+      "t": "https://elpais.com/icon-design/2026-10-20/la-calidez-vuelve-a-casa-las-tendencias-que-marcan-el-interiorismo-de-esta-temporada.html",
+      "url": "https://elpais.com/icon-design/2026-10-20/la-calidez-vuelve-a-casa-las-tendencias-que-marcan-el-interiorismo-de-esta-temporada.html"
+    },
+    {
+      "t": "https://www.thepaper.cn/newsDetail_forward_34264135",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34264135"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "细长中性类人偶，闭眼，灰紫连体服，一侧太阳穴升起不对称陶瓷大珠弧环，哑光PVC与缎面陶珠，全身棚拍。",
+  "enp": "ce 的陶珠、手作与感官连接；转成“轻触头环才会听见细微声音”。",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

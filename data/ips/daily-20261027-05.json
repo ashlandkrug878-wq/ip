@@ -1,0 +1,66 @@
+{
+  "batch": "daily-20261027",
+  "order": 5,
+  "name": "栗开兽",
+  "en": "daily-20261027-05",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "不是裂开，是我自己打开",
+  "origin": "板栗采摘热度",
+  "mark": "三瓣栗壳机械花",
+  "biz": "PVC盲盒",
+  "complete_card": "## 05 栗开兽\n\n- **表达/句式/时机**：不是裂开，是我自己打开｜反差型｜秋季食物可爱同侧，机械开合外壳做差异。\n- **原点/来源**：板栗采摘热度同比上升；2026-10-4。\n- **情绪与性格**：外壳硬、内里果断；单人。\n- **背景/动作**：住在未成熟答案里，成熟时自己把壳推开；双手推壳。\n- **外壳与头部**：原创生物，1.6头身；三瓣大壳[反常]，宽眼距[反常]，小鼻嘴[公共]；无密集尖刺。\n- **色材/产品/价格**：栗棕、苔绿，签名柿橙壳缝；哑光硬PVC、壳内局部亮面；8cm盲盒假设79元。\n- **系列**：未熟闭壳；秋阳半开；冬藏空壳。\n- **文案**：“我自己开。”／“裂口是出口。”／“成熟不等通知。”\n- **提示词中**：原创栗形生物，头部三片宽大无尖刺壳瓣像机械花打开，栗棕苔绿橙缝，双手推壳，PVC盲盒全身。\n- **Prompt EN**：Original chestnut-inspired creature, three broad burr-shell panels opening like a mechanical flower, no dense spikes, chestnut brown/moss green/orange seams, pushing panels open.\n- **撞车**：接近拟物食物IP；区别是壳瓣开合机制和主动成长表达。\n- **五项设计预评**：闭眼通过；剪影通过；简笔画通过；缩小存疑（壳缝需加粗）；换皮通过。\n- **风险**：生成图偏标准萌兽，眼睛应缩小30%以免普通化。\n\n",
+  "report": "research/daily/daily-20261027/report.txt",
+  "links": [
+    {
+      "t": "https://finance.people.com.cn/n1/2026/1021/c1004-40819079.html",
+      "url": "https://finance.people.com.cn/n1/2026/1021/c1004-40819079.html"
+    },
+    {
+      "t": "https://finance.people.com.cn/n1/2026/1010/c1004-40811939.html",
+      "url": "https://finance.people.com.cn/n1/2026/1010/c1004-40811939.html"
+    },
+    {
+      "t": "https://www.xinhuanet.com/20261007/93d8451e877a49609e8eac0a0b7d0702/c.html",
+      "url": "https://www.xinhuanet.com/20261007/93d8451e877a49609e8eac0a0b7d0702/c.html"
+    },
+    {
+      "t": "https://www.bjnews.com.cn/detail/1791114245169372.html",
+      "url": "https://www.bjnews.com.cn/detail/1791114245169372.html"
+    },
+    {
+      "t": "https://whhlyt.hunan.gov.cn/whhlyt/cyfz/cyxm/202610/t20261023_34087494.html",
+      "url": "https://whhlyt.hunan.gov.cn/whhlyt/cyfz/cyxm/202610/t20261023_34087494.html"
+    },
+    {
+      "t": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html",
+      "url": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html"
+    },
+    {
+      "t": "https://www.shejijingsai.com/2026/10/1654771.html",
+      "url": "https://www.shejijingsai.com/2026/10/1654771.html"
+    },
+    {
+      "t": "https://www.dexerials.jp/news/2026/news26051.html",
+      "url": "https://www.dexerials.jp/news/2026/news26051.html"
+    },
+    {
+      "t": "https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/",
+      "url": "https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/"
+    },
+    {
+      "t": "https://sh.people.com.cn/n2/2026/1004/c134768-41714246.html",
+      "url": "https://sh.people.com.cn/n2/2026/1004/c134768-41714246.html"
+    },
+    {
+      "t": "https://www.suanchang.com/tags-17610.html",
+      "url": "https://www.suanchang.com/tags-17610.html"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "原创栗形生物，头部三片宽大无尖刺壳瓣像机械花打开，栗棕苔绿橙缝，双手推壳，PVC盲盒全身。",
+  "enp": "Original chestnut-inspired creature, three broad burr-shell panels opening like a mechanical flower, no dense spikes, chestnut brown/moss green/orange seams, pushing panels open.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

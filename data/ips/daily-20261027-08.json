@@ -1,0 +1,66 @@
+{
+  "batch": "daily-20261027",
+  "order": 8,
+  "name": "回温灵",
+  "en": "daily-20261027-08",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "不必火热，慢慢回温就好",
+  "origin": "柔性发热皮革",
+  "mark": "热谱椭圆额片",
+  "biz": "搪胶毛绒",
+  "complete_card": "## 08 回温灵\n\n- **表达/句式/时机**：不必火热，慢慢回温就好｜允许型｜治愈同侧，但避开笑脸与粉色。\n- **原点/来源**：柔性发热皮革入围CMF设计奖；2026-10-13；材料信号。\n- **情绪与性格**：低能量、诚实、自我照料。\n- **背景/动作**：吸收一天里没说出口的冷气，夜里从额片缓慢升温；双臂自抱。\n- **外壳与头部**：原创生物，2头身梨形；热谱椭圆额片[反常]，半垂眼[公共]，点嘴[公共]。\n- **色材/产品/价格**：深梅紫、暖沙，签名琥珀；搪胶脸＋短绒身＋硅胶皮额片（概念阶段不通电）；12cm挂件假设99元。\n- **系列**：冷启动；恒温抱抱；过热暂停。\n- **文案**：“正在回温。”／“不用立刻热烈。”／“抱住再启动。”\n- **提示词中**：深梅紫搪胶毛绒原创生物，额头柔性皮革片嵌单个酒红到琥珀热谱椭圆，半垂眼，自抱，全身。\n- **Prompt EN**：Original plum vinyl-plush creature, flexible leather forehead flap with one burgundy-to-amber thermal oval, half-lidded eyes, self-hugging pose, full body.\n- **撞车**：接近情绪团子类；区别是热谱额片、非笑脸与“回温”行为。\n- **五项设计预评**：闭眼通过；剪影存疑（额片正面强、侧面弱）；简笔画通过；缩小通过；换皮通过。\n- **风险**：若做真发热将涉及电气安全，本概念明确只用印刷渐变模拟。\n\n",
+  "report": "research/daily/daily-20261027/report.txt",
+  "links": [
+    {
+      "t": "https://finance.people.com.cn/n1/2026/1021/c1004-40819079.html",
+      "url": "https://finance.people.com.cn/n1/2026/1021/c1004-40819079.html"
+    },
+    {
+      "t": "https://finance.people.com.cn/n1/2026/1010/c1004-40811939.html",
+      "url": "https://finance.people.com.cn/n1/2026/1010/c1004-40811939.html"
+    },
+    {
+      "t": "https://www.xinhuanet.com/20261007/93d8451e877a49609e8eac0a0b7d0702/c.html",
+      "url": "https://www.xinhuanet.com/20261007/93d8451e877a49609e8eac0a0b7d0702/c.html"
+    },
+    {
+      "t": "https://www.bjnews.com.cn/detail/1791114245169372.html",
+      "url": "https://www.bjnews.com.cn/detail/1791114245169372.html"
+    },
+    {
+      "t": "https://whhlyt.hunan.gov.cn/whhlyt/cyfz/cyxm/202610/t20261023_34087494.html",
+      "url": "https://whhlyt.hunan.gov.cn/whhlyt/cyfz/cyxm/202610/t20261023_34087494.html"
+    },
+    {
+      "t": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html",
+      "url": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html"
+    },
+    {
+      "t": "https://www.shejijingsai.com/2026/10/1654771.html",
+      "url": "https://www.shejijingsai.com/2026/10/1654771.html"
+    },
+    {
+      "t": "https://www.dexerials.jp/news/2026/news26051.html",
+      "url": "https://www.dexerials.jp/news/2026/news26051.html"
+    },
+    {
+      "t": "https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/",
+      "url": "https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/"
+    },
+    {
+      "t": "https://sh.people.com.cn/n2/2026/1004/c134768-41714246.html",
+      "url": "https://sh.people.com.cn/n2/2026/1004/c134768-41714246.html"
+    },
+    {
+      "t": "https://www.suanchang.com/tags-17610.html",
+      "url": "https://www.suanchang.com/tags-17610.html"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "深梅紫搪胶毛绒原创生物，额头柔性皮革片嵌单个酒红到琥珀热谱椭圆，半垂眼，自抱，全身。",
+  "enp": "Original plum vinyl-plush creature, flexible leather forehead flap with one burgundy-to-amber thermal oval, half-lidded eyes, self-hugging pose, full body.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}

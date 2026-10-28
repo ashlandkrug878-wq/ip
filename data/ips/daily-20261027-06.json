@@ -1,0 +1,66 @@
+{
+  "batch": "daily-20261027",
+  "order": 6,
+  "name": "软垒堡",
+  "en": "daily-20261027-06",
+  "type": "每日完整概念 · 历史导入",
+  "stage": "concept",
+  "source": "daily-lab",
+  "expr": "软，也能替你挡一下",
+  "origin": "低碳沙袋城堡",
+  "mark": "城垛眉＋袋结",
+  "biz": "PVC盲盒",
+  "complete_card": "## 06 软垒堡\n\n- **表达/句式/时机**：软，也能替你挡一下｜反差型｜站在细腻软萌的对面，做笨重保护感。\n- **原点/来源**：低碳混凝土沙袋城堡；2026-10-20；海外灵感线索。\n- **情绪与性格**：沉稳、笨拙、护短。\n- **背景/动作**：洪水来时堆起自己，平时只是安静坐着；展开双臂挡住。\n- **外壳与头部**：拟物原创生物，两层圆沙袋；城垛眉[反常]＋单袋结[公共]，豆眼减法。\n- **色材/产品/价格**：石灰灰、签名酸绿缝线；硬PVC做软袋鼓胀与织纹；9cm盲盒假设89元。\n- **系列**：雨前堆垒；漂浮巡河；拆墙休息。\n- **文案**：“我先挡一下。”／“软不是没用。”／“这边先别漏。”\n- **提示词中**：两层圆润沙袋构成的原创堡垒生物，城垛眉、单袋结、酸绿粗缝，展开双臂，灰色哑光PVC全身。\n- **Prompt EN**：Original protective creature made of two stacked rounded sandbag modules, crenelated brow and one tied tab, gray matte PVC with lime seam, arms wide, full body.\n- **撞车**：接近画布型极简玩具；区别是沙袋功能、城垛眉和守护动作。\n- **五项设计预评**：闭眼通过；剪影通过；简笔画通过；缩小通过；换皮通过。\n- **风险**：织纹过细会提高模具与涂装负担；量产版改为三处浅压纹。\n\n",
+  "report": "research/daily/daily-20261027/report.txt",
+  "links": [
+    {
+      "t": "https://finance.people.com.cn/n1/2026/1021/c1004-40819079.html",
+      "url": "https://finance.people.com.cn/n1/2026/1021/c1004-40819079.html"
+    },
+    {
+      "t": "https://finance.people.com.cn/n1/2026/1010/c1004-40811939.html",
+      "url": "https://finance.people.com.cn/n1/2026/1010/c1004-40811939.html"
+    },
+    {
+      "t": "https://www.xinhuanet.com/20261007/93d8451e877a49609e8eac0a0b7d0702/c.html",
+      "url": "https://www.xinhuanet.com/20261007/93d8451e877a49609e8eac0a0b7d0702/c.html"
+    },
+    {
+      "t": "https://www.bjnews.com.cn/detail/1791114245169372.html",
+      "url": "https://www.bjnews.com.cn/detail/1791114245169372.html"
+    },
+    {
+      "t": "https://whhlyt.hunan.gov.cn/whhlyt/cyfz/cyxm/202610/t20261023_34087494.html",
+      "url": "https://whhlyt.hunan.gov.cn/whhlyt/cyfz/cyxm/202610/t20261023_34087494.html"
+    },
+    {
+      "t": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html",
+      "url": "https://www.film-expo.com/zh-cn/tqzh/cl-gy-sc.html"
+    },
+    {
+      "t": "https://www.shejijingsai.com/2026/10/1654771.html",
+      "url": "https://www.shejijingsai.com/2026/10/1654771.html"
+    },
+    {
+      "t": "https://www.dexerials.jp/news/2026/news26051.html",
+      "url": "https://www.dexerials.jp/news/2026/news26051.html"
+    },
+    {
+      "t": "https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/",
+      "url": "https://www.designboom.com/art/sandbag-castle-sustainable-concrete-alternatives-floating-installation-eindhoven-yvonne-mak/"
+    },
+    {
+      "t": "https://sh.people.com.cn/n2/2026/1004/c134768-41714246.html",
+      "url": "https://sh.people.com.cn/n2/2026/1004/c134768-41714246.html"
+    },
+    {
+      "t": "https://www.suanchang.com/tags-17610.html",
+      "url": "https://www.suanchang.com/tags-17610.html"
+    }
+  ],
+  "prompt_revision": 1,
+  "zh": "两层圆润沙袋构成的原创堡垒生物，城垛眉、单袋结、酸绿粗缝，展开双臂，灰色哑光PVC全身。",
+  "enp": "Original protective creature made of two stacked rounded sandbag modules, crenelated brow and one tied tab, gray matte PVC with lime seam, arms wide, full body.",
+  "imported_at": "2026-10-28",
+  "review_disclaimer": "未做商标检索；价格为假设；五项测试为设计预评。"
+}
