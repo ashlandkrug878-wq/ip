@@ -1,0 +1,137 @@
+[
+  {
+    "image_id": "V01",
+    "title": "当前官方精灵主图／本轮实测目标",
+    "original_image_url": "https://prod-server-r2.popmart.com/uploads/aKPgp5qdzlgcjDtBEXR6O7m0f3hsRYNi/soO2NbrKuU4YcZrF-1763369211-1723456932155_pucky%E5%AE%98%E7%BD%91ip%E5%B1%95%E7%A4%BA%E7%B4%A0%E4%BD%93.png",
+    "source_page_url": "https://www.popmart.com/en-GB",
+    "source_id": "P16",
+    "dimensions": [
+      1920,
+      2704
+    ],
+    "sha256": "742df96fb56cf7d85481368418ad532a318c1b85b292953d8e7cca7497f32329",
+    "observed_features": "红锥帽白绒球、棕侧发、蓝色水滴圆眼、红三角鼻及点嘴、黄波浪领、蓝梨形身与外展手掌。",
+    "visual_language": "红黄蓝块面和幼态脸并置，鼻与嘴必须分开；尖帽是当前样本。",
+    "material_and_structure": "三维宣传渲染；不以画面光泽确认实际材料。"
+  },
+  {
+    "image_id": "V02",
+    "title": "疲惫主题灰色毛绒挂件",
+    "original_image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787304415877_d5f2cf6df1909d024ffb793bbeed4e25.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/8689/pucky-closed-for-today-series-vinyl-plush-pendant-blind-box",
+    "source_id": "P08",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "c93ae38a26ab01a53be9b8810670fd7ae12549cd3557f82b105b7f21359a332e",
+    "observed_features": "灰毛外壳、蓝围巾、垂眼和小三角鼻，场景为交通工具内部。",
+    "visual_language": "外壳织毛与光滑脸形成触感反差；场景宣传不证明实际使用。",
+    "material_and_structure": "聚酯／PVC／ABS／电子元件；填充聚酯；规格取自对应SKU，不全由图像确认。"
+  },
+  {
+    "image_id": "V03",
+    "title": "Tap Tap Babies棕色大耳样本",
+    "original_image_url": "https://prod-america-res.popmart.com/default/20260109_171946_817814____2_pucky-tap-tap-babies-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us-2_____1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/5663/pucky-tap-tap-babies-series-vinyl-plush-pendant-blind-box",
+    "source_id": "P09",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "727a4f95c4a4fd75f1375bc8e85532bc49ebf0f74e6b84d427860dac9ebbbd03",
+    "observed_features": "棕色圆毛绒体、横向大圆耳、棕眼、三角鼻；放在书本布景。",
+    "visual_language": "眼色已不是V01蓝色；不凭图片推断电子元件动作。",
+    "material_and_structure": "聚酯／PVC／ABS／电子元件；填充聚酯；规格取自对应SKU，不全由图像确认。"
+  },
+  {
+    "image_id": "V04",
+    "title": "猫主题群像",
+    "original_image_url": "https://prod-america-res.popmart.com/default/20240905_155249_901281____pucky-roly-poly-kitty-series-vinyl-plush-blind-box_blind-boxes_popmart-us-_scene_1_____1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/1501/pucky-roly-poly-kitty-series-vinyl-plush-blind-box",
+    "source_id": "P10",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "b3ed1d34e14a678ca27e5745d3940e2c6ac091480f623eda8cfb5e2982fb8309",
+    "observed_features": "多只圆底猫外壳，耳尖改变外轮廓，毛色/眼色分化。",
+    "visual_language": "精灵脸共用而外壳变化，不是每款同一个红尖帽。",
+    "material_and_structure": "外层：53%聚酯／27%PVC／20%ABS；填充：90%聚酯／10%铁；规格取自对应SKU，不全由图像确认。"
+  },
+  {
+    "image_id": "V05",
+    "title": "居家主题灯罩样本",
+    "original_image_url": "https://prod-america-res.popmart.com/default/20231218_161622_500653__1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/852/pucky-home-time-series-figures",
+    "source_id": "P11",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "f9e854b427f3ae744410f19635e1581efbdde191a3aa32ea24f7a8fd6e884a09",
+    "observed_features": "坐姿精灵双臂上举，大灯罩覆头、绿色衣服与黄色光感。",
+    "visual_language": "商品页含电池；画面发光效果不代表所有款均发光。",
+    "material_and_structure": "ABS／PVC／电池／五金；规格取自对应SKU，不全由图像确认。"
+  },
+  {
+    "image_id": "V06",
+    "title": "市集冰淇淋样本",
+    "original_image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786073044478_04f34a6bd9023456c4992a14198e0146.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/4708/pucky-fairies'-market-series-figures",
+    "source_id": "P12",
+    "dimensions": [
+      800,
+      800
+    ],
+    "sha256": "75686557dccfafcaf162f674a1190a8874ce019479683f71660ce8a418f394fc",
+    "observed_features": "红系衣帽、毛绒耳部、大冰淇淋和市集布景。",
+    "visual_language": "道具成为场景叙事入口；不能把布景当作盒内附件清单。",
+    "material_and_structure": "PVC／ABS／五金／聚酯纤维；规格取自对应SKU，不全由图像确认。"
+  },
+  {
+    "image_id": "V07",
+    "title": "食物桃子样本",
+    "original_image_url": "https://prod-america-res.popmart.com/default/20240520_114423_858381____pucky-the-feast-series-figures-blind-boxes-pop-mart-us-1_____1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/1252/pucky-the-feast-series-figures",
+    "source_id": "P13",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "7ea70ac110332d8e36706bede2dbf81338d6e25f26374aa2889c7bd77b7898b4",
+    "observed_features": "黑头套小圆耳、粉发、黑圆眼，脸伏在粉白桃形主体上。",
+    "visual_language": "脸色/眼色和外壳可变；该桃不是全角色原型。",
+    "material_and_structure": "PVC／ABS；规格取自对应SKU，不全由图像确认。"
+  },
+  {
+    "image_id": "V08",
+    "title": "飞行英雄样本",
+    "original_image_url": "https://prod-america-res.popmart.com/default/20231025_140418_897250__1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/495/pucky-flying-babies-series",
+    "source_id": "P14",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "4f05dcd835206b53d95fe89c12cc8de74cc20d816b9a06c4d11e0c561326a9be",
+    "observed_features": "红帽红披风、蓝身、黄色星章盾牌，横向俯身飞行。",
+    "visual_language": "同一脸部语言可用横向动作而非永久正立。",
+    "material_and_structure": "ABS／PVC；规格取自对应SKU，不全由图像确认。"
+  },
+  {
+    "image_id": "V09",
+    "title": "Type-C线材样本",
+    "original_image_url": "https://prod-america-res.popmart.com/default/20240520_113844_030500____pucky-the-feast-series-cable-blind-box-accessories-pop-mart-us-1_____1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/1229/pucky-the-feast-series-cable-blind-box-(type-c)",
+    "source_id": "P15",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "7f4b94281affbc0ec9f6dc0cf9ba18b86b030abcbf87d12b87f1d9372dbabd4b",
+    "observed_features": "粉色线材连接小型黑头套桃子脸组件，展示两端接头。",
+    "visual_language": "角色成为功能连接件装饰；功率及寿命需另核规格。",
+    "material_and_structure": "硅胶／TPE／PVC；规格取自对应SKU，不全由图像确认。"
+  }
+]

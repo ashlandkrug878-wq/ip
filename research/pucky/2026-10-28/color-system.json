@@ -1,0 +1,162 @@
+{
+  "source_sha256": "742df96fb56cf7d85481368418ad532a318c1b85b292953d8e7cca7497f32329",
+  "image_dimensions": [
+    1920,
+    2704
+  ],
+  "colors": [
+    {
+      "name": "白绒球",
+      "role": "小面积对照",
+      "scope": "仅V01当前渲染",
+      "hex_preview": "#ffffff",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA转换后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          1000,
+          420
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未经校色；光照/阴影/显示不同；不作生产色或面积配比"
+    },
+    {
+      "name": "红帽",
+      "role": "主轮廓",
+      "scope": "仅V01当前渲染",
+      "hex_preview": "#d36265",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA转换后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          1000,
+          900
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未经校色；光照/阴影/显示不同；不作生产色或面积配比"
+    },
+    {
+      "name": "棕侧发",
+      "role": "脸部附加",
+      "scope": "仅V01当前渲染",
+      "hex_preview": "#5f3832",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA转换后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          1120,
+          1135
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未经校色；光照/阴影/显示不同；不作生产色或面积配比"
+    },
+    {
+      "name": "肤色",
+      "role": "面部留白",
+      "scope": "仅V01当前渲染",
+      "hex_preview": "#fbdbcd",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA转换后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          900,
+          1200
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未经校色；光照/阴影/显示不同；不作生产色或面积配比"
+    },
+    {
+      "name": "蓝眼",
+      "role": "五官锚点",
+      "scope": "仅V01当前渲染",
+      "hex_preview": "#6081a1",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA转换后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          820,
+          1340
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未经校色；光照/阴影/显示不同；不作生产色或面积配比"
+    },
+    {
+      "name": "黄领",
+      "role": "连接头身",
+      "scope": "仅V01当前渲染",
+      "hex_preview": "#f7efa6",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA转换后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          1000,
+          1630
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未经校色；光照/阴影/显示不同；不作生产色或面积配比"
+    },
+    {
+      "name": "蓝身",
+      "role": "主体色块",
+      "scope": "仅V01当前渲染",
+      "hex_preview": "#6d9dc5",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA转换后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          1000,
+          2080
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未经校色；光照/阴影/显示不同；不作生产色或面积配比"
+    },
+    {
+      "name": "腮红",
+      "role": "局部点色",
+      "scope": "仅V01当前渲染",
+      "hex_preview": "#e39d86",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA转换后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          780,
+          1450
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未经校色；光照/阴影/显示不同；不作生产色或面积配比"
+    }
+  ],
+  "tests": "未做灰度/头像/复杂背景/实物色差测试"
+}

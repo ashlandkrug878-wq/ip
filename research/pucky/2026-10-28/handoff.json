@@ -1,0 +1,20 @@
+{
+  "subject_id": "pucky",
+  "study_tier": "standard",
+  "original_translation": "只记录有边界的机制启发，未创作新IP",
+  "stages": {
+    "lineart_zh": "未进入可执行正式区，未生成/实测",
+    "lineart_en": "未进入可执行正式区，未生成/实测",
+    "flat_zh": "未进入可执行正式区，未生成/实测",
+    "flat_en": "未进入可执行正式区，未生成/实测",
+    "physical_zh": "未进入可执行正式区，未生成/实测",
+    "physical_en": "未进入可执行正式区，未生成/实测"
+  },
+  "research_reconstruction": {
+    "ready": "pucky-flat-ref-v1",
+    "requires_reference": "V01",
+    "text_only_status": "not_tested",
+    "zh_status": "not_tested",
+    "downstream": "未生成3D或毛绒"
+  }
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "prompt_id": "pucky-flat-ref-v1",
+    "version": 1,
+    "subject_id": "pucky",
+    "target_scope": "V01当前宣传渲染可见视角转为平面",
+    "carrier": "flat",
+    "exact_prompt": "Use the attached official reference as the sole identity, clothing, proportions and pose reference. Translate the exact visible character from the supplied 3D promotional rendering into one clean flat 2D full-body illustration on a white square canvas. Preserve the very tall tapered red cone hood with a large white round pom-pom touching its top, and the rounded pale peach baby face framed by the red hood. Preserve the single smooth dark-brown side-swept hair patch on the viewer's right, the wide-set dark dusty-blue droplet-shaped eyes without separate black pupils and with tiny white inner-edge crescents, the central small red triangular nose, the tiny round mouth below it, and two soft circular pink cheek spots. Keep the pale yellow wide wavy ruff collar, the large rounded pear-shaped dusty-blue sleeveless torso, bare chubby arms extending downward and outward with tiny upturned hands, and two very short bare legs with flat little feet. Keep the exact front-facing standing pose, the width relationships, and the amount of forehead and cheek space shown in the reference. Draw thin clean dark outlines and solid flat local color regions. Remove all cast shadows, material shine, dimensional shading, fabric texture and photographic background. Do not add a clown smile, black pupils, eyebrows, extra hair, a second pom-pom, shoes, props or written text. No logos, no watermark. Reconstruct only this visible view; do not invent side or rear structure.",
+    "language": "en",
+    "input_mode": "reference_assisted",
+    "reference_image_ids": [
+      "V01"
+    ],
+    "reference_sha256": "742df96fb56cf7d85481368418ad532a318c1b85b292953d8e7cca7497f32329",
+    "generated_image_path": "assets/pucky-flat-ref-v1.webp",
+    "original_generated_file": "generated_images/exec-b5abc0af-75b5-4c3a-a0a4-86e7ef8d2df7.png",
+    "generated_sha256": "05417260c4ab9081b3236d166e8e606765fcce2b99c272d6aa79bd917d20a227",
+    "observations": "红锥帽白球、单侧棕发、蓝眼白内月牙、三角鼻及点嘴、黄领蓝身、外展手与短腿接近；腮红更强、手脚线条简化，仍留浅渐变。通过当前可见视角的附图平面转译目视检查，不是纯文字复现通过。",
+    "revision_reason": "首轮明确绑定已看过的官方本地原图；无前轮生成引用",
+    "tested_at": "2026-10-28",
+    "status": "ready",
+    "protocol_validity": "valid",
+    "validation": "逐项目视对照，无数值相似度、多人盲测或重复稳定性实验。"
+  }
+]

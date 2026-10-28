@@ -1,0 +1,533 @@
+{
+  "id": "pucky",
+  "name": "PUCKY 毕奇",
+  "aliases": [
+    "Pucky",
+    "毕奇精灵"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-28",
+  "updated": "2026-10-28",
+  "summary": "用圆眼、三角鼻和幼态脸连接不同星球精灵，以世界观容纳食物、动物、居家与情绪系列。历史授权及收入已核，当前增长与用户感受仍未知；9组官方视觉、8项商品与1次附图平面实测。",
+  "owner": {
+    "creator": "香港艺术家Pucky（毕奇）",
+    "operator": "POP MART 泡泡玛特",
+    "relation": "2020招股书披露2017签独家许可，2022年报仍归独家IP；不是据此认定已买断著作权。当前合同地域、期限、续约与品类原文未取得。",
+    "since": "2017",
+    "sources": [
+      "P04",
+      "P06",
+      "P07"
+    ]
+  },
+  "origin": {
+    "path": [
+      "艺术家潮玩"
+    ],
+    "year": null,
+    "story": "作者经历绘画与独立艺术玩具创作；Pucky笔名取自Puck。最早角色公开与最早独立商品日期未核；2017为许可节点，2018年4月是首套合作盲盒Pool Babies，不是角色诞生。",
+    "sources": [
+      "P03",
+      "P04",
+      "P05",
+      "P06"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2008",
+      "event": "艺术家自述毕业于Emily Carr，随后在绘画与艺术玩具间探索",
+      "type": "self_report",
+      "sources": [
+        "P04"
+      ]
+    },
+    {
+      "date": "2017",
+      "event": "与泡泡玛特订立独家许可协议",
+      "type": "fact",
+      "sources": [
+        "P06"
+      ]
+    },
+    {
+      "date": "2018-04",
+      "event": "首套合作盲盒PUCKY Pool Babies推出",
+      "type": "fact",
+      "sources": [
+        "P06"
+      ]
+    },
+    {
+      "date": "2018",
+      "event": "公司披露北京、杭州主题展；圣诞系列双11限量销售为历史公司自述",
+      "type": "self_report",
+      "sources": [
+        "P06"
+      ]
+    },
+    {
+      "date": "2019",
+      "event": "全年PUCKY归类收入315.318百万元人民币",
+      "type": "fact",
+      "sources": [
+        "P06"
+      ]
+    },
+    {
+      "date": "2022",
+      "event": "按IP收入119.130百万元，较2021的182.245百万元下降约34.6%",
+      "type": "fact",
+      "sources": [
+        "P07"
+      ]
+    },
+    {
+      "date": "2024",
+      "event": "食物手办/数据线、猫主题搪胶毛绒等不同载体并存",
+      "type": "self_report",
+      "sources": [
+        "P10",
+        "P13",
+        "P15"
+      ]
+    },
+    {
+      "date": "2026",
+      "event": "Tap Tap Babies与Closed for Today挂件上新；不能单凭上新证明增长",
+      "type": "self_report",
+      "sources": [
+        "P08",
+        "P09"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "给日常的疲惫，留一小片有魔法的空地。",
+    "sentence_type": "陪伴",
+    "basis": "inferred",
+    "sources": [
+      "P01",
+      "P04",
+      "P08"
+    ]
+  },
+  "core": {
+    "personality": "天真、奇幻、神秘",
+    "emotion": "内收",
+    "action": "在不同星球和日常情境中化身不同小精灵",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "通勤、居家、书桌与随身携带的日常间隙",
+    "behavior": "通过小型摆件或挂件选择一个能代入的主题",
+    "state": "疲惫时想暂时抽离现实",
+    "conflict": "想保留童真和幻想，也不总是想表现得甜美快乐",
+    "unsaid": "让我有一小会儿不必回应所有事情。",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "艺术玩具、精灵系列、手办与毛绒挂件是产品入口；具体用户结构未知",
+    "where": "艺术家网站及泡泡玛特官方线上/线下渠道；本批按用户要求跳过小红书",
+    "buy": "历史IP收入可证明公司商品收入；没有订单队列或个人复购样本",
+    "signs": "Pool Babies、Home Time、The Feast、Roly-Poly Kitty、Tap Tap Babies为系列识别线索",
+    "share": "开箱/陈列/携带是待观察行为，未假装采集UGC",
+    "breakout": "功能线材与挂件扩大使用场景的可能性；没有归因数据"
+  },
+  "pendulum": {
+    "position": "其他",
+    "note": "外表软萌而创作动机含神秘与明暗；商品系列并非全部暗黑。",
+    "against": "可以与单纯甜美幻想作审美比较，但未做2017同期市场普查，不能写成当时唯一稀缺。"
+  },
+  "form": {
+    "archetype": "怪兽精灵",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "五官",
+      "头型"
+    ],
+    "mark": "圆眼／水滴感眼形、中央三角鼻、幼态脸与精灵外壳组合；尖帽只是局部款式",
+    "face": "V01宽眼距蓝色实心眼、内侧白月牙、红三角鼻、下方点状小嘴、圆腮红、单侧棕发；其他款眼色/发色会变",
+    "emotion": "内收",
+    "odd": "近似婴儿的脸被神秘或日常物件外壳包住，既熟悉又非现实儿童；研究解释",
+    "density": "中等",
+    "naming": "其他",
+    "note": "名称与作者笔名Puck渊源有关，非据此认定普通人名。",
+    "group": "角色群"
+  },
+  "collide_combo": "宽距水滴圆眼＋短小红三角鼻及下方点嘴＋饱满婴儿脸＋特定精灵帽/外壳与头身关系，是应避免直接搬用的识别组合；尖帽、腮红或圆眼单独是公共元素。",
+  "color": {
+    "mode": "多色系列",
+    "main": "V01红帽、黄领、蓝身；食物、猫与居家系列各自组织色彩",
+    "signature": "蓝眼/红鼻是V01锚点，不是全系统一色；V03棕眼、V04多眼色、V07黑眼为反例",
+    "notes": "八区实际屏幕取样仅对应V01当前渲染，不是官方色号或生产标准。"
+  },
+  "materials": "手办ABS/PVC，也可含五金、纺织或电池；毛绒与搪胶硬面组合、功能数据线硅胶/TPE/PVC按SKU区分。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "授权图案"
+  },
+  "product": {
+    "first_category": null,
+    "hit_category": null,
+    "hit_product": "公司历史称2018圣诞系列限量5000 units一分钟售罄；不是当前爆款排名，也不推断一unit等于整盒",
+    "price_band": "美国官网代表单件/单抽USD12.99–26.99，功能线材、手办及搪胶毛绒分别比较",
+    "sources": [
+      "P02",
+      "P06",
+      "P08",
+      "P09",
+      "P10",
+      "P11",
+      "P12",
+      "P13",
+      "P14",
+      "P15"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "PUCKY归类产品收入",
+      "value": 75.075,
+      "unit": "百万元人民币",
+      "period": "2018全年",
+      "region": "集团披露口径",
+      "subject": "POP MART按IP分类收入",
+      "type": "fact",
+      "sources": [
+        "P06"
+      ]
+    },
+    {
+      "metric": "PUCKY归类产品收入",
+      "value": 315.318,
+      "unit": "百万元人民币",
+      "period": "2019全年",
+      "region": "集团披露口径",
+      "subject": "POP MART按IP分类收入",
+      "type": "fact",
+      "sources": [
+        "P06"
+      ]
+    },
+    {
+      "metric": "PUCKY归类产品收入",
+      "value": 70.532,
+      "unit": "百万元人民币",
+      "period": "2019上半年",
+      "region": "集团披露口径",
+      "subject": "POP MART按IP分类收入",
+      "type": "fact",
+      "sources": [
+        "P06"
+      ]
+    },
+    {
+      "metric": "PUCKY归类产品收入",
+      "value": 119.134,
+      "unit": "百万元人民币",
+      "period": "2020上半年",
+      "region": "集团披露口径",
+      "subject": "POP MART按IP分类收入",
+      "type": "fact",
+      "sources": [
+        "P06"
+      ]
+    },
+    {
+      "metric": "PUCKY归类产品收入",
+      "value": 182.245,
+      "unit": "百万元人民币",
+      "period": "2021全年",
+      "region": "集团披露口径",
+      "subject": "POP MART按IP分类收入",
+      "type": "fact",
+      "sources": [
+        "P07"
+      ]
+    },
+    {
+      "metric": "PUCKY归类产品收入",
+      "value": 119.13,
+      "unit": "百万元人民币",
+      "period": "2022全年",
+      "region": "集团披露口径",
+      "subject": "POP MART按IP分类收入",
+      "type": "fact",
+      "sources": [
+        "P07"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "用共同脸部语言组织多精灵、多主题，而不是只重复一套服装",
+      "type": "inference",
+      "evidence": "官方描述不同星球精灵；9组视觉中圆眼、三角鼻反复出现，外壳随猫、食物、飞行与居家变化。",
+      "boundary": "眼色、头型和比例不是永远不变；没有做去色匿名识别实验。",
+      "sources": [
+        "P01",
+        "P08",
+        "P10",
+        "P11",
+        "P13",
+        "P14"
+      ]
+    },
+    {
+      "claim": "把抽象幻想落在熟悉日常物上，降低理解主题的门槛",
+      "type": "hypothesis",
+      "evidence": "居家、食物、猫与疲惫命名均有官方商品；作者表达可爱与神秘并存。",
+      "boundary": "这是设计机制候选，没有UGC访谈证明用户购买动机，也没有与抽象系列销量对照。",
+      "sources": [
+        "P05",
+        "P08",
+        "P10",
+        "P11",
+        "P13"
+      ]
+    },
+    {
+      "claim": "从桌面陈列扩到随身携带及功能周边，扩大接触场景",
+      "type": "inference",
+      "evidence": "手办、毛绒挂件、搪胶毛绒与Type-C数据线实际存在。",
+      "boundary": "存在不等于真实使用频次或增量收入；各品类毛利、耐用性和用户重合未知。",
+      "sources": [
+        "P08",
+        "P09",
+        "P10",
+        "P14",
+        "P15"
+      ]
+    },
+    {
+      "claim": "渠道合作放大早期商业规模，但并不保证长期单向增长",
+      "type": "inference",
+      "evidence": "2017许可、2018首套合作盲盒、2018/2019收入增长；2021到2022收入回落。",
+      "boundary": "供给、门店、价格和系列数量同时变化，不能把收入起落全部归给角色设计或一次限量发售。",
+      "sources": [
+        "P06",
+        "P07"
+      ]
+    }
+  ],
+  "counterexamples": "2022收入较2021下降34.63%；蓝眼、红帽并非所有样本不变量。未取得匹配条件的失败竞品、退坑样本或2026单IP收入，不用缺失替代成功结论。",
+  "theory": {
+    "shell": "幼态脸与三角鼻组织身份，精灵外壳容纳不同情境；并非所有款都有尖帽",
+    "core": "官方天真幻想世界与作者明暗/神秘动机并存；二者不能混成每款均暗黑",
+    "shadow": "婴儿脸、尖帽、腮红、动物与食物是公共语言；身份来自具体组合与长期系列，不能单凭公共元素判抄袭",
+    "two_layers": {
+      "surface": "可爱与熟悉日常题材可能形成第一眼入口（待用户验证）",
+      "deep": "不同星球/系列、早期独立艺术与限量历史可形成收藏知识；未取得持有人行为样本"
+    },
+    "validation": "已核历史分IP商品收入；没有当前销量、粉丝增长、点赞统计或个人复购实证，不能替代。"
+  },
+  "for_skills": {
+    "lab": "可借幻想与日常疲惫之间的张力；先找具体情境，不把官方魔法设定写成用户疗愈结果。",
+    "form": "可借共同脸部语言与多精灵主题外壳的分工；重建自己的原型、眼鼻关系和轮廓，避免搬用本IP脸部组合。",
+    "studio": "按陈列、随身携带和功能用品分别定义结构与可靠性；材料按SKU核，电子元件、填充铁不推断为具体功能或成本。"
+  },
+  "gaps": [
+    "最早角色创作、首次公开及第一款独立艺术玩具的准确日期未取得；2017许可和2018首套合作盲盒不当作诞生。",
+    "已核2017独家许可和2022分类；2026合同期限、地域、续约、商标及原始版权协议未逐份取得。",
+    "2025年报未单列PUCKY，2026单IP收入、各系列销量、毛利、成本、库存和团队人数未知。",
+    "按用户最新指示跳过小红书；本轮没有直接用户反馈、复购/退坑样本、账号连续内容与增长统计。",
+    "作者访谈已读可用段落，未把约2019上下文推为确切发布日期；艺术家网站2020销售页不是当前活动。",
+    "平面英文附图v1接近V01；仍有腮红强化、线条简化和浅渐变残留；纯文字与中文未测、无数值相似度或重复稳定性实验。",
+    "当前主图的平面转译不是官方二维母版、三视图或生产色卡；未继续3D/毛绒生成，也未发布未经测试的原创六条词。"
+  ],
+  "sources": [
+    {
+      "id": "P01",
+      "title": "PUCKY官方精灵世界观",
+      "url": "https://www.popmart.com/jp/collections/pucky/110f741b-72b8-4028-9a1c-f1898010d37c",
+      "publisher": "POP MART日本站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "支持圆眼、三角鼻与不同星球精灵；魔法消除不快是角色设定，不是疗效或用户实证。"
+    },
+    {
+      "id": "P02",
+      "title": "美国站PUCKY商品集合",
+      "url": "https://www.popmart.com/us/collection/pucky",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "记录当日单件/单抽美元标价，不是畅销排名、销量或中国售价。"
+    },
+    {
+      "id": "P03",
+      "title": "艺术家个人网站",
+      "url": "https://hellopucky.com/",
+      "publisher": "艺术家Pucky",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "可读页面仍列2020年9月1日Lucky Bag与Pluto销售；仅历史独立创作/销售线索，不作为2026活动。"
+    },
+    {
+      "id": "P04",
+      "title": "Pucky会员艺术家自述",
+      "url": "https://www.hkbta.org/members/pucky/?lang=en",
+      "publisher": "香港品牌玩具协会／艺术家简介",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "支持香港/加拿大成长、Emily Carr学习及2008毕业、艺术与玩具经历和明暗创作动机；为艺术家自述。"
+    },
+    {
+      "id": "P05",
+      "title": "Pucky艺术家直接访谈",
+      "url": "https://www.zcool.com.cn/article/ZOTEyNTYw.html",
+      "publisher": "站酷／艺术家访谈",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "partial",
+      "type": "self_report",
+      "boundary": "笔名源于Puck、可爱与神秘恐怖并存等为作者自述；确切发布日期未核实；销量转述优先回溯招股书。"
+    },
+    {
+      "id": "P06",
+      "title": "2020招股书：PUCKY授权、首套合作盲盒及收入",
+      "url": "https://prod-out-res.popmart.com/cms/Prospectus_7ce2a0b409.pdf",
+      "publisher": "POP MART／招股书",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "fact",
+      "boundary": "已下载原PDF并提取全文，印刷页228及收入表；2017独家许可、2018年4月Pool Babies，属于历史披露，不代表2026合同未变。"
+    },
+    {
+      "id": "P07",
+      "title": "2022年报：PUCKY独家IP分类及2021/2022收入",
+      "url": "https://prod-out-res.popmart.com/cms/ANNUAL_REPORT_2022_e5c3886181.pdf",
+      "publisher": "POP MART／年度报告",
+      "published": "2023-04-21",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "fact",
+      "boundary": "下载原PDF并核对2022及2021按IP收入表，单位人民币千元；不以2022结果推断2026收入。"
+    },
+    {
+      "id": "P08",
+      "title": "Closed for Today 搪胶毛绒挂件官方规格",
+      "url": "https://www.popmart.com/us/products/8689/pucky-closed-for-today-series-vinyl-plush-pendant-blind-box",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "挂钩与主体尺寸分开；电子元件不能单独证明声音、续航或疗效。 日期为对应站点商品页发售记录，不冒充全球首发。"
+    },
+    {
+      "id": "P09",
+      "title": "Tap Tap Babies 搪胶毛绒挂件官方规格",
+      "url": "https://www.popmart.com/us/products/5663/pucky-tap-tap-babies-series-vinyl-plush-pendant-blind-box",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "仅核实规格与互动命名，未实测敲击音、音量、续航或情绪效果。 日期为对应站点商品页发售记录，不冒充全球首发。"
+    },
+    {
+      "id": "P10",
+      "title": "Roly-Poly Kitty 搪胶毛绒官方规格",
+      "url": "https://www.popmart.com/us/products/1501/pucky-roly-poly-kitty-series-vinyl-plush-blind-box",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "官方百分比是材料构成，不是成本占比，也未说明铁件位置。 日期为对应站点商品页发售记录，不冒充全球首发。"
+    },
+    {
+      "id": "P11",
+      "title": "Home Time 手办官方规格",
+      "url": "https://www.popmart.com/us/products/852/pucky-home-time-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "整盒9盒不重复；隐藏概率未核得；不把电池配置推广给所有手办。 日期为对应站点商品页发售记录，不冒充全球首发。"
+    },
+    {
+      "id": "P12",
+      "title": "Fairies’ Market 手办官方规格",
+      "url": "https://www.popmart.com/us/products/4708/pucky-fairies'-market-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "小尺寸手办含纺织材料，不应一律描述成纯PVC。 日期为对应站点商品页发售记录，不冒充全球首发。"
+    },
+    {
+      "id": "P13",
+      "title": "The Feast 手办官方规格",
+      "url": "https://www.popmart.com/us/products/1252/pucky-the-feast-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "食物题材是该系列，不代表每款角色都是同一个食物原型。 日期为对应站点商品页发售记录，不冒充全球首发。"
+    },
+    {
+      "id": "P14",
+      "title": "Flying Babies 手办官方规格",
+      "url": "https://www.popmart.com/us/products/495/pucky-flying-babies-series",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "整盒8盒不重复；款式与概率不能套给同名毛绒挂件。 日期为对应站点商品页发售记录，不冒充全球首发。"
+    },
+    {
+      "id": "P15",
+      "title": "The Feast Type-C数据线盲盒官方规格",
+      "url": "https://www.popmart.com/us/products/1229/pucky-the-feast-series-cable-blind-box-(type-c)",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "功能线材不是手办尺寸；未核得快充功率、兼容协议或耐弯折指标。 日期为对应站点商品页发售记录，不冒充全球首发。"
+    },
+    {
+      "id": "P16",
+      "title": "当前官方主图所在首页",
+      "url": "https://www.popmart.com/en-GB",
+      "publisher": "POP MART英国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "本轮V01当前宣传渲染图来源；图像创作/首次发表日期未知，不能当作2017原始图。"
+    },
+    {
+      "id": "P17",
+      "title": "2025年报：最新年度分IP披露边界",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100394.pdf",
+      "publisher": "POP MART／港交所",
+      "published": "2026-04-21",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "fact",
+      "boundary": "已读分IP收入表，未单列PUCKY；其他艺术家IP总额不能分配给PUCKY。"
+    }
+  ],
+  "archive": "research/pucky/2026-10-28/index.html",
+  "webpage": "research/pucky/2026-10-28/index.html",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/pucky/2026-10-28/",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/pucky/2026-10-28/"
+}
