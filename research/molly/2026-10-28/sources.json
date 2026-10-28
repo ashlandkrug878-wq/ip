@@ -207,5 +207,16 @@
     "access": "partial",
     "type": "self_report",
     "boundary": "正文与标题；未追踪转售成交；不知道退坑原因、挂牌价格、成交价格及最终成交；不能推导整体热度或市场崩盘。"
+  },
+  {
+    "id": "M16",
+    "title": "2020招股书：MOLLY知识产权取得与IP分类",
+    "url": "https://prod-out-res.popmart.com/cms/Prospectus_7ce2a0b409.pdf",
+    "publisher": "POP MART／招股书",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "已下载原PDF，提取并目视核对印刷页207（PDF物理217页）。2018中国境内与2019其他地区取得分开；属历史披露，原始协议及后续变更未逐份读取。"
   }
 ]

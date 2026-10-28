@@ -17,11 +17,12 @@
   "owner": {
     "creator": "Kenny Wong 王信明／Kennyswork",
     "operator": "POP MART 泡泡玛特",
-    "relation": "官方确认2016起合作；公开资料不足以确定原始版权、商标及衍生权在各主体间完整分配。",
+    "relation": "2020招股书披露：2018年7月取得MOLLY中国境内知识产权所有权，2019年4月订立协议取得全球其他地区的所有权，并将其列为proprietary IP。2016是合作起点；后续变更及原始协议未逐份核验。",
     "since": "2016",
     "sources": [
       "M01",
-      "M03"
+      "M03",
+      "M16"
     ]
   },
   "origin": {
@@ -52,6 +53,22 @@
       "sources": [
         "M01",
         "M03"
+      ]
+    },
+    {
+      "date": "2018-07",
+      "event": "招股书披露取得MOLLY中国境内知识产权所有权",
+      "type": "self_report",
+      "sources": [
+        "M16"
+      ]
+    },
+    {
+      "date": "2019-04",
+      "event": "招股书披露订立协议取得MOLLY全球其他地区知识产权所有权",
+      "type": "self_report",
+      "sources": [
+        "M16"
       ]
     },
     {
@@ -304,7 +321,7 @@
     "studio": "把日常携带、桌面陈列、可动装扮与收藏级展示分开；参考SKU规格而非集团毛利，预算/材料和复购必须另做验证。"
   },
   "gaps": [
-    "原始版权/商标转让、各地区与期限合同未读到，不把2016合作说成全部权利收购。",
+    "已核实2020招股书披露的2018中国境内取得、2019全球其他地区协议；原始转让/商标/分成协议与后续变更未逐份核验。",
     "2006最早实物SKU、首售日期和完整早期官方产品档案未取得；2016.07星座月份仅有二手图鉴线索。",
     "MOLLY各分支销量、成本、利润、用户年龄/性别比例、复购率、独立粉丝总量未知。",
     "4篇小红书为目的性样本，图鉴仅看首图，开箱视频未逐帧；挂牌及换款意向没有成交验证。",
@@ -522,8 +539,21 @@
       "access": "partial",
       "type": "self_report",
       "boundary": "正文与标题；未追踪转售成交；不知道退坑原因、挂牌价格、成交价格及最终成交；不能推导整体热度或市场崩盘。"
+    },
+    {
+      "id": "M16",
+      "title": "2020招股书：MOLLY知识产权取得与IP分类",
+      "url": "https://prod-out-res.popmart.com/cms/Prospectus_7ce2a0b409.pdf",
+      "publisher": "POP MART／招股书",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "已下载原PDF，提取并目视核对印刷页207（PDF物理217页）。2018中国境内与2019其他地区取得分开；属历史披露，原始协议及后续变更未逐份读取。"
     }
   ],
   "archive": "research/molly/2026-10-28/index.html",
-  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/molly/2026-10-28/"
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/molly/2026-10-28/",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/molly/2026-10-28/",
+  "webpage": "research/molly/2026-10-28/index.html"
 }
