@@ -1,0 +1,145 @@
+[
+  {
+    "id": "COL",
+    "title": "官方三人设定与美国商品集合",
+    "url": "https://www.popmart.com/us/collection/peach-riot",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "Gigi主唱吉他、Frankie鼓手队长、Poppy贝斯键盘；当日美元标价，COMING SOON与已发布分开。"
+  },
+  {
+    "id": "BIO",
+    "title": "官方艺术家Libby Frame简介",
+    "url": "https://www.popmart.com/gr",
+    "publisher": "POP MART",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "partial",
+    "type": "self_report",
+    "boundary": "实际读艺术家段落，插画设计主修/电影辅修、自由角色与概念设计及日常灵感；非完整个人传记或版权文件。"
+  },
+  {
+    "id": "NEWS",
+    "title": "洛杉矶2024开店与Libby活动公告",
+    "url": "https://www.popmart.com/ca/news/9",
+    "publisher": "POP MART美国新闻",
+    "published": "2024-02-02",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "2月10日签名、圆桌、问答是预告；不当作实到人数、成交或实际执行全程证明。"
+  },
+  {
+    "id": "INT",
+    "title": "美洲授权负责人谈三人乐队与作者互动",
+    "url": "https://nerdist.com/article/pop-mart-intervew-reflection-on-past-15-years-future-labubus-and-more/",
+    "publisher": "Nerdist／直接采访",
+    "published": "2025-08-08",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "三人高中乐队、Riot Grrrl主题与作者签名互动为采访自述；没有单IP业绩表。"
+  },
+  {
+    "id": "ANIM",
+    "title": "Rush Hour四集动画制作档案",
+    "url": "https://vimeo.com/1098540344",
+    "publisher": "Drasik Studio／制作方",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "partial",
+    "type": "self_report",
+    "boundary": "已读项目说明及制作署名，Final Frontier制作、Drasik动画；未逐集观看，不作剧情或播放表现评价。"
+  },
+  {
+    "id": "MUSIC",
+    "title": "Rush Hour单曲正式发行页",
+    "url": "https://music.apple.com/us/song/rush-hour/1796518580",
+    "publisher": "Apple Music／音乐发行元数据",
+    "published": "2025-02-18",
+    "observed": "2026-10-28",
+    "access": "partial",
+    "type": "fact",
+    "boundary": "支持歌曲与发行日期；未完整试听，不摘抄歌词，不推流量或销量。"
+  },
+  {
+    "id": "SKU01",
+    "title": "Rise Up 手办官方规格",
+    "url": "https://www.popmart.com/us/products/876/peach-riot-rise-up-series-figures",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "整盒12盒不重复；隐藏概率未核；非确认最早公开。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU02",
+    "title": "Punk Fairy 手办官方规格",
+    "url": "https://www.popmart.com/us/products/1063/peach-riot-punk-fairy-series-figures",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "不擅自改高度顺序，不据此作生产尺寸。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU03",
+    "title": "Winter Break OOTD 1/8可动人偶官方规格",
+    "url": "https://www.popmart.com/us/products/4194/peach-riot-winter-break-ootd-series-1/8-action-figure",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "22cm为身体高，非所有头饰总高；本轮Gigi作平面参考。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU04",
+    "title": "Fruit Punch 毛绒挂件官方规格",
+    "url": "https://www.popmart.com/us/products/6476/peach-riot-fruit-punch-series-plush-doll-pendant",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "不把不含耳高的尺寸写成全高，毛绒分支脸身不同。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU05",
+    "title": "Carry the Music 积木挂件官方规格",
+    "url": "https://www.popmart.com/us/products/7999/peach-riot-carry-the-music-series-block-pendant",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "主体尺寸与挂钩/绳长分开；未实测拼装或关节。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU06",
+    "title": "Rush Hour 手办官方规格",
+    "url": "https://www.popmart.com/us/products/1937/peach-riot-rush-hour-series-figures",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "与歌曲发行相邻不等于音乐带动销量。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU07",
+    "title": "Power Chords 手办官方规格",
+    "url": "https://www.popmart.com/us/products/7998/peach-riot-power-chords-series-figures",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "跨度来自系列款式，不套给每一成员单款。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  }
+]

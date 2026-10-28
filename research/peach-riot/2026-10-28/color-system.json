@@ -1,0 +1,161 @@
+{
+  "image_dimensions": [
+    1200,
+    1200
+  ],
+  "source_sha256": "726ae90c5ef3f2a4b45ba0854973ac7da4dc3fad1a7a0c97e306eb5eaab2d422",
+  "colors": [
+    {
+      "name": "橙发",
+      "role": "成员色",
+      "scope": "仅本轮V01",
+      "hex_preview": "#f98e53",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          570,
+          140
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "肤色暖影",
+      "role": "脸部",
+      "scope": "仅本轮V01",
+      "hex_preview": "#dfa67c",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          580,
+          265
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "绿眼",
+      "role": "眼部",
+      "scope": "仅本轮V01",
+      "hex_preview": "#9d9b00",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          550,
+          225
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "绿衬衫",
+      "role": "服装",
+      "scope": "仅本轮V01",
+      "hex_preview": "#a9ab80",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          433,
+          465
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "棕背心暗部",
+      "role": "服装",
+      "scope": "仅本轮V01",
+      "hex_preview": "#402c1e",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          590,
+          505
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "红斜包",
+      "role": "配件",
+      "scope": "仅本轮V01",
+      "hex_preview": "#d03243",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          450,
+          590
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "白袜套",
+      "role": "腿部",
+      "scope": "仅本轮V01",
+      "hex_preview": "#ebe1e0",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          528,
+          1000
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "棕鞋底",
+      "role": "支撑",
+      "scope": "仅本轮V01",
+      "hex_preview": "#9e5935",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          580,
+          1120
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    }
+  ]
+}

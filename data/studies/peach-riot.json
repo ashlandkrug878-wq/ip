@@ -1,0 +1,390 @@
+{
+  "name": "PEACH RIOT",
+  "aliases": [
+    "Peach Riot",
+    "Lil Peach Riot"
+  ],
+  "summary": "三位高中生组成朋克乐队，用成员差异、音乐、动画与时装系列共同经营身份；不是单一人物反复换装。长腿主线、Lil分支、可动人偶和毛绒有不同结构，内容存在与商业转化分开验证。",
+  "owner": {
+    "creator": "Libby Frame",
+    "operator": "POP MART 泡泡玛特",
+    "relation": "官方署名Libby Frame并与其开展产品及活动合作；版权买断、独家期限、地域、音乐及动画分项权利原始合同未知。",
+    "since": null,
+    "sources": [
+      "BIO",
+      "NEWS",
+      "INT"
+    ]
+  },
+  "origin": {
+    "path": [
+      "艺术家潮玩"
+    ],
+    "year": null,
+    "story": "Libby的插画、角色设计与叙事背景进入三人乐队形象。已核2023-12-15 Rise Up美国站发售；不能把这一天自动当角色创作、首次公开或首个商品日期。",
+    "sources": [
+      "BIO",
+      "SKU01"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2023-12-15",
+      "event": "Rise Up美国商品页发售记录，非已证实最早原稿日",
+      "type": "self_report",
+      "sources": [
+        "SKU01"
+      ]
+    },
+    {
+      "date": "2024-02-02",
+      "event": "官方公告预告Libby在2月10日洛杉矶开店活动签名、讨论及问答",
+      "type": "self_report",
+      "sources": [
+        "NEWS"
+      ]
+    },
+    {
+      "date": "2024-04-26",
+      "event": "Punk Fairy商品页记录",
+      "type": "self_report",
+      "sources": [
+        "SKU02"
+      ]
+    },
+    {
+      "date": "2025-02-18",
+      "event": "Apple Music记录Rush Hour单曲发行",
+      "type": "fact",
+      "sources": [
+        "MUSIC"
+      ]
+    },
+    {
+      "date": "2025-02-21",
+      "event": "Rush Hour手办美国商品页记录，近邻音乐发行但不据此推因果",
+      "type": "self_report",
+      "sources": [
+        "SKU06"
+      ]
+    },
+    {
+      "date": "2025-11-27",
+      "event": "Winter Break 1/8可动人偶，官方身体高22cm",
+      "type": "self_report",
+      "sources": [
+        "SKU03"
+      ]
+    },
+    {
+      "date": "2026-06/07",
+      "event": "Fruit Punch毛绒、Carry the Music积木挂件及Power Chords手办记录",
+      "type": "self_report",
+      "sources": [
+        "SKU04",
+        "SKU05",
+        "SKU07"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "把自己的声音放出来，一起组一支乐队。",
+    "sentence_type": "允许",
+    "basis": "inferred",
+    "sources": [
+      "COL",
+      "INT"
+    ]
+  },
+  "core": {
+    "personality": "独立、叛逆、热情",
+    "emotion": "外放",
+    "action": "排练、演出、创作，同时面对高中生日常",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "乐队、校园、穿搭与朋友共同创作的想象",
+    "behavior": "选偏爱成员、穿搭或演出姿态并收藏",
+    "state": "想表达自己，也希望找到同伴",
+    "conflict": "个体坚持与团队协作并存，日常身份与舞台身份切换",
+    "unsaid": "我可以有自己的声音，也可以和别人一起。",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "音乐/替代时尚、角色收藏与可动装扮是可能入口；无人口统计",
+    "where": "官方商品、门店作者活动、音乐平台与动画制作方档案",
+    "buy": "商品存在已核；公司称热门和签名排队为自述，没有单IP收入、订单或复购数据",
+    "signs": "Gigi／Frankie／Poppy、Rise Up、Punk Fairy、Lil与Rush Hour",
+    "share": "偏爱成员、乐队关系、穿搭与歌曲可能成为分享内容，未直接采用户样本",
+    "breakout": "音乐、动画和作者露面提供多触点；跨媒介带来的新增用户未知"
+  },
+  "pendulum": {
+    "position": "暗黑酷",
+    "note": "朋克/替代时尚与女孩乐队的外放态度；幻想、冬装和毛绒也有明亮面，不全是暗黑。",
+    "against": "可与单人幼态治愈类作表达对照；不能断言90年代文化在2023才出现，或小众审美必然带来销量。"
+  },
+  "form": {
+    "archetype": "人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "头型",
+      "五官"
+    ],
+    "mark": "三人以发色、发型、肤色、眼睛和服装区分；主线长腿大鞋，不能全归同一张脸",
+    "face": "V01 Gigi橙色双丸发、绿色大眼、尖睫与斜眉、平直小嘴；群像中Poppy长浅发、Frankie蓝绿发与较深肤色，样本范围内区分",
+    "emotion": "外放",
+    "odd": "大头、细长四肢、超大鞋与强姿态并置；幼态脸与朋克装束形成反差",
+    "density": "繁复",
+    "naming": "其他",
+    "group": "角色群"
+  },
+  "collide_combo": "成员专属发色发型、巨眼尖睫与斜眉表情、细长身体大鞋及特定乐队服装/道具的组合不直接搬用；朋克、乐器、双丸头和厚底鞋本身是公共语言。",
+  "color": {
+    "mode": "多色系列",
+    "main": "样本中Gigi橙发、Poppy浅长发、Frankie蓝绿发形成成员区分；不同系列服装另配",
+    "signature": "按成员锁色而非全团一个签名色；毛绒、Lil和联名须另检",
+    "notes": "八区真实取样仅对应V01冬装Gigi；照片暖光使肤、背心和鞋底更棕，不是官方生产色号。"
+  },
+  "materials": "硬质手办ABS/PVC；22cm人偶混合PVC/ABS/尼龙/聚酯/五金；毛绒与积木挂件按商品页分别记录。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "动画"
+  },
+  "product": {
+    "first_category": null,
+    "hit_category": null,
+    "hit_product": "Rise Up是本轮核得早期系列；销量冠军与最早产品未知",
+    "price_band": "代表美国单件/单抽USD19.99；Fruit Punch毛绒39.99、1/8人偶59.99，规格不同",
+    "sources": [
+      "COL",
+      "SKU01",
+      "SKU03",
+      "SKU04"
+    ]
+  },
+  "numbers": [],
+  "mechanisms": [
+    {
+      "claim": "三人差异同时支持个人偏好和团队关系",
+      "type": "inference",
+      "evidence": "官方分配主唱吉他、鼓手队长、贝斯键盘职责；群像产品可见发型肤色和姿态差异。",
+      "boundary": "没有用户分成员购买、集齐率与关系偏好数据，不证明角色越多越畅销。",
+      "sources": [
+        "COL",
+        "SKU01",
+        "SKU02"
+      ]
+    },
+    {
+      "claim": "乐队身份有真实音乐和动画载体，不只靠商品标题",
+      "type": "inference",
+      "evidence": "Rush Hour音乐发行页与制作方四集动画项目说明；音乐/手办记录日期接近。",
+      "boundary": "只核发行和制作档案，未逐集看动画或完整听歌；播放量、完播与销量转化未知，时间接近不证明互相带动。",
+      "sources": [
+        "MUSIC",
+        "ANIM",
+        "SKU06"
+      ]
+    },
+    {
+      "claim": "作者活动把个人创作与门店接触相连",
+      "type": "hypothesis",
+      "evidence": "2024洛杉矶开店公告预告签名、圆桌与问答，2025采访继续提作者互动。",
+      "boundary": "公告是活动预告，不能当作已发生全流程或实到人数；签名队伍不等于销量和长期留存。",
+      "sources": [
+        "NEWS",
+        "INT"
+      ]
+    },
+    {
+      "claim": "身形分支和服装载体改变相处方式",
+      "type": "inference",
+      "evidence": "长腿硬质手办、22cm可动人偶、毛绒和8cm积木挂件并存。",
+      "boundary": "不同材质/比例的识别与耐用性未实测，也不知道是否带来新增用户。",
+      "sources": [
+        "SKU03",
+        "SKU04",
+        "SKU05"
+      ]
+    }
+  ],
+  "counterexamples": "Punk Fairy美国页高度写3.5–3.39英寸，顺序可疑，保留原文并标待核，不擅自修正。Sugar Mode与KPop联名当前为COMING SOON，不当成已售爆款。未找到条件匹配失败案例或单IP财务。",
+  "theory": {
+    "shell": "主线三名成员分别识别，发型色彩和眼脸搭配长腿大鞋；Lil与毛绒改变比例，不能套一张母版",
+    "core": "独立高中生追求创作梦想的乐队，有演出、日常和成员关系可展开",
+    "shadow": "朋克、90年代文化、厚底鞋、乐器和幻想翅膀是公共资源；具体成员配置及作品形成身份",
+    "two_layers": {
+      "surface": "时装、姿态与鲜明成员差异是第一眼入口假设",
+      "deep": "歌曲、动画、成员职责与作者关系提供更深内容；未核实际跨媒介用户路径"
+    },
+    "validation": "可确认销售载体与音乐发行；公司热门措辞和采访排队为自述，不能替代单IP收入、复购或真实粉丝增长。"
+  },
+  "for_skills": {
+    "lab": "可借个人声音与团队创作的关系，先验证具体圈层情境；不把朋克当万能叛逆标签。",
+    "form": "可借三人角色职责和轮廓区分；自己设计原型、脸部和身体，不搬用成员发型眼形与服装整套组合。",
+    "studio": "音乐身份可由声音、动画、舞台动作和商品共同表达；分别测试触达与付费，服装人偶与挂件材料按规格核。"
+  },
+  "gaps": [
+    "最早创作、公开、合作签约及首个SKU未完整核定；2023 Rise Up不是自动诞生日。",
+    "原始版权、商标、独家合作、音乐/动画权利分配及专属团队投入未知。",
+    "未取得单IP收入、销量、利润、各成员偏好/复购率；不以集团增长分配。",
+    "制作方项目说明已读，未逐集观看动画或完整听歌；无播放增长与购买转化数据。",
+    "本批暂跳过小红书；直接用户、退坑、争议及账号连续内容样本缺失。",
+    "Punk Fairy高度字段存在倒置疑点；COMING SOON商品未当作已售结果。",
+    "英文附图Gigi冬装v1接近，头脸稍收窄、针织细节简化；纯文字/中文未测，不能代表Poppy/Frankie/Lil均可复现，未继续3D或毛绒生成。"
+  ],
+  "id": "peach-riot",
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-28",
+  "updated": "2026-10-28",
+  "sources": [
+    {
+      "id": "COL",
+      "title": "官方三人设定与美国商品集合",
+      "url": "https://www.popmart.com/us/collection/peach-riot",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "Gigi主唱吉他、Frankie鼓手队长、Poppy贝斯键盘；当日美元标价，COMING SOON与已发布分开。"
+    },
+    {
+      "id": "BIO",
+      "title": "官方艺术家Libby Frame简介",
+      "url": "https://www.popmart.com/gr",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "partial",
+      "type": "self_report",
+      "boundary": "实际读艺术家段落，插画设计主修/电影辅修、自由角色与概念设计及日常灵感；非完整个人传记或版权文件。"
+    },
+    {
+      "id": "NEWS",
+      "title": "洛杉矶2024开店与Libby活动公告",
+      "url": "https://www.popmart.com/ca/news/9",
+      "publisher": "POP MART美国新闻",
+      "published": "2024-02-02",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "2月10日签名、圆桌、问答是预告；不当作实到人数、成交或实际执行全程证明。"
+    },
+    {
+      "id": "INT",
+      "title": "美洲授权负责人谈三人乐队与作者互动",
+      "url": "https://nerdist.com/article/pop-mart-intervew-reflection-on-past-15-years-future-labubus-and-more/",
+      "publisher": "Nerdist／直接采访",
+      "published": "2025-08-08",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "三人高中乐队、Riot Grrrl主题与作者签名互动为采访自述；没有单IP业绩表。"
+    },
+    {
+      "id": "ANIM",
+      "title": "Rush Hour四集动画制作档案",
+      "url": "https://vimeo.com/1098540344",
+      "publisher": "Drasik Studio／制作方",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "partial",
+      "type": "self_report",
+      "boundary": "已读项目说明及制作署名，Final Frontier制作、Drasik动画；未逐集观看，不作剧情或播放表现评价。"
+    },
+    {
+      "id": "MUSIC",
+      "title": "Rush Hour单曲正式发行页",
+      "url": "https://music.apple.com/us/song/rush-hour/1796518580",
+      "publisher": "Apple Music／音乐发行元数据",
+      "published": "2025-02-18",
+      "observed": "2026-10-28",
+      "access": "partial",
+      "type": "fact",
+      "boundary": "支持歌曲与发行日期；未完整试听，不摘抄歌词，不推流量或销量。"
+    },
+    {
+      "id": "SKU01",
+      "title": "Rise Up 手办官方规格",
+      "url": "https://www.popmart.com/us/products/876/peach-riot-rise-up-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "整盒12盒不重复；隐藏概率未核；非确认最早公开。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU02",
+      "title": "Punk Fairy 手办官方规格",
+      "url": "https://www.popmart.com/us/products/1063/peach-riot-punk-fairy-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "不擅自改高度顺序，不据此作生产尺寸。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU03",
+      "title": "Winter Break OOTD 1/8可动人偶官方规格",
+      "url": "https://www.popmart.com/us/products/4194/peach-riot-winter-break-ootd-series-1/8-action-figure",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "22cm为身体高，非所有头饰总高；本轮Gigi作平面参考。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU04",
+      "title": "Fruit Punch 毛绒挂件官方规格",
+      "url": "https://www.popmart.com/us/products/6476/peach-riot-fruit-punch-series-plush-doll-pendant",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "不把不含耳高的尺寸写成全高，毛绒分支脸身不同。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU05",
+      "title": "Carry the Music 积木挂件官方规格",
+      "url": "https://www.popmart.com/us/products/7999/peach-riot-carry-the-music-series-block-pendant",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "主体尺寸与挂钩/绳长分开；未实测拼装或关节。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU06",
+      "title": "Rush Hour 手办官方规格",
+      "url": "https://www.popmart.com/us/products/1937/peach-riot-rush-hour-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "与歌曲发行相邻不等于音乐带动销量。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU07",
+      "title": "Power Chords 手办官方规格",
+      "url": "https://www.popmart.com/us/products/7998/peach-riot-power-chords-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "跨度来自系列款式，不套给每一成员单款。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    }
+  ],
+  "archive": "research/peach-riot/2026-10-28/index.html",
+  "webpage": "research/peach-riot/2026-10-28/index.html",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/peach-riot/2026-10-28/",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/peach-riot/2026-10-28/"
+}

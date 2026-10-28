@@ -1,0 +1,25 @@
+[
+  {
+    "prompt_id": "peach-riot-flat-ref-v1",
+    "subject_id": "peach-riot",
+    "version": 1,
+    "target_scope": "V01官方商品图可见视角平面转译",
+    "carrier": "flat",
+    "exact_prompt": "Use the attached official product photograph as the sole character identity, hairstyle, proportions, outfit and pose reference. Translate the single orange-haired girl figure into a clean flat 2D full-body illustration on a pure white square canvas. Remove the entire classroom, desks, chairs, gifts, floor and blackboard. Preserve her bright orange short hair with two high twisted side buns, jagged bangs, two narrow chin-length side locks and pointed tufts. Preserve the broad pale face, very large forward-facing lime-green eyes with thick black rims, white sclera, pointed outer eyelashes, narrow angled black eyebrows, tiny nose and a small nearly horizontal displeased mouth. Keep the visible slight three-quarter head direction, confident restrained expression, long slim legs, large head and oversized chunky footwear in the exact reference proportions. Preserve the loose moss-green long-sleeved shirt, red tie with cream diagonal stripes, brown sleeveless two-button knit vest with a small yellow R on the chest, short dark pleated skirt, red cross-body bag hanging on the viewer-left hip, thin wrapped red and olive cord bands around the knees, brown shoes with thick tan platform soles and oversized slouchy white leg warmers with dark-brown upper cuffs. Keep both arms down and slightly outward, relaxed splayed hands and the actual offset standing foot positions. Use clean thin dark outlines and solid flat color regions; represent knit garments using their silhouette and only a few seam or fold lines, without fabric texture, plastic gloss, dimensional shading or shadows. Do not add a smile, black pupils inside the green disks, long ponytails, musical instruments, extra accessories or scenery. No logos or text beyond the single small chest letter visible in the reference; no watermark. Reconstruct only this visible view, without invented sides or back structure.",
+    "language": "en",
+    "input_mode": "reference_assisted",
+    "reference_image_ids": [
+      "V01"
+    ],
+    "reference_sha256": "726ae90c5ef3f2a4b45ba0854973ac7da4dc3fad1a7a0c97e306eb5eaab2d422",
+    "generated_image_path": "assets/peach-riot-flat-ref-v1.webp",
+    "original_generated_file": "generated_images/exec-36f3f392-7bab-4670-b3e3-288001a6ea7c.png",
+    "generated_sha256": "04e696d187d0b5e674d08f522d07c1a6f0a8207d28e21373159387271f615b92",
+    "observations": "Gigi橙双丸发、绿眼尖睫斜眉、平直嘴、绿衬衫棕背心、红包位置、膝绳与白袜套厚底鞋均接近。头脸略收窄、服装针织被简化且保留部分线纹，肢体关节线更明确；仅该成员冬装可见视角附图平面转译通过。",
+    "revision_reason": "首轮明确绑定已实际看过的本地官方原图",
+    "tested_at": "2026-10-28",
+    "status": "ready",
+    "protocol_validity": "valid",
+    "validation": "逐项目视对照，无数值相似度、多用户盲测或重复稳定性结论"
+  }
+]
