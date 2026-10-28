@@ -1,0 +1,211 @@
+[
+  {
+    "product_id": "PC01",
+    "name": "35周年红丝带毛绒",
+    "category": "毛绒",
+    "price": 3894,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2024-02-28",
+    "dimensions": null,
+    "materials_official": null,
+    "sources": [
+      "P05"
+    ],
+    "note": "脚底35刺绣；V08。",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  },
+  {
+    "product_id": "PC02",
+    "name": "35周年挂件",
+    "category": "挂件",
+    "price": 2200,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2024-02-28",
+    "dimensions": null,
+    "materials_official": null,
+    "sources": [
+      "P05"
+    ],
+    "note": "",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  },
+  {
+    "product_id": "PC03",
+    "name": "35周年相框",
+    "category": "授权周边",
+    "price": 4180,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2024-02-28",
+    "dimensions": null,
+    "materials_official": null,
+    "sources": [
+      "P05"
+    ],
+    "note": "",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  },
+  {
+    "product_id": "PC04",
+    "name": "35周年脸型靠垫",
+    "category": "毛绒",
+    "price": 3894,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2024-02-28",
+    "dimensions": null,
+    "materials_official": null,
+    "sources": [
+      "P05"
+    ],
+    "note": "",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  },
+  {
+    "product_id": "PC05",
+    "name": "35周年托特包",
+    "category": "授权周边",
+    "price": 2200,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2024-02-28",
+    "dimensions": null,
+    "materials_official": null,
+    "sources": [
+      "P05"
+    ],
+    "note": "",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  },
+  {
+    "product_id": "PC06",
+    "name": "35周年随机小手办挂件",
+    "category": "随机小物",
+    "price": 990,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2024-02-28",
+    "dimensions": null,
+    "materials_official": null,
+    "sources": [
+      "P05"
+    ],
+    "note": "8种不可选；非已证隐藏/等概率。",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  },
+  {
+    "product_id": "PC07",
+    "name": "35周年马克杯",
+    "category": "授权周边",
+    "price": 1760,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2024-02-28",
+    "dimensions": null,
+    "materials_official": null,
+    "sources": [
+      "P05"
+    ],
+    "note": "",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  },
+  {
+    "product_id": "PC08",
+    "name": "寿司坐姿毛绒",
+    "category": "毛绒",
+    "price": 2420,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2025-08",
+    "dimensions": "W7×H12×D8cm",
+    "materials_official": null,
+    "sources": [
+      "P06"
+    ],
+    "note": "鲑鱼造型；V07三角度。",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  },
+  {
+    "product_id": "PC09",
+    "name": "抱小鸡毛绒",
+    "category": "毛绒",
+    "price": 3696,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2026-02-26",
+    "dimensions": null,
+    "materials_official": null,
+    "sources": [
+      "P07"
+    ],
+    "note": "部分地区2月27日发售。",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  },
+  {
+    "product_id": "PC10",
+    "name": "小鸡系列植绒随机挂件",
+    "category": "随机小物",
+    "price": 990,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2026-02-26",
+    "dimensions": null,
+    "materials_official": "官方描述植绒，基材未知",
+    "sources": [
+      "P07"
+    ],
+    "note": "8种不可选；部分地区2月27日。",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  },
+  {
+    "product_id": "PC11",
+    "name": "35周年MOOK＋毛绒pochette",
+    "category": "出版物",
+    "price": 2695,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2024-02-29",
+    "dimensions": null,
+    "materials_official": null,
+    "sources": [
+      "P08"
+    ],
+    "note": "16页B5；附包不是另行可核定价。",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  }
+]

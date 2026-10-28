@@ -1,0 +1,442 @@
+{
+  "id": "pochacco",
+  "name": "帕恰狗 Pochacco",
+  "aliases": [
+    "ポチャッコ",
+    "PC狗"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-28",
+  "updated": "2026-10-28",
+  "summary": "从活泼的小狗到成年人的日常陪伴：姿态和黑白头脸承接身份，服装、线条与关系主题可变。回归独立系列不等于从未低谷；8组官方视觉、11项商品、4次实际二维测试。",
+  "sources": [
+    {
+      "id": "P01",
+      "title": "日本官方角色档案",
+      "url": "https://www.sanrio.co.jp/characters/pochacco/",
+      "publisher": "Sanrio／官方",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "supports": "1989登场；好奇、偶尔冒失、喜欢散步绕路；男孩子、小狗；生日2月29日为世界观设定。",
+      "boundary": "不把1989与2月29日拼成真实出生日期；1989不是闰年。"
+    },
+    {
+      "id": "P02",
+      "title": "Sanrio Times：35周年与历史回顾",
+      "url": "https://corporate.sanrio.co.jp/en/sanriotimes/20240222.html",
+      "publisher": "Sanrio／官方",
+      "published": "2024-02-22",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "supports": "1989年8月首发34件；1991—1995五连冠；2017为18年来首个单独设计系列；2018屁股主题来自签名会反馈；2020加入Hapidanbui。",
+      "boundary": "官方回顾及受访者解释，未提供销量序列。"
+    },
+    {
+      "id": "P03",
+      "title": "Domani／Oggi：31周年设计师访谈",
+      "url": "https://oggi.jp/7812158",
+      "publisher": "小学馆／设计师采访",
+      "published": "2020-03-29",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "supports": "从签名会反馈开发背面系列；回头看尾部蝴蝶的储蓄罐立体化困难；海外粉色圆点设计是受访者印象。",
+      "boundary": "原Domani页面重定向至Oggi；未核初代个人作者；停产的储蓄罐不等于失败品。"
+    },
+    {
+      "id": "P04",
+      "title": "Hapidanbui六人组合成立公告",
+      "url": "https://prtimes.jp/main/html/rd/p/000000172.000037629.html",
+      "publisher": "Sanrio／PR TIMES发布",
+      "published": "2020-01-31",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "supports": "六位既有男孩角色组成组合，以自我接纳、挑战和乐队内容开拓活动。",
+      "boundary": "组合成员保留各自身份；V形回升是企划愿景而非经审计成绩。"
+    },
+    {
+      "id": "P05",
+      "title": "35周年红丝带系列",
+      "url": "https://www.sanrio.co.jp/news/goods/pc-35th-red-ribbon-202402/",
+      "publisher": "Sanrio／官方",
+      "published": "2024-02-21",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "fact",
+      "supports": "2024-02-28日本发售19项；红色呼应早期印象；含毛绒、杯包、相框和随机小物。",
+      "boundary": "价格为日本发布含税价；随机8/10种不代表有隐藏或等概率。"
+    },
+    {
+      "id": "P06",
+      "title": "TAKARA TOMY ARTS：ちょっこりさん 寿司-sushi-",
+      "url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y152047",
+      "publisher": "TAKARA TOMY ARTS／制造商",
+      "published": "2025-06-27",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "fact",
+      "supports": "2025年8月发售、JPY2420含税、W7×H12×D8cm；可坐置拍照。",
+      "boundary": "图片为制造商示意，完整纤维和内部结构未披露。"
+    },
+    {
+      "id": "P07",
+      "title": "和小鸡们相处的2026设计系列",
+      "url": "https://www.sanrio.co.jp/news/goods/pc-loves-pii-chans-202602/",
+      "publisher": "Sanrio／官方",
+      "published": "2026-02-18",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "fact",
+      "supports": "多数门店2月26日发售、部分2月27日；抱小鸡毛绒、A4袋、8种植绒随机挂件等。",
+      "boundary": "主题人物关系可核，净销量未知。"
+    },
+    {
+      "id": "P08",
+      "title": "35周年MOOK与毛绒小包",
+      "url": "https://www.sanrio.co.jp/news/goods/pc-wakuwaku-mook-20240227/",
+      "publisher": "Sanrio／官方",
+      "published": "2024-02-27",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "fact",
+      "supports": "KADOKAWA于2024-02-29发行；B5、16页、JPY2695含税；附毛绒pochette。",
+      "boundary": "纪念出版物不是IP起源；ISBN978-4-04-897731-9。"
+    },
+    {
+      "id": "P09",
+      "title": "2026角色大赏最终结果",
+      "url": "https://corporate.sanrio.co.jp/news/20260628_01.html",
+      "publisher": "Sanrio／官方",
+      "published": "2026-06-28",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "supports": "帕恰狗最终第3；总活动70,647,379票。",
+      "boundary": "票不是独立人数、购买人数或销量；总票数不归帕恰狗。"
+    },
+    {
+      "id": "P10",
+      "title": "第一人称粉丝专栏：想多看看帕恰狗",
+      "url": "https://nlab.itmedia.co.jp/cont/articles/3301311/",
+      "publisher": "ねとらぼ／粉丝作者",
+      "published": "2020-02-28",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "supports": "同一作者四页：展示收藏、工作时用跳跃图案毛巾、触摸毛绒、给玩偶取名与喜爱换装；有Dream Tomica购买自述。",
+      "boundary": "一个定向样本，四页不计四人；实际订单、金额和复购次数未核。第二至四页分别为原URL加2、3、4。"
+    }
+  ],
+  "archive": "research/pochacco/2026-10-28/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/pochacco/2026-10-28/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/pochacco/2026-10-28/",
+  "scope_note": "按用户本轮要求，不采集小红书。已交付标准研究与限定二维测试；partial表示仍有商业、用户与技术证据缺口。",
+  "owner": {
+    "creator": null,
+    "operator": "Sanrio／株式会社サンリオ",
+    "relation": "官方自有角色运营与版权署名；初代个人作者及完整合同链本轮未核",
+    "since": "1989",
+    "sources": [
+      "P01",
+      "P02",
+      "P03"
+    ]
+  },
+  "origin": {
+    "path": [
+      "产品先行"
+    ],
+    "year": 1989,
+    "story": "1989年8月以34件文具、手帕、毛绒、卫衣等商品登场，面向小学和初中人群。店铺和草莓新闻提供早期接触；不是先有动画或绘本才做玩具。",
+    "sources": [
+      "P02"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1989-08",
+      "event": "34件首发商品，以学生日用品进入市场",
+      "type": "self_report",
+      "sources": [
+        "P02"
+      ]
+    },
+    {
+      "date": "约1991",
+      "event": "服装进入常见造型；1991—1995连续五届角色大赏第一",
+      "type": "self_report",
+      "sources": [
+        "P02"
+      ]
+    },
+    {
+      "date": "2014",
+      "event": "与其他旧角色一起出现在复古系列",
+      "type": "self_report",
+      "sources": [
+        "P02"
+      ]
+    },
+    {
+      "date": "2017",
+      "event": "推出18年来首个单独设计系列，细线与薄荷色等面向成年用户",
+      "type": "self_report",
+      "sources": [
+        "P02"
+      ]
+    },
+    {
+      "date": "2018",
+      "event": "从签名会的背面偏好反馈发展屁股主题",
+      "type": "self_report",
+      "sources": [
+        "P02",
+        "P03"
+      ]
+    },
+    {
+      "date": "2020-01",
+      "event": "进入六人组合Hapidanbui，发展挑战和乐队内容",
+      "type": "self_report",
+      "sources": [
+        "P04"
+      ]
+    },
+    {
+      "date": "2024-02",
+      "event": "35周年红丝带系列与MOOK",
+      "type": "self_report",
+      "sources": [
+        "P05",
+        "P08"
+      ]
+    },
+    {
+      "date": "2025-08",
+      "event": "寿司坐姿毛绒推出",
+      "type": "self_report",
+      "sources": [
+        "P06"
+      ]
+    },
+    {
+      "date": "2026-02",
+      "event": "与小鸡相处主题推出",
+      "type": "self_report",
+      "sources": [
+        "P07"
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "event": "角色大赏最终第3",
+      "type": "self_report",
+      "sources": [
+        "P09"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "绕一点路，也会遇到小小的开心。",
+    "sentence_type": "允许",
+    "basis": "inferred",
+    "sources": [
+      "P01",
+      "P07",
+      "P10"
+    ]
+  },
+  "core": {
+    "personality": "好奇、冒失、热心",
+    "emotion": "外放",
+    "action": "散步绕路、和伙伴玩、尝试运动与新挑战",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "工作桌边、出门随身物、收藏角",
+    "behavior": "粉丝把跳跃图案毛巾带进工作场景、抚摸毛绒、给娃取名",
+    "state": "从重复日常中寻找一点轻快",
+    "conflict": "想被鼓励，却未必想再被要求努力",
+    "unsaid": "让我先绕个小弯，再回去面对事情。",
+    "basis": "inferred",
+    "sources": [
+      "P10"
+    ]
+  },
+  "circle": {
+    "who": "早期目标为学龄儿童；当前成人设计和成年粉丝样本可核，整体年龄/性别比例未知",
+    "where": "官方店铺、设计师签名会、组合内容、日用商品与收藏",
+    "buy": "P10一位粉丝展示收藏并自述买入；金额、付款凭证和总体复购未知",
+    "signs": "红丝带、屁股/背面主题、小鸡伙伴、历史图案；不是所有用户共享的黑话",
+    "share": "收藏陈列、日常携带、毛绒命名与换装、拍照摆放",
+    "breakout": "复古回归、群体内容和跨品类增加接触点；新增客群与成交归因未核"
+  },
+  "pendulum": {
+    "position": "软萌治愈",
+    "against": "研究归纳：以轻快、好奇提供日常节奏变化；没有1989审美份额证据，不能编造对某种潮流的反动。"
+  },
+  "form": {
+    "archetype": "动物类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "头型",
+      "姿态"
+    ],
+    "mark": "白色大头与黑色垂耳、头顶短毛、小眼鼻结合灵活动作；红衣是常见款，不是全IP必需",
+    "face": "V01头脸倾斜；小竖椭圆眼、斜椭圆鼻、无嘴；不同图案有表情变化",
+    "emotion": "外放",
+    "odd": "大头和小躯干以夸张手脚动作制造轻快感",
+    "density": "极简",
+    "naming": "描述",
+    "group": "单角色",
+    "note": "名字来自胖乎乎的形态；朋友群与Hapidanbui是关系结构，不把六人当同一角色换皮。"
+  },
+  "collide_combo": "不要整体搬用白色蛋形大头＋黑长耳＋三根短毛＋小椭圆眼鼻＋红衣抬脚的组合；可借动作驱动识别的机制，重新建立原型与轮廓。",
+  "color": {
+    "mode": "白底加签名色",
+    "main": "白色本体、黑褐耳与线，红/粉/黄衣和薄荷环境随系列变化",
+    "signature": "黑白头脸比红衣更跨版本；红是早期与35周年线索",
+    "notes": "V01三个不透明像素实取值为屏幕近似，不是官方色卡；2017细棕线和薄荷主题不能推广成全IP固定规范。"
+  },
+  "materials": "V07/V08可见毛绒、布带、刺绣/深色五官；成分与连接工艺按SKU保留未知。P07明确有植绒随机挂件；插画粗线不是实物绒毛证明。",
+  "carrier": {
+    "primary": "授权图案",
+    "secondary": "实物潮玩",
+    "note": "角色商品与图案为核心；官方自产、授权产品、组合内容并行，合同口径不同。"
+  },
+  "product": {
+    "first_category": "其他",
+    "hit_category": null,
+    "hit_product": null,
+    "first_note": "首发34件为多品类组合；本轮无法以销量确定第一爆款。",
+    "price_band": "11项代表样本：日本2024—2026发布含税JPY990—4180；不等于大陆现价或全部SKU价格带。",
+    "sources": [
+      "P02",
+      "P05",
+      "P06",
+      "P07",
+      "P08"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "首发商品种数",
+      "value": 34,
+      "unit": "种",
+      "period": "1989-08",
+      "type": "self_report",
+      "boundary": "不等于销量",
+      "sources": [
+        "P02"
+      ]
+    },
+    {
+      "metric": "连续角色大赏冠军届数",
+      "value": 5,
+      "unit": "届",
+      "period": "1991—1995",
+      "type": "self_report",
+      "boundary": "活动荣誉，不是销售增长",
+      "sources": [
+        "P02"
+      ]
+    },
+    {
+      "metric": "2026角色大赏最终名次",
+      "value": 3,
+      "unit": "名",
+      "period": "2026最终",
+      "type": "self_report",
+      "boundary": "票选名次，非市场份额",
+      "sources": [
+        "P09"
+      ]
+    },
+    {
+      "metric": "独立IP收入／授权费／净销量",
+      "value": null,
+      "unit": null,
+      "period": "截至2026-10-28",
+      "type": "self_report",
+      "boundary": "未取得可核独立口径，不移用集团数",
+      "sources": [
+        "P02",
+        "P09"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "让动作承担情绪，减少对大表情的依赖。",
+      "type": "inference",
+      "evidence": "V01抬脚、V03换衣、V06推车；P10粉丝把跳跃毛巾用于工作时的情绪支撑。",
+      "boundary": "单帧与一个用户样本；无法证明动作比脸更促购。",
+      "sources": [
+        "P01",
+        "P02",
+        "P10"
+      ]
+    },
+    {
+      "claim": "保留头脸关系，通过线条与色彩适配成长中的用户。",
+      "type": "inference",
+      "evidence": "2017细手绘线、薄荷与粉衣，对照1989厚黑线；官方明确成人方向。",
+      "boundary": "成年用户仍可能因熟悉度/渠道买入，缺少设计改版对照销量。",
+      "sources": [
+        "P02"
+      ]
+    },
+    {
+      "claim": "把关系和背面细节转成可收藏的题材。",
+      "type": "inference",
+      "evidence": "签名会背面反馈被转为2018主题，2026抱小鸡与植绒小物让关系可携带。",
+      "boundary": "仅能证实反馈被采纳；不能认定主题一定卖得更好。",
+      "sources": [
+        "P02",
+        "P03",
+        "P07"
+      ]
+    },
+    {
+      "claim": "独立系列与组合内容互补，提供回归入口。",
+      "type": "inference",
+      "evidence": "2017独立系列、2020Hapidanbui、2026前三。",
+      "boundary": "时间先后不等于因果；集团渠道、库存、市场环境均可能影响。",
+      "sources": [
+        "P02",
+        "P04",
+        "P09"
+      ]
+    }
+  ],
+  "counterexamples": "官方称2017是18年来首个单独系列，不能写成持续畅销18年；期间仍有联合复古商品。2020疫情导致活动形式改变是外部限制，不是IP失败。没有已核质量争议或退坑规模；Reddit缩小尺寸讨论仅检索片段，未纳入结论。",
+  "theory": {
+    "shell": "公共犬形通过头脸、耳、短毛和姿态组合形成识别；不靠单个红色或单一毛绒SKU。",
+    "core": "好奇、绕路与伙伴关系使轻快有可写的动作；研究句不是官方口号。",
+    "shadow": "小狗、红T恤、点眼为公共语汇，具体组合仍有强识别；换色不能自动成为新身份。",
+    "two_layers": {
+      "surface": "推断：一眼可读的轻快小狗与日用品用途提供入口。",
+      "deep": "一个粉丝样本展示给娃取名、触摸陪伴、收藏不同装扮；背面细节被官方反馈机制采纳。"
+    },
+    "validation": "付费证据最弱处是缺订单和净销量；商品发行、收藏展示、购买自述、角色投票分层记录，不用票选替代成交。"
+  },
+  "for_skills": {
+    "lab": "把轻快写成绕路、遇见伙伴、尝试等具体行为，测试用户是否需要许可感或单纯图案喜欢。",
+    "form": "借动作与留白的情绪作用，独立重建原型、头脸与支撑；不要照搬黑白犬＋短毛＋红衣组合。",
+    "studio": "把关系设计转成日常可用SKU；毛绒需验证耳连接、五官位置、脚掌露出与坐姿稳定性，主题色和体色分开。"
+  },
+  "gaps": [
+    "初代自然人作者及完整权利链未核；不能把当期担当设计师直接当原作者。",
+    "单IP收入、销量、利润、授权费、退货和复购率未知；角色大赏不填补这些缺口。",
+    "未取得官方技术三视图、完整BOM、生产色卡、重量和成本；不可见结构不补。",
+    "本轮不用小红书；独立直接用户仅P10一位旧样本，无代表性、当前中国用户结论或已核负评。",
+    "没有连续30天内容样本或增长归因；历史低谷和恢复主要为官方回顾。",
+    "纯文字2次均未通过；附图v2仅在V01可见二维身份相似度上接近，严格平涂仍有残余纹理；英文、3D、毛绒和批次稳定性未测。",
+    "只交付研究与候选方法；未进入新IP原创开发，三阶段中英原创六条文本留待确定独立表达后生成。"
+  ]
+}

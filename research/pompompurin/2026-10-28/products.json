@@ -1,0 +1,230 @@
+[
+  {
+    "product_id": "PN01",
+    "name": "あの頃复刻毛绒M",
+    "category": "毛绒",
+    "price": 3696,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2026-08-27",
+    "dimensions": "W23.5×H26cm",
+    "materials_official": null,
+    "sources": [
+      "B04"
+    ],
+    "note": "V03；深度和重量未核。",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  },
+  {
+    "product_id": "PN02",
+    "name": "あの頃复刻毛绒S",
+    "category": "毛绒",
+    "price": 2970,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2026-08-27",
+    "dimensions": "W17×H18cm",
+    "materials_official": null,
+    "sources": [
+      "B04"
+    ],
+    "note": "",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  },
+  {
+    "product_id": "PN03",
+    "name": "あの頃角色挂件",
+    "category": "挂件",
+    "price": 2200,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2026-08-27",
+    "dimensions": null,
+    "materials_official": null,
+    "sources": [
+      "B05"
+    ],
+    "note": "",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  },
+  {
+    "product_id": "PN04",
+    "name": "あの頃Muffin朋友毛绒",
+    "category": "毛绒",
+    "price": 2695,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2026-08-27",
+    "dimensions": "W12×H13.5cm",
+    "materials_official": null,
+    "sources": [
+      "B04"
+    ],
+    "note": "朋友角色，不计作布丁狗换装。",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  },
+  {
+    "product_id": "PN05",
+    "name": "あの頃托特包",
+    "category": "授权周边",
+    "price": 3498,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2026-08-27",
+    "dimensions": null,
+    "materials_official": null,
+    "sources": [
+      "B05"
+    ],
+    "note": "",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  },
+  {
+    "product_id": "PN06",
+    "name": "あの頃手提包",
+    "category": "授权周边",
+    "price": 2200,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2026-08-27",
+    "dimensions": null,
+    "materials_official": null,
+    "sources": [
+      "B05"
+    ],
+    "note": "",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  },
+  {
+    "product_id": "PN07",
+    "name": "あの頃化妆/收纳包",
+    "category": "授权周边",
+    "price": 1793,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2026-08-27",
+    "dimensions": null,
+    "materials_official": null,
+    "sources": [
+      "B05"
+    ],
+    "note": "",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  },
+  {
+    "product_id": "PN08",
+    "name": "あの頃证件套",
+    "category": "授权周边",
+    "price": 2200,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2026-08-27",
+    "dimensions": null,
+    "materials_official": null,
+    "sources": [
+      "B05"
+    ],
+    "note": "",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  },
+  {
+    "product_id": "PN09",
+    "name": "あの頃随机玩偶用口袋配件",
+    "category": "随机配件",
+    "price": 946,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2026-08-27",
+    "dimensions": null,
+    "materials_official": null,
+    "sources": [
+      "B05"
+    ],
+    "note": "8种不可选；是放入小玩偶拍照的口袋，不含玩偶；无隐藏与概率证据。",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  },
+  {
+    "product_id": "PN10",
+    "name": "Standard M毛绒（14738900）",
+    "category": "毛绒",
+    "price": 309,
+    "currency": "HKD",
+    "region": "香港",
+    "price_basis": "访问展示价",
+    "product_released_at": null,
+    "dimensions": "L21.5×W20.5×H18cm",
+    "materials_official": "内外聚酯；中国制造；3岁以上",
+    "sources": [
+      "B08"
+    ],
+    "note": "2026-10-28访问；不同于日本复刻M。",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  },
+  {
+    "product_id": "PN11",
+    "name": "30周年艺术书普通版",
+    "category": "出版物",
+    "price": 1980,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2026-04-15",
+    "dimensions": null,
+    "materials_official": null,
+    "sources": [
+      "B09"
+    ],
+    "note": "",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  },
+  {
+    "product_id": "PN12",
+    "name": "30周年艺术书豪华版",
+    "category": "出版物",
+    "price": 5500,
+    "currency": "JPY",
+    "region": "日本",
+    "price_basis": "含税发布价",
+    "product_released_at": "2026-04-15",
+    "dimensions": null,
+    "materials_official": null,
+    "sources": [
+      "B09"
+    ],
+    "note": "限两家书店；含画布和手机架；4月13日官方称预约已达计划数，分母未知。",
+    "sales": null,
+    "packaging": null,
+    "probability": null
+  }
+]

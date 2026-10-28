@@ -1,0 +1,122 @@
+[
+  {
+    "id": "P01",
+    "title": "日本官方角色档案",
+    "url": "https://www.sanrio.co.jp/characters/pochacco/",
+    "publisher": "Sanrio／官方",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "supports": "1989登场；好奇、偶尔冒失、喜欢散步绕路；男孩子、小狗；生日2月29日为世界观设定。",
+    "boundary": "不把1989与2月29日拼成真实出生日期；1989不是闰年。"
+  },
+  {
+    "id": "P02",
+    "title": "Sanrio Times：35周年与历史回顾",
+    "url": "https://corporate.sanrio.co.jp/en/sanriotimes/20240222.html",
+    "publisher": "Sanrio／官方",
+    "published": "2024-02-22",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "supports": "1989年8月首发34件；1991—1995五连冠；2017为18年来首个单独设计系列；2018屁股主题来自签名会反馈；2020加入Hapidanbui。",
+    "boundary": "官方回顾及受访者解释，未提供销量序列。"
+  },
+  {
+    "id": "P03",
+    "title": "Domani／Oggi：31周年设计师访谈",
+    "url": "https://oggi.jp/7812158",
+    "publisher": "小学馆／设计师采访",
+    "published": "2020-03-29",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "supports": "从签名会反馈开发背面系列；回头看尾部蝴蝶的储蓄罐立体化困难；海外粉色圆点设计是受访者印象。",
+    "boundary": "原Domani页面重定向至Oggi；未核初代个人作者；停产的储蓄罐不等于失败品。"
+  },
+  {
+    "id": "P04",
+    "title": "Hapidanbui六人组合成立公告",
+    "url": "https://prtimes.jp/main/html/rd/p/000000172.000037629.html",
+    "publisher": "Sanrio／PR TIMES发布",
+    "published": "2020-01-31",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "supports": "六位既有男孩角色组成组合，以自我接纳、挑战和乐队内容开拓活动。",
+    "boundary": "组合成员保留各自身份；V形回升是企划愿景而非经审计成绩。"
+  },
+  {
+    "id": "P05",
+    "title": "35周年红丝带系列",
+    "url": "https://www.sanrio.co.jp/news/goods/pc-35th-red-ribbon-202402/",
+    "publisher": "Sanrio／官方",
+    "published": "2024-02-21",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "fact",
+    "supports": "2024-02-28日本发售19项；红色呼应早期印象；含毛绒、杯包、相框和随机小物。",
+    "boundary": "价格为日本发布含税价；随机8/10种不代表有隐藏或等概率。"
+  },
+  {
+    "id": "P06",
+    "title": "TAKARA TOMY ARTS：ちょっこりさん 寿司-sushi-",
+    "url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y152047",
+    "publisher": "TAKARA TOMY ARTS／制造商",
+    "published": "2025-06-27",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "fact",
+    "supports": "2025年8月发售、JPY2420含税、W7×H12×D8cm；可坐置拍照。",
+    "boundary": "图片为制造商示意，完整纤维和内部结构未披露。"
+  },
+  {
+    "id": "P07",
+    "title": "和小鸡们相处的2026设计系列",
+    "url": "https://www.sanrio.co.jp/news/goods/pc-loves-pii-chans-202602/",
+    "publisher": "Sanrio／官方",
+    "published": "2026-02-18",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "fact",
+    "supports": "多数门店2月26日发售、部分2月27日；抱小鸡毛绒、A4袋、8种植绒随机挂件等。",
+    "boundary": "主题人物关系可核，净销量未知。"
+  },
+  {
+    "id": "P08",
+    "title": "35周年MOOK与毛绒小包",
+    "url": "https://www.sanrio.co.jp/news/goods/pc-wakuwaku-mook-20240227/",
+    "publisher": "Sanrio／官方",
+    "published": "2024-02-27",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "fact",
+    "supports": "KADOKAWA于2024-02-29发行；B5、16页、JPY2695含税；附毛绒pochette。",
+    "boundary": "纪念出版物不是IP起源；ISBN978-4-04-897731-9。"
+  },
+  {
+    "id": "P09",
+    "title": "2026角色大赏最终结果",
+    "url": "https://corporate.sanrio.co.jp/news/20260628_01.html",
+    "publisher": "Sanrio／官方",
+    "published": "2026-06-28",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "supports": "帕恰狗最终第3；总活动70,647,379票。",
+    "boundary": "票不是独立人数、购买人数或销量；总票数不归帕恰狗。"
+  },
+  {
+    "id": "P10",
+    "title": "第一人称粉丝专栏：想多看看帕恰狗",
+    "url": "https://nlab.itmedia.co.jp/cont/articles/3301311/",
+    "publisher": "ねとらぼ／粉丝作者",
+    "published": "2020-02-28",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "supports": "同一作者四页：展示收藏、工作时用跳跃图案毛巾、触摸毛绒、给玩偶取名与喜爱换装；有Dream Tomica购买自述。",
+    "boundary": "一个定向样本，四页不计四人；实际订单、金额和复购次数未核。第二至四页分别为原URL加2、3、4。"
+  }
+]

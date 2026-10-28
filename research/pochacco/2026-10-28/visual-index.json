@@ -1,0 +1,286 @@
+[
+  {
+    "image_id": "pc-v01",
+    "title": "当前官网主图",
+    "sid": "P01",
+    "version_year": null,
+    "image_created_at": null,
+    "observed_features": "倾斜白色大头；三根短头毛；左耳横伸、右耳向上；小竖眼和斜鼻，无嘴。红T恤、弯曲双臂，左侧抬起脚掌，三小肉垫和大肉垫可见。下方弯腿，左下小圆部件含白缺口，解剖归属不强判。",
+    "visual_language": "粗黑褐手绘线、白体、红衣；头脸留白大，动作不对称；不把单一姿势当全IP标准。",
+    "interpretation": {
+      "type": "inference",
+      "text": "抬脚和歪头提供轻快的读感，可承接绕路与好奇。",
+      "alternative": "亲近感也可能来自既有熟悉度或使用情境，未做盲测。"
+    },
+    "material_and_structure": "二维色块，无毛绒材质依据；遮挡后的手脚连接不可补。",
+    "presentation": "单幅正面偏斜全身，透明底；比例仅当前投影估计。",
+    "product_ids": [],
+    "event_ids": [],
+    "original_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/list-pochacco.png",
+    "observed_at": "2026-10-28",
+    "storage_status": "reference_only",
+    "local_path": null,
+    "rights": "版权归原权利方；公开页仅外链原站图像并注明来源，不在仓库分发官方原图。未取得生产或商用授权。",
+    "inspection": "原图已实际打开观察；可见信息不等于官方技术设定。",
+    "subject_id": "pochacco",
+    "source_page_url": "https://www.sanrio.co.jp/characters/pochacco/",
+    "page_published_at": null,
+    "product_released_at": null,
+    "official_settings": {
+      "sources": [
+        "P01"
+      ],
+      "note": "见官方角色档案；不由画面推断人设。"
+    },
+    "author_brand": "Sanrio；商品制造商见原页"
+  },
+  {
+    "image_id": "pc-v02",
+    "title": "1989首代图案",
+    "sid": "P02",
+    "version_year": 1989,
+    "image_created_at": null,
+    "observed_features": "未穿衣白狗侧坐，黑耳和短毛，小头脸五官；侧面身体与脚更清楚。",
+    "visual_language": "厚黑线；红背景、黄色标识与白身体分离；红不是当时衣服。",
+    "interpretation": {
+      "type": "inference",
+      "text": "坐姿也能保留身份，红衣不是必须。",
+      "alternative": "亲近感也可能来自既有熟悉度或使用情境，未做盲测。"
+    },
+    "material_and_structure": "平面印刷样式；不能推断商品基材。",
+    "presentation": "官方历史图案，带原标识及红底。",
+    "product_ids": [],
+    "event_ids": [],
+    "original_image_url": "https://corporate.sanrio.co.jp/en/sanriotimes/assets/20240222_05_20240222_1.jpg",
+    "observed_at": "2026-10-28",
+    "storage_status": "reference_only",
+    "local_path": null,
+    "rights": "版权归原权利方；公开页仅外链原站图像并注明来源，不在仓库分发官方原图。未取得生产或商用授权。",
+    "inspection": "原图已实际打开观察；可见信息不等于官方技术设定。",
+    "subject_id": "pochacco",
+    "source_page_url": "https://corporate.sanrio.co.jp/en/sanriotimes/20240222.html",
+    "page_published_at": "2024-02-22",
+    "product_released_at": null,
+    "official_settings": {
+      "sources": [
+        "P01"
+      ],
+      "note": "见官方角色档案；不由画面推断人设。"
+    },
+    "author_brand": "Sanrio；商品制造商见原页"
+  },
+  {
+    "image_id": "pc-v03",
+    "title": "约1991换衣图案",
+    "sid": "P02",
+    "version_year": 1991,
+    "image_created_at": null,
+    "observed_features": "同一狗形通过抬手穿衣、衣服遮头等连环单帧表达过程；黄色衣服。",
+    "visual_language": "黑白犬保持，黄衣和蓝色分格为主题色；动作比静态脸承载更多变化。",
+    "interpretation": {
+      "type": "inference",
+      "text": "日常动作能发展系列内容，不必每次加新饰物。",
+      "alternative": "亲近感也可能来自既有熟悉度或使用情境，未做盲测。"
+    },
+    "material_and_structure": "二维多格图，不是已观看动画；物理衣服结构未知。",
+    "presentation": "多个小画面并置；无统一测量视角。",
+    "product_ids": [],
+    "event_ids": [],
+    "original_image_url": "https://corporate.sanrio.co.jp/en/sanriotimes/assets/20240222_07_20240222_1.jpg",
+    "observed_at": "2026-10-28",
+    "storage_status": "reference_only",
+    "local_path": null,
+    "rights": "版权归原权利方；公开页仅外链原站图像并注明来源，不在仓库分发官方原图。未取得生产或商用授权。",
+    "inspection": "原图已实际打开观察；可见信息不等于官方技术设定。",
+    "subject_id": "pochacco",
+    "source_page_url": "https://corporate.sanrio.co.jp/en/sanriotimes/20240222.html",
+    "page_published_at": "2024-02-22",
+    "product_released_at": null,
+    "official_settings": {
+      "sources": [
+        "P01"
+      ],
+      "note": "见官方角色档案；不由画面推断人设。"
+    },
+    "author_brand": "Sanrio；商品制造商见原页"
+  },
+  {
+    "image_id": "pc-v04",
+    "title": "2017冰淇淋设计",
+    "sid": "P02",
+    "version_year": 2017,
+    "image_created_at": null,
+    "observed_features": "小狗穿粉衣，周围小鸡与冰淇淋题材；头耳和小眼鼻仍可识别。",
+    "visual_language": "较细棕线，薄荷/粉色环境；主体黑白与环境调色分开。",
+    "interpretation": {
+      "type": "inference",
+      "text": "官方成人方向与轻柔线条同时出现；无法隔离哪项促成回归。",
+      "alternative": "亲近感也可能来自既有熟悉度或使用情境，未做盲测。"
+    },
+    "material_and_structure": "插画，不推断毛长、织物或喷涂。",
+    "presentation": "主题完整画面；装饰多于基础主图。",
+    "product_ids": [],
+    "event_ids": [],
+    "original_image_url": "https://corporate.sanrio.co.jp/en/sanriotimes/assets/20240222_09_20240222_1.jpg",
+    "observed_at": "2026-10-28",
+    "storage_status": "reference_only",
+    "local_path": null,
+    "rights": "版权归原权利方；公开页仅外链原站图像并注明来源，不在仓库分发官方原图。未取得生产或商用授权。",
+    "inspection": "原图已实际打开观察；可见信息不等于官方技术设定。",
+    "subject_id": "pochacco",
+    "source_page_url": "https://corporate.sanrio.co.jp/en/sanriotimes/20240222.html",
+    "page_published_at": "2024-02-22",
+    "product_released_at": null,
+    "official_settings": {
+      "sources": [
+        "P01"
+      ],
+      "note": "见官方角色档案；不由画面推断人设。"
+    },
+    "author_brand": "Sanrio；商品制造商见原页"
+  },
+  {
+    "image_id": "pc-v05",
+    "title": "2018背面主题",
+    "sid": "P02",
+    "version_year": 2018,
+    "image_created_at": null,
+    "observed_features": "多姿态包含背面、回望与蝴蝶，注意力落在通常不被正面头像展示的部位。",
+    "visual_language": "轻灰棕线与薄荷、黄色环境；减弱黑线压迫，多个方向扩展图案。",
+    "interpretation": {
+      "type": "inference",
+      "text": "签名会反馈被变成细节题材，给熟悉角色增加观看角度。",
+      "alternative": "亲近感也可能来自既有熟悉度或使用情境，未做盲测。"
+    },
+    "material_and_structure": "二维后视不能直接生成量产背部缝线；储蓄罐难做是P03采访而非本图规格。",
+    "presentation": "多姿态插画拼图。",
+    "product_ids": [],
+    "event_ids": [],
+    "original_image_url": "https://corporate.sanrio.co.jp/en/sanriotimes/assets/20240222_10_20240222_1.png",
+    "observed_at": "2026-10-28",
+    "storage_status": "reference_only",
+    "local_path": null,
+    "rights": "版权归原权利方；公开页仅外链原站图像并注明来源，不在仓库分发官方原图。未取得生产或商用授权。",
+    "inspection": "原图已实际打开观察；可见信息不等于官方技术设定。",
+    "subject_id": "pochacco",
+    "source_page_url": "https://corporate.sanrio.co.jp/en/sanriotimes/20240222.html",
+    "page_published_at": "2024-02-22",
+    "product_released_at": null,
+    "official_settings": {
+      "sources": [
+        "P01"
+      ],
+      "note": "见官方角色档案；不由画面推断人设。"
+    },
+    "author_brand": "Sanrio；商品制造商见原页"
+  },
+  {
+    "image_id": "pc-v06",
+    "title": "推车与小鸡的日常图案",
+    "sid": "P01",
+    "version_year": null,
+    "image_created_at": null,
+    "observed_features": "红条纹上衣，身体前倾推小车，小鸡同框；运动方向由手臂和车轮说明。",
+    "visual_language": "较细棕线、奶油格底、红色标题与推车；文字和格底不并入体色。",
+    "interpretation": {
+      "type": "inference",
+      "text": "伙伴关系可转为具体日常行动。",
+      "alternative": "亲近感也可能来自既有熟悉度或使用情境，未做盲测。"
+    },
+    "material_and_structure": "二维插画；轮子只是图案中道具，不是商品功能证据。",
+    "presentation": "带标题的方形构图，侧面动作。",
+    "product_ids": [],
+    "event_ids": [],
+    "original_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-pochacco9-1.png",
+    "observed_at": "2026-10-28",
+    "storage_status": "reference_only",
+    "local_path": null,
+    "rights": "版权归原权利方；公开页仅外链原站图像并注明来源，不在仓库分发官方原图。未取得生产或商用授权。",
+    "inspection": "原图已实际打开观察；可见信息不等于官方技术设定。",
+    "subject_id": "pochacco",
+    "source_page_url": "https://www.sanrio.co.jp/characters/pochacco/",
+    "page_published_at": null,
+    "product_released_at": null,
+    "official_settings": {
+      "sources": [
+        "P01"
+      ],
+      "note": "见官方角色档案；不由画面推断人设。"
+    },
+    "author_brand": "Sanrio；商品制造商见原页"
+  },
+  {
+    "image_id": "pc-v07",
+    "title": "寿司坐姿毛绒三角度",
+    "sid": "P06",
+    "version_year": 2025,
+    "image_created_at": null,
+    "observed_features": "白色坐姿犬、黑垂耳；背上橙色白纹鲑鱼块与绳带；正侧背照片显示道具相对位置。",
+    "visual_language": "白黑犬保持，橙色大块来自寿司造型；不能把它当体色升级。",
+    "interpretation": {
+      "type": "inference",
+      "text": "坐置和摄影题材可带来使用理由，是否购买因寿司需另测。",
+      "alternative": "亲近感也可能来自既有熟悉度或使用情境，未做盲测。"
+    },
+    "material_and_structure": "可见绒面、布块和绳带，深色五官疑似刺绣；官方尺寸7×12×8cm，纤维、内部配重未知。",
+    "presentation": "商品图三视角、白底、柔和光；非工程三视图。",
+    "product_ids": [
+      "PC08"
+    ],
+    "event_ids": [],
+    "original_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y152047_b.jpg",
+    "observed_at": "2026-10-28",
+    "storage_status": "reference_only",
+    "local_path": null,
+    "rights": "版权归原权利方；公开页仅外链原站图像并注明来源，不在仓库分发官方原图。未取得生产或商用授权。",
+    "inspection": "原图已实际打开观察；可见信息不等于官方技术设定。",
+    "subject_id": "pochacco",
+    "source_page_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y152047",
+    "page_published_at": "2025-06-27",
+    "product_released_at": "2025-08",
+    "official_settings": {
+      "sources": [
+        "P01"
+      ],
+      "note": "见官方角色档案；不由画面推断人设。"
+    },
+    "author_brand": "Sanrio；商品制造商见原页"
+  },
+  {
+    "image_id": "pc-v08",
+    "title": "35周年红丝带毛绒",
+    "sid": "P05",
+    "version_year": 2024,
+    "image_created_at": null,
+    "observed_features": "白绒犬、黑垂耳、红颈带，抬脚姿态；一侧红脚底含35标识，另一侧白脚底有肉垫。",
+    "visual_language": "红从衣服变成颈部和脚底点缀；黑白头脸仍保留，正面无红T恤。",
+    "interpretation": {
+      "type": "inference",
+      "text": "纪念信息落在小部位，使熟悉者可辨年份。",
+      "alternative": "亲近感也可能来自既有熟悉度或使用情境，未做盲测。"
+    },
+    "material_and_structure": "可见较蓬松白绒、黑耳、缎带感织带、深色有光五官、脚底刺绣；纤维与眼鼻材料未核。",
+    "presentation": "单品前斜角白底柔光；不能只凭图给出实际高度。",
+    "product_ids": [
+      "PC01"
+    ],
+    "event_ids": [],
+    "original_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2024/02/sub1-goods-pc35th-redribbon-2402.jpg",
+    "observed_at": "2026-10-28",
+    "storage_status": "reference_only",
+    "local_path": null,
+    "rights": "版权归原权利方；公开页仅外链原站图像并注明来源，不在仓库分发官方原图。未取得生产或商用授权。",
+    "inspection": "原图已实际打开观察；可见信息不等于官方技术设定。",
+    "subject_id": "pochacco",
+    "source_page_url": "https://www.sanrio.co.jp/news/goods/pc-35th-red-ribbon-202402/",
+    "page_published_at": "2024-02-21",
+    "product_released_at": "2024-02-28",
+    "official_settings": {
+      "sources": [
+        "P01"
+      ],
+      "note": "见官方角色档案；不由画面推断人设。"
+    },
+    "author_brand": "Sanrio；商品制造商见原页"
+  }
+]

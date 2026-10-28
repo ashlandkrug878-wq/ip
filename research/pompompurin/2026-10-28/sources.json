@@ -1,0 +1,110 @@
+[
+  {
+    "id": "B01",
+    "title": "日本官方角色档案",
+    "url": "https://www.sanrio.co.jp/characters/pompompurin/",
+    "publisher": "Sanrio／官方",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "supports": "1996登场；金毛犬男孩；棕色贝雷帽、我行我素、爱出门讨厌看家、藏主人单只鞋；生日4月16日为设定。",
+    "boundary": "布丁是名字与喜好线索，物种不是布丁。"
+  },
+  {
+    "id": "B02",
+    "title": "Sanrio Times：担当设计师地井明子访谈",
+    "url": "https://sanriotimes.sanrio.co.jp/n/n6f925b474e83",
+    "publisher": "Sanrio／官方",
+    "published": "2023-04-07",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "supports": "内部犬角色竞赛前三名制作毛绒再由店铺顾客投票；首批毛绒和文具；地井明子1997起担当；2014开设Twitter、2022-09朋友视角漫画。",
+    "boundary": "顾客投票样本与成交未知；1997接任不等于1996初代作者；跨代用户为设计师观察。"
+  },
+  {
+    "id": "B03",
+    "title": "WalkerPlus：25周年起伏与复兴访谈",
+    "url": "https://www.walkerplus.com/article/1027287/",
+    "publisher": "WalkerPlus／Sanrio访谈",
+    "published": "2021-04-15",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "supports": "1997首冠、到2003在前五，之后约六年低谷，2010前后回升，2015再获第一；怀旧粉丝和黄色新鲜感为受访方解释。",
+    "boundary": "官方受访回顾，无同期经营时间序列；不是独立因果检验。"
+  },
+  {
+    "id": "B04",
+    "title": "30周年「あの頃」复刻发布",
+    "url": "https://corporate.sanrio.co.jp/news/20260819.html",
+    "publisher": "Sanrio／官方",
+    "published": "2026-08-19",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "supports": "2026-08-27发售16项；37家周年店；回顾1996首代毛绒，M高26cm、S高18cm。",
+    "boundary": "复刻重现印象与质感，未宣称完全相同模具/BOM。"
+  },
+  {
+    "id": "B05",
+    "title": "「あの頃」商品清单与受注更新",
+    "url": "https://www.sanrio.co.jp/news/goods/pn-anokoro-202608/",
+    "publisher": "Sanrio／官方",
+    "published": "2026-08-19",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "fact",
+    "supports": "日本含税价格及8种随机玩偶用口袋配件；9月24日更新：6项10月1日12时至8日12时受注。",
+    "boundary": "截至10月28日该窗口已结束；受注与限购不证明售罄量或净成交。"
+  },
+  {
+    "id": "B06",
+    "title": "30周年主题与涩谷活动发布",
+    "url": "https://corporate.sanrio.co.jp/news/20260415.html",
+    "publisher": "Sanrio／官方",
+    "published": "2026-04-15",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "supports": "30周年提出暂放难题的主题；涩谷三处、约3m装置、4月15—21日活动。",
+    "boundary": "企划表达和展陈规格，不把媒体曝光等同情绪疗效或销量。"
+  },
+  {
+    "id": "B07",
+    "title": "2026角色大赏最终结果",
+    "url": "https://corporate.sanrio.co.jp/news/20260628_01.html",
+    "publisher": "Sanrio／官方",
+    "published": "2026-06-28",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "supports": "布丁狗第1、连续两年第一、累计第5冠；超过700万票。",
+    "boundary": "不把票数当独立用户或收入；未在本轮转录精确票数。"
+  },
+  {
+    "id": "B08",
+    "title": "香港Gift Gate：Standard M毛绒",
+    "url": "https://www.sanriogiftgate.com.hk/en/products/pompompurin-plush-standard-m-",
+    "publisher": "Sanrio Gift Gate香港／官方零售",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "fact",
+    "supports": "货号14738900；访问价HKD309；L21.5×W20.5×H18cm；内外聚酯、中国制造、3岁以上。",
+    "boundary": "访问时价格，不是日本26cm复刻M；动态库存不作确认。"
+  },
+  {
+    "id": "B09",
+    "title": "30周年艺术书发行",
+    "url": "https://www.sanrio.co.jp/news/goods/pn-art-book-20260210/",
+    "publisher": "Sanrio／官方",
+    "published": "2026-02-10",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "fact",
+    "supports": "4月15日PARCO出版，普通版JPY1980、豪华版5500；4月13日更新豪华版预约已达计划数量。",
+    "boundary": "豪华版限两家书店；计划数未知，不能推导销量；纪念画集并非1996起点。"
+  }
+]

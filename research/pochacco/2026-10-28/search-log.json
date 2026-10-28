@@ -1,0 +1,24 @@
+{
+  "selected_by": "用户指定帕恰狗上传，并允许开始其他三丽鸥形象；布丁狗为本轮延伸研究对象，不声称当日最热门。",
+  "observed_at": "2026-10-28",
+  "source_strategy": [
+    "先读日本官方角色档案、历史回顾和原始设计师采访",
+    "核对日本官方系列SKU与制造商、香港官方零售的不同规格口径",
+    "实际打开官方基础图、历史图、主题图与毛绒图后再记录观察",
+    "用户反馈与官方访谈分层，检索片段不当全文证据"
+  ],
+  "excluded": [
+    {
+      "source": "小红书",
+      "reason": "用户本轮明确允许暂不使用；没有采集或捏造笔记。"
+    },
+    {
+      "source": "Reddit尺寸缩小讨论",
+      "reason": "搜索片段可见但全文受阻，不计入已核质量结论。"
+    }
+  ],
+  "source_index": "sources.json",
+  "visual_index": "visual-index.json",
+  "test_checkpoint": "prompt-tests.json",
+  "completed_scope": "标准报告、机器对标卡、实际中文二维测试；附图身份相似接近，纯文字/严格平涂缺口保留。"
+}

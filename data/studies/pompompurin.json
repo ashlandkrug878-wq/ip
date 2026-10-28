@@ -1,0 +1,451 @@
+{
+  "id": "pompompurin",
+  "name": "布丁狗 Pompompurin",
+  "aliases": [
+    "ポムポムプリン",
+    "Purin"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-28",
+  "updated": "2026-10-28",
+  "summary": "从犬角色竞赛与毛绒投票到陪伴型日用品：圆胖金毛犬、低强度表情和生活习惯共同承接松弛感。30周年复刻提供怀旧入口，但早期低谷不能抹去；6组官方视觉、12项商品、4次实际二维测试。",
+  "sources": [
+    {
+      "id": "B01",
+      "title": "日本官方角色档案",
+      "url": "https://www.sanrio.co.jp/characters/pompompurin/",
+      "publisher": "Sanrio／官方",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "supports": "1996登场；金毛犬男孩；棕色贝雷帽、我行我素、爱出门讨厌看家、藏主人单只鞋；生日4月16日为设定。",
+      "boundary": "布丁是名字与喜好线索，物种不是布丁。"
+    },
+    {
+      "id": "B02",
+      "title": "Sanrio Times：担当设计师地井明子访谈",
+      "url": "https://sanriotimes.sanrio.co.jp/n/n6f925b474e83",
+      "publisher": "Sanrio／官方",
+      "published": "2023-04-07",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "supports": "内部犬角色竞赛前三名制作毛绒再由店铺顾客投票；首批毛绒和文具；地井明子1997起担当；2014开设Twitter、2022-09朋友视角漫画。",
+      "boundary": "顾客投票样本与成交未知；1997接任不等于1996初代作者；跨代用户为设计师观察。"
+    },
+    {
+      "id": "B03",
+      "title": "WalkerPlus：25周年起伏与复兴访谈",
+      "url": "https://www.walkerplus.com/article/1027287/",
+      "publisher": "WalkerPlus／Sanrio访谈",
+      "published": "2021-04-15",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "supports": "1997首冠、到2003在前五，之后约六年低谷，2010前后回升，2015再获第一；怀旧粉丝和黄色新鲜感为受访方解释。",
+      "boundary": "官方受访回顾，无同期经营时间序列；不是独立因果检验。"
+    },
+    {
+      "id": "B04",
+      "title": "30周年「あの頃」复刻发布",
+      "url": "https://corporate.sanrio.co.jp/news/20260819.html",
+      "publisher": "Sanrio／官方",
+      "published": "2026-08-19",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "supports": "2026-08-27发售16项；37家周年店；回顾1996首代毛绒，M高26cm、S高18cm。",
+      "boundary": "复刻重现印象与质感，未宣称完全相同模具/BOM。"
+    },
+    {
+      "id": "B05",
+      "title": "「あの頃」商品清单与受注更新",
+      "url": "https://www.sanrio.co.jp/news/goods/pn-anokoro-202608/",
+      "publisher": "Sanrio／官方",
+      "published": "2026-08-19",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "fact",
+      "supports": "日本含税价格及8种随机玩偶用口袋配件；9月24日更新：6项10月1日12时至8日12时受注。",
+      "boundary": "截至10月28日该窗口已结束；受注与限购不证明售罄量或净成交。"
+    },
+    {
+      "id": "B06",
+      "title": "30周年主题与涩谷活动发布",
+      "url": "https://corporate.sanrio.co.jp/news/20260415.html",
+      "publisher": "Sanrio／官方",
+      "published": "2026-04-15",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "supports": "30周年提出暂放难题的主题；涩谷三处、约3m装置、4月15—21日活动。",
+      "boundary": "企划表达和展陈规格，不把媒体曝光等同情绪疗效或销量。"
+    },
+    {
+      "id": "B07",
+      "title": "2026角色大赏最终结果",
+      "url": "https://corporate.sanrio.co.jp/news/20260628_01.html",
+      "publisher": "Sanrio／官方",
+      "published": "2026-06-28",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "supports": "布丁狗第1、连续两年第一、累计第5冠；超过700万票。",
+      "boundary": "不把票数当独立用户或收入；未在本轮转录精确票数。"
+    },
+    {
+      "id": "B08",
+      "title": "香港Gift Gate：Standard M毛绒",
+      "url": "https://www.sanriogiftgate.com.hk/en/products/pompompurin-plush-standard-m-",
+      "publisher": "Sanrio Gift Gate香港／官方零售",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "fact",
+      "supports": "货号14738900；访问价HKD309；L21.5×W20.5×H18cm；内外聚酯、中国制造、3岁以上。",
+      "boundary": "访问时价格，不是日本26cm复刻M；动态库存不作确认。"
+    },
+    {
+      "id": "B09",
+      "title": "30周年艺术书发行",
+      "url": "https://www.sanrio.co.jp/news/goods/pn-art-book-20260210/",
+      "publisher": "Sanrio／官方",
+      "published": "2026-02-10",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "fact",
+      "supports": "4月15日PARCO出版，普通版JPY1980、豪华版5500；4月13日更新豪华版预约已达计划数量。",
+      "boundary": "豪华版限两家书店；计划数未知，不能推导销量；纪念画集并非1996起点。"
+    }
+  ],
+  "archive": "research/pompompurin/2026-10-28/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/pompompurin/2026-10-28/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/pompompurin/2026-10-28/",
+  "scope_note": "按用户本轮要求，不采集小红书。已交付标准研究与限定二维测试；partial表示仍有商业、用户与技术证据缺口。",
+  "owner": {
+    "creator": null,
+    "operator": "Sanrio／株式会社サンリオ",
+    "relation": "官方自有角色运营；地井明子1997起担当，不能直接断言为1996初代创作者",
+    "since": "1996",
+    "sources": [
+      "B01",
+      "B02"
+    ]
+  },
+  "origin": {
+    "path": [
+      "产品先行"
+    ],
+    "year": 1996,
+    "story": "内部犬角色竞赛选出前三名，再做毛绒交店铺顾客投票；胜出后作为入学季文具、毛绒等推出。首代「ぼく、プリン」毛绒可在官方30周年回顾中核对。",
+    "sources": [
+      "B02",
+      "B03",
+      "B04"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1996",
+      "event": "犬角色企划与店内毛绒投票，文具/毛绒商品起步",
+      "type": "self_report",
+      "sources": [
+        "B02",
+        "B03"
+      ]
+    },
+    {
+      "date": "1997",
+      "event": "首次角色大赏第一；地井明子自此担当角色",
+      "type": "self_report",
+      "sources": [
+        "B02",
+        "B03"
+      ]
+    },
+    {
+      "date": "2004—2009前后",
+      "event": "负责人回顾：到2003处于前五，之后约六年低谷",
+      "type": "self_report",
+      "sources": [
+        "B03"
+      ]
+    },
+    {
+      "date": "2010前后",
+      "event": "负责人称再回前五，解释为成长后的粉丝回归",
+      "type": "self_report",
+      "sources": [
+        "B03"
+      ]
+    },
+    {
+      "date": "2014",
+      "event": "官方Twitter开始日常内容",
+      "type": "self_report",
+      "sources": [
+        "B02"
+      ]
+    },
+    {
+      "date": "2015",
+      "event": "相隔18年再次获角色大赏第一",
+      "type": "self_report",
+      "sources": [
+        "B03"
+      ]
+    },
+    {
+      "date": "2022-09",
+      "event": "朋友视角Team Purin漫画开始",
+      "type": "self_report",
+      "sources": [
+        "B02"
+      ]
+    },
+    {
+      "date": "2026-04",
+      "event": "30周年主题、涩谷展陈与艺术书",
+      "type": "self_report",
+      "sources": [
+        "B06",
+        "B09"
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "event": "角色大赏第一，连续两年、累计第五冠",
+      "type": "self_report",
+      "sources": [
+        "B07"
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "event": "16项怀旧系列与37家周年店",
+      "type": "self_report",
+      "sources": [
+        "B04"
+      ]
+    },
+    {
+      "date": "2026-10-01—10-08",
+      "event": "6项商品受注；截至本报告该窗口已结束",
+      "type": "self_report",
+      "sources": [
+        "B05"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "难的事先放一放，今天也可以慢慢来。",
+    "sentence_type": "允许",
+    "basis": "inferred",
+    "sources": [
+      "B01",
+      "B06"
+    ]
+  },
+  "core": {
+    "personality": "悠闲、亲近、贪玩",
+    "emotion": "内收",
+    "action": "午睡、和伙伴玩、藏单只鞋、出门散步",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "紧张日常后的短暂休息、桌边和怀中、熟悉角色再相遇",
+    "behavior": "官方设计毛绒触感、日常内容与复刻；设计师观察粉丝从单人到伴侣/子女一同参与",
+    "state": "希望允许自己暂时放下难题",
+    "conflict": "熟悉和松弛的吸引，与持续购买/陈列负担之间的关系尚未直接采样",
+    "unsaid": "先陪我待一会儿，不必马上变得更好。",
+    "basis": "inferred",
+    "sources": [
+      "B02",
+      "B04",
+      "B06"
+    ]
+  },
+  "circle": {
+    "who": "首发学龄用品使用者；2023设计师提到20—30岁参与者及家庭变化，为局部观察",
+    "where": "门店毛绒、官方日常内容、签名会、周年店和复刻",
+    "buy": "商品发行和豪华书预约达计划数可核；无订单级、付费用户或净销量",
+    "signs": "贝雷帽、单只鞋、Muffin等朋友、屁股星形标记、1996初代感",
+    "share": "可能的抱持/桌摆/复刻对照是研究方向；本轮没有独立当前用户晒法样本",
+    "breakout": "日常内容、纪念活动与复刻提供接触点；增长效果未知"
+  },
+  "pendulum": {
+    "position": "软萌治愈",
+    "against": "研究归纳：30周年明确表达暂放难题；不据此断言1996就以反内卷进入市场。"
+  },
+  "form": {
+    "archetype": "动物类人",
+    "silhouette": "头身一体",
+    "mark_position": [
+      "整体轮廓",
+      "头顶"
+    ],
+    "mark": "淡黄色圆胖犬、下垂耳、小五官与棕色贝雷帽构成代表组合；官方存在摘帽和不同姿态",
+    "face": "V01宽距点眼、倒三角鼻、短竖线加两瓣嘴，眼上留白较大，无眉无腮红",
+    "emotion": "内收",
+    "odd": "软圆大体块与极小五官形成反差；背面星形标记是次级彩蛋",
+    "density": "极简",
+    "naming": "其他",
+    "group": "单角色",
+    "note": "金毛犬设定与布丁命名/食物隐喻分开；Muffin等为独立朋友。"
+  },
+  "collide_combo": "避免淡黄圆胖犬＋下垂长耳＋棕贝雷帽短蒂＋宽距点眼三角鼻两瓣嘴的整体组合；移除帽子或换色不足以形成新身份。",
+  "color": {
+    "mode": "单色识别",
+    "main": "淡黄色身体，红棕/棕帽与深棕线；历史毛绒颜色、主题背景明显变化",
+    "signature": "黄色本体与棕帽关系为代表性识别，不是固定唯一HEX",
+    "notes": "V01屏幕像素#FFF9B0/#81282C/#552E31；蓝色海报、橙色水果框是环境色；不转换成生产标准。"
+  },
+  "materials": "香港Standard M官方列内外聚酯；复刻系列官方描述蓬松boa感，但未提供纤维比例。早期/复刻毛绒可见长短绒与深色五官，缝制/填充/帽固定结构仍须实物验证。",
+  "carrier": {
+    "primary": "授权图案",
+    "secondary": "实物潮玩",
+    "note": "商品先行，后续社媒和朋友视角漫画扩展；不能倒写为漫画IP衍生品。"
+  },
+  "product": {
+    "first_category": "其他",
+    "hit_category": null,
+    "hit_product": null,
+    "first_note": "首发毛绒、挂件、文具等，未核单款销量冠军。",
+    "price_band": "日本2026选取JPY946—5500含税；香港Standard M为访问价HKD309，地区币种分列。",
+    "sources": [
+      "B02",
+      "B04",
+      "B05",
+      "B08",
+      "B09"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "2026角色大赏最终名次",
+      "value": 1,
+      "unit": "名",
+      "period": "2026最终",
+      "type": "self_report",
+      "boundary": "不等于销量第一",
+      "sources": [
+        "B07"
+      ]
+    },
+    {
+      "metric": "累计角色大赏冠军次数",
+      "value": 5,
+      "unit": "次",
+      "period": "截至2026",
+      "type": "self_report",
+      "boundary": "活动荣誉",
+      "sources": [
+        "B07"
+      ]
+    },
+    {
+      "metric": "怀旧系列发布商品数",
+      "value": 16,
+      "unit": "项",
+      "period": "2026-08-27",
+      "type": "self_report",
+      "boundary": "不等于净售出件数",
+      "sources": [
+        "B04"
+      ]
+    },
+    {
+      "metric": "周年店数量",
+      "value": 37,
+      "unit": "家",
+      "period": "2026-08-27—09-13",
+      "type": "self_report",
+      "boundary": "活动门店，不是全品牌永久店数",
+      "sources": [
+        "B04"
+      ]
+    },
+    {
+      "metric": "独立IP收入／授权费／净销量",
+      "value": null,
+      "unit": null,
+      "period": "截至2026-10-28",
+      "type": "self_report",
+      "boundary": "未取得可核独立口径",
+      "sources": [
+        "B03",
+        "B07"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "圆胖体块与低强度表情承接允许放松的表达。",
+      "type": "inference",
+      "evidence": "V01小五官、大留白、连续体块，B06三十周年主题暂放难题。",
+      "boundary": "视觉读感为推断；没有对照实验证明圆胖能降低压力或促进购买。",
+      "sources": [
+        "B01",
+        "B06"
+      ]
+    },
+    {
+      "claim": "毛绒从起点就是角色被判断的载体。",
+      "type": "inference",
+      "evidence": "内部竞赛前三先做毛绒由顾客投票，1996产品与2026复刻均以触感和抱持尺度呈现。",
+      "boundary": "投票不是付款；不能推导任何新IP都该先做毛绒。",
+      "sources": [
+        "B02",
+        "B04"
+      ]
+    },
+    {
+      "claim": "生活小习惯与伙伴视角让少表情角色持续有事可讲。",
+      "type": "inference",
+      "evidence": "藏鞋、午睡、出门的设定与Team Purin朋友视角内容。",
+      "boundary": "只核内容存在，未做连续内容和留存归因。",
+      "sources": [
+        "B01",
+        "B02"
+      ]
+    },
+    {
+      "claim": "复刻把老关系重新放进可触摸的物品中。",
+      "type": "inference",
+      "evidence": "2026重访1996毛绒与旧照片图案；官方访谈描述成长粉丝回归。",
+      "boundary": "回忆是官方解释；供应恢复、分销或价格也可影响购买，销量未知。",
+      "sources": [
+        "B03",
+        "B04",
+        "B05"
+      ]
+    }
+  ],
+  "counterexamples": "2021访谈明确承认约六年人气低谷，所以不能把简单形象写成自动长红。10月受注表明供给方式可调整，不能把所有周年款讲成永不补货的稀缺品。本轮没有独立退坑、质量投诉或竞品失败的可靠样本。",
+  "theory": {
+    "shell": "公共犬形、帽与点眼，靠圆胖体块、耳脸位置与黄棕关系成为特定组合；官方脱帽图提示帽不是逐帧绝对不变量。",
+    "core": "我行我素和藏鞋、午睡、出门等习惯让悠闲具有生活细节；30周年是当前表达，不回填为1996原意。",
+    "shadow": "布丁隐喻、宠物犬与帽子都是公共语汇，整套组合与长期关系难以靠改配色替代。",
+    "two_layers": {
+      "surface": "推断：柔软圆胖与低强度表情可被快速读为亲近。",
+      "deep": "朋友名字、鞋子癖好、屁股标记、初代材质记忆提供细节；消费者是否因这些付费仍待直接采样。"
+    },
+    "validation": "发行和预约窗口有事实；豪华画集达到计划量无分母、投票无独立人数，不证明客单价/复购/盈利。"
+  },
+  "for_skills": {
+    "lab": "给“慢一点”写可重复的生活动作与关系，先测需要的是许可、怀旧还是触感。",
+    "form": "分开轮廓层与可移除道具层；借少五官大体块的关系，避开黄犬棕帽整套组合。",
+    "studio": "复刻同时比较触感、比例、尺寸和旧图记忆；材料名称只跟具体SKU，验证帽固定、耳根和抱持重量。"
+  },
+  "gaps": [
+    "1996初代个人设计者和完整权利链未核；地井明子是1997起担当。",
+    "没有独立销售、授权费、盈利、复购、人口统计和质量投诉规模。",
+    "本轮按要求不采小红书，未取得独立当前用户样本；受访方的粉丝观察不当消费者原话。",
+    "官方技术三视图、后部结构、生产色号、缝制和填充BOM未知；图库背面标记不推广到每个SKU。",
+    "2026受注窗口已过；豪华书预约计划数量未知；库存不作实时承诺。",
+    "纯文字2次均偏离目标比例；附图v2身份接近，但三色严格平涂仍有浅渐变，不能当矢量母版。英文、3D、毛绒和重复稳定性未测。",
+    "未进入独立原创表达开发，六条原创阶段文本待后续身份建立；本轮提供研究机制接口。"
+  ]
+}

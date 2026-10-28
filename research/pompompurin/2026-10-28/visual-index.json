@@ -1,0 +1,215 @@
+[
+  {
+    "image_id": "pn-v01",
+    "title": "当前官网主图",
+    "sid": "B01",
+    "version_year": null,
+    "image_created_at": null,
+    "observed_features": "正面圆胖金毛犬，头身连续，耳向两侧下垂，小手沿体侧，小脚自底部突出；宽距点眼、三角鼻和双瓣嘴；扁棕帽带短蒂。",
+    "visual_language": "淡黄色大体块、深棕线、小五官和棕帽，细节少、额面留白大。",
+    "interpretation": {
+      "type": "inference",
+      "text": "低强度表情与圆胖体块读成松弛亲近；这是研究解释。",
+      "alternative": "亲近感也可能来自既有熟悉度或使用情境，未做盲测。"
+    },
+    "material_and_structure": "二维平涂，无实物材质依据；背部和帽固定不可见。",
+    "presentation": "正面全身透明底；不作全IP技术母版。",
+    "product_ids": [],
+    "event_ids": [],
+    "original_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/list-pompompurin.png",
+    "observed_at": "2026-10-28",
+    "storage_status": "reference_only",
+    "local_path": null,
+    "rights": "版权归原权利方；公开页仅外链原站图像并注明来源，不在仓库分发官方原图。未取得生产或商用授权。",
+    "inspection": "原图已实际打开观察；可见信息不等于官方技术设定。",
+    "subject_id": "pompompurin",
+    "source_page_url": "https://www.sanrio.co.jp/characters/pompompurin/",
+    "page_published_at": null,
+    "product_released_at": null,
+    "official_settings": {
+      "sources": [
+        "B01"
+      ],
+      "note": "见官方角色档案；不由画面推断人设。"
+    },
+    "author_brand": "Sanrio；商品制造商见原页"
+  },
+  {
+    "image_id": "pn-v02",
+    "title": "1996首代毛绒档案",
+    "sid": "B04",
+    "version_year": 1996,
+    "image_created_at": null,
+    "observed_features": "头与躯干区分比当前二维图明显，耳下垂、双脚突出，棕帽覆头。",
+    "visual_language": "黄色绒体、棕帽与深色五官保持关系；老照片光照会影响颜色。",
+    "interpretation": {
+      "type": "inference",
+      "text": "早期商品并非把当前二维图等比例挤厚；立体有自身结构。",
+      "alternative": "亲近感也可能来自既有熟悉度或使用情境，未做盲测。"
+    },
+    "material_and_structure": "可见绒毛、接缝感与填充体块；官方历史照片，纤维配比和内部骨架未知。",
+    "presentation": "档案商品照片，不能按照片反推准确色卡。",
+    "product_ids": [],
+    "event_ids": [],
+    "original_image_url": "https://corporate.sanrio.co.jp/news/assets/images/20260819-02.jpg",
+    "observed_at": "2026-10-28",
+    "storage_status": "reference_only",
+    "local_path": null,
+    "rights": "版权归原权利方；公开页仅外链原站图像并注明来源，不在仓库分发官方原图。未取得生产或商用授权。",
+    "inspection": "原图已实际打开观察；可见信息不等于官方技术设定。",
+    "subject_id": "pompompurin",
+    "source_page_url": "https://corporate.sanrio.co.jp/news/20260819.html",
+    "page_published_at": "2026-08-19",
+    "product_released_at": null,
+    "official_settings": {
+      "sources": [
+        "B01"
+      ],
+      "note": "见官方角色档案；不由画面推断人设。"
+    },
+    "author_brand": "Sanrio；商品制造商见原页"
+  },
+  {
+    "image_id": "pn-v03",
+    "title": "2026复刻M与S",
+    "sid": "B04",
+    "version_year": 2026,
+    "image_created_at": null,
+    "observed_features": "两只前向站坐的圆胖毛绒、下垂耳、突出脚；整体更直立饱满。",
+    "visual_language": "黄体棕帽仍在，毛感与图形边缘区别于二维主图。",
+    "interpretation": {
+      "type": "inference",
+      "text": "复刻提供旧记忆入口，但不是已证同模同BOM。",
+      "alternative": "亲近感也可能来自既有熟悉度或使用情境，未做盲测。"
+    },
+    "material_and_structure": "官方M高26cm、S高18cm；可见蓬松绒和帽体，受力/填充未核。",
+    "presentation": "两尺码同框正面白底，尺寸比需以规格而非像素比判断。",
+    "product_ids": [
+      "PN01",
+      "PN02"
+    ],
+    "event_ids": [],
+    "original_image_url": "https://corporate.sanrio.co.jp/news/assets/images/20260819-03.png",
+    "observed_at": "2026-10-28",
+    "storage_status": "reference_only",
+    "local_path": null,
+    "rights": "版权归原权利方；公开页仅外链原站图像并注明来源，不在仓库分发官方原图。未取得生产或商用授权。",
+    "inspection": "原图已实际打开观察；可见信息不等于官方技术设定。",
+    "subject_id": "pompompurin",
+    "source_page_url": "https://corporate.sanrio.co.jp/news/20260819.html",
+    "page_published_at": "2026-08-19",
+    "product_released_at": "2026-08-27",
+    "official_settings": {
+      "sources": [
+        "B01"
+      ],
+      "note": "见官方角色档案；不由画面推断人设。"
+    },
+    "author_brand": "Sanrio；商品制造商见原页"
+  },
+  {
+    "image_id": "pn-v04",
+    "title": "30周年披风与伙伴海报",
+    "sid": "B01",
+    "version_year": 2026,
+    "image_created_at": null,
+    "observed_features": "主角披红斗篷，与多位朋友同框，30周年信息形成场景。",
+    "visual_language": "大面积蓝色背景和红斗篷为主题；主体黄色未因蓝环境而成为蓝角色。",
+    "interpretation": {
+      "type": "inference",
+      "text": "身份稳定让纪念造型变化更易读。",
+      "alternative": "亲近感也可能来自既有熟悉度或使用情境，未做盲测。"
+    },
+    "material_and_structure": "二维图案，披风材料和穿戴结构未知。",
+    "presentation": "群像海报；主次尺度是构图，不是角色真实尺寸。",
+    "product_ids": [],
+    "event_ids": [],
+    "original_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-pompompurin17.png",
+    "observed_at": "2026-10-28",
+    "storage_status": "reference_only",
+    "local_path": null,
+    "rights": "版权归原权利方；公开页仅外链原站图像并注明来源，不在仓库分发官方原图。未取得生产或商用授权。",
+    "inspection": "原图已实际打开观察；可见信息不等于官方技术设定。",
+    "subject_id": "pompompurin",
+    "source_page_url": "https://www.sanrio.co.jp/characters/pompompurin/",
+    "page_published_at": null,
+    "product_released_at": null,
+    "official_settings": {
+      "sources": [
+        "B01"
+      ],
+      "note": "见官方角色档案；不由画面推断人设。"
+    },
+    "author_brand": "Sanrio；商品制造商见原页"
+  },
+  {
+    "image_id": "pn-v05",
+    "title": "多姿态与背面图案",
+    "sid": "B01",
+    "version_year": null,
+    "image_created_at": null,
+    "observed_features": "坐、趴、翻转等姿态，部分帽子放在旁边；背面可见星形标记。",
+    "visual_language": "黄底与黄色角色相邻，灰棕线维持分界；摘帽仍靠耳脸体块识别。",
+    "interpretation": {
+      "type": "inference",
+      "text": "次级细节和慵懒动作能让熟悉用户看出更多。",
+      "alternative": "亲近感也可能来自既有熟悉度或使用情境，未做盲测。"
+    },
+    "material_and_structure": "二维角色纹样，不证明所有实物都有相同后部标记。",
+    "presentation": "多姿态平铺，不能把不同姿态拼成一份准确三视图。",
+    "product_ids": [],
+    "event_ids": [],
+    "original_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-pompompurin14.jpg",
+    "observed_at": "2026-10-28",
+    "storage_status": "reference_only",
+    "local_path": null,
+    "rights": "版权归原权利方；公开页仅外链原站图像并注明来源，不在仓库分发官方原图。未取得生产或商用授权。",
+    "inspection": "原图已实际打开观察；可见信息不等于官方技术设定。",
+    "subject_id": "pompompurin",
+    "source_page_url": "https://www.sanrio.co.jp/characters/pompompurin/",
+    "page_published_at": null,
+    "product_released_at": null,
+    "official_settings": {
+      "sources": [
+        "B01"
+      ],
+      "note": "见官方角色档案；不由画面推断人设。"
+    },
+    "author_brand": "Sanrio；商品制造商见原页"
+  },
+  {
+    "image_id": "pn-v06",
+    "title": "水果主题",
+    "sid": "B01",
+    "version_year": null,
+    "image_created_at": null,
+    "observed_features": "金毛犬举手，帽上加菠萝元素，四周水果与橙色边框。",
+    "visual_language": "黄体棕帽保留，绿色和橙色是主题附加；不据此把物种改成食物。",
+    "interpretation": {
+      "type": "inference",
+      "text": "可用季节/食物叙事变装，而非每次改基础身份。",
+      "alternative": "亲近感也可能来自既有熟悉度或使用情境，未做盲测。"
+    },
+    "material_and_structure": "平面图案，果皮纹理不等于实物工艺。",
+    "presentation": "正向主题构图，有装饰框与文字；不是干净技术图。",
+    "product_ids": [],
+    "event_ids": [],
+    "original_image_url": "https://www.sanrio.co.jp/wp-content/uploads/2022/06/gallery-pompompurin7.jpg",
+    "observed_at": "2026-10-28",
+    "storage_status": "reference_only",
+    "local_path": null,
+    "rights": "版权归原权利方；公开页仅外链原站图像并注明来源，不在仓库分发官方原图。未取得生产或商用授权。",
+    "inspection": "原图已实际打开观察；可见信息不等于官方技术设定。",
+    "subject_id": "pompompurin",
+    "source_page_url": "https://www.sanrio.co.jp/characters/pompompurin/",
+    "page_published_at": null,
+    "product_released_at": null,
+    "official_settings": {
+      "sources": [
+        "B01"
+      ],
+      "note": "见官方角色档案；不由画面推断人设。"
+    },
+    "author_brand": "Sanrio；商品制造商见原页"
+  }
+]
