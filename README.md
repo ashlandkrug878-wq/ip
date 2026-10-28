@@ -9,7 +9,7 @@
 0. **研究**：Claude 或 ChatGPT 按 `skills/chaowan-ip-study` 研究已有 IP，写成对标卡放进 `data/studies/`，网站「研究库」栏目可以横向比较。后面三步都会参照它
 
 1. **第一步 · 表达**：Claude 按 `skills/chaowan-ip-lab` 从原点生成表达卡（洞察、圈层、一句表达、情绪范围），写进 `data/ips/`。你在网站「① 表达」挑保留
-2. **第二步 · 找形**：Claude 按 `skills/chaowan-ip-form` 给保留的表达出 6 个黑白线稿方向，写进 `data/forms/`。你在「② 找形」复制提示词去出线稿、上传、挑选；保留的再裂变 4 个，满意后锁定，生成 IP 档案
+2. **第二步 · 找形**：Claude 按 `skills/chaowan-ip-form` 给保留的表达出 6 张概念图方向，写进 `data/forms/`。你在「② 找形」复制提示词去出图、上传、挑选；挑中的再出白模和线稿看剪影，必要时裂变 4 个，满意后锁定，生成 IP 档案
 3. **第三步 · 定型与内容**：Claude 按 `skills/chaowan-ip-studio` 以锁定线稿为参考，从你的素材池配色选材、渲染、出三视图，再做表情包、故事、系列和打样。锁定的 IP 出现在「③ 定型」
 
 流水线：`data/` 或出图队列变动时，`.github/workflows/generate-images.yml` 自动重建网站索引、给新的方案和形加出图任务，配置了出图密钥时自动出图。

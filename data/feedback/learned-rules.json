@@ -1,18 +1,1017 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "updated_at": "2026-10-28",
-  "rules": [],
-  "observations": [
+  "how_to_use": "创作前把 state 为「持续避错建议」「持续正向信号」的条目变成检查清单；交付时写明遵循了哪几条。观察中和单例只约束对应候选。ai_inferences 是 AI 看图归纳，不是用户原话，只能作为创作假设，用户的新批注优先。",
+  "rules": [
     {
-      "id": "separate-origin-from-visualization",
-      "state": "单例观察，不是长期审美规则",
-      "summary": "用户认可注意力保护原点，但否决当前具象化方式；不能把该原点加入黑名单。",
-      "scope": ["2026w42-5"],
-      "evidence": [{"id": "2026w42-5", "batch": "2026w42", "quote": "注意力保护这个可以在存到原点池，但是展示方式具像化这个太差了。", "source": "data/reviews/2026w42-5.json"}],
+      "id": "avoid-other-ip-shadow",
+      "kind": "avoid",
+      "category": "同质化",
+      "summary": "用户多次说「有别的IP的影子」「太像别的IP」：外形不能主要由现有潮玩的常见组合构成，要有自己的、更夸张的特点。",
+      "state": "持续避错建议",
+      "independent_ip_count": 4,
+      "batch_count": 3,
+      "scope": "每日概念和找形发散段的所有新方案",
+      "evidence": [
+        {
+          "id": "daily-20261022-02",
+          "name": "错色",
+          "batch": "daily-20261022",
+          "status": "待优化",
+          "quote": "还行 总觉的有别的ip的影子 待优化",
+          "source": "data/reviews/daily-20261022-02.json"
+        },
+        {
+          "id": "daily-20261022-03",
+          "name": "接接",
+          "batch": "daily-20261022",
+          "status": "待优化",
+          "quote": "不错 但还是有点别的ip的影子 要把自己的特点弄的更夸张一点。",
+          "source": "data/reviews/daily-20261022-03.json"
+        },
+        {
+          "id": "daily-20261026-01",
+          "name": "省算仔",
+          "batch": "daily-20261026",
+          "status": "淘汰",
+          "quote": "太普通了 和别的ip太像了 没有自己的特点。",
+          "source": "data/reviews/daily-20261026-01.json"
+        },
+        {
+          "id": "daily-20261027-02",
+          "name": "入戏签",
+          "batch": "daily-20261027",
+          "status": "淘汰",
+          "quote": "不好看 太像别的ip了 淘汰",
+          "source": "data/reviews/daily-20261027-02.json"
+        }
+      ],
       "counterexamples": [],
-      "independent_ip_count": 1
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28"
+    },
+    {
+      "id": "avoid-low-recognition",
+      "kind": "avoid",
+      "category": "记忆点弱",
+      "summary": "「没有识别性」「识别性一般」反复出现：每个方案要有一个一眼能认出的记忆点，缩成头像或盲盒大小仍成立。",
+      "state": "持续避错建议",
+      "independent_ip_count": 4,
+      "batch_count": 4,
+      "scope": "每日概念和找形发散段的所有新方案",
+      "evidence": [
+        {
+          "id": "daily-20261023-05",
+          "name": "橙壳",
+          "batch": "daily-20261023",
+          "status": "待优化",
+          "quote": "质感颜色不错 待优化。识别性一般",
+          "source": "data/reviews/daily-20261023-05.json"
+        },
+        {
+          "id": "daily-20261026-06",
+          "name": "光鬃獾",
+          "batch": "daily-20261026",
+          "status": "淘汰",
+          "quote": "不好看 太普通，没有识别性",
+          "source": "data/reviews/daily-20261026-06.json"
+        },
+        {
+          "id": "daily-20261027-09",
+          "name": "压光鹭",
+          "batch": "daily-20261027",
+          "status": "淘汰",
+          "quote": "太普通了 没有识别性，淘汰。",
+          "source": "data/reviews/daily-20261027-09.json"
+        },
+        {
+          "id": "daily-20261028-01",
+          "name": "借期狐",
+          "batch": "daily-20261028",
+          "status": "淘汰",
+          "quote": "太普通 没有识别性",
+          "source": "data/reviews/daily-20261028-01.json"
+        }
+      ],
+      "counterexamples": [
+        {
+          "id": "daily-20261028-02",
+          "name": "吞响貘",
+          "batch": "daily-20261028",
+          "status": "保留",
+          "quote": "这个很好 颜色很好 黄色黑色的配合亮眼 没有见过 有识别度",
+          "source": "data/reviews/daily-20261028-02.json"
+        }
+      ],
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28"
+    },
+    {
+      "id": "avoid-plain",
+      "kind": "avoid",
+      "category": "同质化",
+      "summary": "「普通」「没特点」「太普通」是最常见的淘汰原因：只是一只可爱动物或一个穿衣小人，没有新组合，就会被判普通。",
+      "state": "持续避错建议",
+      "independent_ip_count": 26,
+      "batch_count": 9,
+      "scope": "每日概念和找形发散段的所有新方案",
+      "evidence": [
+        {
+          "id": "daily-20261020-02",
+          "name": "慢巷",
+          "batch": "daily-20261020",
+          "status": "淘汰",
+          "quote": "普通",
+          "source": "data/reviews/daily-20261020-02.json"
+        },
+        {
+          "id": "daily-20261020-03",
+          "name": "续续",
+          "batch": "daily-20261020",
+          "status": "淘汰",
+          "quote": "普通",
+          "source": "data/reviews/daily-20261020-03.json"
+        },
+        {
+          "id": "daily-20261020-04",
+          "name": "候候",
+          "batch": "daily-20261020",
+          "status": "淘汰",
+          "quote": "普通",
+          "source": "data/reviews/daily-20261020-04.json"
+        },
+        {
+          "id": "daily-20261020-05",
+          "name": "出圈",
+          "batch": "daily-20261020",
+          "status": "淘汰",
+          "quote": "普通",
+          "source": "data/reviews/daily-20261020-05.json"
+        },
+        {
+          "id": "daily-20261020-07",
+          "name": "留坯",
+          "batch": "daily-20261020",
+          "status": "淘汰",
+          "quote": "不好看 没特点。",
+          "source": "data/reviews/daily-20261020-07.json"
+        },
+        {
+          "id": "daily-20261020-09",
+          "name": "叶慢",
+          "batch": "daily-20261020",
+          "status": "淘汰",
+          "quote": "普通",
+          "source": "data/reviews/daily-20261020-09.json"
+        },
+        {
+          "id": "daily-20261021-05",
+          "name": "层层",
+          "batch": "daily-20261021",
+          "status": "淘汰",
+          "quote": "不好看 没特点",
+          "source": "data/reviews/daily-20261021-05.json"
+        },
+        {
+          "id": "daily-20261022-01",
+          "name": "闻闻间",
+          "batch": "daily-20261022",
+          "status": "淘汰",
+          "quote": "普通 淘汰",
+          "source": "data/reviews/daily-20261022-01.json"
+        },
+        {
+          "id": "daily-20261023-02",
+          "name": "日常丁",
+          "batch": "daily-20261023",
+          "status": "淘汰",
+          "quote": "普通 淘汰",
+          "source": "data/reviews/daily-20261023-02.json"
+        },
+        {
+          "id": "daily-20261023-03",
+          "name": "水吨吨",
+          "batch": "daily-20261023",
+          "status": "淘汰",
+          "quote": "普通 淘汰",
+          "source": "data/reviews/daily-20261023-03.json"
+        },
+        {
+          "id": "daily-20261023-06",
+          "name": "固泡",
+          "batch": "daily-20261023",
+          "status": "淘汰",
+          "quote": "普通 淘汰。",
+          "source": "data/reviews/daily-20261023-06.json"
+        },
+        {
+          "id": "daily-20261024-04",
+          "name": "木涡鼹",
+          "batch": "daily-20261024",
+          "status": "淘汰",
+          "quote": "普通 淘汰。",
+          "source": "data/reviews/daily-20261024-04.json"
+        },
+        {
+          "id": "daily-20261024-08",
+          "name": "拼壳鲎",
+          "batch": "daily-20261024",
+          "status": "淘汰",
+          "quote": "普通 淘汰。",
+          "source": "data/reviews/daily-20261024-08.json"
+        },
+        {
+          "id": "daily-20261025-04",
+          "name": "潮生团",
+          "batch": "daily-20261025",
+          "status": "淘汰",
+          "quote": "质感还行 但是不好看 不够特别",
+          "source": "data/reviews/daily-20261025-04.json"
+        },
+        {
+          "id": "daily-20261025-05",
+          "name": "旧厂雀",
+          "batch": "daily-20261025",
+          "status": "淘汰",
+          "quote": "普通 淘汰",
+          "source": "data/reviews/daily-20261025-05.json"
+        },
+        {
+          "id": "daily-20261025-07",
+          "name": "火口盏",
+          "batch": "daily-20261025",
+          "status": "淘汰",
+          "quote": "普通",
+          "source": "data/reviews/daily-20261025-07.json"
+        },
+        {
+          "id": "daily-20261026-01",
+          "name": "省算仔",
+          "batch": "daily-20261026",
+          "status": "淘汰",
+          "quote": "太普通了 和别的ip太像了 没有自己的特点。",
+          "source": "data/reviews/daily-20261026-01.json"
+        },
+        {
+          "id": "daily-20261026-02",
+          "name": "断讯鼹",
+          "batch": "daily-20261026",
+          "status": "淘汰",
+          "quote": "没有自己的特点 很奇怪的设计，颜色也不好",
+          "source": "data/reviews/daily-20261026-02.json"
+        },
+        {
+          "id": "daily-20261026-06",
+          "name": "光鬃獾",
+          "batch": "daily-20261026",
+          "status": "淘汰",
+          "quote": "不好看 太普通，没有识别性",
+          "source": "data/reviews/daily-20261026-06.json"
+        },
+        {
+          "id": "daily-20261027-03",
+          "name": "攀点狸",
+          "batch": "daily-20261027",
+          "status": "淘汰",
+          "quote": "头上的攀爬的那个东西很奇怪，造型过于普通，淘汰",
+          "source": "data/reviews/daily-20261027-03.json"
+        },
+        {
+          "id": "daily-20261027-04",
+          "name": "暖涡獭",
+          "batch": "daily-20261027",
+          "status": "淘汰",
+          "quote": "普通 淘汰",
+          "source": "data/reviews/daily-20261027-04.json"
+        },
+        {
+          "id": "daily-20261027-05",
+          "name": "栗开兽",
+          "batch": "daily-20261027",
+          "status": "淘汰",
+          "quote": "普通 淘汰",
+          "source": "data/reviews/daily-20261027-05.json"
+        },
+        {
+          "id": "daily-20261027-09",
+          "name": "压光鹭",
+          "batch": "daily-20261027",
+          "status": "淘汰",
+          "quote": "太普通了 没有识别性，淘汰。",
+          "source": "data/reviews/daily-20261027-09.json"
+        },
+        {
+          "id": "daily-20261028-01",
+          "name": "借期狐",
+          "batch": "daily-20261028",
+          "status": "淘汰",
+          "quote": "太普通 没有识别性",
+          "source": "data/reviews/daily-20261028-01.json"
+        },
+        {
+          "id": "daily-20261028-08",
+          "name": "慢住鸬",
+          "batch": "daily-20261028",
+          "status": "淘汰",
+          "quote": "普通",
+          "source": "data/reviews/daily-20261028-08.json"
+        },
+        {
+          "id": "daily-20261028-09",
+          "name": "认真无聊怪",
+          "batch": "daily-20261028",
+          "status": "淘汰",
+          "quote": "普通",
+          "source": "data/reviews/daily-20261028-09.json"
+        }
+      ],
+      "counterexamples": [
+        {
+          "id": "daily-20261021-02",
+          "name": "影脊",
+          "batch": "daily-20261021",
+          "status": "保留",
+          "quote": "普通的ip 没有对也没有错 能保留 但普通。",
+          "source": "data/reviews/daily-20261021-02.json"
+        }
+      ],
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28"
+    },
+    {
+      "id": "avoid-weird-unpleasant",
+      "kind": "avoid",
+      "category": "造型不喜欢",
+      "summary": "「很奇怪」「看着很疼」「两种材质的组合很奇怪」：可以怪，但不能让人不舒服；结构和材质组合要讲得通、讨喜。",
+      "state": "持续避错建议",
+      "independent_ip_count": 5,
+      "batch_count": 3,
+      "scope": "每日概念和找形发散段的所有新方案",
+      "evidence": [
+        {
+          "id": "daily-20261020-01",
+          "name": "折夜",
+          "batch": "daily-20261020",
+          "status": "淘汰",
+          "quote": "不好看  两种材质的组合很奇怪。",
+          "source": "data/reviews/daily-20261020-01.json"
+        },
+        {
+          "id": "daily-20261026-02",
+          "name": "断讯鼹",
+          "batch": "daily-20261026",
+          "status": "淘汰",
+          "quote": "没有自己的特点 很奇怪的设计，颜色也不好",
+          "source": "data/reviews/daily-20261026-02.json"
+        },
+        {
+          "id": "daily-20261026-07",
+          "name": "算椅",
+          "batch": "daily-20261026",
+          "status": "淘汰",
+          "quote": "不好看 很奇怪",
+          "source": "data/reviews/daily-20261026-07.json"
+        },
+        {
+          "id": "daily-20261027-03",
+          "name": "攀点狸",
+          "batch": "daily-20261027",
+          "status": "淘汰",
+          "quote": "头上的攀爬的那个东西很奇怪，造型过于普通，淘汰",
+          "source": "data/reviews/daily-20261027-03.json"
+        },
+        {
+          "id": "daily-20261027-08",
+          "name": "回温灵",
+          "batch": "daily-20261027",
+          "status": "淘汰",
+          "quote": "不好看 也觉的很奇怪 看着很疼的感觉 淘汰。",
+          "source": "data/reviews/daily-20261027-08.json"
+        }
+      ],
+      "counterexamples": [
+        {
+          "id": "daily-20261024-09",
+          "name": "倦肢椅",
+          "batch": "daily-20261024",
+          "status": "保留",
+          "quote": "这个我是有点喜欢的，很讨喜的设计，很颓废的气质。坐面是嘴又是鼻子，眼神 耳朵都恰到好处，可以保留。",
+          "source": "data/reviews/daily-20261024-09.json"
+        },
+        {
+          "id": "daily-20261026-04",
+          "name": "皱幕怪",
+          "batch": "daily-20261026",
+          "status": "待优化",
+          "quote": "有点意思，可能会有很强的想象空间，就是这个布的里边是什么 有没有可能换不同的头饰和布的造型 属于可以无限扩展的形象 待优化吧。",
+          "source": "data/reviews/daily-20261026-04.json"
+        }
+      ],
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28"
+    },
+    {
+      "id": "prefer-unique-texture",
+      "kind": "prefer",
+      "category": "材质",
+      "summary": "质感、材质被反复肯定（贝壳、霜冻、铜、毛绒和金属的组合等）：特殊材质是用户挑选的重要依据。",
+      "state": "持续正向信号",
+      "independent_ip_count": 8,
+      "batch_count": 5,
+      "scope": "每日概念和找形发散段的所有新方案",
+      "evidence": [
+        {
+          "id": "daily-20261022-05",
+          "name": "短短",
+          "batch": "daily-20261022",
+          "status": "待优化",
+          "quote": "有点特别的感觉和选材。可以再优化一下。",
+          "source": "data/reviews/daily-20261022-05.json"
+        },
+        {
+          "id": "daily-20261023-01",
+          "name": "霜边仔",
+          "batch": "daily-20261023",
+          "status": "保留",
+          "quote": "不错 气质独特 质感独特 保留",
+          "source": "data/reviews/daily-20261023-01.json"
+        },
+        {
+          "id": "daily-20261023-04",
+          "name": "丝扣",
+          "batch": "daily-20261023",
+          "status": "待优化",
+          "quote": "待优化 感觉还行 像铜的质感。",
+          "source": "data/reviews/daily-20261023-04.json"
+        },
+        {
+          "id": "daily-20261023-05",
+          "name": "橙壳",
+          "batch": "daily-20261023",
+          "status": "待优化",
+          "quote": "质感颜色不错 待优化。识别性一般",
+          "source": "data/reviews/daily-20261023-05.json"
+        },
+        {
+          "id": "daily-20261024-05",
+          "name": "金箔螺",
+          "batch": "daily-20261024",
+          "status": "保留",
+          "quote": "不错  这个好看的 很可爱 也有贝壳的特殊材质的质感。",
+          "source": "data/reviews/daily-20261024-05.json"
+        },
+        {
+          "id": "daily-20261024-07",
+          "name": "化冰怪",
+          "batch": "daily-20261024",
+          "status": "待优化",
+          "quote": "质感不错 待优化。",
+          "source": "data/reviews/daily-20261024-07.json"
+        },
+        {
+          "id": "daily-20261025-02",
+          "name": "铜名兽",
+          "batch": "daily-20261025",
+          "status": "待优化",
+          "quote": "金的质感和毛绒的质感还行，优化一下吧",
+          "source": "data/reviews/daily-20261025-02.json"
+        },
+        {
+          "id": "daily-20261026-08",
+          "name": "漂纤兽",
+          "batch": "daily-20261026",
+          "status": "待优化",
+          "quote": "还行吧，有点奇怪 但感觉有优化的空间 待优化一下，可以保持这样的安静的感觉和质感和材质的感觉，但是还是有点不够夸张，不够可爱。",
+          "source": "data/reviews/daily-20261026-08.json"
+        }
+      ],
+      "counterexamples": [
+        {
+          "id": "daily-20261025-04",
+          "name": "潮生团",
+          "batch": "daily-20261025",
+          "status": "淘汰",
+          "quote": "质感还行 但是不好看 不够特别",
+          "source": "data/reviews/daily-20261025-04.json"
+        },
+        {
+          "id": "daily-20261020-01",
+          "name": "折夜",
+          "batch": "daily-20261020",
+          "status": "淘汰",
+          "quote": "不好看  两种材质的组合很奇怪。",
+          "source": "data/reviews/daily-20261020-01.json"
+        }
+      ],
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28"
+    },
+    {
+      "id": "prefer-strong-color",
+      "kind": "prefer",
+      "category": "配色",
+      "summary": "颜色被单独夸奖的多是对比清楚的两三色（黄黑、白配藏青、灰配一点绿）。",
+      "state": "持续正向信号",
+      "independent_ip_count": 6,
+      "batch_count": 5,
+      "scope": "每日概念和找形发散段的所有新方案",
+      "evidence": [
+        {
+          "id": "daily-20261023-05",
+          "name": "橙壳",
+          "batch": "daily-20261023",
+          "status": "待优化",
+          "quote": "质感颜色不错 待优化。识别性一般",
+          "source": "data/reviews/daily-20261023-05.json"
+        },
+        {
+          "id": "daily-20261024-02",
+          "name": "玩钉兽",
+          "batch": "daily-20261024",
+          "status": "待优化",
+          "quote": "还可以 颜色造型简单 大方 有优化空间",
+          "source": "data/reviews/daily-20261024-02.json"
+        },
+        {
+          "id": "daily-20261025-08",
+          "name": "夜橙蛾",
+          "batch": "daily-20261025",
+          "status": "保留",
+          "quote": "这个有点可爱的 颜色也好看",
+          "source": "data/reviews/daily-20261025-08.json"
+        },
+        {
+          "id": "daily-20261027-06",
+          "name": "软垒堡",
+          "batch": "daily-20261027",
+          "status": "待优化",
+          "quote": "还不错  待优化 造型有点麻袋的感觉 没见过 造型简单，颜色 灰色配一点点绿色 提亮的感觉不错。",
+          "source": "data/reviews/daily-20261027-06.json"
+        },
+        {
+          "id": "daily-20261027-07",
+          "name": "锅响怪",
+          "batch": "daily-20261027",
+          "status": "保留",
+          "quote": "还是不错的 主要是形象和造型的结合是之前没有见过的，背着锅也有点寓意，黄色也和锅啊 玉米啊没有违和。",
+          "source": "data/reviews/daily-20261027-07.json"
+        },
+        {
+          "id": "daily-20261028-02",
+          "name": "吞响貘",
+          "batch": "daily-20261028",
+          "status": "保留",
+          "quote": "这个很好 颜色很好 黄色黑色的配合亮眼 没有见过 有识别度",
+          "source": "data/reviews/daily-20261028-02.json"
+        }
+      ],
+      "counterexamples": [
+        {
+          "id": "daily-20261026-02",
+          "name": "断讯鼹",
+          "batch": "daily-20261026",
+          "status": "淘汰",
+          "quote": "没有自己的特点 很奇怪的设计，颜色也不好",
+          "source": "data/reviews/daily-20261026-02.json"
+        }
+      ],
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28"
+    },
+    {
+      "id": "prefer-unseen-combo",
+      "kind": "prefer",
+      "category": "新组合",
+      "summary": "「没有见过」「形象和造型的结合是之前没有见过的」：用户保留的理由是新的组合，而不是更精致。",
+      "state": "持续正向信号",
+      "independent_ip_count": 3,
+      "batch_count": 2,
+      "scope": "每日概念和找形发散段的所有新方案",
+      "evidence": [
+        {
+          "id": "daily-20261027-06",
+          "name": "软垒堡",
+          "batch": "daily-20261027",
+          "status": "待优化",
+          "quote": "还不错  待优化 造型有点麻袋的感觉 没见过 造型简单，颜色 灰色配一点点绿色 提亮的感觉不错。",
+          "source": "data/reviews/daily-20261027-06.json"
+        },
+        {
+          "id": "daily-20261027-07",
+          "name": "锅响怪",
+          "batch": "daily-20261027",
+          "status": "保留",
+          "quote": "还是不错的 主要是形象和造型的结合是之前没有见过的，背着锅也有点寓意，黄色也和锅啊 玉米啊没有违和。",
+          "source": "data/reviews/daily-20261027-07.json"
+        },
+        {
+          "id": "daily-20261028-02",
+          "name": "吞响貘",
+          "batch": "daily-20261028",
+          "status": "保留",
+          "quote": "这个很好 颜色很好 黄色黑色的配合亮眼 没有见过 有识别度",
+          "source": "data/reviews/daily-20261028-02.json"
+        }
+      ],
+      "counterexamples": [],
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28"
+    },
+    {
+      "id": "prefer-more-exaggerated",
+      "kind": "prefer",
+      "category": "夸张度",
+      "summary": "待优化批注要求「把自己的特点弄得更夸张」「不够夸张、不够可爱」「增加自己的造型」：特点要推到明显。",
+      "state": "持续正向信号",
+      "independent_ip_count": 3,
+      "batch_count": 2,
+      "scope": "每日概念和找形发散段的所有新方案",
+      "evidence": [
+        {
+          "id": "daily-20261022-03",
+          "name": "接接",
+          "batch": "daily-20261022",
+          "status": "待优化",
+          "quote": "不错 但还是有点别的ip的影子 要把自己的特点弄的更夸张一点。",
+          "source": "data/reviews/daily-20261022-03.json"
+        },
+        {
+          "id": "daily-20261022-09",
+          "name": "粉潮",
+          "batch": "daily-20261022",
+          "status": "待优化",
+          "quote": "好看 待优化，可以再增加一点自己的造型和服饰 要有自己独特的气质在。",
+          "source": "data/reviews/daily-20261022-09.json"
+        },
+        {
+          "id": "daily-20261026-08",
+          "name": "漂纤兽",
+          "batch": "daily-20261026",
+          "status": "待优化",
+          "quote": "还行吧，有点奇怪 但感觉有优化的空间 待优化一下，可以保持这样的安静的感觉和质感和材质的感觉，但是还是有点不够夸张，不够可爱。",
+          "source": "data/reviews/daily-20261026-08.json"
+        }
+      ],
+      "counterexamples": [],
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28"
     }
   ],
-  "history": [],
-  "note": "目前证据不足以建立跨IP持续避错规则；AI原有风险点评不计入用户证据。"
+  "observations": [
+    {
+      "id": "ugly-unspecified",
+      "kind": "avoid",
+      "category": "未说明原因",
+      "summary": "「不好看」出现很多次但没有说明具体原因，只约束对应候选，不总结成规则。",
+      "state": "高频但不具体，不形成规则",
+      "independent_ip_count": 22,
+      "evidence": [
+        {
+          "id": "daily-20261020-01",
+          "name": "折夜",
+          "batch": "daily-20261020",
+          "status": "淘汰",
+          "quote": "不好看  两种材质的组合很奇怪。",
+          "source": "data/reviews/daily-20261020-01.json"
+        },
+        {
+          "id": "daily-20261020-07",
+          "name": "留坯",
+          "batch": "daily-20261020",
+          "status": "淘汰",
+          "quote": "不好看 没特点。",
+          "source": "data/reviews/daily-20261020-07.json"
+        },
+        {
+          "id": "daily-20261020-08",
+          "name": "借光",
+          "batch": "daily-20261020",
+          "status": "淘汰",
+          "quote": "不好看",
+          "source": "data/reviews/daily-20261020-08.json"
+        },
+        {
+          "id": "daily-20261021-05",
+          "name": "层层",
+          "batch": "daily-20261021",
+          "status": "淘汰",
+          "quote": "不好看 没特点",
+          "source": "data/reviews/daily-20261021-05.json"
+        },
+        {
+          "id": "daily-20261021-06",
+          "name": "固气",
+          "batch": "daily-20261021",
+          "status": "淘汰",
+          "quote": "不好看",
+          "source": "data/reviews/daily-20261021-06.json"
+        },
+        {
+          "id": "daily-20261021-07",
+          "name": "一片甲",
+          "batch": "daily-20261021",
+          "status": "淘汰",
+          "quote": "不好看 淘汰。",
+          "source": "data/reviews/daily-20261021-07.json"
+        },
+        {
+          "id": "daily-20261022-04",
+          "name": "坐醒",
+          "batch": "daily-20261022",
+          "status": "淘汰",
+          "quote": "气质独特 但不好看 淘汰。",
+          "source": "data/reviews/daily-20261022-04.json"
+        },
+        {
+          "id": "daily-20261022-06",
+          "name": "养痕",
+          "batch": "daily-20261022",
+          "status": "淘汰",
+          "quote": "不好看",
+          "source": "data/reviews/daily-20261022-06.json"
+        },
+        {
+          "id": "daily-20261022-07",
+          "name": "成束",
+          "batch": "daily-20261022",
+          "status": "淘汰",
+          "quote": "不好看",
+          "source": "data/reviews/daily-20261022-07.json"
+        },
+        {
+          "id": "daily-20261023-07",
+          "name": "伪木兽",
+          "batch": "daily-20261023",
+          "status": "淘汰",
+          "quote": "不好看 淘汰。",
+          "source": "data/reviews/daily-20261023-07.json"
+        },
+        {
+          "id": "daily-20261023-09",
+          "name": "融冻",
+          "batch": "daily-20261023",
+          "status": "淘汰",
+          "quote": "不好看 淘汰。",
+          "source": "data/reviews/daily-20261023-09.json"
+        },
+        {
+          "id": "daily-20261024-01",
+          "name": "参谋钮",
+          "batch": "daily-20261024",
+          "status": "淘汰",
+          "quote": "不好看 淘汰",
+          "source": "data/reviews/daily-20261024-01.json"
+        },
+        {
+          "id": "daily-20261025-03",
+          "name": "侧镜客",
+          "batch": "daily-20261025",
+          "status": "淘汰",
+          "quote": "不好看 淘汰",
+          "source": "data/reviews/daily-20261025-03.json"
+        },
+        {
+          "id": "daily-20261025-04",
+          "name": "潮生团",
+          "batch": "daily-20261025",
+          "status": "淘汰",
+          "quote": "质感还行 但是不好看 不够特别",
+          "source": "data/reviews/daily-20261025-04.json"
+        },
+        {
+          "id": "daily-20261025-09",
+          "name": "藤步",
+          "batch": "daily-20261025",
+          "status": "淘汰",
+          "quote": "不好看",
+          "source": "data/reviews/daily-20261025-09.json"
+        },
+        {
+          "id": "daily-20261026-05",
+          "name": "叠声人",
+          "batch": "daily-20261026",
+          "status": "淘汰",
+          "quote": "不好看 淘汰",
+          "source": "data/reviews/daily-20261026-05.json"
+        },
+        {
+          "id": "daily-20261026-06",
+          "name": "光鬃獾",
+          "batch": "daily-20261026",
+          "status": "淘汰",
+          "quote": "不好看 太普通，没有识别性",
+          "source": "data/reviews/daily-20261026-06.json"
+        },
+        {
+          "id": "daily-20261026-07",
+          "name": "算椅",
+          "batch": "daily-20261026",
+          "status": "淘汰",
+          "quote": "不好看 很奇怪",
+          "source": "data/reviews/daily-20261026-07.json"
+        },
+        {
+          "id": "daily-20261027-02",
+          "name": "入戏签",
+          "batch": "daily-20261027",
+          "status": "淘汰",
+          "quote": "不好看 太像别的ip了 淘汰",
+          "source": "data/reviews/daily-20261027-02.json"
+        },
+        {
+          "id": "daily-20261027-08",
+          "name": "回温灵",
+          "batch": "daily-20261027",
+          "status": "淘汰",
+          "quote": "不好看 也觉的很奇怪 看着很疼的感觉 淘汰。",
+          "source": "data/reviews/daily-20261027-08.json"
+        },
+        {
+          "id": "daily-20261028-05",
+          "name": "菌岸兽",
+          "batch": "daily-20261028",
+          "status": "淘汰",
+          "quote": "不好看",
+          "source": "data/reviews/daily-20261028-05.json"
+        },
+        {
+          "id": "daily-20261028-06",
+          "name": "枫迟鹿",
+          "batch": "daily-20261028",
+          "status": "淘汰",
+          "quote": "不好看",
+          "source": "data/reviews/daily-20261028-06.json"
+        }
+      ],
+      "counterexamples": []
+    },
+    {
+      "id": "separate-origin-from-visualization",
+      "kind": "avoid",
+      "category": "生成偏离",
+      "summary": "用户认可注意力保护原点，但否决当前具象化方式；不能把该原点加入黑名单。",
+      "state": "单例观察，不是长期审美规则",
+      "independent_ip_count": 1,
+      "evidence": [
+        {
+          "id": "2026w42-5",
+          "name": "静静",
+          "batch": "2026w42",
+          "status": "淘汰",
+          "quote": "注意力保护这个可以在存到原点池，但是展示方式具像化这个太差了。",
+          "source": "data/reviews/2026w42-5.json"
+        }
+      ],
+      "counterexamples": []
+    }
+  ],
+  "ai_inferences": {
+    "note": "Claude 2026-10-28 看日更图片归纳的视觉类别，非用户原话，可能有一两个归类偏差；用于解释规则，不替用户判断。",
+    "categories": [
+      {
+        "category": "物件长成身体结构（生物感身体＋物件）",
+        "ids": [
+          "daily-20261024-09",
+          "daily-20261027-07",
+          "daily-20261024-05",
+          "daily-20261023-01",
+          "daily-20261025-08",
+          "daily-20261028-02",
+          "daily-20261026-04",
+          "daily-20261027-06",
+          "daily-20261028-07",
+          "daily-20261026-03",
+          "daily-20261024-02",
+          "daily-20261023-05",
+          "daily-20261022-01",
+          "daily-20261020-03",
+          "daily-20261023-07",
+          "daily-20261026-07",
+          "daily-20261025-09",
+          "daily-20261021-05",
+          "daily-20261025-07",
+          "daily-20261020-07",
+          "daily-20261020-08"
+        ],
+        "counts": {
+          "保留": 6,
+          "待优化": 6,
+          "淘汰": 9
+        }
+      },
+      {
+        "category": "穿衣服的人形小孩或类人",
+        "ids": [
+          "daily-20261020-02",
+          "daily-20261020-05",
+          "daily-20261020-06",
+          "daily-20261021-01",
+          "daily-20261021-04",
+          "daily-20261021-08",
+          "daily-20261022-02",
+          "daily-20261022-04",
+          "daily-20261022-05",
+          "daily-20261022-07",
+          "daily-20261022-08",
+          "daily-20261022-09",
+          "daily-20261023-02",
+          "daily-20261023-04",
+          "daily-20261023-08",
+          "daily-20261024-01",
+          "daily-20261024-03",
+          "daily-20261025-01",
+          "daily-20261025-03",
+          "daily-20261025-06",
+          "daily-20261026-01",
+          "daily-20261026-05",
+          "daily-20261027-01",
+          "daily-20261027-02",
+          "daily-20261028-04"
+        ],
+        "counts": {
+          "保留": 0,
+          "待优化": 14,
+          "淘汰": 11
+        }
+      },
+      {
+        "category": "普通动物＋一个道具或配件",
+        "ids": [
+          "daily-20261020-09",
+          "daily-20261020-04",
+          "daily-20261021-07",
+          "daily-20261022-06",
+          "daily-20261024-04",
+          "daily-20261025-05",
+          "daily-20261026-06",
+          "daily-20261027-03",
+          "daily-20261027-04",
+          "daily-20261027-05",
+          "daily-20261028-01",
+          "daily-20261028-06",
+          "daily-20261028-08",
+          "daily-20261027-09",
+          "daily-20261026-02",
+          "daily-20261024-08",
+          "daily-20261028-05",
+          "daily-20261025-02",
+          "daily-20261021-02",
+          "daily-20261023-03",
+          "daily-20261028-09"
+        ],
+        "counts": {
+          "保留": 1,
+          "待优化": 1,
+          "淘汰": 19
+        }
+      },
+      {
+        "category": "整体透明、果冻、液态",
+        "ids": [
+          "daily-20261020-01",
+          "daily-20261021-06",
+          "daily-20261023-06",
+          "daily-20261023-09",
+          "daily-20261024-07",
+          "daily-20261025-04",
+          "daily-20261028-03"
+        ],
+        "counts": {
+          "保留": 0,
+          "待优化": 2,
+          "淘汰": 5
+        }
+      },
+      {
+        "category": "其他生物",
+        "ids": [
+          "daily-20261026-08",
+          "daily-20261026-09",
+          "daily-20261027-08",
+          "daily-20261021-03"
+        ],
+        "counts": {
+          "保留": 0,
+          "待优化": 3,
+          "淘汰": 1
+        }
+      }
+    ],
+    "pattern": "6 个保留里有 6 个属于「物件长成身体结构」：物件是身体、壳、披风、背负物或冠，不是手里拿的配件；身体多为毛绒等软材质，只有一处特殊材质（珍珠贝、霜冻、铁锅、吸音软片）；两三色强对比；脸收着、五官小。同一类里全硬材质（木头、镀铬、藤编、石头）的多被淘汰。",
+    "pattern_evidence": [
+      "daily-20261024-09",
+      "daily-20261027-07",
+      "daily-20261024-05",
+      "daily-20261023-01",
+      "daily-20261025-08",
+      "daily-20261028-02"
+    ]
+  },
+  "history": [
+    {
+      "date": "2026-10-28",
+      "by": "Claude",
+      "change": "按 feedback-learning.md 门槛首次写入规则；新增正向信号和 AI 推断分区；保留原有单例观察"
+    }
+  ]
 }

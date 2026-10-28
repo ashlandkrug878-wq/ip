@@ -8,7 +8,7 @@
 |---|---|---|---|
 | Claude 或 ChatGPT（第 0 步） | 研究已有 IP，产出对标卡 | `skills/chaowan-ip-study/`、`data/studies/` | `data/studies/`、`research/` |
 | Claude（第一步） | 抓原点、生成表达卡（不含外形和出图） | `skills/chaowan-ip-lab/`、`data/reviews/`、`data/pools/`（只读原点池） | `data/batches/`、`data/ips/` |
-| Claude（第二步） | 给保留的表达找形：白模或线稿方向、裂变、锁定后写 IP 档案 | `skills/chaowan-ip-form/`、`data/ips/`、`data/forms/`、`data/reviews/`、`images/` | `data/forms/`、`ip-archives/` |
+| Claude（第二步） | 给保留的表达找形：发散段概念图、锁形段白模线稿、裂变、锁定后写 IP 档案 | `skills/chaowan-ip-form/`、`data/ips/`、`data/forms/`、`data/reviews/`、`images/` | `data/forms/`、`ip-archives/` |
 | 用户 | 在选品板网站上标保留、待优化、淘汰，写批注，存素材池 | 选品板网站 https://ashlandkrug878-wq.github.io/ip/ | 网站直接提交到 `data/reviews/`、`data/pools/` |
 | 出图工具或 ChatGPT | 按任务队列出图（ChatGPT 的做法见文末） | `queue/image-jobs.json` | `images/<方案或形 id>/`，并更新队列里的状态 |
 | Claude（第三步）或其他 AI | 诊断、配色选材、渲染三视图、插画、表情包、故事、系列、产品化 | `skills/chaowan-ip-studio/`、`ip-archives/`、`images/`、`data/pools/` | `ip-archives/`、`queue/image-jobs.json` |
@@ -18,13 +18,13 @@
 - `workflow/潮玩IP工作流.md`：完整工作流
 - `skills/chaowan-ip-study/SKILL.md`：第 0 步，研究已有 IP，产出对标卡
 - `skills/chaowan-ip-lab/SKILL.md`：第一步，原点到表达卡
-- `skills/chaowan-ip-form/SKILL.md`：第二步，表达到形（白模或线稿方向、裂变、锁定）
+- `skills/chaowan-ip-form/SKILL.md`：第二步，表达到形（概念图发散、白模线稿锁形、裂变、锁定）
 - `skills/chaowan-ip-studio/SKILL.md`：第三步，锁定的形到完整 IP
 - `index.html`：选品板网站（GitHub Pages），读写 `data/`
 - `data/index.json`：`data/` 下各集合的文件 id 清单，网站靠它找文件；增删 `data/` 里的文件后运行 `scripts/build_index.py`（流水线也会自动跑）
 - `data/batches/<期 id>.json`：每期的时机判断、推荐色系、颜色表、材质表、原点清单（带来源链接）
 - `data/ips/<方案 id>.json`：表达卡（洞察、圈层、表达、内核与情绪范围）。2.0 之前的旧方案还带外形和出图提示词 `zh`、`enp`
-- `data/forms/<方案 id>-<轮次字母><序号>.json`：形（五条轴、识别组合、造型规格、白模或线稿提示词，`render` 字段标明哪种），字段见 `skills/chaowan-ip-form/references/form-and-prompts.md`
+- `data/forms/<方案 id>-<轮次字母><序号>.json`：形（七条轴、识别组合、造型规格、概念图或白模线稿提示词，`render` 字段标明哪种），字段见 `skills/chaowan-ip-form/references/form-and-prompts.md`
 - `data/studies/<IP id>.json`：对标卡，字段见 `skills/chaowan-ip-study/references/card.md`，分类字段只能用 `vocab.md` 的词；写完运行 `python skills/chaowan-ip-study/scripts/validate_card.py data/studies/<id>.json`
 - `research/<IP id>/<日期>/`：标准档以上的研究报告和档案
 - `data/species/<编号>-<代号>.json`：栏目《你是什么物种》的访谈原点卡（嘉宾、访谈各段原话、洞察、物种、现场挑的表达、给找形的约束、进度和授权状态）。选品板「你是什么物种」一栏读这里；用户在卡上标保留时，用 chaowan-ip-lab 的访谈入口把它写成表达卡。仓库是公开的，嘉宾未确认公开前用化名，不写可识别的私人信息
@@ -32,9 +32,11 @@
 - `data/pools/<id>.json`：用户的素材池，`type` 为 `palette`（色系）、`color`（单色）、`material`（材质）、`origin`（原点）
 - `ip-archives/IP档案_<名字>_vN.md`：锁定 IP 的档案，第三步所有模块的依据
 - `queue/image-jobs.json`：出图任务队列
-- `images/<方案或形 id>/`：生成的图（形的图沿用 `lineart-01.webp` 这个文件名，白模也存这里）
+- `images/<方案或形 id>/`：生成的图（形的图沿用 `lineart-01.webp` 这个文件名，发散段概念图存这里；锁形段的白模和线稿写在形数据的 `lock_images`）
 
 ## 必须遵守的规则
+
+0. **创作前读 `data/feedback/learned-rules.json`。** 状态为"持续避错建议""持续正向信号"的条目是用户批注总结出来的，生成新方案前变成检查清单，交付时写明对上哪几条；`ai_inferences` 是 AI 的归纳，只当假设
 
 1. **只按用户的选择判断好坏。** 不要自己给方案打分或排名。用户的 `status` 和 `note` 是唯一依据，批注优先
 2. **不变量不能动。** IP 档案里"不变量"一节（表达、核心情绪、原型与轮廓、头身关系、记忆点、五官配置、签名色）任何人都不能改；要改先问用户

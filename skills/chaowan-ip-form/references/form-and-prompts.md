@@ -3,7 +3,7 @@
 ## 目录
 1. 潮玩造型范式
 2. 最小造型规格与识别组合
-3. 提示词模板（白模 / 线稿）与负面词
+3. 提示词模板（发散段概念图 / 锁形段白模和线稿）与负面词
 4. 从模糊到可画
 5. 反例
 6. 出图后怎么看
@@ -11,20 +11,26 @@
 
 ## 1. 潮玩造型范式
 
-"创意成立""角色造型成立""渲染好看"是三件事，找形只处理第二件。而且这里的造型是**潮玩**造型，不是插画角色或吉祥物。研究库 12 个 IP（`data/studies/`）的共同规律：
+"创意成立""角色造型成立""渲染好看"是三件事，找形处理第二件。这里的造型是**潮玩**造型：放在桌上、拿在手里、挂在包上的立体物。
 
-| 项 | 规律 | 写成规则 |
+**范式来自用户自己的选择，不来自现有 IP 的平均样子。** 2026-10-20 到 10-28 的日更概念里，用户保留的 7 个中有 6 个是同一种做法（证据见仓库 `data/feedback/learned-rules.json`）：
+
+| 项 | 用户保留的做法 | 写成规则 |
 |---|---|---|
-| 轮廓 | 11 个大头小身，1 个头身一体 | 头高约占全高 50% 到 60%，身体短而厚实 |
-| 原型 | 9 个类人，3 个动物类人，没有物件 | 默认类人或动物类人，物件和抽象只占探索位 |
-| 主记忆点 | 几乎都在头型和五官 | 主记忆点放在头上，身体只做次要 |
-| 脸上情绪 | 7 内收、4 反差、1 外放（哭） | 脸默认收着，不用张嘴大笑 |
-| 密度 | 极简或中等 | 细节少，3 到 4 个识别元素就停 |
-| 识别 | 靠 3 到 5 个元素的组合关系 | 每个形写一个识别组合 |
+| 原型 | 物件长成身体的生物：椅子身体、背着的锅、贝壳、霜冻头、飞蛾翅膀斗篷、一圈吸音软片冠 | 默认"生物 + 物件融合"；物件是身体、头、壳、披风、长出来的结构或背负的轮廓，不是手里拿的配件 |
+| 材质 | 软身体（毛绒、针织）+ 一处特殊材质（珍珠贝、霜冻、铁锅） | 只有一处特殊材质，落在物件上，和物件本身对应 |
+| 配色 | 两三色强对比：黄配黑、深红配雾蓝、白配藏青 | 主色 + 一个强对比色，必要时加一个中性色 |
+| 脸 | 小黑豆眼、半垂眼、眯眼，嘴很小或没有 | 小五官，情绪收着；不用闪亮大眼和张嘴笑 |
+| 识别 | 用户说"没有见过""形象和造型的结合是之前没有见过的" | 识别来自新组合，不来自更精致 |
 
-还有一条：**它是放在桌上的立体物。**正面站立，双脚着地能站稳，重心在两脚之间；情绪靠眼皮、视线、嘴、重心和姿态，不靠奔跑跳跃。动作镜头留给第三步的表情包和短视频。
+用户反复淘汰的三类（同一文件）：
+- **穿衣服的人形小孩或类人**：25 个里 0 个保留，批注多是"有别的 IP 的影子""好看但没有自己的特点"
+- **普通动物 + 手里拿个道具**：21 个里只保留 1 个，批注多是"普通""没有识别性"
+- **整体透明、果冻、液态**：7 个里 0 个保留
 
-但静态不等于立正。一个能定格的标志性姿态就是身体的寓言：张开双臂迎上去、单手高举、叉腰、抱住自己。手脚的尺度也是语言：放大的手（可以有粗短圆胖的手指）说"给出去、拥抱"，放大的脚或大人的鞋说"站得稳、装大人"。脸收着时，劲儿交给姿态和手脚。第一轮 6 个里至少 2 个不是立正。
+研究库（`data/studies/`）是现有 IP 的拆解，只用来做撞车检查，不当模板：照着成功 IP 的平均样子做，结果就是"有别人的影子"。
+
+还有一条不变：**它是放在桌上的立体物**。能站稳或坐稳，重心清楚；情绪靠眼皮、视线、嘴、重心和一个能定格的姿态，不靠奔跑跳跃。
 
 ## 2. 最小造型规格与识别组合
 
@@ -37,32 +43,56 @@
 | 五官 | 眼型和高度（在头高的哪一段）、眼距和眼宽的关系、眼皮或视线、嘴的大小和位置、脸上的留白 | 豆豆眼、微笑 |
 | 情绪 | 用眼皮、视线、嘴、重心、手的位置中的哪两样表现，不要全部叠上 | 开心、自信 |
 | 身体与姿态 | 身体形状、手脚从哪里长出来、姿态（立正、张臂、举手……）、手脚的尺度（放大还是缩小，大约是头宽的几分之几）、脚怎么站 | 小短手、开心地张开手 |
-| 识别组合 | 3 到 4 个具体的几何关系，合起来让人认出它是谁 | 头上有个特别的东西 |
+| 物件融合 | 物件是什么、成为身体的哪一部分、和身体怎么连接 | 拿着一个锅 |
+| 材质与配色 | 主体材质、特殊材质在哪一处、主色和对比色 | 毛绒、好看的颜色 |
+| 识别组合 | 3 到 4 个具体的关系（物件、比例、颜色位置），合起来让人认出它是谁 | 头上有个特别的东西 |
 
 **识别组合**的写法参考对标卡的撞车字段：例如"竖高的圆头 + 眼睛压在头高下三分之一 + 极小一字嘴 + 头顶一圈贴边的短钝凸起"。每一项都是位置或比例关系，不是装饰名称。写完再和对标卡的 `collide_combo` 比，三项以上相同就改。
 
 比例用倍数和位置写，例如"头高约占全高 55%""两眼间距约一个眼宽"。研究库的复现测试里，这种写法比"大头""小眼"稳得多；不写毫米这类假装精确的尺寸。
 
-## 3. 提示词模板（白模 / 线稿）与负面词
+## 3. 提示词模板与负面词
 
-**默认白模**：统一哑光白的未上色素模，只有眼睛和嘴是黑色，均匀柔光，浅灰背景。白模能看出体块、比例和站不站得住，这是潮玩造型最关键的部分；同时不涉及颜色和材质。
+找形分两段，用两种出图方式：
 
-按"比例 → 头型 → 五官 → 身体与站姿 → 识别组合与反常点 → 画面要求 → 负面词"组织，中英文同义。
+| 段 | 出什么 | 为什么 |
+|---|---|---|
+| **发散段**（第一轮、第二轮裂变） | 完整概念图：产品照，形、色、材一起出 | 用户挑选看的是物件融合、特殊材质和配色，白模和线稿把这些都去掉了，所以看起来都普通 |
+| **锁形段**（用户挑中之后） | 以挑中的概念图为参考图，出白模和线稿 | 检查剪影、体块、站不站得住，做五项测试；锁定后给第三步当三视图和打样的依据 |
+
+"先形后色再选材"是生产顺序，不是发想顺序。
+
+### 发散段：概念图
+
+按"原型和物件融合 → 比例与轮廓 → 脸与情绪 → 姿态 → 材质分区 → 配色 → 画面 → 负面词"组织，中英文同义。写清楚，但不用写长：日更里被保留的提示词大多只有一两句，关键是一句话里同时定了物件、材质、配色和脸。
+
+中文：
+> 原创潮玩角色，[生物]和[物件]长在一起：[物件怎么成为身体、头、壳、披风或冠]。[比例与轮廓：头身关系、整体能概括成什么形状]。[脸：小五官、眼型、情绪]。[姿态]。主体是[软材质]，只有[物件]是[特殊材质]，[特殊材质的表面特征]。配色是[主色]配[对比色]（[中性色]）。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。[负面词]
+
+English:
+> Original designer toy character: a [creature] fused with a [object] — [how the object becomes the body, head, shell, cloak or crown]. [Proportions and silhouette]. [Face: small features, eye shape, mood]. [Pose]. The body is [soft material]; only the [object] is [special material], [surface notes]. Color scheme: [main color] with [contrast color] ([neutral]). Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. [Negative list]
+
+示例（来自用户保留的日更，只作写法参考）：
+> 拟人椅子毛绒角色，深甜菜红圆角椅背就是头，顶部两枚不对称下垂软肩瓣，半垂眼，超长垂臂，雾蓝靠垫，全身短绒产品棚拍。
+
+### 锁形段：白模和线稿
+
+用挑中的概念图做参考图，提示词第一句写"保持参考图的造型、比例和物件融合方式不变"。按"比例 → 头型 → 五官 → 身体与站姿 → 物件与识别组合 → 画面要求 → 负面词"写几何。
 
 中文（白模）：
-> 原创潮玩角色造型白模，[原型]。正面站立，全身居中，双脚着地站稳。[比例：头高约占全高 __%，身体……]。[头型]。[五官：眼型、高度、眼距、视线、嘴]。[身体与站姿：手脚形状和位置、重心]。[识别组合与反常点]。整体是统一的哑光白色素模，像未上色的雕塑灰模，只有眼睛和嘴是黑色；柔和均匀的光只用来看清体块，浅灰纯色背景，不上其他颜色、不画图案和材质纹理。画面右下角放一个同一角色、同一姿态的纯黑实心剪影，高度约为主体的六分之一。[负面词]
+> 保持参考图角色的造型、比例和物件融合方式不变。原创潮玩角色造型白模，[比例]。[头型]。[五官]。[身体与站姿]。[物件的形状和连接]。整体是统一的哑光白色素模，像未上色的雕塑灰模，只有眼睛和嘴是黑色；柔和均匀的光只用来看清体块，浅灰纯色背景，不上其他颜色、不画图案和材质纹理。画面右下角放一个同一角色、同一姿态的纯黑实心剪影，高度约为主体的六分之一。[负面词]
 
 English (clay):
-> Original designer toy character, unpainted white clay sculpt, [archetype]. Standing upright, front view, full body centered, both feet planted firmly. [Proportions: head about __% of total height, body ...]. [Head shape]. [Face: eye shape, height, spacing, gaze, mouth]. [Body and stance: limb shape and placement, center of gravity]. [Identity combination and twist]. The whole figure is a uniform matte white unpainted sculpt, like a grey clay model, with only the eyes and mouth in black; soft even studio light only to read the volumes, plain light grey background, no other colors, no patterns, no material texture. In the lower right corner, a small solid black filled silhouette of the same character in the same pose, about one sixth of the main figure's height. [Negative list]
+> Keep the reference character's form, proportions and how the object is fused into the body exactly unchanged. Original designer toy character, unpainted white clay sculpt. [Proportions]. [Head shape]. [Face]. [Body and stance]. [Object shape and connection]. The whole figure is a uniform matte white unpainted sculpt with only the eyes and mouth in black; soft even light only to read the volumes, plain light grey background, no other colors, no patterns, no material texture. In the lower right corner, a small solid black filled silhouette of the same character in the same pose, about one sixth of the main figure's height. [Negative list]
 
-线稿版本：把"整体是统一的哑光白色素模……不画图案和材质纹理"换成"纯白背景，黑色干净均匀的中粗线稿，只有线条，不上色、不打阴影"（English: `Pure white background, clean black line drawing of even medium weight, line only, no color, no shading`）。不用"手绘抖线""插画感"这类词。
+线稿版本：把"整体是统一的哑光白色素模……不画图案和材质纹理"换成"纯白背景，黑色干净均匀的中粗线稿，只有线条，不上色、不打阴影"（English: `Pure white background, clean black line drawing of even medium weight, line only, no color, no shading`）。
 
-**固定负面词**（每个提示词都整段带上，再加这个形最容易画错的两三项）：
-> 不要儿童绘本或涂色书风格，不要卡通吉祥物，不要奔跑、跳跃或任何动作场景，不要速度线、风线和雨点，不要细长的橡皮管式手脚，不要细长的手指，不要腮红，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。
+**固定负面词**（两段的提示词都整段带上，再加这个形最容易画错的两三项）：
+> 不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。
 
-> No children's book or coloring page style, no cartoon mascot, no running, jumping or action scene, no speed lines, wind lines or raindrops, no thin rubber-hose limbs, no thin long fingers, no blush marks, no wide open-mouth grin, no extra accessories or details, no background props.
+> No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.
 
-（脸上情绪明确允许张嘴时，删掉"不要张嘴大笑"这一项，并在形卡里写明。手放大时，写清手指的形状：粗短、圆胖、像小香肠，大约几根。）
+（原型是类人探索位时删掉"不要穿衣服的人类小孩造型"；脸上情绪明确允许张嘴时，删掉"不要张嘴大笑"，并在形卡里写明。手放大时，写清手指的形状：粗短、圆胖、像小香肠，大约几根。）
 
 写提示词时：
 - 写几何，不写故事。"正在全力往前冲"是故事，"重心略前压，双脚前后半步站稳"是几何
@@ -89,8 +119,8 @@ English (clay):
 
 ## 6. 出图后怎么看
 
-用户上传线稿后，先查提示词执行，再查造型：
-1. 出图有没有执行到位：白模是不是被上了颜色、线稿是不是变成了上色图、有没有剪影角标、记忆点画没画出来、有没有变成动作插画
+用户上传图后，先查提示词执行，再查造型：
+1. 出图有没有执行到位：概念图里物件是不是真的长进了身体（不是拿在手里）、特殊材质是不是只有一处；白模是不是被上了颜色、线稿是不是变成了上色图、有没有剪影角标、记忆点画没画出来、有没有变成动作插画
 2. 执行偏差和设计问题分开记：执行偏差就改提示词重出；设计问题按 `checks.md` 处理
 3. 五项测试按实际看到的写"通过 / 存疑 / 不通过"，并写依据；没做的变体标"未验证"
 4. 是否好看、保留还是淘汰，交给用户
@@ -111,12 +141,16 @@ English (clay):
     "silhouette": "整体轮廓",
     "mark": "记忆点：位置 · 是什么",
     "face": "五官",
-    "emotion": "情绪表达"
+    "emotion": "情绪表达",
+    "fusion": "物件融合：什么物件、成为身体哪一部分",
+    "material": "主体材质 + 一处特殊材质",
+    "palette": "主色 + 对比色"
   },
+  "stage": "concept 或 lock（发散段概念图 / 锁形段）",
   "head": "头型",
   "combo": "识别组合：3 到 4 个几何关系",
   "odd": "反常点，没有写空字符串",
-  "render": "clay 或 line（白模或线稿）",
+  "render": "concept、clay 或 line（概念图、白模、线稿）",
   "line": "线稿时的线条语言，白模留空",
   "why": "怎么长出表达",
   "spec": {"proportion": "", "outline": "", "face": "", "stance": "", "structure": ""},
