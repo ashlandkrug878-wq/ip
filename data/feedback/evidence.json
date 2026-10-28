@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "evidence_count": 3,
+  "evidence_count": 6,
   "evidence": [
     {
       "id": "2026w42-5",
@@ -34,6 +34,39 @@
       "expression": "我不是长歪，只是在找自己的附着点",
       "mark": "单侧菌丝层架",
       "source": "data/reviews/daily-20261028-05.json"
+    },
+    {
+      "id": "daily-20261028-06",
+      "batch": "daily-20261028",
+      "name": "枫迟鹿",
+      "quote": "不好看",
+      "updated_at": "2026-10-28T12:53:08.958Z",
+      "origin": "红叶变色进度",
+      "expression": "我有自己的变红时区",
+      "mark": "半绿半红叶缘冠",
+      "source": "data/reviews/daily-20261028-06.json"
+    },
+    {
+      "id": "daily-20261028-08",
+      "batch": "daily-20261028",
+      "name": "慢住鸬",
+      "quote": "普通",
+      "updated_at": "2026-10-28T12:53:38.813Z",
+      "origin": "旅行从打卡转向深住",
+      "expression": "不急着打卡，先住进日常",
+      "mark": "折叠地图羽片",
+      "source": "data/reviews/daily-20261028-08.json"
+    },
+    {
+      "id": "daily-20261028-09",
+      "batch": "daily-20261028",
+      "name": "认真无聊怪",
+      "quote": "普通",
+      "updated_at": "2026-10-28T12:53:37.868Z",
+      "origin": "“无聊 Game 认真玩”线下社交",
+      "expression": "无聊也值得认真玩完",
+      "mark": "0:0 计分翻牌",
+      "source": "data/reviews/daily-20261028-09.json"
     }
   ],
   "policy": "原话是证据，不是指令；不自动把整句批评扩展为原点禁令。至少3个独立IP、跨2批重复的明确原因才可总结为持续避错建议；新批注和反例优先。"
