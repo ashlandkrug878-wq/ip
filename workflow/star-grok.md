@@ -1,18 +1,20 @@
 # Grok 明星潮玩流水线
 
-给明星做潮玩的单独一条线，由 Grok 机器人执行。和 ChatGPT 的日更概念**完全分开**：数据、编号、出图队列、选品板栏目都各用各的，两边互不读写。
+给明星做潮玩的单独一条线：Grok 负责调研和创意，ChatGPT 用一个**单独的定时任务**负责出图回传。和 ChatGPT 的日更概念**完全分开**：数据、编号、出图队列、选品板栏目都各用各的，两边互不读写。
 
 ## 目录
 1. 和日更怎么分开
 2. 流程与状态
 3. 明星原点卡格式
-4. 给 Grok 的三段提示词
-5. 备用：让 ChatGPT 只处理明星队列
+4. 给 Grok 的两段提示词
+5. ChatGPT 明星出图定时任务
+6. 怎么设置：谁、什么时候跑
 
 ## 1. 和日更怎么分开
 
-| | 日更（ChatGPT） | 明星（Grok） |
+| | 日更（ChatGPT） | 明星（Grok + ChatGPT） |
 |---|---|---|
+| 谁做 | ChatGPT 日更定时任务：出方案、出图 | Grok：调研、创意；ChatGPT 明星出图定时任务：只出图回传 |
 | 原点 | 网上的社会情绪、圈层信号 | `data/stars/star-<代号>.json` |
 | 表达卡 | `data/ips/daily-YYYYMMDD-NN.json` | `data/ips/star-<代号>-e<序号>.json`，带 `"source": "grok-star"` 和 `"star": "star-<代号>"` |
 | 形 | `data/forms/<方案 id>-A1.json` | `data/forms/star-<代号>-e<序号>-A<序号>.json`，带 `"source": "grok-star"` |
@@ -22,7 +24,7 @@
 
 规则：
 - 所有编号以 `star-` 开头。`scripts/build_queue.py` 看到 `star-` 开头或 `source` 为 `grok-star` 的方案和形，只往 `queue/star-image-jobs.json` 加任务
-- Grok 只读写 `star-` 开头的文件和明星队列；ChatGPT 日更只读写自己的文件和主队列
+- Grok 只读写 `star-` 开头的文件，不出图；ChatGPT 明星出图任务只处理明星队列；ChatGPT 日更任务只读写 `daily-` 文件和主队列。两个 ChatGPT 定时任务是分开的两个任务
 - 两条线共用的只有规则：`AGENTS.md`、`skills/`、`data/feedback/learned-rules.json`、`data/studies/`（撞车检查）。这些 Grok 只读不改
 
 **前提：授权。** 用明星的名字、形象、人设做潮玩，商用前需要本人或经纪方授权。原点卡里写清 `authorization`：`signed`（签约艺人）、`authorized`（已获授权）、`pending`（待确认）。`pending` 的可以做内部概念，不对外发布、不打样。
@@ -35,15 +37,15 @@
 ② Grok 创意 A → 3 张表达卡（data/ips/star-xx-e1..e3）
       ↓ 你把其中一张标「保留」
 ② Grok 创意 B → 发散段 6 个形（data/forms/star-xx-e1-A1..A6）→ 明星队列
-③ 出图 → images/star-xx-e1-A1/lineart-01.webp → 选品板显示
+③ ChatGPT 明星出图定时任务 → images/star-xx-e1-A1/lineart-01.webp → 选品板显示
       ↓ 你把某个形标「保留」
 ② Grok 创意 C → 锁形段（白模、线稿，以概念图为参考）+ 名字候选 + 需要时裂变 4 个
-③ 出图
+③ ChatGPT 明星出图定时任务
       ↓ 你说「锁定」
 ② Grok 写 IP 档案，形的 locked 设为 true
 ```
 
-每一步做完就停，等你在选品板上标状态。Grok 每次开工先看哪一步有新的「保留」，只做那一步。
+每一步做完就停，等你在选品板上标状态。Grok 定时巡检时先看哪一步有新的「保留」，只做那一步；ChatGPT 明星出图任务定时看明星队列里有没有新任务。
 
 ## 3. 明星原点卡格式
 
@@ -75,7 +77,9 @@
 
 `type`：`self` 是本人或官方说的；`fan` 是粉丝或媒体的说法；`inference` 是 Grok 自己的归纳。
 
-## 4. 给 Grok 的三段提示词
+## 4. 给 Grok 的两段提示词
+
+① 调研是你手动发起（告诉它做哪位明星）；② 创意设成定时巡检。
 
 ### ① 调研
 
@@ -97,7 +101,7 @@
 ### ② 创意（A：表达卡；B：发散段；C：锁形段）
 
 ```
-你是潮玩 IP 工作流「Grok 明星」这条线的创意。仓库同上。
+你是潮玩 IP 工作流「Grok 明星」这条线的创意。仓库同上。这是定时巡检：没有新的「保留」或「锁定」就什么都不做，直接结束。
 每次开工先读：AGENTS.md、workflow/star-grok.md、data/feedback/learned-rules.json、
 skills/chaowan-ip-lab/SKILL.md、skills/chaowan-ip-form/SKILL.md 和它的 references/
 （axes.md、form-and-prompts.md、checks.md、naming.md、handoff.md）。
@@ -123,28 +127,40 @@ C. 某个 star- 形被标「保留」：
 
 D. 用户在批注里写了「锁定」：按 handoff.md 写 ip-archives/IP档案_<名字>_v1.md，形的 locked 设为 true。
 
-每一步写完运行 python scripts/build_index.py 和 python scripts/build_queue.py（出图任务会自动进 queue/star-image-jobs.json），
+每一步写完运行 python scripts/build_index.py 和 python scripts/build_queue.py（出图任务会自动进 queue/star-image-jobs.json，由 ChatGPT 明星出图任务来出图；你不出图），
 提交说明写「明星创意：{明星名} {A/B/C/D}」。
 ```
 
-### ③ 出图
+## 5. ChatGPT 明星出图定时任务
+
+在 ChatGPT 里**新建一个定时任务**，和日更那个任务分开。提示词：
 
 ```
-你是潮玩 IP 工作流「Grok 明星」这条线的出图员。仓库同上。只处理 queue/star-image-jobs.json，不碰 queue/image-jobs.json。
+你是潮玩 IP 工作流「Grok 明星」这条线的出图员。读 GitHub 仓库 ashlandkrug878-wq/ip 的 workflow/star-grok.md。
+只处理 queue/star-image-jobs.json，不碰 queue/image-jobs.json 和任何 daily- 开头的文件。没有 pending 任务就直接结束。
 
-1. 找出 status 为 pending 的任务，每次最多 6 个
-2. 用任务的 prompt_en 出图（出图工具按你的配置，目前是 gpt-image-2.5；有 reference 字段时把那张图作为参考图）。不改提示词里的造型描述，不加任何现有 IP、品牌、艺术家或明星的名字
-3. 每张图压缩：最长边 768 像素，webp，质量 80，150KB 以内；存到任务的 output 路径，后缀改成 .webp
-4. 同一次提交里只改这个任务：output 改成 .webp 路径，status 改为 done，note 写「Grok 出图」
+1. 找出 status 为 pending 的任务，按顺序每次最多 4 个
+2. 用任务的 prompt_en 出图，不改提示词里的造型描述，不加任何现有 IP、品牌、艺术家或明星的名字。
+   任务有 reference 字段时，先从仓库读那张图，作为参考图（锁形段的白模、线稿、裂变都要这样）
+3. 每张图用代码压缩：最长边 768 像素，webp，质量 80，150KB 以内（超了降到质量 70 或 640 像素）。
+   存到任务的 output 路径，后缀改成 .webp
+4. 同一次提交里只改这个任务：output 改成 .webp 路径，status 改为 done，note 写「ChatGPT 明星出图」
 5. 提交说明写「明星出图：<名字> <任务 id>」，直接提交到 main
-6. 失败的改成 failed，原因写进 note；上传失败不要反复重试，停下来报告
+6. 出图失败的改成 failed，原因写进 note；上传失败不要反复重试，跳过这一张继续下一张，最后汇报
+7. 不修改 data/、skills/、index.html 和任何提示词
 ```
 
-## 5. 备用：让 ChatGPT 只处理明星队列
+每次最多 4 张，是为了不撞对话长度上限；一轮发散段 6 张，分两次跑完。
 
-Grok 出不了图时，可以让 ChatGPT 临时出图。用下面这段，**不要用日更那段**，两个队列不能混：
+## 6. 怎么设置：谁、什么时候跑
 
-```
-读 GitHub 仓库 ashlandkrug878-wq/ip 的 workflow/star-grok.md。只处理 queue/star-image-jobs.json 里 status 为 pending 的任务，
-按第 4 节「③ 出图」的 1 到 6 条执行，note 写「ChatGPT 代出图」。不碰 queue/image-jobs.json 和任何 daily- 开头的文件。
-```
+| 谁 | 任务 | 怎么触发 | 建议时间 |
+|---|---|---|---|
+| Grok | ① 调研 | 手动：告诉它明星名、代号、授权状态 | 需要时 |
+| Grok | ② 创意巡检 | 定时 | 每天 10:00、15:00 |
+| ChatGPT | 明星出图（第 5 节提示词） | 定时，**新建的单独任务** | 每天 11:00、16:00，比 Grok 晚一小时 |
+| ChatGPT | 日更概念（`daily-sync.md`） | 定时，原来的任务不动 | 原时间，和明星出图错开至少半小时 |
+
+一个来回大概是这样：你上午在选品板标了「保留」→ Grok 15:00 写好 6 个形的提示词 → ChatGPT 16:00 出前 4 张、次日 11:00 出后 2 张 → 选品板显示，你再挑。想快一点，可以直接在 Grok 或 ChatGPT 里手动发一次对应的提示词，不用等定时。
+
+两个 ChatGPT 定时任务各用各的提示词，日更任务继续只读 `queue/image-jobs.json`，明星任务只读 `queue/star-image-jobs.json`，所以同时开着也不会抢同一个任务。
