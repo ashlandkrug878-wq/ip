@@ -1,11 +1,11 @@
 """Write data/index.json listing every doc id in data/batches, ips, forms, studies,
-reviews, pools and species. The website reads this file because a static site cannot list folders.
+reviews, pools, species and stars. The website reads this file because a static site cannot list folders.
 Run after adding or removing files in data/. Safe to run repeatedly."""
 import json, pathlib, datetime
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
-COLS = ["batches", "ips", "forms", "studies", "reviews", "pools", "species"]
+COLS = ["batches", "ips", "forms", "studies", "reviews", "pools", "species", "stars"]
 
 def main():
     idx = {c: sorted(p.stem for p in (DATA / c).glob("*.json")) if (DATA / c).exists() else [] for c in COLS}

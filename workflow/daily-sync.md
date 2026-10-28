@@ -2,6 +2,7 @@
 
 本协议适用于用户授权的 ChatGPT 每日完整概念批次；与仓库分阶段创作流程并存，不将每日概念自动标为锁定或完成定型。
 
+0. 只读写 `daily-` 开头的文件和 `queue/image-jobs.json`；`star-` 开头的文件、`data/stars/`、`queue/star-image-jobs.json` 属于 Grok 明星流水线（workflow/star-grok.md），不碰。
 1. 运行前读取 AGENTS.md、data/index.json、全部 data/reviews/，以及所关联的 IP、形和批注；读 data/feedback/learned-rules.json，把"持续避错建议""持续正向信号"变成每张卡的检查清单，并按 skills/chaowan-ip-form/references/form-and-prompts.md 第 1 节的潮玩造型范式出方案（生物＋物件长成身体＋一处特殊材质＋两三色强对比＋收着的小五官；穿衣小人、普通动物加道具、整体透明每批最多各 1 个探索位）；每张卡写明对上哪几条；卡片不起正式名：`name` 写"暂名：<描述词>"（例如"暂名：炭灰貘"），用户标保留或待优化后，下一轮按 skills/chaowan-ip-form/references/naming.md 给出三类名字候选并写入 `name_candidates`；只按用户明确选择学习。淘汰项默认隐藏但保留原卡、图和批注，不物理删除，不重新生成同名同方向；没有原因时只避开该具体候选，不扩大推断用户审美。
 2. 每批唯一 ID 使用 daily-YYYYMMDD；卡片使用 daily-YYYYMMDD-01 至 -09，重跑幂等，禁止重复新增。先检查该 ID 是否已存在；存在时保留 reviews/pools、旧图和版本历史。
 3. data/batches/<batch>.json 记录 title/date/timing/origins（来源 URL、发布日期、证据等级）、learned；每张 data/ips/<id>.json 使用现有兼容字段 name/en/expr/type/batch/order/layers/links/zh/enp/tests/risk，另可加 complete_card 保留完整方案文本、source="daily-lab"、stage="concept"。保留与待优化不等于工程锁定。

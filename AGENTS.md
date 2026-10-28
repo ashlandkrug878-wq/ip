@@ -81,6 +81,13 @@
 - 出图工具只处理 `pending` 的任务，完成后把图存到 `output`，把 `status` 改成 `done`
 - 上色、表情等需要参考图的任务，会多一个 `reference` 字段，指向 `images/` 里已有的图
 
+## 两条流水线分开：ChatGPT 日更与 Grok 明星
+
+- **ChatGPT 日更**（`workflow/daily-sync.md`）：编号 `daily-*`，出图队列 `queue/image-jobs.json`，选品板「① 表达」「② 找形」
+- **Grok 明星**（`workflow/star-grok.md`）：编号 `star-*`，原点卡 `data/stars/`，出图队列 `queue/star-image-jobs.json`，选品板「Grok 明星」
+- 两边互不读写对方的文件和队列。`scripts/build_queue.py` 会把 `star-` 开头或 `source` 为 `grok-star` 的任务只放进明星队列
+- 共用、只读的：`AGENTS.md`、`skills/`、`data/feedback/learned-rules.json`、`data/studies/`
+
 ## 给 ChatGPT：在对话里出图并上传
 
 用户也可以不让 ChatGPT 上传：在选品板网站的详情里复制提示词，去 ChatGPT 出图，下载原图后点上传。网站会自动压缩成 webp、存进 `images/`（形的线稿存 `images/<形 id>/lineart-01.webp`），并把队列里对应任务改成 `done`（`note` 为 `网站上传`）。`lineart` 任务按提示词出图：白模就出统一哑光白的素模（只有眼和嘴是黑色），线稿就只画黑白线稿，都带右下角剪影，都不要上颜色。
@@ -89,7 +96,7 @@
 
 **一个对话只做一个任务。** 上传图片要把整张图的数据放进对话，原图很大，一次做多个或传原图会撑爆对话长度。
 
-1. 读 `queue/image-jobs.json`，找出第一个 `status` 为 `pending` 的任务；用户指定了方案名或 id 时只做那一个。不要把整个队列内容复述出来
+1. 读 `queue/image-jobs.json`（只读这个，不碰 `queue/star-image-jobs.json` 和 `star-` 开头的文件），找出第一个 `status` 为 `pending` 的任务；用户指定了方案名或 id 时只做那一个。不要把整个队列内容复述出来
 2. 用 `prompt_en` 出图（不要改动提示词里的造型描述，不要加任何现有 IP、品牌或艺术家的名字）；需要参考图时先读 `reference` 指向的图
 3. **先压缩再上传**：用代码把图缩到最长边 768 像素，存成 webp，质量 80，文件控制在 150KB 以内（超了就把质量降到 70 或尺寸降到 640）。文件名用 `output` 的路径，后缀改成 `.webp`，例如 `images/2026w42-1/base-01.webp`
 4. 在同一次提交里更新 `queue/image-jobs.json`：只改这个任务的 `output`（改成 .webp 路径）、`status` 改为 `done`、`note` 写 `ChatGPT 出图`；其他任务和字段一律不动

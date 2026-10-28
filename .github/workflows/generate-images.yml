@@ -46,7 +46,7 @@ jobs:
         run: |
           git config user.name "pipeline-bot"
           git config user.email "pipeline-bot@users.noreply.github.com"
-          git add data/index.json data/feedback images queue/image-jobs.json
+          git add data/index.json data/feedback images queue/image-jobs.json queue/star-image-jobs.json
           if git diff --cached --quiet; then
             echo "nothing to commit"
             exit 0

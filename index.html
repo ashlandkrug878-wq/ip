@@ -194,6 +194,17 @@ details.builder[open] summary::after{content:"收起"}
 .md h4{font-size:14px;margin:10px 0 4px}.md p{margin:0 0 6px}.md ul{margin:0 0 6px;padding-left:18px}
 .namebox{display:flex;flex-direction:column;gap:4px;background:var(--sunk);border:1px solid var(--line);border-radius:10px;padding:10px 12px;font-size:13px}
 .namebox b{font-weight:600}
+.starcard{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px 16px;display:flex;flex-direction:column;gap:10px;border-top:3px solid var(--line);margin-bottom:6px}
+.starcard.s-保留{border-top-color:var(--keep)}.starcard.s-待优化{border-top-color:var(--mid)}
+.starcard h2{font-size:22px;font-weight:900;margin:0}
+.authchip{font-size:11.5px;border-radius:5px;padding:1px 8px;background:var(--mid-soft);color:var(--mid)}
+.authchip.signed,.authchip.authorized{background:var(--keep-soft);color:var(--keep)}
+.sws{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.sw{display:inline-flex;align-items:center;gap:4px;font-size:12px;white-space:nowrap;flex:none}
+.sw i,.dotc{display:inline-block;width:14px;height:14px;border-radius:4px;border:1px solid var(--line);vertical-align:middle;margin-right:4px}
+.spc{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:8px}
+.spc div{background:var(--sunk);border-radius:8px;padding:8px 10px;font-size:13px;display:flex;flex-direction:column;gap:2px}
+#starBody{display:flex;flex-direction:column;gap:18px}
 .navsep{width:1px;align-self:stretch;background:var(--line);margin:4px 2px}
 .cimg{display:block;width:100%;aspect-ratio:1/1;object-fit:contain;border-radius:11px 11px 0 0;background:var(--sunk)}
 .dimg{width:100%;max-width:360px;border-radius:10px;border:1px solid var(--line)}
@@ -235,6 +246,7 @@ button,select,textarea,input{font:inherit;color:inherit}
     <label class="note" for="batchSel" style="display:flex;align-items:center;gap:8px">期数 <select class="sel" id="batchSel"></select></label>
     <div class="seg" role="tablist" aria-label="视图">
       <button role="tab" id="tab-study" data-tab="study" aria-selected="false">研究库<small id="c-study"></small></button>
+      <button role="tab" id="tab-star" data-tab="star" aria-selected="false">Grok 明星<small id="c-star"></small></button>
       <button role="tab" id="tab-species" data-tab="species" aria-selected="false">你是什么物种<small id="c-species"></small></button>
       <button role="tab" id="tab-ips" data-tab="ips" aria-selected="true">① 表达<small id="c-ips"></small></button>
       <button role="tab" id="tab-form" data-tab="form" aria-selected="false">② 找形<small id="c-form"></small></button>
@@ -262,6 +274,11 @@ button,select,textarea,input{font:inherit;color:inherit}
     <details class="info"><summary id="feedbackSum">淘汰备注 · 持续积累</summary><div class="infobody" id="feedbackBody"></div></details>
     <div class="row-between"><div class="seg sm" id="filters" role="group" aria-label="按状态筛选"></div><span class="note">只看你的选择和批注，下一期按它们调整</span></div>
     <div class="grid" id="grid"><div class="empty"><b>正在载入本期方案</b><span>每期的方案会自动出现在这里。</span></div></div>
+  </section>
+
+  <section class="panel" id="p-star" hidden>
+    <div class="row-between"><label class="note" for="starSel" style="display:flex;align-items:center;gap:8px">明星 <select class="sel" id="starSel"></select></label><span class="note">Grok 单独一条线：调研 → 你确认人设 → 表达卡 → 概念图 → 锁形。和日更分开，不进「① 表达」「② 找形」</span></div>
+    <div id="starBody"></div>
   </section>
 
   <section class="panel" id="p-species" hidden>
@@ -301,7 +318,7 @@ button,select,textarea,input{font:inherit;color:inherit}
 
 <script src="study-links.js"></script>
 <script>
-let SPECIES=[],STUDIES=[],FORMS=[],formIp=null,JOBS=[],BATCHES=[],IPS=[],REVIEWS={},POOLS={},cur=null,filter="全部",tab=location.hash==="#study"?"study":location.hash==="#species"?"species":"ips",matTab="palette",poolTab="palette",openId=null,canWrite=true;
+let STARS=[],starSel=null,SPECIES=[],STUDIES=[],FORMS=[],formIp=null,JOBS=[],BATCHES=[],IPS=[],REVIEWS={},POOLS={},cur=null,filter="全部",tab=location.hash==="#study"?"study":location.hash==="#species"?"species":"ips",matTab="palette",poolTab="palette",openId=null,canWrite=true;
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const STATUSES=["保留","待优化","淘汰"];
@@ -323,7 +340,8 @@ const ALL="__all";
 function curBatch(){return cur===ALL?null:BATCHES.find(x=>x.id===cur);}
 function matBatch(){return curBatch()||BATCHES[0];}
 function batchOf(i){return BATCHES.find(x=>x.id===i.batch);}
-function batchIps(){const l=cur===ALL?IPS.slice():IPS.filter(i=>i.batch===cur);return l.sort((a,b)=>String(b.batch).localeCompare(String(a.batch))||(a.order||0)-(b.order||0));}
+function isStarId(id){id=String(id||"");if(id.startsWith("star-"))return true;const it=IPS.find(x=>x.id===id)||FORMS.find(x=>x.id===id);return it?.source==="grok-star";}
+function batchIps(){const l=cur===ALL?IPS.filter(i=>!isStarId(i.id)):IPS.filter(i=>i.batch===cur);return l.sort((a,b)=>String(b.batch).localeCompare(String(a.batch))||(a.order||0)-(b.order||0));}
 function ipOrigins(i){const B=batchOf(i)||{};return (B.origins||[]).filter(o=>String(o.to||"").split(/[、，,]/).map(x=>x.trim()).includes(i.name));}
 function setTabs(el,list,active,key){el.innerHTML=list.map(([k,l,n])=>`<button role="tab" data-${key}="${k}" aria-selected="${k===active}">${esc(l)}${n!=null?`<small>${n}</small>`:""}</button>`).join("");}
 
@@ -331,8 +349,8 @@ function setTabs(el,list,active,key){el.innerHTML=list.map(([k,l,n])=>`<button r
 function renderTop(){
   const sel=$("batchSel");sel.innerHTML=(BATCHES.length?`<option value="${ALL}" ${cur===ALL?"selected":""}>全部批次</option>`:"")+BATCHES.map(b=>`<option value="${esc(b.id)}" ${b.id===cur?"selected":""}>${esc(b.title)}</option>`).join("")||`<option>还没有任何一期</option>`;
   document.querySelectorAll("[data-tab]").forEach(t=>t.setAttribute("aria-selected",t.dataset.tab===tab));
-  $("p-study").hidden=tab!=="study";$("p-species").hidden=tab!=="species";$("c-species").textContent=SPECIES.length||"";$("c-study").textContent=STUDIES.length||"";$("p-ips").hidden=tab!=="ips";$("p-form").hidden=tab!=="form";$("p-lock").hidden=tab!=="lock";$("p-mat").hidden=tab!=="mat";$("p-pool").hidden=tab!=="pool";
-  $("c-form").textContent=FORMS.length||"";$("c-lock").textContent=FORMS.filter(f=>f.locked).length||"";
+  $("p-star").hidden=tab!=="star";$("c-star").textContent=STARS.length||"";$("p-study").hidden=tab!=="study";$("p-species").hidden=tab!=="species";$("c-species").textContent=SPECIES.length||"";$("c-study").textContent=STUDIES.length||"";$("p-ips").hidden=tab!=="ips";$("p-form").hidden=tab!=="form";$("p-lock").hidden=tab!=="lock";$("p-mat").hidden=tab!=="mat";$("p-pool").hidden=tab!=="pool";
+  $("c-form").textContent=FORMS.filter(f=>!isStarId(f.id)).length||"";$("c-lock").textContent=FORMS.filter(f=>f.locked).length||"";
   const B=curBatch()||{};
   $("c-ips").textContent=batchIps().length||"";
   const MB=matBatch()||{};$("c-mat").textContent=((MB.palettes||[]).length+(MB.materials||[]).length+(MB.origins||[]).length)||"";
@@ -379,8 +397,8 @@ function card(i){
   </article>`;
 }
 function formsOf(ipId){return FORMS.filter(f=>f.ip===ipId).sort((a,b)=>String(a.round).localeCompare(String(b.round))||(a.n||0)-(b.n||0));}
-function findItem(id){return IPS.find(x=>x.id===id)||FORMS.find(x=>x.id===id)||SPECIES.find(x=>x.id===id);}
-function itemName(id){const sp=SPECIES.find(x=>x.id===id);if(sp)return "物种 第 "+sp.no+" 号 "+(sp.code||"");const f=FORMS.find(x=>x.id===id);if(f){const ip=IPS.find(x=>x.id===f.ip);return (ip?.name||"")+" 形 "+(f.round||"")+(f.n||"");}return IPS.find(x=>x.id===id)?.name||id;}
+function findItem(id){return STARS.find(x=>x.id===id)||IPS.find(x=>x.id===id)||FORMS.find(x=>x.id===id)||SPECIES.find(x=>x.id===id);}
+function itemName(id){const stc=STARS.find(x=>x.id===id);if(stc)return "明星原点 "+(stc.name||id);const sp=SPECIES.find(x=>x.id===id);if(sp)return "物种 第 "+sp.no+" 号 "+(sp.code||"");const f=FORMS.find(x=>x.id===id);if(f){const ip=IPS.find(x=>x.id===f.ip);return (ip?.name||"")+" 形 "+(f.round||"")+(f.n||"");}return IPS.find(x=>x.id===id)?.name||id;}
 function ipJobs(id){return JOBS.filter(j=>j.ip===id);}
 const LOCALIMG={};
 function ipImage(id){if(LOCALIMG[id])return LOCALIMG[id];const j=ipJobs(id).find(j=>j.status==="done"&&/^images\/[\w./-]+\.(png|jpe?g|webp)$/i.test(j.output||""));return j?j.output+(j.v?"?v="+encodeURIComponent(j.v):""):null;}
@@ -402,6 +420,64 @@ function renderGrid(){
 }
 
 /* ---------- species (interview origins) ---------- */
+const AUTH={signed:"签约艺人",authorized:"已获授权",pending:"授权待确认"};
+function starIps(st){const slug=st.id.replace(/^star-/,"");return IPS.filter(i=>i.star===st.id||i.id.startsWith("star-"+slug+"-")).sort((a,b)=>(a.order||0)-(b.order||0)||a.id.localeCompare(b.id));}
+function renderStars(){
+  const sel=$("starSel"),body=$("starBody");if(!sel||!body)return;
+  if(!starSel||!STARS.find(x=>x.id===starSel))starSel=STARS[0]?.id||null;
+  sel.innerHTML=STARS.map(x=>`<option value="${esc(x.id)}" ${x.id===starSel?"selected":""}>${esc(x.name)}${REVIEWS[x.id]?.status==="保留"?" · 已确认":""}</option>`).join("")||`<option>还没有明星</option>`;
+  if(!loaded){body.innerHTML="";return;}
+  if(!starSel){body.innerHTML=`<div class="empty"><b>还没有明星原点卡</b><span>让 Grok 按 workflow/star-grok.md 调研一位明星，原点卡会出现在这里。确认人设后它才会往下做。</span></div>`;return;}
+  const st=STARS.find(x=>x.id===starSel);const r=REVIEWS[st.id]||{};
+  const sw=(c)=>`<span class="sw" title="${esc(c.source||"")}"><i style="background:${okHex(c.hex)}"></i>${esc(c.name)}</span>`;
+  const col=st.colors||{};
+  const head=`<article class="starcard ${r.status?"s-"+r.status:""}">
+    <div class="row-between"><h2>${esc(st.name)} <span class="note">${esc((st.aliases||[]).join("、"))}</span></h2><span class="authchip ${esc(st.authorization?.status||"pending")}">${esc(AUTH[st.authorization?.status]||AUTH.pending)}</span></div>
+    <div class="kv">
+      ${(st.persona||[]).length?`<span>人设</span><span>${(st.persona||[]).map(x=>`${esc(x.word)}<small class="note">（${esc(x.type||"")}）</small>`).join("、")}</span>`:""}
+      ${(st.catchphrases||[]).length?`<span>口头禅</span><span>${esc((st.catchphrases||[]).map(x=>x.text||x).join(" / "))}</span>`:""}
+      ${(col.official||[]).length||(col.fan||[]).length?`<span>颜色</span><span class="sws">${(col.official||[]).map(sw).join("")}${(col.fan||[]).length?`<small class="note">粉丝常用</small>`+(col.fan||[]).map(sw).join(""):""}</span>`:""}
+      ${(st.likened_to||[]).length?`<span>常被比作</span><span>${esc((st.likened_to||[]).map(x=>x.text||x).join("、"))}</span>`:""}
+      ${(st.taboo||[]).length?`<span>雷区</span><span>${esc((st.taboo||[]).join("；"))}</span>`:""}
+    </div>
+    ${(st.species_candidates||[]).length?`<div class="spc">${st.species_candidates.map(x=>`<div><b>${esc(x.answer)}</b><span>${esc(x.why)}</span></div>`).join("")}</div>`:""}
+    <div class="row-between">${statusBtns(st.id)}<button type="button" class="btn link" data-act="open" data-id="${esc(st.id)}">完整原点卡与来源 →</button></div>
+    <div class="inote-edit"><textarea id="cover-note-${esc(st.id)}" data-note-id="${esc(st.id)}" rows="2" placeholder="确认人设：哪里对、哪里不对，物种想要哪个…">${esc(NOTE_DRAFTS[st.id]??r.note??"")}</textarea>
+    <div class="row-between"><span class="note" id="cover-saved-${esc(st.id)}">${r.status==="保留"?"已确认，Grok 会往下做表达卡":"标「保留」= 确认人设，Grok 才会往下做"}</span><button type="button" class="btn pri mini" data-act="note" data-id="${esc(st.id)}">保存</button></div></div>
+  </article>`;
+  const ips=starIps(st);
+  const exprs=ips.length?`<section class="igroup"><h2 class="ghead">表达卡<small>${ips.length}</small></h2><div class="igrid">${ips.map(card).join("")}</div></section>`:`<div class="empty"><b>还没有表达卡</b><span>${r.status==="保留"?"人设已确认，等 Grok 写表达卡。":"先在上面确认人设。"}</span></div>`;
+  const forms=ips.map(i=>{const fs=formsOf(i.id);if(!fs.length)return "";return `<section class="igroup"><h2 class="ghead">${esc(i.name)} · 概念图与形<small>${fs.length}</small></h2><div class="grid">${fs.map(formCard).join("")}</div></section>`;}).join("");
+  body.innerHTML=head+exprs+forms;
+}
+function renderStarDrawer(){
+  const st=STARS.find(x=>x.id===openId);if(!st){closeDrawer();return;}
+  const r=REVIEWS[st.id]||{};const sec=(t,h)=>h?`<div class="sec"><h3>${t}</h3>${h}</div>`:"";
+  const S={};(st.sources||[]).forEach(x=>S[x.id]=x);
+  const refs=ids=>(ids||[]).map(i=>S[i]&&safeUrl(S[i].url)?` <a href="${esc(S[i].url)}" target="_blank" rel="noopener noreferrer">${esc(S[i].title||"来源")} ↗</a>`:"").join("");
+  const TY={self:"本人或官方",fan:"粉丝或媒体",inference:"Grok 归纳"};
+  const list=(arr,f)=>(arr||[]).length?`<div class="layers">${arr.map(f).join("")}</div>`:"";
+  const col=st.colors||{};
+  $("drawer").innerHTML=`<div class="dhead">
+    <div class="row-between"><h2 id="dTitle">${esc(st.name)}</h2><button type="button" class="btn" id="dClose" data-act="close">关闭</button></div>
+    <div class="note">授权：${esc(AUTH[st.authorization?.status]||AUTH.pending)} ${esc(st.authorization?.note||"")} · 调研 ${esc(st.updated||"")}</div>
+    <div class="row-between">${statusBtns(st.id)}</div>
+    <textarea id="note-${esc(st.id)}" placeholder="确认人设：哪里对、哪里不对，物种想要哪个…">${esc(NOTE_DRAFTS[st.id]??r.note??"")}</textarea>
+    <div class="row-between"><span class="note" id="saved-${esc(st.id)}">${r.updatedAt?"已保存":"还没确认"}</span><button type="button" class="btn pri" data-act="note" data-id="${esc(st.id)}">保存批注</button></div>
+  </div><div class="dbody">
+    ${sec("人设",list(st.persona,x=>`<div><span>${esc(x.word)}</span><span>${esc(x.basis||"")} <span class="note">${esc(TY[x.type]||x.type||"")}</span>${refs(x.sources)}</span></div>`))}
+    ${sec("口头禅与名场面",list(st.catchphrases,x=>`<div><span>${esc(x.text||x)}</span><span><span class="note">${esc(TY[x.type]||"")}</span>${refs(x.sources)}</span></div>`))}
+    ${sec("颜色",list([...(col.official||[]).map(c=>({...c,k:"官方"})),...(col.fan||[]).map(c=>({...c,k:"粉丝"}))],c=>`<div><span><i class="dotc" style="background:${okHex(c.hex)}"></i>${esc(c.name)}</span><span>${esc(c.k)} ${esc(c.hex||"")}${refs(c.sources)}</span></div>`))}
+    ${sec("粉丝称呼",esc((st.fan_names||[]).join("、")))}
+    ${sec("常被比作",list(st.likened_to,x=>`<div><span>${esc(x.text||x)}</span><span>${refs(x.sources)}</span></div>`))}
+    ${sec("随身物与爱好",esc((st.belongings||[]).join("、")))}
+    ${sec("作品里反复出现的符号",esc((st.symbols||[]).join("、")))}
+    ${sec("雷区",esc((st.taboo||[]).join("；")))}
+    ${sec("物种候选",list(st.species_candidates,x=>`<div><span>${esc(x.answer)}</span><span>${esc(x.why)}</span></div>`))}
+    ${sec("没查到或被拦住的",esc((st.gaps||[]).join("；")))}
+    ${sec("来源",`<div class="links">${(st.sources||[]).filter(x=>safeUrl(x.url)).map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">${esc(x.title||x.url)} ↗</a>`).join("")}</div>`)}
+  </div>`;
+}
 function renderSpecies(){
   const g=$("speciesGrid");if(!g)return;if(!loaded){g.innerHTML="";return;}
   if(!SPECIES.length){g.innerHTML=`<div class="empty"><b>还没有访谈原点</b><span>每聊完一位嘉宾，把转写稿交给 Claude，原点卡会出现在这里。</span></div>`;return;}
@@ -444,7 +520,7 @@ function renderSpeciesDrawer(){
 function openDrawer(id){const study=STUDIES.find(x=>x.id===id);if(study){location.assign(studyPageUrl(study));return;}openId=id;renderDrawer();$("shade").hidden=false;$("drawer").hidden=false;const t=$("dClose");if(t)t.focus();}
 function closeDrawer(){openId=null;$("shade").hidden=true;$("drawer").hidden=true;}
 function renderDrawer(){
-  if(!openId)return;if(SPECIES.find(x=>x.id===openId)){renderSpeciesDrawer();return;}if(STUDIES.find(x=>x.id===openId)){renderStudyDrawer();return;}if(FORMS.find(x=>x.id===openId)){renderFormDrawer();return;}const i=IPS.find(x=>x.id===openId);if(!i){closeDrawer();return;}
+  if(!openId)return;if(STARS.find(x=>x.id===openId)){renderStarDrawer();return;}if(SPECIES.find(x=>x.id===openId)){renderSpeciesDrawer();return;}if(STUDIES.find(x=>x.id===openId)){renderStudyDrawer();return;}if(FORMS.find(x=>x.id===openId)){renderFormDrawer();return;}const i=IPS.find(x=>x.id===openId);if(!i){closeDrawer();return;}
   const legacy=!!(i.enp||i.zh);
   const r=REVIEWS[i.id]||{};const ins=i.insight;const ci=i.circle;const os=ipOrigins(i);
   const sec=(t,h)=>h?`<div class="sec"><h3>${t}</h3>${h}</div>`:"";
@@ -496,7 +572,7 @@ function mdLite(src){
 function jobStatus(j){return `<span class="pending">出图状态：${esc({pending:"待出图（复制提示词去出图后上传）",awaiting_upload:"待上传",failed:"失败",done:"已完成"}[j.status]||j.status)}${j.status==="failed"&&j.note?"（"+esc(String(j.note).slice(0,120))+"）":""}</span>`;}
 /* ---------- forms ---------- */
 const AXES=[["archetype","原型"],["silhouette","轮廓"],["mark","记忆点"],["face","五官"],["emotion","情绪"]];
-function formIps(){const ids=new Set(FORMS.map(f=>f.ip));IPS.forEach(i=>{if(REVIEWS[i.id]?.status==="保留")ids.add(i.id);});return IPS.filter(i=>ids.has(i.id)).sort((a,b)=>String(b.batch).localeCompare(String(a.batch))||(a.order||0)-(b.order||0));}
+function formIps(){const ids=new Set(FORMS.filter(f=>!isStarId(f.id)).map(f=>f.ip));IPS.forEach(i=>{if(REVIEWS[i.id]?.status==="保留")ids.add(i.id);});return IPS.filter(i=>ids.has(i.id)&&!isStarId(i.id)).sort((a,b)=>String(b.batch).localeCompare(String(a.batch))||(a.order||0)-(b.order||0));}
 function formCard(f){
   const r=REVIEWS[f.id]||{};const st=r.status||"";const im=ipImage(f.id);
   return `<article class="card ${st?"s-"+st:""}">
@@ -647,7 +723,7 @@ function renderPools(){
   if(poolTab==="palette"){body.innerHTML=`<div class="pals">${arr.map(p=>`<div class="pal">${stripHtml(p.roles||[])}<div class="palbody"><h3>${esc(p.name)}${p.custom?` <span class="tag">自己组的</span>`:""}</h3><span class="note">${esc(p.tone||"")}</span>${rolesHtml(p.roles||[])}<div class="palfoot"><span class="note">来自 ${esc(p.fromTitle||"")}</span>${rm(p)}</div></div></div>`).join("")}</div>`;return;}
   body.innerHTML=`<div class="plist">${arr.map(p=>`<div class="pitem">${poolTab==="color"?`<span class="dot" style="background:${okHex(p.hex)}"></span>`:`<span></span>`}<div style="min-width:0"><div class="nm">${esc(p.name)}</div><div class="dt">${esc(p.detail||p.toy||p.source||"")}</div>${p.note?`<div class="dt">批注：${esc(p.note)}</div>`:""}</div><div class="act"><span class="note">来自 ${esc(p.fromTitle||"")}</span>${rm(p)}</div>${(p.links||[]).length?`<div style="grid-column:1/-1">${linksHtml(p.links)}</div>`:""}</div>`).join("")}</div>`;
 }
-function renderAll(){renderTop();renderSpecies();renderInfo();renderFilters();renderGrid();renderStudies();renderForms();renderLock();renderMat();renderPools();if(openId)renderDrawer();}
+function renderAll(){renderTop();renderStars();renderSpecies();renderInfo();renderFilters();renderGrid();renderStudies();renderForms();renderLock();renderMat();renderPools();if(openId)renderDrawer();}
 
 /* ---------- GitHub storage ---------- */
 const OWNER="ashlandkrug878-wq",REPO="ip",BRANCH="main";
@@ -666,12 +742,13 @@ async function putJson(path,obj,msg){for(let tries=0;tries<3;tries++){const sha=
 async function delFile(path,msg){const sha=await shaOf(path);if(!sha)return;const r=await fetch(API+encodeURI(path),{method:"DELETE",headers:{...hdrs(),"Content-Type":"application/json"},body:JSON.stringify({message:msg,sha,branch:BRANCH})});if(!r.ok)throw new Error("删除失败 "+r.status);}
 let chain=Promise.resolve();
 function queueWrite(fn){const p=chain.then(fn);chain=p.catch(()=>{});return p;}
-async function touchIndex(col,id,add){const idx=(await readJson("data/index.json"))||{batches:[],ips:[],forms:[],studies:[],reviews:[],pools:[]};const s=new Set(idx[col]||[]);if(add)s.add(id);else s.delete(id);idx[col]=[...s].sort();idx.updated=new Date().toISOString();await putJson("data/index.json",idx,"选品板：更新索引");}
+async function touchIndex(col,id,add){const idx=(await readJson("data/index.json"))||{batches:[],ips:[],forms:[],studies:[],reviews:[],pools:[],species:[],stars:[]};const s=new Set(idx[col]||[]);if(add)s.add(id);else s.delete(id);idx[col]=[...s].sort();idx.updated=new Date().toISOString();await putJson("data/index.json",idx,"选品板：更新索引");}
 async function loadAll(){
   try{
     const idx=await readJson("data/index.json");if(!idx)throw new Error("仓库里还没有 data/index.json");
     const get=async(col)=>{const out={};const ids=idx[col]||[];for(let i=0;i<ids.length;i+=8){const part=await Promise.all(ids.slice(i,i+8).map(async id=>[id,await readJson(`data/${col}/${id}.json`).catch(()=>null)]));part.forEach(([id,d])=>{if(d)out[id]=d;});}return out;};
-    const [b,ip,fm,st,rv,pl,sp]=await Promise.all([get("batches"),get("ips"),get("forms"),get("studies"),get("reviews"),get("pools"),get("species")]);
+    const [b,ip,fm,st,rv,pl,sp,sr]=await Promise.all([get("batches"),get("ips"),get("forms"),get("studies"),get("reviews"),get("pools"),get("species"),get("stars")]);
+    STARS=Object.entries(sr).map(([id,d])=>({...d,id})).sort((x,y)=>String(y.updated||"").localeCompare(String(x.updated||"")));
     SPECIES=Object.entries(sp).map(([id,d])=>({...d,id})).sort((x,y)=>String(x.no).localeCompare(String(y.no)));
     BATCHES=Object.entries(b).map(([id,d])=>({id,...d})).sort((x,y)=>String(y.date).localeCompare(String(x.date)));
     IPS=Object.entries(ip).map(([id,d])=>({id,...d}));FORMS=Object.entries(fm).map(([id,d])=>({id,...d}));STUDIES=Object.entries(st).map(([id,d])=>({...d,id}));REVIEWS=rv;POOLS=pl;
@@ -755,18 +832,19 @@ async function uploadImage(id,file){
     const b64=await blobB64(blob);
     await queueWrite(async()=>{
       await putFileB64(path,b64,`出图：${nm} 网站上传`);
-      const q=(await readJson("queue/image-jobs.json"))||[];
+      const QP=isStarId(id)?"queue/star-image-jobs.json":"queue/image-jobs.json";
+      const q=(await readJson(QP))||[];
       const now=new Date().toISOString();
       const src=fm||ip||{};
       let j=q.find(x=>x.ip===id&&x.kind===kind);
       if(!j){j={id:`${id}-${kind}-01`,ip:id,name:nm,kind,prompt_en:src.enp||"",prompt_zh:src.zh||"",size:"1024x1024",created:now.slice(0,10)};if(fm)j.parent_ip=fm.ip;q.push(j);}
       j.output=path;j.status="done";j.note="网站上传";j.v=now;j.prompt_en=src.enp||j.prompt_en;j.prompt_zh=src.zh||j.prompt_zh;
       if(!fm){j.prompt_revision=ip?.prompt_revision||1;j.image_revision=ip?.prompt_revision||1;}
-      await putJson("queue/image-jobs.json",q,`出图：${nm} 标记已完成`);
-      JOBS=q;
+      await putJson(QP,q,`出图：${nm} 标记已完成`);
+      JOBS=JOBS.filter(x=>!!x._star!==(QP!=="queue/image-jobs.json")).concat(QP==="queue/image-jobs.json"?q:q.map(x=>({...x,_star:true})));
     });
     LOCALIMG[id]=URL.createObjectURL(blob);
-    renderGrid();renderForms();renderLock();if(openId===id)renderDrawer();
+    renderGrid();renderForms();renderLock();renderStars();if(openId===id)renderDrawer();
     msg("已上传到仓库");
   }catch(e){msg("没有上传成功："+e.message);}
 }
@@ -778,6 +856,7 @@ document.addEventListener("input",e=>{const t=e.target;if(t?.tagName!=="TEXTAREA
 document.addEventListener("focusout",e=>{const t=e.target;if(t?.tagName!=="TEXTAREA"||!t.dataset.noteId)return;const id=t.dataset.noteId;if(NOTE_DRAFTS[id]===undefined)return;if(String(NOTE_DRAFTS[id]).trim()===String(REVIEWS[id]?.note||"").trim()){delete NOTE_DRAFTS[id];return;}if(!TOKEN){flash("saved-"+id,"有未保存批注（连接 GitHub 后才能保存）");return;}saveReview(id,{note:String(NOTE_DRAFTS[id]).trim()});});
 document.addEventListener("keydown",e=>{const t=e.target;if(t?.tagName==="TEXTAREA"&&t.dataset.noteId&&e.key==="Enter"&&(e.metaKey||e.ctrlKey)){e.preventDefault();t.blur();}});
 $("batchSel").addEventListener("change",e=>{cur=e.target.value;filter="全部";closeDrawer();renderAll();});
+$("starSel").addEventListener("change",e=>{starSel=e.target.value;closeDrawer();renderStars();});
 $("formIpSel").addEventListener("change",e=>{formIp=e.target.value;closeDrawer();renderForms();});
 $("shade").addEventListener("click",closeDrawer);
 document.addEventListener("keydown",e=>{if(e.key==="Escape"&&openId)closeDrawer();});
@@ -823,6 +902,7 @@ async function refresh(){
   if(typing)return;
   $("loadNote").textContent="正在读取…";
   try{JOBS=(await readJson("queue/image-jobs.json"))||[];}catch(_){JOBS=[];}
+  try{JOBS=JOBS.concat(((await readJson("queue/star-image-jobs.json"))||[]).map(j=>({...j,_star:true})));}catch(_){}
   await loadAll();
   $("loadNote").textContent=loaded?"更新于 "+new Date().toLocaleTimeString("zh-CN",{hour:"2-digit",minute:"2-digit"}):"";
 }
