@@ -1,0 +1,324 @@
+{
+  "name": "TINY TINY",
+  "aliases": [
+    "TinyTiny",
+    "TINYTINY",
+    "Tiny Tiny"
+  ],
+  "summary": "以跨维度幼态旅者串联寓言式场景：大额头、短刘海、大眼与尖帽是样本识别线索，天真和不安并置。序章与糖果治疗室有官方商品记录，系列空档的期待有单篇用户线索，商业规模仍未知。",
+  "owner": {
+    "creator": "CJ（展会官方署名CHUJIA YIN）",
+    "operator": "POP MART 泡泡玛特",
+    "relation": "展会官方档案称CJ为独立艺术家、CJ ARTWORK创办人；官方商品由POP MART发售。未取得买断、独家、地域期限或品牌/作品分项合同，不将其写成PDC内部原创。",
+    "since": null,
+    "sources": [
+      "BIO",
+      "COL"
+    ]
+  },
+  "origin": {
+    "path": [
+      "艺术家潮玩"
+    ],
+    "year": null,
+    "story": "展会官方描述跨维度旅者在无时间世界观察故事并整理片段；作者擅神秘与矛盾叙事。已核Prologue美国商品2025-02-14，最早原稿/独立作品及首次公开未知；2016为工作室成立，不是该角色诞生。",
+    "sources": [
+      "BIO",
+      "SKU03"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2016",
+      "event": "展会简介记CJ ARTWORK工作室成立，非角色诞生",
+      "type": "self_report",
+      "sources": [
+        "BIO"
+      ]
+    },
+    {
+      "date": "2025-02-14",
+      "event": "Prologue美国商品页发售记录，早于部分二手索引所列2025年9月起点",
+      "type": "self_report",
+      "sources": [
+        "SKU03"
+      ]
+    },
+    {
+      "date": "2025-09-04",
+      "event": "The Lie of Freedom单体美国页记录",
+      "type": "self_report",
+      "sources": [
+        "SKU04"
+      ]
+    },
+    {
+      "date": "2025-09-25",
+      "event": "Lullaby单体美国页记录",
+      "type": "self_report",
+      "sources": [
+        "SKU02"
+      ]
+    },
+    {
+      "date": "2026-07",
+      "event": "公开用户帖等待新系列；评论有未持有者喜欢外观与想要新手办/毛绒的愿望",
+      "type": "self_report",
+      "sources": [
+        "UGC1"
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "event": "Act I: Sugar Therapy Room美国站发售记录；不是销量证明",
+      "type": "self_report",
+      "sources": [
+        "SKU01"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "event": "当日展会官网可见CJ作者/角色档案，网页未标具体首发日",
+      "type": "fact",
+      "sources": [
+        "BIO"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "带着不明白的事，也可以继续寻找答案。",
+    "sentence_type": "留白",
+    "basis": "inferred",
+    "sources": [
+      "BIO",
+      "SKU03"
+    ]
+  },
+  "core": {
+    "personality": "好奇、敏感、神秘",
+    "emotion": "反差",
+    "action": "跨维度观察寓言和故事，收集片段、寻找答案",
+    "basis": "inferred"
+  },
+  "insight": {
+    "scene": "面对选择、控制、等待与未知时的想象",
+    "behavior": "通过某个场景或寓言标题找到当下能代入的一款",
+    "state": "有疑问，不急着把情绪解释清楚",
+    "conflict": "幼态外表与不安/约束题材并存",
+    "unsaid": "我可以先保留这个问题。",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "怪诞童话、寓言场景与幼态反差为候选入口；一篇公开帖不足以描述全部用户",
+    "where": "官方商品、展会档案及公开Reddit讨论；小红书本批跳过",
+    "buy": "四SKU可确认；一条评论明确未持有，另一条希望新系列，均不当购买证据",
+    "signs": "Prologue、Fight back、Choice、Confine、Lullaby与Sugar Therapy Room为检索线索",
+    "share": "一位发帖人整理更新，两位评论者分别表达外观喜欢/产品愿望；无订单与复购核验",
+    "breakout": "从序章到新章节可给收藏者继续关注理由；是否新增或召回用户未知"
+  },
+  "pendulum": {
+    "position": "丑萌怪趣",
+    "note": "幼态外表与神秘、不安和约束的物件并置；并非每一款都暗黑。",
+    "against": "可与直给的甜美/鼓励类作内容结构对照；没有同期全市场普查，不宣布此组合独占或必然更成熟。"
+  },
+  "form": {
+    "archetype": "类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "头型",
+      "五官"
+    ],
+    "mark": "大额头、短中央刘海、大眼与极小鼻口；尖顶与配件按主题变化",
+    "face": "V01粉色双丸发、中央短平刘海、蓝眼白侧月牙，口鼻被黑面罩遮挡；其他样本露出微小鼻口，不能借遮挡图证明全脸复现",
+    "emotion": "反差",
+    "odd": "幼态脸搭配面罩拳套、旧玩具/骷髅/暗色环境等矛盾线索；研究观察不等于唯一寓意",
+    "density": "繁复",
+    "naming": "叠音",
+    "group": "单角色"
+  },
+  "collide_combo": "大额头短中央刘海、两侧发束/丸头、蓝色大眼小口鼻与特定尖帽及幼态比例的关系不可整套搬用；尖帽、双髻、面罩、熊和怪诞童话各自是公共语言。",
+  "color": {
+    "mode": "多色系列",
+    "main": "序章样本粉发红配件，独立单体黑白灰加亮色，新章节棕发/粉绿布景",
+    "signature": "浅肤大眼与暗/亮道具对照为样本语言，不锁为全IP永远粉发蓝眼",
+    "notes": "八区屏幕取样来自V01暗场宣传图，黑色、肤色和裙部受强阴影影响，不作为生产配方。"
+  },
+  "materials": "四项官方规格以PVC/ABS为主，部分含磁体；新系列另有电子元件和聚酰胺。画面旧布偶、发光/透明或布料观感不直接决定实际材料。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "其他"
+  },
+  "product": {
+    "first_category": null,
+    "hit_category": null,
+    "hit_product": "Prologue为本轮核得2025早期系列；最早商品与销量冠军未知",
+    "price_band": "美国单抽19.99美元；Lullaby与Lie of Freedom单体29.99，尺寸与单抽区分",
+    "sources": [
+      "COL",
+      "SKU01",
+      "SKU02",
+      "SKU03",
+      "SKU04"
+    ]
+  },
+  "numbers": [],
+  "mechanisms": [
+    {
+      "claim": "用跨维度旅者为不连续寓言提供共同身份",
+      "type": "inference",
+      "evidence": "官方展会设定收集故事片段；序章款名涉及选择、等待、束缚、平衡等不同情境。",
+      "boundary": "作品名不等于完整连续剧情；没有剧集、作者逐款释义或用户理解验证。",
+      "sources": [
+        "BIO",
+        "SKU03"
+      ]
+    },
+    {
+      "claim": "幼态与不安物件的反差可制造停留和解读空间",
+      "type": "hypothesis",
+      "evidence": "大额头大眼与面罩拳套、骷髅头套、旧玩具和单体场景并置。",
+      "boundary": "尚无用户实验或付费对照；不能由怪诞外观推每个消费者有创伤或需要治疗。",
+      "sources": [
+        "SKU01",
+        "SKU02",
+        "SKU03",
+        "SKU04"
+      ]
+    },
+    {
+      "claim": "新章节可能回应等候者，但存在与转换应分开",
+      "type": "hypothesis",
+      "evidence": "7月单篇讨论等待新系列，8月官方新系列有发售记录。",
+      "boundary": "不能证明品牌因该帖推出，也没有这些用户实际购买、销量或留存数据。",
+      "sources": [
+        "UGC1",
+        "SKU01"
+      ]
+    },
+    {
+      "claim": "同一身份可用不同小场景扩展，需守住比例与脸部关系",
+      "type": "inference",
+      "evidence": "序章站姿、新章坐姿、Lullaby小车与Lie of Freedom场景不同而大额头中央刘海重复。",
+      "boundary": "只有四组样本，无去道具或匿名识别率；发色和装束不是绝对不变量。",
+      "sources": [
+        "SKU01",
+        "SKU02",
+        "SKU03",
+        "SKU04"
+      ]
+    }
+  ],
+  "counterexamples": "未持有者的喜欢与想要新系列只是兴趣/愿望；7月等待帖不能在8月新品后仍当作没有更新的现状。二手索引起点2025年9月晚于官方序章2月记录；名字与尺寸不决定迷你挂件品类。未有单IP财务或匹配失败案例。",
+  "theory": {
+    "shell": "大额头与短中央刘海、大眼小脸身关系组织身份，服装/道具造情境",
+    "core": "跨时间维度观察和收集故事的旅者，寓言容纳不明与矛盾；本轮未取得作者直接深访",
+    "shadow": "童话、熊、尖帽、短刘海和不安道具为公共语言；具体面部与场景关系仍是独立作品",
+    "two_layers": {
+      "surface": "幼态反差或怪诞外观可能吸引第一眼；一位未持有者表达喜欢",
+      "deep": "款名寓言、更新等待和作品版本可能形成关注；没有购买队列或长期用户验证"
+    },
+    "validation": "四SKU与发售可核；公开讨论只有兴趣和愿望，不是销量、复购或粉丝增长。"
+  },
+  "for_skills": {
+    "lab": "可借保留疑问与多义故事的表达，不为每个物件强填唯一疗愈寓意；先验证具体情境。",
+    "form": "可借低龄脸与不安物件的张力，重新设计原型和识别关系，避免复制大额头中央短刘海及特定大眼脸。",
+    "studio": "系列章节、单体场景与内容更新可分别规划；磁体/电子元件/聚酰胺按SKU核实，治疗室是虚构主题而非健康功能。"
+  },
+  "gaps": [
+    "最早独立作品、原稿、创作年、首次公开与第一SKU未知；2016工作室不当IP诞生。",
+    "展会当前官方署名CHUJIA YIN，部分二手资料写Jin；采用CJ并保留异记，不补未经原始确认的中文姓名。",
+    "未取得原始版权/商标/独家期限地域及Black Milk与POP MART具体项目分工，合作不等于买断或PDC内部孵化。",
+    "本轮四SKU不是全量历史图鉴；PIPPI熊名称/关系只有二手线索，未写成已核官方设定。",
+    "一篇Reddit正文和可见评论为目的性小样本，发帖人对249天/历史合作的说法未独立核，不作为事实；无订单、复购、退坑或总粉丝。",
+    "小红书按用户要求跳过；账号连续内容、独立财务、成本利润、库存和2026销量未知。",
+    "附图面罩拳套款v1接近，但熊徽/眼细节强化、头帽和底座比例略改，底座文字按测试要求去除；口鼻本来遮挡，不能声称完整脸通过；纯文字/中文与3D/毛绒未测。"
+  ],
+  "id": "tiny-tiny",
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-28",
+  "updated": "2026-10-28",
+  "sources": [
+    {
+      "id": "COL",
+      "title": "TINY TINY官方设定与当前美国商品集合",
+      "url": "https://www.popmart.com/us/collection/tiny-tiny",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "无时间多维空间与幼态设定；四项当前美元标价不是销量或完整历史。页面SEO的mini/micro不替代SKU尺寸。"
+    },
+    {
+      "id": "BIO",
+      "title": "CJ艺术家与TINY TINY官方展会档案",
+      "url": "https://poptoyshow.com.sg/artist/cj-yin/",
+      "publisher": "POP TOY SHOW Singapore／展会方",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "署名CHUJIA YIN，独立艺术家、2016工作室与跨维度故事设定；不等于原始版权合同，页面未给角色创作年。"
+    },
+    {
+      "id": "UGC1",
+      "title": "等待新系列的公开用户帖与可见评论",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1uvqkwj/several_chujia_yin_the_tinytiny_ip_creator/",
+      "publisher": "Reddit／u/Buster_Fella及可见评论",
+      "published": "2026-07-13",
+      "observed": "2026-10-28",
+      "access": "partial",
+      "type": "self_report",
+      "boundary": "索引给7/13、原页显示相对时间；只读正文和可见评论，未读配图/账号历史。两位评论分别未持有而喜欢、愿望新系列；均非购买。249天等作者更新说法未回溯原帖。"
+    },
+    {
+      "id": "SKU01",
+      "title": "Act I: Sugar Therapy Room 手办官方规格",
+      "url": "https://www.popmart.com/us/products/8497/tinytiny-act-i:-sugar-therapy-room-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "美国页8/13 19:00 PST按原记录；不与其他地区8/14日期矛盾合并。Therapy为虚构主题，不是健康功能。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU02",
+      "title": "Lullaby 单体官方规格",
+      "url": "https://www.popmart.com/us/products/3794/tinytiny-lullaby-figure",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "小车与旧玩具的外观不证明真实布料；磁体具体位置未拆验。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU03",
+      "title": "Prologue 手办官方规格",
+      "url": "https://www.popmart.com/us/products/2081/tinytiny-prologue-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "整盒12不重复；隐藏概率未核。早于部分二手目录9月起点，不自动认定最早角色公开。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU04",
+      "title": "The Lie of Freedom 单体官方规格",
+      "url": "https://www.popmart.com/us/products/3559/tinytiny-the-lie-of-freedom-figure",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "单体不是微型挂件；坐姿与道具的寓意未由作者逐项解释。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    }
+  ],
+  "archive": "research/tiny-tiny/2026-10-28/index.html",
+  "webpage": "research/tiny-tiny/2026-10-28/index.html",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/tiny-tiny/2026-10-28/",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/tiny-tiny/2026-10-28/"
+}

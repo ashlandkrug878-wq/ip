@@ -1,0 +1,66 @@
+{
+  "products": [
+    {
+      "key": "product-1",
+      "name": "Act I: Sugar Therapy Room 手办",
+      "price": 19.99,
+      "launch_date": "2026-08-13",
+      "size": "7–12cm",
+      "materials": "PVC／ABS／电子元件／聚酰胺／磁体",
+      "boundary": "美国页8/13 19:00 PST按原记录；不与其他地区8/14日期矛盾合并。Therapy为虚构主题，不是健康功能。",
+      "product_id": "product-1",
+      "source_id": "SKU01",
+      "price_source_id": "COL",
+      "market": "US",
+      "currency": "USD",
+      "price_basis": "2026-10-28美国官网单件/单抽标价"
+    },
+    {
+      "key": "product-2",
+      "name": "Lullaby 单体",
+      "price": 29.99,
+      "launch_date": "2025-09-25",
+      "size": "7.5cm",
+      "materials": "PVC／ABS／磁体",
+      "boundary": "小车与旧玩具的外观不证明真实布料；磁体具体位置未拆验。",
+      "product_id": "product-2",
+      "source_id": "SKU02",
+      "price_source_id": "COL",
+      "market": "US",
+      "currency": "USD",
+      "price_basis": "2026-10-28美国官网单件/单抽标价"
+    },
+    {
+      "key": "product-3",
+      "name": "Prologue 手办",
+      "price": 19.99,
+      "launch_date": "2025-02-14",
+      "size": "7–11cm",
+      "materials": "PVC／ABS／磁体",
+      "boundary": "整盒12不重复；隐藏概率未核。早于部分二手目录9月起点，不自动认定最早角色公开。",
+      "product_id": "product-3",
+      "source_id": "SKU03",
+      "price_source_id": "COL",
+      "market": "US",
+      "currency": "USD",
+      "price_basis": "2026-10-28美国官网单件/单抽标价"
+    },
+    {
+      "key": "product-4",
+      "name": "The Lie of Freedom 单体",
+      "price": 29.99,
+      "launch_date": "2025-09-04",
+      "size": "8.2cm",
+      "materials": "PVC",
+      "boundary": "单体不是微型挂件；坐姿与道具的寓意未由作者逐项解释。",
+      "product_id": "product-4",
+      "source_id": "SKU04",
+      "price_source_id": "COL",
+      "market": "US",
+      "currency": "USD",
+      "price_basis": "2026-10-28美国官网单件/单抽标价"
+    }
+  ],
+  "cutoff_date": "2026-10-28",
+  "scope": "代表SKU，不是全量图鉴"
+}

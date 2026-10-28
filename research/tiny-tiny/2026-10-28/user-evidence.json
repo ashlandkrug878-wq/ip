@@ -1,0 +1,42 @@
+{
+  "platform": "Reddit公开网页",
+  "sample_method": "从新系列线索的搜索结果目的性选择1篇公开帖；只读正文及可见评论，不代表用户总体",
+  "observed_at": "2026-10-28",
+  "thread_url": "https://www.reddit.com/r/PopMartCollectors/comments/1uvqkwj/several_chujia_yin_the_tinytiny_ip_creator/",
+  "thread_author": "u/Buster_Fella",
+  "posts_read": 1,
+  "comments_read": 4,
+  "purchase_evidence": "未在此样本核实购买或复购",
+  "samples": [
+    {
+      "account": "u/Buster_Fella",
+      "type": "关注/等待",
+      "observation": "整理作者更新并希望新系列",
+      "boundary": "其249天和历史合作说法未回溯原始发文，不作为已核事实"
+    },
+    {
+      "account": "u/articulateblah",
+      "type": "未持有/喜欢",
+      "observation": "明确未持有该IP，表达喜欢独角兽款外观",
+      "boundary": "未购买不能算付费证据"
+    },
+    {
+      "account": "u/Ok_Heart5546",
+      "type": "审美评价",
+      "observation": "表达好看",
+      "boundary": "没有购买或复购信息"
+    },
+    {
+      "account": "u/Specialist_Status277",
+      "type": "产品愿望",
+      "observation": "希望有新的完整系列，手办或毛绒均可",
+      "boundary": "愿望不是已购买或品牌受此影响推出新品"
+    },
+    {
+      "account": "u/A-Laine808",
+      "type": "审美评价",
+      "observation": "表达喜欢角色和作品",
+      "boundary": "没有购买/复购信息"
+    }
+  ]
+}

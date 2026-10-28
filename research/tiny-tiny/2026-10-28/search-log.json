@@ -1,0 +1,17 @@
+{
+  "platform": "小红书",
+  "status": "skipped_by_user",
+  "observed": "2026-10-28",
+  "reason": "用户明确允许本批先不使用小红书",
+  "queries": [],
+  "notes": [],
+  "impact": "直接用户感受、复购/退坑及社媒增长尚未验证",
+  "other_platforms": [
+    {
+      "platform": "Reddit公开网页",
+      "status": "1篇正文与4条可见评论",
+      "evidence_file": "user-evidence.json",
+      "source_id": "UGC1"
+    }
+  ]
+}

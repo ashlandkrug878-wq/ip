@@ -1,0 +1,79 @@
+[
+  {
+    "id": "COL",
+    "title": "TINY TINY官方设定与当前美国商品集合",
+    "url": "https://www.popmart.com/us/collection/tiny-tiny",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "无时间多维空间与幼态设定；四项当前美元标价不是销量或完整历史。页面SEO的mini/micro不替代SKU尺寸。"
+  },
+  {
+    "id": "BIO",
+    "title": "CJ艺术家与TINY TINY官方展会档案",
+    "url": "https://poptoyshow.com.sg/artist/cj-yin/",
+    "publisher": "POP TOY SHOW Singapore／展会方",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "署名CHUJIA YIN，独立艺术家、2016工作室与跨维度故事设定；不等于原始版权合同，页面未给角色创作年。"
+  },
+  {
+    "id": "UGC1",
+    "title": "等待新系列的公开用户帖与可见评论",
+    "url": "https://www.reddit.com/r/PopMartCollectors/comments/1uvqkwj/several_chujia_yin_the_tinytiny_ip_creator/",
+    "publisher": "Reddit／u/Buster_Fella及可见评论",
+    "published": "2026-07-13",
+    "observed": "2026-10-28",
+    "access": "partial",
+    "type": "self_report",
+    "boundary": "索引给7/13、原页显示相对时间；只读正文和可见评论，未读配图/账号历史。两位评论分别未持有而喜欢、愿望新系列；均非购买。249天等作者更新说法未回溯原帖。"
+  },
+  {
+    "id": "SKU01",
+    "title": "Act I: Sugar Therapy Room 手办官方规格",
+    "url": "https://www.popmart.com/us/products/8497/tinytiny-act-i:-sugar-therapy-room-series-figures",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "美国页8/13 19:00 PST按原记录；不与其他地区8/14日期矛盾合并。Therapy为虚构主题，不是健康功能。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU02",
+    "title": "Lullaby 单体官方规格",
+    "url": "https://www.popmart.com/us/products/3794/tinytiny-lullaby-figure",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "小车与旧玩具的外观不证明真实布料；磁体具体位置未拆验。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU03",
+    "title": "Prologue 手办官方规格",
+    "url": "https://www.popmart.com/us/products/2081/tinytiny-prologue-series-figures",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "整盒12不重复；隐藏概率未核。早于部分二手目录9月起点，不自动认定最早角色公开。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU04",
+    "title": "The Lie of Freedom 单体官方规格",
+    "url": "https://www.popmart.com/us/products/3559/tinytiny-the-lie-of-freedom-figure",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "单体不是微型挂件；坐姿与道具的寓意未由作者逐项解释。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  }
+]

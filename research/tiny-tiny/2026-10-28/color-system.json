@@ -1,0 +1,161 @@
+{
+  "image_dimensions": [
+    800,
+    800
+  ],
+  "source_sha256": "dc20a138a9477a07a4eea2c78fa7095d276877eff2ebc08af44f61da1e1cef2c",
+  "colors": [
+    {
+      "name": "粉发亮部",
+      "role": "头型",
+      "scope": "仅本轮V01",
+      "hex_preview": "#d3a9a0",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          400,
+          250
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "肤色暗部",
+      "role": "脸部",
+      "scope": "仅本轮V01",
+      "hex_preview": "#8e6e68",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          400,
+          325
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "蓝眼暗部",
+      "role": "五官",
+      "scope": "仅本轮V01",
+      "hex_preview": "#0d3c4e",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          325,
+          360
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "黑面罩",
+      "role": "道具",
+      "scope": "仅本轮V01",
+      "hex_preview": "#312d2d",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          400,
+          390
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "红拳套",
+      "role": "动作",
+      "scope": "仅本轮V01",
+      "hex_preview": "#812324",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          415,
+          487
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "裙摆暗部",
+      "role": "服装",
+      "scope": "仅本轮V01",
+      "hex_preview": "#697387",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          400,
+          550
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "红底暗部",
+      "role": "支撑",
+      "scope": "仅本轮V01",
+      "hex_preview": "#340607",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          450,
+          680
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "紫鞋",
+      "role": "点色",
+      "scope": "仅本轮V01",
+      "hex_preview": "#8b7187",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          390,
+          645
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    }
+  ]
+}

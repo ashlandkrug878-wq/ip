@@ -1,0 +1,62 @@
+[
+  {
+    "image_id": "V01",
+    "title": "序章Fight back样本／V01实测",
+    "original_image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786417800829_a365144942c74b86433a0af1c63446cb.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/2081/tinytiny-prologue-series-figures",
+    "source_id": "SKU03",
+    "dimensions": [
+      800,
+      800
+    ],
+    "sha256": "dc20a138a9477a07a4eea2c78fa7095d276877eff2ebc08af44f61da1e1cef2c",
+    "observed_features": "粉色双丸发与中央短刘海、红尖帽、大蓝眼；面罩有熊徽，红拳套与短皱裙，一紫鞋一裸脚站红底。",
+    "visual_language": "幼态与防护/抵抗道具并置；口鼻遮挡，不能从此图补完整嘴形。",
+    "material_and_structure": "PVC／ABS／磁体（结构内部不由图像推断）"
+  },
+  {
+    "image_id": "V02",
+    "title": "糖果治疗室样本",
+    "original_image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786094509837_5c7f60fa6839a33e010dd0719a83162c.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/8497/tinytiny-act-i:-sugar-therapy-room-series-figures",
+    "source_id": "SKU01",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "84f9b6fd1404acdd73493fe286f240192635aa1c8bb2c14c638247aedeef429b",
+    "observed_features": "棕色双马尾短刘海、蓝眼，粉小帽带红符号，坐姿怀抱小熊，周围糖果/夹板为布景。",
+    "visual_language": "从序章到新主题仍见幼态脸；主题不等于医疗效果或每件布景附赠。",
+    "material_and_structure": "PVC／ABS／电子元件／聚酰胺／磁体（结构内部不由图像推断）"
+  },
+  {
+    "image_id": "V03",
+    "title": "Lullaby小车样本",
+    "original_image_url": "https://prod-america-res.popmart.com/default/20250919_142706_088793____4_tinytiny-lullaby-figure_figurine_details_pop-mart-us_____1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/3794/tinytiny-lullaby-figure",
+    "source_id": "SKU02",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "932adce5ed6ae6bb9957615c90f4b4c480828e5857e209e1b61b2f8abd3be4b8",
+    "observed_features": "黑短发红眼、白色骷髅头套、浅色衣服坐黄轮车，抱粉色垂耳玩具，地面棋盘格。",
+    "visual_language": "黑白与柔粉玩具对比；不能把红眼、骷髅等全部锁成全IP固定要求。",
+    "material_and_structure": "PVC／ABS／磁体（结构内部不由图像推断）"
+  },
+  {
+    "image_id": "V04",
+    "title": "自由之谎单体",
+    "original_image_url": "https://prod-america-res.popmart.com/default/20250829_142809_911284____3_tinytiny-the-lie-of-freedom-figure_figurine_popmart-us_____1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/3559/tinytiny-the-lie-of-freedom-figure",
+    "source_id": "SKU04",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "e148fdfc19a42127fede092235cd92fd060d9c24de4085cd5227d4de4efa7fd3",
+    "observed_features": "黑色短发中央短刘海、深蓝大眼，额角贴片，头顶旋盖装饰，红鞋前伸坐灰底，旁有黄鸭。",
+    "visual_language": "熟悉小物与不安脸并存；无需用唯一伤痛故事解释全部符号。",
+    "material_and_structure": "PVC（结构内部不由图像推断）"
+  }
+]
