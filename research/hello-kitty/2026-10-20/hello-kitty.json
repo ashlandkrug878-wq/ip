@@ -1,0 +1,564 @@
+{
+  "id": "hello-kitty",
+  "name": "Hello Kitty",
+  "aliases": [
+    "ハローキティ",
+    "凯蒂猫",
+    "Kitty White"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-20",
+  "updated": "2026-10-28",
+  "summary": "从日用品上的角色图案长成跨年龄的生活方式IP：稳定识别关系，更新主题与使用场景；不能用红蝴蝶结永不变或无故事概括。",
+  "owner": {
+    "creator": "初代设计：清水侑子；后续由Sanrio设计体系持续运营",
+    "operator": "Sanrio Co., Ltd.及地区业务主体",
+    "relation": "Sanrio自有角色；具体SKU授权与制造方按合同/产品区分",
+    "since": "1974",
+    "sources": [
+      "S02",
+      "S04",
+      "S05",
+      "S06"
+    ]
+  },
+  "origin": {
+    "path": [
+      "产品先行"
+    ],
+    "year": "1974",
+    "story": "1974设计，1975以小零钱包等商品商业化；没有将后来的叙事内容倒写为起盘前提。",
+    "sources": [
+      "S01",
+      "S03",
+      "S04",
+      "S05"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1974",
+      "event": "Sanrio完成角色设计；初代设计师清水侑子。设计年与商品年分开。",
+      "type": "fact",
+      "sources": [
+        "S01",
+        "S02",
+        "S05"
+      ]
+    },
+    {
+      "date": "1975",
+      "event": "首批商品以乙烯基小零钱包为代表。无证据支持它先因动画或绘本走红。",
+      "type": "fact",
+      "sources": [
+        "S03",
+        "S04",
+        "S05"
+      ]
+    },
+    {
+      "date": "1980起",
+      "event": "山口裕子长期负责设计；通过签名会听取粉丝意见。",
+      "type": "self_report",
+      "sources": [
+        "S06"
+      ]
+    },
+    {
+      "date": "1982 / 1987 / 1996",
+      "event": "官方后期回顾列泰迪熊、黑白与パール系列，体现造型资产随审美更新。",
+      "type": "self_report",
+      "sources": [
+        "S08"
+      ]
+    },
+    {
+      "date": "2014",
+      "event": "JANM回顾展以商品档案与当代艺术共同呈现角色历史。",
+      "type": "self_report",
+      "sources": [
+        "S04"
+      ]
+    },
+    {
+      "date": "2019-04-17",
+      "event": "45周年把历史设计转成成年女性当下可用的商品。",
+      "type": "self_report",
+      "sources": [
+        "S08"
+      ]
+    },
+    {
+      "date": "2023-12-15",
+      "event": "日本麦当劳50周年套餐公仔开始分批投放，共50种。",
+      "type": "fact",
+      "sources": [
+        "S13"
+      ]
+    },
+    {
+      "date": "2024-11-12",
+      "event": "Fender推出50周年乐器及服饰配件联名。",
+      "type": "fact",
+      "sources": [
+        "S14"
+      ]
+    },
+    {
+      "date": "2025-01-30",
+      "event": "Island Adventure登陆Nintendo Switch，参与式内容延长相处时间。",
+      "type": "fact",
+      "sources": [
+        "S15"
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "event": "官方公告计划年内由第三代山口裕子交给第四代あや（Aya）；具体完成日期待核。",
+      "type": "self_report",
+      "sources": [
+        "S06"
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "event": "Hello Kitty在当年角色人气投票中为第5名。",
+      "type": "fact",
+      "sources": [
+        "S17"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "把友好和陪伴留在日常，让不同人生阶段都有自己的Kitty。",
+    "sentence_type": "陪伴",
+    "basis": "inferred",
+    "sources": [
+      "S02",
+      "S07",
+      "S08",
+      "S09"
+    ]
+  },
+  "core": {
+    "personality": "明朗、友善",
+    "emotion": "面无表情",
+    "action": "在日常与朋友建立关系",
+    "basis": "inferred",
+    "note": "官方性格明朗友善；面无表情只描述本轮静态脸部样本，不等于沉默或没有情绪。"
+  },
+  "insight": {
+    "scene": "每天使用的随身物品与成年后的收藏/穿搭",
+    "behavior": "把喜爱的角色带在身边；长大后寻找熟悉设计",
+    "state": "想保留熟悉感，同时适应当下生活",
+    "conflict": "童年喜爱与成人使用场景不总兼容",
+    "unsaid": "我想保留自己的喜欢，也希望它现在仍然用得上。",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "童年使用者、成年怀旧者、时尚/乐器/游戏使用者；未估计人口比例",
+    "where": "官方店、授权合作渠道、游戏与线下接触",
+    "buy": "毛绒与日用品、联名功能商品；个人复购率未知",
+    "signs": "经典设计与不同年代系列、Mimmy左右耳饰差异",
+    "share": "晒收藏、童年物品和使用场景是候选；未完成独立社媒抽样",
+    "breakout": "跨品类合作与成年产品有证据；增量用户未量化"
+  },
+  "pendulum": {
+    "position": "甜美治愈",
+    "against": "不是按当前审美钟摆解释全部历史；同一角色曾以黑白、花饰与潮流主题回应不同年代。"
+  },
+  "form": {
+    "archetype": "动物类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "头型",
+      "五官"
+    ],
+    "mark": "宽圆头与双耳、每侧三须、低位眼鼻及不对称耳侧装饰构成组合",
+    "face": "样本多为黑色竖椭圆眼、小横椭圆鼻、无可见嘴；无须把视觉分类改写为官方物种声明",
+    "emotion": "面无表情",
+    "odd": "没有可见嘴；头侧装饰是可变身份锚点，不等于永远红色蝴蝶结",
+    "density": "极简",
+    "naming": "人名",
+    "group": "单角色"
+  },
+  "collide_combo": "宽圆白色双耳头型＋三须＋低位黑椭圆眼/小黄鼻＋不对称耳侧饰物＋无可见嘴的整组关系，不宜成套迁移。",
+  "color": {
+    "mode": "白底加签名色",
+    "main": "I01样本白脸/白身；红、蓝分区",
+    "signature": "红是经典识别候选，不是跨系列强制常数",
+    "notes": "I01采样红#EA535E、黄#FFF57F、白#FFFFFF、五官线#231815、蓝#4F86C5，均非官方色号；I03粉色大背景不计脸色。"
+  },
+  "materials": "早期乙烯基零钱包；当前样本包括毛绒、ABS眼鼻、刺绣/贴布、金属挂扣；不推广到所有SKU。",
+  "carrier": {
+    "primary": "授权图案",
+    "secondary": "实物潮玩"
+  },
+  "product": {
+    "first_category": "授权周边",
+    "hit_category": null,
+    "hit_product": "跨品类经营，未取得全球SKU销量榜，不能认定一个品类是全时期爆款",
+    "price_band": "地区、年份与品类分别记录，不合并为统一客单价",
+    "sources": [
+      "S03",
+      "S10",
+      "S11",
+      "S12",
+      "S14"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "Sanrio集团合并营业收入（非Hello Kitty）",
+      "value": 194088,
+      "unit": "百万日元",
+      "period": "2025-04-01至2026-03-31；海外子公司按2025自然年并入",
+      "type": "fact",
+      "sources": [
+        "S16"
+      ]
+    },
+    {
+      "metric": "Sanrio集团营业利润（非Hello Kitty）",
+      "value": 77859,
+      "unit": "百万日元",
+      "period": "2026年3月期",
+      "type": "fact",
+      "sources": [
+        "S16"
+      ]
+    },
+    {
+      "metric": "Hello Kitty单IP收入",
+      "value": null,
+      "unit": "未取得",
+      "period": "截至2026-10-20本轮资料",
+      "type": "hypothesis",
+      "sources": [
+        "S16"
+      ]
+    },
+    {
+      "metric": "2026 Sanrio人气投票总榜名次（非收入排名）",
+      "value": 5,
+      "unit": "名",
+      "period": "2026-06-28公布",
+      "type": "fact",
+      "sources": [
+        "S17"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "稳定的是一组识别关系，而不是红结这一种颜色或装饰",
+      "type": "inference",
+      "evidence": "I01–I06跨平面、花饰、黑结和毛绒样本；S08另有黑白历史系列",
+      "boundary": "小样本视觉归纳，不等于官方许可边界；新IP也未必能承受同等变形",
+      "sources": [
+        "S01",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S12"
+      ]
+    },
+    {
+      "claim": "生活用品先建立接触与记忆，长大后再以当下品类重新购买",
+      "type": "inference",
+      "evidence": "零钱包起源、2019成人复刻企划与2024品牌整理的童年物品回忆互相补充",
+      "boundary": "用户原帖未独立复核，未取得复购队列；不能量化记忆导致多少收入",
+      "sources": [
+        "S03",
+        "S04",
+        "S08",
+        "S09"
+      ]
+    },
+    {
+      "claim": "联名以合作方功能和消费场景扩张，而非只给公仔换衣服",
+      "type": "inference",
+      "evidence": "套餐公仔、吉他/效果器、毛绒挂扣和游戏分别连接不同使用行为",
+      "boundary": "可以证实产品与机制存在，不能证实每个联名盈利或新增了多少用户",
+      "sources": [
+        "S11",
+        "S13",
+        "S14",
+        "S15"
+      ]
+    },
+    {
+      "claim": "设计师传承、会员、内容与授权组成组织能力，弱化对单张画或单一创作者的依赖",
+      "type": "inference",
+      "evidence": "2026交接公告、会员复刻景品、集团多IP和跨媒介战略",
+      "boundary": "组织贡献无法从总收入单独分离；授权监修成本与专属团队人数未知",
+      "sources": [
+        "S03",
+        "S06",
+        "S16",
+        "S18"
+      ]
+    }
+  ],
+  "counterexamples": "2026人气榜第5，不能把知名度当每年第一；两款官网样本有折扣，不能宣称所有联名永远溢价；黑白、花饰反驳红结固定色说。没有足够失败SKU销售对照。",
+  "theory": {
+    "shell": "少量关系清晰的头脸符号，能作为脸部图案，也能转成立体物件。",
+    "core": "官方的明朗、友善和朋友关系；平静静态脸为用户留下解释空间是研究假设。",
+    "shadow": "耳、结、胡须都是公共元素；其配置与长期使用史共同形成身份，不能成套搬走。",
+    "two_layers": {
+      "surface": "低门槛的可爱、友好和可用商品",
+      "deep": "年代设计、成长记忆、亲友馈赠和特定圈层联名"
+    },
+    "validation": "产品和功能场景有直接证据；集团收入不等于单IP付费；品牌筛选回忆不是交易凭证，投票也不是销量。"
+  },
+  "for_skills": {
+    "lab": "先找持续关系和具体生活场景，不用无嘴自动等于情绪价值的万能公式。",
+    "form": "借鉴少量识别关系支撑多版本的机制；不移用其双耳/三须/眼鼻/耳饰组合，也不强制所有原创都加头饰。",
+    "studio": "先固定身份，再围绕用途、年龄和场景变化材料与品类；旧设计可升级功能，不只是换色。"
+  },
+  "gaps": [
+    "尚未取得1974原稿、1975原始商品档案与同期销售账；起源使用后期回顾与交叉资料。",
+    "小红书两组站内检索均遇登录墙，实际已读笔记0篇；缺介绍、图鉴及独立使用反馈交叉表。",
+    "未取得官方模型手册、VI标准色号、授权图形变形边界；所有比例与HEX只作样本观察。",
+    "第三代至第四代的具体交接完成日期，及第二代设计师的原始档案，本轮未核实。",
+    "未取得Hello Kitty单IP、分品类和分区域同口径收入；集团合并收入不可代替。",
+    "未做购买者/非购买者/复购/退坑分层访谈、30天内容与粉丝数据采样、跨材质实物测试。",
+    "未发布可执行的复现或原创生成提示词，因此未生成测试图；后续若编写，必须先实测再进入正式区。",
+    "未找到足以归因设计本身的失败SKU对照；折扣和人气名次只作边界，不能直接判失败。",
+    "2026年3月期是本轮读取的完整年度口径，并非宣称截至日没有更晚季度披露。"
+  ],
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Hello Kitty 官方角色档案（日文）",
+      "publisher": "Sanrio",
+      "url": "https://www.sanrio.co.jp/characters/hellokitty/",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "full",
+      "limitations": "角色页、人物关系与主视觉；设计制作年明确标1974。"
+    },
+    {
+      "id": "S02",
+      "title": "Hello Kitty 企业品牌档案（英文）",
+      "publisher": "Sanrio",
+      "url": "https://corporate.sanrio.co.jp/en/business-info/brands/hello_kity/",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "full",
+      "limitations": "左耳丝带、友情象征与官方基础档案；不是生产用模型规范。"
+    },
+    {
+      "id": "S03",
+      "title": "50周年口金包会员景品",
+      "publisher": "Sanrio",
+      "url": "https://www.sanrio.co.jp/news/sanrioplus/kt-50th-monthly-cp-20240826/",
+      "published": "2024-08-26",
+      "observed": "2026-10-20",
+      "access": "full",
+      "limitations": "明确第一号商品是1970年代迷你口金包；这里展示的是2024放大复刻景品。"
+    },
+    {
+      "id": "S04",
+      "title": "Hello Kitty 与 JANM 博物馆展合作公告",
+      "publisher": "Sanrio / JANM",
+      "url": "https://www.sanrio.com/pages/sanrio-partners-with-japanese-american-national-museum-for-first-ever-hello-kitty-museum-exhibition-in-north-america",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "full",
+      "limitations": "品牌历史回顾确认从小型乙烯基零钱包起步；商业效果为主办方自述。"
+    },
+    {
+      "id": "S05",
+      "title": "At 50, Hello Kitty is as kawaii and lucrative as ever",
+      "publisher": "Associated Press",
+      "url": "https://apnews.com/article/fb7569605d5e302ddbe92a877fd1768d",
+      "published": "2024-10-31",
+      "observed": "2026-10-20",
+      "access": "partial",
+      "limitations": "已读检索返回的长摘录；原页打开失败。只用于初代设计师及1974/1975交叉线索，不扩写未取得正文。"
+    },
+    {
+      "id": "S06",
+      "title": "Hello Kitty 担当设计师交接公告",
+      "publisher": "Sanrio 広報 / Sanrio Times",
+      "url": "https://sanriotimes.sanrio.co.jp/n/ndc454afd6a58",
+      "published": "2026-02-10",
+      "observed": "2026-10-20",
+      "access": "full",
+      "limitations": "公告计划2026年内交接给あや（Aya），不是交接已完成的确日证明。"
+    },
+    {
+      "id": "S07",
+      "title": "Friend of the Month: Hello Kitty",
+      "publisher": "Sanrio US",
+      "url": "https://www.sanrio.com/blogs/sanrio/sanrio-friend-of-the-month-hello-kitty-1",
+      "published": "2022-11-01",
+      "observed": "2026-10-20",
+      "access": "full",
+      "limitations": "Mimmy、家人与朋友设定；当年满额礼活动不能当成现行规则。"
+    },
+    {
+      "id": "S08",
+      "title": "45周年记念系列官方新闻稿 PDF",
+      "publisher": "Sanrio",
+      "url": "https://corporate.sanrio.co.jp/news/assets/pdf/2019/20220308105631488s.pdf",
+      "published": "2019-04-04",
+      "observed": "2026-10-20",
+      "access": "full",
+      "limitations": "3页；本次读文字与第1页视觉。1982/1987/1996历史设计为2019官方追述，非当年原件。"
+    },
+    {
+      "id": "S09",
+      "title": "哪种 Hello Kitty 设计最留在记忆里：官方X征集整理",
+      "publisher": "Sanrio",
+      "url": "https://www.sanrio.co.jp/news/etc/mx-measures-20241025/",
+      "published": "2024-10-25",
+      "observed": "2026-10-20",
+      "access": "full",
+      "limitations": "品牌筛选的用户自述；无样本总量、抽样框和交易凭证，不能当代表性调查。"
+    },
+    {
+      "id": "S10",
+      "title": "Hello, Everyone! 10英寸毛绒，SKU 805700",
+      "publisher": "Sanrio US",
+      "url": "https://www.sanrio.com/products/hello-kitty-10-plush-hello-everyone-series",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "full",
+      "limitations": "美国官网现时页面，50周年主题；ABS眼鼻、刺绣和贴布细节；价格非中国口径。"
+    },
+    {
+      "id": "S11",
+      "title": "Metallic Bow 黑色搭配挂件，SKU 726842",
+      "publisher": "Sanrio US",
+      "url": "https://www.sanrio.com/products/hello-kitty-50th-anniv-black-mascot-metallic-bow-series",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "full",
+      "limitations": "图片实际是白色脸部、黑色蝴蝶结及大黑结，不能误写成黑脸。"
+    },
+    {
+      "id": "S12",
+      "title": "Dress Tartan 8英寸毛绒，SKU 092177",
+      "publisher": "Sanrio US",
+      "url": "https://www.sanrio.com/products/hello-kitty-8-plush-hello-kitty-dress-tartan-series",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "full",
+      "limitations": "格纹有特定系列配色含义；不能把该系列粉色丝带推广为全IP标准。"
+    },
+    {
+      "id": "S13",
+      "title": "2023日本麦当劳 Happy Set 50周年公告",
+      "publisher": "McDonald’s Japan",
+      "url": "https://www.mcdonalds.co.jp/company/news/2023/1207a/",
+      "published": "2023-12-07",
+      "observed": "2026-10-20",
+      "access": "full",
+      "limitations": "全50种、公仔随套餐、分批投放。公告不是实际售罄、复购或利润数据。"
+    },
+    {
+      "id": "S14",
+      "title": "Fender × Hello Kitty 50周年系列公告",
+      "publisher": "Fender",
+      "url": "https://www.fender.com/newsroom/270201-fender-celebrates-hello-kitty-s-50th-anniversary-with-limited-edition-guitars-gear-and-apparel/",
+      "published": "2024-11-12",
+      "observed": "2026-10-20",
+      "access": "full",
+      "limitations": "吉他与效果器等功能产品，发布标价而非当日全渠道成交价；不使用页面后续更新的主图判断2024原图。"
+    },
+    {
+      "id": "S15",
+      "title": "Island Adventure 的 Nintendo Switch 发售与玩法介绍",
+      "publisher": "Nintendo / Sunblink",
+      "url": "https://www.nintendo.com/jp/topics/article/7f1023e0-7830-4601-b638-378543526f03",
+      "published": "2025-01-30",
+      "observed": "2026-10-20",
+      "access": "full",
+      "limitations": "平台方原始介绍，包含探索、料理、交友与协作；不是动画或游戏收入证明。"
+    },
+    {
+      "id": "S16",
+      "title": "Sanrio 2026年3月期决算短信",
+      "publisher": "Sanrio（IFIS披露PDF镜像）",
+      "url": "https://kabuyoho-sls-disclose.ifis.co.jp/7f8/140120260623576716.pdf",
+      "published": "2026-06-23",
+      "observed": "2026-10-20",
+      "access": "partial",
+      "limitations": "原发行人为Sanrio；读首页及业务、分部相关页，28页未逐页审阅。集团合并数字，不是Hello Kitty单IP收入。"
+    },
+    {
+      "id": "S17",
+      "title": "2026 Sanrio Character Ranking 最终结果",
+      "publisher": "Sanrio",
+      "url": "https://corporate.sanrio.co.jp/en/news/20260628_03.html",
+      "published": "2026-06-28",
+      "observed": "2026-10-20",
+      "access": "full",
+      "limitations": "Hello Kitty第5；投票是活动行为，不等于独立人数、市场份额或收入排名。"
+    },
+    {
+      "id": "S18",
+      "title": "2026综合报告发布与公司增长方向",
+      "publisher": "Sanrio",
+      "url": "https://corporate.sanrio.co.jp/en/news/20261007.html",
+      "published": "2026-10-07",
+      "observed": "2026-10-20",
+      "access": "full",
+      "limitations": "只读发布公告，未声称通读综合报告PDF；描述的是集团战略。"
+    },
+    {
+      "id": "S19",
+      "title": "Hello Kitty 50年成功机制与CEO访谈",
+      "publisher": "TIME",
+      "url": "https://time.com/6993173/hello-kitty-anniversary-50-years-sanrio-tsuji/",
+      "published": "2024-06-27",
+      "observed": "2026-10-20",
+      "access": "partial",
+      "limitations": "已读检索返回长摘录；本版仅作无嘴表情解释的二手线索，不采用其所有固定色概括。"
+    },
+    {
+      "id": "S20",
+      "title": "小红书站内检索：Hello Kitty 品牌介绍",
+      "publisher": "小红书",
+      "url": "https://www.xiaohongshu.com/search_result/?keyword=Hello%20Kitty%20%E5%93%81%E7%89%8C%E4%BB%8B%E7%BB%8D&type=51",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "blocked",
+      "limitations": "实际打开站内检索；页面显示登录后查看搜索结果，未取得任何笔记。"
+    },
+    {
+      "id": "S21",
+      "title": "小红书站内检索：Hello Kitty 产品汇总",
+      "publisher": "小红书",
+      "url": "https://www.xiaohongshu.com/search_result/?keyword=Hello%20Kitty%20%E4%BA%A7%E5%93%81%E6%B1%87%E6%80%BB&type=51",
+      "published": null,
+      "observed": "2026-10-20",
+      "access": "blocked",
+      "limitations": "实际执行第二组检索，同样出现登录墙；已读笔记数为0，未用普通网页搜索冒充站内阅读。"
+    }
+  ],
+  "archive": "research/hello-kitty/2026-10-20/report.md",
+  "classification_notes": {
+    "archetype": "视觉形态分类，不代表官方称其为普通宠物猫。",
+    "first_category": "按现有词表暂归授权周边；不表示1975首款来自第三方授权。",
+    "hit_category": "跨五十余年和多地区缺同口径销量数据，保留null。"
+  },
+  "research_scope": {
+    "markets": [
+      "日本",
+      "美国（官方商店样本）"
+    ],
+    "languages": [
+      "中文",
+      "日文",
+      "英文"
+    ],
+    "prompt_status": "not_created",
+    "github_publication": "authorized_and_published"
+  },
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/hello-kitty/2026-10-20/"
+}
