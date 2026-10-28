@@ -1,0 +1,101 @@
+[
+  {
+    "id": "COL",
+    "title": "PINO JELLY官方设定及美国商品集合",
+    "url": "https://www.popmart.com/us/collection/pino-jelly",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "当前正文西班牙语，描述糖果世界擅歌舞的时尚明星；五项美国标价非销量。"
+  },
+  {
+    "id": "BIO",
+    "title": "官方Yumi艺术家简介",
+    "url": "https://www.popmart.com/gr",
+    "publisher": "POP MART",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "partial",
+    "type": "self_report",
+    "boundary": "已读Yumi段落：动画学习、喜爱卡通与糖果；不作为完整传记或原始授权合同。"
+  },
+  {
+    "id": "INT1",
+    "title": "Yumi直接访谈：软糖、雀斑与陪伴",
+    "url": "https://www.harpersbazaar.com.sg/lifestyle/pop-mart-artists-interview",
+    "publisher": "Harper’s Bazaar Singapore／直接访谈",
+    "published": "2025-10-07",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "作者谈创作与希望；文章注明与Marina Bay Sands合作，不当用户调查或独立销量证据。"
+  },
+  {
+    "id": "INT2",
+    "title": "Yumi中文直接访谈",
+    "url": "https://www.nuyou.com.sg/lifestyle/pop-mart-artists-share-design-stories-behind-zsiga-sweet-bean-pino-jelly",
+    "publisher": "NUYOU／直接访谈",
+    "published": "2025-10-08",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "作者阳光/单纯、晶透与旅行陪伴自述；同一SPH/Marina Bay Sands活动背景，不伪装两次独立用户验证。"
+  },
+  {
+    "id": "SKU01",
+    "title": "Sweet Like Me 手办官方规格",
+    "url": "https://www.popmart.com/us/products/3018/pino-jelly-sweet-like-me-series-figures",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "美国站记录；不将二手2024目录当本页日期或全球首发。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU02",
+    "title": "Hard & Shiny 手办官方规格",
+    "url": "https://www.popmart.com/us/products/1772/pino-jelly-hard-&-shiny-series-figures",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "宝石外观非真实宝石；电子元件用途未逐款核实。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU03",
+    "title": "Star Project 手办官方规格",
+    "url": "https://www.popmart.com/us/products/1493/pino-jelly-star-project-series-figures",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "偶像设定/装束不证明真实音乐发行或明星带货。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU04",
+    "title": "Former Friend 单体官方规格",
+    "url": "https://www.popmart.com/us/products/992/pino-jelly-former-friend-figurine",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "含棉不等同整件毛绒；附属推车与角色部件按图记录，未做拆件。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU05",
+    "title": "Smoothies Party 单体官方规格",
+    "url": "https://www.popmart.com/us/products/247/pino-jelly-smoothies-party-figurine",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "饮品场景不代表真实食物材料；不是已确认首品。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  }
+]

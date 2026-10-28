@@ -1,0 +1,123 @@
+{
+  "image_dimensions": [
+    1200,
+    1200
+  ],
+  "source_sha256": "65fd57a849337ab1811d9a25bdbdae55e58ff11339de40629e23dd0024524b74",
+  "colors": [
+    {
+      "name": "宝石红发",
+      "role": "主色",
+      "scope": "仅本轮V01",
+      "hex_preview": "#b61313",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          470,
+          435
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "脸部暖色",
+      "role": "留白",
+      "scope": "仅本轮V01",
+      "hex_preview": "#e6bca8",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          600,
+          680
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "酒红眼",
+      "role": "五官",
+      "scope": "仅本轮V01",
+      "hex_preview": "#9e4751",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          550,
+          612
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "粉腮",
+      "role": "点色",
+      "scope": "仅本轮V01",
+      "hex_preview": "#ec948b",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          510,
+          666
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "桃色冠",
+      "role": "头顶",
+      "scope": "仅本轮V01",
+      "hex_preview": "#e7baaa",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          599,
+          250
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "红手切面",
+      "role": "局部",
+      "scope": "仅本轮V01",
+      "hex_preview": "#cf5457",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          495,
+          805
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    }
+  ]
+}

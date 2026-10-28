@@ -1,0 +1,77 @@
+[
+  {
+    "image_id": "V01",
+    "title": "红宝石王冠样本／V01实测",
+    "original_image_url": "https://prod-america-res.popmart.com/default/20241226_151545_988755____1_pino-jelly-hard-shiny-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/1772/pino-jelly-hard-&-shiny-series-figures",
+    "source_id": "SKU02",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "65fd57a849337ab1811d9a25bdbdae55e58ff11339de40629e23dd0024524b74",
+    "observed_features": "红色切面头发与手脚、桃色冠中央红心、U小眼、鼻梁三点雀斑与大粉腮红，上翻领与两红心扣。",
+    "visual_language": "近对称蹲坐轮廓；切面改变亮面语言，脸仍安静。",
+    "material_and_structure": "PVC／ABS／五金／电子元件／PET（官方SKU规格；结构内部不由图像推断）"
+  },
+  {
+    "image_id": "V02",
+    "title": "Sweet Like Me糖果场景",
+    "original_image_url": "https://prod-america-res.popmart.com/default/20250704_181704_748739____2_pino-jelly-sweet-like-me-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/3018/pino-jelly-sweet-like-me-series-figures",
+    "source_id": "SKU01",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "5c38ffed7884b3da5cf4704d581d31556fdfba42d51d092920271194195cda5a",
+    "observed_features": "橙黄透亮发、蓝衣、绿橙手脚，侧倾托头，绿色大糖果在后方。",
+    "visual_language": "色彩、姿态和糖果外壳一起变化；背景不自动算附件。",
+    "material_and_structure": "PVC／ABS／五金（官方SKU规格；结构内部不由图像推断）"
+  },
+  {
+    "image_id": "V03",
+    "title": "Star Project粉发样本",
+    "original_image_url": "https://prod-america-res.popmart.com/default/20240829_095232_867045____pino-jelly-star-project-series-figures-blind-boxes-pop-mart-us-1_____1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/1493/pino-jelly-star-project-series-figures",
+    "source_id": "SKU03",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "432d7eaa9b0d341a7857b9d23639a89d5b72d233f52b4815cce8454c423dbc52",
+    "observed_features": "粉色厚块发、小黄冠、圆眼雀斑、大粉手套与白鞋底，坐姿正对画面。",
+    "visual_language": "圆眼与V01 U眼不同，不把一款五官当全IP不变量。",
+    "material_and_structure": "PVC／ABS（官方SKU规格；结构内部不由图像推断）"
+  },
+  {
+    "image_id": "V04",
+    "title": "Former Friend熊装与推车",
+    "original_image_url": "https://prod-america-res.popmart.com/default/20240305_115710_709390__1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/992/pino-jelly-former-friend-figurine",
+    "source_id": "SKU04",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "4a9d7a2cc99309f5a413fde9166329cb9307d497f0a648fd2bb70894e509d514",
+    "observed_features": "棕耳熊装与白色滴落发，胸前绿圆物、双手粉色，旁有小熊与灰推车。",
+    "visual_language": "角色与小物关系增加叙事，商品含棉不全靠画面判断。",
+    "material_and_structure": "棉／金属／PVC／ABS（官方SKU规格；结构内部不由图像推断）"
+  },
+  {
+    "image_id": "V05",
+    "title": "Smoothies Party饮品场景",
+    "original_image_url": "https://prod-america-res.popmart.com/default/4_D2UKhpeIJk_1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/247/pino-jelly-smoothies-party-figurine",
+    "source_id": "SKU05",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "25da9545f4f0c777e08e1d8faf511034a621838a9db4af2edefa7066c4b87fd2",
+    "observed_features": "薄荷白发、心形太阳镜、浅绿手脚，顶上杯口与吸管，身旁小杯饮品。",
+    "visual_language": "饮品主题改造头顶与道具；遮眼样本限制眼部恒定结论。",
+    "material_and_structure": "ABS／PVC（官方SKU规格；结构内部不由图像推断）"
+  }
+]

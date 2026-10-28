@@ -1,0 +1,25 @@
+[
+  {
+    "prompt_id": "pino-jelly-flat-ref-v1",
+    "subject_id": "pino-jelly",
+    "version": 1,
+    "target_scope": "V01官方商品图可见视角平面转译",
+    "carrier": "flat",
+    "exact_prompt": "Use the attached official product photograph as the sole identity, visible geometry, costume, expression and pose reference. Translate the exact single front-facing small seated candy boy into a clean flat 2D full-body character study on a white square canvas. Preserve the large faceted ruby-red bob-shaped hair mass with a deep central rectangular forehead opening and two thick lower side locks, the pale peach broad round face, two small burgundy U-shaped eyes with separate short brow marks partly hidden by the hair, three tiny gray-brown freckles between the eyes, a faint tiny horizontal mouth, and two large rosy cheek ovals. Preserve the pale peach five-point open crown with tiny pearl dots along its pointed stems and a small red heart on the tallest central point. Preserve the wide upturned pale peach collar, two ruby-red heart buttons down the pale chest, two large red faceted rounded mitten shapes held in front of the chest, and two large red faceted rounded feet resting together below them. Preserve the small pale peach cape-edge frame running around the sides and low flat bottom. Maintain the exact squat seated silhouette, crown-to-hair-to-face ratios, central symmetry and quiet facial expression. Represent the crystal-like hair, hands and feet using clear outlined polygon color regions in a small set of red and pink local colors; these flat facets must describe the same shapes without photorealistic reflections, transparent rendering, dimensional gradients, specular shine, shadows or plastic texture. Use thin clean dark outlines. Do not replace the U eyes with round anime eyes, remove the freckles, add a smile, turn the crown into a hat, add legs or arms outside the silhouette, or introduce extra props. No lettering, no logos, no watermark. Reconstruct only the visible view, without invented rear details.",
+    "language": "en",
+    "input_mode": "reference_assisted",
+    "reference_image_ids": [
+      "V01"
+    ],
+    "reference_sha256": "65fd57a849337ab1811d9a25bdbdae55e58ff11339de40629e23dd0024524b74",
+    "generated_image_path": "assets/pino-jelly-flat-ref-v1.webp",
+    "original_generated_file": "generated_images/exec-31157b3c-860d-48c3-90d7-d1b155700e4b.png",
+    "generated_sha256": "1418cf0b9b1bfa7fe2ce9c2da06953218e2892fa5ecf12889c99ca990f090fac",
+    "observations": "红切面发中央额口、桃色心冠、三点雀斑、双大腮红、上翻领、四团红手脚与蹲坐比例接近。U眼由空心边变粗实心、部分切面/冠点简化；透明反射转为色块，没有宣称保留真实折射或纯文字可复现。",
+    "revision_reason": "首轮明确绑定已实际看过的本地官方原图",
+    "tested_at": "2026-10-28",
+    "status": "ready",
+    "protocol_validity": "valid",
+    "validation": "逐项目视对照，无数值相似度、多用户盲测或重复稳定性结论"
+  }
+]

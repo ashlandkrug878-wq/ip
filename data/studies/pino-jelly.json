@@ -1,0 +1,342 @@
+{
+  "name": "PINO JELLY 软糖男孩",
+  "aliases": [
+    "Pino Jelly",
+    "软糖男孩"
+  ],
+  "summary": "从软糖的色彩与透亮观感出发，把爱打扮的男孩做成糖果世界偶像；鼻梁雀斑有作者解释。材料表情与系列主题相连，但透明外观、真实触感和用户陪伴体验要分别验证。",
+  "owner": {
+    "creator": "Yumi",
+    "operator": "POP MART 泡泡玛特",
+    "relation": "官方艺术家简介与直接访谈确认作者；本轮未取得版权转让、商标或独家合作原始合同，授权范围和期限未知。",
+    "since": null,
+    "sources": [
+      "BIO",
+      "INT1",
+      "INT2"
+    ]
+  },
+  "origin": {
+    "path": [
+      "艺术家潮玩"
+    ],
+    "year": null,
+    "story": "Yumi把喜爱的晶透软糖与男孩形象结合；官方简介列动画学习背景。本轮可核最早商品记录为2023-06-02 Smoothies Party，但不是已证实角色诞生或首品。二手索引2021说法尚未回溯同期原始档案。",
+    "sources": [
+      "BIO",
+      "INT1",
+      "INT2",
+      "SKU05"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2023-06-02",
+      "event": "Smoothies Party美国商品页记录；非证实首品",
+      "type": "self_report",
+      "sources": [
+        "SKU05"
+      ]
+    },
+    {
+      "date": "2024-03-08",
+      "event": "Former Friend单体采用棉/金属/PVC/ABS混合材料",
+      "type": "self_report",
+      "sources": [
+        "SKU04"
+      ]
+    },
+    {
+      "date": "2024-09-06",
+      "event": "Star Project偶像主题手办记录",
+      "type": "self_report",
+      "sources": [
+        "SKU03"
+      ]
+    },
+    {
+      "date": "2025-01-03",
+      "event": "Hard & Shiny商品页记录，含电子元件及PET",
+      "type": "self_report",
+      "sources": [
+        "SKU02"
+      ]
+    },
+    {
+      "date": "2025-07-10",
+      "event": "Sweet Like Me美国商品页记录，与二手索引日期分开",
+      "type": "self_report",
+      "sources": [
+        "SKU01"
+      ]
+    },
+    {
+      "date": "2025-10-07/08",
+      "event": "Yumi直接访谈说明软糖原点、打扮与陪伴意图",
+      "type": "self_report",
+      "sources": [
+        "INT1",
+        "INT2"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "把日子过得甜一点，也陪你去更远的地方。",
+    "sentence_type": "陪伴",
+    "basis": "inferred",
+    "sources": [
+      "INT1",
+      "INT2"
+    ]
+  },
+  "core": {
+    "personality": "阳光、单纯、爱打扮",
+    "emotion": "外放",
+    "action": "从糖果世界走向舞台与旅行日常",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "甜品店、旅行打卡、桌面与偶像舞台的想象",
+    "behavior": "选颜色/口味主题，可能携带拍照或收藏版本",
+    "state": "想给普通日常增加一点明亮与甜感",
+    "conflict": "视觉上甜美柔软，人物又有自己的时尚与倔强",
+    "unsaid": "陪我把生活里小小的快乐留下来。",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "糖果审美、色彩收藏、随行拍照与偶像主题是候选入口；真实分布未知",
+    "where": "官方商品渠道及艺术家活动/直接采访；按用户指示跳过小红书",
+    "buy": "五项商品存在已核；没有单IP财务、个人购买和复购记录",
+    "signs": "鼻梁三点雀斑、糖果头发、Star Project与Hard & Shiny是线索",
+    "share": "作者自述旅行带娃拍照，不转写为全体用户行为",
+    "breakout": "甜品饮品与舞台主题可提供接触语境；实际获客与转化未知"
+  },
+  "pendulum": {
+    "position": "甜美治愈",
+    "note": "阳光甜感与男孩时尚的结合；治愈是审美定位，非疗效。",
+    "against": "与低饱和内收角色可作材料与情绪对照；未证明当时甜感男孩稀缺或其销量贡献。"
+  },
+  "form": {
+    "archetype": "类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "头型",
+      "五官"
+    ],
+    "mark": "厚块糖果发、宽脸、鼻梁雀斑、大腮红与短小四肢；样本眼形可变",
+    "face": "V01红宝石发中央缺口、U形小眼、鼻梁三点、粉红大腮红、小横嘴；其他样本圆眼/配饰遮眼，不能统一成一套眼形",
+    "emotion": "反差",
+    "odd": "食物观感包住爱打扮的男孩；硬切面与软糖概念共存，形状/材料不等于可捏",
+    "density": "中等",
+    "naming": "其他",
+    "group": "单角色"
+  },
+  "collide_combo": "厚块糖果发与中央额口、三点鼻梁雀斑、饱满双腮、特定小眼/脸身及糖果四肢关系应避免整套搬用；透明、圆形、雀斑和糖果本身为公共元素。",
+  "color": {
+    "mode": "多色系列",
+    "main": "甜品、舞台与宝石主题换用红、粉、绿、橙等鲜亮色",
+    "signature": "饱和糖果色与半透明/亮面观感是候选材料语言，不是全IP固定一种颜色",
+    "notes": "六区真实取样来自V01红宝石款，切面与反射导致同一对象色差，不用来推完整透光/折射参数。"
+  },
+  "materials": "多数商品ABS/PVC；Hard & Shiny另有五金/电子元件/PET；Former Friend含棉和金属。软糖是创作意象，不能等同实际可食或硅胶可捏材质。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "授权图案"
+  },
+  "product": {
+    "first_category": null,
+    "hit_category": null,
+    "hit_product": "Star Project与Sweet Like Me等主题已核；最早商品与销量冠军未知",
+    "price_band": "美国单件/单抽16.99/19.99美元；5.12英寸Former Friend99.99、5.6英寸Smoothies84.99，不能混成同规格价差",
+    "sources": [
+      "COL",
+      "SKU01",
+      "SKU03",
+      "SKU04",
+      "SKU05"
+    ]
+  },
+  "numbers": [],
+  "mechanisms": [
+    {
+      "claim": "材料观感与人物性格可围绕同一个原点组织",
+      "type": "inference",
+      "evidence": "作者把鲜艳和晶透分别联系阳光与单纯；宝石切面、软糖和饮品视觉存在。",
+      "boundary": "属于作者意图和视觉一致性，不证明用户这样理解，也没有透光/触感物理测试。",
+      "sources": [
+        "INT2",
+        "SKU01",
+        "SKU02",
+        "SKU05"
+      ]
+    },
+    {
+      "claim": "小雀斑把普通幼态脸连接到爱打扮的性格",
+      "type": "inference",
+      "evidence": "作者解释鼻梁雀斑是角色画上去的；三点在当前主图可见。",
+      "boundary": "角色设定不是所有款必有或消费者已知的证据，眼形与饰品仍会变化。",
+      "sources": [
+        "INT1",
+        "SKU02",
+        "SKU03"
+      ]
+    },
+    {
+      "claim": "陪伴可用旅行和美食拍照具体化，而非只写抽象治愈",
+      "type": "hypothesis",
+      "evidence": "Yumi自述带角色旅行吃饭拍照，并希望它陪用户到不同城市。",
+      "boundary": "作者行为与愿望不是用户访谈；本轮没有真实携带频次或购买动机证据。",
+      "sources": [
+        "INT1",
+        "INT2"
+      ]
+    },
+    {
+      "claim": "从甜品到偶像再到宝石，主题变化需要保留身份关系",
+      "type": "inference",
+      "evidence": "五项官方商品变色、换装与材质组合，但宽脸、块状发和短身体重复。",
+      "boundary": "没有匿名识别、各系列销量对照；不能据上新认定增长或忠诚。",
+      "sources": [
+        "SKU01",
+        "SKU02",
+        "SKU03",
+        "SKU04",
+        "SKU05"
+      ]
+    }
+  ],
+  "counterexamples": "软糖意象与PVC/ABS实际规格不等同；V01 U眼与Star Project圆眼反证固定眼形。二手索引把Sweet Like Me记为2024，与本轮美国官方2025-07-10不同，不能混称全球首发；无独立财务或匹配失败例。",
+  "theory": {
+    "shell": "糖果发、胖脸、腮红雀斑和短四肢，让材料和轮廓共同参与识别",
+    "core": "阳光、单纯、时尚与一点倔强；陪伴是作者希望，不是本轮已验证用户结果",
+    "shadow": "糖果、宝石、透明、雀斑和偶像舞台为公共语言，具体脸部/身体组合形成角色身份",
+    "two_layers": {
+      "surface": "鲜亮色与晶透糖果可能吸引第一眼（假设）",
+      "deep": "自己画的雀斑、偶像成长及不同材料版本可形成知识；没有持有人长期行为"
+    },
+    "validation": "有官方产品规格与价格；没有单IP收入、订单、粉丝增长或复购证据，不以作者愿景替代。"
+  },
+  "for_skills": {
+    "lab": "可借由颜色/材料观感出发建立性格的路径，先说明具体情境；不直接把甜=治愈当结论。",
+    "form": "可借材料原点如何约束轮廓和主题变化；重新设计脸、发块、身体，不复制糖果发加三点雀斑与大腮红组合。",
+    "studio": "透明、切面、亮面要分别验证模具、透光、色差和耐用；平面色块只能转译观感，不能证明量产工艺或可捏触感。"
+  },
+  "gaps": [
+    "2021起源与Your Boy首品仅二手索引线索，未取得同期作者/官方档案；创作年与第一商品留空。",
+    "当前授权地域期限、版权/商标及专属团队未核；不凭合作直接认定买断。",
+    "两篇访谈来自同一SPH/Marina Bay Sands活动语境，非独立验证用户需求；商业合作背景保留。",
+    "五项当前美国商品不是完整历年图鉴；不同地区发售日期不能合成全球首发。",
+    "单IP收入、系列销量、成本毛利、复购与2026热度未知；小红书按用户要求跳过。",
+    "红宝石款附图平面v1接近，但透明反射转译为色块、U眼变粗实心；纯文字/中文未测，未继续3D或毛绒生成。"
+  ],
+  "id": "pino-jelly",
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-28",
+  "updated": "2026-10-28",
+  "sources": [
+    {
+      "id": "COL",
+      "title": "PINO JELLY官方设定及美国商品集合",
+      "url": "https://www.popmart.com/us/collection/pino-jelly",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "当前正文西班牙语，描述糖果世界擅歌舞的时尚明星；五项美国标价非销量。"
+    },
+    {
+      "id": "BIO",
+      "title": "官方Yumi艺术家简介",
+      "url": "https://www.popmart.com/gr",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "partial",
+      "type": "self_report",
+      "boundary": "已读Yumi段落：动画学习、喜爱卡通与糖果；不作为完整传记或原始授权合同。"
+    },
+    {
+      "id": "INT1",
+      "title": "Yumi直接访谈：软糖、雀斑与陪伴",
+      "url": "https://www.harpersbazaar.com.sg/lifestyle/pop-mart-artists-interview",
+      "publisher": "Harper’s Bazaar Singapore／直接访谈",
+      "published": "2025-10-07",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "作者谈创作与希望；文章注明与Marina Bay Sands合作，不当用户调查或独立销量证据。"
+    },
+    {
+      "id": "INT2",
+      "title": "Yumi中文直接访谈",
+      "url": "https://www.nuyou.com.sg/lifestyle/pop-mart-artists-share-design-stories-behind-zsiga-sweet-bean-pino-jelly",
+      "publisher": "NUYOU／直接访谈",
+      "published": "2025-10-08",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "作者阳光/单纯、晶透与旅行陪伴自述；同一SPH/Marina Bay Sands活动背景，不伪装两次独立用户验证。"
+    },
+    {
+      "id": "SKU01",
+      "title": "Sweet Like Me 手办官方规格",
+      "url": "https://www.popmart.com/us/products/3018/pino-jelly-sweet-like-me-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "美国站记录；不将二手2024目录当本页日期或全球首发。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU02",
+      "title": "Hard & Shiny 手办官方规格",
+      "url": "https://www.popmart.com/us/products/1772/pino-jelly-hard-&-shiny-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "宝石外观非真实宝石；电子元件用途未逐款核实。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU03",
+      "title": "Star Project 手办官方规格",
+      "url": "https://www.popmart.com/us/products/1493/pino-jelly-star-project-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "偶像设定/装束不证明真实音乐发行或明星带货。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU04",
+      "title": "Former Friend 单体官方规格",
+      "url": "https://www.popmart.com/us/products/992/pino-jelly-former-friend-figurine",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "含棉不等同整件毛绒；附属推车与角色部件按图记录，未做拆件。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU05",
+      "title": "Smoothies Party 单体官方规格",
+      "url": "https://www.popmart.com/us/products/247/pino-jelly-smoothies-party-figurine",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "饮品场景不代表真实食物材料；不是已确认首品。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    }
+  ],
+  "archive": "research/pino-jelly/2026-10-28/index.html",
+  "webpage": "research/pino-jelly/2026-10-28/index.html",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/pino-jelly/2026-10-28/",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/pino-jelly/2026-10-28/"
+}

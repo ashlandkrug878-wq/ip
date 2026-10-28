@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "key": "product-1",
+      "name": "Sweet Like Me 手办",
+      "price": 19.99,
+      "launch_date": "2025-07-10",
+      "size": "7–9cm",
+      "materials": "PVC／ABS／五金",
+      "boundary": "美国站记录；不将二手2024目录当本页日期或全球首发。",
+      "product_id": "product-1",
+      "source_id": "SKU01",
+      "price_source_id": "COL",
+      "market": "US",
+      "currency": "USD",
+      "price_basis": "2026-10-28美国官网单件/单抽标价"
+    },
+    {
+      "key": "product-2",
+      "name": "Hard & Shiny 手办",
+      "price": 19.99,
+      "launch_date": "2025-01-03",
+      "size": "7–9cm",
+      "materials": "PVC／ABS／五金／电子元件／PET",
+      "boundary": "宝石外观非真实宝石；电子元件用途未逐款核实。",
+      "product_id": "product-2",
+      "source_id": "SKU02",
+      "price_source_id": "COL",
+      "market": "US",
+      "currency": "USD",
+      "price_basis": "2026-10-28美国官网单件/单抽标价"
+    },
+    {
+      "key": "product-3",
+      "name": "Star Project 手办",
+      "price": 16.99,
+      "launch_date": "2024-09-06",
+      "size": "4.9–9.3cm",
+      "materials": "PVC／ABS",
+      "boundary": "偶像设定/装束不证明真实音乐发行或明星带货。",
+      "product_id": "product-3",
+      "source_id": "SKU03",
+      "price_source_id": "COL",
+      "market": "US",
+      "currency": "USD",
+      "price_basis": "2026-10-28美国官网单件/单抽标价"
+    },
+    {
+      "key": "product-4",
+      "name": "Former Friend 单体",
+      "price": 99.99,
+      "launch_date": "2024-03-08",
+      "size": "5.12英寸",
+      "materials": "棉／金属／PVC／ABS",
+      "boundary": "含棉不等同整件毛绒；附属推车与角色部件按图记录，未做拆件。",
+      "product_id": "product-4",
+      "source_id": "SKU04",
+      "price_source_id": "COL",
+      "market": "US",
+      "currency": "USD",
+      "price_basis": "2026-10-28美国官网单件/单抽标价"
+    },
+    {
+      "key": "product-5",
+      "name": "Smoothies Party 单体",
+      "price": 84.99,
+      "launch_date": "2023-06-02",
+      "size": "5.6英寸",
+      "materials": "ABS／PVC",
+      "boundary": "饮品场景不代表真实食物材料；不是已确认首品。",
+      "product_id": "product-5",
+      "source_id": "SKU05",
+      "price_source_id": "COL",
+      "market": "US",
+      "currency": "USD",
+      "price_basis": "2026-10-28美国官网单件/单抽标价"
+    }
+  ],
+  "cutoff_date": "2026-10-28",
+  "scope": "代表SKU，不是全量图鉴"
+}
