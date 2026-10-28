@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "evidence_count": 22,
+  "evidence_count": 23,
   "evidence": [
     {
       "id": "2026w42-5",
@@ -12,6 +12,17 @@
       "expression": "别问静静是谁，今天我不在线",
       "mark": "两片合拢软壳、低位闭眼与露出的鞋头；不靠头顶灯泡和卧室布景。",
       "source": "data/reviews/2026w42-5.json"
+    },
+    {
+      "id": "daily-20261024-08",
+      "batch": "daily-20261024",
+      "name": "拼壳鲎",
+      "quote": "普通 淘汰。",
+      "updated_at": "2026-10-28T13:07:04.679Z",
+      "origin": "破裂、修补、再使用",
+      "expression": "补丁不是遮丑，是我活过的接口",
+      "mark": "缝合修补甲片",
+      "source": "data/reviews/daily-20261024-08.json"
     },
     {
       "id": "daily-20261025-03",
