@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "key": "product-1",
+      "name": "× INSTINCTOY Snuggle with Bowy Fluffy 单体",
+      "price": 29.99,
+      "launch_date": "2025-09-18",
+      "size": "8.8cm",
+      "materials": "主要PVC",
+      "boundary": "Fluffy为品名，不据此写成聚酯毛绒；主要材料不等于完整BOM。",
+      "product_id": "product-1",
+      "source_id": "SKU01",
+      "price_source_id": "COL",
+      "market": "US",
+      "currency": "USD",
+      "price_basis": "2026-10-28美国官网单件/单抽标价"
+    },
+    {
+      "key": "product-2",
+      "name": "A Dream About Stars 手办",
+      "price": 16.99,
+      "launch_date": "2024-07-26",
+      "size": "6.7–10.6cm",
+      "materials": "ABS／PVC",
+      "boundary": "美国整盒12盒不重复，隐藏概率未核；日本先行发售与美站日期分开。",
+      "product_id": "product-2",
+      "source_id": "SKU02",
+      "price_source_id": "COL",
+      "market": "US",
+      "currency": "USD",
+      "price_basis": "2026-10-28美国官网单件/单抽标价"
+    },
+    {
+      "key": "product-3",
+      "name": "Sunny Beach 单体",
+      "price": 29.99,
+      "launch_date": "2024-06-07",
+      "size": "3.26英寸",
+      "materials": "PVC／ABS",
+      "boundary": "海滩服饰与角色设定23cm身高无关；原图布景不是规格。",
+      "product_id": "product-3",
+      "source_id": "SKU03",
+      "price_source_id": "COL",
+      "market": "US",
+      "currency": "USD",
+      "price_basis": "2026-10-28美国官网单件/单抽标价"
+    }
+  ],
+  "cutoff_date": "2026-10-28",
+  "scope": "代表SKU，不是全量图鉴"
+}

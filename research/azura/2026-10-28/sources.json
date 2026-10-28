@@ -1,0 +1,101 @@
+[
+  {
+    "id": "COL",
+    "title": "官方AZURA设定与美国商品集合",
+    "url": "https://www.popmart.com/us/collection/azura",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "直接读取官方HTML，支持PDC Two Cloud、柔软/脆弱表达及三个美国SKU价格；网页检索打开失败不影响本轮实际HTML读取。"
+  },
+  {
+    "id": "INT1",
+    "title": "TWO CLOUDS直接采访：主题与反复打样",
+    "url": "https://hobby.watch.impress.co.jp/docs/interview/1616437.html",
+    "publisher": "HOBBY Watch／作者直接采访",
+    "published": "2024-08-17",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "作者谈左眼泪、星空梦、风的结构和设计到量产的多次调整；日本售价为采访当时，商品图注整盒文字疑点不用于概率结论。"
+  },
+  {
+    "id": "INT2",
+    "title": "TWO CLOUDS直接采访：情绪与用户接收差异",
+    "url": "https://animeanime.jp/article/2024/08/30/86273.html",
+    "publisher": "アニメ！アニメ！／作者直接采访",
+    "published": "2024-08-30",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "PDC、作者动机、用户携带回忆与表达/接收可能不同；同2024日本活动背景，非随机用户调查。"
+  },
+  {
+    "id": "PRESS",
+    "title": "日本公司发布2024快闪与角色设定",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000062707.html",
+    "publisher": "POP MART JAPAN／PR TIMES",
+    "published": "2024-07-10",
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "7/19–8/4活动与7/27签名预告、7/6生日及23cm虚构身高；不当现实全部商品尺寸或未经披露销量。"
+  },
+  {
+    "id": "PARCO",
+    "title": "PARCO ART WEEK 2023：AZURA Y2K",
+    "url": "https://shibuya.parco.jp/feature/detail/?id=6700&p=6",
+    "publisher": "渋谷PARCO／活动方",
+    "published": "2023-09-07",
+    "observed": "2026-10-28",
+    "access": "partial",
+    "type": "fact",
+    "boundary": "已读AZURA活动及作者段落，支持2023日本限定Y2K记录；不是角色最早首发。"
+  },
+  {
+    "id": "MAIN",
+    "title": "当前官方AZURA主图所在首页",
+    "url": "https://www.popmart.com/en-GB",
+    "publisher": "POP MART",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "partial",
+    "type": "self_report",
+    "boundary": "已下载并看1760×2480原图，作为V01；原图创作日/对应具体SKU未知，不补作最早原稿或材料证据。"
+  },
+  {
+    "id": "SKU01",
+    "title": "× INSTINCTOY Snuggle with Bowy Fluffy 单体官方规格",
+    "url": "https://www.popmart.com/us/products/3681/azura-×-instinctoy-snuggle-with-bowy-fluffy-figure",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "Fluffy为品名，不据此写成聚酯毛绒；主要材料不等于完整BOM。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU02",
+    "title": "A Dream About Stars 手办官方规格",
+    "url": "https://www.popmart.com/us/products/1391/azura-a-dream-about-stars-series-figures",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "美国整盒12盒不重复，隐藏概率未核；日本先行发售与美站日期分开。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  },
+  {
+    "id": "SKU03",
+    "title": "Sunny Beach 单体官方规格",
+    "url": "https://www.popmart.com/us/products/1190/azura-sunny-beach-figure",
+    "publisher": "POP MART美国站",
+    "published": null,
+    "observed": "2026-10-28",
+    "access": "full",
+    "type": "self_report",
+    "boundary": "海滩服饰与角色设定23cm身高无关；原图布景不是规格。 发售记录为该地区页面日期；当日标价不是实际销量。"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "image_id": "V01",
+    "title": "当前星环云座主图／V01实测",
+    "original_image_url": "https://prod-server-r2.popmart.com/uploads/aKPgp5qdzlgcjDtBEXR6O7m0f3hsRYNi/Oe8PGmUq1fcw8TLw-1763369342-1723453520192_azura.png",
+    "source_page_url": "https://www.popmart.com/en-GB",
+    "source_id": "MAIN",
+    "dimensions": [
+      1760,
+      2480
+    ],
+    "sha256": "740750b9e0da76731713701e818ad174e9a1476f543b87cbd588be99764eeb36",
+    "observed_features": "蓝紫蓬松发带星点与淡金斜环，双眼云池白高光，画面右眼下有长泪，深灰裙白蓝领，裸脚交叠坐彩云。",
+    "visual_language": "单侧泪与安静脸连接情绪；金环和服装是当前主题。",
+    "material_and_structure": "当前宣传渲染；未将其关联为具体SKU材料（结构内部不由图像推断）"
+  },
+  {
+    "image_id": "V02",
+    "title": "Bowy Fluffy联名拥抱",
+    "original_image_url": "https://prod-america-res.popmart.com/default/20250912_145124_497771____3_azura-instinctoy-snuggle-with-bowy-fluffy-figure_figurine_details_pop-mart-us_____1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/3681/azura-×-instinctoy-snuggle-with-bowy-fluffy-figure",
+    "source_id": "SKU01",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "4ec6c9be084a024912f52ab541c4f2c0a7d7ff6d95e099ca84dde0e76770f31c",
+    "observed_features": "紫蓝头发与黄色蝴蝶结，身体侧倾拥抱蓝色突起外壳角色，画面有半透明发与翼状结构。",
+    "visual_language": "合作方壳体/眼形不全部归给AZURA；蓬松外观不确认真实毛绒。",
+    "material_and_structure": "主要PVC（结构内部不由图像推断）"
+  },
+  {
+    "image_id": "V03",
+    "title": "星梦样本",
+    "original_image_url": "https://prod-america-res.popmart.com/default/20240717_183756_334561____azura-a-dream-about-stars-series-figures-blind-boxes-pop-mart-us-1_____1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/1391/azura-a-dream-about-stars-series-figures",
+    "source_id": "SKU02",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "45f323f05aa9e2ce883c778a05a3edea17d26146ec9cc50bb16dc77cc75e50aa",
+    "observed_features": "蓝紫发、单侧大眼可见，抱膝坐在蓝色水浪/云状弯曲支撑上。",
+    "visual_language": "发梢与弯曲支撑把安静与流动感放在同一结构。",
+    "material_and_structure": "ABS／PVC（结构内部不由图像推断）"
+  },
+  {
+    "image_id": "V04",
+    "title": "晴日海滩样本",
+    "original_image_url": "https://prod-america-res.popmart.com/default/20240531_113400_131395____azura-sunny-beach-figure_designer-figurine_pop-mart-us-_1_____1200x1200.jpg?x-oss-process=image/resize,w_1600/quality,q_90/format,webp",
+    "source_page_url": "https://www.popmart.com/us/products/1190/azura-sunny-beach-figure",
+    "source_id": "SKU03",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "sha256": "f6474575ee4d10406b462764a5626804caf53bba9447a768dac7132828f61a65",
+    "observed_features": "薄荷绿双侧大体块头发、粉色围领、蓝色泳装，怀抱绿色对象，粉色标牌背景。",
+    "visual_language": "发色服装可变，脸部梦幻眼仍共用；背景标牌不作全IP标志。",
+    "material_and_structure": "PVC／ABS（结构内部不由图像推断）"
+  }
+]

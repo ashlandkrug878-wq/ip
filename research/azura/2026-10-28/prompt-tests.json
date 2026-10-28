@@ -1,0 +1,25 @@
+[
+  {
+    "prompt_id": "azura-flat-ref-v1",
+    "subject_id": "azura",
+    "version": 1,
+    "target_scope": "V01官方商品图可见视角平面转译",
+    "carrier": "flat",
+    "exact_prompt": "Use the attached official character rendering as the sole identity, hair, eyes, outfit, proportions, pose and support reference. Translate the exact single seated fairy girl and her cloud-like support into a clean flat 2D full-body illustration on a white square canvas. Preserve the oversized rounded pale lavender-blue bob with broad curved fringe and the softly curling lavender lower side on viewer-left, scattered tiny pastel four-point and six-point stars and dots in the hair, and the thin pale-gold tilted oval planet ring crossing diagonally around the hair. Preserve the broad pale peach face, extremely large asymmetrical-looking cloud-pool eyes with dark lavender rims and tiny outer lashes: viewer-left eye has cyan and pale-yellow rings around white rounded cloud-like highlights, viewer-right eye has pink and pale-yellow rings around white cloud-like highlights. Keep the single pale pink-white tear shape beneath the viewer-right eye extending down into a long gray-clear droplet, tiny subtle nose and small quiet downturned mouth, with no eyebrows visible. Preserve the sleeveless charcoal-gray short dress, large pointed white sailor collar with thin light-blue edging, white wrap band around the visible viewer-right upper arm and another white wrap band around the viewer-left lower leg. Keep the actual three-quarter seated pose, slightly viewer-left tilted head, viewer-right arm hanging beside the hip, short bare legs crossing in front, the raised viewer-right bare foot forward and the lower viewer-left bare foot resting down. Preserve the very large head and tiny torso relationships and the exact foot overlap from the reference. Keep the irregular rounded cloud-like white support under the body, represented by a few pale pink, pale yellow and pale blue flat color patches. Use thin clean dark outlines and simple flat local color regions, replacing translucency and pearly reflections with clear pale color shapes. Remove all dimensional shading, gloss, cast shadows, molded plastic texture and photographic lighting. Do not add smiles, black pupils, extra tears, wings, shoes, scenery, text, logos or watermarks. Reconstruct only this visible view and do not invent the unseen back.",
+    "language": "en",
+    "input_mode": "reference_assisted",
+    "reference_image_ids": [
+      "V01"
+    ],
+    "reference_sha256": "740750b9e0da76731713701e818ad174e9a1476f543b87cbd588be99764eeb36",
+    "generated_image_path": "assets/azura-flat-ref-v1.webp",
+    "original_generated_file": "generated_images/exec-4a29a4d7-4bfc-41a0-b56f-d18149872232.png",
+    "generated_sha256": "d1d221093980c1488f7feda8e9592dc428c6611ac96e91fc02a5870d61e57f62",
+    "observations": "蓝紫大头发与星点、斜金环、云池双色眼、画面右眼泪滴、白蓝领深裙、手臂/腿部白带、裸脚交叠坐云均接近。金环较厚、泪与云座边线简化，透明珠光转为浅色块，仍有微弱色过渡；仅当前可见视角附图平面转译通过。",
+    "revision_reason": "首轮明确绑定已实际看过的本地官方原图",
+    "tested_at": "2026-10-28",
+    "status": "ready",
+    "protocol_validity": "valid",
+    "validation": "逐项目视对照，无数值相似度、多用户盲测或重复稳定性结论"
+  }
+]

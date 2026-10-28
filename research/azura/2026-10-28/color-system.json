@@ -1,0 +1,123 @@
+{
+  "image_dimensions": [
+    1760,
+    2480
+  ],
+  "source_sha256": "740750b9e0da76731713701e818ad174e9a1476f543b87cbd588be99764eeb36",
+  "colors": [
+    {
+      "name": "蓝色发块",
+      "role": "头型",
+      "scope": "仅本轮V01",
+      "hex_preview": "#cad9f2",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          750,
+          500
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "紫色发梢",
+      "role": "变化",
+      "scope": "仅本轮V01",
+      "hex_preview": "#d2c1ea",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          400,
+          1150
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "淡金环亮部",
+      "role": "头饰",
+      "scope": "仅本轮V01",
+      "hex_preview": "#fffbe0",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          620,
+          715
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "紫色眼线",
+      "role": "识别",
+      "scope": "仅本轮V01",
+      "hex_preview": "#504c6f",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          610,
+          870
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "深灰裙",
+      "role": "主体",
+      "scope": "仅本轮V01",
+      "hex_preview": "#6e707f",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          890,
+          1350
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    },
+    {
+      "name": "白领亮部",
+      "role": "对照",
+      "scope": "仅本轮V01",
+      "hex_preview": "#faffff",
+      "value_basis": "screen_sample",
+      "image_ids": [
+        "V01"
+      ],
+      "sample_method": "RGBA后9×9逐通道中位数",
+      "sample_coordinates_or_mask": {
+        "center": [
+          900,
+          1160
+        ],
+        "radius": 4
+      },
+      "uncertainty": "未校色；光照/压缩/显示影响；非生产标准"
+    }
+  ]
+}

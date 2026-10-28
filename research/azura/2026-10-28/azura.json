@@ -1,0 +1,336 @@
+{
+  "name": "AZURA",
+  "aliases": [
+    "Azura",
+    "アズラ"
+  ],
+  "summary": "以单侧泪滴和梦幻眼睛连接接纳脆弱的主题，再用发丝、裙摆、色彩和透明件把气氛落到实物。作者公开解释反复打样流程；情绪愿景、角色设定、商品材料与真实用户效果各自留边界。",
+  "owner": {
+    "creator": "TWO CLOUDS／PDC设计师",
+    "operator": "POP MART 泡泡玛特",
+    "relation": "日本公司官方发布与作者直接采访确认内部PDC创作；原始版权/商标及劳动创作文件未逐份核验。",
+    "since": null,
+    "sources": [
+      "PRESS",
+      "INT1",
+      "INT2"
+    ]
+  },
+  "origin": {
+    "path": [
+      "渠道孵化"
+    ],
+    "year": null,
+    "story": "作者先设希望承接悲伤的主题，再设计温柔妖精；云、猫与柔软感觉是自述灵感。最早原稿、首次公开与首个商品日期未知，7月6日仅角色生日，不当创作日。",
+    "sources": [
+      "INT1",
+      "INT2",
+      "PRESS"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2023-09-07",
+      "event": "PARCO艺术周官方页面介绍AZURA Y2K日本限定系列；非确认最早公开",
+      "type": "fact",
+      "sources": [
+        "PARCO"
+      ]
+    },
+    {
+      "date": "2024-06-07",
+      "event": "Sunny Beach美国商品页记录",
+      "type": "self_report",
+      "sources": [
+        "SKU03"
+      ]
+    },
+    {
+      "date": "2024-07-10",
+      "event": "日本公司公告预告7月19日–8月4日渋谷PARCO快闪及7月27日签名",
+      "type": "self_report",
+      "sources": [
+        "PRESS"
+      ]
+    },
+    {
+      "date": "2024-07-26",
+      "event": "A Dream About Stars美国商品页日期；日本活动有先行销售记录",
+      "type": "self_report",
+      "sources": [
+        "SKU02",
+        "PRESS"
+      ]
+    },
+    {
+      "date": "2024-08-17/30",
+      "event": "两次日本直接采访解释主题、设计与打样",
+      "type": "self_report",
+      "sources": [
+        "INT1",
+        "INT2"
+      ]
+    },
+    {
+      "date": "2025-09-18",
+      "event": "Bowy Fluffy联名商品页记录，主要材料PVC",
+      "type": "self_report",
+      "sources": [
+        "SKU01"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "柔软的那一面，不必一直藏起来。",
+    "sentence_type": "允许",
+    "basis": "inferred",
+    "sources": [
+      "COL",
+      "INT2"
+    ]
+  },
+  "core": {
+    "personality": "温柔、敏感、梦幻",
+    "emotion": "内收",
+    "action": "收集和承接悲伤，以单侧泪滴表达情绪",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "难过却习惯克制、不愿向人解释的时刻",
+    "behavior": "通过一个带泪的形象表达未说出口的情绪",
+    "state": "希望脆弱可以被接受",
+    "conflict": "柔软与力量可以共存，不必用积极表情盖过所有情绪",
+    "unsaid": "我没有一直开心，也可以被温柔对待。",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "梦幻审美、情绪表达与精细材质收藏是候选入口；无人口统计",
+    "where": "官方渠道、PARCO快闪及作者签名；本批不做小红书",
+    "buy": "三个美国商品可确认；日本热门及珍惜携带是公司/作者自述，没有单IP收入",
+    "signs": "角色左眼一滴泪、梦幻发色、星空、风与柔软场景",
+    "share": "作者回忆有人用手帕/专用包保护携带；不是本轮直接用户观察",
+    "breakout": "日本本地快闪、先行商品和作者互动提供触点；新增用户与持续转化未知"
+  },
+  "pendulum": {
+    "position": "软萌治愈",
+    "note": "柔软与承接悲伤，而非必须表现快乐；治疗效果未验证。",
+    "against": "可与强表情哭泣、酷感外放角色作表达对照；不能仅凭情绪主题宣布市场稀缺或消费者普遍需求。"
+  },
+  "form": {
+    "archetype": "怪兽精灵",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "五官",
+      "头型"
+    ],
+    "mark": "单侧泪滴、巨大梦幻眼与蓬松发型；发饰与星环随主题变化",
+    "face": "V01蓝紫大发、云池式白高光眼，画面右侧为角色左眼泪滴，小鼻与轻微下弯嘴；不把此款衣环全部锁成全IP规则",
+    "emotion": "内收",
+    "odd": "大眼发色营造梦幻，单侧泪滴让柔软带着未被抹去的悲伤；研究解释",
+    "density": "中等",
+    "naming": "其他",
+    "group": "单角色"
+  },
+  "collide_combo": "巨大的云池高光眼、角色左眼单滴泪、蓬松梦幻发与幼态脸的具体关系应避免直接搬用；泪滴、星环、粉彩或水手领单独属于公共元素。",
+  "color": {
+    "mode": "马卡龙",
+    "main": "V01浅蓝紫发、淡金环、白蓝领与深灰裙；海滩与联名可转薄荷绿/粉蓝",
+    "signature": "轻色与透明/珠光观感为样本语言，非所有商品同色或真实柔软材料",
+    "notes": "六区屏幕取样仅对应V01当前渲染，含亮部和暗部；没有校色、透光或实物色差测试。"
+  },
+  "materials": "A Dream About Stars与Sunny Beach官方ABS/PVC；Bowy Fluffy主要PVC。透明、珠光及蓬松观感不自动等同树脂、毛绒或具体涂装配方。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "授权图案"
+  },
+  "product": {
+    "first_category": null,
+    "hit_category": null,
+    "hit_product": "A Dream About Stars为2024日本先行销售与作者重点介绍系列；第一商品和销量冠军未核",
+    "price_band": "美国代表单件/单抽16.99或29.99美元；日本采访的1650日元为2024当时单抽记录，不混作当前美售价",
+    "sources": [
+      "COL",
+      "SKU01",
+      "SKU02",
+      "SKU03",
+      "INT1"
+    ]
+  },
+  "numbers": [],
+  "mechanisms": [
+    {
+      "claim": "从情绪主题出发，把单侧泪变成身份锚点",
+      "type": "inference",
+      "evidence": "作者说明先设承接悲伤主题，左眼一滴泪为共同线索；当前主图泪滴清楚。",
+      "boundary": "作者意图不是全体用户体验，没有测试去掉泪滴后识别或购买变化。",
+      "sources": [
+        "INT1",
+        "MAIN"
+      ]
+    },
+    {
+      "claim": "气氛需经过结构、配色和工艺协作才能进入实物",
+      "type": "inference",
+      "evidence": "作者解释风由发、裙、带表现，设计图到CG、打印及量产样反复调整。",
+      "boundary": "是作者报告的流程，不是本轮工厂审计；没有工时、良率、成本或可复制生产参数。",
+      "sources": [
+        "INT1",
+        "INT2"
+      ]
+    },
+    {
+      "claim": "本地先行商品与作者快闪提供线下接触理由",
+      "type": "hypothesis",
+      "evidence": "2023 PARCO系列、2024快闪与先行销售、签名安排可追溯。",
+      "boundary": "活动预告与回顾支持存在，不代表独立销量、ROI或长期复购。",
+      "sources": [
+        "PARCO",
+        "PRESS",
+        "INT1"
+      ]
+    },
+    {
+      "claim": "创作者表达与购买者感受可以不同，需保留反馈空间",
+      "type": "inference",
+      "evidence": "作者直接谈作品想表达的与用户接收的印象可能不同，也关注好坏反馈。",
+      "boundary": "本轮没有拿到原评论和用户访谈，不能替用户选择一个唯一解释。",
+      "sources": [
+        "INT2"
+      ]
+    }
+  ],
+  "counterexamples": "23cm是虚构设定身高，不是全部手办尺寸；Fluffy标题的联名主要材料仍PVC；当前美国目录三项不等于全球只剩三款或销量衰退。没有匹配失败例、退坑数据或独立财务。",
+  "theory": {
+    "shell": "泪滴与梦幻眼脸提供身份，发、裙、飘带和透明件把气氛做成形",
+    "core": "接受柔软与情绪，作者希望承接悲伤；不是已经验证能消除悲伤的效果",
+    "shadow": "眼泪、星空、水手领、粉彩和云是公共语言，具体五官组合与作品经历形成角色身份",
+    "two_layers": {
+      "surface": "浅色、透明感与温柔神情可能吸引第一眼（假设）",
+      "deep": "单侧泪的意义、星空梦与作者制作细节可形成收藏知识；实际用户认知未核"
+    },
+    "validation": "商品存在与活动可追溯；作者回忆保护携带为间接线索，不是单IP付费、复购或粉丝增长统计。"
+  },
+  "for_skills": {
+    "lab": "可借先明确要承接何种情绪，再找具体场景；避免把柔软必然等同疗愈结果。",
+    "form": "可借一个小标记如何连接主题，以及用姿态/飘动构件表现无形的风；重新设计五官，避免单侧泪加云池眼和梦幻大头发组合。",
+    "studio": "参考设计图到CG、打印样和量产样多轮沟通的过程；透明件与涂装需实物比较，不能从一张生成图推可制造性或成本。"
+  },
+  "gaps": [
+    "首次创作、公开、首个SKU及常见2020年份未由同期原始档案核实；生日7月6日不是创作年。",
+    "PDC与作者署名已核；原始版权/商标及劳动创作文件未逐份取得。",
+    "没有单IP收入、销量、毛利、库存、专属团队或2026增长，三项当前美国SKU不是全量图鉴。",
+    "作者谈日本用户保护携带为回忆性间接证据；本批跳过小红书，无直接购买/复购/退坑采样。",
+    "2024采访中的拟做日用品是当时愿望，本轮未擅自写成全部已实现。",
+    "附图平面v1接近当前主图；星环较厚、泪/云边线简化，透明珠光转成浅色块；纯文字与中文未测，未继续3D或毛绒生成。"
+  ],
+  "id": "azura",
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-28",
+  "updated": "2026-10-28",
+  "sources": [
+    {
+      "id": "COL",
+      "title": "官方AZURA设定与美国商品集合",
+      "url": "https://www.popmart.com/us/collection/azura",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "直接读取官方HTML，支持PDC Two Cloud、柔软/脆弱表达及三个美国SKU价格；网页检索打开失败不影响本轮实际HTML读取。"
+    },
+    {
+      "id": "INT1",
+      "title": "TWO CLOUDS直接采访：主题与反复打样",
+      "url": "https://hobby.watch.impress.co.jp/docs/interview/1616437.html",
+      "publisher": "HOBBY Watch／作者直接采访",
+      "published": "2024-08-17",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "作者谈左眼泪、星空梦、风的结构和设计到量产的多次调整；日本售价为采访当时，商品图注整盒文字疑点不用于概率结论。"
+    },
+    {
+      "id": "INT2",
+      "title": "TWO CLOUDS直接采访：情绪与用户接收差异",
+      "url": "https://animeanime.jp/article/2024/08/30/86273.html",
+      "publisher": "アニメ！アニメ！／作者直接采访",
+      "published": "2024-08-30",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "PDC、作者动机、用户携带回忆与表达/接收可能不同；同2024日本活动背景，非随机用户调查。"
+    },
+    {
+      "id": "PRESS",
+      "title": "日本公司发布2024快闪与角色设定",
+      "url": "https://prtimes.jp/main/html/rd/p/000000012.000062707.html",
+      "publisher": "POP MART JAPAN／PR TIMES",
+      "published": "2024-07-10",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "7/19–8/4活动与7/27签名预告、7/6生日及23cm虚构身高；不当现实全部商品尺寸或未经披露销量。"
+    },
+    {
+      "id": "PARCO",
+      "title": "PARCO ART WEEK 2023：AZURA Y2K",
+      "url": "https://shibuya.parco.jp/feature/detail/?id=6700&p=6",
+      "publisher": "渋谷PARCO／活动方",
+      "published": "2023-09-07",
+      "observed": "2026-10-28",
+      "access": "partial",
+      "type": "fact",
+      "boundary": "已读AZURA活动及作者段落，支持2023日本限定Y2K记录；不是角色最早首发。"
+    },
+    {
+      "id": "MAIN",
+      "title": "当前官方AZURA主图所在首页",
+      "url": "https://www.popmart.com/en-GB",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "partial",
+      "type": "self_report",
+      "boundary": "已下载并看1760×2480原图，作为V01；原图创作日/对应具体SKU未知，不补作最早原稿或材料证据。"
+    },
+    {
+      "id": "SKU01",
+      "title": "× INSTINCTOY Snuggle with Bowy Fluffy 单体官方规格",
+      "url": "https://www.popmart.com/us/products/3681/azura-×-instinctoy-snuggle-with-bowy-fluffy-figure",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "Fluffy为品名，不据此写成聚酯毛绒；主要材料不等于完整BOM。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU02",
+      "title": "A Dream About Stars 手办官方规格",
+      "url": "https://www.popmart.com/us/products/1391/azura-a-dream-about-stars-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "美国整盒12盒不重复，隐藏概率未核；日本先行发售与美站日期分开。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    },
+    {
+      "id": "SKU03",
+      "title": "Sunny Beach 单体官方规格",
+      "url": "https://www.popmart.com/us/products/1190/azura-sunny-beach-figure",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "海滩服饰与角色设定23cm身高无关；原图布景不是规格。 发售记录为该地区页面日期；当日标价不是实际销量。"
+    }
+  ],
+  "archive": "research/azura/2026-10-28/index.html",
+  "webpage": "research/azura/2026-10-28/index.html",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/azura/2026-10-28/",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/azura/2026-10-28/"
+}
