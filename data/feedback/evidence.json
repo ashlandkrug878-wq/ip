@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "evidence_count": 8,
+  "evidence_count": 10,
   "evidence": [
     {
       "id": "2026w42-5",
@@ -34,6 +34,28 @@
       "expression": "抓不稳，也先找下一个点",
       "mark": "斜置橙色岩点额板",
       "source": "data/reviews/daily-20261027-03.json"
+    },
+    {
+      "id": "daily-20261027-04",
+      "batch": "daily-20261027",
+      "name": "暖涡獭",
+      "quote": "普通 淘汰",
+      "updated_at": "2026-10-28T12:56:05.789Z",
+      "origin": "温泉度假升温",
+      "expression": "今天先把自己泡回温",
+      "mark": "青绿蒸汽涡冠",
+      "source": "data/reviews/daily-20261027-04.json"
+    },
+    {
+      "id": "daily-20261027-05",
+      "batch": "daily-20261027",
+      "name": "栗开兽",
+      "quote": "普通 淘汰",
+      "updated_at": "2026-10-28T12:56:04.697Z",
+      "origin": "板栗采摘热度",
+      "expression": "不是裂开，是我自己打开",
+      "mark": "三瓣栗壳机械花",
+      "source": "data/reviews/daily-20261027-05.json"
     },
     {
       "id": "daily-20261028-01",
