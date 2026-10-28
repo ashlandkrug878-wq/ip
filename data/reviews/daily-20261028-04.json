@@ -1,0 +1,21 @@
+{
+  "status": "淘汰",
+  "ip": "daily-20261028-04",
+  "batch": "daily-20261028",
+  "updatedAt": "2026-10-28T12:52:44.834Z",
+  "history": [
+    {
+      "status": "",
+      "note": "",
+      "at": null
+    },
+    {
+      "status": "淘汰",
+      "note": "",
+      "at": "2026-10-28T12:52:44.834Z"
+    }
+  ],
+  "archived": true,
+  "retiredAt": "2026-10-28T12:52:44.834Z",
+  "note": ""
+}
