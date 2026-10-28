@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "evidence_count": 37,
+  "evidence_count": 44,
   "evidence": [
     {
       "id": "2026w42-5",
@@ -12,6 +12,83 @@
       "expression": "别问静静是谁，今天我不在线",
       "mark": "两片合拢软壳、低位闭眼与露出的鞋头；不靠头顶灯泡和卧室布景。",
       "source": "data/reviews/2026w42-5.json"
+    },
+    {
+      "id": "daily-20261020-02",
+      "batch": "daily-20261020",
+      "name": "慢巷",
+      "quote": "普通",
+      "updated_at": "2026-10-28T13:15:18.244Z",
+      "origin": "古村慢停留",
+      "expression": "没赶上，也能遇见",
+      "mark": "阶梯发束",
+      "source": "data/reviews/daily-20261020-02.json"
+    },
+    {
+      "id": "daily-20261020-03",
+      "batch": "daily-20261020",
+      "name": "续续",
+      "quote": "普通",
+      "updated_at": "2026-10-28T13:15:16.732Z",
+      "origin": "可维修与模块化",
+      "expression": "我可以修好，再出发",
+      "mark": "U形提手头＋单方瞳",
+      "source": "data/reviews/daily-20261020-03.json"
+    },
+    {
+      "id": "daily-20261020-04",
+      "batch": "daily-20261020",
+      "name": "候候",
+      "quote": "普通",
+      "updated_at": "2026-10-28T13:15:11.852Z",
+      "origin": "秋季候鸟与观鸟",
+      "expression": "晚到，也有位置",
+      "mark": "后折逗号冠羽",
+      "source": "data/reviews/daily-20261020-04.json"
+    },
+    {
+      "id": "daily-20261020-05",
+      "batch": "daily-20261020",
+      "name": "出圈",
+      "quote": "普通",
+      "updated_at": "2026-10-28T13:15:12.761Z",
+      "origin": "场地骑行的弯道",
+      "expression": "不在第一，也在前进",
+      "mark": "C形开放头盔",
+      "source": "data/reviews/daily-20261020-05.json"
+    },
+    {
+      "id": "daily-20261020-07",
+      "batch": "daily-20261020",
+      "name": "留坯",
+      "quote": "不好看 没特点。",
+      "updated_at": "2026-10-28T13:15:07.403Z",
+      "origin": "乌金陶手作",
+      "expression": "没烧成标准答案，也算作品",
+      "mark": "单个浅拇指窝",
+      "source": "data/reviews/daily-20261020-07.json"
+    },
+    {
+      "id": "daily-20261020-08",
+      "batch": "daily-20261020",
+      "name": "借光",
+      "quote": "不好看",
+      "updated_at": "2026-10-28T13:15:06.472Z",
+      "origin": "螺钿异色反光",
+      "expression": "不是最亮，也能反光",
+      "mark": "连拱双眼柄",
+      "source": "data/reviews/daily-20261020-08.json"
+    },
+    {
+      "id": "daily-20261020-09",
+      "batch": "daily-20261020",
+      "name": "叶慢",
+      "quote": "普通",
+      "updated_at": "2026-10-28T13:15:05.363Z",
+      "origin": "赏秋与拾叶",
+      "expression": "今天只捡喜欢的",
+      "mark": "单侧折叶耳",
+      "source": "data/reviews/daily-20261020-09.json"
     },
     {
       "id": "daily-20261021-05",
