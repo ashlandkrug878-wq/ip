@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "evidence_count": 16,
+  "evidence_count": 17,
   "evidence": [
     {
       "id": "2026w42-5",
@@ -56,6 +56,17 @@
       "expression": "我不负责耀眼，只负责把你照到",
       "mark": "发光环鬃",
       "source": "data/reviews/daily-20261026-06.json"
+    },
+    {
+      "id": "daily-20261026-07",
+      "batch": "daily-20261026",
+      "name": "算椅",
+      "quote": "不好看 很奇怪",
+      "updated_at": "2026-10-28T13:00:12.451Z",
+      "origin": "数字生成金属家具",
+      "expression": "算出来的形，也能坐进生活",
+      "mark": "连续弯曲椅背头",
+      "source": "data/reviews/daily-20261026-07.json"
     },
     {
       "id": "daily-20261027-02",
