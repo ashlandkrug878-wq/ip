@@ -1,0 +1,529 @@
+{
+  "id": "molly",
+  "name": "MOLLY 茉莉",
+  "aliases": [
+    "Molly",
+    "モリー",
+    "Baby Molly",
+    "SPACE MOLLY",
+    "ROYAL MOLLY",
+    "ANGRY MOLLY"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-28",
+  "updated": "2026-10-28",
+  "summary": "保留方圆脸、大圆眼与嘟嘴的识别关系，以Classic、Baby、Space、Royal、Angry分支组织题材与载体；周年怀旧可激活老粉，却不保证当期增长。9组官方视觉、9项商品、4篇小红书及5次真实生成记录，含3次作废测试。",
+  "owner": {
+    "creator": "Kenny Wong 王信明／Kennyswork",
+    "operator": "POP MART 泡泡玛特",
+    "relation": "官方确认2016起合作；公开资料不足以确定原始版权、商标及衍生权在各主体间完整分配。",
+    "since": "2016",
+    "sources": [
+      "M01",
+      "M03"
+    ]
+  },
+  "origin": {
+    "path": [
+      "艺术家潮玩"
+    ],
+    "year": 2006,
+    "story": "作者在香港筹款绘画活动遇到同名小女孩后创作；2006为角色诞生，2016为平台合作，不合并成同一年。最早量产SKU未知。",
+    "sources": [
+      "M01",
+      "M03"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2006",
+      "event": "Kenny Wong创作MOLLY；灵感来自筹款活动中的作画女孩",
+      "type": "self_report",
+      "sources": [
+        "M01",
+        "M03"
+      ]
+    },
+    {
+      "date": "2016",
+      "event": "开始与POP MART合作；星座盲盒为首个主要合作系列的回顾记录",
+      "type": "self_report",
+      "sources": [
+        "M01",
+        "M03"
+      ]
+    },
+    {
+      "date": "2024",
+      "event": "公司经营说明已列Classic、Space、Royal、Baby四分支",
+      "type": "self_report",
+      "sources": [
+        "M04"
+      ]
+    },
+    {
+      "date": "2025",
+      "event": "年报同时列入Angry分支并区分不同定位",
+      "type": "self_report",
+      "sources": [
+        "M05"
+      ]
+    },
+    {
+      "date": "2026",
+      "event": "二十周年巡展、回顾系列与生活用品合作；具体活动各有日期",
+      "type": "fact",
+      "sources": [
+        "M06",
+        "M08",
+        "M13",
+        "M14"
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "event": "最新集团第三季度业务更新，未提供MOLLY季度分项",
+      "type": "fact",
+      "sources": [
+        "M07"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "保留一点倔强，继续用自己的眼光看世界。",
+    "sentence_type": "允许",
+    "basis": "inferred",
+    "sources": [
+      "M01",
+      "M03"
+    ]
+  },
+  "core": {
+    "personality": "好奇、倔强、自信",
+    "emotion": "反差",
+    "action": "带着自己的主意观察、作画与探索",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "成年人日常需要在功能与责任之外保留个人审美空间",
+    "behavior": "选择角色、款式与陈列，收藏者可能换款或回看老系列",
+    "state": "想被接纳，也不愿失去一点自我",
+    "conflict": "系列更新的新鲜感与熟悉角色的稳定感并存",
+    "unsaid": "我可以喜欢可爱的东西，也保留自己的脾气。",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "现有证据见艺术玩具收藏者、老款收藏者、毛绒挂件及联名购买入口；无人口占比",
+    "where": "POP MART官方门店/网站与小红书收藏讨论",
+    "buy": "可验证的是分IP收入与商品存在；个人购买/开箱仅自述",
+    "signs": "Classic、Baby、Space、Royal、Angry、古早娃、100%/400%为圈层检索线索",
+    "share": "图鉴、陈列、开箱、换款意向与回顾",
+    "breakout": "挂件、可动人偶与生活用品可增加入口，具体破圈贡献待验证"
+  },
+  "pendulum": {
+    "position": "其他",
+    "note": "自信倔强的可爱，与完全顺从甜美有距离；不能从今天反推2006市场主流。",
+    "against": "对不带态度的可爱形成局部区别，属于研究归纳，未做同期竞品总量调查。"
+  },
+  "form": {
+    "archetype": "人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "五官",
+      "头型"
+    ],
+    "mark": "方圆脸、大圆眼与独特嘟嘴，短发/分支外壳共同组织识别；帽不是全IP恒定要求",
+    "face": "V01蓝绿大圆虹膜无独立黑瞳、弧形上眼线与双睫、小鼻、尖峰粉红唇、画面右眼下痣；其他分支单列",
+    "emotion": "反差",
+    "odd": "幼态大头与有态度的嘴，温柔姿态与倔强面部并存；为研究解释",
+    "density": "中等",
+    "naming": "人名",
+    "group": "单角色"
+  },
+  "collide_combo": "大头方圆脸＋短外翘发＋巨大湖蓝/蓝绿圆眼＋专属嘟嘴及其空间关系属于高风险近似组合；帽、黄发或大眼等公共元素不能单独决定撞车。",
+  "color": {
+    "mode": "多色系列",
+    "main": "随分支/系列变化，V01为黄发、薄荷绿帽、白衣红裙",
+    "signature": "湖蓝/蓝绿眼色关系为跨样本候选锚点，非统一官方HEX",
+    "notes": "V01八色真实取样仅作屏幕记录；V08蓝绿头发反证黄发绝对固定论。"
+  },
+  "materials": "普通手办PVC/ABS；可动人偶混合纺织/塑料/金属；Baby挂件PVC和聚酯，Angry挂件聚酯；按SKU区分。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "授权图案"
+  },
+  "product": {
+    "first_category": null,
+    "hit_category": null,
+    "hit_product": "经典盲盒、MEGA与Baby等有官方产品证据；分支销量排行未知",
+    "price_band": "代表美国站单件/单抽USD19.99、27.99、69.99；香港功能商品HKD158，分币种分规格",
+    "sources": [
+      "M02",
+      "M08",
+      "M09",
+      "M10",
+      "M11",
+      "M12",
+      "M14",
+      "M15"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "MOLLY归类产品收入",
+      "value": 1020.305,
+      "unit": "百万元人民币",
+      "period": "2023全年",
+      "region": "集团全球口径",
+      "subject": "POP MART按IP分类的MOLLY收入",
+      "type": "fact",
+      "sources": [
+        "M04"
+      ],
+      "share_of_group_percent": 16.2
+    },
+    {
+      "metric": "MOLLY归类产品收入",
+      "value": 2093.172,
+      "unit": "百万元人民币",
+      "period": "2024全年",
+      "region": "集团全球口径",
+      "subject": "POP MART按IP分类的MOLLY收入",
+      "type": "fact",
+      "sources": [
+        "M04"
+      ],
+      "share_of_group_percent": 16.1
+    },
+    {
+      "metric": "MOLLY归类产品收入",
+      "value": 2897.084,
+      "unit": "百万元人民币",
+      "period": "2025全年",
+      "region": "集团全球口径",
+      "subject": "POP MART按IP分类的MOLLY收入",
+      "type": "fact",
+      "sources": [
+        "M05"
+      ],
+      "share_of_group_percent": 7.8
+    },
+    {
+      "metric": "MOLLY归类产品收入",
+      "value": 1357.248,
+      "unit": "百万元人民币",
+      "period": "2025上半年",
+      "region": "集团全球口径",
+      "subject": "POP MART按IP分类的MOLLY收入",
+      "type": "fact",
+      "sources": [
+        "M06"
+      ],
+      "share_of_group_percent": 9.8
+    },
+    {
+      "metric": "MOLLY归类产品收入",
+      "value": 900.631,
+      "unit": "百万元人民币",
+      "period": "2026上半年",
+      "region": "集团全球口径",
+      "subject": "POP MART按IP分类的MOLLY收入",
+      "type": "fact",
+      "sources": [
+        "M06"
+      ],
+      "share_of_group_percent": 5.3
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "可辨识的脸部组合承载主题变化，而不是每次重建一个人物",
+      "type": "inference",
+      "evidence": "V01、V02、V05保持方圆脸、圆眼和嘟嘴；V08改变发色，V09太空服改变外壳。",
+      "boundary": "仅为视觉样本比较，未做匿名识别实验；Angry/Baby也会改变眼形与比例，不能宣称脸部永远一模一样。",
+      "sources": [
+        "M01",
+        "M02",
+        "M08",
+        "M09",
+        "M10",
+        "M11"
+      ]
+    },
+    {
+      "claim": "用分支和载体分层连接不同使用情境，拓展同一IP的消费入口",
+      "type": "inference",
+      "evidence": "公司2025年报分别说明Classic、Baby、Royal、Space、Angry；实物样本涵盖小手办、挂件、可动人偶与收藏尺寸。",
+      "boundary": "公司没有披露各分支收入/毛利/用户重合率，不能证明分支增长全部来自新增人群；可能也由渠道、供给与联名驱动。",
+      "sources": [
+        "M05",
+        "M02",
+        "M08",
+        "M10",
+        "M11"
+      ]
+    },
+    {
+      "claim": "周年回顾把老款记忆变成重新接触的理由，但不能保证持续增长",
+      "type": "inference",
+      "evidence": "2026回顾款和巡展存在；X03一位六年老粉自述失望后回归，X02有老款怀念。",
+      "boundary": "单人回归不是全体复购；同期2026H1 MOLLY收入下降，不能把周年曝光等同营业增长。",
+      "sources": [
+        "M06",
+        "M08",
+        "X02",
+        "X03"
+      ]
+    },
+    {
+      "claim": "从陈列到生活用品的合作，增加接触频次的机会",
+      "type": "hypothesis",
+      "evidence": "Starbucks在杯、伞、包等日常载体出现三种主题图案；MTR八达通把形象嵌入支付用途。",
+      "boundary": "只有合作/产品存在的证据，没有真实使用频次、购买增量或获客成本，暂不写成已验证增长机制。",
+      "sources": [
+        "M13",
+        "M14"
+      ]
+    }
+  ],
+  "counterexamples": "2026H1收入同比约-33.64%；老粉回归与退坑挂牌同时存在；初期产品/同期弱势角色的匹配对照未找到，不能只归功于脸部设计。",
+  "theory": {
+    "shell": "高辨识的脸与可变外壳/服装共同成立；SPACE/ROYAL各有分支轮廓",
+    "core": "不强加长篇背景故事，性格由作者情绪、视觉和与用户的互动渐渐显现（作者自述）",
+    "shadow": "大眼、嘟嘴、短发、皇冠与太空服均可见公共元素；识别组合及长期经营形成具体身份，不能凭公共元素判断抄袭",
+    "two_layers": {
+      "surface": "脸部态度、配色和题材可能形成第一眼入口（假设）",
+      "deep": "收藏年限、老系列记忆、版本与换款关系；X03为局部回归线索"
+    },
+    "validation": "按IP产品收入强于点赞，但不能分离具体设计贡献；个人开箱/购买自述、换款意向与退坑挂牌分列，均无交易验证。"
+  },
+  "for_skills": {
+    "lab": "借鉴“有脾气的可爱”与允许保留自我的表达关系；先验证真实场景，不把年龄性别和疗愈需求写成已知。",
+    "form": "借鉴稳定识别关系与分支外壳的分工；重新设计原型、轮廓、五官及动作，不搬用MOLLY的脸部组合；跨系列不能只锁黄发/贝雷帽。",
+    "studio": "把日常携带、桌面陈列、可动装扮与收藏级展示分开；参考SKU规格而非集团毛利，预算/材料和复购必须另做验证。"
+  },
+  "gaps": [
+    "原始版权/商标转让、各地区与期限合同未读到，不把2016合作说成全部权利收购。",
+    "2006最早实物SKU、首售日期和完整早期官方产品档案未取得；2016.07星座月份仅有二手图鉴线索。",
+    "MOLLY各分支销量、成本、利润、用户年龄/性别比例、复购率、独立粉丝总量未知。",
+    "4篇小红书为目的性样本，图鉴仅看首图，开箱视频未逐帧；挂牌及换款意向没有成交验证。",
+    "截至2026-10-28，三季度集团收入下降45%–50%的公告没有MOLLY分项，不能把该幅度归给本IP。",
+    "平面实测：绑定V01官方图的英文ref-v2接近目标；英文纯文字v3在嘴形、姿态与眼睫上仍偏离。中文译文未实测，3D/毛绒生成与原创六条词未进入正式区。",
+    "前3次测试目标或引用错误已作废，完整保留审计记录；无数值相似度、多人盲测或重复稳定性结论。",
+    "V01是官方三维宣传图的可见视角，生成平面图属于研究转译，不是官方二维母版、标准三视图或生产色卡。"
+  ],
+  "sources": [
+    {
+      "id": "M01",
+      "title": "MOLLY／Kenny Wong官方角色介绍",
+      "url": "https://www.popmart.com/it-IT/ip/molly/894a2d70-15ad-4337-a5ce-aa29e1b8f624",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "支持2006创作、2016合作、作者及角色设定；非原始权属合同。配图日期未知。"
+    },
+    {
+      "id": "M02",
+      "title": "美国站MOLLY角色与商品集合",
+      "url": "https://www.popmart.com/us/collection/molly/molly",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "当日页面标价与分支目录，不是销售排名；预告、现货、限量及售罄不能混同。"
+    },
+    {
+      "id": "M03",
+      "title": "Kenny Wong回顾MOLLY二十年：直接采访",
+      "url": "https://www.voguehk.com/en/article/art-lifestyle/kenny-wong-pop-mart-molly-interview/",
+      "publisher": "VOGUE Hong Kong／艺术家访谈",
+      "published": "2026-02-13",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "作者回忆、角色性格与不强加背景故事的创作观点属于自述；报道不代表用户总体感受。"
+    },
+    {
+      "id": "M04",
+      "title": "2024年度业绩公告",
+      "url": "https://prod-out-res.popmart.com/cms/ANNUAL_RESULTS_ANNOUNCEMENT_FOR_THE_YEAR_ENDED_31_DECEMBER_2024_620c37efe4.pdf",
+      "publisher": "POP MART／公告",
+      "published": "2025-03-26",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "fact",
+      "boundary": "PDF印刷页19–21、30。IP收入为公司按IP归类商品收入，非作者净收入、授权费或二手市场。"
+    },
+    {
+      "id": "M05",
+      "title": "2025年报",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100394.pdf",
+      "publisher": "POP MART／港交所",
+      "published": "2026-04-21",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "fact",
+      "boundary": "印刷页12、27；公司对分支经营效果的解释为self_report，收入表为fact。"
+    },
+    {
+      "id": "M06",
+      "title": "2026年中报",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf",
+      "publisher": "POP MART／港交所",
+      "published": "2026-09-24",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "fact",
+      "boundary": "印刷页6、9–10、25，收入表采用半年同口径比较；2026上半年未经审核。"
+    },
+    {
+      "id": "M07",
+      "title": "2026第三季度业务更新",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1027/2026102700268.pdf",
+      "publisher": "POP MART／港交所",
+      "published": "2026-10-27",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "fact",
+      "boundary": "两页公告只披露集团与地区/渠道同比区间，未经审核或审阅；没有MOLLY单IP三季度收入。"
+    },
+    {
+      "id": "M08",
+      "title": "沿途的风景20周年系列手办",
+      "url": "https://www.popmart.com/us/products/6078/molly-scenery-along-the-way-20th-anniversary-series-figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "支持该系列款名、尺寸和材质；常规与隐藏名称不能推导整盒数量或概率。"
+    },
+    {
+      "id": "M09",
+      "title": "20周年系列1/8可动人偶",
+      "url": "https://www.popmart.com/us/products/6076",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "该SKU的20cm与混合材料不能套给普通盲盒。"
+    },
+    {
+      "id": "M10",
+      "title": "Baby Molly Pocket Friends毛绒挂件",
+      "url": "https://www.popmart.com/us/products/3040/baby-molly-pocket-friends-series-vinyl-plush-pendant-blind-box",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "规格页跨地区模板，标价采用M02美国集合页；PVC、聚酯与填充铁丝是该SKU口径，不猜内部部件位置。"
+    },
+    {
+      "id": "M11",
+      "title": "Angry Energy毛绒挂件",
+      "url": "https://www.popmart.com/us/products/5824/Angry%20Molly%20-%20Angry%20Energy%20Series%20Plush%20Pendant",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "页面聚酯材质与12–13cm属于挂件，不套给宣传场景中的大型毛绒。"
+    },
+    {
+      "id": "M12",
+      "title": "The Wheel of Time20周年系列",
+      "url": "https://www.popmart.com/us/products/8138/MOLLY%20The%20Wheel%20of%20Time%2020th%20Anniversary%20Series%20Figures",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "区分角色5–7cm与外壳12.5cm；电子元件不证明具体电路与续航。"
+    },
+    {
+      "id": "M13",
+      "title": "Starbucks × MOLLY二十周年合作",
+      "url": "https://stories.starbucks.com/asia/stories/2026/starbucks-and-pop-mart-celebrate-20-years-of-molly/",
+      "publisher": "Starbucks Stories Asia",
+      "published": "2026-08-03",
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "品牌方说明八个亚太市场、画家/天使/海妖三种设计与日用品；无单项销售、到店转化率或用户占比。"
+    },
+    {
+      "id": "M14",
+      "title": "MOLLY小画家特别版八达通",
+      "url": "https://estore.mtr.com.hk/en/products/pre-order-molly-painter-octopus",
+      "publisher": "港铁e-Store",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "商品正文可读；无需操作页面内登录/换积分模块。HK$158为预订商品价，不含预存储值；不是普通盲盒。"
+    },
+    {
+      "id": "M15",
+      "title": "Victorian Painter 1/8人偶",
+      "url": "https://www.popmart.com/us/products/1193/molly-victorian-painter-1-8-action-figure",
+      "publisher": "POP MART美国站",
+      "published": null,
+      "observed": "2026-10-28",
+      "access": "full",
+      "type": "self_report",
+      "boundary": "20cm混合材料规格来自商品页，$69.99为M09推荐商品列表当日标价；首发日期未核得。"
+    },
+    {
+      "id": "X01",
+      "title": "每天认识一个IP | Molly",
+      "url": "https://www.xiaohongshu.com/explore/69df27210000000021013cb7",
+      "publisher": "小红书／一点好玩",
+      "published": "2026-04-15",
+      "observed": "2026-10-28",
+      "access": "partial",
+      "type": "self_report",
+      "boundary": "正文、可见评论；4图中未逐页通读配图；账号介绍不是官方合同；评论有购买可动人偶的自述，但没有订单验证。"
+    },
+    {
+      "id": "X02",
+      "title": "Molly全系列图鉴",
+      "url": "https://www.xiaohongshu.com/explore/6ad215d90000000012039219",
+      "publisher": "小红书／趣玩星集",
+      "published": "2026-10-16",
+      "observed": "2026-10-28",
+      "access": "partial",
+      "type": "self_report",
+      "boundary": "正文、首图与可见评论；共11图，仅首图实际查看；历史首发月份仅二手图鉴线索；未逐格核完11页，不宣称全系列完整。"
+    },
+    {
+      "id": "X03",
+      "title": "久违了😭连拆五只Molly盲盒都是心头好！！",
+      "url": "https://www.xiaohongshu.com/explore/69d24276000000002301c0bf",
+      "publisher": "小红书／Ashley捏捏",
+      "published": "2026-04-05",
+      "observed": "2026-10-28",
+      "access": "partial",
+      "type": "self_report",
+      "boundary": "正文与可见评论；未逐帧看开箱视频；购买与年限为自述，无订单、复购队列或成交验证；换款意向不等于交换完成。"
+    },
+    {
+      "id": "X04",
+      "title": "Molly大甩卖（退坑出娃",
+      "url": "https://www.xiaohongshu.com/explore/6abbc20c000000001801bb79",
+      "publisher": "小红书／mualous",
+      "published": "2026-09-29",
+      "observed": "2026-10-28",
+      "access": "partial",
+      "type": "self_report",
+      "boundary": "正文与标题；未追踪转售成交；不知道退坑原因、挂牌价格、成交价格及最终成交；不能推导整体热度或市场崩盘。"
+    }
+  ],
+  "archive": "research/molly/2026-10-28/index.html",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/molly/2026-10-28/"
+}

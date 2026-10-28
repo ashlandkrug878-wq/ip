@@ -1,0 +1,20 @@
+{
+  "subject_id": "molly",
+  "study_tier": "standard",
+  "original_translation": "只提供机制启发，未替用户创作新IP",
+  "stages": {
+    "lineart_zh": "未进入可执行正式区，未生成/测试，不能用本IP换装代替原创身份",
+    "lineart_en": "未进入可执行正式区，未生成/测试，不能用本IP换装代替原创身份",
+    "flat_zh": "未进入可执行正式区，未生成/测试，不能用本IP换装代替原创身份",
+    "flat_en": "未进入可执行正式区，未生成/测试，不能用本IP换装代替原创身份",
+    "physical_zh": "未进入可执行正式区，未生成/测试，不能用本IP换装代替原创身份",
+    "physical_en": "未进入可执行正式区，未生成/测试，不能用本IP换装代替原创身份"
+  },
+  "research_reconstruction": {
+    "ready": "molly-flat-ref-v2",
+    "requires_reference": "V01",
+    "text_only_status": "revise",
+    "zh_status": "not_tested",
+    "downstream": "未生成3D或毛绒"
+  }
+}

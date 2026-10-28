@@ -1,0 +1,239 @@
+{
+  "colors": [
+    {
+      "palette_id": "molly-v01-screen",
+      "color_id": "C1",
+      "name": "薄荷绿帽",
+      "role": "series_palette",
+      "scope": "V01当前官方渲染",
+      "hex_preview": "#8cccb4",
+      "value_basis": "image_sampling",
+      "surface_or_region": "薄荷绿帽",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "M01"
+      ],
+      "sample_method": "原图1920×2704转RGBA，9×9像素逐通道中位数；左上为原点，未校色。",
+      "sample_coordinates_or_mask": {
+        "center": [
+          760,
+          370
+        ],
+        "square_radius": 4
+      },
+      "area_description": "未分割主体，不给面积百分比",
+      "area_basis": "not_measured",
+      "material_context": "三维宣传渲染；所采为受光/阴影色，不是固有材料标准色",
+      "variation_boundary": "只适用本图；ROYAL样本V08头发为蓝绿色，SPACE多色；蓝/湖蓝/湖绿命名不等于标准色值",
+      "uncertainty": "无官方Pantone/Coloro，屏幕与渲染偏色未知"
+    },
+    {
+      "palette_id": "molly-v01-screen",
+      "color_id": "C2",
+      "name": "亮黄色头发",
+      "role": "recurring_identity",
+      "scope": "V01当前官方渲染",
+      "hex_preview": "#f3e23c",
+      "value_basis": "image_sampling",
+      "surface_or_region": "亮黄色头发",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "M01"
+      ],
+      "sample_method": "原图1920×2704转RGBA，9×9像素逐通道中位数；左上为原点，未校色。",
+      "sample_coordinates_or_mask": {
+        "center": [
+          750,
+          670
+        ],
+        "square_radius": 4
+      },
+      "area_description": "未分割主体，不给面积百分比",
+      "area_basis": "not_measured",
+      "material_context": "三维宣传渲染；所采为受光/阴影色，不是固有材料标准色",
+      "variation_boundary": "只适用本图；ROYAL样本V08头发为蓝绿色，SPACE多色；蓝/湖蓝/湖绿命名不等于标准色值",
+      "uncertainty": "无官方Pantone/Coloro，屏幕与渲染偏色未知"
+    },
+    {
+      "palette_id": "molly-v01-screen",
+      "color_id": "C3",
+      "name": "蓝绿虹膜",
+      "role": "recurring_identity",
+      "scope": "V01当前官方渲染",
+      "hex_preview": "#268c85",
+      "value_basis": "image_sampling",
+      "surface_or_region": "蓝绿虹膜",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "M01"
+      ],
+      "sample_method": "原图1920×2704转RGBA，9×9像素逐通道中位数；左上为原点，未校色。",
+      "sample_coordinates_or_mask": {
+        "center": [
+          1120,
+          975
+        ],
+        "square_radius": 4
+      },
+      "area_description": "未分割主体，不给面积百分比",
+      "area_basis": "not_measured",
+      "material_context": "三维宣传渲染；所采为受光/阴影色，不是固有材料标准色",
+      "variation_boundary": "只适用本图；ROYAL样本V08头发为蓝绿色，SPACE多色；蓝/湖蓝/湖绿命名不等于标准色值",
+      "uncertainty": "无官方Pantone/Coloro，屏幕与渲染偏色未知"
+    },
+    {
+      "palette_id": "molly-v01-screen",
+      "color_id": "C4",
+      "name": "白外衣阴影",
+      "role": "series_palette",
+      "scope": "V01当前官方渲染",
+      "hex_preview": "#dbd8d6",
+      "value_basis": "image_sampling",
+      "surface_or_region": "白外衣阴影",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "M01"
+      ],
+      "sample_method": "原图1920×2704转RGBA，9×9像素逐通道中位数；左上为原点，未校色。",
+      "sample_coordinates_or_mask": {
+        "center": [
+          960,
+          1540
+        ],
+        "square_radius": 4
+      },
+      "area_description": "未分割主体，不给面积百分比",
+      "area_basis": "not_measured",
+      "material_context": "三维宣传渲染；所采为受光/阴影色，不是固有材料标准色",
+      "variation_boundary": "只适用本图；ROYAL样本V08头发为蓝绿色，SPACE多色；蓝/湖蓝/湖绿命名不等于标准色值",
+      "uncertainty": "无官方Pantone/Coloro，屏幕与渲染偏色未知"
+    },
+    {
+      "palette_id": "molly-v01-screen",
+      "color_id": "C5",
+      "name": "红裙",
+      "role": "series_palette",
+      "scope": "V01当前官方渲染",
+      "hex_preview": "#e14037",
+      "value_basis": "image_sampling",
+      "surface_or_region": "红裙",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "M01"
+      ],
+      "sample_method": "原图1920×2704转RGBA，9×9像素逐通道中位数；左上为原点，未校色。",
+      "sample_coordinates_or_mask": {
+        "center": [
+          1010,
+          2000
+        ],
+        "square_radius": 4
+      },
+      "area_description": "未分割主体，不给面积百分比",
+      "area_basis": "not_measured",
+      "material_context": "三维宣传渲染；所采为受光/阴影色，不是固有材料标准色",
+      "variation_boundary": "只适用本图；ROYAL样本V08头发为蓝绿色，SPACE多色；蓝/湖蓝/湖绿命名不等于标准色值",
+      "uncertainty": "无官方Pantone/Coloro，屏幕与渲染偏色未知"
+    },
+    {
+      "palette_id": "molly-v01-screen",
+      "color_id": "C6",
+      "name": "面部肤色",
+      "role": "series_palette",
+      "scope": "V01当前官方渲染",
+      "hex_preview": "#f6bba9",
+      "value_basis": "image_sampling",
+      "surface_or_region": "面部肤色",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "M01"
+      ],
+      "sample_method": "原图1920×2704转RGBA，9×9像素逐通道中位数；左上为原点，未校色。",
+      "sample_coordinates_or_mask": {
+        "center": [
+          932,
+          1030
+        ],
+        "square_radius": 4
+      },
+      "area_description": "未分割主体，不给面积百分比",
+      "area_basis": "not_measured",
+      "material_context": "三维宣传渲染；所采为受光/阴影色，不是固有材料标准色",
+      "variation_boundary": "只适用本图；ROYAL样本V08头发为蓝绿色，SPACE多色；蓝/湖蓝/湖绿命名不等于标准色值",
+      "uncertainty": "无官方Pantone/Coloro，屏幕与渲染偏色未知"
+    },
+    {
+      "palette_id": "molly-v01-screen",
+      "color_id": "C7",
+      "name": "浅粉纽扣",
+      "role": "series_palette",
+      "scope": "V01当前官方渲染",
+      "hex_preview": "#f6d7d6",
+      "value_basis": "image_sampling",
+      "surface_or_region": "浅粉纽扣",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "M01"
+      ],
+      "sample_method": "原图1920×2704转RGBA，9×9像素逐通道中位数；左上为原点，未校色。",
+      "sample_coordinates_or_mask": {
+        "center": [
+          1003,
+          1466
+        ],
+        "square_radius": 4
+      },
+      "area_description": "未分割主体，不给面积百分比",
+      "area_basis": "not_measured",
+      "material_context": "三维宣传渲染；所采为受光/阴影色，不是固有材料标准色",
+      "variation_boundary": "只适用本图；ROYAL样本V08头发为蓝绿色，SPACE多色；蓝/湖蓝/湖绿命名不等于标准色值",
+      "uncertainty": "无官方Pantone/Coloro，屏幕与渲染偏色未知"
+    },
+    {
+      "palette_id": "molly-v01-screen",
+      "color_id": "C8",
+      "name": "浅紫袖",
+      "role": "series_palette",
+      "scope": "V01当前官方渲染",
+      "hex_preview": "#ac8ca9",
+      "value_basis": "image_sampling",
+      "surface_or_region": "浅紫袖",
+      "image_ids": [
+        "V01"
+      ],
+      "evidence_ids": [
+        "M01"
+      ],
+      "sample_method": "原图1920×2704转RGBA，9×9像素逐通道中位数；左上为原点，未校色。",
+      "sample_coordinates_or_mask": {
+        "center": [
+          652,
+          1375
+        ],
+        "square_radius": 4
+      },
+      "area_description": "未分割主体，不给面积百分比",
+      "area_basis": "not_measured",
+      "material_context": "三维宣传渲染；所采为受光/阴影色，不是固有材料标准色",
+      "variation_boundary": "只适用本图；ROYAL样本V08头发为蓝绿色，SPACE多色；蓝/湖蓝/湖绿命名不等于标准色值",
+      "uncertainty": "无官方Pantone/Coloro，屏幕与渲染偏色未知"
+    }
+  ],
+  "source_image_sha256": "1f20ed4378b12984b5e26b05c2dc00e35284caf6b4b12fb231a34dc05331fbfc",
+  "official_standard_available": false,
+  "checks": "已目视核对取样位置；未做灰度、背景/头像盲测或5cm实物验证。"
+}
