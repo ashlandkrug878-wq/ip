@@ -277,7 +277,7 @@ button,select,textarea,input{font:inherit;color:inherit}
   </section>
 
   <section class="panel" id="p-star" hidden>
-    <div class="row-between"><label class="note" for="starSel" style="display:flex;align-items:center;gap:8px">明星 <select class="sel" id="starSel"></select></label><span class="note">Grok 单独一条线：调研 → 你确认人设 → 表达卡 → 概念图 → 锁形。和日更分开，不进「① 表达」「② 找形」</span></div>
+    <div class="row-between"><label class="note" for="starSel" style="display:flex;align-items:center;gap:8px">明星 <select class="sel" id="starSel"></select></label><span class="note">Grok 全自动：每天调研一位明星、写表达卡、出概念图。你随时回来批量标保留、写批注，下一次运行自动接着做。和日更分开</span></div>
     <div id="starBody"></div>
   </section>
 
@@ -427,12 +427,12 @@ function renderStars(){
   if(!starSel||!STARS.find(x=>x.id===starSel))starSel=STARS[0]?.id||null;
   sel.innerHTML=STARS.map(x=>`<option value="${esc(x.id)}" ${x.id===starSel?"selected":""}>${esc(x.name)}${REVIEWS[x.id]?.status==="保留"?" · 已确认":""}</option>`).join("")||`<option>还没有明星</option>`;
   if(!loaded){body.innerHTML="";return;}
-  if(!starSel){body.innerHTML=`<div class="empty"><b>还没有明星原点卡</b><span>让 Grok 按 workflow/star-grok.md 调研一位明星，原点卡会出现在这里。确认人设后它才会往下做。</span></div>`;return;}
+  if(!starSel){body.innerHTML=`<div class="empty"><b>还没有明星原点卡</b><span>Grok 每日定时任务会自动调研一位明星、写表达卡和概念图，出现在这里。想指定明星，写进 data/stars/wishlist.json。</span></div>`;return;}
   const st=STARS.find(x=>x.id===starSel);const r=REVIEWS[st.id]||{};
   const sw=(c)=>`<span class="sw" title="${esc(c.source||"")}"><i style="background:${okHex(c.hex)}"></i>${esc(c.name)}</span>`;
   const col=st.colors||{};
   const head=`<article class="starcard ${r.status?"s-"+r.status:""}">
-    <div class="row-between"><h2>${esc(st.name)} <span class="note">${esc((st.aliases||[]).join("、"))}</span></h2><span class="authchip ${esc(st.authorization?.status||"pending")}">${esc(AUTH[st.authorization?.status]||AUTH.pending)}</span></div>
+    <div class="row-between"><h2>${esc(st.name)} <span class="note">${esc((st.aliases||[]).join("、"))}</span></h2><span class="note">${esc(st.updated||"")}${st.picked_because&&st.picked_because!=="清单"?" · "+esc(st.picked_because):""}</span></div>
     <div class="kv">
       ${(st.persona||[]).length?`<span>人设</span><span>${(st.persona||[]).map(x=>`${esc(x.word)}<small class="note">（${esc(x.type||"")}）</small>`).join("、")}</span>`:""}
       ${(st.catchphrases||[]).length?`<span>口头禅</span><span>${esc((st.catchphrases||[]).map(x=>x.text||x).join(" / "))}</span>`:""}
@@ -442,11 +442,11 @@ function renderStars(){
     </div>
     ${(st.species_candidates||[]).length?`<div class="spc">${st.species_candidates.map(x=>`<div><b>${esc(x.answer)}</b><span>${esc(x.why)}</span></div>`).join("")}</div>`:""}
     <div class="row-between">${statusBtns(st.id)}<button type="button" class="btn link" data-act="open" data-id="${esc(st.id)}">完整原点卡与来源 →</button></div>
-    <div class="inote-edit"><textarea id="cover-note-${esc(st.id)}" data-note-id="${esc(st.id)}" rows="2" placeholder="确认人设：哪里对、哪里不对，物种想要哪个…">${esc(NOTE_DRAFTS[st.id]??r.note??"")}</textarea>
-    <div class="row-between"><span class="note" id="cover-saved-${esc(st.id)}">${r.status==="保留"?"已确认，Grok 会往下做表达卡":"标「保留」= 确认人设，Grok 才会往下做"}</span><button type="button" class="btn pri mini" data-act="note" data-id="${esc(st.id)}">保存</button></div></div>
+    <div class="inote-edit"><textarea id="cover-note-${esc(st.id)}" data-note-id="${esc(st.id)}" rows="2" placeholder="人设哪里不对、物种想要哪个…">${esc(NOTE_DRAFTS[st.id]??r.note??"")}</textarea>
+    <div class="row-between"><span class="note" id="cover-saved-${esc(st.id)}">${r.note?"已保存，Grok 下次运行会按批注更新":"人设不对、想换物种，写在这里，Grok 下次运行会改"}</span><button type="button" class="btn pri mini" data-act="note" data-id="${esc(st.id)}">保存</button></div></div>
   </article>`;
   const ips=starIps(st);
-  const exprs=ips.length?`<section class="igroup"><h2 class="ghead">表达卡<small>${ips.length}</small></h2><div class="igrid">${ips.map(card).join("")}</div></section>`:`<div class="empty"><b>还没有表达卡</b><span>${r.status==="保留"?"人设已确认，等 Grok 写表达卡。":"先在上面确认人设。"}</span></div>`;
+  const exprs=ips.length?`<section class="igroup"><h2 class="ghead">表达卡<small>${ips.length}</small></h2><div class="igrid">${ips.map(card).join("")}</div></section>`:`<div class="empty"><b>还没有表达卡</b><span>Grok 每天自动写表达卡和概念图，下一次运行后会出现在这里。</span></div>`;
   const forms=ips.map(i=>{const fs=formsOf(i.id);if(!fs.length)return "";return `<section class="igroup"><h2 class="ghead">${esc(i.name)} · 概念图与形<small>${fs.length}</small></h2><div class="grid">${fs.map(formCard).join("")}</div></section>`;}).join("");
   body.innerHTML=head+exprs+forms;
 }
@@ -460,7 +460,7 @@ function renderStarDrawer(){
   const col=st.colors||{};
   $("drawer").innerHTML=`<div class="dhead">
     <div class="row-between"><h2 id="dTitle">${esc(st.name)}</h2><button type="button" class="btn" id="dClose" data-act="close">关闭</button></div>
-    <div class="note">授权：${esc(AUTH[st.authorization?.status]||AUTH.pending)} ${esc(st.authorization?.note||"")} · 调研 ${esc(st.updated||"")}</div>
+    <div class="note">调研 ${esc(st.updated||"")}${st.picked_because?" · "+esc(st.picked_because):""}</div>
     <div class="row-between">${statusBtns(st.id)}</div>
     <textarea id="note-${esc(st.id)}" placeholder="确认人设：哪里对、哪里不对，物种想要哪个…">${esc(NOTE_DRAFTS[st.id]??r.note??"")}</textarea>
     <div class="row-between"><span class="note" id="saved-${esc(st.id)}">${r.updatedAt?"已保存":"还没确认"}</span><button type="button" class="btn pri" data-act="note" data-id="${esc(st.id)}">保存批注</button></div>

@@ -8,7 +8,7 @@ DATA = ROOT / "data"
 COLS = ["batches", "ips", "forms", "studies", "reviews", "pools", "species", "stars"]
 
 def main():
-    idx = {c: sorted(p.stem for p in (DATA / c).glob("*.json")) if (DATA / c).exists() else [] for c in COLS}
+    idx = {c: sorted(p.stem for p in (DATA / c).glob("*.json") if not (c == "stars" and p.stem == "wishlist")) if (DATA / c).exists() else [] for c in COLS}
     path = DATA / "index.json"
     old = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
     if all(old.get(c) == idx[c] for c in COLS):
