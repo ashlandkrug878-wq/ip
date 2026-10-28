@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "evidence_count": 6,
+  "evidence_count": 8,
   "evidence": [
     {
       "id": "2026w42-5",
@@ -12,6 +12,28 @@
       "expression": "别问静静是谁，今天我不在线",
       "mark": "两片合拢软壳、低位闭眼与露出的鞋头；不靠头顶灯泡和卧室布景。",
       "source": "data/reviews/2026w42-5.json"
+    },
+    {
+      "id": "daily-20261027-02",
+      "batch": "daily-20261027",
+      "name": "入戏签",
+      "quote": "不好看 太像别的ip了 淘汰",
+      "updated_at": "2026-10-28T12:55:38.422Z",
+      "origin": "NPC互动、沉浸体验",
+      "expression": "别只看，把我写进现场",
+      "mark": "开合票根场记板",
+      "source": "data/reviews/daily-20261027-02.json"
+    },
+    {
+      "id": "daily-20261027-03",
+      "batch": "daily-20261027",
+      "name": "攀点狸",
+      "quote": "头上的攀爬的那个东西很奇怪，造型过于普通，淘汰",
+      "updated_at": "2026-10-28T12:55:37.073Z",
+      "origin": "攀岩体验上升",
+      "expression": "抓不稳，也先找下一个点",
+      "mark": "斜置橙色岩点额板",
+      "source": "data/reviews/daily-20261027-03.json"
     },
     {
       "id": "daily-20261028-01",
