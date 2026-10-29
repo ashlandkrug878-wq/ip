@@ -1,0 +1,30 @@
+[
+  {
+    "platform": "web",
+    "queries": [
+      "mofusand ぢゅの 作者 2017 公式",
+      "site.spiralcute.com mofusand ぢゅの",
+      "mofusand author interview",
+      "site.mofusand-mofumofu-market.jp サメにゃん ぬいぐるみ サイズ"
+    ],
+    "status": "executed"
+  },
+  {
+    "platform": "小红书站内",
+    "queries": [
+      "mofusand 品牌介绍",
+      "mofusand 产品汇总"
+    ],
+    "status": "executed",
+    "read_notes": 2,
+    "scope": "2条可见正文/评论，用户图片逐页0，非随机抽样"
+  },
+  {
+    "platform": "小红书站内",
+    "queries": [
+      "mofusand 退坑"
+    ],
+    "status": "blocked",
+    "scope": "已提交检索，但后续页面读取长时间未返回；未读到结果，停止依赖该访问。"
+  }
+]

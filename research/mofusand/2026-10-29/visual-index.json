@@ -1,0 +1,97 @@
+[
+  {
+    "image_id": "V01",
+    "title": "动画官网鲨鱼猫图",
+    "original_image_url": "https://mofusand-anime.jp/wp-content/themes/mofusand-anime/assets/images/content/chara_samenyan.png?v=1",
+    "observed_features": "双爪朝前露粉肉垫，姜白脸大暗眼，外层鲨鱼小黑眼；金色边与蓝格是界面框。",
+    "boundary": "已实际打开原图，描述仅限可见视角；框背景、主体、材质与摄影分开。",
+    "sources": [
+      "s4"
+    ],
+    "original_dimensions": [
+      476,
+      543
+    ],
+    "original_sha256": "ba10b4cb557bd19a7c613563e4df1491740c203cc710ffbdce54f021e754c236",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V02",
+    "title": "动画官网草莓猫图",
+    "original_image_url": "https://mofusand-anime.jp/wp-content/themes/mofusand-anime/assets/images/content/chara_ichigonyan.png?v=1",
+    "observed_features": "灰白猫一眼闭起、草莓帽红色带绿叶，身体白/灰；不是全系列姜白猫。",
+    "boundary": "已实际打开原图，描述仅限可见视角；框背景、主体、材质与摄影分开。",
+    "sources": [
+      "s4"
+    ],
+    "original_dimensions": [
+      476,
+      543
+    ],
+    "original_sha256": "e35551f53b6b268e46ade8467395fcb7c54ff968f142a96bfae88fea3af0bbb8",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V03",
+    "title": "商品方原始游泳插画",
+    "original_image_url": "https://grayparkaservice.com/cdn/shop/files/mofusand_banner_copyright_ed39ad64-0eb2-4ee6-ad75-d1db0da80f0f.jpg?v=1724297581&width=2400",
+    "observed_features": "蓝灰鲨鱼服弯曲躯体，尾在左上，猫前爪朝右伸，左后腿露姜白条纹；猫眼与鲨鱼眼两层。",
+    "boundary": "已实际打开原图，描述仅限可见视角；框背景、主体、材质与摄影分开。",
+    "sources": [
+      "s2"
+    ],
+    "original_dimensions": [
+      2400,
+      1200
+    ],
+    "original_sha256": "08878e832294b06cd166adadb6a07009708c80dbeb3b87b358dba83ccec6103b",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V04",
+    "title": "鲨鱼猫S实物正面",
+    "original_image_url": "https://mofusand-mofumofu-market.jp/cdn/shop/products/000000000022_1.jpg?v=1665981975&width=1445",
+    "observed_features": "坐姿，白腹、外层牙状头套边，姜白四肢与脚垫；猫眼为刺绣/印制式平面效果，具体工法不凭图认定。",
+    "boundary": "已实际打开原图，描述仅限可见视角；框背景、主体、材质与摄影分开。",
+    "sources": [
+      "s7"
+    ],
+    "original_dimensions": [
+      800,
+      800
+    ],
+    "original_sha256": "f0fb3d3be398ffc2c336122bad36e2e08a661d2cb1770af60383426356d7a4ac",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V05",
+    "title": "ふんばるず实物侧前",
+    "original_image_url": "https://mofusand-mofumofu-market.jp/cdn/shop/files/4542202428900_01_30f7cf2b-6bfd-44be-87ba-68b4e646a3e7.jpg?v=1719294222&width=1445",
+    "observed_features": "前倾悬垂小四肢，蓝灰鲨鱼外衣与白胸，外衣小眼、鳃线可见；体态不是S坐姿缩小。",
+    "boundary": "已实际打开原图，描述仅限可见视角；框背景、主体、材质与摄影分开。",
+    "sources": [
+      "s9"
+    ],
+    "original_dimensions": [
+      800,
+      800
+    ],
+    "original_sha256": "c2dbe2d528d770c25195c9a69d0991fec049a813dd0c05837c324083829dfba6",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  }
+]

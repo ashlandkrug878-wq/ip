@@ -1,0 +1,383 @@
+{
+  "id": "mofusand",
+  "name": "mofusand 猫福珊迪",
+  "aliases": [
+    "モフサンド",
+    "鲨鱼猫",
+    "Juno cats"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-29",
+  "updated": "2026-10-29",
+  "summary": "猫的可亲身体承接海洋、食物与装扮题材；插画、商品和动画角色关系分别核对，未将渠道热度或联名当销量。",
+  "owner": {
+    "creator": "ぢゅの／Juno",
+    "operator": "Spiralcute：角色/授权窗口；Gray Parka Service及多家厂商：商品",
+    "relation": "版权展示©mofusand；公开完整合同与财产权链null。不是三丽鸥、Dreams或名创优品的自有IP。厂商/销售渠道不等于原作权利人。",
+    "sources": [
+      "s1",
+      "s2",
+      "s3",
+      "s4"
+    ]
+  },
+  "origin": {
+    "path": [
+      "网络插画",
+      "表情包传播"
+    ],
+    "year": null,
+    "story": "以SNS插画为起点，制造商2021公告已提LINE创作者贴纸。2017起源常见于二级介绍，本轮未核最初原创帖与首幅鲨鱼猫，创作/首次公开/首售分别留null；官方可证2021年8月景品已展开。",
+    "sources": [
+      "s1",
+      "s11",
+      "s12"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2021-08",
+      "event": "制造商回顾首次该批鲨鱼猫景品展开，非全IP最早商品已核",
+      "type": "self_report",
+      "sources": [
+        "s12"
+      ]
+    },
+    {
+      "date": "2022-01-28",
+      "event": "Kiddy Land五店POP UP官方记录",
+      "type": "fact",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "date": "2024-02-26",
+      "event": "找不同纸书发售，电子版早4天",
+      "type": "fact",
+      "sources": [
+        "s11"
+      ]
+    },
+    {
+      "date": "2025-12-22",
+      "event": "动画化公告",
+      "type": "fact",
+      "sources": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "event": "短篇动画计划开播",
+      "type": "self_report",
+      "sources": [
+        "s6"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "日常已经够认真，猫可以替你荒诞一点。",
+    "sentence_type": "反差",
+    "basis": "inferred",
+    "sources": [
+      "s1",
+      "s2"
+    ]
+  },
+  "core": {
+    "personality": "插画总体可爱且略荒诞；动画鲨鱼猫笨拙、悠闲",
+    "emotion": "反差",
+    "action": "穿装扮、游泳、与朋友经历日常小插曲",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "刷到一张猫图，或给桌面/包选择一只装扮猫",
+    "behavior": "按猫色、衣服和载体偏好选择，逐渐组成小收藏",
+    "state": "喜爱猫，但也想要新鲜题材与小意外",
+    "conflict": "动物服或食物可持续出题，但过度只换衣服可能让身份变弱",
+    "unsaid": "我喜欢的是这只猫的神态，不只是外面那层壳。",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "猫爱好者、插画/扭蛋/毛绒收藏者；年龄性别比例未知",
+    "where": "SNS、官方店和授权商品渠道；日本线下与海外接触场景",
+    "buy": "实读用户自述逐渐购入扭蛋且关注价格，无凭证",
+    "signs": "大杏仁眼、小粉鼻、猫色条纹、厚实白口部与套装反差",
+    "share": "收藏合照、好价、辨款和陈列架讨论",
+    "breakout": "猫题材低门槛与衣装有联名接口；是否提高新客转化未核"
+  },
+  "pendulum": {
+    "position": "软萌治愈",
+    "against": "轻荒诞降低严肃叙事负担，猫不是近年才出现的需求，也不证明当日最高热度"
+  },
+  "form": {
+    "archetype": "动物",
+    "silhouette": "拼接组合",
+    "mark_position": [
+      "五官",
+      "整体轮廓"
+    ],
+    "mark": "软圆猫体、杏仁暗眼粉鼻与动物/食物套装形成内外双脸",
+    "face": "V03略上挑杏仁大眼、暗蓝绿瞳小高光、粉三角鼻、嘴小而可开；头顶姜色尖纹，白口颊",
+    "emotion": "反差",
+    "odd": "柔软猫脸放在鲨鱼大口中，外层黑小眼和内层大猫眼并置",
+    "density": "中等",
+    "naming": "描述",
+    "group": "角色群"
+  },
+  "collide_combo": "不要将蓝灰鲨鱼套装、大杏仁眼姜白猫脸、尖状额纹与游泳构图整套复制。猫和穿衣为公共题材，独立面部与装扮结构仍须重建。",
+  "color": {
+    "mode": "多色系列",
+    "main": "姜白/灰白等猫色＋各主题外衣；本次鲨鱼服蓝灰",
+    "signature": "暖猫色与冷外衣反差，白脸/腹提供分区；非所有猫都是橘猫",
+    "notes": "原始水彩笔触、动画渲染与毛绒印花各异；不能将背景格纹/金边算角色颜色"
+  },
+  "materials": "鲨鱼猫S与拉动款为涤纶；双猫围巾增加腈纶。商品形体、缝线、面料毛向改变眼脸观感，非作者画错。纸书、CG动画与实物工艺不混用；姿势支撑疗效未测。",
+  "carrier": {
+    "primary": "授权图案",
+    "secondary": "实物潮玩"
+  },
+  "product": {
+    "first_category": null,
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "本轮日本JPY1210纸书、1650—3850代表毛绒含税，非统一全球价",
+    "sources": [
+      "s7",
+      "s8",
+      "s9",
+      "s10",
+      "s11"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "独立IP营收/销量/复购/渠道贡献",
+      "value": null,
+      "unit": null,
+      "period": "截至2026-10-29",
+      "type": "hypothesis",
+      "sources": [
+        "s1",
+        "s3",
+        "s12"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "猫提供亲近感，装扮提供可连续扩展的题材。",
+      "type": "inference",
+      "evidence": "官方定义覆盖鲨鱼等略荒诞猫插画；草莓猫对照说明猫色、动作也会变。",
+      "boundary": "题材扩展证据强，商业增量未测；不把每套服都当同一位猫的换装。",
+      "sources": [
+        "s1",
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "claim": "跨载体让同一题材产生不同接触方式，而非只做缩放。",
+      "type": "inference",
+      "evidence": "毛绒抱持、拉动震动、支撑与找不同书提供不同参与动作；用户样本更喜欢扭蛋立体版。",
+      "boundary": "功能与偏好样本可核，但无留存/利润对比，也未证明支撑产品有医疗效果。",
+      "sources": [
+        "s7",
+        "s8",
+        "s9",
+        "s11",
+        "u2"
+      ]
+    },
+    {
+      "claim": "短动画为服装题材补日常关系，避免把“无剧情”永远冻结为IP定义。",
+      "type": "inference",
+      "evidence": "2026动画明确鲨鱼猫性格、朋友与被保护的小猫。",
+      "boundary": "这是动画版本的设定，不回填全部历史插画为同一连续剧情。",
+      "sources": [
+        "s4",
+        "s6"
+      ]
+    }
+  ],
+  "counterexamples": "用户的好价诉求提示收藏有预算约束；单个不排队观察不能证伪或证明全国销售。官网同时出现售罄和加入购物车模板，未据此统计销量。毛绒厂商明确表情有个体差、与原画可不同。缺少系统退坑数据；“套装疲劳/类似猫拥挤”是待验证替代解释。",
+  "theory": {
+    "shell": "猫是公共原型，辨识来自脸、笔触、装扮接口与反差",
+    "core": "可爱里有小荒诞，不需复杂知识即可进入",
+    "shadow": "外衣变化不能替代独立的内部身份",
+    "two_layers": {
+      "surface": "看到可爱猫的即时感受",
+      "deep": "题材分类、立体偏好、陈列与价格约束"
+    },
+    "validation": "制造商再发行自述只证明供给决定；不等于售出数量或全网热榜"
+  },
+  "for_skills": {
+    "lab": "让熟悉事物与意外处境发生关系，先检验真实共鸣，少依赖“治愈”标签。",
+    "form": "将身体识别与装扮变量分开，对比脱去外衣后是否仍能认出独立原创。",
+    "studio": "为载体设计不同参与动作，验证缝制、印花、拉动结构与实际触感；不把插画直接当工艺图。"
+  },
+  "gaps": [
+    "创作日、首公开、全IP首售未知；2017年仅二级线索未核原帖。",
+    "权利链合同、独立营收、销量与中国渠道贡献null。",
+    "小红书执行两个固定检索，实读2条可见文字/评论，用户图逐页实读0；追加退坑查询后读取超时，停止依赖该访问。",
+    "动画角色关系不自动回写早期全部插画；作者本人原始创作访谈未取得，11月2日讲座仅预告。",
+    "平面只英文附图V03该游泳角度接近；线更匀、猫爪/眼距与条纹有轻微差异。纯文字/中文/重复稳定性未测。"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Spiralcute角色与原作署名",
+      "url": "https://spiralcute.com/characters/mofusand/",
+      "publisher": "Spiralcute",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "©mofusand；ぢゅの创作，SNS插画系列；代理展示不等于买断作者权利。"
+    },
+    {
+      "id": "s2",
+      "title": "GPS角色介绍",
+      "url": "https://grayparkaservice.com/pages/characters/mofusand",
+      "publisher": "Gray Parka Service",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "猫穿鲨鱼服等可爱、略荒诞插画；GPS制作商品，不据此认定其创作全IP。"
+    },
+    {
+      "id": "s3",
+      "title": "官方综合信息与线下活动",
+      "url": "https://mofusand-info.jp/",
+      "publisher": "Spiralcute",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2022-01-28起Kiddy Land五店；当前活动与三丽鸥联名为授权/联名关系。"
+    },
+    {
+      "id": "s4",
+      "title": "动画日文角色与制作署名",
+      "url": "https://mofusand-anime.jp/",
+      "publisher": "动画官网",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "茶虎猫穿鲨鱼服；笨拙悠闲，与朋友/被保护小猫の日常；原作、导演、制作分工明确。"
+    },
+    {
+      "id": "s5",
+      "title": "动画英文版本",
+      "url": "https://mofusand-anime.jp/en/",
+      "publisher": "动画官网",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "英文原作署名Juno，与日文ぢゅの对应，不另排IP。"
+    },
+    {
+      "id": "s6",
+      "title": "动画化与开播公告",
+      "url": "https://mofusand-anime.jp/news/anime_key/",
+      "publisher": "动画官网",
+      "published": "2025-12-22",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2025-12-22公告，2026-01-07起每周三08:00配信。"
+    },
+    {
+      "id": "s7",
+      "title": "鲨鱼猫S规格",
+      "url": "https://mofusand-mofumofu-market.jp/products/4589468447344",
+      "publisher": "官方商店",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "1980JPY含税，H270×W190×D255mm，涤纶；生产地中国，首售日null。"
+    },
+    {
+      "id": "s8",
+      "title": "拉动震动玩偶规格",
+      "url": "https://mofusand-mofumofu-market.jp/collections/mascot/products/4513750112290",
+      "publisher": "官方商店",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "1650JPY含税，H95×W70×D110mm/32g，涤纶；拉鱿鱼会震动。"
+    },
+    {
+      "id": "s9",
+      "title": "ふんばるず规格",
+      "url": "https://mofusand-mofumofu-market.jp/products/4542202428900",
+      "publisher": "官方商店",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "Dreams制造，3850JPY含税，H260×W120×D210mm/300g，涤纶；姿势支撑是官方用途并非临床疗效。"
+    },
+    {
+      "id": "s10",
+      "title": "共享围巾双猫规格",
+      "url": "https://mofusand-mofumofu-market.jp/collections/marinelifecat/products/4571609409663",
+      "publisher": "官方商店",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "3520JPY含税，H170×W220×D160mm，涤纶/腈纶；手工缝制表情可能不同。"
+    },
+    {
+      "id": "s11",
+      "title": "找不同纸书与作者介绍",
+      "url": "https://www.kodansha.co.jp/book/products/0000385440",
+      "publisher": "讲谈社",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "纸2024-02-26、电子02-22；A5/64页，1210JPY含税；不是早于SNS的原著。"
+    },
+    {
+      "id": "s12",
+      "title": "2021景品与再发行公告",
+      "url": "https://www.fancy-fukuya.co.jp/topics/202201mofusand/",
+      "publisher": "Fukuya",
+      "published": "2021-12-27",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2021-12-27公告回顾同年8月景品、2022年1月下旬再出；15/30cm，景品不填零售单价。"
+    },
+    {
+      "id": "s13",
+      "title": "动画制作讲座预告",
+      "url": "https://videosalon.jp/premium/vsw386/",
+      "publisher": "VIDEO SALON",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "partial",
+      "supports": "实读公开预告全文，11月2日未来付费活动；未观看未举行的讲座，不当作作者原始访谈全文。"
+    },
+    {
+      "id": "u1",
+      "title": "每天认识一个新IP Vol.1",
+      "url": "https://www.xiaohongshu.com/explore/6aa2264d000000001103b63f",
+      "publisher": "圆的IP自习室",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "partial",
+      "supports": "显示09-10；图文正文只有标签，实读当前2条评论。有人以不排队表达未感到火，这只是个体观察。"
+    },
+    {
+      "id": "u2",
+      "title": "扭蛋收藏合影",
+      "url": "https://www.xiaohongshu.com/explore/6992dad9000000001d013fc1",
+      "publisher": "电磁波巡游",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "partial",
+      "supports": "显示02-16；正文偏爱立体版、逐渐买入和期待好价；评论谈选款与展示架。未核订单、未逐张看全图。"
+    }
+  ],
+  "archive": "research/mofusand/2026-10-29/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/mofusand/2026-10-29/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/mofusand/2026-10-29/"
+}

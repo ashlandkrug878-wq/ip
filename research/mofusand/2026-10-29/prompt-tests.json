@@ -1,0 +1,30 @@
+[
+  {
+    "prompt_id": "mf-flat-ref-v1",
+    "subject_id": "mofusand",
+    "version": 1,
+    "target_scope": "V03姜白猫穿鲨鱼服游泳的可见三分之四角度平面插画",
+    "carrier": "flat",
+    "language": "en",
+    "input_mode": "reference_assisted",
+    "reference_image_ids": [
+      "V03"
+    ],
+    "exact_prompt": "Use the attached illustration as the only visual identity reference. Recreate the single visible orange-and-white tabby kitten wearing a dark muted teal shark suit as a clean flat 2D illustration on a white landscape canvas. Preserve the exact three-quarter swimming pose: head at upper right, rounded suit body sweeping down to lower left, upright two-lobed shark tail at upper left, one big side fin over the lower-left body, the kitten's striped rear leg visible on the far left and its two orange-and-white front paws stretched together toward the right. Preserve the round white cat face inside the shark's white oval mouth opening, pointed ginger forehead patches, short brown tabby stripes, large dark blue-green almond eyes with small white highlights, tiny salmon-pink triangle nose, and small open happy mouth with brown tongue. Retain the suit's small black oval shark eye left of the face, two short gill curves, dark teal back, white underside, and proportions from the reference. Keep the cat face distinct from the outer shark face; do not turn it into an actual hybrid shark animal. Use a slightly irregular dark contour and simplified flat ginger, cream-white, teal and dark-eye fills with only a few solid patches for tabby markings. Remove watercolor shine, gradients, texture and cast shadows. Preserve the silhouette and pose, not a generic sitting cat. Do not add new fins, extra limbs, accessories, lettering, copyright mark, logo or watermark. Show only this visible pose; do not invent the hidden rear view.",
+    "generated_image_path": "assets/flat-ref-v1.webp",
+    "prompt_file": "prompts/flat-ref-v1.txt",
+    "status": "ready",
+    "observations": "身份、内外双脸、尾在左上、前爪朝右、蓝灰服白腹与姜白条纹接近；线更匀、眼距及爪曲线稍异，仍有少量色阶。不是纯文字或全角色群复现证明。",
+    "revision_reason": "首轮保留同一游泳目标，没有换成更易坐姿。",
+    "tested_at": "2026-10-29",
+    "original_generated_file": "/workspace/scratch/49527ac7d143/generated_images/exec-a956b555-da25-479b-b7f5-815ba52f6e5f.png",
+    "original_sha256": "3be9e8b364eb74fdde250b1a0aac57d9b677114a63b268f24b25069f26e2cfa7",
+    "display_sha256": "8fa4f5987a53495d2e605d4f227fe2d7e3a500aa11eaf85c0ba539e1431c5e35",
+    "display_size": [
+      768,
+      384
+    ],
+    "bytes": 11498,
+    "exact_prompt_sha256": "881996cbcaeafd30051e84f5727bb24933328a2c6839d109150af46862bdc649"
+  }
+]

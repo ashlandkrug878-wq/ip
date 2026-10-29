@@ -1,0 +1,36 @@
+[
+  {
+    "name": "鲨鱼服蓝灰",
+    "region": "V03服侧大色块，仍有原笔触色差",
+    "image_id": "V03",
+    "xy": [
+      1000,
+      680
+    ],
+    "hex_preview": "#416973",
+    "original_dimensions": [
+      2400,
+      1200
+    ],
+    "method": "原图转RGB，坐标周围3×3像素逐通道中位数",
+    "value_basis": "image_sample",
+    "uncertainty": "屏幕近似，受压缩/光照影响；不是生产色号，无主体分割面积比例"
+  },
+  {
+    "name": "姜黄色条纹",
+    "region": "V03前腿较平坦区",
+    "image_id": "V03",
+    "xy": [
+      1510,
+      833
+    ],
+    "hex_preview": "#E8CA8A",
+    "original_dimensions": [
+      2400,
+      1200
+    ],
+    "method": "原图转RGB，坐标周围3×3像素逐通道中位数",
+    "value_basis": "image_sample",
+    "uncertainty": "屏幕近似，受压缩/光照影响；不是生产色号，无主体分割面积比例"
+  }
+]

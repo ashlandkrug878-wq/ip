@@ -1,0 +1,68 @@
+[
+  {
+    "name": "鲨鱼猫S 4589468447344/GPS",
+    "release": null,
+    "price": "日本JPY1980含税",
+    "size": "H270×W190×D255mm",
+    "material": "涤纶，中国制造",
+    "note": "当前规格，不以图片文件日期补首售",
+    "sources": [
+      "s7"
+    ]
+  },
+  {
+    "name": "ぶるぶるず 4513750112290/EIKO",
+    "release": null,
+    "price": "日本JPY1650含税",
+    "size": "H95×W70×D110mm/32g",
+    "material": "涤纶，拉动震动结构",
+    "note": "拉鱿鱼产生动作，与抱持款不同",
+    "sources": [
+      "s8"
+    ]
+  },
+  {
+    "name": "ふんばるず 4542202428900/Dreams",
+    "release": null,
+    "price": "日本JPY3850含税",
+    "size": "H260×W120×D210mm/300g",
+    "material": "涤纶",
+    "note": "官方姿势支撑用途；非Dreams自有角色依据，不作医疗效果承诺",
+    "sources": [
+      "s9"
+    ]
+  },
+  {
+    "name": "共享围巾双猫 4571609409663",
+    "release": null,
+    "price": "日本JPY3520含税",
+    "size": "H170×W220×D160mm",
+    "material": "涤纶、腈纶",
+    "note": "鲨鱼猫与小猫相依；个体缝制差异",
+    "sources": [
+      "s10"
+    ]
+  },
+  {
+    "name": "找不同书 ISBN9784065344736",
+    "release": "纸2024-02-26/电子02-22",
+    "price": "日本纸本JPY1210含税",
+    "size": "A5/64页",
+    "material": "纸；电子载体另版",
+    "note": "ぢゅの著，讲谈社；观察力提升是出版宣传非实测",
+    "sources": [
+      "s11"
+    ]
+  },
+  {
+    "name": "Fukuya鲨鱼猫BIG/普通景品",
+    "release": "2021-08展开；2022-01下旬再出",
+    "price": null,
+    "size": "BIG约30cm/普通约15cm",
+    "material": "长毛绒生地，配方null",
+    "note": "游艺景品不是零售盲盒；抓取成本非统一定价",
+    "sources": [
+      "s12"
+    ]
+  }
+]
