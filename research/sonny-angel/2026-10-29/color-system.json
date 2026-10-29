@@ -1,0 +1,38 @@
+[
+  {
+    "name": "狐帽红色",
+    "region": "V01左正面帽额较平坦处，照片局部色",
+    "image_id": "V01",
+    "extension": "png",
+    "xy": [
+      602,
+      454
+    ],
+    "hex_preview": "#F1224D",
+    "original_dimensions": [
+      2048,
+      1280
+    ],
+    "method": "原图转RGB，坐标周围3×3像素逐通道中位数",
+    "value_basis": "image_sample",
+    "uncertainty": "屏幕近似，受压缩/光照影响；不是生产色号，无主体分割面积比例"
+  },
+  {
+    "name": "脸部肤色",
+    "region": "V01左脸额头，不作统一肤色",
+    "image_id": "V01",
+    "extension": "png",
+    "xy": [
+      526,
+      494
+    ],
+    "hex_preview": "#FCCDB6",
+    "original_dimensions": [
+      2048,
+      1280
+    ],
+    "method": "原图转RGB，坐标周围3×3像素逐通道中位数",
+    "value_basis": "image_sample",
+    "uncertainty": "屏幕近似，受压缩/光照影响；不是生产色号，无主体分割面积比例"
+  }
+]

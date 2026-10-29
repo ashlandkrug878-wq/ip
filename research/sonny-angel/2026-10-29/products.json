@@ -1,0 +1,71 @@
+[
+  {
+    "name": "2004 18cm人偶",
+    "release": "2004-05-15（官方回顾）",
+    "price": null,
+    "size": "高约18cm",
+    "material": null,
+    "note": "活眼人偶，不套用当前迷你配方",
+    "sources": [
+      "s1"
+    ]
+  },
+  {
+    "name": "Animal Ver.1 Refine SAS65375",
+    "release": "迷你系列起点2005；此Refine首售null",
+    "price": "当前日本JPY1210含税/盒",
+    "size": "H75—100mm；32—34g",
+    "material": "ATBC-PVC",
+    "note": "12常规+隐藏；12盒端箱不保证全部",
+    "sources": [
+      "s2",
+      "s5"
+    ]
+  },
+  {
+    "name": "Fruit Regular SAS65380",
+    "release": null,
+    "price": "当前日本JPY1210含税/盒",
+    "size": "H75—100mm；32—34g",
+    "material": "ATBC-PVC",
+    "note": "URL2019不作为核实首售日",
+    "sources": [
+      "s9"
+    ]
+  },
+  {
+    "name": "HIPPERS Looking Back SAS65911",
+    "release": "2024-05-23计划/地区或不同",
+    "price": "当前日本JPY1430含税/盒",
+    "size": "W30—41×H63—94×D25—30mm",
+    "material": "ATBC-PVC、附着胶",
+    "note": "12+1；附着力因表面条件下降",
+    "sources": [
+      "s6",
+      "s7"
+    ]
+  },
+  {
+    "name": "20周年书+2公仔 SAS65952",
+    "release": "2025-01-17正午",
+    "price": "日本JPY8800含税/套",
+    "size": "A5书/196页；公仔尺寸null",
+    "material": "书＋2体迷你公仔，配方null",
+    "note": "日英双语；发行ネコ・パブリッシング；1482种收录非销售数量",
+    "sources": [
+      "s8"
+    ]
+  },
+  {
+    "name": "Makeup Angel SAS67529",
+    "release": "2026-10-22计划/地区或不同",
+    "price": "日本详情JPY1650含税/盒",
+    "size": "W36—38×H71—86×D30—35mm；30—33g",
+    "material": "ATBC-PVC，金属风格涂装",
+    "note": "5款/6盒端箱9900JPY含税；可能重复/不保证集齐；主页列表1540与详情有差异",
+    "sources": [
+      "s3",
+      "s4"
+    ]
+  }
+]

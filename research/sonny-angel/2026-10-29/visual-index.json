@@ -1,0 +1,97 @@
+[
+  {
+    "image_id": "V01",
+    "title": "红狐联名：正背面实物",
+    "original_image_url": "https://www.sonnyangel.com/renewal/wp-content/uploads/2026/09/img_sa_shuuemura_08.png",
+    "observed_features": "左正面狐帽红色、黑耳内、额上狐鼻、肤色脸侧视大眼、颊吻印；右背面尾巴与白翅膀。衣面金属反光不是本体轮廓。",
+    "boundary": "只描述实际打开原图可见角度，不补隐藏面或从URL推首发。",
+    "sources": [
+      "s3"
+    ],
+    "original_dimensions": [
+      2048,
+      1280
+    ],
+    "original_sha256": "e8b85d5109ac5e713ce8d74c3f709385192d104e90fc6aff7c1858519b0e91d2",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V02",
+    "title": "18cm早期人偶回顾",
+    "original_image_url": "https://www.sonnyangel.com/renewal/wp-content/uploads/2018/10/sa_original_image-1-300x200.jpg",
+    "observed_features": "坐姿，头顶卷发、睁眼，双臂上举、双腿朝前；不能把当前动物帽认作2004所有版本必需。",
+    "boundary": "只描述实际打开原图可见角度，不补隐藏面或从URL推首发。",
+    "sources": [
+      "s1"
+    ],
+    "original_dimensions": [
+      300,
+      200
+    ],
+    "original_sha256": "9c22838a9e23909f252777221d9c7743d3b5637faa2169f931cc8a76bb679c4f",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V03",
+    "title": "Creatures Cyril狐狸",
+    "original_image_url": "https://www.sonnyangel.com/renewal/wp-content/uploads/2022/05/img_creatures_figure01_n3.png",
+    "observed_features": "尖耳红狐狸帽有横向眼与长鼻，肤色小脸及红色竖纹衣身，侧有尾；衣身纹样来自联名转译，不判定实体为针织。",
+    "boundary": "只描述实际打开原图可见角度，不补隐藏面或从URL推首发。",
+    "sources": [
+      "s2"
+    ],
+    "original_dimensions": [
+      208,
+      414
+    ],
+    "original_sha256": "87a77c24704a328efbb4e699e3e4a3a6efa9b80e0fc4189c91fe4f160816ad75",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V04",
+    "title": "Looking Back附着结构示意",
+    "original_image_url": "https://www.sonnyangel.com/renewal/wp-content/uploads/2024/04/img_hippers_looking_back_02.png",
+    "observed_features": "蓝绿鼠帽、粉色耳内，转头、弯腿攀附边缘，背部胶面标注与白翅膀；这是结构说明插画，非同角度棚拍。",
+    "boundary": "只描述实际打开原图可见角度，不补隐藏面或从URL推首发。",
+    "sources": [
+      "s6"
+    ],
+    "original_dimensions": [
+      1000,
+      500
+    ],
+    "original_sha256": "22ce222d5ef9c7be59d0424d4e548457dff4c3a3039b784fe34d150ef3fb7801",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V05",
+    "title": "同联名蓝鹿对照",
+    "original_image_url": "https://www.sonnyangel.com/renewal/wp-content/uploads/2026/09/img_sa_shuuemura_07.png",
+    "observed_features": "蓝色帽与金属风格上衣、分叉鹿角，侧视脸和吻印延续；尾部造型与狐不同。",
+    "boundary": "只描述实际打开原图可见角度，不补隐藏面或从URL推首发。",
+    "sources": [
+      "s3"
+    ],
+    "original_dimensions": [
+      2048,
+      1280
+    ],
+    "original_sha256": "360ffc96849b03800deea57ad1863a9c662e25e15f04cf2868a362f5c2fd1285",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  }
+]

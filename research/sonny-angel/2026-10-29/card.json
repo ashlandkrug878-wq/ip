@@ -1,0 +1,396 @@
+{
+  "id": "sonny-angel",
+  "name": "Sonny Angel 颂尼天使",
+  "aliases": [
+    "ソニーエンジェル",
+    "趴趴天使"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-29",
+  "updated": "2026-10-29",
+  "summary": "用稳定的娃娃脸与变化头饰建立系列收藏，再以附着结构进入随身场景；交换是可见意向，未推断成交或复购率。",
+  "owner": {
+    "creator": null,
+    "operator": "Dreams Inc.／株式会社ドリームズ",
+    "relation": "官方品牌与版权署名Dreams。添谷彻常见于二级介绍，本轮未由原始作者署名确认其具体设计分工；联名设计与公司所有权分开。",
+    "sources": [
+      "s1",
+      "s2"
+    ]
+  },
+  "origin": {
+    "path": [
+      "产品先行"
+    ],
+    "year": 2004,
+    "story": "2004-05-15为18cm活眼人偶起点；2005迷你Animal系列是另一产品节点，不把2026当前Refine当首代规格。",
+    "sources": [
+      "s1",
+      "s2"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2004-05-15",
+      "event": "18cm活眼人偶诞生，官方回顾",
+      "type": "self_report",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "date": "2005",
+      "event": "动物头饰迷你系列起点",
+      "type": "self_report",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "date": "2022-06-28",
+      "event": "Donna Wilson Creatures计划发售",
+      "type": "self_report",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "date": "2024-05-23",
+      "event": "Looking Back附着/回头系列计划发售",
+      "type": "self_report",
+      "sources": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2025-01-17",
+      "event": "周年图鉴和两公仔套装零售",
+      "type": "fact",
+      "sources": [
+        "s8"
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "event": "Makeup Angel计划发售，地区或不同",
+      "type": "self_report",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "带着一点意外的快乐，安静地陪在你旁边。",
+    "sentence_type": "陪伴",
+    "basis": "inferred",
+    "sources": [
+      "s1"
+    ]
+  },
+  "core": {
+    "personality": "陪伴、安静、神秘小天使，非完整长篇人物传记",
+    "emotion": "内收",
+    "action": "原型站立，HIPPERS攀附回头；头饰更新而非每次换身份",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "桌面开盒、旅行拍照和手机边缘",
+    "behavior": "收同类头饰、补缺款、发布交换意向",
+    "state": "在重复日常中追求小惊喜和个人偏好清单",
+    "conflict": "随机获得与明确想要某款之间有落差，也可能催生交换与溢价",
+    "unsaid": "这是我偏爱的那一只，不必追全套。",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "迷你公仔收藏者、兔子等头饰主题爱好者、手机装饰者；性别年龄占比未知",
+    "where": "官方/授权店、陈列与交换社群",
+    "buy": "用户有高价入手自述，未核凭证；固定首选与出清可并存",
+    "signs": "侧视大眼、睫毛、微笑、婴儿体与头饰组合；Robby是独立友伴角色",
+    "share": "合照更新、系列清单和换款帖",
+    "breakout": "HIPPERS将陈列转为物件附着；新增销量贡献null"
+  },
+  "pendulum": {
+    "position": "甜美治愈",
+    "against": "低叙事门槛与随身陪伴可降低理解成本；不宣称这一情绪代表全市场趋势"
+  },
+  "form": {
+    "archetype": "类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "头顶",
+      "五官"
+    ],
+    "mark": "婴儿脸、侧视大眼白月牙、短眉睫毛、小笑、动物或食物头饰与小翅膀组合",
+    "face": "当前V01双眼间隔明显，黑瞳侧向、白眼角，睫毛向外，鼻为实物轻起伏、嘴很小",
+    "emotion": "内收",
+    "odd": "婴儿身体与动物头饰反差；衣服、肤色、姿态和年代并非全恒定",
+    "density": "中等",
+    "naming": "其他",
+    "group": "单角色"
+  },
+  "collide_combo": "借鉴“稳定身份＋系列变量”时，应重新设计脸部、头饰接口和身体关系，不整体搬用侧视婴儿脸、动物帽、裸娃与翅膀组合。",
+  "color": {
+    "mode": "多色系列",
+    "main": "浅肤色脸配多色头饰；本次锁定红狐联名",
+    "signature": "脸色与五官维持身份，帽色与服装配合系列主题",
+    "notes": "金属涂装反光不是插画固有色；旧款与各地区版本不得视为同一工艺"
+  },
+  "materials": "本轮当前Animal/Fruit/Looking Back/Makeup官方明列ATBC-PVC；不回推2004人偶材质。金属风格涂装不等于整体金属。附件胶有表面条件，未做耐久测试。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "授权图案"
+  },
+  "product": {
+    "first_category": "其他",
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "本轮当前日本单盒JPY1210—1650含税；周年书套JPY8800",
+    "sources": [
+      "s4",
+      "s5",
+      "s7",
+      "s8",
+      "s9"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "当前About设计种类自述",
+      "value": 1300,
+      "unit": "多种",
+      "period": "官网访问2026-10-29，累计设计非销量",
+      "type": "self_report",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "metric": "官方周年书收录商品",
+      "value": 1482,
+      "unit": "种",
+      "period": "2025限定图鉴，口径不同于About",
+      "type": "self_report",
+      "sources": [
+        "s8"
+      ]
+    },
+    {
+      "metric": "独立IP营收/净销量/交换成交率",
+      "value": null,
+      "unit": null,
+      "period": "截至2026-10-29",
+      "type": "hypothesis",
+      "sources": [
+        "s1",
+        "s10"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "固定脸部身份，让头饰成为可持续扩展的分类变量。",
+      "type": "inference",
+      "evidence": "官方访谈提到检查不同角度保留脸；Animal/Fruit与联名保持脸部语法。",
+      "boundary": "设计机制证据强；带来的商业增量未量化，长期用户也可能只追兔子。",
+      "sources": [
+        "s2",
+        "s5",
+        "s9",
+        "u2"
+      ]
+    },
+    {
+      "claim": "随机开盒与明确偏好之间的缺口，为交换和补款提供动机。",
+      "type": "inference",
+      "evidence": "店页注明随机/可能重复；实读换娃帖列持有与需求。",
+      "boundary": "官方规则强、用户样本弱；未核交易完成，不能称人人集齐或显著增加复购。",
+      "sources": [
+        "s4",
+        "s5",
+        "u2",
+        "u3"
+      ]
+    },
+    {
+      "claim": "让产品攀附物件，把收藏带入工作和随身场景。",
+      "type": "inference",
+      "evidence": "Looking Back的转头姿态与胶面说明，官方给出桌面/手机用途。",
+      "boundary": "用法可核；胶损耗、用户留存与触达增量未知。",
+      "sources": [
+        "s6",
+        "s7"
+      ]
+    }
+  ],
+  "counterexamples": "官方2023限购和2024仿品警告显示供给、倒卖与渠道信任成本；它们不证明真实销量或每件二手真伪。收藏帖同时有高价抱怨、收娃与不愿出售。用户标题的“鼻祖”“过气”“回春”均非市场统计，未核大规模衰退。",
+  "theory": {
+    "shell": "帽子不是唯一识别符，脸部语法与婴儿比例共同支撑",
+    "core": "轻陪伴而非密集剧情，用户自己命名偏好",
+    "shadow": "不要把裸娃、侧视脸、动物帽整套组合当通用模板",
+    "two_layers": {
+      "surface": "开盒惊喜与可爱陪伴",
+      "deep": "主题偏好、补缺与交流可能并行"
+    },
+    "validation": "有供给规则和交换意向，没有用户随机实验或复购数据"
+  },
+  "for_skills": {
+    "lab": "研究“未知惊喜”与“明确偏好”的冲突，先确认用户是否真的需要随机。",
+    "form": "为独立原创身份定义少量恒定轴，再给主题变化留接口；不可搬用其婴儿脸。",
+    "studio": "把物件接触面设计为使用情境，验证附着力、耐久与补款负担；本轮未开展开发。"
+  },
+  "gaps": [
+    "自然人初始设计分工与最早草稿未知；起点日期为官方回顾。",
+    "独立营收、净销量、复购率、收藏人群占比和二手成交数据null。",
+    "小红书实读3篇正文/可见评论，未逐张看完用户图；年份缺省不补推，交换意向不等于成交。",
+    "附图英文仅红狐版本正面头肩二维转译通过限定范围；眼睛略大、鼻更突出、残留浅色阶、衣摆裁切与胸图案不完整。",
+    "纯文字、中文、跨种子稳定性未测；没有3D/毛绒测试。",
+    "官网主页列表与详情价不同，采用2026-10-29详情价，历史首售价未知。"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "品牌起源与当前自述",
+      "url": "https://www.sonnyangel.com/en/about/",
+      "publisher": "Dreams",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2004-05-15先有18cm人偶；1300多种与33国为当前页面自述、非销量；页脚650多种口径陈旧不合并。"
+    },
+    {
+      "id": "s2",
+      "title": "Donna Wilson联名与创作过程访谈",
+      "url": "https://www.sonnyangel.com/creatures-series/",
+      "publisher": "Dreams",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2022-06-28计划发售；2005第一套动物迷你公仔；保留脸并多角度检查头饰，作者说法不作用户统计。"
+    },
+    {
+      "id": "s3",
+      "title": "Makeup Angel发售公告",
+      "url": "https://www.sonnyangel.com/en/2026/09/17/sonny-angel-shuuemura/",
+      "publisher": "Dreams",
+      "published": "2026-09-17",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2026-10-22计划上市，5款/6盒组合可能重复，地区日期不同。"
+    },
+    {
+      "id": "s4",
+      "title": "Makeup Angel当前官方日本店规格",
+      "url": "https://www.sonnyangelstore.com/en/products/shuuemura_makeupangel",
+      "publisher": "Dreams",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "SAS67529，含税1650JPY；主页列表1540与详情不一致，采用详情并保留差异。"
+    },
+    {
+      "id": "s5",
+      "title": "Animal Ver.1 Refine官方规格",
+      "url": "https://www.sonnyangelstore.com/en/collections/all/products/animal-series-ver-1",
+      "publisher": "Dreams",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "1210JPY含税、ATBC-PVC、75—100mm；12款与隐藏，不保证一端全。"
+    },
+    {
+      "id": "s6",
+      "title": "Looking Back公告",
+      "url": "https://www.sonnyangel.com/en/2024/04/26/hippers-lookingback/",
+      "publisher": "Dreams",
+      "published": "2024-04-26",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "5月23日计划上市、20周年、转头附着结构。"
+    },
+    {
+      "id": "s7",
+      "title": "Looking Back日本店规格",
+      "url": "https://www.sonnyangelstore.com/en/products/hipperslookingback",
+      "publisher": "Dreams",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "1430JPY、ATBC-PVC、63—94mm高，胶的附着力取决于表面。"
+    },
+    {
+      "id": "s8",
+      "title": "20周年书与双公仔限定套装",
+      "url": "https://www.sonnyangelstore.com/products/20th-anniversary-limited-edition",
+      "publisher": "Dreams",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2025-01-17正午发售，8800JPY含税，A5/196页，1482种商品档案非销量。"
+    },
+    {
+      "id": "s9",
+      "title": "Fruit系列日本店规格",
+      "url": "https://www.sonnyangelstore.com/en/products/fruit-series-2019",
+      "publisher": "Dreams",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "当前1210JPY含税，ATBC-PVC，H75—100mm；URL的2019不是已核首售日。"
+    },
+    {
+      "id": "s10",
+      "title": "非授权倒卖与限购通知",
+      "url": "https://www.sonnyangelstore.com/en/blogs/news/notice_unauthorized_purchases",
+      "publisher": "Dreams",
+      "published": "2023-07-28",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "官方承认倒卖与假货风险并加强限购；二倍叫价不是成交或官方营收。"
+    },
+    {
+      "id": "s11",
+      "title": "HIPPERS仿品警示",
+      "url": "https://www.sonnyangel.com/en/2024/07/19/hippers-notice/",
+      "publisher": "Dreams",
+      "published": "2024-07-19",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "仿品流通为官方警告，不鉴定本轮用户单件商品。"
+    },
+    {
+      "id": "u1",
+      "title": "每天认识一个新品牌",
+      "url": "https://www.xiaohongshu.com/explore/686f70c4000000001c035ffd",
+      "publisher": "每天认识一个品牌",
+      "published": "2025-07-10",
+      "observed": "2026-10-29",
+      "access": "partial",
+      "supports": "实读正文；其年龄比例、复购率提升与盲盒开创说法缺原始证据，不采为事实。"
+    },
+    {
+      "id": "u2",
+      "title": "有些收藏一旦开始就停不下来",
+      "url": "https://www.xiaohongshu.com/explore/6a27ed42000000002101443c",
+      "publisher": "littlefatsheep",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "partial",
+      "supports": "显示编辑于08-11；正文偏好兔兔，评论询价、收娃、嫌贵和作者不出兔子；不是订单或随机样本。"
+    },
+    {
+      "id": "u3",
+      "title": "樱花趴趴系列换娃",
+      "url": "https://www.xiaohongshu.com/explore/69bab115000000001f0052bb",
+      "publisher": "排骨IVAN",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "partial",
+      "supports": "显示03-18；正文用圈色表明持有款/欲换款，可见评论出小鹿/原价出猫鸭。未读图上全部款别，未核交换完成。"
+    }
+  ],
+  "archive": "research/sonny-angel/2026-10-29/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/sonny-angel/2026-10-29/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/sonny-angel/2026-10-29/"
+}
