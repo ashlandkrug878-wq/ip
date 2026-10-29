@@ -24,10 +24,10 @@
     "prompt_en": "Original designer toy character: a small creature fused with a round charcoal briquette — the head is that slightly flattened charcoal ball, no neck, the body only a short milk-yellow plush stub beneath it. The ball is about 62 percent of the height. Two short slit eyes in the lower third, widely spaced, no mouth. Seated on two round feet, no arms. Body is short plush; only the head is matte unglazed ceramic, with one short ember-orange crack that does not cross the eyes. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.Do not make the charcoal a handheld prop, no wounds or soot smeared on a face, no flames, no human face or hair.",
     "prompt_zh": "原创潮玩角色，小兽和一颗圆炭长在一起：头就是那颗微平的圆炭，没有脖子，身子只是炭下面一小节奶黄短绒。炭球约占全高百分之六十二。两只眯成短线的眼在炭球下三分之一，间距宽，没有嘴。坐着，两只圆脚分开，没有手臂。身体是短绒，只有头是哑光无釉陶，表面一条短的余烬橙色裂缝，不穿过眼睛。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要把炭画成能拿起来的道具，不要伤口和黑灰糊脸，不要火焰，不要人类的脸和头发。",
     "size": "1024x1024",
-    "status": "pending",
-    "output": "images/star-huangjingyu-e1-A2/lineart-01.png",
+    "status": "done",
+    "output": "images/star-huangjingyu-e1-A2/lineart-01.webp",
     "created": "2026-10-28",
-    "note": ""
+    "note": "ChatGPT 明星出图"
   },
   {
     "id": "star-huangjingyu-e1-A3-lineart-01",
