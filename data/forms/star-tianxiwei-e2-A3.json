@@ -1,0 +1,81 @@
+{
+  "ip": "star-tianxiwei-e2",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "肩后一扇郁金香披风",
+  "species": "郁金香",
+  "axes": {
+    "archetype": "物件生物，郁金香",
+    "silhouette": "小身体加一扇拖到脚边的瓣",
+    "mark": "肩后 · 一扇闭合的植绒郁金香瓣",
+    "face": "宽距小横眼，无嘴，面无表情",
+    "emotion": "面无表情",
+    "fusion": "物件是披风：肩后的花瓣拖成轮廓，拿掉它剪影就没了",
+    "material": "主体深叶绿短绒，只有披风是米白植绒",
+    "palette": "深叶绿配米白"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "小圆头，没有花冠堆在头顶，两只极短的侧耳",
+  "combo": "深叶绿小圆头 + 肩后一扇米白闭合花瓣 + 宽距小横眼 + 瓣下沿落在脚边",
+  "odd": "花瓣比身体宽，却是合上的",
+  "line": "",
+  "why": "落点是这扇已经合好的瓣，不是一把散开的花。郁金香来自小红书的花符号，用钝瓣，不带刺。",
+  "spec": {
+    "proportion": "头约占全高 35%，披风宽约身体的 1.6 倍",
+    "outline": "小身体，身后一扇下宽的闭合瓣",
+    "volume": "大：植绒披风；小：头、短臂和脚",
+    "face": "小横眼在头高中部，间距约两个眼宽，无嘴",
+    "stance": "站着，短臂内收贴在身前，脚分开半步站稳",
+    "structure": "花瓣从肩胛长出，下沿堆在脚边，没有刺，没有第二朵"
+  },
+  "toy_check": "站得住：脚分开，披风下沿也落地。物件长进去：瓣是披风。特殊材质只有植绒。新组合：郁金香瓣长成披风。不像绘本。头像要裁到肩后的瓣根。做得成：厚瓣，不透。姿态：站着但臂是收的，不是垂手立正。",
+  "crop": "记忆点在肩后。头像若只裁脸会丢披风，瓣根要进入头像。",
+  "collide": "不同于头上长草或头顶一朵花：花不在头顶，是身后一扇合上的瓣。也不同于带刺的枝。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "花被画成手里的一束"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "加上刺"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "瓣太薄像纸"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩绿身体"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后必须仍是肩后这扇闭合的瓣"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只小兽和一朵郁金香长在一起：肩后一扇闭合的植绒花瓣拖成披风，下沿落在脚边，没有刺，没有第二朵，拿掉披风轮廓就没了。头是小圆，约占全高百分之三十五，两只极短侧耳。宽距的小横眼，间距约两个眼宽，没有嘴，面无表情。站着，短臂内收，脚分开半步站稳。身体是深叶绿短绒，只有披风是米白植绒。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要把花拿在手里，不要刺，不要薄纸片，不要人类的脸、头发和衣服，不要头顶再加一朵花。",
+  "enp": "Original designer toy character: a small creature fused with a tulip — one closed flocked petal grows from the shoulder blade into a cape, its hem pooling by the feet, no thorns and no second flower, so the silhouette fails without it. Small round head about 35 percent of the height, two very short side ears. Widely spaced short eyes about two eye-widths apart, no mouth, a blank face. Standing, short arms held in, feet a half-step apart and planted. Deep leaf-green short plush; only the cape is cream flocking. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo.  No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. Do not put the flower in the hands, no thorns, no paper-thin petals, no human face, hair or clothes, no extra flower on the crown. ",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-29",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：花不在头顶当头饰，而是身后的披风。识别：一扇合上的米白瓣。不普通：没有这扇瓣剪影就散。材质只有植绒，厚，不带刺，不会看着疼。深叶绿对米白。组合少见，瓣比身体宽。",
+  "pose": "站着，短臂内收"
+}

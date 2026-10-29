@@ -1,0 +1,81 @@
+{
+  "ip": "star-tianxiwei-e3",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "脸缩在橘粉糖霜环里",
+  "species": "甜甜圈",
+  "axes": {
+    "archetype": "物件生物，甜甜圈",
+    "silhouette": "一个环",
+    "mark": "躯干 · 深可可短绒环，外侧一棱橘粉糖霜",
+    "face": "环心里眯成线的眼，无嘴",
+    "emotion": "内收，瘫着",
+    "fusion": "物件是壳：环包住脸，脸在孔里，拿掉环就没有身体",
+    "material": "环内和脸是短绒，只有外侧一棱是橘粉亮面搪胶",
+    "palette": "深可可配橘粉"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "没有头顶的装饰，脸缩在环心，两只极短的耳从环上沿露出",
+  "combo": "深可可环 + 环心眯缝眼 + 外侧一棱橘粉糖霜 + 短脚从环下伸出",
+  "odd": "环比脸大一圈，糖霜只占一条棱",
+  "line": "",
+  "why": "干饭和甜甜圈符号落成这只环。橘粉 #FC7965 是应援色的近似，不是官方色号，只放在糖霜棱上，不铺满。",
+  "spec": {
+    "proportion": "环的外径约是脸宽的 2.2 倍，全高略大于环",
+    "outline": "一个圆环，脸在孔中",
+    "volume": "大：短绒环和糖霜棱；小：环心的脸和环下的短脚",
+    "face": "眼在孔心，眯成两条短线，无嘴",
+    "stance": "瘫坐，短脚从环下伸出，身体陷在环里",
+    "structure": "糖霜棱包在环的外缘，孔壁是绒，拿掉环脸就没有着落"
+  },
+  "toy_check": "站得住：环底是宽的。物件长进去：环是壳。特殊材质只有外侧那条糖霜。新组合：脸住在甜甜圈孔里。不像绘本。头像还剩环和孔心的眼。做得成：厚环，不是细圈。姿态：瘫坐，不是立正。",
+  "crop": "记忆点是这个环。头像裁到环的上半仍能认出孔和糖霜。",
+  "collide": "不同于手里拿着点心的动物：环就是身体。也不同于全身亮面糖块：只有一棱是搪胶，其余是深色短绒。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "环被画成手里的食物"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "全身变成糖"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "加上笑脸"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时孔糊死"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换掉橘粉后必须仍是这条外棱"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只小兽和一只甜甜圈长在一起：身体是一个深可可短绒圆环，脸缩在孔里，环的外径约是脸宽的两倍多，拿掉环就没有身体。环心是眯成线的眼，没有嘴，两只极短的耳从环上沿露出。瘫坐，短脚从环下伸出。环是短绒，只有外侧一棱是橘粉亮面糖霜。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要把环拿在手里，不要全身变成糖或透明，不要文字，不要人类的脸、头发和衣服，不要把橘粉铺满整个环。",
+  "enp": "Original designer toy character: a small creature fused with a doughnut — the body is a deep-cocoa plush ring, the face tucked in the hole, the outer diameter a little more than twice the face width, so the body fails without the ring. Slit eyes in the hole, no mouth, two very short ears peek above the ring. Slumped and seated, short feet under the ring. The ring is short plush; only the outer ridge is glossy coral-pink frosting. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo.  No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. Do not put the ring in the hands, do not make the whole body sugar or transparent, no text, no human face, hair or clothes, do not cover the whole ring in coral pink. ",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-29",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：不是拿点心的动物，也不是全身糖块。识别：深色环心一张眯眼，外面一条橘粉棱。不普通：没有这个环就没有身体。材质只有一棱糖霜，和环对应，不会两块材质打架。深可可对橘粉，对比清楚。组合少见，环比脸大。",
+  "pose": "瘫坐"
+}

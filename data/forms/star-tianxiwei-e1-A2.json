@@ -1,0 +1,81 @@
+{
+  "ip": "star-tianxiwei-e1",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "肚子是一块铸铁圆饼的狸花猫",
+  "species": "狸花猫",
+  "axes": {
+    "archetype": "物件生物，狸花猫",
+    "silhouette": "团子，腹前一块圆饼",
+    "mark": "腹部 · 和身体长成一块的铸铁圆饼",
+    "face": "眯成短缝的眼，间距约一个眼宽，无嘴",
+    "emotion": "内收，放空",
+    "fusion": "物件就是身体：圆饼是腹部，没有杆也没有手柄",
+    "material": "主体灰褐短绒，只有圆饼是哑光铸铁",
+    "palette": "灰褐配铁黑"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "横宽的短脸，两只小圆耳贴在头侧，脸是干净的浅米色，没有细纹",
+  "combo": "浅米脸加灰褐背 + 腹前一块无柄铸铁圆饼 + 眯缝眼 + 铁黑对灰褐",
+  "odd": "圆饼比脸宽，脸上却没有嘴",
+  "line": "",
+  "why": "分量安在肚子上。圆饼是钝的铁，不是杠铃，也不是她要避开的运动员形象。狸花只做成两大块颜色，不在脸上画细纹。",
+  "spec": {
+    "proportion": "全高约等于身宽，脸占全高上部 28%",
+    "outline": "圆团腹前凸出一块圆饼，直径约团子的 75%",
+    "volume": "大：铸铁圆饼；中：短绒身体；小：两耳和短脚",
+    "face": "眼在头高下三分之一，眯成短缝，无嘴，脸上留白",
+    "stance": "坐着，短脚前伸，重心落在圆饼下沿",
+    "structure": "圆饼嵌进腹部，没有杆、没有孔、没有手柄"
+  },
+  "toy_check": "站得住：坐在厚圆饼上。物件长进去：饼是腹。特殊材质只有铸铁，和饼对应。新组合：猫的肚子是一块无柄铁饼。不像绘本：无笑无大眼。头像还剩铁饼上沿和眯缝。做得成：厚饼圆角。姿态：坐，不是立正。",
+  "crop": "记忆点在腹部。头像需裁到铁饼上沿。",
+  "collide": "不同于白脸无嘴加领结的猫：有身体色块，嘴的位置是空的但记忆点是铁饼，不是领结。也不同于手里举着器械的动物。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "圆饼被画成手里的盘"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "加上长杆变成器械"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "脸上被加细纹"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时眼和饼抢"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换金属后必须仍是腹前这块无柄圆饼"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只狸花猫和一块铁饼长在一起：腹前的厚圆角铸铁圆饼就是肚子，没有杆、没有孔、没有手柄，拿掉它腹部就空。全高约等于身宽，脸只占上部不到三分之一。两只小圆耳贴在头侧。眼睛眯成短缝，间距约一个眼宽，没有嘴。脸是干净的浅米色，背上是一块灰褐，不要细纹。坐着，短脚前伸。身体是短绒，只有圆饼是哑光铸铁。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要把饼画成手里的盘子，不要长杆和孔，不要脸上的细纹，不要人类的脸、头发和衣服，不要肌肉。",
+  "enp": "Original designer toy character: a tabby cat fused with an iron disc — the belly is a thick rounded cast-iron disc with no bar, no hole and no handle, set into the plush so the body fails without it. Height about equal to the body width, the face under a third of the height. Two small round ears lie flat. Eyes are short slits about one eye-width apart, no mouth. The face is plain cream, the back one warm-grey block, no fine stripes. Seated, short feet forward. Short plush; only the disc is matte cast iron. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo.  No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. Do not put the disc in the hands, no bar and no hole, no fine stripes on the face, no human face, hair or clothes, no muscles. ",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-29",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：不是白猫领结，也不是拿器械的动物，铁饼长进腹部。识别：无柄黑饼加眯缝眼。不普通：没有这块铁就不是它。材质只有铸铁，圆角，不做成会疼的棱。灰褐对铁黑。组合少见，饼比脸宽。",
+  "pose": "坐着"
+}

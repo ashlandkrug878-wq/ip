@@ -1,0 +1,81 @@
+{
+  "ip": "star-tianxiwei-e2",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "头是一颗黄釉柠檬",
+  "species": "柠檬",
+  "axes": {
+    "archetype": "物件生物，柠檬",
+    "silhouette": "头身一体，头顶一颗果",
+    "mark": "头部 · 一颗黄釉柠檬就是头",
+    "face": "半闭眼，眼皮盖住大半，极小的偏一侧的短嘴",
+    "emotion": "内收，酸完了坐住",
+    "fusion": "物件就是头：柠檬是头，没有脖子",
+    "material": "身体深橄榄短绒，只有头是黄釉",
+    "palette": "柠檬黄配深橄榄"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头就是一颗微微带尖但尖被磨圆的柠檬，身体从果底长出来",
+  "combo": "黄釉柠檬头 + 半闭眼在果的下三分之一 + 深橄榄小身体 + 柠檬黄对深橄榄",
+  "odd": "头又大又酸，身体却坐得很死",
+  "line": "",
+  "why": "先冲的那一下是这颗果，落点是坐实的深橄榄身体。来自她讲过的一口浓缩汁，不画杯子和人。",
+  "spec": {
+    "proportion": "柠檬头约占全高 60%，身体是下面一小团",
+    "outline": "一颗圆果坐在一小团绒上",
+    "volume": "大：釉面果；小：绒身体和两只短脚",
+    "face": "眼在果子下三分之一，上眼皮盖住大半，嘴是眼下一条偏左的短线",
+    "stance": "坐实在深橄榄短绒身体上，上身略前，臀不离开",
+    "structure": "果蒂的位置收成一个小圆，不长叶子，身体从果底嵌出"
+  },
+  "toy_check": "站得住：坐在宽身体上。物件长进去：果是头。特殊材质只有黄釉。新组合：坐住的柠檬头。不像绘本：不笑、不跳。头像就是这颗果。做得成：厚果，没有叶子薄片。姿态：坐实，不是立正。",
+  "crop": "记忆点在头部。",
+  "collide": "不同于贴着笑脸的水果贴纸：没有叶子，没有笑，眼是半闭的，身体是坐实的绒。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成手里的水果"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "加上叶子和笑脸"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "身体站起来跑"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时釉面反光吃掉眼睛"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换果色后必须仍是这个半闭的头"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只小兽和一颗柠檬长在一起：头就是一颗黄釉柠檬，没有脖子，没有叶子，尖被磨圆，身体只是果底下一小团深橄榄短绒。果约占全高百分之六十。半闭的眼在果子下三分之一，眼皮盖住大半，嘴是一条偏左的短线。坐实，上身略前，臀不离开。身体是深橄榄短绒，只有头是黄釉。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要把果画成手里的道具，不要叶子和笑脸，不要人类的脸、头发和衣服，不要杯子。",
+  "enp": "Original designer toy character: a small creature fused with a lemon — the head is one glazed lemon, no neck and no leaves, the tip rounded off, the body only a small deep-olive plush lump under the fruit. The fruit is about 60 percent of the height. Half-closed eyes in the lower third, lids covering most of the eye, a tiny mouth shifted left. Seated firmly, torso tipped slightly forward, hips planted. Short plush; only the head is yellow glaze. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo.  No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. Do not put the fruit in the hands, no leaves and no smile, no human face, hair or clothes, no cup. ",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-29",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：不是笑脸水果贴纸，没有叶子。识别：半闭的釉面果头。不普通：没有这颗果就没有头。材质只有黄釉，尖是圆的。柠檬黄对深橄榄。组合少见，果比身体大。",
+  "pose": "坐实"
+}

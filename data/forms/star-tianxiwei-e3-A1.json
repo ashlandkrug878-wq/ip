@@ -1,0 +1,81 @@
+{
+  "ip": "star-tianxiwei-e3",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "头是一顶浆硬厨师帽",
+  "species": "厨师帽",
+  "axes": {
+    "archetype": "物件生物，厨师帽",
+    "silhouette": "高帽子加一小团身体",
+    "mark": "头部 · 一顶浆硬白帽就是头",
+    "face": "帽檐下两只半垂小黑豆眼，极短一字嘴",
+    "emotion": "内收，安静",
+    "fusion": "物件就是头：帽子是头，不是戴在人头上",
+    "material": "身体暖白短绒，只有帽子是浆硬的白棉",
+    "palette": "暖白配深咖，帽檐一条橘粉签名"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "没有人脸，头就是帽筒，帽檐下才有眼睛",
+  "combo": "高白帽筒 + 帽檐下半垂豆眼 + 一条橘粉缝 + 深咖小身体",
+  "odd": "帽子比身体高，脸上几乎没有五官",
+  "line": "",
+  "why": "人还小，先把帽子长出来。帽子是头，不是穿在小孩身上的制服。橘粉只缝在帽檐，是应援色的近似，不是官方色号，也不铺满。",
+  "spec": {
+    "proportion": "帽高约占全高 55%，身体是帽檐下的一小团",
+    "outline": "一个高帽筒坐在小团上",
+    "volume": "大：浆硬帽筒；小：绒身体和短脚",
+    "face": "眼在帽檐下缘，半垂豆眼，间距约一个眼宽，嘴是更下面的一条短线",
+    "stance": "坐着，没有手臂，短脚前伸",
+    "structure": "帽筒从身体里长出，帽檐是一圈硬边，没有人头藏在里面"
+  },
+  "toy_check": "站得住：坐在宽身体上。物件长进去：帽是头。特殊材质只有浆硬棉。新组合：角色的头是厨师帽。不像绘本：不笑、不穿衣。头像就是这顶帽。做得成：厚帽筒。姿态：坐，不是立正。",
+  "crop": "记忆点在头部。",
+  "collide": "不同于穿白制服的小人：没有人体，没有衣服，帽子本身是头。也不同于仅在头顶扣一顶可摘的帽。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "帽子戴在人头上"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "画成全身制服"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "帽上写出文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩白柱"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换布料后必须仍是这个高帽头"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只小兽和一顶厨师帽长在一起：头就是一顶高高的浆硬白帽，没有人脸藏在里面，帽檐下只有两只半垂的小黑豆眼和一条极短的嘴。帽高约占全高百分之五十五，身体是帽檐下一小团深咖短绒，没有手臂。坐着，短脚前伸。身体是短绒，只有帽子是浆硬白棉，帽檐缝一条窄的橘粉。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要把帽子戴在人头上，不要制服和围裙，不要文字，不要人类的脸、头发和衣服，不要把橘粉铺满全身。",
+  "enp": "Original designer toy character: a small creature fused with a chef's hat — the head is the tall starched white hat itself, no human face inside it, only two half-lidded black bead eyes and a tiny straight mouth under the brim. The hat is about 55 percent of the height, the body a small deep-brown plush lump beneath, no arms. Seated, short feet forward. Short plush; only the hat is starched white cotton, with one narrow coral-pink stitch along the brim. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo.  No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. Do not put the hat on a human head, no uniform and no apron, no text, no human face, hair or clothes, do not cover the whole body in coral pink. ",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-29",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：不是穿制服的小人，帽就是头。识别：高白帽筒加帽檐下的半垂眼。不普通：没有这顶帽就没有头。材质只有浆硬棉，帽檐一条橘粉是签名色不是第二种硬材质。暖白对深咖。组合少见，帽比身体高。",
+  "pose": "坐着"
+}

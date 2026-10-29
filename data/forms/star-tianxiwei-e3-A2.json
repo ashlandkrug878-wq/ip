@@ -1,0 +1,81 @@
+{
+  "ip": "star-tianxiwei-e3",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "铲面就是身体的圆兽",
+  "species": "锅铲",
+  "axes": {
+    "archetype": "物件生物，锅铲",
+    "silhouette": "一条宽铲",
+    "mark": "躯干 · 圆角搪瓷铲面就是身体",
+    "face": "细线眼，无嘴，位于铲面上部",
+    "emotion": "内收，安静",
+    "fusion": "物件就是身体：圆角铲面嵌进躯干正面，背面和两侧仍是短绒",
+    "material": "主体墨色短绒，只有正面铲面是白搪瓷",
+    "palette": "搪瓷白配墨，铲边一条橘粉签名"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "没有独立的头，脸嵌在铲面上部，没有耳朵",
+  "combo": "宽圆角白铲 + 上部细线眼 + 背后短钝凸起 + 墨色绒脸对白铲",
+  "odd": "铲面比脸宽两倍，柄却短到不能拿",
+  "line": "",
+  "why": "先把灶热上，落成嵌进肚子的这张钝铲。四角全圆，没有刃。背面仍是绒，所以不是一块铁片。橘粉只是边上一圈。",
+  "spec": {
+    "proportion": "铲面宽约是脸宽的 2 倍，全高约是铲宽的 1.2 倍",
+    "outline": "一张宽的圆角铲，上沿有一小块脸",
+    "volume": "大：搪瓷铲面；小：绒脸、背后短凸起和两只短脚",
+    "face": "细线眼在铲面上三分之一，无嘴",
+    "stance": "坐在铲面下沿，短脚前伸",
+    "structure": "铲面嵌进躯干正面，背面和两侧是绒；柄只剩背后一个不超过脸宽三分之一的圆凸"
+  },
+  "toy_check": "站得住：铲面下沿是宽坐面。物件长进去：铲是躯干。特殊材质只有搪瓷。新组合：角色是一把不能拿的钝铲。不像绘本。头像要包含铲的上沿。做得成：厚搪瓷，圆角。姿态：坐，不是立正。",
+  "crop": "记忆点在躯干。头像需裁进铲面，否则没有脸的着落。",
+  "collide": "不同于手里拿铲的动物：没有手，柄短到不能握，铲面就是身体。也不同于第一张卡的铁饼：这是宽铲，白搪瓷，不是黑圆饼。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "铲被拿在手里"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "柄画成长刃"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "四角变尖"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩一条线"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换釉色后必须仍是这张宽铲身体"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只小兽和一把锅铲长在一起：宽圆角的白搪瓷铲面就是躯干，比脸宽两倍，四角全圆，没有刃。柄只剩背后一个短钝的圆凸，不伸出。脸嵌在铲面上部，细线眼，没有嘴，没有耳朵。坐在铲面下沿，短脚前伸。背面和两侧是墨色短绒，只有正面铲面是白搪瓷，边上一圈很窄的橘粉。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要把铲拿在手里，不要长柄和刃，不要尖角，不要人类的脸、头发和衣服，不要把橘粉铺满。",
+  "enp": "Original designer toy character: a small creature fused with a spatula — the torso is a wide white enamel blade with fully rounded corners, twice as wide as the face, no sharp edge. The handle is only a short blunt nub on the back, not long enough to hold. The face sits in the upper part of the blade, slit eyes, no mouth, no ears. Seated on the lower edge, short feet forward. The back and sides are ink-black short plush; only the front blade is white enamel, with one very narrow coral-pink rim. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo.  No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. Do not put the spatula in a hand, no long handle and no cutting edge, no sharp corners, no human face, hair or clothes, do not cover it in coral pink. ",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-29",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：不是拿铲子的动物，铲面就是身体。识别：宽圆角白铲加细线眼。不普通：没有这张铲就没有躯干。材质只有搪瓷，角是圆的，不像会割人。白对墨，橘粉只是细边。组合少见，铲比脸宽两倍。",
+  "pose": "坐在铲面上"
+}

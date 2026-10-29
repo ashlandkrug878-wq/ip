@@ -1,0 +1,81 @@
+{
+  "ip": "star-tianxiwei-e1",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "头是一块方圆玉的小兽",
+  "species": "青白玉",
+  "axes": {
+    "archetype": "物件生物，青白玉",
+    "silhouette": "大头小身，头是一块石头",
+    "mark": "头部 · 一块方圆青白玉就是头",
+    "face": "压低的小横眼，眼距略宽，无嘴",
+    "emotion": "内收，面无表情",
+    "fusion": "物件就是头：玉是头，下面是短绒身体",
+    "material": "主体墨色短绒，只有头是抛光青白玉",
+    "palette": "青白配墨"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头就是一块方圆玉，没有耳朵，身体从玉底长出",
+  "combo": "方圆玉头 + 压低的宽距小横眼 + 墨色短绒小身体 + 青白对墨",
+  "odd": "头是一整块石头，身体却很小",
+  "line": "",
+  "why": "又硬又温落成这颗能坐稳的玉头。身体是绒，所以它仍是角色，不是一块摆件。和背后嵌玉的小熊不是同一个轮廓。",
+  "spec": {
+    "proportion": "玉头约占全高 58%，墨色身体在下面",
+    "outline": "一块方圆石头坐在一小团绒上",
+    "volume": "大：玉头；小：绒身体和两只短脚",
+    "face": "眼在玉头下三分之一，平直眼皮压住小横眼，间距约一个半眼宽，无嘴",
+    "stance": "坐在短绒身体上，没有手臂",
+    "structure": "身体从玉底嵌出，拿掉玉就没有头"
+  },
+  "toy_check": "站得住：坐在绒身体上。物件长进去：玉是头。特殊材质只有玉，身体是绒。新组合：头是一块方圆玉。不像绘本。头像就是这块玉。做得成：厚石头，圆角。姿态：坐，不是立正。",
+  "crop": "记忆点在头部。",
+  "collide": "不同于背后嵌玉板的小熊：这里没有熊耳，玉就是头。也不同于果冻：玉是实心的，只有头这一处。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成小动物戴玉坠"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "玉变成全透明"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "加上耳朵和笑脸"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时身体盖过玉头"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换石色后必须仍是这块方圆头"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只小兽和一块玉长在一起：头就是一块方圆青白玉，没有耳朵，没有手臂，身体只是玉底下一小团墨色短绒。玉头约占全高百分之五十八。压低的小横眼在玉的下三分之一，间距约一个半眼宽，没有嘴。坐着。身体是墨色短绒，只有头是抛光青白玉，边是圆的，不透明。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要画成戴玉坠的小动物，不要全透明，不要耳朵和手臂，不要人类的脸、头发和衣服，不要尖角。",
+  "enp": "Original designer toy character: a small creature fused with jade — the head is one rounded block of pale jade, no ears and no arms, the body only a small ink-black plush lump under the stone. The jade head is about 58 percent of the height. Low straight eyes in the lower third, about one and a half eye-widths apart, no mouth. Seated. The body is ink-black short plush; only the head is polished opaque pale jade with rounded edges. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. Do not make it an animal wearing a jade pendant, not fully transparent, no ears and no arms, no human face, hair or clothes, no sharp corners.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-29",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：不是背饰，也不是小熊那块背板，玉就是头。识别：方圆石头加一条横眼。不普通：没有这块玉就没有头。材质只有实心玉，身体是绒，不做成又冰又疼的薄片。青白对墨。组合少见，头比身体大。",
+  "pose": "坐在短绒身体上"
+}

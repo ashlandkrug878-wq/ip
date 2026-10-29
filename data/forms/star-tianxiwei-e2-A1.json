@@ -1,0 +1,81 @@
+{
+  "ip": "star-tianxiwei-e2",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "一只前爪是陶做的敬礼",
+  "species": "狸花猫",
+  "axes": {
+    "archetype": "物件生物，狸花猫",
+    "silhouette": "大头小身，一侧抬起一块钝爪",
+    "mark": "身侧 · 举到耳旁的并拢陶爪",
+    "face": "无高光的小圆点眼，眼距正常，无嘴",
+    "emotion": "内收，定住",
+    "fusion": "物件是长出来的结构：一只前肢就是并拢的陶爪，不是戴上的手套",
+    "material": "主体暖灰短绒，只有举起的那只爪是哑光陶",
+    "palette": "暖灰配浅赭"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "圆头略宽，两只短耳，脸干净，没有胡须",
+  "combo": "暖灰圆头 + 耳侧一块三趾并拢的浅赭陶爪 + 无高光圆点眼 + 脚并拢",
+  "odd": "爪停在耳侧，脚却完全不动",
+  "line": "",
+  "why": "先伸出去的是这只爪，停在耳侧，不再挥。三趾并成一块钝掌，对应敬礼的并拢，不画成人手。",
+  "spec": {
+    "proportion": "头高约占全高 45%，身体短",
+    "outline": "大头小身，一侧一块钝爪高过耳朵",
+    "volume": "大：头和陶爪；小：身体、另一只收着的短肢、两只并拢的脚",
+    "face": "圆点眼在头高中部，没有高光，无嘴",
+    "stance": "站着，两脚并拢踩实，一只爪举到耳侧停住，另一只收在胸前",
+    "structure": "陶爪从肩部长出，三只短圆趾合成一块，拿掉这只爪姿态就没了"
+  },
+  "toy_check": "站得住：两脚并拢，底是平的。物件长进去：爪是前肢。特殊材质只有这只陶爪。新组合：敬礼长成一只陶肢。不像绘本：不挥、不笑。头像还剩耳侧的爪。做得成：厚陶，圆趾。姿态：站住但不是垂手立正。",
+  "crop": "记忆点在头旁。头像能裁到举起的爪。",
+  "collide": "不同于挥手的吉祥物：爪是陶的、并成一块、脚不动、没有笑。也不同于第一张卡那只肚子是铁饼的猫。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "爪被画成手套或人手"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "脚画成在走"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "加上挥动的残影"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时爪离开头"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换陶的颜色后必须仍是耳侧这块并拢的爪"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只狸花猫和一只陶爪长在一起：一侧前肢就是一块并拢的钝陶爪，三只短圆趾合成一块，举到耳侧停住，另一肢收在胸前，拿掉这只爪姿态就没了。头高约占全高百分之四十五，两只短耳，脸干净，没有胡须。无高光的小圆点眼，没有嘴。站着，两脚并拢踩实。身体是暖灰短绒，只有举起的爪是浅赭色哑光陶。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要画成手套或人手，不要走路和挥舞，不要残影，不要人类的脸、头发和衣服，不要细长的趾。",
+  "enp": "Original designer toy character: a tabby cat fused with a ceramic paw — one forelimb is a single blunt ceramic paw, three short round toes fused into one mass, held still beside the ear, the other limb tucked to the chest, so the pose fails without it. Head about 45 percent of the height, two short ears, a plain face, no whiskers. Small round eyes with no highlight, no mouth. Standing, both feet together and planted. Warm-grey short plush; only the raised paw is matte pale-ochre ceramic. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo.  No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. Do not make the paw a glove or a human hand, no walking and no waving, no motion blur, no human face, hair or clothes, no thin toes. ",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-29",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：不是挥手吉祥物，爪是长出来的陶。识别：耳侧一块并拢的爪。不普通：没有这只爪就没有这个停顿。材质只有陶，圆趾，不做成会疼的指节。暖灰对浅赭。组合少见，爪比另一侧大。",
+  "pose": "单爪举起，脚并拢"
+}

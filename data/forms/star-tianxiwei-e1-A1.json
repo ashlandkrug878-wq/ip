@@ -1,0 +1,81 @@
+{
+  "ip": "star-tianxiwei-e1",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "背上一块比身体宽的玉板小熊",
+  "species": "小熊玩偶",
+  "axes": {
+    "archetype": "物件生物，小熊玩偶",
+    "silhouette": "团子，背后一块宽板",
+    "mark": "背后 · 比身体宽的圆角青白玉板",
+    "face": "半垂小黑豆眼，眼距约一个眼宽，极小一字嘴",
+    "emotion": "内收，放空",
+    "fusion": "物件背负着并成为轮廓：玉板嵌进后背，拿掉它身体就空",
+    "material": "主体米灰短绒，只有玉板是抛光青白玉",
+    "palette": "米灰配青白"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头身几乎一团，两只不及头宽四分之一的短圆耳，下颌收在玉板上沿",
+  "combo": "短圆耳小熊团 + 背后一块比身宽的圆角玉板 + 半垂豆眼 + 米灰对青白",
+  "odd": "玉板比脸宽，脸只占玉板上沿一条",
+  "line": "",
+  "why": "笑还在脸上，重的是背后那块已经嵌死的玉。小熊来自官方头像，玉来自又硬又温的比喻。不画肌肉。",
+  "spec": {
+    "proportion": "全高约是身宽的 1.1 倍，脸只占全高上部 30%",
+    "outline": "一个圆团，背后凸出一块圆角矩形玉板，宽约团子的 130%",
+    "volume": "大：玉板；中：短绒身体；小：两只短耳和两只短脚",
+    "face": "眼在头高下三分之一，半垂，眼距约一个眼宽，嘴是眼下一条短线",
+    "stance": "坐着，后背靠在玉板上，短脚前伸",
+    "structure": "玉板四边嵌进绒里，下沿就是它的坐面"
+  },
+  "toy_check": "站得住：坐在宽玉板上。物件长进去：玉板是后背。特殊材质只有抛光玉，边是圆的。新组合：小熊的背是玉。不像绘本：无大眼无笑。头像还剩玉板和半垂眼。做得成：一块厚板，没有薄片。姿态：靠坐，不是立正。",
+  "crop": "记忆点在背后。头像要裁进玉板上沿，否则只剩一张小熊脸。",
+  "collide": "不同于戴围裙的微笑熊：没有围裙，没有笑，玉板比身体宽并且嵌进后背。也不同于白圆脸加领结的猫。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "玉板被画成背包"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "板和身体糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "圆角被加成装饰纹"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩小熊脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换掉玉的颜色后必须仍是背后这块宽板"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短绒小熊和一块玉长在一起：背后嵌着一块比身体还宽的圆角青白玉板，下沿托住它坐着，拿掉玉板身体就空。全高约是身宽的一点一倍，脸只占上部三分之一，两只极短的圆耳。半垂的小黑豆眼，眼距约一个眼宽，极小一字嘴，神情放空。坐着，后背靠在玉板上，短脚前伸。身体是米灰短绒，只有玉板是抛光青白玉，边是圆的。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要把玉画成背包或项链，不要尖角，不要人类的脸、头发和衣服，不要肌肉，不要长嘴吻。",
+  "enp": "Original designer toy character: a small bear fused with a slab of jade — a rounded pale jade plate wider than the body is set into the back and becomes the seat, so the figure fails without it. Height about 1.1 times the body width, the face only the upper third, two very short round ears. Half-lidded black bead eyes about one eye-width apart, a tiny straight mouth, a blank calm look. Seated, leaning back on the slab, short feet forward. Rice-grey short plush; only the slab is polished pale jade, edges rounded. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo.  No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. Do not turn the jade into a backpack or necklace, no sharp corners, no human face, hair or clothes, no muscles, no long snout. ",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-29",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：不是微笑熊加围裙，玉板嵌进后背。识别：宽玉板加半垂眼，头像也要裁到板。不普通：没有这块玉就不是它。材质只有抛光玉，边圆，不做成会疼的尖。米灰对青白，对比在明度。组合少见，玉板比脸宽。",
+  "pose": "靠坐"
+}
