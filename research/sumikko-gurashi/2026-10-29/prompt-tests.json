@@ -1,0 +1,30 @@
+[
+  {
+    "prompt_id": "sg-flat-ref-v1",
+    "subject_id": "sumikko-gurashi",
+    "version": 1,
+    "target_scope": "V01经典白熊官网档案200×200图侧前可见角度，去桃色背景",
+    "carrier": "flat",
+    "language": "en",
+    "input_mode": "reference_assisted",
+    "reference_image_ids": [
+      "V01"
+    ],
+    "exact_prompt": "Use the attached official character drawing as the only identity and pose reference. Recreate the single white, shy rounded bear as a flat 2D character illustration centered on a pure white square canvas. Remove the pale peach square background. Keep the slightly left-facing tall bean-shaped head-and-body in one continuous soft outline: two tiny round ears at the top, a broad round right side, a subtly pinched left side, two very short feet folded inward at the base, and the same two small curved hands meeting near the lower chest. Match the face exactly: two tiny brown oval dot eyes spaced horizontally in the upper half, a small horizontal brown oval nose slightly below them and nearer the left half, no separate white muzzle patch, no visible mouth line, no eyebrows, no eye shine or eyelashes. Preserve the small pink ear interiors and the otherwise warm-white unshaded body. Follow the attached outline proportions and locations of the inward-curving hands and feet carefully; do not draw fingers, a belly patch or a teddy bear sitting with splayed legs. Use a medium-thin gently irregular muted taupe-brown contour and clean flat white and pale pink fills. No clothing, props, tails, extra characters, text, brand mark, watermark, gradients, fur, texture, lighting or cast shadows. Show only this visible view, without inventing another side.",
+    "generated_image_path": "assets/flat-ref-v1.webp",
+    "prompt_file": "prompts/flat-ref-v1.txt",
+    "status": "ready",
+    "observations": "豆形头身、白身粉耳、点眼横鼻、无嘴、相向小手和短脚接近。线更匀、眼鼻与手脚线稍大、轮廓弯曲仍异；可作限定角度研究复现，不作标准矢量稿或全群通过。",
+    "revision_reason": "首轮锁定单个白熊的明确官方版本；没有从失败群像测试换目标。",
+    "tested_at": "2026-10-29",
+    "original_generated_file": "/workspace/scratch/49527ac7d143/generated_images/exec-461ead07-48b9-4d33-b32c-57d3595d6194.png",
+    "original_sha256": "890469e7929a580408cd8fccc3b98313738d861a5978d962730243644f1e34a6",
+    "display_sha256": "71b03979fc493aa218e54fec1bfaf15e51cb6106036e37d345ad2f641b7a77db",
+    "display_size": [
+      768,
+      768
+    ],
+    "bytes": 9136,
+    "exact_prompt_sha256": "b75089786ea5ec184166df2b75f779df5d2441795f41166e969f006d964f2df0"
+  }
+]

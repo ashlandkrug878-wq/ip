@@ -1,0 +1,135 @@
+[
+  {
+    "image_id": "V01",
+    "title": "白熊经典档案",
+    "original_image_url": "https://www.san-x.co.jp/uploads/1769160910869-6ah340f176m/1.webp",
+    "observed_features": "暖白豆形头身、两圆耳粉耳内、点眼横椭圆鼻，无可见嘴线；双小手内向，短脚在底端。浅桃背景不属本体。",
+    "boundary": "实际打开原图；V01—05为官网200×200档案图，V06/07为权利人官方商品说明图，仅对照载体，不当母版。",
+    "sources": [
+      "s1"
+    ],
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "original_sha256": "8fcc3cac9be1d33805bfaf5a31e2810cf7cab2f0c3f3f94355718229a7598b56",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V02",
+    "title": "ぺんぎん？经典档案",
+    "original_image_url": "https://www.san-x.co.jp/uploads/1769160911896-hktlduhyts4/2.webp",
+    "observed_features": "黄绿豆形，横椭圆黄色喙、奶白腹和短黄脚，两小手内收；问号角色不是本物企鹅。",
+    "boundary": "实际打开原图；V01—05为官网200×200档案图，V06/07为权利人官方商品说明图，仅对照载体，不当母版。",
+    "sources": [
+      "s1"
+    ],
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "original_sha256": "99940169900a4f839bf9f30385cf638f04fdcccaa3db62ba304c61a021ecb49f",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V03",
+    "title": "炸猪排经典档案",
+    "original_image_url": "https://www.san-x.co.jp/uploads/1769160912753-mwcvofiw1hb/3.webp",
+    "observed_features": "米黄主体外缘连续小凸起模拟炸衣，粉横椭圆鼻、点眼，内收短手脚；非毛发/普通熊耳。",
+    "boundary": "实际打开原图；V01—05为官网200×200档案图，V06/07为权利人官方商品说明图，仅对照载体，不当母版。",
+    "sources": [
+      "s1"
+    ],
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "original_sha256": "611fc2c00eecc90c9e5db7812f86082b4b991f33f6a19eae9f95bc5dc069b113",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V04",
+    "title": "猫经典档案",
+    "original_image_url": "https://www.san-x.co.jp/uploads/1769160913779-hxpekre7c8/4.webp",
+    "observed_features": "奶黄猫有小三角耳、猫须、额上弯纹和侧橘斑，白口部小鼻、短尾在右后；并非白熊改色。",
+    "boundary": "实际打开原图；V01—05为官网200×200档案图，V06/07为权利人官方商品说明图，仅对照载体，不当母版。",
+    "sources": [
+      "s1"
+    ],
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "original_sha256": "5fa8dd36717e5d7f83b839a9b81803881df91c3a089c299936fc347bca708b44",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V05",
+    "title": "恐龙伪装蜥蜴档案",
+    "original_image_url": "https://www.san-x.co.jp/uploads/1769160914647-qw2yqsyzgxo/5.webp",
+    "observed_features": "浅蓝长豆形、奶白腹、弧嘴，右背连续小背鳍接尾，手脚内收；身份由官方文字而非外表单独判定。",
+    "boundary": "实际打开原图；V01—05为官网200×200档案图，V06/07为权利人官方商品说明图，仅对照载体，不当母版。",
+    "sources": [
+      "s1"
+    ],
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "original_sha256": "0cdf7bf636fde3bfdf9551e0212b01d45ab56b387e8778e74fdc52442f1bcd7f",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V06",
+    "title": "High School制服掌心毛绒",
+    "original_image_url": "https://prcdn.freetls.fastly.net/release_image/18631/920/18631-920-bca62096453ef010e6816a3b4e1ef9f5-3900x1222.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+    "observed_features": "官方组合使用样例有校服领/蝴蝶结、针织风上衣与褶裙，白熊和浅蓝成员眼鼻为立体商品脸；背景圆框与服饰不是本体不变量。",
+    "boundary": "实际打开原图；V01—05为官网200×200档案图，V06/07为权利人官方商品说明图，仅对照载体，不当母版。",
+    "sources": [
+      "s5"
+    ],
+    "original_dimensions": [
+      1950,
+      611
+    ],
+    "original_sha256": "07881130963a97cfc38e0d3fcbbf15e359eed56f6bb8eee14caaa445f8e4cadd",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V07",
+    "title": "Night Routine亚克力挂件",
+    "original_image_url": "https://prcdn.freetls.fastly.net/release_image/18631/837/18631-837-3161fee4debd126fe11e6aba0598cc0e-3900x1444.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+    "observed_features": "透明外边、金属扣、蓝色图形轮廓，五主角配不同睡前道具，另有隐藏轮廓；鼻/嘴和脸朝向随版本动作变化。",
+    "boundary": "实际打开原图；V01—05为官网200×200档案图，V06/07为权利人官方商品说明图，仅对照载体，不当母版。",
+    "sources": [
+      "s6"
+    ],
+    "original_dimensions": [
+      1950,
+      722
+    ],
+    "original_sha256": "04e30ea8429f3651a95ea54314cd98194d333e3963a9d96390ba38a18e9c6fa8",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  }
+]

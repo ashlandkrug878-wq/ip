@@ -1,0 +1,473 @@
+{
+  "id": "sumikko-gurashi",
+  "name": "角落小伙伴 Sumikko Gurashi",
+  "aliases": [
+    "すみっコぐらし",
+    "Sumikkogurashi",
+    "角落生物"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-29",
+  "updated": "2026-10-29",
+  "summary": "用不同的留角落理由组成共同体，少表情让用户选择共鸣入口；掌心角色、服装与场景可组合。出货、下载和出版数字分口径，未写成IP总收入。",
+  "owner": {
+    "creator": "よこみぞゆり／Yuri Yokomizo（横沟由里）",
+    "operator": "San-X Co., Ltd.／サンエックス株式会社",
+    "relation": "公司内角色开发，版权/原作监督San-X；作者与商品团队分工共同扩展。Columbia、Imagineer、出版社与动画制作是各载体伙伴，不因经营产品便拥有角色母体。San-X不是Sanrio。",
+    "sources": [
+      "s1",
+      "s3",
+      "s14"
+    ]
+  },
+  "origin": {
+    "path": [
+      "产品先行"
+    ],
+    "year": 2012,
+    "story": "大学课上纸角涂鸦是灵感，2011-11社内竞赛把旧画组织为新角色；2012-09正式登场。访谈图注给原案2011-11-14/25及首批商品2012-09-01，分别是原案记录、修订与商品节点；确切最早涂鸦日null。2014书是后续出版。",
+    "sources": [
+      "s1",
+      "s3",
+      "s9"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2011-11-14",
+      "event": "原案图注日期，不等同公开首发",
+      "type": "fact",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "date": "2011-11-25",
+      "event": "修订原案图注日期",
+      "type": "fact",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "date": "2012-09-01",
+      "event": "原采访所示首批商品日期；官网仅注明9月登场",
+      "type": "fact",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "date": "2014-04",
+      "event": "首本角色书零售书目，具体开售日null",
+      "type": "fact",
+      "sources": [
+        "s9"
+      ]
+    },
+    {
+      "date": "2014-11-20",
+      "event": "首款3DS游戏上市",
+      "type": "fact",
+      "sources": [
+        "s10"
+      ]
+    },
+    {
+      "date": "2026-10",
+      "event": "High School主题计划顺次上市",
+      "type": "self_report",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "event": "回忆绘本标准发售日",
+      "type": "self_report",
+      "sources": [
+        "s15"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "各有各的不自在，也可以在一起找到安心的位置。",
+    "sentence_type": "陪伴",
+    "basis": "inferred",
+    "sources": [
+      "s1",
+      "s3"
+    ]
+  },
+  "core": {
+    "personality": "主群较内向或有秘密/过去；杂草、灰尘等也有乐观者",
+    "emotion": "内收",
+    "action": "靠近角落、挤坐、喝茶、共同生活，微小关系变化",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "独处或在人群中想找不显眼的位置",
+    "behavior": "挑共鸣角色、向孩子/朋友解释设定、组合场景与亲友",
+    "state": "不想被迫变外向，也想与合适的人在一起",
+    "conflict": "单个角色有小缺口，但共同体不要求先被治好才接纳",
+    "unsaid": "我不用成为中心，也有位置。",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "角色/毛绒收藏者、亲子读者、成年影迷与游戏用户；性别年龄比例未知",
+    "where": "官方商品、书店、家庭、影像与游戏场景",
+    "buy": "采访父亲代孩子购入同时偏爱炸猪排；读者因姪女影响进来，无总体转化数据",
+    "signs": "低五官、团块体、各自颜色与局部记忆点；“ぺんぎん？”的问号与本物角色须区分",
+    "share": "解释自己喜欢谁及理由、摆出群像、看角色日常细节",
+    "breakout": "多入口让一个家庭不同成员有不同偏爱；扩散因果仍待验证"
+  },
+  "pendulum": {
+    "position": "软萌治愈",
+    "against": "可爱里容纳不自信与被留下，不把“所有日本人都爱角落”当已证心理规律"
+  },
+  "form": {
+    "archetype": "动物类人",
+    "silhouette": "头身一体",
+    "mark_position": [
+      "五官",
+      "整体轮廓"
+    ],
+    "mark": "团块/豆形头身一体、低密度点眼，按成员配耳/喙/炸衣边/猫须/背鳍等局部记忆点",
+    "face": "V01白熊两点眼和横椭圆鼻，无单独口部斑；V02喙、V03粉鼻、V04猫须、V05弧嘴各自不同",
+    "emotion": "面无表情",
+    "odd": "主角既有动物也有炸猪排边，不能把全群都归普通动物；“动物类人”为索引近似，成员需单独建轴",
+    "density": "极简",
+    "naming": "描述",
+    "group": "角色群"
+  },
+  "collide_combo": "团子是公共轮廓，勿整套复用白/绿/米黄/蓝成员配色、点眼位置、炸衣锯齿边与角落拥挤关系。原创群像需独立原型、脸和关系。",
+  "color": {
+    "mode": "多色系列",
+    "main": "白熊白、ぺんぎん？黄绿、炸猪排米黄、猫奶黄、恐龙浅蓝",
+    "signature": "每成员有相对稳定的主体色与局部符号；主题可改变线色和衣装",
+    "notes": "V01—05浅背景不是身体色；V07蓝轮廓和睡前道具是主题变量；不从展示图推群体面积占比"
+  },
+  "materials": "掌心毛绒与服装/场景、亚克力挂件、纸书、电子/游戏各有工艺。目录MV59501为涤纶与珠饰，不能说真实食物软糖；制服款针织风与缝制细节只限实物照片。",
+  "carrier": {
+    "primary": "授权图案",
+    "secondary": "实物潮玩"
+  },
+  "product": {
+    "first_category": "授权周边",
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "本轮日本纸书968—1430JPY、代表掌心/服装1320—1540JPY含税；2014游戏原税前4800JPY",
+    "sources": [
+      "s5",
+      "s6",
+      "s8",
+      "s9",
+      "s10",
+      "s15"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "3DS系列3作累计出货",
+      "value": 500000,
+      "unit": "本",
+      "period": "截至2016-12-12，日本Columbia公告；非单款零售实销",
+      "type": "self_report",
+      "sources": [
+        "s11"
+      ]
+    },
+    {
+      "metric": "农园游戏累计下载突破",
+      "value": 3000000,
+      "unit": "次",
+      "period": "2022-02-16全球，中国大陆除外；非付费/唯一用户",
+      "type": "self_report",
+      "sources": [
+        "s12"
+      ]
+    },
+    {
+      "metric": "学习练习册系列累计部数超过",
+      "value": 3000000,
+      "unit": "部",
+      "period": "2025-07-07官方自述，发行/出货/实销口径未注明",
+      "type": "self_report",
+      "sources": [
+        "s13"
+      ]
+    },
+    {
+      "metric": "独立IP总营收/利润/毛绒净销量",
+      "value": null,
+      "unit": null,
+      "period": "截至2026-10-29",
+      "type": "hypothesis",
+      "sources": [
+        "s1",
+        "s11",
+        "s12"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "不同的不自在与少表情，提供多个选择自己的入口。",
+      "type": "inference",
+      "evidence": "作者明确谈无表情便于代入，并按现实会在角落的人设定性格；读者有恐龙首选同时喜欢不善表达的猫。",
+      "boundary": "作者意图与少数用户自述相互支持，强于只看造型；并非所有用户都投射自己，也无占比。",
+      "sources": [
+        "s1",
+        "s3",
+        "s9",
+        "u2"
+      ]
+    },
+    {
+      "claim": "关系让弱点不只停在标签里，角色能在共同生活中产生内容。",
+      "type": "inference",
+      "evidence": "炸猪排与虾尾心意相通，白熊包袱有占位用途，恐龙与母亲/真蜥蜴有关系；观众也会观察生活规则。",
+      "boundary": "官方关系强、心理因果中等；有观众只是喜欢可爱或观察，不能一概诊断孤独。",
+      "sources": [
+        "s1",
+        "s14",
+        "u1",
+        "u2"
+      ]
+    },
+    {
+      "claim": "掌心角色、可换衣与场景拆开销售，让用户组合自己的共同体。",
+      "type": "inference",
+      "evidence": "High School有单体、双体套、单独衣服及场景，明确衣服不含玩偶；多个数字载体让关系可被操作。",
+      "boundary": "产品规则可核，未有组合购复购/利润数据；游戏负评提示仅贴角色不能保证玩法体验。",
+      "sources": [
+        "s5",
+        "s10",
+        "s12",
+        "u3"
+      ]
+    }
+  ],
+  "counterexamples": "杂草与灰尘乐观，反驳全员抑郁/自卑的标签。近期短动画观众提主角基础介绍缺新鲜感，但喜欢迷你成员扩展。旧Switch评论有操作、重复内容和很快玩腻的批评，也有认可者；是该作体验，不等于整个IP失败。单卖服装不含玩偶带来理解成本；营销隐藏与限量不是销量。",
+  "theory": {
+    "shell": "统一低信息语法中保留每位局部差异，而非五个换色圆团",
+    "core": "共同体接纳差异，不以全部变开朗作为终点",
+    "shadow": "SMISKI虽也在角落，原型/视觉/群体机制均不同；不当同IP别名",
+    "two_layers": {
+      "surface": "可爱、安心、日常陪伴",
+      "deep": "成员偏好、关系解释、组合陈列与小故事"
+    },
+    "validation": "作者设计意图不等于用户动机；三个商业数字各自有载体、时点和地域边界"
+  },
+  "for_skills": {
+    "lab": "为同一情绪写出不同处境和具体关系，检查有没有只剩标签的角色。",
+    "form": "统一少量造型语法，让每个成员有独立原型与记忆点；逐个检查无色/剪影差异。",
+    "studio": "将角色、衣装和场景清晰标售，验证兼容尺寸、丢件、清洁与玩法，不只加数量。"
+  },
+  "gaps": [
+    "大学涂鸦确切日期/最早对公众公开日未知，原案与首售不能合并。",
+    "2019团队约25人只属当年采访；当前资源配置与版权合同细节null。",
+    "独立营收/利润/用户比例null；出货、下载、累计部数不能相加成销量。",
+    "小红书本对象两个固定查询未执行、实读0篇，因前一对象后续读取超时停止依赖；用公开访谈、日文用户原帖与书评补充。",
+    "首本出版社页面403，书目用零售信息；标准尺寸未知处保留null，不以其他成员代填。",
+    "平面仅英文附图V01白熊的指定侧前角度接近；眼鼻/手脚曲线略大、轮廓略更匀。纯文字/中文/随机稳定性未测，全群其他成员未测。",
+    "“不自信/怕冷”等为角色设定，不用它诊断用户或声称治疗效果。"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "日文角色档案",
+      "url": "https://www.san-x.co.jp/ja/characters/sumikkogurashi/",
+      "publisher": "San-X",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2012年9月登场，主群与迷你角色的性格、亲友关系；不是所有成员都消极。"
+    },
+    {
+      "id": "s2",
+      "title": "英文官方档案",
+      "url": "https://www.san-x.co.jp/en/characters/sumikkogurashi/",
+      "publisher": "San-X",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "与日文对应的角色群，译名不作重复对象；机翻疑义依日文。"
+    },
+    {
+      "id": "s3",
+      "title": "作者与商品团队原始采访",
+      "url": "https://withnews.jp/article/f0190801003qq000000000000000W07z10301qq000019421A",
+      "publisher": "withnews/朝日新闻",
+      "published": "2019-08-01",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2011年11月社内比赛，旧涂鸦发展；原案图注11月14/25日，首批商品图注2012-09-01；作者解释无表情便于代入。2019团队约25人为当时受访自述，非现在规模。"
+    },
+    {
+      "id": "s4",
+      "title": "作者回访与成长经历",
+      "url": "https://withnews.jp/article/f0211111002qq000000000000000W07z10301qq000023767A",
+      "publisher": "withnews/朝日新闻",
+      "published": "2021-11-11",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "部分重构2019访问，不能当独立二次证实；作者说设定性格让图生动，自身也偏爱角落。"
+    },
+    {
+      "id": "s5",
+      "title": "High School新品官方公告",
+      "url": "https://prtimes.jp/main/html/rd/p/000000920.000018631.html",
+      "publisher": "San-X",
+      "published": "2026-09-04",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2026年10月起计划上市；掌心毛绒、衣服单卖与组合场景。Collection在2025为10周年，不是全IP2015才诞生。"
+    },
+    {
+      "id": "s6",
+      "title": "Night Routine新品官方公告",
+      "url": "https://prtimes.jp/main/html/rd/p/000000837.000018631.html",
+      "publisher": "San-X",
+      "published": "2026-06-05",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2026年7月起；亚克力5+1隐藏、蓝轮廓和睡前动作是该主题，不推广所有线。"
+    },
+    {
+      "id": "s7",
+      "title": "2025年12月官方目录第24页",
+      "url": "https://www.san-x.co.jp/uploads/1769163306083-ozc0syeihj/catalog_2025_12.pdf#page=24",
+      "publisher": "San-X",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "partial",
+      "supports": "原PDF70页为扫描/图形，无可提文字；本轮渲染并实际阅读第24页。MV59501白熊60×50×45mm、涤纶、珠饰、越南制；目录标1200日元，税口径经零售参考价交叉。"
+    },
+    {
+      "id": "s8",
+      "title": "MV59501零售规格交叉",
+      "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04722264",
+      "publisher": "AmiAmi",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "snippet_only",
+      "supports": "搜索索引实读规格：参考1320JPY含税、2025-12下旬、60×50×45mm/涤纶/珠饰；店铺折扣640不是统一定价。"
+    },
+    {
+      "id": "s9",
+      "title": "首本角色书书目与公开评论",
+      "url": "https://books.rakuten.co.jp/rb/12716202/",
+      "publisher": "Rakuten Books",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "partial",
+      "supports": "2014-04书目、107p、968JPY含税，ISBN9784391145007。实读当前3条评论；同条在独立评论页重复不再计数。"
+    },
+    {
+      "id": "s10",
+      "title": "2014首款3DS游戏原始商品页",
+      "url": "https://columbia.jp/prod-info/CTR-P-BCNJ-JPN/",
+      "publisher": "日本Columbia",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2014-11-20，原税前4800JPY；当前含税显示5280，不回写2014当时总价。"
+    },
+    {
+      "id": "s11",
+      "title": "3DS系列累计出货公告",
+      "url": "https://columbia.jp/company/corporate/news_release/2016/pdf/161213.pdf",
+      "publisher": "日本Columbia",
+      "published": "2016-12-13",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2016-12-12时3款系列累计出货50万本；不是单款、零售实销或2026现值。PDF页眉沿用其他活动标题，正文和下方标题明确本系列。"
+    },
+    {
+      "id": "s12",
+      "title": "农园手机游戏累计下载公告",
+      "url": "https://www.imagineer.co.jp/news/article.php?id=1657",
+      "publisher": "Imagineer",
+      "published": "2022-02-16",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2022-02-16宣布全球累计300万下载；覆盖中国大陆以外，不能称中国销量或唯一活跃用户。"
+    },
+    {
+      "id": "s13",
+      "title": "学习练习册累计部数公告",
+      "url": "https://www.san-x.co.jp/ja/blog/2025/07/2-160.html",
+      "publisher": "San-X",
+      "published": "2025-07-07",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2025-07-07称学习练习册系列累计超300万部；发行/出货/实销口径未明确，不等于原著/当年单书。"
+    },
+    {
+      "id": "s14",
+      "title": "2025TV短动画权属/人员",
+      "url": "https://www.asmik-ace.co.jp/works/lineup/18105/",
+      "publisher": "Asmik Ace",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "作者Yuri/原作两册/原作监督San-X，Fanworks制作；本页是TV系列，不误作2019电影。"
+    },
+    {
+      "id": "s15",
+      "title": "2026回忆绘本日文公告",
+      "url": "https://www.san-x.co.jp/ja/blog/2026-10-post-0909380/",
+      "publisher": "San-X",
+      "published": "2026-10-16",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2026-10-16新书，1430JPY含税/ISBN9784391165227；“累计50万部超”所指系列范围不清，不给新书当天销售赋值。"
+    },
+    {
+      "id": "u1",
+      "title": "电影观众的归属感",
+      "url": "https://eiga.com/movie/90765/review/02210334/",
+      "publisher": "映画.com用户",
+      "published": "2019-11-22",
+      "observed": "2026-10-29",
+      "access": "partial",
+      "supports": "实读スピカ2019-11-22整条影评；从可爱进入寻找居所、互相接纳的感受，非观看/购买凭证。"
+    },
+    {
+      "id": "u2",
+      "title": "近期短动画观众记录",
+      "url": "https://filmarks.com/animes/4739/6414/reviews/10854781",
+      "publisher": "Filmarks用户",
+      "published": "2026-10-11",
+      "observed": "2026-10-29",
+      "access": "partial",
+      "supports": "实读ikoandkeu账号2026-10-11整条双人感想；其中一位重视观察生活/规则，也说前段主角介绍缺新鲜感；未独立观看每个故事证实情节。"
+    },
+    {
+      "id": "u3",
+      "title": "Switch游戏反证",
+      "url": "https://review.kakaku.com/review/K0001008968/",
+      "publisher": "価格.com",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "partial",
+      "supports": "实读3条当前公开评论；アテゴン乗り2022-12-03批评操作/重复内容和孩子早腻；酒缶2018-11-24属专业评论，须与普通用户分开；另有silvia-r2402018-01-17认可。"
+    },
+    {
+      "id": "b1",
+      "title": "首本原出版社书目访问受阻",
+      "url": "https://www.shufu.co.jp/bookmook/detail/9784391145007/",
+      "publisher": "主妇与生活社",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "blocked",
+      "supports": "HTTP403，未读原出版社页面；不绕过，改用零售书目并保留首售日缺口。"
+    }
+  ],
+  "archive": "research/sumikko-gurashi/2026-10-29/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/sumikko-gurashi/2026-10-29/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/sumikko-gurashi/2026-10-29/"
+}

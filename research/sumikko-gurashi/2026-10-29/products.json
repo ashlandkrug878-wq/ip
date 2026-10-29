@@ -1,0 +1,82 @@
+[
+  {
+    "name": "白熊MV59501/JAN4974413902007",
+    "release": "目录2025-12下旬计划；店有不同到货日",
+    "price": "日本参考JPY1320含税；目录1200税前口径经零售交叉",
+    "size": "约60×50×45mm（目录第24页）",
+    "material": "涤纶、珠饰；越南制；独立袋装",
+    "note": "软糖为装饰题材非可食；非全IP统一尺寸",
+    "sources": [
+      "s7",
+      "s8"
+    ]
+  },
+  {
+    "name": "High School掌心毛绒",
+    "release": "2026-10頃顺次计划",
+    "price": "日本JPY1540含税/只，6种",
+    "size": null,
+    "material": "毛绒，成分null",
+    "note": "双体套3080JPY是另SKU；服装兼容未实测",
+    "sources": [
+      "s5"
+    ]
+  },
+  {
+    "name": "High School Secret换装衣服",
+    "release": "2026-10頃顺次计划",
+    "price": "日本JPY1430含税/件，6种",
+    "size": null,
+    "material": null,
+    "note": "仅衣服不含内部毛绒；不得把衣服价当娃价",
+    "sources": [
+      "s5"
+    ]
+  },
+  {
+    "name": "Night Routine亚克力挂件",
+    "release": "2026-07頃计划",
+    "price": "日本JPY990含税/件",
+    "size": null,
+    "material": "亚克力，挂扣",
+    "note": "5常规+1隐藏只属于该SKU线",
+    "sources": [
+      "s6"
+    ]
+  },
+  {
+    "name": "首本角色书9784391145007",
+    "release": "2014-04零售书目",
+    "price": "日本访问价JPY968含税",
+    "size": "107p；外尺寸null",
+    "material": "纸",
+    "note": "よこみぞゆり/主妇与生活社；原出版社页403",
+    "sources": [
+      "s9",
+      "b1"
+    ]
+  },
+  {
+    "name": "3DS首作CTR-P-BCNJ-JPN",
+    "release": "2014-11-20",
+    "price": "日本原税前JPY4800；当前显示含税5280",
+    "size": "3DS软件；物理盒尺寸null",
+    "material": "软件/卡带载体",
+    "note": "2016-03-17廉价再版税前2700是另一版本；未把当前税率回写旧发售价",
+    "sources": [
+      "s10",
+      "s11"
+    ]
+  },
+  {
+    "name": "新绘本おもいでアルバム9784391165227",
+    "release": "2026-10-16标准发售",
+    "price": "日本JPY1430含税",
+    "size": null,
+    "material": "纸",
+    "note": "50万部超所指书系范围不清，不填新书销量",
+    "sources": [
+      "s15"
+    ]
+  }
+]

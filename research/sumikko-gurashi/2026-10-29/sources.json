@@ -1,0 +1,192 @@
+[
+  {
+    "id": "s1",
+    "title": "日文角色档案",
+    "url": "https://www.san-x.co.jp/ja/characters/sumikkogurashi/",
+    "publisher": "San-X",
+    "published": null,
+    "observed": "2026-10-29",
+    "access": "full",
+    "supports": "2012年9月登场，主群与迷你角色的性格、亲友关系；不是所有成员都消极。"
+  },
+  {
+    "id": "s2",
+    "title": "英文官方档案",
+    "url": "https://www.san-x.co.jp/en/characters/sumikkogurashi/",
+    "publisher": "San-X",
+    "published": null,
+    "observed": "2026-10-29",
+    "access": "full",
+    "supports": "与日文对应的角色群，译名不作重复对象；机翻疑义依日文。"
+  },
+  {
+    "id": "s3",
+    "title": "作者与商品团队原始采访",
+    "url": "https://withnews.jp/article/f0190801003qq000000000000000W07z10301qq000019421A",
+    "publisher": "withnews/朝日新闻",
+    "published": "2019-08-01",
+    "observed": "2026-10-29",
+    "access": "full",
+    "supports": "2011年11月社内比赛，旧涂鸦发展；原案图注11月14/25日，首批商品图注2012-09-01；作者解释无表情便于代入。2019团队约25人为当时受访自述，非现在规模。"
+  },
+  {
+    "id": "s4",
+    "title": "作者回访与成长经历",
+    "url": "https://withnews.jp/article/f0211111002qq000000000000000W07z10301qq000023767A",
+    "publisher": "withnews/朝日新闻",
+    "published": "2021-11-11",
+    "observed": "2026-10-29",
+    "access": "full",
+    "supports": "部分重构2019访问，不能当独立二次证实；作者说设定性格让图生动，自身也偏爱角落。"
+  },
+  {
+    "id": "s5",
+    "title": "High School新品官方公告",
+    "url": "https://prtimes.jp/main/html/rd/p/000000920.000018631.html",
+    "publisher": "San-X",
+    "published": "2026-09-04",
+    "observed": "2026-10-29",
+    "access": "full",
+    "supports": "2026年10月起计划上市；掌心毛绒、衣服单卖与组合场景。Collection在2025为10周年，不是全IP2015才诞生。"
+  },
+  {
+    "id": "s6",
+    "title": "Night Routine新品官方公告",
+    "url": "https://prtimes.jp/main/html/rd/p/000000837.000018631.html",
+    "publisher": "San-X",
+    "published": "2026-06-05",
+    "observed": "2026-10-29",
+    "access": "full",
+    "supports": "2026年7月起；亚克力5+1隐藏、蓝轮廓和睡前动作是该主题，不推广所有线。"
+  },
+  {
+    "id": "s7",
+    "title": "2025年12月官方目录第24页",
+    "url": "https://www.san-x.co.jp/uploads/1769163306083-ozc0syeihj/catalog_2025_12.pdf#page=24",
+    "publisher": "San-X",
+    "published": null,
+    "observed": "2026-10-29",
+    "access": "partial",
+    "supports": "原PDF70页为扫描/图形，无可提文字；本轮渲染并实际阅读第24页。MV59501白熊60×50×45mm、涤纶、珠饰、越南制；目录标1200日元，税口径经零售参考价交叉。"
+  },
+  {
+    "id": "s8",
+    "title": "MV59501零售规格交叉",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04722264",
+    "publisher": "AmiAmi",
+    "published": null,
+    "observed": "2026-10-29",
+    "access": "snippet_only",
+    "supports": "搜索索引实读规格：参考1320JPY含税、2025-12下旬、60×50×45mm/涤纶/珠饰；店铺折扣640不是统一定价。"
+  },
+  {
+    "id": "s9",
+    "title": "首本角色书书目与公开评论",
+    "url": "https://books.rakuten.co.jp/rb/12716202/",
+    "publisher": "Rakuten Books",
+    "published": null,
+    "observed": "2026-10-29",
+    "access": "partial",
+    "supports": "2014-04书目、107p、968JPY含税，ISBN9784391145007。实读当前3条评论；同条在独立评论页重复不再计数。"
+  },
+  {
+    "id": "s10",
+    "title": "2014首款3DS游戏原始商品页",
+    "url": "https://columbia.jp/prod-info/CTR-P-BCNJ-JPN/",
+    "publisher": "日本Columbia",
+    "published": null,
+    "observed": "2026-10-29",
+    "access": "full",
+    "supports": "2014-11-20，原税前4800JPY；当前含税显示5280，不回写2014当时总价。"
+  },
+  {
+    "id": "s11",
+    "title": "3DS系列累计出货公告",
+    "url": "https://columbia.jp/company/corporate/news_release/2016/pdf/161213.pdf",
+    "publisher": "日本Columbia",
+    "published": "2016-12-13",
+    "observed": "2026-10-29",
+    "access": "full",
+    "supports": "2016-12-12时3款系列累计出货50万本；不是单款、零售实销或2026现值。PDF页眉沿用其他活动标题，正文和下方标题明确本系列。"
+  },
+  {
+    "id": "s12",
+    "title": "农园手机游戏累计下载公告",
+    "url": "https://www.imagineer.co.jp/news/article.php?id=1657",
+    "publisher": "Imagineer",
+    "published": "2022-02-16",
+    "observed": "2026-10-29",
+    "access": "full",
+    "supports": "2022-02-16宣布全球累计300万下载；覆盖中国大陆以外，不能称中国销量或唯一活跃用户。"
+  },
+  {
+    "id": "s13",
+    "title": "学习练习册累计部数公告",
+    "url": "https://www.san-x.co.jp/ja/blog/2025/07/2-160.html",
+    "publisher": "San-X",
+    "published": "2025-07-07",
+    "observed": "2026-10-29",
+    "access": "full",
+    "supports": "2025-07-07称学习练习册系列累计超300万部；发行/出货/实销口径未明确，不等于原著/当年单书。"
+  },
+  {
+    "id": "s14",
+    "title": "2025TV短动画权属/人员",
+    "url": "https://www.asmik-ace.co.jp/works/lineup/18105/",
+    "publisher": "Asmik Ace",
+    "published": null,
+    "observed": "2026-10-29",
+    "access": "full",
+    "supports": "作者Yuri/原作两册/原作监督San-X，Fanworks制作；本页是TV系列，不误作2019电影。"
+  },
+  {
+    "id": "s15",
+    "title": "2026回忆绘本日文公告",
+    "url": "https://www.san-x.co.jp/ja/blog/2026-10-post-0909380/",
+    "publisher": "San-X",
+    "published": "2026-10-16",
+    "observed": "2026-10-29",
+    "access": "full",
+    "supports": "2026-10-16新书，1430JPY含税/ISBN9784391165227；“累计50万部超”所指系列范围不清，不给新书当天销售赋值。"
+  },
+  {
+    "id": "u1",
+    "title": "电影观众的归属感",
+    "url": "https://eiga.com/movie/90765/review/02210334/",
+    "publisher": "映画.com用户",
+    "published": "2019-11-22",
+    "observed": "2026-10-29",
+    "access": "partial",
+    "supports": "实读スピカ2019-11-22整条影评；从可爱进入寻找居所、互相接纳的感受，非观看/购买凭证。"
+  },
+  {
+    "id": "u2",
+    "title": "近期短动画观众记录",
+    "url": "https://filmarks.com/animes/4739/6414/reviews/10854781",
+    "publisher": "Filmarks用户",
+    "published": "2026-10-11",
+    "observed": "2026-10-29",
+    "access": "partial",
+    "supports": "实读ikoandkeu账号2026-10-11整条双人感想；其中一位重视观察生活/规则，也说前段主角介绍缺新鲜感；未独立观看每个故事证实情节。"
+  },
+  {
+    "id": "u3",
+    "title": "Switch游戏反证",
+    "url": "https://review.kakaku.com/review/K0001008968/",
+    "publisher": "価格.com",
+    "published": null,
+    "observed": "2026-10-29",
+    "access": "partial",
+    "supports": "实读3条当前公开评论；アテゴン乗り2022-12-03批评操作/重复内容和孩子早腻；酒缶2018-11-24属专业评论，须与普通用户分开；另有silvia-r2402018-01-17认可。"
+  },
+  {
+    "id": "b1",
+    "title": "首本原出版社书目访问受阻",
+    "url": "https://www.shufu.co.jp/bookmook/detail/9784391145007/",
+    "publisher": "主妇与生活社",
+    "published": null,
+    "observed": "2026-10-29",
+    "access": "blocked",
+    "supports": "HTTP403，未读原出版社页面；不绕过，改用零售书目并保留首售日缺口。"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "platform": "web",
+    "queries": [
+      "すみっコぐらし 横溝友里 インタビュー 2012",
+      "角落小伙伴 横沟由里 群像 自我投射",
+      "Sumikko Gurashi official character collection dimensions book sales",
+      "site.san-x.co.jp すみっコぐらし 800万",
+      "すみっコぐらし 飽き レビュー",
+      "MV59501 1320"
+    ],
+    "status": "executed"
+  },
+  {
+    "platform": "小红书站内",
+    "queries": [
+      "角落小伙伴 品牌介绍",
+      "角落小伙伴 产品汇总"
+    ],
+    "status": "blocked",
+    "read_notes": 0,
+    "scope": "此前同一会话后续页面读取长期不返回；本对象未执行，不绕过。"
+  },
+  {
+    "platform": "官方/公共页面",
+    "queries": [
+      "原出版社首本书目",
+      "官方目录第24页"
+    ],
+    "status": "partial",
+    "scope": "出版社403；70页目录文本提取为空，渲染实读24页；没有声称读完70页。"
+  }
+]

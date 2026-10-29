@@ -1,0 +1,56 @@
+[
+  {
+    "name": "白熊暖白",
+    "region": "V01身体内部，和桃色背景分开",
+    "image_id": "V01",
+    "extension": "webp",
+    "xy": [
+      121,
+      111
+    ],
+    "hex_preview": "#FFFFFF",
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "method": "原图转RGB，坐标周围3×3像素逐通道中位数",
+    "value_basis": "image_sample",
+    "uncertainty": "屏幕近似，受压缩/光照影响；不是生产色号，无主体分割面积比例"
+  },
+  {
+    "name": "ぺんぎん？黄绿",
+    "region": "V02右侧主体",
+    "image_id": "V02",
+    "extension": "webp",
+    "xy": [
+      125,
+      83
+    ],
+    "hex_preview": "#E3EA98",
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "method": "原图转RGB，坐标周围3×3像素逐通道中位数",
+    "value_basis": "image_sample",
+    "uncertainty": "屏幕近似，受压缩/光照影响；不是生产色号，无主体分割面积比例"
+  },
+  {
+    "name": "恐龙浅蓝",
+    "region": "V05主体中右",
+    "image_id": "V05",
+    "extension": "webp",
+    "xy": [
+      116,
+      81
+    ],
+    "hex_preview": "#CFEAEA",
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "method": "原图转RGB，坐标周围3×3像素逐通道中位数",
+    "value_basis": "image_sample",
+    "uncertainty": "屏幕近似，受压缩/光照影响；不是生产色号，无主体分割面积比例"
+  }
+]
