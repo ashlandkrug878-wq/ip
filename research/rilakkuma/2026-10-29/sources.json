@@ -1,0 +1,152 @@
+[
+  {
+    "id": "s1",
+    "title": "日文角色档案",
+    "url": "https://www.san-x.co.jp/ja/characters/rilakkuma/",
+    "publisher": "San-X",
+    "published": null,
+    "observed": "2026-10-29",
+    "access": "full",
+    "supports": "2003年9月登场；着ぐるみ角色、Kaoru寄居、伙伴关系与小熊是真熊。"
+  },
+  {
+    "id": "s2",
+    "title": "英文档案对照",
+    "url": "https://www.san-x.co.jp/en/characters/rilakkuma/",
+    "publisher": "San-X",
+    "published": null,
+    "observed": "2026-10-29",
+    "access": "full",
+    "supports": "英文存在机翻不通顺，设定以日文为准；同IP不按译名另排。"
+  },
+  {
+    "id": "s3",
+    "title": "20周年官方历史",
+    "url": "https://www.san-x.co.jp/rilakkuma/20th_anniversary/",
+    "publisher": "San-X",
+    "published": null,
+    "observed": "2026-10-29",
+    "access": "full",
+    "supports": "2003年9月登场；拉链内可见蓝水玉布，内部身份保密，最初草稿日未知。"
+  },
+  {
+    "id": "s4",
+    "title": "作者原始访谈与履历",
+    "url": "https://sho.jp/ehon/8287",
+    "publisher": "小学馆",
+    "published": "2017-04-21",
+    "observed": "2026-10-29",
+    "access": "full",
+    "supports": "本人谈曾做角色杂货文具，简介明确原案和商品设计；不是将其另一作品睡眠故事移入轻松熊。"
+  },
+  {
+    "id": "s5",
+    "title": "2026TV动画与制作人员自述",
+    "url": "https://rilakkuma-anime.com/",
+    "publisher": "动画官网",
+    "published": null,
+    "observed": "2026-10-29",
+    "access": "full",
+    "supports": "San-X原作、Production I.G制作；导演/角色设计谈柔软笔触与动作保留“熊感”；不是第一部动画或2003起源。"
+  },
+  {
+    "id": "s6",
+    "title": "TV首播公告",
+    "url": "https://news.aniplex.co.jp/detail.html?id=69882",
+    "publisher": "Aniplex",
+    "published": "2026-02-28",
+    "observed": "2026-10-29",
+    "access": "full",
+    "supports": "2026年4月4日9:25起TBS，其他地区另排。"
+  },
+  {
+    "id": "s7",
+    "title": "Monochrome官方产品专题",
+    "url": "https://www.san-x.co.jp/ja/special/goods_2026_05_rk/",
+    "publisher": "San-X",
+    "published": null,
+    "observed": "2026-10-29",
+    "access": "full",
+    "supports": "4月下旬顺次发售；黑白色商品和拉链细节由实际商品图确认。"
+  },
+  {
+    "id": "s8",
+    "title": "Monochrome官方新闻稿PDF",
+    "url": "https://www.san-x.co.jp/release/26.04.03_BASIC_RILAKKUMA_MONOCHROME.pdf",
+    "publisher": "San-X",
+    "published": "2026-04-03",
+    "observed": "2026-10-29",
+    "access": "full",
+    "supports": "4月3日发布8页，文本可读；2022年11月BASIC起点、第6弹；产品价和工艺，非销量。"
+  },
+  {
+    "id": "s9",
+    "title": "ぬいぬい系列官方公告",
+    "url": "https://prtimes.jp/main/html/rd/p/000000736.000018631.html",
+    "publisher": "San-X",
+    "published": "2025-11-28",
+    "observed": "2026-10-29",
+    "access": "full",
+    "supports": "2025-12-06店铺/12-08网店不同日；普通3850JPY、包装熊4180JPY含税；限定不是售罄证明。"
+  },
+  {
+    "id": "s10",
+    "title": "《轻松熊生活》纸书",
+    "url": "https://books.rakuten.co.jp/rb/1657549/",
+    "publisher": "Rakuten Books",
+    "published": null,
+    "observed": "2026-10-29",
+    "access": "partial",
+    "supports": "当前880JPY含税、124p、ISBN9784391129328、标2004年4月；具体首售日与别店3月/4月5日差异未核。"
+  },
+  {
+    "id": "s11",
+    "title": "MR75101零售历史",
+    "url": "https://www.yodobashi.com/product/100000001003138997/",
+    "publisher": "Yodobashi",
+    "published": null,
+    "observed": "2026-10-29",
+    "access": "partial",
+    "supports": "零售商2016-07-16开售，停售时1650JPY含税；不是全IP首发/当前官方在库。"
+  },
+  {
+    "id": "s12",
+    "title": "书店转引读书Meter读者评论",
+    "url": "https://www.kinokuniya.co.jp/f/dsg-01-9784391129328",
+    "publisher": "纪伊国屋/读书Meter",
+    "published": null,
+    "observed": "2026-10-29",
+    "access": "partial",
+    "supports": "实读公开5则；みゃーこ2013-11-18、YUKA2015-12-30、紅香2014-09-11、佳音2013-05-11、ぽてちゅう2023-03-05。为转引，同条不当独立来源。"
+  },
+  {
+    "id": "u1",
+    "title": "众多毛绒如何选择",
+    "url": "https://www.reddit.com/r/rilakkuma/comments/ys640u/",
+    "publisher": "Reddit",
+    "published": null,
+    "observed": "2026-10-29",
+    "access": "snippet_only",
+    "supports": "搜索摘要可见有限预算/空间、按草莓/樱花色系选择、看重拉链按钮。原页DisabledError，账号/完整上下文未读。"
+  },
+  {
+    "id": "u2",
+    "title": "收藏不用的负担",
+    "url": "https://www.reddit.com/r/rilakkuma/comments/1l18n7a/",
+    "publisher": "Reddit",
+    "published": null,
+    "observed": "2026-10-29",
+    "access": "snippet_only",
+    "supports": "摘要提怕脏不敢用、越买越多；正文访问受阻，不作人群比例。"
+  },
+  {
+    "id": "u3",
+    "title": "高价降低收藏乐趣",
+    "url": "https://www.reddit.com/r/rilakkuma/comments/1iu0ohd/",
+    "publisher": "Reddit",
+    "published": null,
+    "observed": "2026-10-29",
+    "access": "snippet_only",
+    "supports": "摘要提价格高与部分购买后悔，完整帖受阻；叫价不等于成交。"
+  }
+]

@@ -1,0 +1,404 @@
+{
+  "id": "rilakkuma",
+  "name": "轻松熊 Rilakkuma",
+  "aliases": [
+    "リラックマ",
+    "拉拉熊",
+    "松弛熊"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-29",
+  "updated": "2026-10-29",
+  "summary": "松弛表达靠少五官、身体姿态和日常文字延续，配角关系、季节主题与新载体支持更新；不等于每次上新都有销量增长。",
+  "owner": {
+    "creator": "コンドウアキ／Aki Kondo（近藤亚希）",
+    "operator": "San-X Co., Ltd.／サンエックス株式会社",
+    "relation": "原案与早期商品设计由作者履历确认；现有角色由San-X版权署名与经营。公司不是Sanrio，动画制作/发行方也不是角色母体权利人。后续各设计者分工null。",
+    "sources": [
+      "s1",
+      "s4",
+      "s5"
+    ]
+  },
+  "origin": {
+    "path": [
+      "产品先行"
+    ],
+    "year": 2003,
+    "story": "官方将登场定为2003年9月；早期角色杂货/文具先行，2004纸书为后续表达载体，不将其说成IP原著起点。网上2月先行说法的旧页面本轮404，暂不采。",
+    "sources": [
+      "s1",
+      "s3",
+      "s4",
+      "s10"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2003-09",
+      "event": "官方角色登场",
+      "type": "fact",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "date": "2004-04",
+      "event": "纸书零售书目；精确首售日尚不统一",
+      "type": "fact",
+      "sources": [
+        "s10"
+      ]
+    },
+    {
+      "date": "2016-07-16",
+      "event": "MR75101该店开售，不是全IP最早毛绒",
+      "type": "fact",
+      "sources": [
+        "s11"
+      ]
+    },
+    {
+      "date": "2022-11",
+      "event": "BASIC系列首弹，2026新闻稿回顾",
+      "type": "self_report",
+      "sources": [
+        "s8"
+      ]
+    },
+    {
+      "date": "2026-04-04",
+      "event": "新的TV动画TBS计划首播",
+      "type": "self_report",
+      "sources": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2026-04下旬",
+      "event": "黑白BASIC产品顺次上市，地区店铺或不同",
+      "type": "self_report",
+      "sources": [
+        "s7",
+        "s8"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "今天也可以慢一点，不必时时刻刻证明自己。",
+    "sentence_type": "允许",
+    "basis": "inferred",
+    "sources": [
+      "s1",
+      "s10",
+      "s12"
+    ]
+  },
+  "core": {
+    "personality": "爱食物与休息、随自己步调；带一点神秘的着布偶服身份",
+    "emotion": "内收",
+    "action": "躺、坐、吃零食；与顽皮白熊、勤劳黄鸟形成生活反差",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "忙完片刻、翻一页短句、触碰桌边毛绒",
+    "behavior": "看动作与文字，选择适合自己生活的主题/尺寸",
+    "state": "想获得短暂休息的许可，不必先完成宏大叙事",
+    "conflict": "表达是放松，收藏抢购/预算和收纳却可能带来压力",
+    "unsaid": "陪我停一会儿，就够了。",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "角色文具/毛绒收藏者、读者与家庭受众；人口占比未知",
+    "where": "日常杂货、官方/授权店、书与动画接触",
+    "buy": "少数老书评自述从文字入坑与买整套；不能回推当前转化率",
+    "signs": "圆耳、点眼、白口部/腹斑、黄耳内/脚掌、松弛姿态；同伴不是别名",
+    "share": "按主题收藏、短句分享与生活拍照；本轮用户照片未作逐图分析",
+    "breakout": "书和动画可补充情绪语境，新客贡献null"
+  },
+  "pendulum": {
+    "position": "软萌治愈",
+    "against": "休息许可与高绩效日常形成张力；2003起点早于近年中文“躺平”，不倒推创作者当年用词"
+  },
+  "form": {
+    "archetype": "动物类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "五官",
+      "姿态"
+    ],
+    "mark": "圆耳扁圆头、点眼、奶白小口部及人字嘴、白腹、短肢与懒散重心",
+    "face": "V01点眼在脸中下位置、奶白口部内小鼻与两分嘴，无高光睫毛；V04轮廓留白为动画笔触",
+    "emotion": "面无表情",
+    "odd": "看似普通棕熊，却是中身保密的着ぐるみ；背拉链与水玉布是内容细节",
+    "density": "极简",
+    "naming": "其他",
+    "group": "角色群"
+  },
+  "collide_combo": "棕熊公共原型不等于可以搬用圆耳点眼、人字嘴白口部、椭圆白腹、黄掌和背拉链整套。研究松弛重心时应建立独立比例与脸。",
+  "color": {
+    "mode": "白底加签名色",
+    "main": "经典暖棕、奶白、黄；黑白BASIC是官方反例",
+    "signature": "口部/腹与身体大面积分区、少量掌耳强调；色可变而关系延续",
+    "notes": "黑色不是图像变暗：V05官方实物黑白设计；摄影灰影不作固有色。小白熊的红钮和真实小熊胸毛不加给本体"
+  },
+  "materials": "不同产品有短绒、长绒、弹性软材、刺绣和绗缝棉布；具体纤维配方依SKU，不能把所有毛绒都称一种面料。V05有真实拉链细节，未据此认定所有版本都有可打开拉链。",
+  "carrier": {
+    "primary": "授权图案",
+    "secondary": "实物潮玩"
+  },
+  "product": {
+    "first_category": "授权周边",
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "本轮日本纸书880JPY、MR75101停售1650JPY、2026代表商品385—5830JPY含税",
+    "sources": [
+      "s8",
+      "s9",
+      "s10",
+      "s11"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "本IP独立营收/净销量/年度增长",
+      "value": null,
+      "unit": null,
+      "period": "截至2026-10-29",
+      "type": "hypothesis",
+      "sources": [
+        "s1",
+        "s8"
+      ]
+    },
+    {
+      "metric": "2023周年",
+      "value": 20,
+      "unit": "年",
+      "period": "从2003登场计，非销量指标",
+      "type": "self_report",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "把休息写成姿态与短句，让用户低成本进入情绪。",
+      "type": "inference",
+      "evidence": "角色设定专注食物和休息；读者样本被文字而非只有造型吸引。",
+      "boundary": "内容与少量回忆证据中等；没有情绪疗效或转化实验。",
+      "sources": [
+        "s1",
+        "s10",
+        "s12"
+      ]
+    },
+    {
+      "claim": "保持身份关系，允许颜色、笔触和材料随使用场景更新。",
+      "type": "inference",
+      "evidence": "经典色、2026动画留白轮廓与黑白毛绒并列；BASIC官方说明适应服饰/室内使用。",
+      "boundary": "视觉与官方产品策略强，无法证明每次改色都有盈利或人人认可。",
+      "sources": [
+        "s5",
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "claim": "配角不同性格和季节题材可延长内容供给，但收藏成本形成反作用。",
+      "type": "inference",
+      "evidence": "勤劳黄鸟/顽皮白熊对比与ぬいぬい主题更新；弱用户摘要提预算和空间压力。",
+      "boundary": "群像和供给可核，收藏负担只有非代表性片段，不能定量退坑。",
+      "sources": [
+        "s1",
+        "s9",
+        "u1",
+        "u2",
+        "u3"
+      ]
+    }
+  ],
+  "counterexamples": "休息表达不等于赞同完全不行动：早期3星书评对读者对象有保留；该价值判断不是研究者结论。有人被拉链的未知内部吓到一点，也有人爱其文字。黑白版证明棕色并非所有官方版本不变量。高价/怕脏和占位摘要提示收藏压力，但未核系统退坑或全市场衰落。",
+  "theory": {
+    "shell": "极简五官需精确比例与体块，不等于只画点眼就是同种机制",
+    "core": "慢下来仍能与他人一起生活；不是所有成员都懒",
+    "shadow": "不要把小白熊、黄鸟与真小熊当本体不同译名",
+    "two_layers": {
+      "surface": "短暂停顿和可触陪伴",
+      "deep": "日常文字、主题偏好、版本细节及收藏约束"
+    },
+    "validation": "周年、投票与零售在库均非净销量；未移用San-X全公司或其他IP营收"
+  },
+  "for_skills": {
+    "lab": "将情绪许可写成具体生活时刻，观察用户是放松还是被说教。",
+    "form": "用重心/关节/眼位形成节奏，独立设计脸部与轮廓，少靠情绪标签。",
+    "studio": "按触摸、使用、陈列分别验证材料与可清洁性，允许主题变化但记录身份不变量。"
+  },
+  "gaps": [
+    "初始草稿/最早内部创作日未知；官方2003-09登场与首售日不细化为某天。",
+    "纸书月份与具体发行/开售日期口径不同，采用2004-04书目；原出版社原始书目未取得。",
+    "独立营收与销量null；不把投票、收藏数、全公司数字当证据。",
+    "小红书因上一对象后续页面读取超时，本对象两个固定查询未执行，实读0篇；没有绕过登录或会话。",
+    "独立用户证据包括2个书店页面实读3+5则公开评论，较旧且非随机样本；Reddit仅3个摘要，正文受阻。",
+    "官方店3个SKU页503/网页超时，改用官方新闻稿与专题；具体尺寸不足填null。",
+    "平面只有英文附图V04的2026TV动画挥手版通过限定范围，线更匀/稍粗、头脸与肢体曲线略异；纯文字/中文/稳定性未测。"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "日文角色档案",
+      "url": "https://www.san-x.co.jp/ja/characters/rilakkuma/",
+      "publisher": "San-X",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2003年9月登场；着ぐるみ角色、Kaoru寄居、伙伴关系与小熊是真熊。"
+    },
+    {
+      "id": "s2",
+      "title": "英文档案对照",
+      "url": "https://www.san-x.co.jp/en/characters/rilakkuma/",
+      "publisher": "San-X",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "英文存在机翻不通顺，设定以日文为准；同IP不按译名另排。"
+    },
+    {
+      "id": "s3",
+      "title": "20周年官方历史",
+      "url": "https://www.san-x.co.jp/rilakkuma/20th_anniversary/",
+      "publisher": "San-X",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2003年9月登场；拉链内可见蓝水玉布，内部身份保密，最初草稿日未知。"
+    },
+    {
+      "id": "s4",
+      "title": "作者原始访谈与履历",
+      "url": "https://sho.jp/ehon/8287",
+      "publisher": "小学馆",
+      "published": "2017-04-21",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "本人谈曾做角色杂货文具，简介明确原案和商品设计；不是将其另一作品睡眠故事移入轻松熊。"
+    },
+    {
+      "id": "s5",
+      "title": "2026TV动画与制作人员自述",
+      "url": "https://rilakkuma-anime.com/",
+      "publisher": "动画官网",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "San-X原作、Production I.G制作；导演/角色设计谈柔软笔触与动作保留“熊感”；不是第一部动画或2003起源。"
+    },
+    {
+      "id": "s6",
+      "title": "TV首播公告",
+      "url": "https://news.aniplex.co.jp/detail.html?id=69882",
+      "publisher": "Aniplex",
+      "published": "2026-02-28",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2026年4月4日9:25起TBS，其他地区另排。"
+    },
+    {
+      "id": "s7",
+      "title": "Monochrome官方产品专题",
+      "url": "https://www.san-x.co.jp/ja/special/goods_2026_05_rk/",
+      "publisher": "San-X",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "4月下旬顺次发售；黑白色商品和拉链细节由实际商品图确认。"
+    },
+    {
+      "id": "s8",
+      "title": "Monochrome官方新闻稿PDF",
+      "url": "https://www.san-x.co.jp/release/26.04.03_BASIC_RILAKKUMA_MONOCHROME.pdf",
+      "publisher": "San-X",
+      "published": "2026-04-03",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "4月3日发布8页，文本可读；2022年11月BASIC起点、第6弹；产品价和工艺，非销量。"
+    },
+    {
+      "id": "s9",
+      "title": "ぬいぬい系列官方公告",
+      "url": "https://prtimes.jp/main/html/rd/p/000000736.000018631.html",
+      "publisher": "San-X",
+      "published": "2025-11-28",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2025-12-06店铺/12-08网店不同日；普通3850JPY、包装熊4180JPY含税；限定不是售罄证明。"
+    },
+    {
+      "id": "s10",
+      "title": "《轻松熊生活》纸书",
+      "url": "https://books.rakuten.co.jp/rb/1657549/",
+      "publisher": "Rakuten Books",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "partial",
+      "supports": "当前880JPY含税、124p、ISBN9784391129328、标2004年4月；具体首售日与别店3月/4月5日差异未核。"
+    },
+    {
+      "id": "s11",
+      "title": "MR75101零售历史",
+      "url": "https://www.yodobashi.com/product/100000001003138997/",
+      "publisher": "Yodobashi",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "partial",
+      "supports": "零售商2016-07-16开售，停售时1650JPY含税；不是全IP首发/当前官方在库。"
+    },
+    {
+      "id": "s12",
+      "title": "书店转引读书Meter读者评论",
+      "url": "https://www.kinokuniya.co.jp/f/dsg-01-9784391129328",
+      "publisher": "纪伊国屋/读书Meter",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "partial",
+      "supports": "实读公开5则；みゃーこ2013-11-18、YUKA2015-12-30、紅香2014-09-11、佳音2013-05-11、ぽてちゅう2023-03-05。为转引，同条不当独立来源。"
+    },
+    {
+      "id": "u1",
+      "title": "众多毛绒如何选择",
+      "url": "https://www.reddit.com/r/rilakkuma/comments/ys640u/",
+      "publisher": "Reddit",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "snippet_only",
+      "supports": "搜索摘要可见有限预算/空间、按草莓/樱花色系选择、看重拉链按钮。原页DisabledError，账号/完整上下文未读。"
+    },
+    {
+      "id": "u2",
+      "title": "收藏不用的负担",
+      "url": "https://www.reddit.com/r/rilakkuma/comments/1l18n7a/",
+      "publisher": "Reddit",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "snippet_only",
+      "supports": "摘要提怕脏不敢用、越买越多；正文访问受阻，不作人群比例。"
+    },
+    {
+      "id": "u3",
+      "title": "高价降低收藏乐趣",
+      "url": "https://www.reddit.com/r/rilakkuma/comments/1iu0ohd/",
+      "publisher": "Reddit",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "snippet_only",
+      "supports": "摘要提价格高与部分购买后悔，完整帖受阻；叫价不等于成交。"
+    }
+  ],
+  "archive": "research/rilakkuma/2026-10-29/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/rilakkuma/2026-10-29/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/rilakkuma/2026-10-29/"
+}

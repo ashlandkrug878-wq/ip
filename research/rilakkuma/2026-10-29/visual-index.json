@@ -1,0 +1,97 @@
+[
+  {
+    "image_id": "V01",
+    "title": "经典档案动作",
+    "original_image_url": "https://www.san-x.co.jp/uploads/1769160901929-s5ca3w4hrqb/1.webp",
+    "observed_features": "暖棕扁圆头、点眼、白口部/白腹，黄耳内脚掌，斜倚坐姿、双臂在腹前。",
+    "boundary": "已实际打开原图；V01—03是官网200×200档案图，V04是动画正式角色图，V05仅用于跨载体对照。",
+    "sources": [
+      "s1"
+    ],
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "original_sha256": "552eb9e7e4c36a517c8f9e046f3c7f7d54b74a4c72d80c2467c8c391e5bbe0cd",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V02",
+    "title": "小白熊关系对照",
+    "original_image_url": "https://www.san-x.co.jp/uploads/1769160902709-izpgt7acbme/2.webp",
+    "observed_features": "奶白身体、粉耳内、胸前红按钮，口微张；是Korilakkuma，不是本体白色涂装。",
+    "boundary": "已实际打开原图；V01—03是官网200×200档案图，V04是动画正式角色图，V05仅用于跨载体对照。",
+    "sources": [
+      "s1"
+    ],
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "original_sha256": "546d9cf9e66ead5a467a487eccbd95011fd752615baa4bb7bd59a48f0f6c6857",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V03",
+    "title": "真实小熊伙伴",
+    "original_image_url": "https://www.san-x.co.jp/uploads/1769160904415-u0wfqj4oa2/4.webp",
+    "observed_features": "更深棕、胸前毛束、耳较深，坐姿脚有黄斑；官网明列真熊，与着布偶服主角不同。",
+    "boundary": "已实际打开原图；V01—03是官网200×200档案图，V04是动画正式角色图，V05仅用于跨载体对照。",
+    "sources": [
+      "s1"
+    ],
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "original_sha256": "4b3f5e11336e49dd90191aacb9dca56b3d15b7df7fe738883c51d1713fcf55ff",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V04",
+    "title": "2026TV动画挥手版",
+    "original_image_url": "https://rilakkuma-anime.com/assets/img/chara/chara_stand_1-1.png",
+    "observed_features": "暖棕身体、奶白口部/腹、黄耳内/右掌，右臂朝斜上；深棕线不完全闭合，边缘奶白留缝。",
+    "boundary": "已实际打开原图；V01—03是官网200×200档案图，V04是动画正式角色图，V05仅用于跨载体对照。",
+    "sources": [
+      "s5"
+    ],
+    "original_dimensions": [
+      1280,
+      720
+    ],
+    "original_sha256": "de55f4c1c30b786895f64b0e390cd52a11fddf2a5f7794a587152eb7d35c7fa5",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V05",
+    "title": "官方黑白毛绒专题实物",
+    "original_image_url": "https://www.san-x.co.jp/uploads/1774830077275-6cqhhrau8pw/3008b835-f9d8-4420-b8ad-1562d6bd63ab.webp",
+    "observed_features": "四成员实物黑白/灰配色，主角黑身白腹、灰耳内/眼，背拉链内圆点布也黑白；文字与多图是官方商品说明，不是母版。",
+    "boundary": "已实际打开原图；V01—03是官网200×200档案图，V04是动画正式角色图，V05仅用于跨载体对照。",
+    "sources": [
+      "s7"
+    ],
+    "original_dimensions": [
+      1280,
+      2845
+    ],
+    "original_sha256": "838df132c1d28fc6b0405f62be25689a93f1e1868d5f1dadf9e492f7ea62438c",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  }
+]

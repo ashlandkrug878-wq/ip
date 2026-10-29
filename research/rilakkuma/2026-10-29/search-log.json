@@ -1,0 +1,33 @@
+[
+  {
+    "platform": "web",
+    "queries": [
+      "Rilakkuma official Aki Kondo 2003 San-X story interview",
+      "site.san-x.co.jp リラックマ プロフィール",
+      "site.san-x.co.jp リラックマ 売上",
+      "Rilakkuma plush limited funds collecting",
+      "リラックマ生活 ISBN9784391129328"
+    ],
+    "status": "executed"
+  },
+  {
+    "platform": "小红书站内",
+    "queries": [
+      "轻松熊 品牌介绍",
+      "轻松熊 产品汇总"
+    ],
+    "status": "blocked",
+    "read_notes": 0,
+    "scope": "前一IP追加读取持续未返回，停止依赖同会话，未执行这两条检索。"
+  },
+  {
+    "platform": "official shop",
+    "queries": [
+      "200643",
+      "202246",
+      "210209"
+    ],
+    "status": "blocked",
+    "scope": "HTTP503/网页超时，不绕过；用公开新闻稿和专题。"
+  }
+]

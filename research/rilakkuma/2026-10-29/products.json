@@ -1,0 +1,70 @@
+[
+  {
+    "name": "MR75101普通S毛绒",
+    "release": "该零售商2016-07-16开售",
+    "price": "日本停售时JPY1650含税",
+    "size": null,
+    "material": null,
+    "note": "非官方首售日；停售不是IP退市",
+    "sources": [
+      "s11"
+    ]
+  },
+  {
+    "name": "Monochrome主角毛绒",
+    "release": "2026-04下旬顺次",
+    "price": "日本JPY2970含税",
+    "size": null,
+    "material": "毛绒，细配方null；背拉链内水玉布",
+    "note": "具体SKU页受阻，不从伙伴尺寸补本体",
+    "sources": [
+      "s7",
+      "s8"
+    ]
+  },
+  {
+    "name": "Monochrome俯卧软毛绒",
+    "release": "2026-04下旬顺次",
+    "price": "日本JPY5830含税",
+    "size": null,
+    "material": "官方称もーちもち素材；成分null",
+    "note": "俯卧抱持载体，非普通款同比缩放",
+    "sources": [
+      "s8"
+    ]
+  },
+  {
+    "name": "Monochrome记事本",
+    "release": "2026-04下旬顺次",
+    "price": "日本JPY385含税/本",
+    "size": "80张/4种内页；外尺寸null",
+    "material": "包背装订、烫箔封面",
+    "note": "日常使用入口不等于盲抽",
+    "sources": [
+      "s8"
+    ]
+  },
+  {
+    "name": "ぬいぬい包装熊",
+    "release": "店2025-12-06/网2025-12-08",
+    "price": "日本JPY4180含税",
+    "size": null,
+    "material": null,
+    "note": "Loft及官方网店限定；普通ぬいぬい毛绒3850不同SKU",
+    "sources": [
+      "s9"
+    ]
+  },
+  {
+    "name": "纸书《リラックマ生活》9784391129328",
+    "release": "2004-04书目/精确日null",
+    "price": "日本访问价JPY880含税",
+    "size": "A5/124p（书店信息）",
+    "material": "纸",
+    "note": "コンドウアキ图文/主妇与生活社；不同来源页数/日期有差异，未实物核版",
+    "sources": [
+      "s10",
+      "s12"
+    ]
+  }
+]

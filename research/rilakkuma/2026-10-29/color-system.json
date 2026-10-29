@@ -1,0 +1,56 @@
+[
+  {
+    "name": "动画版暖棕",
+    "region": "V04额部完整色块，透明画布尺寸照实记录",
+    "image_id": "V04",
+    "extension": "png",
+    "xy": [
+      620,
+      170
+    ],
+    "hex_preview": "#C88625",
+    "original_dimensions": [
+      1280,
+      720
+    ],
+    "method": "原图转RGB，坐标周围3×3像素逐通道中位数",
+    "value_basis": "image_sample",
+    "uncertainty": "屏幕近似，受压缩/光照影响；不是生产色号，无主体分割面积比例"
+  },
+  {
+    "name": "动画版黄色",
+    "region": "V04右耳内",
+    "image_id": "V04",
+    "extension": "png",
+    "xy": [
+      803,
+      100
+    ],
+    "hex_preview": "#FED00B",
+    "original_dimensions": [
+      1280,
+      720
+    ],
+    "method": "原图转RGB，坐标周围3×3像素逐通道中位数",
+    "value_basis": "image_sample",
+    "uncertainty": "屏幕近似，受压缩/光照影响；不是生产色号，无主体分割面积比例"
+  },
+  {
+    "name": "经典暖棕",
+    "region": "V01头侧，200×200小图压缩近似",
+    "image_id": "V01",
+    "extension": "webp",
+    "xy": [
+      102,
+      62
+    ],
+    "hex_preview": "#C68212",
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "method": "原图转RGB，坐标周围3×3像素逐通道中位数",
+    "value_basis": "image_sample",
+    "uncertainty": "屏幕近似，受压缩/光照影响；不是生产色号，无主体分割面积比例"
+  }
+]

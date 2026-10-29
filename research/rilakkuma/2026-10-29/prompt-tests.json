@@ -1,0 +1,30 @@
+[
+  {
+    "prompt_id": "rk-flat-ref-v1",
+    "subject_id": "rilakkuma",
+    "version": 1,
+    "target_scope": "V04正式2026TV动画角色图的正侧前站立挥手可见角度",
+    "carrier": "flat",
+    "language": "en",
+    "input_mode": "reference_assisted",
+    "reference_image_ids": [
+      "V04"
+    ],
+    "exact_prompt": "Reconstruct the single brown bear-costume character in the attached reference as a flat two-dimensional full-body character illustration on a plain white landscape canvas. Match the exact front three-quarter standing pose: the arm on the viewer's right is lifted diagonally in a small wave showing a yellow oval palm, the other arm hangs beside the cream belly, and two short legs stand apart. Preserve the wide rounded head with small round ears, yellow ear interiors, slightly off-level widely spaced dark-brown dot eyes, cream circular muzzle with tiny dark-brown nose and two downward-curving mouth branches, warm ochre-brown body, large tall cream oval belly, short round limbs and the original head-to-body proportions. Keep the asymmetry and tilted head from the reference; do not replace the dot eyes with shiny pupils, add a smile or make the face realistically bear-like. Preserve the sketch-like dark brown contour and the narrow cream edge gaps visible on the head, left arm, right hand and left body edge. Use flat solid fills and a gently imperfect line. No gradients, fur, plastic shine, clothing, red button, chest tuft, new props, extra limbs, lettering, logo, watermark or background scene. Show only the supplied visible view, not an invented back view.",
+    "generated_image_path": "assets/flat-ref-v1.webp",
+    "prompt_file": "prompts/flat-ref-v1.txt",
+    "status": "ready",
+    "observations": "圆头耳、点眼、白口部、分叉嘴、白腹与挥手黄掌接近。线更匀/略粗、头脸和肢体曲线稍异、浅色阶与纸感残留；限定二维身份与动作通过，非标准矢量母版。",
+    "revision_reason": "锁定动画具体版本和同一挥手姿态，未换目标。",
+    "tested_at": "2026-10-29",
+    "original_generated_file": "/workspace/scratch/49527ac7d143/generated_images/exec-4de803a5-3b6c-4a74-97fc-c321b0bbfcc0.png",
+    "original_sha256": "86af66cccf665306dc5998bc91aaf21e391d3a22d72b92fab51e20bdef7337b8",
+    "display_sha256": "22e9a0613b61aa0bbeb50e0b4e01da70fa33ccc44e2db272c8a5f3ebef24bf28",
+    "display_size": [
+      768,
+      432
+    ],
+    "bytes": 11446,
+    "exact_prompt_sha256": "893392e25f892d87594e775c0bf4a520ee02cd4f9925873aee8c5a885029cb37"
+  }
+]
