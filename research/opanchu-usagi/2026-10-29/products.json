@@ -1,0 +1,68 @@
+[
+  {
+    "name": "首本日文绘制书",
+    "release": "2024-03-14",
+    "price": "JPY1210含税 / 日本",
+    "size": "B6变形、136页",
+    "material": "纸本/电子版分别发售",
+    "note": "ISBN未从可读正文取得，未读完整书",
+    "sources": [
+      "s6"
+    ]
+  },
+  {
+    "name": "标准S毛绒 JAN4904790760853",
+    "release": "2025-09-13（商城）",
+    "price": "JPY2640含税 / 日本",
+    "size": null,
+    "material": "毛绒；图见短绒与刺绣",
+    "note": "不是首个实体商品的证明",
+    "sources": [
+      "s7"
+    ]
+  },
+  {
+    "name": "ちょっこりさん坐姿毛绒",
+    "release": "2025-09",
+    "price": "JPY1980含税 / 日本",
+    "size": "W70×H125×D55mm",
+    "material": "毛绒",
+    "note": "官方建议摆放/玩偶摄影，不是已测需求",
+    "sources": [
+      "s8"
+    ]
+  },
+  {
+    "name": "もふらっと扁平S",
+    "release": "2025-10",
+    "price": "JPY1980含税 / 日本",
+    "size": "W160×H230×D55mm",
+    "material": "蓬松扁平毛绒",
+    "note": "开发图与量产差异保留",
+    "sources": [
+      "s9"
+    ]
+  },
+  {
+    "name": "WaterDomeFactory三款",
+    "release": "2025-07中旬",
+    "price": "JPY500/回 / 日本",
+    "size": "W约67×H约70mm；使用H约56mm",
+    "material": "加水/碎片场景，基材null",
+    "note": "3款非销量，随机机制不等于复购",
+    "sources": [
+      "s10"
+    ]
+  },
+  {
+    "name": "メルヘンランド气球毛绒",
+    "release": "最迟2026-08-07已公告，精确首售null",
+    "price": "JPY2970含税 / 日本",
+    "size": "H150×W160×D95mm",
+    "material": "聚酯/PU/尼龙",
+    "note": "2026追加销售公告不是原作首发",
+    "sources": [
+      "s11"
+    ]
+  }
+]

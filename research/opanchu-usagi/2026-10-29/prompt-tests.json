@@ -1,0 +1,58 @@
+[
+  {
+    "prompt_id": "op-flat-ref-v1",
+    "subject_id": "opanchu-usagi",
+    "version": 1,
+    "target_scope": "官网V01可见正面，黄背景改白底的二维研究转绘",
+    "carrier": "flat",
+    "language": "en",
+    "input_mode": "reference_assisted",
+    "reference_image_ids": [
+      "V01"
+    ],
+    "exact_prompt": "Use the attached image as the sole character identity, exact pose and local-color reference. Redraw only the single pink rabbit-like figure in this visible front-facing pose as a clean flat 2D research illustration on a pure white background, replacing the yellow backdrop. Preserve its compact wide round head, two short upright unequal rounded ears, small cyan three-lobed bow between the ears, very large black wet-looking eyes with the exact tiny white highlights and clustered lashes, curved worried brows, tiny curved muzzle and thick double-lobed mouth. Keep the wide low outstretched drooping arms, short torso, high-waisted scalloped white underwear covering the belly, and two short rounded pink legs below. Keep all facial geometry, eye spacing and the squat head-body proportions from the reference, including the slightly awkward gentle expression. Thin black slightly irregular outlines, solid pink skin, solid cyan bow and solid white underwear. Do not turn it into a smiling cute generic bunny, do not add a nose triangle, teeth, tears running down the cheeks, clothing, props, text, logos, frame, scenery, shadows, gradients or 3D volume. Keep the whole figure and ample white margin. Reconstruct only the visible angle, do not invent side or rear details.",
+    "generated_image_path": "assets/flat-ref-v1.webp",
+    "prompt_file": "prompts/flat-ref-v1.txt",
+    "status": "revise",
+    "observations": "粉兔、蓝结白裤、短体块关系接近；描边过粗、眉嘴较宽，眼下额外圆形高光强化。",
+    "revision_reason": "收细线条、压缩眉嘴与眼簇；继续用同一官方图",
+    "tested_at": "2026-10-29",
+    "original_generated_file": "/workspace/scratch/49527ac7d143/generated_images/exec-f252702b-49af-42b4-9560-786e3c4726e7.png",
+    "original_sha256": "17534cf6117d4e8b5ae56411869d3ad61b526585644d6d4c6ca97fa60b54684e",
+    "display_sha256": "cc68a29508461d93d17ffa72d2e3e4eefc18e138ae5d346cd82d5162a6d10449",
+    "display_size": [
+      768,
+      768
+    ],
+    "bytes": 16700,
+    "exact_prompt_sha256": "c3f499367f7b6d82a8fa59b026df2b9f909e6e9959032a18afcc108055c8720c"
+  },
+  {
+    "prompt_id": "op-flat-ref-v2",
+    "subject_id": "opanchu-usagi",
+    "version": 2,
+    "target_scope": "同一V01可见正面二维身份，非标准矢量母版",
+    "carrier": "flat",
+    "language": "en",
+    "input_mode": "reference_assisted",
+    "reference_image_ids": [
+      "V01"
+    ],
+    "exact_prompt": "Use the attached image as the sole character identity, exact pose and local-color reference. Redraw only the single pink rabbit-like figure in this visible front-facing pose as a clean flat 2D research illustration on a pure white background, replacing the yellow backdrop. Preserve its compact wide round head, two short upright unequal rounded ears, small cyan three-lobed bow between the ears, very large black wet-looking eyes with the exact tiny white highlights and clustered lashes, curved worried brows, tiny curved muzzle and thick double-lobed mouth. Keep the wide low outstretched drooping arms, short torso, high-waisted scalloped white underwear covering the belly, and two short rounded pink legs below. Keep all facial geometry, eye spacing and the squat head-body proportions from the reference, including the slightly awkward gentle expression. Thin black slightly irregular outlines, solid pink skin, solid cyan bow and solid white underwear. Do not turn it into a smiling cute generic bunny, do not add a nose triangle, teeth, tears running down the cheeks, clothing, props, text, logos, frame, scenery, shadows, gradients or 3D volume. Keep the whole figure and ample white margin. Reconstruct only the visible angle, do not invent side or rear details.\nRevision for this exact reference: Make the outline visually as thin as the original, about half the previous heavy outline. Keep both eyes as compact closed black clusters with two tiny white highlights contained within each eye, without a separate dangling outlined tear or extra circle. Reduce the eyebrows and mouth width slightly, keeping the same small location and low-intensity expression shown in the reference. Match the reference itself, not the previous generated output.",
+    "generated_image_path": "assets/flat-ref-v2.webp",
+    "prompt_file": "prompts/flat-ref-v2.txt",
+    "status": "ready",
+    "observations": "轮廓、耳结、眉眼嘴及白裤分区接近；眉嘴收小、描边收细。眼内高光数量和轮廓仍有差别，局部浅色阶保留，严格均匀平涂未通过。",
+    "revision_reason": "仅限定可见二维身份接近；不将附图结论推广为纯文字复现",
+    "tested_at": "2026-10-29",
+    "original_generated_file": "/workspace/scratch/49527ac7d143/generated_images/exec-f7582b6a-67c7-4218-834f-d866e15a889d.png",
+    "original_sha256": "398b84adc82c5196490cf514436a45584c6e1353b51d1f34a0bbde3ed03b707f",
+    "display_sha256": "b56386d3038593def6d75132ee4a775f1c0498d705070789381c4e27bd5fd90d",
+    "display_size": [
+      768,
+      768
+    ],
+    "bytes": 14622,
+    "exact_prompt_sha256": "1c9d823daad485fafcf78600305da94cc26829ba8a3a87bcf5264e29bf601e6e"
+  }
+]

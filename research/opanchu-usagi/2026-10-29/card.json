@@ -1,0 +1,401 @@
+{
+  "id": "opanchu-usagi",
+  "name": "内裤兔 Opanchu Usagi",
+  "aliases": [
+    "おぱんちゅうさぎ",
+    "裤裤兔",
+    "胖次兔",
+    "裤头兔"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-29",
+  "updated": "2026-10-29",
+  "summary": "把不顺利变成可继续发生的喜剧情节，让观众想照顾它；授权把同一关系带到不同产品。创作意图和用户购买原因分开。",
+  "owner": {
+    "creator": "可哀想に！ / KAWAISOUNI!",
+    "operator": "作者与CHOCOLATE制作管理；伊藤忠分地区商品化授权",
+    "relation": "©KAWAISOUNI!；2022制作管理公告与2024分地区授权分开，完整合同和期限未知",
+    "since": null,
+    "sources": [
+      "s1",
+      "s4",
+      "s5"
+    ]
+  },
+  "origin": {
+    "path": [
+      "网络插画",
+      "短视频"
+    ],
+    "year": null,
+    "story": "作者回顾：找不到内裤时的语感，结合自己对兔子脆弱的联想。2022-01为专用社媒账号启动节点，不能直接当最早创作日。2022-03早期访谈已称为代表角色。",
+    "sources": [
+      "s2",
+      "s3"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2022-01",
+      "event": "作者访谈回顾专用账号开始发图，最早原帖未逐条取得",
+      "type": "self_report",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "date": "2022-03-11",
+      "event": "LINE作者访谈已介绍角色与创作方式",
+      "type": "fact",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "date": "2022-11-08",
+      "event": "CCL成立公告列入已制作管理角色",
+      "type": "self_report",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "date": "2024-03-14",
+      "event": "全新绘制日文书出版，不是早期连载首发",
+      "type": "fact",
+      "sources": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2024-10-21",
+      "event": "伊藤忠公布日本韩国外亚洲独占商品化权",
+      "type": "self_report",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "date": "2025-07",
+      "event": "场景水球3款上市",
+      "type": "fact",
+      "sources": [
+        "s10"
+      ]
+    },
+    {
+      "date": "2025-09—10",
+      "event": "标准、坐姿与扁平毛绒提供不同使用方式",
+      "type": "fact",
+      "sources": [
+        "s7",
+        "s8",
+        "s9"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "认真做了，还是不顺利，也可以让人想陪着。",
+    "sentence_type": "反差",
+    "basis": "inferred",
+    "sources": [
+      "s1",
+      "s2",
+      "s3"
+    ]
+  },
+  "core": {
+    "personality": "认真、不走运、坚韧",
+    "emotion": "反差",
+    "action": "努力帮忙或满足愿望，常遭遇意外；不以每篇必失败作强制规则",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "日常小挫折之后浏览短图，桌边/包上看见熟悉角色",
+    "behavior": "作者用少文字的意外情节留白；用户笔记重述倒霉感及玩法",
+    "state": "既想笑又想帮它",
+    "conflict": "可爱与窘迫并存；喜欢故事不必等于购买商品",
+    "unsaid": "今天不太顺，也不用装作很完美。",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "已有故事读者、表情沟通者、毛绒/挂件收藏者；年龄比例未核",
+    "where": "官方社媒、LINE、日用品零售、毛绒与联名",
+    "buy": "有商品发行与开箱自述，未核订单金额或复购",
+    "signs": "委屈眼、蓝结白裤、日常遭遇；别名用于发现，不混同其他粉兔",
+    "share": "介绍与联名清单、开箱可玩性；抽样非随机",
+    "breakout": "跨地区授权提供接触入口，未量化其转化"
+  },
+  "pendulum": {
+    "position": "丑萌怪趣",
+    "against": "以窘迫、身体感与喜剧意外扩展可爱；不能据此宣称Z世代整体拒绝甜美"
+  },
+  "form": {
+    "archetype": "动物类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "五官",
+      "随身道具"
+    ],
+    "mark": "圆粉兔、耳间小蓝结、波浪边白裤、湿亮花瓣状眼和多弧嘴的组合",
+    "face": "主图双短耳、宽圆脸，眉向外斜落，黑色眼簇白光点，鼻口区多条弧线；不补标准侧背",
+    "emotion": "反差",
+    "odd": "低强度动作与复杂委屈脸并置，裤子既命名又定位身体比例",
+    "density": "中等",
+    "naming": "描述",
+    "group": "单角色"
+  },
+  "collide_combo": "避免粉兔短耳＋耳间青蓝结＋花瓣湿眼＋多弧厚嘴＋高腰波浪白裤整套识别；换装或换粉色不是独立原创。",
+  "color": {
+    "mode": "白底加签名色",
+    "main": "粉色身体、青蓝结、白裤、黑线",
+    "signature": "粉/青蓝/白的部位关系为样本重复身份，非官方唯一HEX",
+    "notes": "官网黄底是环境色，毛绒、塑胶和灯光色差分别记录"
+  },
+  "materials": "标准毛绒见短绒与刺绣五官（图像观察）；气球款官方列聚酯/PU/尼龙。水球为加水场景产品，树脂类型和配方未核，不能把所有载体都称软胶。",
+  "carrier": {
+    "primary": "绘本漫画",
+    "secondary": "授权图案"
+  },
+  "product": {
+    "first_category": null,
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "选取日本含税JPY500—2970；非全系列价格带",
+    "sources": [
+      "s6",
+      "s7",
+      "s8",
+      "s9",
+      "s10",
+      "s11"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "独立IP收入/授权费/净销量",
+      "value": null,
+      "unit": null,
+      "period": "截至2026-10-29",
+      "type": "hypothesis",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "metric": "水球系列款数",
+      "value": 3,
+      "unit": "款",
+      "period": "2025-07日本",
+      "type": "fact",
+      "sources": [
+        "s10"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "窘迫的表情和善意行动，让观众从接受安慰转成想照顾角色。",
+      "type": "inference",
+      "evidence": "官方设定的坚持与作者喜剧意图支持这一读法，用户介绍也重述倒霉感。",
+      "boundary": "没有随机用户访谈或购买对照；不能说所有人都产生保护欲。",
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "u1"
+      ]
+    },
+    {
+      "claim": "故事中的具体处境可以直接成为可陈列的产品场景。",
+      "type": "inference",
+      "evidence": "水球把唱歌、台风、钱包场景与水中碎片组合，不只替换服装。",
+      "boundary": "有SKU和图像证据，无数据证明比普通站姿更畅销。",
+      "sources": [
+        "s10"
+      ]
+    },
+    {
+      "claim": "授权、设计和制造分工让不同价位与使用情境同时存在。",
+      "type": "inference",
+      "evidence": "分地区权利公告与不同制造商产品可核。",
+      "boundary": "未取得授权费、SKU销量及地区盈利；渠道数量不代表需求。",
+      "sources": [
+        "s5",
+        "s7",
+        "s10",
+        "s11"
+      ]
+    }
+  ],
+  "counterexamples": "没有找到可核的独立IP收入下降或大规模退坑数据。实读介绍笔记存在首图二创争议，提示社媒介绍不能作母版。坐姿毛绒与气球款表情温和，不能把每件产品写成持续受虐；喜欢可玩性的开箱也提供不依赖倒霉故事的替代购买解释。",
+  "theory": {
+    "shell": "兔子、蝴蝶结、内裤均属公共元素，依赖具体位置、脸和比例组合形成身份",
+    "core": "认真行动但被意外打断，笑点与脆弱同时存在",
+    "shadow": "不能以粉兔单元素判断撞车，也不能只换颜色借走全部组合",
+    "two_layers": {
+      "surface": "路人可由委屈脸与反差快速理解",
+      "deep": "故事记忆和具体处境才让收藏具备解释；本轮未测两层转化率"
+    },
+    "validation": "开箱正文支持自述关注玩法，不证明付款；商品定价/授权权利/出版存在不等于净销量"
+  },
+  "for_skills": {
+    "lab": "拆出行动意图、意外、情绪余味，检验用户想被安慰还是想照顾别人；不照搬倒霉情节。",
+    "form": "分别检查脸部与服饰锚点；可借局部复杂脸对简体块的关系，避开其整套识别。",
+    "studio": "场景碎片可以成为产品互动结构；试验之前先验证耐用与用户操作，而非只看换装数量。"
+  },
+  "gaps": [
+    "最早创作日、第一条原作与首个实体SKU未核；账号日期不等于诞生。",
+    "完整版权/商标/管理合同、期限与地区收入未知。",
+    "XHS实际读3篇正文及可见评论，介绍、汇总、视频开箱各1篇；视频未全看、图片未逐页看，不能作全量产品图鉴或人群统计。",
+    "未找到足够可靠退坑或质量负面样本；没有失败证据不等于从未失败。",
+    "平面仅英文附图v2在官网200×200主图可见正面上接近；眼光点、描边与局部色阶仍不同；纯文字/中文/重复稳定性未测。",
+    "生产色号、材料BOM、背面结构与触感实测未取得；未进入原创开发或3D生成。"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "官方角色档案",
+      "url": "https://kawaisouni.jp/opanchuusagi",
+      "publisher": "KAWAISOUNI!",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "不太走运、几乎要哭仍认真生活；版权署名。"
+    },
+    {
+      "id": "s2",
+      "title": "作者早期访谈",
+      "url": "https://linesticker-ja.blog.jp/archives/12937167.html",
+      "publisher": "LINE官方博客",
+      "published": "2022-03-11",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "作者称浴室中想到角色，纸上涂鸦保留偶然性；创作意图是有趣。"
+    },
+    {
+      "id": "s3",
+      "title": "作者起源与创作访谈",
+      "url": "https://forbesjapan.com/articles/detail/66135/page2",
+      "publisher": "Forbes Japan原始访谈",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "洗澡后找内裤的语感与兔子结合；2022年1月专用账号；少解释留下理解空间。"
+    },
+    {
+      "id": "s4",
+      "title": "CCL成立公告",
+      "url": "https://prtimes.jp/main/html/rd/p/000000363.000024007.html",
+      "publisher": "CHOCOLATE Inc.",
+      "published": "2022-11-08",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "列为已在进行制作管理的角色；不等于版权买断。"
+    },
+    {
+      "id": "s5",
+      "title": "亚洲商品化授权",
+      "url": "https://www.itochu.co.jp/ja/news/press/2024/241021.html",
+      "publisher": "伊藤忠商事",
+      "published": "2024-10-21",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "日本、韩国以外亚洲地区独占商品化权；不等于全球版权。"
+    },
+    {
+      "id": "s6",
+      "title": "全新绘制的首本书",
+      "url": "https://www.kadokawa.co.jp/product/322210001418/",
+      "publisher": "KADOKAWA",
+      "published": "2024-03-14",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "日文版136页、B6变形、1210日元含税；不能倒写为角色诞生。"
+    },
+    {
+      "id": "s7",
+      "title": "标准毛绒S",
+      "url": "https://takaratomymall.jp/shop/g/g4904790760853/",
+      "publisher": "Takara Tomy Mall",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2640日元含税，页面发售2025-09-13，制造商T-ARTS；动态库存不视为销量。"
+    },
+    {
+      "id": "s8",
+      "title": "ちょっこりさん毛绒",
+      "url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y155246",
+      "publisher": "T-ARTS",
+      "published": "2025-07-22",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2025年9月发售、1980日元、W7×H12.5×D5.5cm；商品图标为开发中。"
+    },
+    {
+      "id": "s9",
+      "title": "もふらっと毛绒S",
+      "url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y155338",
+      "publisher": "T-ARTS",
+      "published": "2025-08-26",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2025年10月、1980日元，W16×H23×D5.5cm；扁平毛绒为品类适配。"
+    },
+    {
+      "id": "s10",
+      "title": "WaterDomeFactory",
+      "url": "https://kitan.jp/products/opanchu_snowdome/",
+      "publisher": "KITAN CLUB",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2025年7月中旬、每回500日元、3款、宽67高70mm使用时约56mm；加水与碎片完成场景。"
+    },
+    {
+      "id": "s11",
+      "title": "气球毛绒",
+      "url": "https://kawaisouni.jp/product/76648",
+      "publisher": "角色官方商店",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2970日元含税；150×160×95mm；聚酯/PU/尼龙。2026-08-07官网已发追加公告，精确首售未知。"
+    },
+    {
+      "id": "u1",
+      "title": "每天认识一个IP｜内裤兔",
+      "url": "https://www.xiaohongshu.com/explore/6ac59da5000000000a026f9b",
+      "publisher": "工位IP集（求关注）",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "partial",
+      "supports": "正文及可见评论已读；显示编辑10-08。评论者称首图二创，作者回复致谢；不据此断言全帖图源。"
+    },
+    {
+      "id": "u2",
+      "title": "裤裤兔近期联名合集",
+      "url": "https://www.xiaohongshu.com/explore/68e5d5da000000000402b1e2",
+      "publisher": "阿狸联名研究所",
+      "published": "2025-10-08",
+      "observed": "2026-10-29",
+      "access": "partial",
+      "supports": "列多个食品/日用品合作及TOPTOY挂件；仅线索，本轮未把清单日期当官方SKU规格。"
+    },
+    {
+      "id": "u3",
+      "title": "超级变变变盲盒开箱",
+      "url": "https://www.xiaohongshu.com/explore/6a9aa3e20000000012024de2",
+      "publisher": "ShdMnLyx_🐰",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "partial",
+      "supports": "可见09-04；正文强调造型可玩性，一条评论喜欢。视频未完整播放，不证明订单/销量。"
+    }
+  ],
+  "archive": "research/opanchu-usagi/2026-10-29/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/opanchu-usagi/2026-10-29/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/opanchu-usagi/2026-10-29/"
+}

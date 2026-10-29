@@ -1,0 +1,78 @@
+[
+  {
+    "image_id": "V01",
+    "title": "官网当前二维角色图",
+    "original_image_url": "https://kawaisouni.jp/s3/skiyaki/uploads/artist_photo/image/26079/opanchuusagi.jpg",
+    "observed_features": "粉色短耳、耳间青蓝三瓣结、宽脸、花瓣湿眼与多弧嘴；两臂横出下垂，白裤高腰波浪边，双短腿。黄色为背景。",
+    "boundary": "原图仅200×200，细线有限；不是侧背设定图。",
+    "sources": [
+      "s1"
+    ],
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "original_sha256": "bda503178b6cde89d206f3cb2a68236832e62db85288fb9ae35114f1ee3bb46d",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V02",
+    "title": "标准S毛绒可见正侧视角",
+    "original_image_url": "https://takaratomymall.jp/img/goods/L/4904790760853_qgd5j4qts.jpg",
+    "observed_features": "圆鼓立体头、短绒、刺绣眉眼嘴与立体青蓝结；坐姿双腿向前，白裤包裹下身，侧边有吊牌。",
+    "boundary": "短绒/刺绣为图像判断，内部填充和手感未实测。",
+    "sources": [
+      "s7"
+    ],
+    "original_dimensions": [
+      1100,
+      1100
+    ],
+    "original_sha256": "8a2228760e491f1267f1f3243598c1f440a66a48a11c90c86eaec0501ed9e6b9",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V03",
+    "title": "唱歌水球",
+    "original_image_url": "https://kitan.jp/wp-content/uploads/2025/07/8da448f3aaab5973eacbbcd42d960eea.jpg",
+    "observed_features": "角色张嘴对麦克风，透明球内星形碎片与浅蓝台面；耳结白裤维持身份，粉色圆底为场景载体。",
+    "boundary": "星片/底座不是角色不变量；透明外壳具体树脂未核。",
+    "sources": [
+      "s10"
+    ],
+    "original_dimensions": [
+      800,
+      800
+    ],
+    "original_sha256": "dd7cfc344b20450ae23d3042d04c1340ccc7fc7615619f1051cdd555211d2236",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V04",
+    "title": "气球毛绒",
+    "original_image_url": "https://kawaisouni.jp/s3/demo-skiyaki/uploads/ckeditor/pictures/183861/content_260805_01.jpg",
+    "observed_features": "坐姿一手举红气球，细白绳向下；小蓝结、白裤和委屈眉眼仍在。红色高光来自气球表面，非角色肤色。",
+    "boundary": "气球是当款道具，不能写成整个IP持有红气球。",
+    "sources": [
+      "s11"
+    ],
+    "original_dimensions": [
+      489,
+      458
+    ],
+    "original_sha256": "c2cd2b7fd37a2386c04a7e170b94d3097b43f01a51cfc46c4501f812ff302535",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  }
+]

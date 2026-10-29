@@ -1,0 +1,53 @@
+[
+  {
+    "name": "粉色身体",
+    "region": "V01左面颊",
+    "image_id": "V01",
+    "xy": [
+      64,
+      83
+    ],
+    "hex_preview": "#FFBBD2",
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "method": "原图转RGB，坐标周围3×3像素逐通道中位数",
+    "value_basis": "image_sample",
+    "uncertainty": "屏幕近似，受压缩/光照影响；不是生产色号，无主体分割面积比例"
+  },
+  {
+    "name": "青蓝结",
+    "region": "V01左结",
+    "image_id": "V01",
+    "xy": [
+      91,
+      48
+    ],
+    "hex_preview": "#5FD9FB",
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "method": "原图转RGB，坐标周围3×3像素逐通道中位数",
+    "value_basis": "image_sample",
+    "uncertainty": "屏幕近似，受压缩/光照影响；不是生产色号，无主体分割面积比例"
+  },
+  {
+    "name": "白裤",
+    "region": "V01裤中",
+    "image_id": "V01",
+    "xy": [
+      103,
+      144
+    ],
+    "hex_preview": "#FFFFFF",
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "method": "原图转RGB，坐标周围3×3像素逐通道中位数",
+    "value_basis": "image_sample",
+    "uncertainty": "屏幕近似，受压缩/光照影响；不是生产色号，无主体分割面积比例"
+  }
+]

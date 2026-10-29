@@ -1,0 +1,29 @@
+[
+  {
+    "platform": "web",
+    "queries": [
+      "おぱんちゅうさぎ 可哀想に インタビュー 誕生 2022",
+      "site.kawaisouni.jp opanchuusagi",
+      "site.opanchu-usagi.com ぬいぐるみ 価格",
+      "site.chocolate-inc.com おぱんちゅうさぎ ライセンス 2022",
+      "site.kawaisouni.jp/product おぱんちゅうさぎ ぬいぐるみ"
+    ],
+    "status": "executed",
+    "observed": "2026-10-29"
+  },
+  {
+    "platform": "小红书站内",
+    "queries": [
+      "内裤兔 品牌介绍",
+      "内裤兔 产品汇总"
+    ],
+    "status": "executed",
+    "read_notes": 3,
+    "scope": "当前可访问会话，按可见介绍/汇总/开箱目的抽样，非连续或随机样本；未记录登录账号。",
+    "public_urls": [
+      "https://www.xiaohongshu.com/explore/6ac59da5000000000a026f9b",
+      "https://www.xiaohongshu.com/explore/68e5d5da000000000402b1e2",
+      "https://www.xiaohongshu.com/explore/6a9aa3e20000000012024de2"
+    ]
+  }
+]
