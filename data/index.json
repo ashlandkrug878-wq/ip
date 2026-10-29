@@ -11,7 +11,8 @@
     "daily-20261025",
     "daily-20261026",
     "daily-20261027",
-    "daily-20261028"
+    "daily-20261028",
+    "daily-20261029"
   ],
   "ips": [
     "2026w42-1",
@@ -113,6 +114,15 @@
     "daily-20261028-07",
     "daily-20261028-08",
     "daily-20261028-09",
+    "daily-20261029-01",
+    "daily-20261029-02",
+    "daily-20261029-03",
+    "daily-20261029-04",
+    "daily-20261029-05",
+    "daily-20261029-06",
+    "daily-20261029-07",
+    "daily-20261029-08",
+    "daily-20261029-09",
     "star-huangjingyu-e1",
     "star-huangjingyu-e2",
     "star-huangjingyu-e3"
@@ -293,5 +303,5 @@
   "stars": [
     "star-huangjingyu"
   ],
-  "updated": "2026-10-28T15:03:05+00:00"
+  "updated": "2026-10-29T00:47:53+00:00"
 }

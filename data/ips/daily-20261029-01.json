@@ -1,0 +1,49 @@
+{
+  "name": "丹宁折獭",
+  "batch": "daily-20261029",
+  "order": 1,
+  "expr": "旧的部分，折成新的保护",
+  "origin": "废弃牛仔",
+  "mark": "折叠方壳",
+  "type": "毛绒挂件",
+  "stage": "concept",
+  "source": "daily-lab",
+  "zh": "丹宁折獭：折叠方壳长成头与身体轮廓，靛蓝/奶白/橙，毛绒挂件，小眼短嘴，约2头身，把自己折进安静处，单角色全身浅灰影棚，无品牌无服装。",
+  "enp": "Original anthropomorphic otter character, distinctive folded denim box-shell integrated into its anatomy, compact two-head proportions, tiny restrained eyes and short mouth, indigo, cream and orange, short-pile plush bag charm with embroidered features and fabric shell, one character only, complete full-body product view occupying 75 percent of frame, light gray seamless studio background, soft side lighting, tactile finish, no logo, no text, no existing character references.",
+  "complete_card": "## 01 丹宁折獭\n原点：废弃牛仔；来源：2026-10-17至25日展期；页面未列发布日期 https://app-api.ddw.nl/en/programme/material-matters。证据：废弃牛仔成为新材料，展会作品原始页，未取得大众热度数据。灵感线索；转译为“旧的部分，折成新的保护”。\n表达：旧的部分，折成新的保护｜允许/反差型。时机：细分材料审美，不判断全行业主流。\n情绪性格：珍惜、拘谨。背景：住在被忽视的日常边角，将废弃牛仔变成自己的保护结构。经典动作：把自己折进安静处。\n外壳：水獭动物类人，约2头身。头部：折叠方壳[原创专属候选/反常1处]；小眼、短嘴、无繁复眉饰[公共]。主色/签名色：靛蓝/奶白/橙。\n材质工艺：毛绒挂件；PVC采用移印/哑光纹理表现，毛绒采用短绒与软胶壳；特殊材料仅模拟视觉，不声称真实再生或功能认证。首品约9—12cm；假设零售价79—109元，未询厂报价。\n三个系列：初见废弃牛仔 / 城市夜行 / 休息日。三文案：①旧的部分，折成新的保护。②今天先把自己折进安静处。③别急，我有自己的形状。\n最接近：mofusand；区别：不是换装猫，而是折叠壳决定头部。\n五项设计预评：闭眼—通过—首先记住折叠方壳；剪影—存疑—主体轮廓明显，但需真人复述；简笔画—存疑—主体可概括，细纹不作为ID；缩小—通过—大体块仍在，细节会丢失；换皮—存疑—保留主体几何而非衣服配件。\n圈层彩蛋：把“废弃牛仔”藏在产品卡背面的材质故事。风险：首图出现鱼形附属件，下一版删除；折壳仍像戴包。\n中文提示词：丹宁折獭：折叠方壳长成头与身体轮廓，靛蓝/奶白/橙，毛绒挂件，小眼短嘴，约2头身，把自己折进安静处，单角色全身浅灰影棚，无品牌无服装。\nEnglish: Original anthropomorphic otter character, distinctive folded denim box-shell integrated into its anatomy, compact two-head proportions, tiny restrained eyes and short mouth, indigo, cream and orange, short-pile plush bag charm with embroidered features and fabric shell, one character only, complete full-body product view occupying 75 percent of frame, light gray seamless studio background, soft side lighting, tactile finish, no logo, no text, no existing character references.\n",
+  "tests": [
+    [
+      "闭眼",
+      "通过",
+      "首先记住折叠方壳"
+    ],
+    [
+      "剪影",
+      "存疑",
+      "主体轮廓明显，但需真人复述"
+    ],
+    [
+      "简笔画",
+      "存疑",
+      "主体可概括，细纹不作为ID"
+    ],
+    [
+      "缩小",
+      "通过",
+      "大体块仍在，细节会丢失"
+    ],
+    [
+      "换皮",
+      "存疑",
+      "保留主体几何而非衣服配件"
+    ]
+  ],
+  "risk": "首图出现鱼形附属件，下一版删除；折壳仍像戴包",
+  "links": [
+    {
+      "t": "废弃牛仔成为新材料，展会作品原始页，未取得大众热度数据",
+      "url": "https://app-api.ddw.nl/en/programme/material-matters"
+    }
+  ],
+  "prompt_revision": 1
+}

@@ -1,0 +1,49 @@
+{
+  "name": "芦筒鹬",
+  "batch": "daily-20261029",
+  "order": 2,
+  "expr": "空一点，才听得到风",
+  "origin": "湿地植物建材",
+  "mark": "弯曲中空喙管",
+  "type": "搪胶毛绒",
+  "stage": "concept",
+  "source": "daily-lab",
+  "zh": "芦筒鹬：弯曲中空喙管长成头与身体轮廓，苔绿/麦黄，搪胶毛绒，小眼短嘴，约2头身，侧耳迎风，单角色全身浅灰影棚，无品牌无服装。",
+  "enp": "Original wading bird character, distinctive curved hollow reed-like beak and neck integrated into its anatomy, compact two-head proportions, tiny restrained eyes and short mouth, moss green and straw yellow, soft vinyl head with short-pile plush body collectible, one character only, complete full-body product view occupying 75 percent of frame, light gray seamless studio background, soft side lighting, tactile finish, no logo, no text, no existing character references.",
+  "complete_card": "## 02 芦筒鹬\n原点：湿地植物建材；来源：2026-10-17至25日展期；报道检索显示约两周前 https://materialdistrict.com/article/local-resources-and-new-building-methods-at-dutch-design-week-2026/。证据：芦苇、叉枝、未烧砖的近期展会案例，非销量信号。灵感线索；转译为“空一点，才听得到风”。\n表达：空一点，才听得到风｜允许/反差型。时机：细分材料审美，不判断全行业主流。\n情绪性格：敏锐、沉静。背景：住在被忽视的日常边角，将湿地植物建材变成自己的保护结构。经典动作：侧耳迎风。\n外壳：鹬类动物，约2头身。头部：弯曲中空喙管[原创专属候选/反常1处]；小眼、短嘴、无繁复眉饰[公共]。主色/签名色：苔绿/麦黄。\n材质工艺：搪胶毛绒；PVC采用移印/哑光纹理表现，毛绒采用短绒与软胶壳；特殊材料仅模拟视觉，不声称真实再生或功能认证。首品约9—12cm；假设零售价79—109元，未询厂报价。\n三个系列：初见湿地植物建材 / 城市夜行 / 休息日。三文案：①空一点，才听得到风。②今天先侧耳迎风。③别急，我有自己的形状。\n最接近：大耳狗；区别：不是长耳，整条头颈是中空管。\n五项设计预评：闭眼—通过—首先记住弯曲中空喙管；剪影—存疑—主体轮廓明显，但需真人复述；简笔画—通过—主体可概括，细纹不作为ID；缩小—通过—大体块仍在，细节会丢失；换皮—通过—保留主体几何而非衣服配件。\n圈层彩蛋：把“湿地植物建材”藏在产品卡背面的材质故事。风险：头颈过长，剪影像普通水鸟。\n中文提示词：芦筒鹬：弯曲中空喙管长成头与身体轮廓，苔绿/麦黄，搪胶毛绒，小眼短嘴，约2头身，侧耳迎风，单角色全身浅灰影棚，无品牌无服装。\nEnglish: Original wading bird character, distinctive curved hollow reed-like beak and neck integrated into its anatomy, compact two-head proportions, tiny restrained eyes and short mouth, moss green and straw yellow, soft vinyl head with short-pile plush body collectible, one character only, complete full-body product view occupying 75 percent of frame, light gray seamless studio background, soft side lighting, tactile finish, no logo, no text, no existing character references.\n",
+  "tests": [
+    [
+      "闭眼",
+      "通过",
+      "首先记住弯曲中空喙管"
+    ],
+    [
+      "剪影",
+      "存疑",
+      "主体轮廓明显，但需真人复述"
+    ],
+    [
+      "简笔画",
+      "通过",
+      "主体可概括，细纹不作为ID"
+    ],
+    [
+      "缩小",
+      "通过",
+      "大体块仍在，细节会丢失"
+    ],
+    [
+      "换皮",
+      "通过",
+      "保留主体几何而非衣服配件"
+    ]
+  ],
+  "risk": "头颈过长，剪影像普通水鸟",
+  "links": [
+    {
+      "t": "芦苇、叉枝、未烧砖的近期展会案例，非销量信号",
+      "url": "https://materialdistrict.com/article/local-resources-and-new-building-methods-at-dutch-design-week-2026/"
+    }
+  ],
+  "prompt_revision": 1
+}

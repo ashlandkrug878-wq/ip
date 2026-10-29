@@ -1666,5 +1666,113 @@
     "note": "历史原图导入，未重新生成；未做量产验证",
     "prompt_revision": 1,
     "image_revision": 1
+  },
+  {
+    "id": "daily-20261029-01-base-01",
+    "ip": "daily-20261029-01",
+    "name": "丹宁折獭",
+    "kind": "base",
+    "status": "done",
+    "output": "images/daily-20261029-01/base-01.webp",
+    "prompt_zh": "丹宁折獭：折叠方壳长成头与身体轮廓，靛蓝/奶白/橙，毛绒挂件，小眼短嘴，约2头身，把自己折进安静处，单角色全身浅灰影棚，无品牌无服装。",
+    "prompt_en": "Original anthropomorphic otter character, distinctive folded denim box-shell integrated into its anatomy, compact two-head proportions, tiny restrained eyes and short mouth, indigo, cream and orange, short-pile plush bag charm with embroidered features and fabric shell, one character only, complete full-body product view occupying 75 percent of frame, light gray seamless studio background, soft side lighting, tactile finish, no logo, no text, no existing character references.",
+    "created": "2026-10-29",
+    "note": "内置出图；设计预评，不代表验证"
+  },
+  {
+    "id": "daily-20261029-02-base-01",
+    "ip": "daily-20261029-02",
+    "name": "芦筒鹬",
+    "kind": "base",
+    "status": "done",
+    "output": "images/daily-20261029-02/base-01.webp",
+    "prompt_zh": "芦筒鹬：弯曲中空喙管长成头与身体轮廓，苔绿/麦黄，搪胶毛绒，小眼短嘴，约2头身，侧耳迎风，单角色全身浅灰影棚，无品牌无服装。",
+    "prompt_en": "Original wading bird character, distinctive curved hollow reed-like beak and neck integrated into its anatomy, compact two-head proportions, tiny restrained eyes and short mouth, moss green and straw yellow, soft vinyl head with short-pile plush body collectible, one character only, complete full-body product view occupying 75 percent of frame, light gray seamless studio background, soft side lighting, tactile finish, no logo, no text, no existing character references.",
+    "created": "2026-10-29",
+    "note": "内置出图；设计预评，不代表验证"
+  },
+  {
+    "id": "daily-20261029-03-base-01",
+    "ip": "daily-20261029-03",
+    "name": "叉枝熊",
+    "kind": "base",
+    "status": "done",
+    "output": "images/daily-20261029-03/base-01.webp",
+    "prompt_zh": "叉枝熊：巨大Y叉头长成头与身体轮廓，木棕/咖啡/湖蓝，PVC盲盒，小眼短嘴，约2头身，两臂分别指路，单角色全身浅灰影棚，无品牌无服装。",
+    "prompt_en": "Original anthropomorphic bear character, distinctive oversized Y-shaped branch head integrated into its anatomy, compact two-head proportions, tiny restrained eyes and short mouth, wood brown, dark brown and lake blue, matte molded PVC blind-box figurine, one character only, complete full-body product view occupying 75 percent of frame, light gray seamless studio background, soft side lighting, tactile finish, no logo, no text, no existing character references.",
+    "created": "2026-10-29",
+    "note": "内置出图；设计预评，不代表验证"
+  },
+  {
+    "id": "daily-20261029-04-base-01",
+    "ip": "daily-20261029-04",
+    "name": "咖壳兽",
+    "kind": "base",
+    "status": "done",
+    "output": "images/daily-20261029-04/base-01.webp",
+    "prompt_zh": "咖壳兽：倒锥滤杯壳长成头与身体轮廓，咖啡/奶白/柿橙，PVC盲盒，小眼短嘴，约2头身，收拢双臂，单角色全身浅灰影棚，无品牌无服装。",
+    "prompt_en": "Original coffee-filter creature character, distinctive inverted conical coffee-filter shell integrated into its anatomy, compact two-head proportions, tiny restrained eyes and short mouth, coffee brown, cream and persimmon orange, matte molded PVC blind-box figurine, one character only, complete full-body product view occupying 75 percent of frame, light gray seamless studio background, soft side lighting, tactile finish, no logo, no text, no existing character references.",
+    "created": "2026-10-29",
+    "note": "内置出图；设计预评，不代表验证"
+  },
+  {
+    "id": "daily-20261029-05-base-01",
+    "ip": "daily-20261029-05",
+    "name": "余铝鳐",
+    "kind": "base",
+    "status": "done",
+    "output": "images/daily-20261029-05/base-01.webp",
+    "prompt_zh": "余铝鳐：横向U槽鳍长成头与身体轮廓，银/橘红，搪胶毛绒，小眼短嘴，约2头身，左右摆鳍，单角色全身浅灰影棚，无品牌无服装。",
+    "prompt_en": "Original anthropomorphic ray character, distinctive wide continuous U-channel ray fin integrated into its anatomy, compact two-head proportions, tiny restrained eyes and short mouth, silver and orange-red, soft vinyl head with short-pile plush body collectible, one character only, complete full-body product view occupying 75 percent of frame, light gray seamless studio background, soft side lighting, tactile finish, no logo, no text, no existing character references.",
+    "created": "2026-10-29",
+    "note": "内置出图；设计预评，不代表验证"
+  },
+  {
+    "id": "daily-20261029-06-base-01",
+    "ip": "daily-20261029-06",
+    "name": "独宴团",
+    "kind": "base",
+    "status": "done",
+    "output": "images/daily-20261029-06/base-01.webp",
+    "prompt_zh": "独宴团：半月折盘身体长成头与身体轮廓，紫黑/芥黄，PVC盲盒，小眼短嘴，约2头身，展开身体迎光，单角色全身浅灰影棚，无品牌无服装。",
+    "prompt_en": "Original plate creature character, distinctive crescent-shaped folded plate body integrated into its anatomy, compact two-head proportions, tiny restrained eyes and short mouth, purple-black and mustard yellow, matte molded PVC blind-box figurine, one character only, complete full-body product view occupying 75 percent of frame, light gray seamless studio background, soft side lighting, tactile finish, no logo, no text, no existing character references.",
+    "created": "2026-10-29",
+    "note": "内置出图；设计预评，不代表验证"
+  },
+  {
+    "id": "daily-20261029-07-base-01",
+    "ip": "daily-20261029-07",
+    "name": "界夹童",
+    "kind": "base",
+    "status": "done",
+    "output": "images/daily-20261029-07/base-01.webp",
+    "prompt_zh": "界夹童：票夹头长成头与身体轮廓，珊瑚红/奶油/炭灰，PVC盲盒，小眼短嘴，约2头身，轻轻合拢夹头，单角色全身浅灰影棚，无品牌无服装。",
+    "prompt_en": "Original gender-neutral humanoid character, distinctive coral-red ticket-clip head integrated into its anatomy, compact two-head proportions, tiny restrained eyes and short mouth, coral red, cream and charcoal, matte molded PVC blind-box figurine, one character only, complete full-body product view occupying 75 percent of frame, light gray seamless studio background, soft side lighting, tactile finish, no logo, no text, no existing character references.",
+    "created": "2026-10-29",
+    "note": "内置出图；设计预评，不代表验证"
+  },
+  {
+    "id": "daily-20261029-08-base-01",
+    "ip": "daily-20261029-08",
+    "name": "土拱鼋",
+    "kind": "base",
+    "status": "done",
+    "output": "images/daily-20261029-08/base-01.webp",
+    "prompt_zh": "土拱鼋：拱门连体壳长成头与身体轮廓，赤土/青绿，搪胶毛绒，小眼短嘴，约2头身，缩进拱下，单角色全身浅灰影棚，无品牌无服装。",
+    "prompt_en": "Original anthropomorphic turtle character, distinctive arch-shaped continuous turtle head-shell integrated into its anatomy, compact two-head proportions, tiny restrained eyes and short mouth, terracotta and teal, soft vinyl head with short-pile plush body collectible, one character only, complete full-body product view occupying 75 percent of frame, light gray seamless studio background, soft side lighting, tactile finish, no logo, no text, no existing character references.",
+    "created": "2026-10-29",
+    "note": "内置出图；设计预评，不代表验证"
+  },
+  {
+    "id": "daily-20261029-09-base-01",
+    "ip": "daily-20261029-09",
+    "name": "风兜灵",
+    "kind": "base",
+    "status": "done",
+    "output": "images/daily-20261029-09/base-01.webp",
+    "prompt_zh": "风兜灵：弯曲风兜头长成头与身体轮廓，黄白/墨蓝，搪胶毛绒，小眼短嘴，约2头身，张开风兜，单角色全身浅灰影棚，无品牌无服装。",
+    "prompt_en": "Original wind creature character, distinctive curved translucent wind-scoop head integrated into its anatomy, compact two-head proportions, tiny restrained eyes and short mouth, warm translucent yellow and midnight blue, soft vinyl head with short-pile plush body collectible, one character only, complete full-body product view occupying 75 percent of frame, light gray seamless studio background, soft side lighting, tactile finish, no logo, no text, no existing character references.",
+    "created": "2026-10-29",
+    "note": "内置出图；设计预评，不代表验证"
   }
 ]
