@@ -1,0 +1,60 @@
+{
+  "ip": "star-dilireba-e1",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "只剩一边珍珠翼的圆兽",
+  "axes": {
+    "archetype": "物件生物，半边蝶翼",
+    "silhouette": "团子，只有一侧一块翼",
+    "mark": "一侧肩背 · 比头还大的单片珍珠贝翼",
+    "face": "半垂小黑豆眼，视线偏向没有翼的一侧，眼距约一个眼宽，极小一字嘴",
+    "emotion": "内收，不追",
+    "fusion": "物件是披风：翼从肩背长出，只有左边一块，拿掉它就只剩圆团",
+    "material": "主体炭灰短绒，只有那块翼是珍珠贝",
+    "palette": "炭灰配珍珠暖白，翼根一条窄玫红"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "横宽扁圆，无耳无发，下颌收到短绒里",
+  "combo": "无耳扁圆头 + 视线偏向空的一侧 + 单侧珍珠翼高于头顶 + 炭灰对珍珠白",
+  "odd": "翼只在一侧，面积比脸大约三倍",
+  "line": "",
+  "why": "华丽的那一下已经离开，所以翼不能是一对，也不能停在脸上。还留在身上的只有一边，脚坐在下面，不追。",
+  "spec": {
+    "proportion": "头高约占全高 46%，身宽约等于全高，单侧翼尖高出头顶约头高的一半",
+    "outline": "一个扁圆团，向左伸出一块圆角翼，右侧轮廓是平的",
+    "volume": "大：炭灰短绒团；中：单片珍珠翼；小：两只不及头宽四分之一的短脚",
+    "face": "眼在头高中线略下，半垂，看向右侧空处，眼距约一个眼宽，嘴是眼下方一条短线",
+    "stance": "坐着，重心倒向没有翼的一侧，短脚并拢",
+    "structure": "翼根埋进肩背的绒里，和身体连成一块，不是别上去的"
+  },
+  "toy_check": "站得住：坐在短脚上，翼根有厚度。物件长进去：拿掉翼就不是它。特殊材质只有珍珠贝，对应这片翼。新组合：翼只有一边。不像绘本：无大眼无笑无飞行。头像还剩单侧翼和偏开的眼。做得成：翼是圆角厚片，不透成整身。姿态：坐着，不是立正。",
+  "crop": "记忆点在一侧肩背。头像要带上翼根和偏开的眼，只裁到脸会认不出。",
+  "collide": "不同于两侧深色翼的飞蛾斗篷，也不同于头上小翅膀加饰品的圆脸娃娃：只有一片珍珠翼，另一侧是平的，没有笑，没有蝴蝶结。",
+  "tests": [
+    ["记忆点", "待出图验证", "翼被画成一对"],
+    ["剪影", "待出图验证", "翼和身子糊成一团"],
+    ["简化", "待出图验证", "翼上被加了翅脉花纹"],
+    ["缩小", "待出图验证", "缩小时玫红边抢走翼的形状"],
+    ["换皮", "待出图验证", "换成别的颜色仍要只剩一侧翼"]
+  ],
+  "zh": "原创潮玩角色，一只圆兽和一片蝶翼长在一起：只有左侧肩背长出一块圆角珍珠贝翼，翼比脸大约三倍，翼尖高出头顶，右侧是平的短绒，拿掉这片翼角色就不成立。头是无耳无发的横宽扁圆，头高约占全高一半。半垂的小黑豆眼看向没有翼的一侧，眼距约一个眼宽，极小一字嘴，神情不追。坐着，重心倒向空的一侧，短脚并拢。身体是炭灰短绒，只有那片翼是带一点晕彩的珍珠贝，翼根一条窄的玫红色。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要把蝴蝶画在脸上，不要画成两片翅膀，不要飞行，不要蝴蝶结，不要真人五官。",
+  "enp": "Original designer toy character: a round creature fused with one butterfly wing — a single rounded pearl-shell wing grows from the left shoulder and back, about three times the face, tip above the head, the right side plain plush, and the character fails without that wing. The head is a wide flat oval with no ears and no hair, about half the height. Half-lidded black bead eyes look toward the empty side, about one eye-width apart, a tiny straight mouth, an unchasing calm. Seated, weight tipped to the empty side, short feet together. Charcoal short plush; only the wing is pearly shell, with one narrow rose-red root. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no butterfly on the face, not a pair of wings, no flying, no bow, no realistic human features.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-29",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：不是两侧飞蛾斗篷，也不是小翅膀圆脸。识别：单侧大翼加偏开的眼，缩成头像仍能看见翼根。不普通：拿掉这片翼就不是它。珍珠贝只在翼上，边缘圆，不扎进肉里。炭灰对珍珠白，玫红只是一条边。组合少见，翼比脸大约三倍。",
+  "pose": "坐着，重心倒向没有翼的一侧"
+}

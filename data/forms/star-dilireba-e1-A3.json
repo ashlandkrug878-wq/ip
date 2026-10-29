@@ -1,0 +1,60 @@
+{
+  "ip": "star-dilireba-e1",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "冠上只有一颗玻璃雨珠",
+  "axes": {
+    "archetype": "物件生物，雨珠",
+    "silhouette": "大头小身，头顶三颗钝突起",
+    "mark": "头顶正前 · 一颗比眼睛大的玻璃珠",
+    "face": "宽眼距小黑豆眼，视线向下，无嘴",
+    "emotion": "内收，看地",
+    "fusion": "物件是长出来的结构：头顶三颗圆钝突起，只有正前一颗是玻璃，另外两颗是同一块短绒",
+    "material": "主体墨蓝短绒，只有正前那颗是玻璃",
+    "palette": "墨蓝配玉米黄短脚，玻璃珠无色"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "竖高圆，无耳无发",
+  "combo": "竖高圆头 + 头顶正前一颗大玻璃珠 + 宽眼距且视线向下 + 墨蓝身子配玉米黄大脚",
+  "odd": "玻璃珠直径约等于两眼间距，脚比寻常大",
+  "line": "",
+  "why": "雨被别人看成洒在身上的光。这里只留下一颗，而且是长在头顶的，不是一场雨景。脚是黄的、大的，人还踩在下面。",
+  "spec": {
+    "proportion": "头高约占全高 58%，玻璃珠直径约头宽的三分之一，每只脚宽约头宽的 45%",
+    "outline": "竖高的头，顶上三颗圆球，身子很短，下面两只黄脚",
+    "volume": "大：墨蓝头；中：玻璃珠和两只黄脚；小：两颗绒突起",
+    "face": "眼在头高中线，小黑豆，眼距约两个眼宽，视线朝下，没有嘴",
+    "stance": "坐在两只放大的圆脚上，脚心着地",
+    "structure": "三颗突起从头顶同一圈长出，玻璃珠和头连着一个短颈，不是贴上去的水滴"
+  },
+  "toy_check": "站得住：坐在大脚上。物件长进去：玻璃珠是冠的一部分，拿掉正前这颗冠就不对称到不成立。特殊材质只有这一颗玻璃，身体不透明。新组合：雨只剩一颗，脚是亮黄。不像绘本：无大眼无笑无雨景。头像还剩竖头和那颗珠。做得成：珠是实心圆，突起只有三颗，不密。姿态：坐着，不是立正。",
+  "crop": "记忆点在头顶。头像能留下玻璃珠和向下的宽眼距。",
+  "collide": "不同于满头重复颗粒，也不同于整体透明的水怪：玻璃只有一颗，其余是绒，脚是实心的黄。也不同于两侧都有翼的飞蛾。",
+  "tests": [
+    ["记忆点", "待出图验证", "三颗被画成一圈密密的包"],
+    ["剪影", "待出图验证", "玻璃珠在剪影里消失"],
+    ["简化", "待出图验证", "珠被加了高光花纹"],
+    ["缩小", "待出图验证", "缩小时珠和眼睛抢"],
+    ["换皮", "待出图验证", "换成别的透明材料仍要只有正前一颗"]
+  ],
+  "zh": "原创潮玩角色，一只短兽和一颗雨珠长在一起：竖高的无耳圆头顶上只有三颗圆钝突起，正前一颗是实心玻璃珠，直径约头宽的三分之一，左右两颗是同一块墨蓝短绒，拿掉这颗玻璃珠冠就不成立。头高约占全高六成。小黑豆眼眼距约两个眼宽，视线向下，没有嘴。坐在两只玉米黄色的大圆脚上，每只脚宽约头宽的一半。身体是墨蓝短绒，只有那一颗是透明玻璃，脚是玉米黄短绒。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要把全身做成水或果冻，不要画雨丝和地面的水，不要在脸上加一圈包，不要真人五官。",
+  "enp": "Original designer toy character: a short creature fused with one rain bead — a tall earless round head grows exactly three blunt knobs, the front one a solid glass bead about a third of the head width, the other two the same ink-navy plush as the body, and the crown fails without that glass bead. Head about 60 percent of the height. Small black bead eyes about two eye-widths apart, gaze down, no mouth. Seated on two oversized maize-yellow round feet, each about half a head wide. Ink-navy short plush; only the front bead is clear glass; the feet are maize plush. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no full-body water or jelly, no rain streaks or puddles, no ring of bumps on the face, no realistic human features.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-29",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：不是整体透明的水怪，也不是满头颗粒。识别：竖头正前一颗大玻璃珠，加一双黄脚。不普通：雨只剩这一颗。玻璃只有一处，边上两颗是绒，不做成密密的包。墨蓝对玉米黄，对比强。珠比眼睛大，脚也放大。",
+  "pose": "坐在两只大圆脚上"
+}

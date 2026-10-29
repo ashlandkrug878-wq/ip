@@ -1,0 +1,60 @@
+{
+  "ip": "star-dilireba-e3",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "坐在自己两块圆铁底上",
+  "axes": {
+    "archetype": "物件生物，厚铁底",
+    "silhouette": "小身子坐在两块大圆铁上",
+    "mark": "脚底 · 两块比头还宽的圆角铸铁",
+    "face": "小黑豆眼压在头高下三分之一，视线向下，无嘴",
+    "emotion": "内收，不看前方",
+    "fusion": "物件是长出来的结构：脚就是两块铁，从身子底下长出，拿掉铁就没有脚",
+    "material": "主体石灰短绒，只有两块底是铸铁，胸口一小块叶绿",
+    "palette": "石灰配铁黑，胸口一点叶绿"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "横宽扁圆，无耳无发",
+  "combo": "扁圆头 + 眼在头的下段并向下看 + 两块比头宽的圆铁底 + 石灰身子一点叶绿",
+  "odd": "每块铁底的直径约等于头宽，身子像坐在自己的底上",
+  "line": "",
+  "why": "可以不看镜头，所以眼是向下的。人还在，靠两块很重的底留在原地，不是走给谁看。",
+  "spec": {
+    "proportion": "头高约占全高 42%，每块铁底直径约等于头宽，两块铁并排比身子宽",
+    "outline": "一个小扁团坐在两个大圆上",
+    "volume": "大：两块圆铁；中：石灰短绒身子；小：胸口一块叶绿和一张很小的脸",
+    "face": "眼在头高下三分之一，小黑豆，眼距约一个眼宽，瞳仁朝下，没有嘴",
+    "stance": "坐在两块铁上，没有小腿，铁的底边全部着地",
+    "structure": "铁和身子之间有一圈短绒过渡，铁的边缘全部倒圆，像两块厚饼"
+  },
+  "toy_check": "站得住：两块铁就是底座。物件长进去：没有铁就没有脚。特殊材质只有铸铁，叶绿是绒的染色不是第二种硬材。新组合：底比头大，眼却向下。不像绘本：无鞋无腿无笑。头像还剩下段的眼，全身还剩两块铁。做得成：铁是厚圆饼，没有尖角，不会看着疼。姿态：坐在自己的底上，不是立正。",
+  "crop": "记忆点在脚底，头像裁切会弱。头的下段眼睛向下，算辅助；展示时要全身，让两块铁进画。",
+  "collide": "不同于穿厚底鞋的人，也不同于机器人：没有腿，没有鞋，没有衣服，铁是从绒里长出来的两块圆饼。也不同于肚子上一块铁饼的猫：铁在脚底，两块并排，没有猫耳，没有条纹。",
+  "tests": [
+    ["记忆点", "待出图验证", "铁被画成鞋子"],
+    ["剪影", "待出图验证", "两块铁糊成一条底"],
+    ["简化", "待出图验证", "铁上被加了螺丝"],
+    ["缩小", "待出图验证", "缩小时绿点比铁更抢"],
+    ["换皮", "待出图验证", "换成别的重材料仍要是两块圆底"]
+  ],
+  "zh": "原创潮玩角色，一只小兽和两块铁底长在一起：身子底下长出两块圆角铸铁，每块直径约等于头宽，边缘全部倒圆，像两块厚饼，没有小腿，拿掉这两块就没有脚。头是无耳无发的横宽扁圆，头高约占全高四成。小黑豆眼压在头高下三分之一，眼距约一个眼宽，视线向下，没有嘴。坐在自己的铁底上。身体是石灰色短绒，胸口只有一小块叶绿短绒，两块底是哑光铸铁。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发、衣服、腿和鞋子，不要尖角，不要螺丝，不要让铁看起来扎人，不要真人五官。",
+  "enp": "Original designer toy character: a small creature fused with two iron soles — two rounded cast-iron discs grow from under the body, each about as wide as the head, edges fully rounded like thick cakes, no lower legs, and there are no feet without them. The head is a wide earless oval, about 40 percent of the height. Small black bead eyes sit in the lower third, about one eye-width apart, gaze down, no mouth. Seated on its own iron soles. Stone-grey short plush, one small leaf-green plush patch on the chest; only the two soles are matte cast iron. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair, clothes, legs or shoes, no sharp corners, no screws, the iron must not look painful, no realistic human features.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-29",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：不是穿鞋的人，也不是机器人。识别：两块比头宽的圆铁加上向下的眼。不普通：脚就是铁。铸铁只在底上，边倒圆，不做成疼的尖角。石灰配一点叶绿，铁是黑的，对比在底上。铁被放大到和头一样宽。",
+  "pose": "坐在自己的两块铁底上"
+}

@@ -123,6 +123,9 @@
     "daily-20261029-07",
     "daily-20261029-08",
     "daily-20261029-09",
+    "star-dilireba-e1",
+    "star-dilireba-e2",
+    "star-dilireba-e3",
     "star-huangjingyu-e1",
     "star-huangjingyu-e2",
     "star-huangjingyu-e3",
@@ -137,6 +140,15 @@
     "2026w42b-1-A4",
     "2026w42b-1-A5",
     "2026w42b-1-A6",
+    "star-dilireba-e1-A1",
+    "star-dilireba-e1-A2",
+    "star-dilireba-e1-A3",
+    "star-dilireba-e2-A1",
+    "star-dilireba-e2-A2",
+    "star-dilireba-e2-A3",
+    "star-dilireba-e3-A1",
+    "star-dilireba-e3-A2",
+    "star-dilireba-e3-A3",
     "star-huangjingyu-e1-A1",
     "star-huangjingyu-e1-A2",
     "star-huangjingyu-e1-A3",
@@ -313,8 +325,9 @@
     "02-fear-curiosity"
   ],
   "stars": [
+    "star-dilireba",
     "star-huangjingyu",
     "star-tianxiwei"
   ],
-  "updated": "2026-10-29T01:25:58+00:00"
+  "updated": "2026-10-29T01:33:01+00:00"
 }

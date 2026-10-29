@@ -1,0 +1,60 @@
+{
+  "ip": "star-dilireba-e3",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "取景框长在头后，眼睛在框外",
+  "axes": {
+    "archetype": "物件生物，取景框",
+    "silhouette": "大头，头后一圈方圆框，脸在框的下缘之外",
+    "mark": "头后 · 一圈比脸大的磨砂框，眼睛不在框里",
+    "face": "宽眼距，眼在框的下方，看向侧面，极小一字嘴",
+    "emotion": "内收，不进框",
+    "fusion": "物件是壳：框从颈后长出来包住头顶，五官全部在框外，拿掉框就只剩一颗小头",
+    "material": "主体雾灰短绒，只有框是磨砂亚克力",
+    "palette": "雾灰配琥珀框"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "小圆头，无耳无发，被框围住但脸露在框下",
+  "combo": "头后一圈琥珀方圆框 + 眼睛在框的下缘之外 + 宽眼距看向侧面 + 雾灰绒",
+  "odd": "框比脸大，脸却整张在框外面",
+  "line": "",
+  "why": "可以不看镜头。框在，眼睛不肯进去。身体还站着，只是脸已经侧开。",
+  "spec": {
+    "proportion": "框高约占全高 55%，脸只占框高的三分之一，并且整个位于框的下缘以下",
+    "outline": "一个竖的圆角方框在后，一颗小头从框的下缘探出来",
+    "volume": "大：琥珀框；中：雾灰身子；小：露在框外的脸",
+    "face": "眼在框下缘下方，小而扁，眼距约两个眼宽，视线向左，嘴是一条极短的线",
+    "stance": "站着，两只短脚分开约一个脚宽，头转向左侧约三十度，不是在走路",
+    "structure": "框从颈后左右合上来，下缘停在眼睛上方，和头是同一件雕塑，不是手持的框"
+  },
+  "toy_check": "站得住：短脚分开，框有厚度所以重心在中。物件长进去：框从头后长出。特殊材质只有亚克力框。新组合：框是空的，眼睛在外面。不像绘本：无对视无笑。头像还剩框和框外的眼。做得成：框是厚的圆角，没有细杆。姿态：站着但头侧开，不是立正对视。",
+  "crop": "记忆点在头部。头像能同时留下框和框下面的眼睛。",
+  "collide": "不同于把脸包进护框、眼睛仍在框里的头罩：这里眼睛全部在框的下缘以外，框是空的。也不是手里的相机。",
+  "tests": [
+    ["记忆点", "待出图验证", "眼睛被画进框中央"],
+    ["剪影", "待出图验证", "框和头剪影重叠成一块"],
+    ["简化", "待出图验证", "框被加了镜头玻璃"],
+    ["缩小", "待出图验证", "缩小时看不出眼睛在框外"],
+    ["换皮", "待出图验证", "换成别的框仍要五官在框外"]
+  ],
+  "zh": "原创潮玩角色，一只小兽和一只取景框长在一起：圆角方框从头颈后方长上来，包住头顶，框是空的，整张脸在框的下缘之外，拿掉框就只剩一颗小头。框高约占全高一半多。眼睛小而扁，眼距约两个眼宽，位于框的下方，看向左侧，嘴是一条极短的线。站着，短脚分开，头转向左侧，不是在走。身体是雾灰短绒，只有框是磨砂琥珀亚克力，框有厚度，边是圆的。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要把眼睛画进框里，不要画成相机或手机，不要让它看向观众，不要真人五官。",
+  "enp": "Original designer toy character: a small creature fused with a viewfinder frame — a thick rounded-square frame grows up from behind the neck and around the top of the head, the frame is empty, and the whole face sits below the frame's lower edge. Without the frame only a small head remains. The frame is a little over half the height. Eyes are small and flat, about two eye-widths apart, below the frame, looking left, with a very short line for a mouth. Standing, short feet apart, head turned left, not walking. Fog-grey short plush; only the frame is frosted amber acrylic, thick, with rounded edges. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, do not put the eyes inside the frame, not a camera or a phone, do not let it look at the viewer, no realistic human features.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-29",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：不是脸在护框里面的头罩，也不是手里的相机。识别：空框在上，眼睛在框下缘以外。不普通：框长在头后，脸不肯进去。亚克力只做这一圈框，边是圆的。雾灰配琥珀，对比在框上。框比脸大得多。",
+  "pose": "站着，头转向左侧，脚分开"
+}

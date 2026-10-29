@@ -1,0 +1,60 @@
+{
+  "ip": "star-dilireba-e2",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "背后长出一整面铜烤盘",
+  "axes": {
+    "archetype": "物件生物，铜烤盘",
+    "silhouette": "小身子，背后一块比自己宽的圆盘",
+    "mark": "背后 · 直径约等于全高的铜烤盘",
+    "face": "略下垂的短横线眼，极小嘴偏在一侧但不咧开",
+    "emotion": "内收，靠着",
+    "fusion": "物件背负并成为轮廓：圆盘从背后长出，盘沿超出身体，拿掉盘子剪影就塌了",
+    "material": "主体黄油黄短绒，只有烤盘是哑光铜",
+    "palette": "黄油黄配铜赭，盘心一圈近黑"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "小方圆头，无耳无发，头比盘子小很多",
+  "combo": "背后整面圆铜盘 + 盘前一颗很小的黄油黄头 + 下垂短线眼 + 盘心一圈近黑",
+  "odd": "盘子直径约等于全高，头只占盘子的三分之一",
+  "line": "",
+  "why": "热的东西需要一块承托，承托长在它自己背上，不必端给谁。头小，盘大，问题先靠着。",
+  "spec": {
+    "proportion": "盘子直径约等于全高，头高约是盘子直径的三分之一，身子比盘子窄",
+    "outline": "一个大圆在后，一个小团在圆的前下方",
+    "volume": "大：铜盘；中：黄油黄短绒身子；小：头和两只短脚",
+    "face": "眼是两条略向下的短线，间距约一个眼宽，嘴是眼下偏左的一个小点",
+    "stance": "坐着，背靠自己的盘子，短脚前伸",
+    "structure": "盘的下沿嵌进背后的绒里，盘和身体是一块，不是背带勒上去的"
+  },
+  "toy_check": "站得住：坐着，盘子当靠背，底边着地。物件长进去：拿掉盘子轮廓不成立。特殊材质只有铜盘。新组合：承托比被承托的身体大。不像绘本：无大嘴无笑。头像还剩铜盘上沿和小头。做得成：盘是厚的圆片，边倒圆。姿态：靠坐，不是立正。",
+  "crop": "记忆点在背后。头像必须带上盘子的上沿，否则只剩一颗小黄头。",
+  "collide": "不同于腹前四格铁板，也不同于背上一口深锅：这是背后一整面浅圆盘，材质是铜，盘心有一圈近黑，嘴很小。也不同于背上的青白玉板：这里是浅圆铜盘，身体是黄油黄，没有熊耳。也不同于身体本身就是半月盘子的角色：身子是绒，盘子在后面。",
+  "tests": [
+    ["记忆点", "待出图验证", "盘子被画成手里的托盘"],
+    ["剪影", "待出图验证", "圆盘和头分不清前后"],
+    ["简化", "待出图验证", "盘上被加了食物"],
+    ["缩小", "待出图验证", "缩小时只剩一个黄球"],
+    ["换皮", "待出图验证", "换成别的金属仍要是背后整面圆盘"]
+  ],
+  "zh": "原创潮玩角色，一只小兽和一面烤盘长在一起：背后长出一整面浅的圆铜盘，直径约等于全高，盘沿超出身体，下沿嵌进短绒，拿掉盘子剪影就不成立。头是无耳无发的小方圆，只有盘子的三分之一高。眼睛是两条略向下的短线，间距约一个眼宽，嘴是偏在一侧的一个小点，不咧开。坐着，背靠自己的盘子，短脚前伸。身体是黄油黄短绒，只有烤盘是哑光铜，盘心一圈近黑。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要把盘子拿在手里，不要画成深锅，不要在盘上放食物，不要第二只角色，不要真人五官。",
+  "enp": "Original designer toy character: a small creature fused with a baking tray — a shallow round copper tray grows out of the back, diameter about the full height, rim wider than the body, lower edge set into the plush, and the silhouette fails without the tray. The head is a small earless rounded square, only a third of the tray's diameter. Eyes are two short lines slanting slightly down, about one eye-width apart, the mouth a tiny dot off to one side, not a grin. Seated, back against its own tray, short feet forward. Butter-yellow short plush; only the tray is matte copper, with one near-black ring in the center. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, do not put the tray in the hands, not a deep pot, no food on the tray, no second character, no realistic human features.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-29",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：不是腹前铁格，也不是背上的深锅，更不是身体本身的半月盘。识别：整面圆铜盘比头大两倍。不普通：盘子长进背里。铜只在盘上，边是圆的，不割手。黄油黄对铜，盘心近黑把对比收住。盘子被推到比身体还大。",
+  "pose": "坐着，背靠自己的盘子"
+}

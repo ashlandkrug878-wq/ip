@@ -1,0 +1,60 @@
+{
+  "ip": "star-dilireba-e3",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "背上一块合上的皮盖",
+  "axes": {
+    "archetype": "物件生物，合上的皮盖",
+    "silhouette": "团子，背后一块竖的圆角盖",
+    "mark": "背后 · 一块比头高的合上皮盖",
+    "face": "眯成线，视线向下，无嘴",
+    "emotion": "面无表情",
+    "fusion": "物件是壳：皮盖从背后长出，盖是合上的，正面只有绒，拿掉盖后背就空",
+    "material": "主体乳白短绒，只有背盖是光滑皮革",
+    "palette": "乳白配深棕皮"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "正圆小头，无耳无发，比皮盖小",
+  "combo": "背后一块深棕圆角皮盖 + 正面乳白小圆头 + 眯眼向下无嘴 + 两条粗短的垂臂",
+  "odd": "皮盖比头高，正面却什么都不展示",
+  "line": "",
+  "why": "给过画面的那一面已经盖上。正面只剩一张向下的脸，重的部分在背后，人还在，只是不打开。",
+  "spec": {
+    "proportion": "皮盖高度约是头高的 1.6 倍，头高约占全高 36%，垂臂长度约等于头高",
+    "outline": "前面一个小圆，后面一块竖的圆角矩形",
+    "volume": "大：深棕皮盖；中：乳白短绒身子和两条粗臂；小：脸",
+    "face": "眼眯成两条向下的短线，在头高中线偏下，没有嘴",
+    "stance": "站着，两条粗短的手臂垂在身前并轻轻合拢，脚是两只圆饼",
+    "structure": "皮盖的左右和下沿都嵌进背后的绒里，表面光滑，没有扣，没有开缝"
+  },
+  "toy_check": "站得住：皮盖下沿可以落到接近脚，圆脚分开。物件长进去：盖是后背。特殊材质只有皮革。新组合：最重的一块在背面，正面几乎是空的。不像绘本：无笑无衣服。头像还剩眯眼，全身才看清皮盖，所以侧面也要能读。做得成：盖是厚的圆角板，没有细带。姿态：垂臂合在身前，不是立正。",
+  "crop": "记忆点在背后。正面头像只有向下的眯眼，要靠侧面或背面才认出皮盖。提示词用略侧，让盖进画面。",
+  "collide": "不同于穿皮衣的人，也不同于脸上的面具：皮在背上，是一块合上的盖，正面没有五官以外的东西，没有拉链。",
+  "tests": [
+    ["记忆点", "待出图验证", "皮盖被画成衣服"],
+    ["剪影", "待出图验证", "正面剪影看不出背后的盖"],
+    ["简化", "待出图验证", "盖上被加了扣和缝"],
+    ["缩小", "待出图验证", "缩小时深棕块还在，脸先没了"],
+    ["换皮", "待出图验证", "换成别的皮仍要是背后一块合上的盖"]
+  ],
+  "zh": "原创潮玩角色，一只团子和一块皮盖长在一起：背后长出一块竖的圆角皮革盖，高度约是头的一点六倍，左右和下沿都嵌进短绒，盖是合上的，没有扣也没有缝，正面只有绒，拿掉这块盖后背就空。头是无耳无发的小正圆。眼睛眯成两条向下的短线，没有嘴。站着，两条粗短的手臂垂在身前轻轻合拢，臂长约等于头高，手指是圆的，大约三节。身体是乳白短绒，只有背盖是深棕色的光滑皮革。单个角色完整全身，正面略侧，让背后的盖能看见，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要把皮画成外套，不要拉链和扣子，不要面具，不要刀，不要真人五官。",
+  "enp": "Original designer toy character: a round creature fused with a closed leather cover — a vertical rounded leather panel grows from the back, about 1.6 times the head height, set into the plush on the sides and bottom, closed, with no clasp and no seam. The front is only plush, and the back is empty without the cover. The head is a small earless circle. Eyes are two short slits aimed down, no mouth. Standing, two thick short arms hanging in front and lightly together, about as long as the head, with rounded stubs rather than thin fingers. Milk-white short plush; only the back cover is smooth deep-brown leather. Single character, full body, slight three-quarter view so the back cover is visible, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, not a leather jacket, no zipper or clasp, no mask, no blade, no realistic human features.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-29",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：不是穿皮衣的人，也不是脸上的面具。识别：背后一块比头高的深棕盖，正面只有向下的眯眼。不普通：最重的一块是合上的，不打开。皮革只在这一块盖上，边圆，没有扣。乳白对深棕，明暗差得开。盖比头高，手臂粗短而不是细长。",
+  "pose": "站着，粗臂垂在身前合拢"
+}

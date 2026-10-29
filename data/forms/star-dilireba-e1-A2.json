@@ -1,0 +1,60 @@
+{
+  "ip": "star-dilireba-e1",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "头侧一根空栖钉的圆兽",
+  "axes": {
+    "archetype": "物件生物，空栖钉",
+    "silhouette": "团子，头的一侧一根平钉",
+    "mark": "头侧 · 一根钝钉上的空霜环",
+    "face": "眯成两条短线，位于头高下三分之一，无嘴",
+    "emotion": "面无表情",
+    "fusion": "物件就是头的一部分：平钉从头侧长出，空环套在钉上，拿掉钉和环，头就不是这个头",
+    "material": "主体梅紫短绒，只有那枚环是霜冻半透明",
+    "palette": "梅紫配霜白"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "正圆，无耳无发，右侧一根水平钝钉",
+  "combo": "正圆无耳头 + 头侧一根水平钝钉 + 钉上枚空的霜环 + 眯成线的眼在头的下段",
+  "odd": "霜环是空的，直径约等于两个眼宽，比眼睛显眼",
+  "line": "",
+  "why": "蝴蝶已经不在，停过的地方空着。空环比任何一只还在的蝶更能说出「飞走了」。脸不看这枚环，也不看镜头。",
+  "spec": {
+    "proportion": "头高约占全高 52%，钉长约等于头宽的 70%，钉是水平的",
+    "outline": "一个圆，向右伸出一根圆头短钉，钉端一枚圆环",
+    "volume": "大：梅紫圆身；中：霜环；小：短钉和两只短脚",
+    "face": "眼是两条短线，在头高下三分之一，间距约一个眼宽，没有嘴",
+    "stance": "坐着，头略偏向没有钉的一侧，短手贴着肚子",
+    "structure": "钉从头的侧面长出，根部和头是同一块，环套在钉的外端，环心是空的"
+  },
+  "toy_check": "站得住：坐着，钉是短的，不会挑翻重心。物件长进去：钉是头的一部分。特殊材质只有霜环，对应空着的停点。新组合：空环而不是停着的蝶。不像绘本：无大眼无笑。头像还剩侧钉和霜环。做得成：环是厚的，钉是钝的。姿态：坐着侧头，不是立正。",
+  "crop": "记忆点在头部一侧。头像裁切时要带上这根钉和空环。",
+  "collide": "不同于用巨大 Y 形叉当头、两臂分别指开的熊：这里是圆头一侧一根水平钝钉，上面只有一枚空环，没有分叉，没有熊耳，没有指路的手臂。也不同于头顶长草。",
+  "tests": [
+    ["记忆点", "待出图验证", "钉被画成鹿角或树叉"],
+    ["剪影", "待出图验证", "环和头糊在一起"],
+    ["简化", "待出图验证", "环里被画进一只蝴蝶"],
+    ["缩小", "待出图验证", "缩小时钉消失"],
+    ["换皮", "待出图验证", "换成别的颜色仍要是头侧一根空环钉"]
+  ],
+  "zh": "原创潮玩角色，一只圆兽和一根空栖钉长在一起：头是无耳无发的正圆，右侧水平长出一根圆头钝钉，钉长约头宽的七成，外端套着一枚空心的霜冻环，环里没有蝴蝶，拿掉钉和环这个头就不成立。头高约占全高一半。眼睛眯成两条短线，在头高下三分之一，间距约一个眼宽，没有嘴，神情是空的。坐着，头偏向没有钉的一侧，短手贴着肚子。身体是梅紫短绒，只有那枚环是磨砂半透明的。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要画成 Y 形树叉，不要熊耳，不要鹿角，不要在环里画蝴蝶，不要真人五官。",
+  "enp": "Original designer toy character: a round creature fused with an empty perch peg — a hairless earless round head grows one blunt horizontal peg from its right side, about 70 percent of the head width, with one hollow frosted ring on the outer end and nothing inside the ring. The head fails without the peg and ring. Head about half the height. Eyes are two short slits in the lower third, about one eye-width apart, no mouth, a blank look. Seated, head tipped toward the side without the peg, short arms against the belly. Plum short plush; only the ring is frosted and translucent. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, not a Y-shaped branch, no bear ears, no antlers, no butterfly inside the ring, no realistic human features.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-29",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：不是 Y 形叉头的熊，也不是头顶长草。识别：头侧一根平钉加一枚空霜环。不普通：环是空的，拿掉就不成立。霜只在这一枚环上，环是厚的，不扎进脸上。梅紫对霜白，对比清楚。组合少见，环比眼睛大。",
+  "pose": "坐着，头偏向没有钉的一侧"
+}

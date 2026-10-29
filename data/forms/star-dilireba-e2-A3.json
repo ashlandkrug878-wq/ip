@@ -1,0 +1,60 @@
+{
+  "ip": "star-dilireba-e2",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "肚子是一块发酵布",
+  "axes": {
+    "archetype": "物件生物，发酵布",
+    "silhouette": "团子，腹前一块方布",
+    "mark": "腹部 · 四边嵌进绒里的编织布",
+    "face": "扁长的半垂眼，位于头高中线，无嘴",
+    "emotion": "内收，醒着",
+    "fusion": "物件就是身体的一块：布的四边埋进肚子，拿掉布腹部就空",
+    "material": "主体燕麦短绒，只有腹布是原色编织亚麻，布边一条靛蓝",
+    "palette": "燕麦配靛蓝"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "方圆头，无耳无发，比布窄",
+  "combo": "方圆头 + 腹前一块比脸宽的编织布 + 扁长半垂眼无嘴 + 靛蓝布边对燕麦绒",
+  "odd": "布比脸宽，像还包着，没有揭开",
+  "line": "",
+  "why": "已经在了，所以不用揭开给人看。布还盖着，热的部分在布下面，脸不解释。",
+  "spec": {
+    "proportion": "头高约占全高 40%，腹布宽约是头宽的 1.2 倍，布高约是头高的 70%",
+    "outline": "一个方圆团，肚子上一块圆角方布",
+    "volume": "大：燕麦短绒团；中：编织布；小：两只短手和短脚",
+    "face": "眼是扁长的半垂眼，在头高中线，眼距约一个眼宽，没有嘴",
+    "stance": "瘫坐，短手搁在布的上沿，重心坐进布的下边",
+    "structure": "布的四边都嵌进绒里，边缘一条靛蓝织边，不是披在外面的围裙"
+  },
+  "toy_check": "站得住：瘫坐，底宽。物件长进去：布是肚子，拿掉就空。特殊材质只有这块编织，织边和布是同一种。新组合：肚子是一块还没揭开的布。不像绘本：无笑无围裙人。头像还剩布的上沿和扁长眼。做得成：布是一整块，纹路粗，不细到绣花。姿态：瘫坐，不是立正。",
+  "crop": "记忆点在腹部。头像要裁到布的上沿，否则只剩一张无嘴的脸。",
+  "collide": "不同于穿围裙的烘焙角色：布嵌在肚子里，没有肩带，没有帽子，没有笑。也不同于手里抱着的包。",
+  "tests": [
+    ["记忆点", "待出图验证", "布被画成围裙或披肩"],
+    ["剪影", "待出图验证", "布和肚子剪影没有台阶"],
+    ["简化", "待出图验证", "织纹密到像噪声"],
+    ["缩小", "待出图验证", "缩小时靛蓝边还在，布面糊掉"],
+    ["换皮", "待出图验证", "换成别的布仍要四边嵌进肚子"]
+  ],
+  "zh": "原创潮玩角色，一只团子和一块发酵布长在一起：腹前一块圆角方布，宽比头还宽，四边都嵌进燕麦色短绒里，拿掉这块布腹部就空。头是无耳无发的方圆，头高约占全高四成。眼睛是扁长的半垂眼，在头高中线，眼距约一个眼宽，没有嘴。瘫坐，短手搁在布的上沿。身体是燕麦短绒，只有这块布是原色编织亚麻，布边一条靛蓝。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要画成围裙，不要樱桃，不要把布揭开，不要第二只角色，不要真人五官。",
+  "enp": "Original designer toy character: a round creature fused with a proving cloth — a rounded square of cloth wider than the head is set into the belly on all four edges, and the belly is empty without it. The head is an earless rounded square, about 40 percent of the height. Eyes are flat half-lidded ovals on the midline, about one eye-width apart, no mouth. Slumped sitting, short hands resting on the cloth's top edge. Oatmeal short plush; only the cloth is natural woven linen with one indigo hem. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, not an apron, no cherry, do not peel the cloth open, no second character, no realistic human features.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-29",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：不是穿围裙的烘焙人，也不是抱着包。识别：腹前一块比脸宽的织布，加一条靛蓝边。不普通：布是肚子本身。编织只这一块，纹路粗，不扎眼。燕麦对靛蓝，对比清楚。布比脸大，还盖着。",
+  "pose": "瘫坐，短手搁在布的上沿"
+}
