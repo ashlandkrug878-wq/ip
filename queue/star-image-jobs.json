@@ -54,10 +54,10 @@
     "prompt_en": "Original designer toy character: a round whale fused with a pot — the cast-copper pot is the torso, the head rises only above the rim, no separate belly. The pot is about 70 percent of the height. Straight lids press on small horizontal eyes, the mouth a short slanted line, just finished speaking, not open. Seated on its own base, two very short side fins, pot ears short and round. Short plush above the rim is ink black; the pot is warm cast copper. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.Do not carry or hold the pot, no food or steam, no open shouting mouth, no human face.",
     "prompt_zh": "原创潮玩角色，圆鲸和一口锅长在一起：铸铜锅身就是躯干，头从锅沿上面探出来，没有单独的肚子。锅身约占全高百分之七十。平直眼皮压住小横眼，嘴是一小段斜线，像刚说完，并不张开。坐在自己的锅底上，两只极短侧鳍，锅耳又短又圆。锅沿以上是墨黑短绒，锅身是暖铸铜。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要把锅画成背着或拿着，不要食物和蒸汽，不要张开的吼叫，不要人类的脸。",
     "size": "1024x1024",
-    "status": "pending",
-    "output": "images/star-huangjingyu-e2-A1/lineart-01.png",
+    "status": "done",
+    "output": "images/star-huangjingyu-e2-A1/lineart-01.webp",
     "created": "2026-10-28",
-    "note": ""
+    "note": "ChatGPT 明星出图"
   },
   {
     "id": "star-huangjingyu-e2-A2-lineart-01",
