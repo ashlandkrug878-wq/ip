@@ -13,8 +13,8 @@
     "exact_prompt": "Use only the FRONT-view figure on the LEFT of the attached product reference. Create a single flat 2D head-and-shoulders character study on a pure white square canvas, cropped exactly at the lower hem of the red hoodie; do not include the belly, legs or rear-view figure. Preserve the same pale-peach oval toy face, broad forehead, tiny short triangular brown eyebrows, large glossy black side-glancing eyes with white crescents and three fine outer lashes, small subtle rounded nose, very small pink closed smile and the pink lip-print on the viewer-right cheek. Preserve the exact red fox headpiece: two tall triangular ears with nearly black interiors, projecting round red muzzle with a dark round nose at the center of the forehead, two tiny closed-eye lines on the fox muzzle area, and two side cheek tufts. Keep the red hooded top around the neck and shoulders with its hood rim and two small drawstrings. Translate metallic red reflection into a few simple solid red and pink-red local color areas, not plastic shine or lighting. Keep the original toy head shape and eye spacing, without turning it into an anime character. Put no letters, words or logos anywhere; the chest lip-print silhouette can remain but must have a blank center. Use fine muted reddish-brown contour lines and clean flat fills. No text, watermark, duplicate view, animal body, scenery, glow, gradient or cast shadow. Reconstruct only the stated visible head-and-shoulders scope.",
     "generated_image_path": "assets/flat-ref-v1.webp",
     "prompt_file": "prompts/flat-ref-v1.txt",
-    "status": "ready",
-    "observations": "狐帽轮廓、黑耳内、额上狐鼻、脸部侧视大眼、颊吻印和红帽衫位置接近。眼睛略大、鼻更突出、线与浅渐变不同；衣摆裁切偏高、胸图案未完整出现。限定头肩身份通过，严格平涂/全身未通过此测试。",
+    "status": "revise",
+    "observations": "脸与狐帽身份接近，但衣摆裁切过高、胸图案未出现，眼睛偏大、鼻偏强。没有达到事前锁定的完整帽衫范围，移出正式可用区，保留在全部测试中。",
     "revision_reason": "首轮锁定头肩范围；没有以换目标绕过偏差。",
     "tested_at": "2026-10-29",
     "original_generated_file": "/workspace/scratch/49527ac7d143/generated_images/exec-c51b75f2-b228-49ff-862b-fe312919dff0.png",
@@ -26,5 +26,33 @@
     ],
     "bytes": 22034,
     "exact_prompt_sha256": "051d880e5f15c392bc8e18ac4ef852a81099b620585d0229df5ca90071131f78"
+  },
+  {
+    "prompt_id": "sa-flat-ref-v2",
+    "subject_id": "sonny-angel",
+    "version": 2,
+    "target_scope": "V01左正面红狐联名的头肩/上衣二维转译，排除腹腿与背面",
+    "carrier": "flat",
+    "language": "en",
+    "input_mode": "reference_assisted",
+    "reference_image_ids": [
+      "V01"
+    ],
+    "exact_prompt": "Use only the FRONT-view figure on the LEFT of the attached product reference. Create a single flat 2D head-and-shoulders character study on a pure white square canvas, cropped exactly at the lower hem of the red hoodie; do not include the belly, legs or rear-view figure. Preserve the same pale-peach oval toy face, broad forehead, tiny short triangular brown eyebrows, large glossy black side-glancing eyes with white crescents and three fine outer lashes, small subtle rounded nose, very small pink closed smile and the pink lip-print on the viewer-right cheek. Preserve the exact red fox headpiece: two tall triangular ears with nearly black interiors, projecting round red muzzle with a dark round nose at the center of the forehead, two tiny closed-eye lines on the fox muzzle area, and two side cheek tufts. Keep the red hooded top around the neck and shoulders with its hood rim and two small drawstrings. Translate metallic red reflection into a few simple solid red and pink-red local color areas, not plastic shine or lighting. Keep the original toy head shape and eye spacing, without turning it into an anime character. Put no letters, words or logos anywhere; the chest lip-print silhouette can remain but must have a blank center. Use fine muted reddish-brown contour lines and clean flat fills. No text, watermark, duplicate view, animal body, scenery, glow, gradient or cast shadow. Reconstruct only the stated visible head-and-shoulders scope. REVISION: Keep the SAME target and front view. The previous output cropped too high and omitted most of the hoodie. This time include the COMPLETE hoodie front down to its curved LOWER HEM, with both sleeves fully visible, and the small simple lip-print silhouette centered on the chest with a blank middle. Show the head plus the entire hoodie as one connected upper-body study; crop immediately BELOW the hoodie hem and ABOVE the belly, with no belly, legs or rear figure visible. Do not enlarge the head to fill the canvas: match the reference head width relative to the full hoodie width. Match the reference eye size rather than making larger cartoon eyes, keep the nose nearly imperceptible, and use strictly solid local color regions instead of gradient shading. Leave a generous white margin around the complete upper-body silhouette.",
+    "generated_image_path": "assets/flat-ref-v2.webp",
+    "prompt_file": "prompts/flat-ref-v2.txt",
+    "status": "ready",
+    "observations": "保留红狐帽、耳/狐鼻、颊吻印和侧视娃娃脸；完整帽衫衣摆与空白胸唇印出现，眼睛比v1接近、鼻更轻。脸形、眼距、衣袖曲线与原照仍有轻微差异，肤色残留浅色阶，非全身/纯文字/标准矢量稿。",
+    "revision_reason": "同一官方参考和同一头肩至衣摆目标，修正v1过度裁切、漏胸图案、眼睛偏大与鼻过强；未更换目标。",
+    "tested_at": "2026-10-29",
+    "original_generated_file": "/workspace/scratch/49527ac7d143/generated_images/exec-a5117db6-e261-4305-9dcd-fc1be2646f94.png",
+    "original_sha256": "541677d679a789a355053f90e392d63a791fa4d42c1da001684fb6b74cd5d9a4",
+    "display_sha256": "75a348a13e582a04128240bd96410cedf663483cb92de7c251771a7cfa0e3e5f",
+    "display_size": [
+      768,
+      768
+    ],
+    "bytes": 18100,
+    "exact_prompt_sha256": "7fee24422ad910e9ecd8a6fb3c72cafd5c6d062502cc436295c2d3f7728849d7"
   }
 ]
