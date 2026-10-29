@@ -1,0 +1,22 @@
+[
+  {
+    "platform": "web",
+    "queries": [
+      "site.smiski.com スミスキー 誕生 2015",
+      "site.smiski.com e products series 1 history 2015 glow material price",
+      "site.dreams6-shop.com SMISKI Touch Light Vol.2 価格",
+      "site.smiski.com reflector charm 価格 2026"
+    ],
+    "status": "executed"
+  },
+  {
+    "platform": "小红书站内",
+    "queries": [
+      "SMISKI 品牌介绍",
+      "SMISKI 产品汇总"
+    ],
+    "status": "executed",
+    "read_notes": 3,
+    "scope": "介绍/观点/产品视频页按目的抽样；非随机样本，不把标题热度当销售。"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "prompt_id": "smi-flat-ref-v1",
+    "subject_id": "smiski",
+    "version": 1,
+    "target_scope": "Series1 Hugging Knees官网200×200商品图可见角度二维转译",
+    "carrier": "flat",
+    "language": "en",
+    "input_mode": "reference_assisted",
+    "reference_image_ids": [
+      "V01"
+    ],
+    "exact_prompt": "Use the attached official product image as the only identity and pose reference. Translate only the single seated pale yellow-green humanoid creature into a flat two-dimensional character illustration on a pure white square background. Remove the dark green circular backdrop and all studio shading. Preserve the unusually large smooth round bald head, tiny widely spaced dark dot eyes, very small short horizontal mouth low between them, no visible nose or ears, very short neck, rounded narrow torso and bent knees drawn close against the chest. Match the visible hands clasped around the front of the knees, low small rounded feet together, slightly downward-facing head and compact seated silhouette exactly as shown. The figure is one simple unclothed non-anatomical toy body: no body hair, no genitals or human anatomical detail. Keep the head-to-body proportion from the reference and the placement of both arms and feet; do not stand it up or change its pose. Use a uniform light yellow-green local fill and thin muted olive outlines only where needed to separate overlapping limbs. Do not add a smile, hair, brows, clothing, new props, circle, texture, glow aura, gradients, shadows, lettering or watermark. This is a study translation of only the visible view, not a rear-view reconstruction.",
+    "generated_image_path": "assets/flat-ref-v1.webp",
+    "prompt_file": "prompts/flat-ref-v1.txt",
+    "status": "ready",
+    "observations": "圆秃头、小点眼短横嘴、抱膝与手脚关系、淡黄绿位置接近；眼嘴略大、头手曲线与浅色阶仍不同。仅依附当前图，不证明纯文字或整套角色群可复现。",
+    "revision_reason": "首轮明确依赖同一官方图；限制结论在可见二维身份",
+    "tested_at": "2026-10-29",
+    "original_generated_file": "/workspace/scratch/49527ac7d143/generated_images/exec-c8f731e9-3cf9-47d3-8eda-020cfac2c284.png",
+    "original_sha256": "f4558d53f2147afa9455dd3a6b5e970edb8def9bf92898de9a9f4b3a8459e4af",
+    "display_sha256": "4b07fa38f74870b27df3f87831dc2934bc296b75b346dc3e5604b45619d0db57",
+    "display_size": [
+      768,
+      768
+    ],
+    "bytes": 8934,
+    "exact_prompt_sha256": "8c18998d4cbb4df402fd652012dca75393886bf2bd13bae903e3ade759bb456b"
+  }
+]

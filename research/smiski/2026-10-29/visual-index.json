@@ -1,0 +1,116 @@
+[
+  {
+    "image_id": "V01",
+    "title": "抱膝成员",
+    "original_image_url": "https://smiski.com/wp-content/uploads/2016/03/s1_01.png",
+    "observed_features": "圆秃头低垂、两点眼与短横嘴，双臂环抱膝前，双脚落在前方，淡黄绿实体处于深绿圆背景。",
+    "boundary": "仅观察官网商品图可见视角；小尺寸图不足以判断模线/量产精度。",
+    "sources": [
+      "s1"
+    ],
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "original_sha256": "9439da2a88076d313a05ba27eddedcf457a3569b7ad0daf2b7e23081b7ba2283",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V02",
+    "title": "回头成员",
+    "original_image_url": "https://smiski.com/wp-content/uploads/2016/03/s1_03.png",
+    "observed_features": "圆头回转、眼嘴朝侧前，身体微弯且一臂向前，小腹突出；不是统一瘦体。",
+    "boundary": "仅观察官网商品图可见视角；小尺寸图不足以判断模线/量产精度。",
+    "sources": [
+      "s1"
+    ],
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "original_sha256": "6ada76a07be218f4a2069346bdc56d92ca430992c59a60348a45c418a101bd5a",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V03",
+    "title": "躺卧成员",
+    "original_image_url": "https://smiski.com/wp-content/uploads/2016/03/s1_04.png",
+    "observed_features": "横向卧姿，一手撑头另一手在腹侧，头脸倾斜；姿态改变而小五官保留。",
+    "boundary": "仅观察官网商品图可见视角；小尺寸图不足以判断模线/量产精度。",
+    "sources": [
+      "s1"
+    ],
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "original_sha256": "1c55fedceb223ac83af1bfb2992f6f50cfb9115763cc6bab61452923d227453d",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V04",
+    "title": "蓝色Bath洗头",
+    "original_image_url": "https://smiski.com/e/wp-content/uploads/2017/10/awadateski.png",
+    "observed_features": "淡蓝身体坐姿，双手举至头边，白色泡沫帽状块在头顶；蓝色是本系列，不是换了物种。",
+    "boundary": "仅观察官网商品图可见视角；小尺寸图不足以判断模线/量产精度。",
+    "sources": [
+      "s8"
+    ],
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "original_sha256": "5c0798eb6b2fb595943039428765ae04f891207aa5b9fdd176fa93d1bdf4e351",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V05",
+    "title": "HIPPERS持手机",
+    "original_image_url": "https://smiski.com/e/wp-content/uploads/2024/09/hippers_01.png",
+    "observed_features": "正面持绿色手机，下半身被前景挡住，双臂向前；不补遮挡后腿部。",
+    "boundary": "仅观察官网商品图可见视角；小尺寸图不足以判断模线/量产精度。",
+    "sources": [
+      "s6"
+    ],
+    "original_dimensions": [
+      395,
+      395
+    ],
+    "original_sha256": "693eb1c442e7815635f5dfef169440594fe56052f80ae972631d1bbed8c5dbf5",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  },
+  {
+    "image_id": "V06",
+    "title": "卧姿触摸灯Vol.2",
+    "original_image_url": "https://smiski.com/e/wp-content/uploads/2025/11/touchlight2_02.png",
+    "observed_features": "大型卧姿灯在桌面发光，靠书、杯和收音机提供尺度语境；脸部仍极简，表面光滑。",
+    "boundary": "环境光不是标准色，灯光效果不等于普通公仔蓄光效果。",
+    "sources": [
+      "s9"
+    ],
+    "original_dimensions": [
+      1000,
+      625
+    ],
+    "original_sha256": "767b26f19f0020db1cedf0d6d77905b43f6f47091f862f652b6dc7a347398a75",
+    "storage": "reference_only",
+    "opened": true,
+    "observed": "2026-10-29",
+    "rights": "版权归原权利人；公开页仅引用原链接，不打包原图。"
+  }
+]

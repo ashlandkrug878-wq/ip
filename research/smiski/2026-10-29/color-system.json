@@ -1,0 +1,38 @@
+[
+  {
+    "name": "淡黄绿高光",
+    "region": "V01头部，是摄影亮部而非标准色",
+    "image_id": "V01",
+    "extension": "png",
+    "xy": [
+      110,
+      39
+    ],
+    "hex_preview": "#FEF6CD",
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "method": "原图转RGB，坐标周围3×3像素逐通道中位数",
+    "value_basis": "image_sample",
+    "uncertainty": "屏幕近似，受压缩/光照影响；不是生产色号，无主体分割面积比例"
+  },
+  {
+    "name": "淡蓝系列身体",
+    "region": "V04脸侧，受照明影响",
+    "image_id": "V04",
+    "extension": "png",
+    "xy": [
+      101,
+      89
+    ],
+    "hex_preview": "#A5D2CF",
+    "original_dimensions": [
+      200,
+      200
+    ],
+    "method": "原图转RGB，坐标周围3×3像素逐通道中位数",
+    "value_basis": "image_sample",
+    "uncertainty": "屏幕近似，受压缩/光照影响；不是生产色号，无主体分割面积比例"
+  }
+]

@@ -1,0 +1,401 @@
+{
+  "id": "smiski",
+  "name": "角落君 SMISKI",
+  "aliases": [
+    "スミスキー",
+    "Smiski"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-29",
+  "updated": "2026-10-29",
+  "summary": "把角落变成用户可布置的舞台，用姿态、藏放和明暗发现建立关系；不同发光技术分开，未把全球热度宣传当销量。",
+  "owner": {
+    "creator": null,
+    "operator": "Dreams Inc.／株式会社ドリームズ",
+    "relation": "官方产品与版权由Dreams署名；自然人初始作者、内部设计分工未核",
+    "since": "2015",
+    "sources": [
+      "s1",
+      "s2",
+      "s3"
+    ]
+  },
+  "origin": {
+    "path": [
+      "产品先行"
+    ],
+    "year": 2015,
+    "story": "官方回顾从2015年开始；首代Series1以房间角落、不同姿态和蓄光小公仔存在。精确首售日有外部说法，未由本轮原始官方确认。",
+    "sources": [
+      "s1",
+      "s2",
+      "s3"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2015",
+      "event": "Series1产品起点，官方制造年与周年回顾一致",
+      "type": "self_report",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "date": "2018-09-01",
+      "event": "6个系列税前550→650日元，不能直接推断利润增长",
+      "type": "fact",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "date": "2025-09-19",
+      "event": "十周年Birthday新系列日本发售",
+      "type": "self_report",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "date": "2025-11-27",
+      "event": "卧姿触摸灯Vol.2电力发光",
+      "type": "self_report",
+      "sources": [
+        "s9"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "event": "Reflector Charm计划日本发售；公开页不等于当日所有店可购",
+      "type": "self_report",
+      "sources": [
+        "s11",
+        "s12"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "我安静地在角落，陪你过普通的一天。",
+    "sentence_type": "陪伴",
+    "basis": "inferred",
+    "sources": [
+      "s1",
+      "s5"
+    ]
+  },
+  "core": {
+    "personality": "隐蔽、安静、各有个性",
+    "emotion": "面无表情",
+    "action": "抱膝、回头、躺卧、窥看，在不同角落存在",
+    "basis": "official"
+  },
+  "insight": {
+    "scene": "房间/工位边角，关灯或低头时意外发现",
+    "behavior": "用户挑选匹配家具和动作的摆放位置，官网也引导为每一只找角落",
+    "state": "想要低打扰的小陪伴与有趣的环境细节",
+    "conflict": "躲起来的角色需要被发现；静止玩具靠用户摆放完成关系",
+    "unsaid": "你不用陪我说话，在那里就好。",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "小公仔陈列者、生活空间装饰者、主题/隐藏收藏者；人口统计未知",
+    "where": "桌边、书架、手机边框；国内外官方与授权店",
+    "buy": "有开箱/端盒话题自述，无订单核验；评论喜欢与嫌贵并存",
+    "signs": "姿态命名、圆无发头、小点眼短嘴、夜间发现；不是角落小伙伴",
+    "share": "将角色安插到家具和生活情境；本轮未采用户摆放图的完整视觉",
+    "breakout": "携带边角的HIPPERS提供场景扩展，增量销量不明"
+  },
+  "pendulum": {
+    "position": "荒诞抽象",
+    "against": "对高表情密度角色的另一种选择：少五官、姿态和位置讲故事；不是全社会转向i人的证据"
+  },
+  "form": {
+    "archetype": "类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "姿态",
+      "五官"
+    ],
+    "mark": "圆头无发无耳，小点眼短横嘴，光滑单色圆躯体配具体动作",
+    "face": "V01头低垂、眼位偏低、两眼疏开、微短横嘴；无眉鼻耳",
+    "emotion": "面无表情",
+    "odd": "极小脸信息与不同姿态/角落关系形成反差；系列中有胖瘦差异",
+    "density": "极简",
+    "naming": "描述",
+    "group": "角色群"
+  },
+  "collide_combo": "避免圆秃头、点眼短横嘴、半透明黄绿蓄光小身体、角落抱膝/窥视姿态整套机制与识别一起搬用。",
+  "color": {
+    "mode": "单色识别",
+    "main": "常见淡黄绿；Bath蓝色为系列差异",
+    "signature": "低彩度单色身体＋小深色脸；绿不是所有系列不变量",
+    "notes": "原图拍摄明暗/发光状态和插画色块不可混用，背景绿圆不属于身体"
+  },
+  "materials": "普通公仔官方称蓄光，HIPPERS明列ATBC-PVC与胶；触摸灯为电力照明，反光挂件靠外来光。发光时长、亮度、反光安全等级和每种塑料配方未本轮实测。",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "授权图案"
+  },
+  "product": {
+    "first_category": "盲盒手办",
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "本轮日本含税JPY770—4180，不作跨国统一价格",
+    "sources": [
+      "s3",
+      "s7",
+      "s10",
+      "s12"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "2018调价前税前单价",
+      "value": 550,
+      "unit": "JPY",
+      "period": "2018-08以前指定6系列/日本",
+      "type": "fact",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "metric": "2018调价后税前单价",
+      "value": 650,
+      "unit": "JPY",
+      "period": "2018-09起指定6系列/日本",
+      "type": "fact",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "metric": "独立IP收入/净销量/复购",
+      "value": null,
+      "unit": null,
+      "period": "截至2026-10-29",
+      "type": "hypothesis",
+      "sources": [
+        "s3",
+        "s11"
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "角色的位置是产品内容的一部分，用户摆放才能补完它。",
+      "type": "inference",
+      "evidence": "Series1为每个姿态指定发现地点；HIPPERS把边角移动到随身物件。",
+      "boundary": "产品用法与官方设定可核，未做用户留存/转化对照。",
+      "sources": [
+        "s1",
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "claim": "少表情把叙事重心让给动作和家具环境。",
+      "type": "inference",
+      "evidence": "抱膝、躺卧、回头共享脸部语法，官方又区分不同性格。",
+      "boundary": "不能把所有成员说成同一个i人，用户可能单纯喜欢单色造型。",
+      "sources": [
+        "s1",
+        "u2",
+        "u3"
+      ]
+    },
+    {
+      "claim": "从蓄光到灯和反光，可延展“黑暗中发现”关系，但工艺必须分别验证。",
+      "type": "inference",
+      "evidence": "三类产品的光源机制由官方明确区分。",
+      "boundary": "不是材料可互换，更不是已证明的安全或治疗效果。",
+      "sources": [
+        "s3",
+        "s9",
+        "s11"
+      ]
+    }
+  ],
+  "counterexamples": "中国爆冷的标题没有销量依据，不能作地区失败结论；其评论可见价格阻力，非总体态度。官方2018调价提示成本约束存在。蓝色Bath与电力灯也反驳“全IP绿色/全部蓄光”的过度归纳。未核大规模退坑、售罄或二手成交。",
+  "theory": {
+    "shell": "圆头和点眼是公共语言，关系来自具体体块、姿态、色与藏放",
+    "core": "安静存在而非持续表演，不同成员又有行为性格",
+    "shadow": "别把“角落”一词与其他群像IP混同；取机制不取整套造型",
+    "two_layers": {
+      "surface": "低打扰的微小陪伴",
+      "deep": "姿态名称、适配位置与隐藏款；二者对应转化未验证"
+    },
+    "validation": "定价/限购/在库是供给信息；端盒标签与喜欢评论不足以证明付费、复购和增长"
+  },
+  "for_skills": {
+    "lab": "将陪伴写成可发生的接触时刻，检验用户需要主动回应还是静默存在。",
+    "form": "用动作和摆放支撑面部留白；先建立独立头脸，不复制圆头绿体。",
+    "studio": "让产品结构参与故事，如附着边缘、位置发现；分别检验蓄光、照明、反射和胶的实际体验。"
+  },
+  "gaps": [
+    "自然人作者、首创/首售精确日期、专属团队和完整权属链未知。",
+    "独立销量、盈利与中国/海外对比数据未取得。",
+    "XHS共实读3篇正文或视频页可见文本/评论；没有全看视频、全翻图片，不能称全系列图鉴已完成。",
+    "2015-08-19等具体日期只作二级线索；不按源URL的2016推定诞生。",
+    "平面仅英文附图v1通过可见身份转译，眼嘴与浅色阶有差别；主图200×200、纯文字/中文/稳定性未测。",
+    "生产配方、发光/反光实测、背面结构未知；未进入原创或3D。"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Series1角色与姿态档案",
+      "url": "https://smiski.com/e/products/series-1/",
+      "publisher": "Dreams",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "6种角色状态，体型有Normal/Slim/Chubby差异；位置、性格、动作分别标注。"
+    },
+    {
+      "id": "s2",
+      "title": "三周年官方回顾",
+      "url": "https://smiski.com/3rd-anniversary/",
+      "publisher": "Dreams",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "明确从2015年开始，不从网页版权2016推定诞生。"
+    },
+    {
+      "id": "s3",
+      "title": "Series1日本官方零售",
+      "url": "https://www.dreams6-shop.com/SHOP/SMI66200.html",
+      "publisher": "Dreams",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "制造年2015、1210日元含税；产品尺寸约W29—70×H39—74mm，包装60×52×80mm须分开。"
+    },
+    {
+      "id": "s4",
+      "title": "2018调价公告",
+      "url": "https://smiski.com/e/news/price-revision-notice/",
+      "publisher": "Dreams",
+      "published": "2018-08-31",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "9月1日起6系列从税前550到650日元，原因属官方成本解释。"
+    },
+    {
+      "id": "s5",
+      "title": "Birthday发售公告",
+      "url": "https://smiski.com/news/20250905/",
+      "publisher": "Dreams",
+      "published": "2025-09-05",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2015诞生、十周年；2025-09-19日本发售，6常规+1隐藏。"
+    },
+    {
+      "id": "s6",
+      "title": "HIPPERS官方介绍",
+      "url": "https://smiski.com/e/products/hippers-series/",
+      "publisher": "Dreams",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "可附着显示器、手机和相框；手机等道具仅当款存在。"
+    },
+    {
+      "id": "s7",
+      "title": "HIPPERS官方商品规格",
+      "url": "https://www.sonnyangelstore.com/en/products/hippers_smiski",
+      "publisher": "Dreams",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "1430日元含税，ATBC-PVC；29—52×48—70×22—36mm；可重复胶带有附着条件。"
+    },
+    {
+      "id": "s8",
+      "title": "Bath系列",
+      "url": "https://smiski.com/e/products/bath-series/",
+      "publisher": "Dreams",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "蓝色浴室系列，洗头/小鸭等不同情景。"
+    },
+    {
+      "id": "s9",
+      "title": "触摸灯第二代公告",
+      "url": "https://smiski.com/e/news/20251113/",
+      "publisher": "Dreams",
+      "published": "2025-11-13",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2025-11-27发售；电力灯三档、不用蓄光材料，关灯不会继续发光。"
+    },
+    {
+      "id": "s10",
+      "title": "Touch Light Vol.2日本规格",
+      "url": "https://www.dreams6-shop.com/SHOP/SMI66482.html",
+      "publisher": "Dreams",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "SMI66482、4180日元含税，142g；不同于小公仔。"
+    },
+    {
+      "id": "s11",
+      "title": "反光挂件发售公告",
+      "url": "https://smiski.com/e/news/20261020/",
+      "publisher": "Dreams",
+      "published": "2026-10-20",
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "2026-10-29发售6款，反射光，不等于自身蓄光。"
+    },
+    {
+      "id": "s12",
+      "title": "反光挂件日本零售",
+      "url": "https://www.dreams6-shop.com/SHOP/SMI66503.html",
+      "publisher": "Dreams",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "full",
+      "supports": "SMI66503、770日元含税、11g；店内库存显示不作销量。"
+    },
+    {
+      "id": "u1",
+      "title": "海外爆火国内爆冷？",
+      "url": "https://www.xiaohongshu.com/explore/695cf19c000000002200bf39",
+      "publisher": "潮玩大眼睛👀",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "partial",
+      "supports": "可见01-06；只读视频页标题、标签和当前可见评论：有人喜欢，有人嫌贵。未读取视频完整内容，不据标题判断中国市场失败。"
+    },
+    {
+      "id": "u2",
+      "title": "每日认识角落君",
+      "url": "https://www.xiaohongshu.com/explore/69d60ed20000000023011183",
+      "publisher": "原仓IP观察",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "partial",
+      "supports": "可见04-09；正文给2015-08-19及30多国等，属于营销账号的待核说法，官方核年不核此日。"
+    },
+    {
+      "id": "u3",
+      "title": "施工小分队",
+      "url": "https://www.xiaohongshu.com/explore/6a674ec1000000000f033092",
+      "publisher": "糯唧唧丶兔叽叽",
+      "published": null,
+      "observed": "2026-10-29",
+      "access": "partial",
+      "supports": "可见07-27；正文/当前可见评论强调夜光、工具与面瘫脸；视频未全看，无订单核验。"
+    }
+  ],
+  "archive": "research/smiski/2026-10-29/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/smiski/2026-10-29/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/smiski/2026-10-29/"
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Series1 SMI66200",
+    "release": "2015，精确首售日null",
+    "price": "当前日本JPY1210含税；原价不是1210",
+    "size": "公仔约W29—70×H39—74mm，包装60×52×80mm",
+    "material": "官方称蓄光；配方null",
+    "note": "英文店高尺寸文本缺字，与日文店并列查证；约40g口径不推广全IP",
+    "sources": [
+      "s1",
+      "s2",
+      "s3"
+    ]
+  },
+  {
+    "name": "Bath Series",
+    "release": null,
+    "price": "日本访问价JPY1210含税（官方店相关商品栏）",
+    "size": null,
+    "material": "蓝色蓄光公仔",
+    "note": "6常规+隐藏，非绿色通用规则",
+    "sources": [
+      "s3",
+      "s8"
+    ]
+  },
+  {
+    "name": "HIPPERS SMI66437",
+    "release": null,
+    "price": "日本JPY1430含税",
+    "size": "W29—52×H48—70×D22—36mm",
+    "material": "ATBC-PVC、蓄光、附着胶带",
+    "note": "胶可重复使用依赖表面与清洁条件，非永久粘贴保证",
+    "sources": [
+      "s6",
+      "s7"
+    ]
+  },
+  {
+    "name": "Birthday系列",
+    "release": "2025-09-19日本",
+    "price": null,
+    "size": null,
+    "material": "蓄光公仔",
+    "note": "6常规+1隐藏，按本款公告，不套给所有周边",
+    "sources": [
+      "s5"
+    ]
+  },
+  {
+    "name": "Touch Light Vol.2 SMI66482",
+    "release": "2025-11-27日本",
+    "price": "JPY4180含税",
+    "size": null,
+    "material": "电力触摸灯，3档",
+    "note": "142g；关灯不蓄光，续航官方条件与实测分开",
+    "sources": [
+      "s9",
+      "s10"
+    ]
+  },
+  {
+    "name": "Reflector Charm SMI66503",
+    "release": "2026-10-29日本正午计划",
+    "price": "JPY770含税",
+    "size": null,
+    "material": "反射光挂件，基材null",
+    "note": "11g、6款；不声称等同自行发光或已通过道路安全认证",
+    "sources": [
+      "s11",
+      "s12"
+    ]
+  }
+]
