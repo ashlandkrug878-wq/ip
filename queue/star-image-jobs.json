@@ -39,10 +39,10 @@
     "prompt_en": "Original designer toy character: a small spirit fused with a sheath — a thick closed leather sheath grows from the shoulder blade, trails past the feet and pools beside the body so the silhouette fails without it. No blade. Tall small round head about 30 percent of the height, two dot ears, widely spaced black dot eyes, no mouth, a blank face. Seated. Mist-grey short plush; only the sheath is dark brown leather, with one small brass stud on the closed seam. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.No blade and no blood, no human body, hair or clothes, do not make the sheath a removable accessory.",
     "prompt_zh": "原创潮玩角色，一只小精灵和刀鞘长在一起：合上的厚皮鞘从肩胛长出，拖到脚外，在身侧堆成底，拿掉鞘轮廓就没了。没有刀刃。头是竖高小圆，约占全高百分之三十，两粒圆点耳，宽眼距的小黑点眼，没有嘴，面无表情。坐着。身体是雾灰短绒，只有鞘是深棕皮革，合缝处一枚小黄铜扣。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要画出任何刀刃或血迹，不要人类身体、头发和衣服，不要把鞘画成可摘下的配件。",
     "size": "1024x1024",
-    "status": "pending",
-    "output": "images/star-huangjingyu-e1-A3/lineart-01.png",
+    "status": "done",
+    "output": "images/star-huangjingyu-e1-A3/lineart-01.webp",
     "created": "2026-10-28",
-    "note": ""
+    "note": "ChatGPT 明星出图"
   },
   {
     "id": "star-huangjingyu-e2-A1-lineart-01",
