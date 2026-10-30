@@ -1,0 +1,81 @@
+{
+  "ip": "star-xiaozhan-e1",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "身体是一只封了盖的粗纸板箱的圆团",
+  "species": "断舍离纸箱",
+  "axes": {
+    "archetype": "物件生物",
+    "silhouette": "方箱身加小圆头",
+    "mark": "身体 · 封盖粗纸板箱",
+    "face": "半垂小黑豆眼，极小一字嘴",
+    "emotion": "内收，放下",
+    "fusion": "物件即身体：粗纸板箱就是整个躯干，拿掉箱角色不成立",
+    "material": "主体短绒只在头与短脚，只有箱身是粗纸板",
+    "palette": "牛皮纸褐配炭灰，正红细封条"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "created": "2026-10-31",
+  "head": "小圆绒头从箱盖缝里探出一截",
+  "combo": "粗纸板箱身 + 小圆绒头 + 半垂豆眼 + 牛皮褐对炭灰",
+  "odd": "箱身比头大两倍以上，封条是唯一正红",
+  "line": "",
+  "why": "演员以外的事先封进箱；箱是身体，不是道具。",
+  "spec": {
+    "proportion": "箱高约占全高 65%，头约占 30%",
+    "outline": "下方上圆：纸箱托住小头",
+    "volume": "大：纸箱；中：头；小：短脚",
+    "face": "眼在头高下三分之一，半垂",
+    "stance": "坐在箱底，短脚从箱沿垂出",
+    "structure": "头从盖缝长出，箱壁即胸腹，拿掉箱只剩悬空头"
+  },
+  "toy_check": "坐得住。箱即身体。特殊材质只有粗纸板。新组合。无大眼无笑。",
+  "crop": "记忆点在箱身与封条。头像要带箱沿。",
+  "collide": "不同于旁边放纸箱的公仔：箱是躯干。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "箱被画成旁边道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "箱和头分离"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "封条加成花纹"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小只剩圆脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后须仍是箱身"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只小圆绒头和一只粗纸板箱长在一起：躯干就是封了盖的粗纸板箱，头从盖缝探出，拿掉纸箱角色不成立。头约占全高三成，半垂小黑豆眼，极小一字嘴，神情放下。坐着，短脚垂在箱沿。头与脚是米绒，只有箱身是粗纸板牛皮褐，一条正红细封条横切箱面，主对比牛皮褐配炭灰。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实的搪胶毛绒产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星、品牌或现有IP名字。",
+  "enp": "Original designer toy: a tiny round plush head fused with a kraft cardboard box body — the sealed box is the torso; without the box the character fails. Head about 30% of height, half-lidded black bead eyes, tiny straight mouth, put-down calm. Seated, short feet over the box rim. Plush only on head and feet; only the body is coarse kraft cardboard with one thin signature-red sealing strip; palette kraft brown with charcoal. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, vinyl-plush product photo. No children book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no celebrity brand or existing IP names.",
+  "diff": "",
+  "locked": false,
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开影子：不是纸箱旁的普通团子。识别：封盖箱身+细封条。不普通：箱即躯干。材质粗纸板。牛皮褐对炭灰。正红只封条。夸张：箱比头大两倍。",
+  "pose": "坐"
+}

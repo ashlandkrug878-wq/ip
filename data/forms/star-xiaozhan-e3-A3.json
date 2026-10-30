@@ -1,0 +1,81 @@
+{
+  "ip": "star-xiaozhan-e3",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "坐在月牙珍珠贝坐垫上头顶嵌玫瑰的团",
+  "species": "月亮",
+  "axes": {
+    "archetype": "物件生物",
+    "silhouette": "月牙座托圆团加玫瑰冠",
+    "mark": "身下 · 月牙坐垫；头顶 · 玫瑰冠",
+    "face": "半垂豆眼，小嘴",
+    "emotion": "陪伴，静",
+    "fusion": "底座融合：珍珠贝月牙是唯一坐面，玫瑰嵌成冠；拿掉月牙角色悬空不成立",
+    "material": "身体与玫瑰冠深青短绒，只有月牙坐垫是珍珠贝",
+    "palette": "珍珠白月牙配深青身，正红只在花瓣尖"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "created": "2026-10-31",
+  "head": "圆头，一朵钝瓣玫瑰嵌进头顶",
+  "combo": "深青圆团 + 珍珠贝月牙座 + 玫瑰冠 + 珍珠白对深青",
+  "odd": "月牙比身体宽，玫瑰钝瓣不写实植物解剖",
+  "line": "",
+  "why": "赴约后的静：月亮是坐垫，玫瑰是冠，都是结构。",
+  "spec": {
+    "proportion": "月牙宽约占全高 90%，头约占 35%，玫瑰冠约占 15%",
+    "outline": "下弯月托上圆",
+    "volume": "大：月牙；中：身；小：玫瑰与脚",
+    "face": "眼在头高下三分之一",
+    "stance": "坐在月牙凹面",
+    "structure": "臀嵌进月牙凹面，玫瑰柄嵌进头顶"
+  },
+  "toy_check": "坐得住。月牙是坐面。特殊材质只有珍珠贝。玫瑰同绒不另开材质。新组合。",
+  "crop": "头像要带月牙沿或玫瑰。",
+  "collide": "不同于月亮旁边的公仔：月牙是唯一坐面。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "月亮变背景"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "月牙与身分离"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "玫瑰加成写实刺"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小只剩脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色须仍是月牙座"
+    ]
+  ],
+  "zh": "原创潮玩角色，深青绒团和一只珍珠贝月牙坐垫长在一起：它坐在比身体更宽的月牙凹面里，月牙是唯一坐面，头顶嵌一朵钝瓣玫瑰冠，拿掉月牙身体就悬空。半垂小黑豆眼，极小嘴，神情静。身体与钝瓣玫瑰冠均为深青短绒，只有月牙坐垫是珍珠白珍珠贝，正红只在花瓣尖一点染色。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实的搪胶毛绒产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星、品牌或现有IP名字。",
+  "enp": "Original designer toy: a deep-teal plush blob fused with a mother-of-pearl crescent seat — it sits in the crescent wider than its body as its only seat; a blunt rose is set into the crown. Without the crescent it hangs in air. Half-lidded bead eyes, tiny mouth, quiet. Deep-teal plush body and blunt rose crown; only the crescent seat is pearl mother-of-pearl; signature-red only as a tiny dye on petal tips. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, vinyl-plush product photo. No children book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no celebrity brand or existing IP names.",
+  "diff": "",
+  "locked": false,
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开影子：不是月亮背景摆件。识别：宽月牙座+玫瑰冠。不普通：月牙即坐面。材质珍珠贝一处。珍珠白对深青。正红只花瓣尖。夸张：月牙比身宽。",
+  "pose": "坐"
+}

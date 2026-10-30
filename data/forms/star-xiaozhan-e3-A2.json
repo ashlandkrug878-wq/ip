@@ -1,0 +1,81 @@
+{
+  "ip": "star-xiaozhan-e3",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "背后嵌着一块铸铁出口门牌的短身",
+  "species": "出口门牌",
+  "axes": {
+    "archetype": "物件生物",
+    "silhouette": "短身加超宽门牌背",
+    "mark": "背后 · 铸铁出口门牌",
+    "face": "半垂豆眼，小嘴",
+    "emotion": "稳，赴约",
+    "fusion": "物件背负并成为轮廓：铸铁门牌嵌进后背，拿掉门牌背就空",
+    "material": "主体米白短绒，只有门牌是铸铁",
+    "palette": "铸铁灰配米白，正红一点字凹"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "created": "2026-10-31",
+  "head": "短圆头",
+  "combo": "米白短身 + 背后超宽铸铁门牌 + 半垂眼 + 铸铁灰对米白",
+  "odd": "门牌比脸宽一倍以上，字只做凹形不写明星名",
+  "line": "",
+  "why": "出口是背板不是背景字；从出口赴约。",
+  "spec": {
+    "proportion": "门牌宽约身宽 160%，头约占全高 35%",
+    "outline": "前小后大的方圆",
+    "volume": "大：门牌；中：身；小：脚",
+    "face": "眼在头高下三分之一",
+    "stance": "站稳微后靠在门牌上",
+    "structure": "门牌四角嵌进背脊绒里"
+  },
+  "toy_check": "站得住。门牌长进背。特殊材质只有铸铁。新组合。",
+  "crop": "头像要裁进门牌上沿。",
+  "collide": "不同于背景竖着EXIT牌的公仔：牌是背。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "门牌变背景立牌"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "牌与背分离"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "字加成霓虹灯"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小只剩脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色须仍是背门牌"
+    ]
+  ],
+  "zh": "原创潮玩角色，短绒身体和一块铸铁出口门牌长在一起：背后嵌着比身体更宽的门牌，四角嵌进背脊，拿掉门牌背就空。半垂小黑豆眼，极小嘴，神情稳。站稳微后靠。身体米白短绒，只有门牌是铸铁灰，牌面凹字一点正红，不写任何姓名。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实的搪胶毛绒产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星、品牌或现有IP名字。",
+  "enp": "Original designer toy: a short plush body fused with a cast-iron exit door plate on the back — the plate is wider than the body and set into the spine; without it the back is empty. Half-lidded bead eyes, tiny mouth, steady. Standing, slight lean into the plate. Ivory plush; only the plate is cast-iron grey with one signature-red recessed mark, no names. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, vinyl-plush product photo. No children book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no celebrity brand or existing IP names.",
+  "diff": "",
+  "locked": false,
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开影子：不是背景EXIT立牌。识别：超宽铸铁背牌。不普通：牌即背。材质铸铁。铸铁灰对米白。正红只字凹一点。夸张：牌比身宽。",
+  "pose": "站稳靠牌"
+}

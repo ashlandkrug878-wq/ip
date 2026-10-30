@@ -1,0 +1,81 @@
+{
+  "ip": "star-xiaozhan-e2",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "肚腹是一只半透明亚克力灯罩的坐团",
+  "species": "红海灯",
+  "axes": {
+    "archetype": "物件生物",
+    "silhouette": "圆灯肚加小头",
+    "mark": "肚腹 · 半透明亚克力灯罩",
+    "face": "半垂豆眼，小嘴",
+    "emotion": "松，暖一点",
+    "fusion": "物件即肚腹：半透明亚克力灯罩就是整个腹部，拿掉灯罩角色不成立",
+    "material": "头与肢烟灰短绒，只有肚是亚克力灯罩",
+    "palette": "暖白灯罩配烟灰，正红灯丝细线"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "created": "2026-10-31",
+  "head": "小圆绒头搁在灯罩上沿",
+  "combo": "亚克力灯肚 + 烟灰小头短肢 + 半垂眼 + 暖白对烟灰",
+  "odd": "灯肚直径大于头两倍",
+  "line": "",
+  "why": "压力收进灯肚里一点暖光；灯是腹不是手持应援棒。",
+  "spec": {
+    "proportion": "灯肚约占全高 60%，头约占 25%",
+    "outline": "大圆腹托小头",
+    "volume": "大：灯肚；中：头；小：肢",
+    "face": "眼在头高下三分之一",
+    "stance": "坐，灯肚当底座",
+    "structure": "头嵌在罩顶圆口，肢从罩侧短伸出"
+  },
+  "toy_check": "坐得住。灯即肚。特殊材质只有亚克力。新组合。",
+  "crop": "记忆点灯肚。",
+  "collide": "不同于手持荧光棒公仔：灯罩是腹部。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "灯变手持棒"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "罩与身分家"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "灯丝画成霓虹字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小只剩头"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色须仍是灯肚"
+    ]
+  ],
+  "zh": "原创潮玩角色，小圆绒头和一只半透明亚克力灯罩长在一起：整个肚腹就是那只暖白灯罩，头搁在罩顶，拿掉灯罩角色不成立。半垂小黑豆眼，极小嘴，神情松。坐着，灯肚当底座。头与短肢烟灰短绒，只有肚是亚克力，罩内一条正红灯丝细线。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实的搪胶毛绒产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星、品牌或现有IP名字。",
+  "enp": "Original designer toy: a small plush head fused with a translucent acrylic lamp-shade belly — the shade is the entire abdomen and seat; without it the character fails. Half-lidded bead eyes, tiny mouth, soft calm. Seated on the lamp belly. Charcoal plush head and limbs; only the belly is warm-white acrylic with one thin signature-red filament line. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, vinyl-plush product photo. No children book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no celebrity brand or existing IP names.",
+  "diff": "",
+  "locked": false,
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开影子：不是手持灯棒。识别：巨大灯肚。不普通：罩即腹。材质亚克力。暖白对烟灰。正红只灯丝。夸张：肚比头大两倍。",
+  "pose": "坐"
+}

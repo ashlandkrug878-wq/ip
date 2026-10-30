@@ -1,0 +1,81 @@
+{
+  "ip": "star-xiaozhan-e2",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "整件披风是鼓胀针织被窝的坐团",
+  "species": "枕头被窝",
+  "axes": {
+    "archetype": "物件生物",
+    "silhouette": "被窝披风裹住的圆团",
+    "mark": "周身 · 鼓胀针织被窝披风",
+    "face": "半垂豆眼从被窝领口露出，小嘴",
+    "emotion": "松，带一点倦",
+    "fusion": "物件即披挂轮廓：针织被窝就是整件披风并成为主剪影，拿掉被窝只剩小核不成立",
+    "material": "内核雾蓝短绒，只有披风是粗针织被窝",
+    "palette": "米白针织配雾蓝核，正红绗缝细线"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "created": "2026-10-31",
+  "head": "小圆头从被窝领口露出一半",
+  "combo": "针织被窝披风 + 雾蓝小核 + 半垂眼 + 米白对雾蓝",
+  "odd": "被窝体积比可见身体大三倍",
+  "line": "",
+  "why": "白天松着，夜里被窝还长在身上；被窝是披风不是道具。",
+  "spec": {
+    "proportion": "披风宽约占全高 95%，可见头约占 25%",
+    "outline": "巨大软三角披裹",
+    "volume": "大：被窝；中：头；小：脚尖",
+    "face": "眼在领口可见区下半",
+    "stance": "坐在披风堆里",
+    "structure": "被窝从肩线长出并裹住全身轮廓"
+  },
+  "toy_check": "坐得住。被窝即披风轮廓。特殊材质只有针织。新组合。",
+  "crop": "头像要带被窝领口。",
+  "collide": "不同于身后丢床单的公仔：被窝是主剪影。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被窝变身后布景"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "披风与核分离"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "织纹加成花边"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小只剩脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色须仍是被窝披风"
+    ]
+  ],
+  "zh": "原创潮玩角色，小圆核和一件鼓胀针织被窝披风长在一起：被窝就是整件披风并成为主剪影，头只从领口露出一半，拿掉被窝角色不成立。半垂小黑豆眼，极小嘴，神情松而倦。坐在披风堆里。内核雾蓝短绒，只有披风是米白粗针织，一条正红绗缝细线。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实的搪胶毛绒产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星、品牌或现有IP名字。",
+  "enp": "Original designer toy: a small round core fused with a puffy knit-duvet cape — the duvet is the full cloak and main silhouette; without it the character fails. Half-lidded bead eyes, tiny mouth, soft tired calm. Seated inside the cape mass. Mist-blue plush core; only the cape is ivory coarse knit with one thin signature-red quilt stitch. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, vinyl-plush product photo. No children book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no celebrity brand or existing IP names.",
+  "diff": "",
+  "locked": false,
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开影子：不是丢床单萌宠。识别：巨大被窝披风。不普通：披风即主剪影。材质针织。米白对雾蓝。正红只绗缝。夸张：被窝比核大三倍。",
+  "pose": "坐"
+}

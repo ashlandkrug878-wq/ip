@@ -1,0 +1,81 @@
+{
+  "ip": "star-xiaozhan-e1",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "身体是一条鼓胀牛奶面包的短脚团",
+  "species": "面包",
+  "axes": {
+    "archetype": "物件生物",
+    "silhouette": "长椭圆面包身",
+    "mark": "身体 · 鼓胀牛奶面包",
+    "face": "面包端面半垂豆眼，极小嘴",
+    "emotion": "安静，收着",
+    "fusion": "物件即身体：整条牛奶面包就是躯干与头的连续体，拿掉面包角色不成立",
+    "material": "主体短绒只在短脚，只有面包身是釉面陶仿麦皮",
+    "palette": "奶黄配焦糖皮，正红一点果酱斑"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "created": "2026-10-31",
+  "head": "头与身连成一条面包，无独立颈",
+  "combo": "釉面陶牛奶面包身 + 短绒脚 + 半垂眼 + 奶黄对焦糖",
+  "odd": "没有独立头型，五官直接在面包端面",
+  "line": "",
+  "why": "生活侧的软：面包就是放下之后的身体。",
+  "spec": {
+    "proportion": "面包长轴约占全高 85%",
+    "outline": "横卧鼓椭圆",
+    "volume": "大：面包；小：短脚",
+    "face": "眼在端面下半",
+    "stance": "横卧微侧，短脚撑住",
+    "structure": "脸与身同一块釉面陶面包"
+  },
+  "toy_check": "卧得住。面包即身体。特殊材质只有釉面陶。新组合。",
+  "crop": "记忆点在整条面包剪影。",
+  "collide": "不同于手里拿面包的公仔：面包是身体。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "面包变手持食物"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "头身分家"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "麦皮纹过繁"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小只剩脸点"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色须仍是面包连续体"
+    ]
+  ],
+  "zh": "原创潮玩角色，一条鼓胀牛奶面包自己就是身体：头与身连成一块釉面陶仿麦皮面包，端面半垂小黑豆眼，极小嘴，神情安静。短脚是唯一短绒，从面包底伸出。主色奶黄配焦糖皮，只有一点正红果酱斑作签名。拿掉面包角色不成立。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实的搪胶毛绒产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星、品牌或现有IP名字。",
+  "enp": "Original designer toy: a plump milk-bread loaf that is the whole body — head and torso are one glazed-ceramic crust continuous form; half-lidded bead eyes on the end face, tiny mouth, quiet. Only short plush feet. Palette creamy yellow with caramel crust and one tiny signature-red jam speck. Without the loaf the character fails. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, vinyl-plush product photo. No children book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no celebrity brand or existing IP names.",
+  "diff": "",
+  "locked": false,
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开影子：不是持面包萌宠。识别：连续面包体。不普通：无独立头。材质釉面陶。奶黄对焦糖。正红只一点。夸张：整身即面包。",
+  "pose": "横卧"
+}

@@ -1,0 +1,81 @@
+{
+  "ip": "star-xiaozhan-e2",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "头顶嵌着一对巨大软硅胶耳塞的圆兽",
+  "species": "耳塞",
+  "axes": {
+    "archetype": "物件生物",
+    "silhouette": "圆身加双耳塞冠",
+    "mark": "头顶 · 一对巨大耳塞",
+    "face": "半垂豆眼，无嘴",
+    "emotion": "静，内收",
+    "fusion": "物件即冠：一对软硅胶耳塞嵌进头顶成为主结构，拿掉耳塞角色不成立",
+    "material": "主体象牙短绒，只有耳塞是软硅胶",
+    "palette": "雾青耳塞配象牙身，正红芯点"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "created": "2026-10-31",
+  "head": "圆头，两只耳塞柄对称嵌进头顶",
+  "combo": "象牙圆身 + 双巨大雾青耳塞冠 + 半垂眼 + 雾青对象牙",
+  "odd": "单只耳塞比头还长",
+  "line": "",
+  "why": "把响声堵在冠上；耳塞是结构不是配件。",
+  "spec": {
+    "proportion": "耳塞高约占全高 45%，头身占 55%",
+    "outline": "下圆上双柱",
+    "volume": "大：耳塞；中：身；小：脚",
+    "face": "眼在头高中部",
+    "stance": "坐着",
+    "structure": "耳塞柄深深嵌进头顶正中两侧"
+  },
+  "toy_check": "坐得住。耳塞长进头。特殊材质只有软硅胶。新组合。",
+  "crop": "记忆点双耳塞剪影。",
+  "collide": "不同于贴纸耳塞表情包：立体冠，脸收着。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "耳塞变可摘耳机"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "冠与头分离"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "硅胶加成灯效纹"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小只剩圆脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色须仍是双耳塞冠"
+    ]
+  ],
+  "zh": "原创潮玩角色，圆绒身体和一对巨大软硅胶耳塞长在一起：两只耳塞嵌进头顶成为冠，单只比头长，拿掉耳塞角色不成立。半垂小黑豆眼，无嘴，神情静。坐着。身体象牙短绒，只有耳塞是雾青软硅胶，塞芯各一点正红。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实的搪胶毛绒产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星、品牌或现有IP名字。",
+  "enp": "Original designer toy: a round plush body fused with a pair of oversized soft-silicone earplugs as a crown — each plug longer than the head, set into the skull; without them the character fails. Half-lidded bead eyes, no mouth, quiet. Seated. Ivory plush; only the plugs are mist-teal soft silicone with a tiny signature-red core each. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, vinyl-plush product photo. No children book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no celebrity brand or existing IP names.",
+  "diff": "",
+  "locked": false,
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开影子：不是戴耳机萌宠。识别：双巨大耳塞冠。不普通：塞即结构。材质软硅胶。雾青对象牙。正红只芯点。夸张：塞比头长。",
+  "pose": "坐"
+}

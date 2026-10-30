@@ -1,0 +1,81 @@
+{
+  "ip": "star-xiaozhan-e3",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "外甲是炭黑皮革披风壳的站团",
+  "species": "红披风",
+  "axes": {
+    "archetype": "物件生物",
+    "silhouette": "披风壳罩住的站立团",
+    "mark": "周身 · 炭黑皮革披风壳",
+    "face": "半垂豆眼从壳领露出，小嘴",
+    "emotion": "稳，赴约",
+    "fusion": "物件即外甲：皮革披风壳就是整层外轮廓，拿掉披风壳角色不成立",
+    "material": "内核骨白短绒，只有外甲是哑光皮革披风壳",
+    "palette": "炭黑皮革配骨白里，正红内衬细边"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "created": "2026-10-31",
+  "head": "小圆头从披风领口露出",
+  "combo": "炭黑皮革披风壳 + 骨白核 + 半垂眼 + 炭黑对骨白",
+  "odd": "披风壳张开的剪影比核宽一倍，正红只内衬细边绝不铺满",
+  "line": "",
+  "why": "赴约的壳：披风是外甲不是飘带；正红只内衬细边。",
+  "spec": {
+    "proportion": "壳宽约占身宽 180%，头约占全高 30%",
+    "outline": "上收下展的披风剪影",
+    "volume": "大：披风壳；中：核；小：脚",
+    "face": "眼在领口可见区",
+    "stance": "站稳",
+    "structure": "披风从肩线长成硬壳罩住背与侧"
+  },
+  "toy_check": "站得住。披风即外甲。特殊材质只有皮革。正红不铺满。新组合。",
+  "crop": "头像要带披风领。",
+  "collide": "不同于背后飘布的超人影：壳是结构，且无真人披风英雄造型，正红不铺满。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "披风变飘带布景"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "壳与核分离"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "皮纹加成金属铆钉堆"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小只剩脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色须仍是披风壳且正红只细边"
+    ]
+  ],
+  "zh": "原创潮玩角色，骨白绒核和一件炭黑哑光皮革披风壳长在一起：披风壳就是整层外甲与主剪影，头从领口露出，拿掉披风壳角色不成立。半垂小黑豆眼，极小嘴，神情稳。站稳。内核骨白短绒，只有外甲是炭黑皮革，正红只出现在内衬一条细边，绝不铺满全身。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实的搪胶毛绒产品照。不要超人式红披风铺满，不要真人英雄造型。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星、品牌或现有IP名字。",
+  "enp": "Original designer toy: a bone-white plush core fused with a charcoal matte-leather cape shell — the cape is the full outer armor silhouette; without it the character fails. Half-lidded bead eyes, tiny mouth, steady. Standing. Bone-white plush core; only the shell is charcoal leather with signature-red only as a thin inner-lining edge, never full-body red. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, vinyl-plush product photo. No full red superhero cape, no human hero figure. No children book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no celebrity brand or existing IP names.",
+  "diff": "",
+  "locked": false,
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开影子：不是红披风超人。识别：炭黑皮革壳+内衬细红。不普通：壳即外甲。材质皮革。炭黑对骨白。正红只内衬细边。夸张：壳比核宽一倍。",
+  "pose": "站稳"
+}

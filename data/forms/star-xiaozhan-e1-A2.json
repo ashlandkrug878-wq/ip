@@ -1,0 +1,81 @@
+{
+  "ip": "star-xiaozhan-e1",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "头是一只厚丝绒睡眠眼罩壳的圆身",
+  "species": "眼罩",
+  "axes": {
+    "archetype": "物件生物",
+    "silhouette": "宽眼罩头加圆腹",
+    "mark": "头 · 厚丝绒眼罩壳",
+    "face": "眼罩外侧两点半垂暗缝当眼，无嘴",
+    "emotion": "面无表情偏内收",
+    "fusion": "物件即头：厚丝绒眼罩成为整个头颅，拿掉头角色不成立",
+    "material": "主体雾灰短绒，只有头是厚丝绒眼罩",
+    "palette": "深灰丝绒配米白身，正红细绳边"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "created": "2026-10-31",
+  "head": "头就是一只横向厚眼罩，带子收进肩线",
+  "combo": "丝绒眼罩头 + 米白圆身 + 罩面两点半垂缝眼 + 深灰对米白",
+  "odd": "头全是眼罩，比身宽",
+  "line": "",
+  "why": "放下外界响声：眼罩先变成头；不是戴着玩。",
+  "spec": {
+    "proportion": "头宽约占身宽 120%，头高约占全高 40%",
+    "outline": "上宽扁下圆",
+    "volume": "大：眼罩头；中：绒身；小：短脚",
+    "face": "两点暗缝在罩面下三分之一",
+    "stance": "坐稳微含胸",
+    "structure": "眼罩下沿嵌进绒领一圈"
+  },
+  "toy_check": "坐得住。头是眼罩。特殊材质只有丝绒。新组合。无笑。",
+  "crop": "记忆点在眼罩头。",
+  "collide": "不同于戴眼罩的萌宠：眼罩就是头。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "眼罩变可摘配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "头身分离"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "丝绒加成蕾丝花"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小只剩圆身"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色须仍是眼罩头"
+    ]
+  ],
+  "zh": "原创潮玩角色，圆绒身体和一只厚丝绒睡眠眼罩长在一起：整个头就是那只眼罩壳，带子收进肩线，拿掉眼罩角色不成立。罩面两点半垂暗缝当眼，无嘴，神情内收。坐稳。身体米白短绒，只有头是深灰厚丝绒，罩沿一条正红细绳边。主对比深灰配米白。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实的搪胶毛绒产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星、品牌或现有IP名字。",
+  "enp": "Original designer toy: a round plush body fused with a thick velvet sleep-mask head — the mask is the entire skull; without it the character fails. Two half-lidded seam dots on the mask face, no mouth, inward calm. Seated. Ivory short plush body; only the head is deep-grey thick velvet with one thin signature-red cord edge; palette deep grey with ivory. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, vinyl-plush product photo. No children book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no celebrity brand or existing IP names.",
+  "diff": "",
+  "locked": false,
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开影子：不是戴眼罩的动物。识别：宽丝绒罩头。不普通：罩即头。材质丝绒。深灰对米白。正红只绳边。夸张：头比身宽。",
+  "pose": "坐"
+}
