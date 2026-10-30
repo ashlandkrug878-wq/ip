@@ -99,10 +99,10 @@
     "prompt_en": "Original designer toy character: a round whale fused with a lunch tin — a closed rounded enamel tin is the torso, lid and box grown as one piece, impossible to open, no food. The tin is about 75 percent of the height, the head only a small bump at the back of the lid. Two low small triangle eyes, no mouth. Seated, short feet. Cream short plush above the lid; the tin is cream enamel with one black rim, no letters and no label. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.Do not open the lid, no food, letters, logos or carrying handle, no human face.",
     "prompt_zh": "原创潮玩角色，圆鲸和一只饭盒长在一起：合上的圆角搪瓷饭盒就是躯干，盖和盒长成一块，不能揭开，没有食物。盒身约占全高百分之七十五，头只是盖后沿的一小块凸起。两只低位的小三角眼，没有嘴。坐着，短脚。盖以上是奶油短绒，盒身是奶油搪瓷，一圈黑边，没有文字和标签。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要打开盖子，不要画出食物、文字、商标和提手，不要人类的脸。",
     "size": "1024x1024",
-    "status": "pending",
-    "output": "images/star-huangjingyu-e3-A1/lineart-01.png",
+    "status": "done",
+    "output": "images/star-huangjingyu-e3-A1/lineart-01.webp",
     "created": "2026-10-28",
-    "note": ""
+    "note": "ChatGPT 明星出图"
   },
   {
     "id": "star-huangjingyu-e3-A2-lineart-01",
