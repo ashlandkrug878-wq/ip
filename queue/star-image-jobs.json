@@ -84,10 +84,10 @@
     "prompt_en": "Original designer toy character: a small creature fused with a horn — the head is a round side-facing horn with a thick rim, the body a cream plush stub beneath it. The horn is about 55 percent of the height. Two close-set black dot eyes sit under the rim, the mouth a single dot, not open. Weight slightly forward, feet planted a half step apart, stable. Short plush body; only the horn is woven rattan, ocean blue inside the mouth of the horn, cream on the outside. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.Do not hold the horn, no sound waves, notes or open mouth, no human face, do not cover the body in blue.",
     "prompt_zh": "原创潮玩角色，小兽和一只喇叭长在一起：头就是那只横向的圆喇叭，口朝前，厚边，身子是喇叭下面的奶油短绒。喇叭约占全高百分之五十五。两只靠得很近的黑点眼在喇叭下缘，嘴只是一个点，不张开。重心略前，双脚前后半步站稳。身体是短绒，只有喇叭是藤编，内壁是海蓝，外面仍是奶油色。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要把喇叭拿在手里，不要声波、音符和张开的嘴，不要人类的脸，不要让蓝色铺满全身。",
     "size": "1024x1024",
-    "status": "pending",
-    "output": "images/star-huangjingyu-e2-A3/lineart-01.png",
+    "status": "done",
+    "output": "images/star-huangjingyu-e2-A3/lineart-01.webp",
     "created": "2026-10-28",
-    "note": ""
+    "note": "ChatGPT 明星出图"
   },
   {
     "id": "star-huangjingyu-e3-A1-lineart-01",
