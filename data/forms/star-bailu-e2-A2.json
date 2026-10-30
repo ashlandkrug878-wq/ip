@@ -1,0 +1,81 @@
+{
+  "ip": "star-bailu-e2",
+  "n": 2,
+  "title": "头顶一圈巨大绒花冠的圆猫",
+  "species": "猫",
+  "axes": {
+    "archetype": "物件生物，猫",
+    "silhouette": "大头加一圈绒花冠",
+    "mark": "头顶 · 一圈比头宽的绒花冠",
+    "face": "眯成线的眼，无嘴",
+    "emotion": "面无表情",
+    "fusion": "物件是长出来的结构：绒花连成一圈冠，拿掉冠头型不完整",
+    "material": "主体烟灰短绒，只有绒花冠是丝绒花朵结",
+    "palette": "烟灰配藕粉绒花，一点水色花心"
+  },
+  "head": "横宽猫头，冠成为头顶外轮廓",
+  "combo": "横宽猫头 + 一圈超宽绒花冠 + 眯眼 + 烟灰对藕粉",
+  "odd": "冠比头宽，花心点水色",
+  "why": "开毯发饰被推成夸张的一圈冠；猫身来自宠物意象，不画真人。",
+  "spec": {
+    "proportion": "头加冠约占全高 55%，冠宽约头宽 130%",
+    "outline": "上宽下圆",
+    "volume": "大：冠；中：头身；小：耳藏在花里",
+    "face": "眼眯成弧线，在头高中部",
+    "stance": "坐着，前爪并拢",
+    "structure": "花朵基部嵌进头皮绒，耳只露出尖"
+  },
+  "toy_check": "坐得住。冠是长出的结构。丝绒特殊材质。新组合。",
+  "crop": "记忆点在头顶冠。",
+  "collide": "不同于头上戴花的配件猫：冠是头轮廓一部分且夸张。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "冠变发卡"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "花过多杂乱"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩猫头"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换皮须仍是一圈冠"
+    ]
+  ],
+  "rules_hit": "识别：超宽绒花冠。材质丝绒。水色只花心。夸张。",
+  "pose": "坐",
+  "zh": "原创潮玩角色，圆猫和一圈绒花长在一起：头顶长出一圈比头更宽的丝绒花朵冠，花朵基部嵌进头皮，拿掉冠头顶就不完整，耳朵只露出尖。头加冠约占全高一半以上。眯成线的眼，没有嘴。坐着，前爪并拢。身体烟灰短绒，只有绒花冠是丝绒，花心一点水色。浅灰背景棚拍。不要做成发卡配件，不要大眼，不要真人发饰。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星、品牌或现有IP名字。",
+  "enp": "Original designer toy: a round cat fused with a ring of velvet flowers — a crown of velvet blooms wider than the head grows from the scalp so the head fails without it; ear tips only. Head+crown over half the height. Line-squinted eyes, no mouth. Seated, paws together. Ash-grey plush; only the crown is velvet with tiny water-blue centers. Product photo. Do not make a clip-on accessory, no big eyes, no human hair ornaments. No children book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no celebrity brand or existing IP names.",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-30",
+  "parent": "",
+  "round": "A"
+}

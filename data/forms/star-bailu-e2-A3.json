@@ -1,0 +1,81 @@
+{
+  "ip": "star-bailu-e2",
+  "n": 3,
+  "title": "肚子是一块半透明水色灯牌的圆豚",
+  "species": "水色灯牌",
+  "axes": {
+    "archetype": "物件生物",
+    "silhouette": "圆腹灯牌轮廓",
+    "mark": "腹 · 半透明水色灯牌板",
+    "face": "小黑豆眼贴在牌板上沿绒里，无嘴",
+    "emotion": "内收",
+    "fusion": "物件就是身体中段：灯牌板成为整个腹部与主轮廓",
+    "material": "主体奶白短绒，只有腹板是半透明水色亚克力",
+    "palette": "奶白配水色亚克力，深灰眼"
+  },
+  "head": "头很小贴在牌板上沿",
+  "combo": "大腹亚克力牌 + 小绒头 + 半透明水色 + 奶白对比",
+  "odd": "腹板占身体大半，头极小",
+  "why": "粉丝灯牌被收成一只自己的腹；牌是身体不是手持。",
+  "spec": {
+    "proportion": "腹板高约占全高 60%，头约占 25%",
+    "outline": "竖圆角矩形腹",
+    "volume": "大：亚克力腹；小：头与脚",
+    "face": "眼在绒头，半垂",
+    "stance": "牌板直立，两只短脚",
+    "structure": "绒头和短脚嵌在牌板上沿与下沿"
+  },
+  "toy_check": "立得住。牌是腹。亚克力一处特殊。新组合夸张。",
+  "crop": "剪影即灯牌形。",
+  "collide": "不同于手持灯牌的偶像公仔：无真人，牌是腹。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "变成手持牌"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "板上写字"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时认不出"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换皮须仍是腹板"
+    ]
+  ],
+  "rules_hit": "识别：腹是灯牌。材质亚克力。奶白对水色。夸张头小腹大。",
+  "pose": "牌直立",
+  "zh": "原创潮玩角色，小兽和一块应援灯牌长在一起：整个肚子就是一块竖着的半透明水色亚克力灯牌，奶白短绒的小头嵌在上沿，短脚嵌在下沿，拿掉灯牌没有身体。腹板约占全高六成。半垂小黑豆眼，无嘴。灯牌直立。浅灰背景棚拍。不要手持灯牌，不要屏幕上的字和图，不要真人应援场面。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星、品牌或现有IP名字。",
+  "enp": "Original designer toy: a creature fused with a lightstick panel — the whole belly is a vertical frosted water-blue acrylic panel; a tiny cream-plush head is set on the top edge and short feet on the bottom so the body fails without the panel. Panel about 60% of height. Half-lidded bead eyes, no mouth. Panel stands upright. Product photo. No handheld lightstick, no text or graphics on the screen, no human fan scene. No children book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no celebrity brand or existing IP names.",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-30",
+  "parent": "",
+  "round": "A"
+}

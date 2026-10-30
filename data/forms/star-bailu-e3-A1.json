@@ -1,0 +1,81 @@
+{
+  "ip": "star-bailu-e3",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "头顶一只巨大亚克力问号泡的猫团",
+  "species": "猫",
+  "axes": {
+    "archetype": "物件生物，猫",
+    "silhouette": "团子加巨大问号",
+    "mark": "头顶 · 巨大问号泡",
+    "face": "眯眼，无嘴",
+    "emotion": "面无表情带一点呆",
+    "fusion": "物件是长出来的结构：问号泡从头顶长出并成为主剪影",
+    "material": "主体暖灰短绒，只有问号是半透明亚克力",
+    "palette": "暖灰配透明水色问号，深灰眼"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "圆猫头，问号柄嵌进头顶",
+  "combo": "圆猫团 + 头顶超大问号泡 + 眯眼 + 暖灰对水色透明",
+  "odd": "问号比头大",
+  "line": "",
+  "why": "表情包先出门：问号先长在头上；猫团是身体。",
+  "spec": {
+    "proportion": "问号高约占全高 50%，头身占 50%",
+    "outline": "下圆上问号",
+    "volume": "大：问号；中：猫身",
+    "face": "眯眼在头高中部",
+    "stance": "坐着",
+    "structure": "问号竖笔嵌进头顶正中"
+  },
+  "toy_check": "坐得住。问号长进头。亚克力一处。新组合。",
+  "crop": "记忆点问号剪影。",
+  "collide": "不同于贴纸问号表情包：立体泡，脸收着。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "问号变贴纸"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "比例不够大"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "问号加成文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩猫"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换皮须仍是头顶问号"
+    ]
+  ],
+  "zh": "原创潮玩角色，猫团和一只问号长在一起：头顶长出一只比头更大的半透明水色亚克力问号泡，竖笔嵌进头顶，拿掉问号剪影就不成立。问号约占全高一半。眯成线的眼，无嘴，呆呆的。坐着。身体暖灰短绒，只有问号是亚克力。浅灰背景棚拍。不要贴纸平面问号，不要张嘴笑，不要真人表情包脸。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星、品牌或现有IP名字。",
+  "enp": "Original designer toy: a cat loaf fused with a question mark — a frosted water-blue acrylic question mark larger than the head grows from the crown so the silhouette fails without it. Mark about half the height. Line eyes, no mouth, blank-dull look. Seated. Warm-grey plush; only the mark is acrylic. Product photo. No flat sticker mark, no open-mouth grin, no human meme face. No children book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no celebrity brand or existing IP names.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-30",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "识别：大问号。材质亚克力。自嘲表达。夸张。",
+  "pose": "坐"
+}

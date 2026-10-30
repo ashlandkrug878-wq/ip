@@ -1,0 +1,81 @@
+{
+  "ip": "star-bailu-e1",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "头是一滴厚玻璃水色瓶的圆兽",
+  "species": "水滴瓶",
+  "axes": {
+    "archetype": "物件生物",
+    "silhouette": "水滴头加大圆身",
+    "mark": "头 · 厚玻璃水滴瓶",
+    "face": "瓶内两点半垂黑点眼，无嘴",
+    "emotion": "面无表情偏内收",
+    "fusion": "物件就是头：厚玻璃水滴瓶成为整个头颅",
+    "material": "主体雾灰短绒，只有头是厚玻璃水色",
+    "palette": "雾灰配水色玻璃，一点炭灰眼"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头就是一滴圆底厚玻璃瓶，瓶颈极短收进身体",
+  "combo": "玻璃水滴头 + 雾灰圆身 + 瓶内两点半垂眼 + 水色对雾灰",
+  "odd": "头全是玻璃，身体全是绒，交界一圈嵌死",
+  "line": "",
+  "why": "内耗像水声，先关进一滴瓶子里；瓶是头，不是道具。",
+  "spec": {
+    "proportion": "头高约占全高 45%，身宽约头宽的 1.1 倍",
+    "outline": "上水滴下圆团",
+    "volume": "大：玻璃头；中：绒身；小：短脚",
+    "face": "两点眼贴在瓶内下三分之一，无嘴",
+    "stance": "立正微含胸，重心在绒腹",
+    "structure": "瓶颈一圈嵌进绒领，拿掉头角色不成立"
+  },
+  "toy_check": "站得住。头是物件。特殊材质只有玻璃。新组合。无笑。",
+  "crop": "记忆点在头部。",
+  "collide": "不同于拿着水瓶的吉祥物：瓶就是头。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "瓶被画成手持"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "头身比例糊"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "玻璃加成复杂高光花纹"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时认不出水滴"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后须仍是瓶头"
+    ]
+  ],
+  "zh": "原创潮玩角色，圆润小兽和一滴厚玻璃瓶长在一起：整个头就是一滴圆底厚玻璃水色瓶，瓶颈极短嵌进雾灰短绒身体，拿掉头身体就不成立。头约占全高百分之四十五。瓶内下三分之一有两点半垂小黑点眼，没有嘴，面无表情。短脚立正微含胸。身体雾灰短绒，只有头是厚玻璃水色。单个角色完整全身，正面略侧，浅灰背景，棚拍光，产品照。不要把瓶子画成手里道具，不要透明全身，不要尖嘴。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星、品牌或现有IP名字。",
+  "enp": "Original designer toy: a round creature fused with a thick glass drop — the entire head is a rounded thick water-blue glass bottle, short neck set into a mist-grey plush body. Head about 45% of height. Two half-lidded black dots inside the glass lower third, no mouth, blank face. Short feet, slight tucked chest. Mist-grey plush body; only the head is thick water-blue glass. Full body, three-quarter front, light grey backdrop, product photo. Do not make the bottle a handheld prop, no fully transparent body, no pointed snout. No children book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no celebrity brand or existing IP names.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-30",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "识别：玻璃水滴头。材质只有玻璃一处。水色对雾灰。夸张：头全是瓶。",
+  "pose": "立正微含胸"
+}

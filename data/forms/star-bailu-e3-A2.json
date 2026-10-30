@@ -1,0 +1,81 @@
+{
+  "ip": "star-bailu-e3",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "头是一颗釉面菠萝的圆身兽",
+  "species": "菠萝",
+  "axes": {
+    "archetype": "物件生物",
+    "silhouette": "菠萝头圆身",
+    "mark": "头 · 釉面菠萝",
+    "face": "鳞片间两点半垂眼，小嘴",
+    "emotion": "内收",
+    "fusion": "物件就是头：菠萝成为整个头",
+    "material": "主体姜黄短绒，只有菠萝头是亮釉陶瓷",
+    "palette": "姜黄配深绿釉叶冠，一点水色鳞尖"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头是完整菠萝，顶上短叶冠",
+  "combo": "釉面菠萝头 + 姜黄圆身 + 鳞间半垂眼 + 深绿叶冠",
+  "odd": "头全是菠萝，叶冠短钝",
+  "line": "",
+  "why": "昵称菠萝落成头；好笑的外号先走，身体仍是软的。",
+  "spec": {
+    "proportion": "头约占全高 45%",
+    "outline": "上椭圆下圆",
+    "volume": "大：菠萝头；中：身；小：脚",
+    "face": "眼在鳞片中带",
+    "stance": "坐",
+    "structure": "颈窝嵌进绒身"
+  },
+  "toy_check": "坐得住。头是菠萝。釉面一处特殊。",
+  "crop": "记忆点菠萝头。",
+  "collide": "不同于抱菠萝的吉祥物：菠萝是头。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "变成抱菠萝"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "叶太尖"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "鳞片过繁"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时认不出"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换皮须仍是菠萝头"
+    ]
+  ],
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-30",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "识别：釉菠萝头。材质陶瓷釉。姜黄对比。夸张。",
+  "pose": "坐",
+  "zh": "原创潮玩角色，圆兽和一颗菠萝长在一起：整个头就是一颗亮釉陶瓷菠萝，短钝叶冠在顶，颈窝嵌进姜黄短绒身体。头约占全高百分之四十五。鳞片中带两点半垂小黑豆眼，极小嘴。坐着。身体姜黄短绒，只有头是釉面，鳞尖一点水色。浅灰背景棚拍。不要手持菠萝，不要尖叶伤人，不要真人。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星、品牌或现有IP名字。",
+  "enp": "Original designer toy: a round creature fused with a pineapple — the whole head is a glossy glazed ceramic pineapple with short blunt leaf crown, set into a turmeric plush body. Head about 45% of height. Two half-lidded bead eyes among the scales, tiny mouth. Seated. Turmeric plush; only the head is glaze, scale tips a hint of water-blue. Product photo. No handheld pineapple, no sharp painful leaves, no human. No children book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no celebrity brand or existing IP names."
+}

@@ -1,0 +1,81 @@
+{
+  "ip": "star-bailu-e1",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "身体是一本圆角布面书的扁兽",
+  "species": "书皮本",
+  "axes": {
+    "archetype": "物件生物",
+    "silhouette": "扁书本轮廓",
+    "mark": "身体 · 整本圆角布面书",
+    "face": "书脊上沿两点半垂眼，一条线嘴",
+    "emotion": "内收，笃定",
+    "fusion": "物件就是身体：布面精装书成为整个躯干与轮廓",
+    "material": "主体短绒四肢，只有书壳是布面精装纸板",
+    "palette": "暖米布面配墨绿书口，水色书签细条"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头贴在书的上沿，几乎头身一体",
+  "combo": "扁书本轮廓 + 书脊两点眼 + 布面精装 + 水色细书签",
+  "odd": "身体是书，四肢极短从切口长出",
+  "line": "",
+  "why": "把纠结收进一本包好书皮的本子；本子就是身体。",
+  "spec": {
+    "proportion": "书高约占全高 70%，厚约占宽的 35%",
+    "outline": "圆角竖矩形",
+    "volume": "大：书壳；小：四肢与耳芽",
+    "face": "眼在书脊上沿外，半垂",
+    "stance": "书直立，两只短脚微外八",
+    "structure": "四肢从书口下沿长出，拿掉书壳没有身体"
+  },
+  "toy_check": "立得住。书是身体。特殊材质布面纸板。新组合。",
+  "crop": "记忆点是书形剪影。",
+  "collide": "不同于读书的小人：没有人，书就是兽。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "变成抱书动物"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "书太扁站不住"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "书签加成复杂丝带花"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小后只剩矩形"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换皮后须仍是书身"
+    ]
+  ],
+  "zh": "原创潮玩角色，小兽和一本精装书长在一起：整个身体就是一本圆角布面精装书，短绒四肢从书口下沿长出，拿掉书壳没有身体。书高约占全高七成。书脊上沿两点半垂小黑豆眼，一条极小线嘴。书直立，短脚微外八。四肢米白短绒，只有书壳是暖米布面精装，墨绿书口，一条水色细书签嵌在切口。浅灰背景棚拍产品照。不要画成动物抱着书，不要真人，不要尖书角伤人感。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星、品牌或现有IP名字。",
+  "enp": "Original designer toy: a creature fused with a hardcover book — the whole body is a rounded cloth-bound book, short plush limbs grow from the lower fore-edge. Book about 70% of height. Two half-lidded bead eyes on the upper spine, tiny line mouth. Book stands upright, short feet slightly turned out. Limbs ivory plush; only the shell is warm-ivory cloth hardcover with dark green fore-edge and a thin water-blue bookmark strip. Light grey product photo. Do not show an animal holding a book, no human, no sharp painful corners. No children book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no celebrity brand or existing IP names.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-30",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "识别：书形身体。材质布面。水色只书签。夸张：四肢从书口长出。",
+  "pose": "书直立"
+}

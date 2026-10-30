@@ -1,0 +1,81 @@
+{
+  "ip": "star-bailu-e2",
+  "n": 1,
+  "title": "背后嵌着一面比身宽圆扇的短角鹿",
+  "species": "小鹿",
+  "axes": {
+    "archetype": "物件生物，小鹿",
+    "silhouette": "团子加巨大圆背扇",
+    "mark": "背后 · 比身体宽的圆扇",
+    "face": "半垂豆眼，小嘴",
+    "emotion": "内收，稳",
+    "fusion": "物件背负并成为轮廓：圆扇嵌进后背",
+    "material": "主体米驼短绒，只有扇面是哑光漆木与一层浅浮雕绣面",
+    "palette": "米驼配深青扇面，水色扇骨细线"
+  },
+  "head": "短钝角芽圆头",
+  "combo": "短角鹿团 + 背后超宽圆扇 + 半垂眼 + 米驼对深青",
+  "odd": "扇比脸宽一倍以上",
+  "why": "鹿样的脸还在，撑场面的是背后那面扇。",
+  "spec": {
+    "proportion": "扇宽约身宽的 160%，头约占全高 40%",
+    "outline": "前小后大的圆",
+    "volume": "大：扇；中：鹿身；小：角与脚",
+    "face": "眼在头高下三分之一",
+    "stance": "站稳微后靠在扇上",
+    "structure": "扇柄与上沿嵌进背脊绒里"
+  },
+  "toy_check": "站得住。扇长进背。漆木绣面一处特殊。新组合。",
+  "crop": "头像要裁进扇上沿。",
+  "collide": "不同于手持团扇的古装偶：扇是背。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "扇变手持"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "扇与身分离"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "绣纹过繁"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小只剩鹿脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色须仍是背扇"
+    ]
+  ],
+  "rules_hit": "识别：超宽背扇。材质漆木绣面。水色只扇骨。夸张：扇比身宽。",
+  "pose": "站稳靠扇",
+  "zh": "原创潮玩角色，短绒小鹿和一面圆扇长在一起：背后嵌着一面比身体更宽的圆扇，扇沿和短柄嵌进背脊，拿掉扇背就空。头约占全高四成，一对极短钝角芽。半垂小黑豆眼，极小嘴，神情稳。站稳，微微后靠在扇上。身体米驼短绒，只有扇面是哑光深青漆木带浅浮雕绣纹，扇骨一条水色细线。浅灰背景棚拍产品照。不要把手持扇，不要尖扇骨，不要真人开毯造型。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星、品牌或现有IP名字。",
+  "enp": "Original designer toy: a small deer fused with a round fan — a fan wider than the body is set into the back so the figure fails without it. Head about 40% of height, two very short blunt antler buds. Half-lidded bead eyes, tiny mouth, steady calm. Standing, slight lean into the fan. Camel-ivory plush; only the fan is matte deep-teal lacquered wood with low-relief embroidery texture and a thin water-blue rib line. Product photo on light grey. Do not make a handheld fan, no sharp ribs, no human red-carpet figure. No children book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no celebrity brand or existing IP names.",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-30",
+  "parent": "",
+  "round": "A"
+}

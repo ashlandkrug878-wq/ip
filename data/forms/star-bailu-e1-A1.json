@@ -1,0 +1,81 @@
+{
+  "ip": "star-bailu-e1",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "坐在门口一团针织软包上的短角小鹿",
+  "species": "小鹿",
+  "axes": {
+    "archetype": "物件生物，小鹿",
+    "silhouette": "团子坐在更大软包上",
+    "mark": "身下 · 比身体大的针织软包",
+    "face": "半垂小黑豆眼，极小一字嘴",
+    "emotion": "内收，放空",
+    "fusion": "物件就是底座并成为轮廓：针织软包是放下的那一团，也是坐面",
+    "material": "主体米白短绒，只有软包是粗针织并织进一条水色细边",
+    "palette": "米白配炭灰，水色细边"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "竖短圆头，一对不及头宽三分之一的短钝角芽",
+  "combo": "短角芽小鹿团 + 身下更大针织软包 + 半垂豆眼 + 米白对炭灰",
+  "odd": "软包比鹿身宽，鹿只占上部一小团",
+  "line": "",
+  "why": "内耗被放成门口那团针织包；小鹿坐在上面，脸收着。水色只在织边。",
+  "spec": {
+    "proportion": "软包宽约占全高的 90%，鹿头约占全高 35%",
+    "outline": "下大上小：椭圆软包托住一个小鹿团",
+    "volume": "大：针织包；中：鹿身；小：角芽与脚",
+    "face": "眼在头高下三分之一，半垂，眼距约一个眼宽",
+    "stance": "坐在包上，短脚垂在包沿",
+    "structure": "鹿臀嵌进包面，拿掉包它就悬空"
+  },
+  "toy_check": "坐得住。物件长进去：包是坐面。特殊材质只有针织。新组合。无大眼无笑。",
+  "crop": "记忆点在身下。头像要带一点包沿。",
+  "collide": "不同于抱枕旁的普通小鹿：包是底座且比身大，不是手里道具。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "包被画成抱枕"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "包和身体糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "织纹加成花边"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩小鹿脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后必须仍是身下大包"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短绒小鹿和一团针织软包长在一起：它坐在比身体还宽的粗针织软包上，软包就是放下的那一团，也是唯一坐面，拿掉软包身体就悬空。头高约占全高三分之一，一对极短的钝角芽。半垂小黑豆眼，极小一字嘴，神情放空。坐着，短脚垂在包沿。身体米白短绒，只有软包是粗针织，织进一条水色细边，主对比是米白配炭灰。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实的搪胶毛绒产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星、品牌或现有IP名字。",
+  "enp": "Original designer toy character: a tiny deer fused with a knit cushion — it sits on a coarse-knit cushion wider than its body that is both the put-down lump and its only seat. Head about one third of height, two very short blunt antler buds. Half-lidded black bead eyes, tiny straight mouth, blank calm. Seated, short feet over the cushion rim. Ivory short plush; only the cushion is coarse knit with a thin water-blue edge; palette ivory with charcoal. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, vinyl-plush product photo. No children book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no celebrity brand or existing IP names.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-30",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开影子：不是抱枕配普通鹿。识别：大针织包加短角芽。不普通：包是坐面。材质针织。米白对炭灰。水色只细边。夸张：包比身大。",
+  "pose": "坐"
+}

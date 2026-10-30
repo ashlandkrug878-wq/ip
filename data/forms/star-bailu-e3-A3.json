@@ -1,0 +1,81 @@
+{
+  "ip": "star-bailu-e3",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "背上是一扇闭合向日葵花盘壳的小鹿",
+  "species": "向日葵",
+  "axes": {
+    "archetype": "物件生物，小鹿",
+    "silhouette": "鹿团加巨大花盘背壳",
+    "mark": "背后 · 闭合的向日葵花盘壳",
+    "face": "半垂眼，小嘴",
+    "emotion": "内收偏暖",
+    "fusion": "物件是壳：闭合花盘成为整个背壳与主剪影",
+    "material": "主体浅棕短绒，只有花盘壳是哑光籽面与一圈钝瓣",
+    "palette": "浅棕配深褐籽面，瓣尖一点水色"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "短角芽，背壳高过头顶",
+  "combo": "小鹿团 + 背后巨大闭合花盘壳 + 半垂眼 + 浅棕对深褐",
+  "odd": "花盘壳比身体大，瓣闭合不张扬",
+  "line": "",
+  "why": "向日葵意象收成背壳，能量向后背着，脸仍收。",
+  "spec": {
+    "proportion": "壳宽约身宽 150%，壳高超过头顶",
+    "outline": "前小后圆盘",
+    "volume": "大：花盘壳；中：鹿；小：角脚",
+    "face": "半垂",
+    "stance": "站，微前倾被壳压稳",
+    "structure": "壳缘嵌进背脊"
+  },
+  "toy_check": "站得住。壳是物件。籽面材质。新组合。",
+  "crop": "头像要带壳缘。",
+  "collide": "不同于戴向日葵帽的吉祥物：闭合盘是背壳。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "变成帽子花"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "瓣张太开像笑脸"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "籽粒过繁"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小只剩鹿"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换皮须仍是背壳"
+    ]
+  ],
+  "diff": "",
+  "locked": false,
+  "created": "2026-10-30",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "识别：闭合花盘背壳。材质籽面。夸张。",
+  "pose": "站微前倾",
+  "zh": "原创潮玩角色，小鹿和一扇向日葵花盘长在一起：背后嵌着一扇比身体更大的闭合花盘壳，籽面朝外，一圈钝瓣收拢，壳缘嵌进背脊，拿掉壳剪影就不成立。短钝角芽。半垂小黑豆眼，小嘴。站着，微前倾。身体浅棕短绒，只有花盘壳是哑光深褐籽面与钝瓣，瓣尖一点水色。浅灰背景棚拍。不要张开的大向日葵脸，不要手持花，不要真人。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星、品牌或现有IP名字。",
+  "enp": "Original designer toy: a small deer fused with a sunflower disc — a closed disc-shell larger than the body is set into the back, seed face outward, blunt petals folded in, so the silhouette fails without it. Short blunt antler buds. Half-lidded bead eyes, small mouth. Standing, slight forward lean. Light-brown plush; only the shell is matte dark seed texture with blunt petals tipped in water-blue. Product photo. No wide-open sunflower face, no handheld flower, no human. No children book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no celebrity brand or existing IP names."
+}
