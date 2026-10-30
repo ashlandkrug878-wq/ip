@@ -114,10 +114,10 @@
     "prompt_en": "Original designer toy character: a small creature fused with a window — a thick rounded window frame is the body, a vertical gap about one eighth of the width left between the two panes, the base wider than the window. The face sits on the lower frame, two small eyes looking aside, one lid lower, no mouth. Seated on the base. Warm-white short plush shows in the gap; the window is fog-grey frosted glass, not clear, with one narrow ocean-blue line inside the gap. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.No broken glass, no fully transparent body, no house and no curtains, no human face.",
     "prompt_zh": "原创潮玩角色，小兽和一扇窗长在一起：圆角厚窗框就是身体，两扇之间留一条竖缝，缝宽约窗的八分之一，底座比窗宽。脸在下框，两只小眼看向一侧，其中一只眼皮更低，没有嘴。坐在底座上。缝里露出暖白短绒，窗是雾灰磨砂玻璃，不是透明的，缝的内侧一条窄海蓝。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要画成破碎玻璃，不要整个身体透明，不要房屋和窗帘，不要人类的脸。",
     "size": "1024x1024",
-    "status": "pending",
-    "output": "images/star-huangjingyu-e3-A2/lineart-01.png",
+    "status": "done",
+    "output": "images/star-huangjingyu-e3-A2/lineart-01.webp",
     "created": "2026-10-28",
-    "note": ""
+    "note": "ChatGPT 明星出图"
   },
   {
     "id": "star-huangjingyu-e3-A3-lineart-01",
