@@ -1,0 +1,385 @@
+{
+  "id": "loveez",
+  "name": "Loveez らぶいーず",
+  "aliases": [
+    "らぶいーず",
+    "Loveeez",
+    "すもっぴ",
+    "Smoppi",
+    "Sumoppi",
+    "ぴょんちー",
+    "Pyonchi",
+    "Pyonchii",
+    "皮皮与琪琪"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-30",
+  "updated": "2026-10-30",
+  "summary": "一对回应节奏不同的恋人，把想被回应演成日常；内容到产品的关系节点可核，增长因果未证。",
+  "owner": {
+    "creator": null,
+    "operator": "日本电视台相关官方角色站/商店；讲谈社与KADOKAWA为出版主体",
+    "relation": "官方商店署©NTV；不能据店铺版权说明推定全部原始创作权或买断合同",
+    "since": null,
+    "sources": [
+      "S01",
+      "S13"
+    ]
+  },
+  "origin": {
+    "path": [
+      "短视频"
+    ],
+    "year": null,
+    "story": "官方出版介绍称TikTok起源；首创/首帖未核，不把2024书籍当诞生。",
+    "sources": [
+      "S04"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2024-03-29",
+      "event": "首本书《らぶいーず》",
+      "type": "fact",
+      "sources": [
+        "S02"
+      ]
+    },
+    {
+      "date": "2024-06-20",
+      "event": "首本绘本《はじめてのであい》",
+      "type": "fact",
+      "sources": [
+        "S04",
+        "S05",
+        "S12"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "event": "绘本《ずっとずっといっしょだよ》",
+      "type": "fact",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "date": "2026-10-19（二级线索）",
+      "event": "Bonbon Drop贴纸",
+      "type": "hypothesis",
+      "sources": [
+        "S06",
+        "S14"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "我想靠近你，也想确认你还在乎我。",
+    "sentence_type": "反差",
+    "basis": "inferred",
+    "sources": [
+      "S01",
+      "S11"
+    ]
+  },
+  "core": {
+    "personality": "黏人／自主／相爱",
+    "emotion": "反差",
+    "action": "索求回应与按自己的节奏生活相碰",
+    "basis": "inferred"
+  },
+  "insight": {
+    "scene": "等回复、分开回家",
+    "behavior": "反复确认对方在不在乎",
+    "state": "想靠近又怕打扰",
+    "conflict": "彼此回应节奏不同",
+    "unsaid": "能不能给我一点确定感",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "恋爱内容读者、绘本读者、毛绒及贴纸购买者；年龄比例未知",
+    "where": "短视频、公开书评、商店与线下联名",
+    "buy": "书评有读后反馈，非完整成交凭证；官方店提供可购与缺货状态",
+    "signs": "等待回复等关系词，不把营销标签当人群统计",
+    "share": "用户长文中自我投射；无分享率",
+    "breakout": "台湾便利店包装接触入口，效果未知"
+  },
+  "pendulum": {
+    "position": "软萌治愈",
+    "against": "柔软外观容纳不完全顺畅的亲密关系；属研究解释，非时代因果定论"
+  },
+  "form": {
+    "archetype": "动物类人",
+    "silhouette": "头身一体",
+    "mark_position": [
+      "整体轮廓",
+      "五官"
+    ],
+    "mark": "圆耳白色与长耳粉色角色，团块头身下接三瓣脚",
+    "face": "低位小五官；眼型可变，含泪大眼不是每款固定项",
+    "emotion": "反差",
+    "odd": "多瓣底足与小手连接同一团块",
+    "density": "极简",
+    "naming": "其他",
+    "group": "角色群"
+  },
+  "collide_combo": "避开白粉情侣＋圆耳/长耳＋三瓣脚团块＋低位卷嘴的整套组合；圆耳本身为公共语言。",
+  "color": {
+    "mode": "马卡龙",
+    "main": "白、淡粉",
+    "signature": "白粉对应关系为候选识别机制",
+    "notes": "V01/V02原图单点采样；出版轮廓色和场景另列"
+  },
+  "materials": "按SKU分别记PVC、金属、聚酯、聚氨酯；不从插画反推材料",
+  "carrier": {
+    "primary": "短视频",
+    "secondary": "实物潮玩"
+  },
+  "product": {
+    "first_category": null,
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "本轮日本代表SKU：¥660—¥3980 JPY；非全IP价格带",
+    "sources": [
+      "S06",
+      "S07",
+      "S08",
+      "S09"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "单IP销量/收入/利润",
+      "value": null,
+      "unit": null,
+      "period": null,
+      "type": "fact",
+      "sources": [
+        "S06"
+      ],
+      "note": "未获得，缺货不能补足"
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "一对角色回应节奏不同，让“想被回应”能变成短小情境",
+      "type": "inference",
+      "evidence": "官方关系设定与日文用户长文有交叉支持；后者把等待回复与个人经历相连",
+      "boundary": "只有一位直接长文样本；不能推出所有购买者动机，焦虑情节也可能引起反感",
+      "sources": [
+        "S01",
+        "S11"
+      ]
+    },
+    {
+      "claim": "把既有关系节点转成有内容含义的产品，而非仅把头像贴上物件",
+      "type": "inference",
+      "evidence": "首本绘本补相遇；婚礼毛绒官方说明对应SNS场景，2026绘本封面也演出婚礼",
+      "boundary": "没有转化率或复购证据；渠道、价格、礼赠需求都可能贡献购买",
+      "sources": [
+        "S02",
+        "S05",
+        "S07",
+        "S03"
+      ]
+    }
+  ],
+  "counterexamples": "同一官方店仍有其他SKU可加入购物车，反对“全部抢不到”；长文作者提及有人反感过度索求回应，但未核原评论。未找到可靠失败SKU，不能写从未失败。",
+  "theory": {
+    "shell": "圆润少细节；耳型和多瓣底部组合区分",
+    "core": "亲密关系中想被回应与自主节奏的拉扯",
+    "shadow": "圆耳、白粉、腮红为公共元素；叙事情境提供区分，非独占权判断",
+    "two_layers": {
+      "surface": "柔软外形与可辨关系",
+      "deep": "等待回应及既有情节的个人联想"
+    },
+    "validation": "证据依次记录商品状态、书评反馈、营销数字；未取得净销量/复购，不用点赞填空"
+  },
+  "for_skills": {
+    "lab": "可研究双角色需求不对称如何持续产生情境；需独立验证目标用户是否愿意代入。",
+    "form": "可借低密度图形容纳表情变化的机制；不要借白粉情侣与三瓣脚整套识别。",
+    "studio": "把已建立的关系节点映射品类，但先验证情节记忆与商品意愿；屏幕色不作生产色卡。"
+  },
+  "gaps": [
+    "自然人作者、创作日、第一条公开原作、首个实体商品与完整权利合同未知；2024首本书不等于起源。",
+    "小红书连接工具不可用：Loveez 品牌介绍、Loveez 产品汇总两组均未执行，实读0篇；没有绕过或假称已读。",
+    "独立用户样本少且非随机；用户长文负面意见为转述，未核原评论；未找到可核失败商品/退坑样本。",
+    "商业销量、利润、复购率与中国大陆用户结构均null；缺货不证明售量或增长。",
+    "商品原图读取403/解码失败，未作毛绒及PVC逐图外观判断；材料仅据官方文字。",
+    "平面仅英文附图该含泪坐姿一次接近；眼略大、线略粗；纯文字/中文/稳定性/实物未测。",
+    "未读完整绘本或播放视频，未取得原作者访谈；内容判断仅限公开图页、官方介绍及用户文本。"
+  ],
+  "sources": [
+    {
+      "id": "S01",
+      "title": "官方世界与角色设定",
+      "url": "https://loveeez.com/",
+      "publisher": "Loveez",
+      "published": null,
+      "observed": "2026-10-30",
+      "access": "full",
+      "note": null
+    },
+    {
+      "id": "S02",
+      "title": "首本书书目",
+      "url": "https://www.kadokawa.co.jp/product/322311001396/",
+      "publisher": "KADOKAWA",
+      "published": null,
+      "observed": "2026-10-30",
+      "access": "partial",
+      "note": null
+    },
+    {
+      "id": "S03",
+      "title": "绘本系列专题",
+      "url": "https://cocreco.kodansha.co.jp/special/loveez",
+      "publisher": "讲谈社",
+      "published": null,
+      "observed": "2026-10-30",
+      "access": "partial",
+      "note": null
+    },
+    {
+      "id": "S04",
+      "title": "短视频与首本绘本介绍",
+      "url": "https://cocreco.kodansha.co.jp/cocreco/general/entertainment/Y0Vhj",
+      "publisher": "讲谈社",
+      "published": "2024-06-27",
+      "observed": "2026-10-30",
+      "access": "partial",
+      "note": "实读正文；未播放嵌入视频，不作音频观察"
+    },
+    {
+      "id": "S05",
+      "title": "首本绘本内页与读者来信选编",
+      "url": "https://cocreco.kodansha.co.jp/cocreco/general/entertainment/8RCzq",
+      "publisher": "讲谈社",
+      "published": "2024-07-04",
+      "observed": "2026-10-30",
+      "access": "partial",
+      "note": null
+    },
+    {
+      "id": "S06",
+      "title": "Bonbon Drop贴纸商品",
+      "url": "https://loveez.ntv.co.jp/item/1002fLLI0007",
+      "publisher": "日本电视台官方商店",
+      "published": null,
+      "observed": "2026-10-30",
+      "access": "full",
+      "note": null
+    },
+    {
+      "id": "S07",
+      "title": "婚礼场景白色角色毛绒",
+      "url": "https://loveez.ntv.co.jp/item/8001dLLA0001",
+      "publisher": "日本电视台官方商店",
+      "published": null,
+      "observed": "2026-10-30",
+      "access": "partial",
+      "note": null
+    },
+    {
+      "id": "S08",
+      "title": "Mocchi-Mocchi M粉色角色",
+      "url": "https://loveez.ntv.co.jp/item/5043aLLA0012",
+      "publisher": "日本电视台官方商店",
+      "published": null,
+      "observed": "2026-10-30",
+      "access": "partial",
+      "note": null
+    },
+    {
+      "id": "S09",
+      "title": "ころころ挂件",
+      "url": "https://loveez.ntv.co.jp/item/5041aLLA0002",
+      "publisher": "日本电视台官方商店",
+      "published": null,
+      "observed": "2026-10-30",
+      "access": "partial",
+      "note": null
+    },
+    {
+      "id": "S10",
+      "title": "台湾便利店联名报道",
+      "url": "https://udn.com/news/story/7270/9832178",
+      "publisher": "联合报",
+      "published": "2026-10-22",
+      "observed": "2026-10-30",
+      "access": "partial",
+      "note": "正文可读；活动事实为媒体转述，未现场核验"
+    },
+    {
+      "id": "S11",
+      "title": "らぶいーずとわたし",
+      "url": "https://note.com/tama93maru/n/n1d7504719e97",
+      "publisher": "田丸久深",
+      "published": "2026-06-07",
+      "observed": "2026-10-30",
+      "access": "partial",
+      "note": "实读长文主体，负评为该作者转述，非直接采集原评论"
+    },
+    {
+      "id": "S12",
+      "title": "首本绘本书目及公开评论",
+      "url": "https://books.rakuten.co.jp/rb/17851048/",
+      "publisher": "楽天Books",
+      "published": null,
+      "observed": "2026-10-30",
+      "access": "partial",
+      "note": "实读可见评论两则；不等于11条评论全读"
+    },
+    {
+      "id": "S13",
+      "title": "官方店版权与使用说明",
+      "url": "https://loveez.ntv.co.jp/info/guide/index.html",
+      "publisher": "日本电视台",
+      "published": null,
+      "observed": "2026-10-30",
+      "access": "partial",
+      "note": null
+    },
+    {
+      "id": "S14",
+      "title": "贴纸发售日期二级线索",
+      "url": "https://bonbon-navi.com/items/new_arrival/loveez-bonbon-drop-seal-20261019/",
+      "publisher": "Bonbon Navi",
+      "published": "2026-10-19",
+      "observed": "2026-10-30",
+      "access": "snippet_only",
+      "note": null
+    },
+    {
+      "id": "S15",
+      "title": "动画节目列表",
+      "url": "https://tv.apple.com/jp/show/らふいーす/umc.cmc.4lwm5x0f6zo0wola8vnpaymr9",
+      "publisher": "Apple TV",
+      "published": null,
+      "observed": "2026-10-30",
+      "access": "snippet_only",
+      "note": "未播放；仅检索文本，不作逐帧分析"
+    },
+    {
+      "id": "S16",
+      "title": "官方店首页在售与缺货状态",
+      "url": "https://loveez.ntv.co.jp/",
+      "publisher": "日本电视台",
+      "published": null,
+      "observed": "2026-10-30",
+      "access": "full",
+      "note": null
+    }
+  ],
+  "archive": "research/loveez/2026-10-30/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/loveez/2026-10-30/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/loveez/2026-10-30/",
+  "webpage": "research/loveez/2026-10-30/index.html",
+  "prompt_validation": {
+    "status": "ready",
+    "mode": "英文附图",
+    "scope": "V01中间白色含泪坐姿，可见正侧前角度；不覆盖全群",
+    "tests": "research/loveez/2026-10-30/prompt-tests.json"
+  }
+}

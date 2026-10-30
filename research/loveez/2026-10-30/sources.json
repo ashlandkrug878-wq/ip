@@ -1,0 +1,162 @@
+[
+  {
+    "id": "S01",
+    "title": "官方世界与角色设定",
+    "url": "https://loveeez.com/",
+    "publisher": "Loveez",
+    "published": null,
+    "observed": "2026-10-30",
+    "access": "full",
+    "note": null
+  },
+  {
+    "id": "S02",
+    "title": "首本书书目",
+    "url": "https://www.kadokawa.co.jp/product/322311001396/",
+    "publisher": "KADOKAWA",
+    "published": null,
+    "observed": "2026-10-30",
+    "access": "partial",
+    "note": null
+  },
+  {
+    "id": "S03",
+    "title": "绘本系列专题",
+    "url": "https://cocreco.kodansha.co.jp/special/loveez",
+    "publisher": "讲谈社",
+    "published": null,
+    "observed": "2026-10-30",
+    "access": "partial",
+    "note": null
+  },
+  {
+    "id": "S04",
+    "title": "短视频与首本绘本介绍",
+    "url": "https://cocreco.kodansha.co.jp/cocreco/general/entertainment/Y0Vhj",
+    "publisher": "讲谈社",
+    "published": "2024-06-27",
+    "observed": "2026-10-30",
+    "access": "partial",
+    "note": "实读正文；未播放嵌入视频，不作音频观察"
+  },
+  {
+    "id": "S05",
+    "title": "首本绘本内页与读者来信选编",
+    "url": "https://cocreco.kodansha.co.jp/cocreco/general/entertainment/8RCzq",
+    "publisher": "讲谈社",
+    "published": "2024-07-04",
+    "observed": "2026-10-30",
+    "access": "partial",
+    "note": null
+  },
+  {
+    "id": "S06",
+    "title": "Bonbon Drop贴纸商品",
+    "url": "https://loveez.ntv.co.jp/item/1002fLLI0007",
+    "publisher": "日本电视台官方商店",
+    "published": null,
+    "observed": "2026-10-30",
+    "access": "full",
+    "note": null
+  },
+  {
+    "id": "S07",
+    "title": "婚礼场景白色角色毛绒",
+    "url": "https://loveez.ntv.co.jp/item/8001dLLA0001",
+    "publisher": "日本电视台官方商店",
+    "published": null,
+    "observed": "2026-10-30",
+    "access": "partial",
+    "note": null
+  },
+  {
+    "id": "S08",
+    "title": "Mocchi-Mocchi M粉色角色",
+    "url": "https://loveez.ntv.co.jp/item/5043aLLA0012",
+    "publisher": "日本电视台官方商店",
+    "published": null,
+    "observed": "2026-10-30",
+    "access": "partial",
+    "note": null
+  },
+  {
+    "id": "S09",
+    "title": "ころころ挂件",
+    "url": "https://loveez.ntv.co.jp/item/5041aLLA0002",
+    "publisher": "日本电视台官方商店",
+    "published": null,
+    "observed": "2026-10-30",
+    "access": "partial",
+    "note": null
+  },
+  {
+    "id": "S10",
+    "title": "台湾便利店联名报道",
+    "url": "https://udn.com/news/story/7270/9832178",
+    "publisher": "联合报",
+    "published": "2026-10-22",
+    "observed": "2026-10-30",
+    "access": "partial",
+    "note": "正文可读；活动事实为媒体转述，未现场核验"
+  },
+  {
+    "id": "S11",
+    "title": "らぶいーずとわたし",
+    "url": "https://note.com/tama93maru/n/n1d7504719e97",
+    "publisher": "田丸久深",
+    "published": "2026-06-07",
+    "observed": "2026-10-30",
+    "access": "partial",
+    "note": "实读长文主体，负评为该作者转述，非直接采集原评论"
+  },
+  {
+    "id": "S12",
+    "title": "首本绘本书目及公开评论",
+    "url": "https://books.rakuten.co.jp/rb/17851048/",
+    "publisher": "楽天Books",
+    "published": null,
+    "observed": "2026-10-30",
+    "access": "partial",
+    "note": "实读可见评论两则；不等于11条评论全读"
+  },
+  {
+    "id": "S13",
+    "title": "官方店版权与使用说明",
+    "url": "https://loveez.ntv.co.jp/info/guide/index.html",
+    "publisher": "日本电视台",
+    "published": null,
+    "observed": "2026-10-30",
+    "access": "partial",
+    "note": null
+  },
+  {
+    "id": "S14",
+    "title": "贴纸发售日期二级线索",
+    "url": "https://bonbon-navi.com/items/new_arrival/loveez-bonbon-drop-seal-20261019/",
+    "publisher": "Bonbon Navi",
+    "published": "2026-10-19",
+    "observed": "2026-10-30",
+    "access": "snippet_only",
+    "note": null
+  },
+  {
+    "id": "S15",
+    "title": "动画节目列表",
+    "url": "https://tv.apple.com/jp/show/らふいーす/umc.cmc.4lwm5x0f6zo0wola8vnpaymr9",
+    "publisher": "Apple TV",
+    "published": null,
+    "observed": "2026-10-30",
+    "access": "snippet_only",
+    "note": "未播放；仅检索文本，不作逐帧分析"
+  },
+  {
+    "id": "S16",
+    "title": "官方店首页在售与缺货状态",
+    "url": "https://loveez.ntv.co.jp/",
+    "publisher": "日本电视台",
+    "published": null,
+    "observed": "2026-10-30",
+    "access": "full",
+    "note": null
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-30",
+  "window": [
+    "2026-10-23",
+    "2026-10-30"
+  ],
+  "extended_window": [
+    "2026-09-30",
+    "2026-10-30"
+  ],
+  "existing_study_count": 41,
+  "aliases_checked": true,
+  "pochacco_exists": true,
+  "checkpoint": "最新六份交付均有至少一种注明依赖的ready模式；未发现待续作的未通过平面检查点。",
+  "selected": "loveez",
+  "decision": "台湾10月28日联名事件＋日本官方店明确缺货状态，跨两个企划/线索类型；并非热度榜排名。",
+  "candidates": [
+    {
+      "id": "loveez",
+      "category": "其他日本",
+      "selected": true,
+      "strength": "中等",
+      "event": "2026-10-28台湾联名；2026-10-30观察日本贴纸缺货",
+      "published": "2026-10-22活动报道；贴纸页面发布日期null",
+      "sources": [
+        "S06",
+        "S10",
+        "S14"
+      ],
+      "boundary": "联名与库存状态独立，不知道销量或增长率"
+    },
+    {
+      "id": "ribodiary",
+      "category": "泡泡玛特",
+      "selected": false,
+      "strength": "供给可核；需求不足",
+      "event": "2026-10-29上新，地区时间各异",
+      "published": "2026-10-27官微",
+      "url": "https://www.popmart.com/us/pop-now/set/1488",
+      "boundary": "官微、MV与商品页同一发售企划，不重复计独立热度"
+    },
+    {
+      "id": "k-monsters",
+      "category": "韩国",
+      "selected": false,
+      "strength": "活动/到访可核，需求未核",
+      "event": "10月22日至11月3日快闪；作者自述10月27日到访",
+      "published": "2026-10-28",
+      "url": "https://m.view.nate.com/travel/view/420300/",
+      "boundary": "到访文是单人样本；不能证明销售升温或全网热度"
+    }
+  ],
+  "coverage": {
+    "pop_mart": "RiboDiary未研究，但只有同企划供给；已研究角色不重复",
+    "miniso": "官网10月10日YOYO消息属已研究对象；CHOUCHOU新线索不足，9月28日创意官消息在窗口外；不移用TOP TOY数字",
+    "sanrio": "10月26日群像挂件与本周新品属供给；不从群像推定未研究成员升温",
+    "other_japan": "Loveez选中，Sonny Angel已研究去重",
+    "korea": "K-MONSTERS快闪＋一篇到访文，暂保留"
+  },
+  "not_a_ranking": true
+}

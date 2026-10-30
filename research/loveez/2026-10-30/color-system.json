@@ -1,0 +1,44 @@
+[
+  {
+    "color_id": "C01",
+    "hex_preview": "#FFFFFF",
+    "role": "主色",
+    "scope": "recurring_identity候选，非官方标准",
+    "value_basis": "图像取样",
+    "surface_or_region": "白色角色额头",
+    "image_ids": [
+      "V01"
+    ],
+    "sample_method": "原始WebP以Pillow转换RGB，左上原点单像素；未估算面积比例",
+    "original_dimensions": [
+      3120,
+      900
+    ],
+    "sample_coordinates_or_mask": [
+      1500,
+      350
+    ],
+    "uncertainty": "屏幕近似，非量产色号；未用于代表毛绒材料色"
+  },
+  {
+    "color_id": "C02",
+    "hex_preview": "#FED9EF",
+    "role": "主色",
+    "scope": "recurring_identity候选，非官方标准",
+    "value_basis": "图像取样",
+    "surface_or_region": "粉色角色头部",
+    "image_ids": [
+      "V02"
+    ],
+    "sample_method": "原始WebP以Pillow转换RGB，左上原点单像素；未估算面积比例",
+    "original_dimensions": [
+      3120,
+      900
+    ],
+    "sample_coordinates_or_mask": [
+      700,
+      400
+    ],
+    "uncertainty": "屏幕近似，非量产色号；未用于代表毛绒材料色"
+  }
+]

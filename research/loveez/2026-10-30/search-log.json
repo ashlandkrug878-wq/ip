@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-30",
+  "queries": [
+    "潮玩 IP 新品 热门 2026年10月 26 29",
+    "韩国 캐릭터 팝업 2026 10월 인형",
+    "サンリオ キャラクター 2026年10月 新商品 人気",
+    "名创优品 IP 新品 墩墩鸡 KUMARU 2026 10月",
+    "泡泡玛特 新IP 2026 10月 论坛 DIMTY",
+    "Loveez らぶいーず 2026 10月 完売 再販",
+    "らぶいーず 作者 生まれ 2023 株式会社 キャラクター",
+    "Loveez characters creator interview Sumoppi Pyonchii",
+    "らぶいーず 苦手 嫌い 感想 ぴょんちー",
+    "RiboDiary POLAR 2026年10月 新品 热门",
+    "CHOUCHOU 名创优品 2026 10月 销售",
+    "케이몬스터 2026 10월 22 롯데월드몰"
+  ],
+  "xhs": [
+    {
+      "query": "Loveez 品牌介绍",
+      "status": "blocked",
+      "executed": false,
+      "read_count": 0,
+      "reason": "Browser连接调用返回Unknown tool；停止依赖，不绕过"
+    },
+    {
+      "query": "Loveez 产品汇总",
+      "status": "blocked",
+      "executed": false,
+      "read_count": 0,
+      "reason": "Browser连接调用返回Unknown tool；停止依赖，不绕过"
+    }
+  ],
+  "user_sample": {
+    "direct_longform": 1,
+    "retailer_visible_reviews": 2,
+    "original_negative_comments": 0
+  },
+  "limits": "选择性公开样本，无人群比例、连续增长窗口或成交验证。"
+}

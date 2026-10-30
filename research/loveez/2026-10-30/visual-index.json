@@ -1,0 +1,94 @@
+[
+  {
+    "image_id": "V01",
+    "url": "https://loveeez.com/assets/imgs/home/friends_smoppi.webp",
+    "source": "S01",
+    "version": "官网白色角色三姿态横图",
+    "viewed": true,
+    "dimensions": [
+      3120,
+      900
+    ],
+    "status": "reference_only",
+    "observed_features": "圆耳、白色头身一体；中间含泪坐姿有三瓣脚、抬手、低位小五官和青色泪滴；右侧趴姿拿手机；左侧仅见嘴的状态不能推定角色无眼。",
+    "mechanism": "不同眼型、动作与手机语境承载索求回应；不是固定哭脸。",
+    "limits": "原始横图有透明区域；不作为官方三视图。",
+    "subject_id": "loveez",
+    "observed_at": "2026-10-30",
+    "rights": "归原权利人；仅引用原始URL，不公开打包原图",
+    "original_image_url": "https://loveeez.com/assets/imgs/home/friends_smoppi.webp",
+    "source_page_url": "https://loveeez.com/",
+    "page_published_at": null,
+    "product_released_at": null,
+    "image_created_at": null
+  },
+  {
+    "image_id": "V02",
+    "url": "https://loveeez.com/assets/imgs/home/friends_pyonchi.webp",
+    "source": "S01",
+    "version": "官网粉色角色三姿态横图",
+    "viewed": true,
+    "dimensions": [
+      3120,
+      900
+    ],
+    "status": "reference_only",
+    "observed_features": "粉色主体、较长上耳、团块头身与三瓣脚；侧倾和抬手笑脸显示表情变化；并非只靠换色区分白色角色。",
+    "mechanism": "耳长与表情节奏帮助区分情侣身份。",
+    "limits": "不能将本横图的每个弧度视为生产规范。",
+    "subject_id": "loveez",
+    "observed_at": "2026-10-30",
+    "rights": "归原权利人；仅引用原始URL，不公开打包原图",
+    "original_image_url": "https://loveeez.com/assets/imgs/home/friends_pyonchi.webp",
+    "source_page_url": "https://loveeez.com/",
+    "page_published_at": null,
+    "product_released_at": null,
+    "image_created_at": null
+  },
+  {
+    "image_id": "V03",
+    "url": "https://d34gglw95p9zsk.cloudfront.net/item_cocreco_images/images/000/254/723/large/2b65ed85-6557-4b8c-9c81-5535c6198e82.jpg",
+    "source": "S05",
+    "version": "2024绘本公开内页",
+    "viewed": true,
+    "dimensions": [
+      1280,
+      640
+    ],
+    "status": "reference_only",
+    "observed_features": "码头商店场景，粉色角色持手机向白色角色提出拍照；轮廓色偏灰褐，环境有蓝紫黄等多色。",
+    "mechanism": "人物关系由具体要求与回应演出；背景色不等于角色签名色。",
+    "limits": "只看这一公开内页，未读完整绘本。",
+    "subject_id": "loveez",
+    "observed_at": "2026-10-30",
+    "rights": "归原权利人；仅引用原始URL，不公开打包原图",
+    "original_image_url": "https://d34gglw95p9zsk.cloudfront.net/item_cocreco_images/images/000/254/723/large/2b65ed85-6557-4b8c-9c81-5535c6198e82.jpg",
+    "source_page_url": "https://cocreco.kodansha.co.jp/cocreco/general/entertainment/8RCzq",
+    "page_published_at": null,
+    "product_released_at": null,
+    "image_created_at": null
+  },
+  {
+    "image_id": "V04",
+    "url": "https://d34gglw95p9zsk.cloudfront.net/item_cocreco_images/images/000/454/686/large/e0e27316-2fd1-4d25-80cd-dcc3cbe5bce5.jpg",
+    "source": "S03",
+    "version": "2026婚礼主题绘本封面",
+    "viewed": true,
+    "dimensions": [
+      1280,
+      1280
+    ],
+    "status": "reference_only",
+    "observed_features": "白色与粉色角色穿婚礼服装，配角环绕；花束、头饰和蓝绿场景增密画面，主体仍可凭耳型与白粉关系区分。",
+    "mechanism": "从日常交往进入关系里程碑；不能据封面断言整本情节。",
+    "limits": "婚服只属该版本；细节不可当全IP不变量。",
+    "subject_id": "loveez",
+    "observed_at": "2026-10-30",
+    "rights": "归原权利人；仅引用原始URL，不公开打包原图",
+    "original_image_url": "https://d34gglw95p9zsk.cloudfront.net/item_cocreco_images/images/000/454/686/large/e0e27316-2fd1-4d25-80cd-dcc3cbe5bce5.jpg",
+    "source_page_url": "https://cocreco.kodansha.co.jp/special/loveez",
+    "page_published_at": null,
+    "product_released_at": null,
+    "image_created_at": null
+  }
+]

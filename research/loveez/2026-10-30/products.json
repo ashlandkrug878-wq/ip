@@ -1,0 +1,97 @@
+[
+  {
+    "id": "P01",
+    "name": "首本书《らぶいーず》",
+    "released": "2024-03-29",
+    "price": 1595,
+    "currency": "JPY",
+    "region": "日本",
+    "size": "四六变形／128页；ISBN 9784046067937",
+    "material": "纸书；装帧细节未核",
+    "sources": [
+      "S02"
+    ]
+  },
+  {
+    "id": "P02",
+    "name": "首本绘本《はじめてのであい》",
+    "released": "2024-06-20",
+    "price": null,
+    "currency": "JPY",
+    "region": "日本",
+    "size": "36页；ISBN 9784065357163",
+    "material": "绘本；并非首本书",
+    "sources": [
+      "S04",
+      "S05",
+      "S12"
+    ]
+  },
+  {
+    "id": "P03",
+    "name": "绘本《ずっとずっといっしょだよ》",
+    "released": "2026-07-30",
+    "price": 1760,
+    "currency": "JPY",
+    "region": "日本",
+    "size": null,
+    "material": "纸书；婚礼主题封面已查看",
+    "sources": [
+      "S03"
+    ]
+  },
+  {
+    "id": "P04",
+    "name": "Bonbon Drop贴纸",
+    "released": "2026-10-19（二级线索）",
+    "price": 660,
+    "currency": "JPY",
+    "region": "日本",
+    "size": "W95×H200×D7mm（台纸）",
+    "material": "PVC；中国制造",
+    "sources": [
+      "S06",
+      "S14"
+    ],
+    "stock": "2026-10-30在庫切れ；售出件数与售罄时点未知"
+  },
+  {
+    "id": "P05",
+    "name": "婚礼场景すもっぴ毛绒",
+    "released": null,
+    "price": 3980,
+    "currency": "JPY",
+    "region": "日本",
+    "size": "35×32×22cm（约）",
+    "material": "外层与填充均聚酯100%；中国制造；官方提示摩擦掉毛/色移可能",
+    "sources": [
+      "S07"
+    ]
+  },
+  {
+    "id": "P06",
+    "name": "Mocchi-Mocchi Mぴょんちー",
+    "released": null,
+    "price": 3520,
+    "currency": "JPY",
+    "region": "日本",
+    "size": "W300×H300×D200（原页未明列单位，未补推）",
+    "material": "聚酯、聚氨酯；越南制造；触感为官方自述",
+    "sources": [
+      "S08"
+    ]
+  },
+  {
+    "id": "P07",
+    "name": "ころころラバーフィギュア挂件",
+    "released": null,
+    "price": 990,
+    "currency": "JPY",
+    "region": "日本",
+    "size": "最大H45×W45×D41mm",
+    "material": "PVC、金属；商品命名“rubber”不改写成天然橡胶",
+    "sources": [
+      "S09"
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "prompt_id": "loveez-flat-ref-v1",
+    "version": 1,
+    "subject_id": "loveez",
+    "target_scope": "V01中间白色含泪坐姿，可见正侧前角度；不覆盖全群",
+    "carrier": "平面",
+    "exact_prompt": "Use case: identity-preserve. Create a flat 2D research reconstruction of the single white crying creature in the attached reference crop. Preserve exactly its visible silhouette and pose: a very broad round white head-body with no neck, two round upper ears with open curved joins, three rounded foot lobes along the bottom, two short raised arms with inward curving ends beside its cheeks. Preserve the two small dark upright tearful eyes, each with white shine spots, wide eye spacing, the tiny curled w-shaped mouth between them, small distress strokes above the mouth, and the two tiny pale cyan tear patches outside the eyes above the hands. Keep the irregular charcoal contour thickness, white fill and cyan accents, the low face position, and the asymmetric visible curves. White background, full figure centered with margin. No added eyes, nose, clothing, props, lettering, logos, shadows, gradients, fur, 3D rendering, or extra characters. The attached crop is the sole identity and pose reference; reproduce only that visible front three-quarter sitting version, do not invent a back view.",
+    "language": "en",
+    "input_mode": "reference_image",
+    "reference_image_ids": [
+      "V01"
+    ],
+    "reference_preparation": {
+      "original_size": [
+        3120,
+        900
+      ],
+      "crop_box": [
+        1080,
+        90,
+        1980,
+        870
+      ],
+      "local_input": "smoppi-cry-v01.png",
+      "distribution": "原图/裁剪仅本地检视，不公开打包；按坐标从官方原图复原依赖"
+    },
+    "generated_file": "flat-ref-v1.webp",
+    "tested_at": "2026-10-30",
+    "status": "ready",
+    "checks": {
+      "identity": "接近：圆耳白色团块与三瓣脚",
+      "silhouette": "接近：不对称耳弧、抬手及坐姿",
+      "face": "接近：低位宽眼距、含泪眼与小卷嘴；眼略大",
+      "colors": "接近：白/炭灰主体与浅青泪滴位置",
+      "structure": "平面可见连接接近；不检验内部结构",
+      "composition": "单角色完整；无场景与额外配件"
+    },
+    "remaining_differences": [
+      "描边略粗、线更均匀；眼睛略大，局部弧线有差别",
+      "只单次附图结果，不证明纯文字、中文、随机稳定性或实物可制造性",
+      "白底仍有轻微纸纹，严格无纹理平涂未单独验收"
+    ],
+    "revision_reason": "初次目标测试；关键身份项接近，未修词",
+    "untested_modes": [
+      "中文",
+      "纯文字英文",
+      "纯文字中文",
+      "重复稳定性",
+      "3D",
+      "毛绒"
+    ]
+  }
+]
