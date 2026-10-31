@@ -1,0 +1,81 @@
+{
+  "ip": "star-liyunrui-e2",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "鳞片合身的坐姿松果",
+  "species": "松果",
+  "axes": {
+    "archetype": "物件生物，松果",
+    "silhouette": "卵形，下宽上收",
+    "mark": "腰线 · 一圈微张的钝鳞",
+    "face": "半垂眼在上部闭合鳞间",
+    "emotion": "内收，蓄力",
+    "fusion": "松果鳞片就是身体装甲，底柄是短脚座，不是手持坚果",
+    "material": "主体硬树脂钝鳞，鳞缝里一点短绒",
+    "palette": "焦糖褐配缝里森林绿绒"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "卵形上收，顶钝",
+  "combo": "卵形松果 + 腰线微张鳞 + 缝绒 + 半垂眼",
+  "odd": "鳞微张像要往前，却坐着",
+  "line": "",
+  "why": "持续行动的蓄力态。松果是森林可握物件。",
+  "spec": {
+    "proportion": "全高约是腰宽的 1.3 倍",
+    "outline": "卵形，底部更宽",
+    "volume": "大：鳞甲身体；中：底柄；小：眼缝",
+    "face": "眼藏在上鳞缝",
+    "stance": "坐在底柄上",
+    "structure": "鳞片层叠，腰线一张"
+  },
+  "toy_check": "站得住：底柄墩。果是身体。特殊材质是鳞缝绒。新组合：微张却坐。",
+  "crop": "头像要含微张腰鳞。",
+  "collide": "不同于可爱坚果钥匙扣：鳞是身体不是壳道具。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      ""
+    ],
+    [
+      "简化",
+      "待出图验证",
+      ""
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      ""
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      ""
+    ]
+  ],
+  "zh": "原创潮玩角色，一枚松果长成身体：焦糖褐硬树脂钝鳞层层合身，腰线一圈微张，缝里填一点森林绿短绒。半垂小黑豆眼在上部鳞缝。坐在短底柄上。单个角色完整全身，正面略侧，浅灰背景，棚拍光，真实产品照。 不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要肌肉，不要尖刺扎手，不要写成现有品牌或运动队标识。",
+  "enp": "Original designer toy character: a pinecone as the whole body in caramel hard resin with blunt scales; a belt of scales slightly open at the waist filled with forest-green short plush. Half-lidded bead eyes in an upper scale gap. Seated on a short stem base. Single character, full body, slight three-quarter, plain light grey, soft studio light, real product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no muscles, no sharp painful spikes, no real brand or team logos.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-01",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开钥匙扣坚果。识别：腰线微张。不普通。绒在缝。配色。少见。夸张在张鳞。",
+  "pose": "坐"
+}

@@ -1,0 +1,81 @@
+{
+  "ip": "star-liyunrui-e1",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "竹节塌肩的坐姿竹",
+  "species": "竹子",
+  "axes": {
+    "archetype": "物件生物，竹子",
+    "silhouette": "两三节粗竹，上节略歪",
+    "mark": "上节 · 一道横裂的卸力缝",
+    "face": "半垂眼在中节",
+    "emotion": "内收，卸力",
+    "fusion": "竹节就是躯干分节，叶鞘退化成小钝耳，底节是坐墩",
+    "material": "主体哑光搪胶竹青，只有卸力缝里是软绒",
+    "palette": "竹青配缝里一点森林绿绒"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "中节为脸所在的鼓节",
+  "combo": "粗竹两三节 + 上节歪塌 + 缝里软绒 + 半垂眼",
+  "odd": "上节不直，像肩卸了",
+  "line": "",
+  "why": "竹来自后援会比喻。歪节=肩膀放下。",
+  "spec": {
+    "proportion": "全高约是最粗节直径的 2.2 倍",
+    "outline": "直立竹柱，上节向一侧偏 15 度",
+    "volume": "大：中下节；中：上节；小：钝耳",
+    "face": "眼在中节鼓面",
+    "stance": "底节平底坐",
+    "structure": "节与节嵌接，上缝填软绒"
+  },
+  "toy_check": "站得住：底节墩。竹是身体。特殊材质是缝里软绒。新组合：塌节竹。",
+  "crop": "头像要含歪上节和缝。",
+  "collide": "不同于直挺国风竹：上节是塌的。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      ""
+    ],
+    [
+      "简化",
+      "待出图验证",
+      ""
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      ""
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      ""
+    ]
+  ],
+  "zh": "原创潮玩角色，两三节粗竹长成身体：竹青哑光搪胶，上节略向一侧塌，横缝里填着一点森林绿软绒，像卸力。半垂小黑豆眼在中节，底节是坐墩。单个角色完整全身，正面略侧，浅灰背景，棚拍光，真实产品照。 不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要肌肉，不要尖刺扎手，不要写成现有品牌或运动队标识。",
+  "enp": "Original designer toy character: two or three thick bamboo segments as the body in matte celadon vinyl; the top segment slumps slightly aside with a soft forest-green plush fill in the seam like released tension. Half-lidded bead eyes on the middle segment; the base segment is a sitting drum. Single character, full body, slight three-quarter, plain light grey, soft studio light, real product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no muscles, no sharp painful spikes, no real brand or team logos.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-01",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开直挺吉祥竹。识别：塌节+绿绒缝。不普通。材质对比。配色克制。少见。夸张在歪节。",
+  "pose": "坐"
+}

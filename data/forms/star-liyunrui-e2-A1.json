@@ -1,0 +1,81 @@
+{
+  "ip": "star-liyunrui-e2",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "根下压着石块的小树苗",
+  "species": "小树苗",
+  "axes": {
+    "archetype": "物件生物，树苗",
+    "silhouette": "短干加三片钝叶",
+    "mark": "根际 · 一块压住的圆角石",
+    "face": "半垂眼在第一片叶脉交汇下",
+    "emotion": "内收，还在挪",
+    "fusion": "树苗是身体，石块长进根盘成为底座的一部分，不是旁置",
+    "material": "主体植绒绿叶，只有石是粗陶",
+    "palette": "嫩绿配石灰，石边一丝森林绿苔"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "叶簇为头，短干为颈身",
+  "combo": "三钝叶 + 根盘嵌石 + 半垂眼 + 苔边",
+  "odd": "石头不是摆件，是根盘",
+  "line": "",
+  "why": "方向未亮脚先走：石很沉，苗仍直立微前倾。",
+  "spec": {
+    "proportion": "全高约是根盘宽的 1.4 倍",
+    "outline": "三角叶簇压在圆根盘上",
+    "volume": "大：石+根盘；中：叶；小：短干",
+    "face": "眼在主叶下沿",
+    "stance": "微前倾，定格在抬步前",
+    "structure": "石嵌进根盘凹槽"
+  },
+  "toy_check": "站得住：宽根盘。石长进根。特殊材质粗陶石。新组合：压石树苗仍前倾。",
+  "crop": "头像含主叶与石上沿。",
+  "collide": "不同于励志发芽插画：无阳光字，无奔跑。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      ""
+    ],
+    [
+      "简化",
+      "待出图验证",
+      ""
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      ""
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      ""
+    ]
+  ],
+  "zh": "原创潮玩角色，一棵小树苗和一块圆角石长在一起：三片钝叶植绒嫩绿，短干，根盘嵌着一块粗陶灰石，石边一丝森林绿苔，石是底座一部分。半垂小黑豆眼在主叶下。微微前倾却立定。单个角色完整全身，正面略侧，浅灰背景，棚拍光，真实产品照。 不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要肌肉，不要尖刺扎手，不要写成现有品牌或运动队标识。",
+  "enp": "Original designer toy character: a sprout fused with a rounded stone — three blunt flocked leaves, a short trunk, and a root disc that locks in a coarse ceramic grey stone edged with a hint of forest-green moss; the stone is part of the base. Half-lidded bead eyes under the main leaf. Slight forward lean but planted. Single character, full body, slight three-quarter, plain light grey, soft studio light, real product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no muscles, no sharp painful spikes, no real brand or team logos.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-01",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开励志插画。识别：根盘嵌石。不普通。陶石材质。配色清楚。少见。夸张在石占比。",
+  "pose": "微前倾立定"
+}

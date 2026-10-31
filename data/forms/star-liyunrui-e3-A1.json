@@ -1,0 +1,81 @@
+{
+  "ip": "star-liyunrui-e3",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "背脊是刻度的木尺兽",
+  "species": "刻度尺",
+  "axes": {
+    "archetype": "物件生物，木尺",
+    "silhouette": "竖长扁尺",
+    "mark": "背脊 · 一条固定刻度槽",
+    "face": "半垂眼在尺面上端",
+    "emotion": "内收，不挪线",
+    "fusion": "尺身是身体，刻度槽长进背脊，不是手持文具",
+    "material": "主体椴木哑光，只有刻度槽填森林绿搪胶",
+    "palette": "原木色配森林绿刻度"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "扁长尺面为脸所在",
+  "combo": "竖扁尺 + 背脊绿刻度槽 + 半垂眼 + 短横脚",
+  "odd": "刻度不印在贴纸上，是挖槽",
+  "line": "",
+  "why": "数量上来刻度不移。尺来自本人「标准不变」。",
+  "spec": {
+    "proportion": "全高约是身宽的 2.5 倍",
+    "outline": "竖长圆角矩形",
+    "volume": "大：尺身；中：刻度槽；小：脚",
+    "face": "眼在上端三分之一",
+    "stance": "底边站稳，略后仰靠刻度",
+    "structure": "刻度是凹槽嵌绿料"
+  },
+  "toy_check": "站得住：厚底。尺是身体。特殊材质绿搪胶刻度。新组合：背脊刻度生物。",
+  "crop": "头像要含一段刻度。",
+  "collide": "不同于文具拟人：没有手持，刻度是背。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      ""
+    ],
+    [
+      "简化",
+      "待出图验证",
+      ""
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      ""
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      ""
+    ]
+  ],
+  "zh": "原创潮玩角色，一把木尺长成身体：竖长圆角椴木哑光尺身，背脊挖出一条刻度槽，槽里填森林绿搪胶，刻度固定不挪。半垂小黑豆眼在尺面上端，底边站稳。单个角色完整全身，正面略侧，浅灰背景，棚拍光，真实产品照。 不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要肌肉，不要尖刺扎手，不要写成现有品牌或运动队标识。",
+  "enp": "Original designer toy character: a wooden ruler as the body — a tall rounded-rect basswood matte slab with a measurement groove dug into the spine and filled with forest-green vinyl so the marks cannot move. Half-lidded bead eyes on the upper face; stands on the bottom edge. Single character, full body, slight three-quarter, plain light grey, soft studio light, real product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no muscles, no sharp painful spikes, no real brand or team logos.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-01",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开文具人。识别：背脊绿刻度槽。不普通。材质对比。配色。少见。夸张在竖长。",
+  "pose": "站"
+}

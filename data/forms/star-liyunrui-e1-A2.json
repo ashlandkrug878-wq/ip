@@ -1,0 +1,81 @@
+{
+  "ip": "star-liyunrui-e1",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "年轮坐面的短树桩",
+  "species": "树桩",
+  "axes": {
+    "archetype": "物件生物，树桩",
+    "silhouette": "矮圆柱，顶面斜切",
+    "mark": "顶面 · 一圈偏心年轮凹槽",
+    "face": "半垂豆眼开在桩壁，不是年轮里",
+    "emotion": "内收，下班",
+    "fusion": "桩身是身体，顶面年轮是坐面不是脸，一侧有小钝枝当耳位",
+    "material": "主体短绒树皮，只有顶面年轮是硬木抛光",
+    "palette": "灰褐配一圈森林绿细年轮"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "桩壁即脸所在，顶面是平坐面",
+  "combo": "矮圆柱 + 偏心年轮坐面 + 壁上半垂眼 + 灰褐对绿圈",
+  "odd": "眼睛不开在年轮里，年轮是坐面",
+  "line": "",
+  "why": "关了镜头像坐回桩上。木来自小森林与小林。",
+  "spec": {
+    "proportion": "全高约是身宽的 0.9 倍",
+    "outline": "短圆柱，顶斜 10 度",
+    "volume": "大：桩身；中：顶面硬木；小：钝枝耳",
+    "face": "眼在壁面上三分之一，半垂",
+    "stance": "稳坐，无腿或两粒根瘤脚",
+    "structure": "年轮层是顶盖，嵌进桩口"
+  },
+  "toy_check": "站得住：平底。物件长进：桩是身体。特殊材质只有硬木顶。新组合：年轮是坐面不是脸。",
+  "crop": "头像裁壁上的眼和顶沿一角年轮。",
+  "collide": "不同于微笑树桩表情包：年轮不作五官。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      ""
+    ],
+    [
+      "简化",
+      "待出图验证",
+      ""
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      ""
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      ""
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短树桩长成身体：灰褐短绒树皮圆柱，顶面是一块抛光硬木，偏心年轮凹槽里描一条森林绿细线，年轮是坐面不是脸。半垂小黑豆眼开在桩壁上，一侧一截钝枝。稳坐。单个角色完整全身，正面略侧，浅灰背景，棚拍光，真实搪胶毛绒产品照。 不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要肌肉，不要尖刺扎手，不要写成现有品牌或运动队标识。",
+  "enp": "Original designer toy character: a short tree-stump body in grey-brown short plush bark; the top is a polished hard-wood seat with eccentric growth rings edged by a thin forest-green line — the rings are a seat, not a face. Half-lidded bead eyes sit on the stump wall, one blunt twig at the side. Stable seated pose. Single character, full body, slight three-quarter, plain light grey, soft studio light, real vinyl-plush product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no muscles, no sharp painful spikes, no real brand or team logos.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-01",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开年轮人脸。识别：壁眼+绿年轮坐面。不普通。材质硬木顶。配色清楚。少见组合。夸张在顶面。",
+  "pose": "坐"
+}

@@ -1,0 +1,81 @@
+{
+  "ip": "star-liyunrui-e1",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "肩线塌下一截的篮球坐兽",
+  "species": "篮球",
+  "axes": {
+    "archetype": "物件生物，篮球",
+    "silhouette": "圆球坐姿，一侧肩弧塌",
+    "mark": "右上 · 一条可卸的硬橡胶边条",
+    "face": "半垂小黑豆眼，极小一字嘴",
+    "emotion": "内收，松开",
+    "fusion": "球皮就是身体，气门芯嵌在侧后，肩弧一块硬边条像卸下的护具",
+    "material": "主体磨砂球皮橡胶，只有硬边条是亮面橡胶",
+    "palette": "土橙配森林绿细边"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "圆球即头身，几乎无颈，顶部略平",
+  "combo": "塌肩圆球 + 侧后气门芯 + 一条亮面硬边 + 半垂豆眼",
+  "odd": "肩上的硬边比脸还清楚，像刚卸下来仍挂在轮廓上",
+  "line": "",
+  "why": "没镜头时肩可放。球来自本人爱好，硬边是「卸下」的结构种子，不是运动品牌。",
+  "spec": {
+    "proportion": "全高约等于球径，脸只占上部 35%",
+    "outline": "正圆略压扁，右上轮廓缺一截又贴回一条硬边",
+    "volume": "大：球体；中：硬边条；小：气门芯和短脚垫",
+    "face": "眼在球高中线略上，半垂，眼距约一个眼宽",
+    "stance": "坐在自己的球底上，短脚垫藏在赤道下",
+    "structure": "硬边条嵌进球皮槽，拿掉它肩弧就塌得更圆"
+  },
+  "toy_check": "站得住：坐在球底。物件长进去：球皮是身体。特殊材质只有亮面边条。新组合：塌肩的球。不像绘本：无大眼无笑。头像要裁到硬边。做得成：厚边不是薄片。姿态：坐，不是运球。",
+  "crop": "记忆点在右上硬边。头像必须裁进这条边。",
+  "collide": "不同于微笑篮球吉祥物：没有笑，没有球衣，肩线是塌的。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      ""
+    ],
+    [
+      "简化",
+      "待出图验证",
+      ""
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      ""
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      ""
+    ]
+  ],
+  "zh": "原创潮玩角色，一只磨砂橡胶篮球和一条硬边长在一起：球皮就是身体，右上嵌着一条比脸更醒目的亮面硬橡胶边，像刚卸下仍挂在轮廓上的护具，侧后有一枚短气门芯。全高约等于球径，几乎无颈。半垂小黑豆眼，极小一字嘴，神情松开。坐在自己的球底上。配色土橙为主，只有硬边是一条森林绿。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实搪胶产品照。 不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要肌肉，不要尖刺扎手，不要写成现有品牌或运动队标识。",
+  "enp": "Original designer toy character: a matte rubber basketball body fused with a hard glossy rim strip set into the upper right silhouette like gear just taken off, plus a short valve stem at the back side. Height about the ball diameter, almost no neck. Half-lidded black bead eyes, tiny straight mouth, a loosened calm look. Seated on its own bottom curve. Main color clay orange; only the hard strip is a thin forest-green accent. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, real vinyl toy product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no muscles, no sharp painful spikes, no real brand or team logos.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-01",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：不是球衣吉祥物。识别：塌肩硬边。不普通：边是身体轮廓。材质只有亮边。土橙对森林绿。组合少见。夸张在肩弧。",
+  "pose": "坐"
+}

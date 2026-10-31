@@ -1,0 +1,81 @@
+{
+  "ip": "star-liyunrui-e2",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "木芯缠进线团的毛线森林",
+  "species": "毛线森林团",
+  "axes": {
+    "archetype": "物件生物，毛线团",
+    "silhouette": "乱圆线团",
+    "mark": "中心 · 一截探出的短木芯",
+    "face": "半垂眼陷在线层里",
+    "emotion": "内收，还在绕",
+    "fusion": "线团是身体，短木芯从圆心长出成为轴，不是旁边插的棒",
+    "material": "主体粗毛线，只有木芯是哑光原木",
+    "palette": "乳白线配森林绿线段，木芯原色"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "线团即头身",
+  "combo": "乱圆线团 + 中心短木芯 + 陷进线层的眼 + 绿线段",
+  "odd": "木芯是轴不是工具",
+  "line": "",
+  "why": "小森林的可握版：还在绕，但轴已经在。",
+  "spec": {
+    "proportion": "全高约等于团径",
+    "outline": "不规则圆团",
+    "volume": "大：线团；中：木芯；小：眼",
+    "face": "眼嵌线层凹坑",
+    "stance": "团底压平可坐",
+    "structure": "木芯贯穿圆心"
+  },
+  "toy_check": "站得住：压平底。线团是身体。特殊材质原木芯。新组合：木轴线团。",
+  "crop": "头像必须露出木芯端。",
+  "collide": "不同于普通毛线猫咪：无线球玩具棒，木芯是轴。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      ""
+    ],
+    [
+      "简化",
+      "待出图验证",
+      ""
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      ""
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      ""
+    ]
+  ],
+  "zh": "原创潮玩角色，一团粗毛线和一截短木芯长在一起：乳白线团里绕进几股森林绿线，圆心穿出一截哑光原木芯当轴，半垂小黑豆眼陷在线层凹坑里。团底压平可坐。单个角色完整全身，正面略侧，浅灰背景，棚拍光，真实产品照。 不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要肌肉，不要尖刺扎手，不要写成现有品牌或运动队标识。",
+  "enp": "Original designer toy character: a chunky yarn ball fused with a short matte wood core through the center as an axle; mostly off-white yarn with a few forest-green strands. Half-lidded bead eyes sunk in a yarn pocket. Flattened bottom so it sits. Single character, full body, slight three-quarter, plain light grey, soft studio light, real product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no muscles, no sharp painful spikes, no real brand or team logos.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-01",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开毛线猫。识别：穿心木轴。不普通。原木材质。配色。少见。夸张在木芯比例。",
+  "pose": "坐"
+}
