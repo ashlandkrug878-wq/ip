@@ -1,0 +1,450 @@
+{
+  "id": "ribodiary",
+  "name": "RiboDiary 森林伙伴（含瑞宝 Bearibo）",
+  "aliases": [
+    "Ribo Diary",
+    "RIBO DIARY",
+    "瑞宝",
+    "Bearibo",
+    "ベアリボ",
+    "リボダイアリー",
+    "리보다이어리",
+    "Peippi",
+    "佩皮",
+    "Iceymel",
+    "艾斯弥尔",
+    "Furrychiii",
+    "芙伊绮",
+    "Memicchi",
+    "玫米琪",
+    "Joeius",
+    "乔恩斯"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-10-31",
+  "updated": "2026-10-31",
+  "summary": "森林日常由被窝、衣装、手作与群像分工落到产品；官方功能证据清楚，近期讨论可核，规模与增长因果未知。",
+  "owner": {
+    "creator": null,
+    "operator": "POP MART／泡泡玛特",
+    "relation": "官方发售与运营可核；自然人作者与全部权利链未知，不因品牌字段认定买断",
+    "since": null,
+    "sources": [
+      "R01",
+      "R02",
+      "R03"
+    ]
+  },
+  "origin": {
+    "path": [
+      "其他"
+    ],
+    "year": null,
+    "story": "已取得当前官方森林日常设定；早期人偶/艺术家手作/首实体商品的先后未由原始资料核清。不是因名称Diary就判绘本出版起源。",
+    "sources": [
+      "R01",
+      "R10",
+      "R18"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2026-06-10",
+      "event": "独立用户已讨论Bearibo；只是公开存在的线索，非首创日",
+      "type": "fact",
+      "sources": [
+        "R10"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "event": "近期独立线程讨论Ribo Diary及成员",
+      "type": "fact",
+      "sources": [
+        "R09"
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "event": "官方发布毛绒挂件发售与中国售价",
+      "type": "self_report",
+      "sources": [
+        "R14"
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "event": "官方发布手办可动/被子/中国售价",
+      "type": "self_report",
+      "sources": [
+        "R01"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "event": "中国22:00线上发售节点；美国官网另写17:00 PST，分地区并存",
+      "type": "self_report",
+      "sources": [
+        "R01",
+        "R02"
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "event": "中国线下发售节点；不等于全IP首售",
+      "type": "self_report",
+      "sources": [
+        "R01"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "慢一点也没关系，和朋友一起给今天一点勇气。",
+    "sentence_type": "陪伴",
+    "basis": "inferred",
+    "sources": [
+      "R08",
+      "R01"
+    ]
+  },
+  "core": {
+    "personality": "害羞／好奇／友善",
+    "emotion": "内收",
+    "action": "醒来、相聚、手作、读书；成员性格不同",
+    "basis": "inferred"
+  },
+  "insight": {
+    "scene": "日常开始、居家陈列与随身携带",
+    "behavior": "选择偏爱的伙伴、摆放被窝、换装与抽重求交换",
+    "state": "想慢慢进入世界，也想有朋友",
+    "conflict": "软萌相似性带来熟悉感，也可能削弱独特记忆",
+    "unsaid": "不用一下子变勇敢，先有个小小陪伴",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "近期公开收藏讨论者；人群规模比例未知",
+    "where": "公开收藏论坛、官方零售及乐园线索",
+    "buy": "一名评论者自述抽重；无订单可核",
+    "signs": "对物种、复古气质、某个成员有偏好；不是所有人都因害羞购买",
+    "share": "讨论图、询问交换；成交与复购未知",
+    "breakout": "跨载体渠道增加接触，但没有破圈率"
+  },
+  "pendulum": {
+    "position": "软萌治愈",
+    "against": "研究定位：以复古动物与日常友情提供低冲突接触；没有证明是对行业主流的反动"
+  },
+  "form": {
+    "archetype": "动物类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "五官",
+      "整体轮廓"
+    ],
+    "mark": "圆润大头、淡色脸区与突腮颊，眼内四叶状图案；物种耳喙和尾巴负责成员差异",
+    "face": "眼睛低于额部较大留白，深色椭圆眼、鼻/喙、小笑与腮颊；企鹅与熊不共用鼻嘴结构",
+    "emotion": "内收",
+    "odd": "复古动物脸与当代可动/随身产品组合；不声称元素独有",
+    "density": "中等",
+    "naming": "其他",
+    "group": "角色群"
+  },
+  "collide_combo": "不要照搬棕熊双叶脸区＋突出腮颊＋四叶状眼点＋红巾蓝背带裤的整套当款组合；耳、腮红各自是公共元素。",
+  "color": {
+    "mode": "多色系列",
+    "main": "熊棕/奶油脸；企鹅黑白；兔淡粉；衣装另分",
+    "signature": "四叶眼点与同族脸区关系为研究候选，非唯一固定色",
+    "notes": "取样只对V04原图1200×1200；暖光/毛面阴影影响，不能作生产色号"
+  },
+  "materials": "手办、毛绒挂件、玩偶包、背包与擦手巾按SKU分列，PVC、聚酯、金属等材料不互相替代",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "线下人偶"
+  },
+  "product": {
+    "first_category": null,
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "已核中国手办69元/挂件129元；美国15.99–99.99 USD代表载体，非同口径横比",
+    "sources": [
+      "R01",
+      "R14",
+      "R08"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "中国手办常规款数量",
+      "value": 6,
+      "unit": "款",
+      "period": "2026-10-27发布",
+      "type": "self_report",
+      "sources": [
+        "R01"
+      ]
+    },
+    {
+      "metric": "单IP净销量/营收/利润/复购",
+      "value": null,
+      "unit": null,
+      "period": null,
+      "type": "fact",
+      "sources": [
+        "R02",
+        "R11"
+      ],
+      "note": "未取得，缺货不代销量"
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "把“清晨醒来参加聚会”做成可动玩偶与被窝摆放玩法",
+      "type": "inference",
+      "evidence": "官方公告明确可动及刺绣被子，所看手办场景用床/读书/手作延展日常",
+      "boundary": "功能与故事对应有证据；未证明因此带来转化、复购或安抚效果，陈列摄影也可能贡献吸引力",
+      "sources": [
+        "R01",
+        "R02"
+      ]
+    },
+    {
+      "claim": "群像以共同脸部语言维持家族感，同时让用户选择某一成员",
+      "type": "inference",
+      "evidence": "官方角色列表和所看熊/企鹅/兔图像支持共享语言；独立评论有只关注Joeius、抽重Iceymel求交换",
+      "boundary": "仅一条公开线程的少量账号；交换意向不等于成交，共同脸部也有眼熟/辨识度风险",
+      "sources": [
+        "R02",
+        "R09"
+      ]
+    }
+  ],
+  "counterexamples": "一条独立线程同时有成员偏好和眼熟意见；作者合作说法后来说明是听闻，不用其消除所有争议。未找到已核失败SKU/退坑调查；未找到不等于不存在。",
+  "theory": {
+    "shell": "圆润复古动物脸＋物种轮廓＋家族眼部语言",
+    "core": "官方友情与勇气设定；不同成员的日常分工",
+    "shadow": "圆耳、腮红、背带裤等公共元素较多；用户的眼熟联想提示需检验身份辨识，不能直接作抄袭判断",
+    "two_layers": {
+      "surface": "熟悉复古动物与触感想象",
+      "deep": "特定成员、日常分工与摆放/交换行为"
+    },
+    "validation": "官方发售/产品配置可核；抽重与交换是自述/意向；没有独立销量、增长或复购证据"
+  },
+  "for_skills": {
+    "lab": "可研究把小勇气落在具体日常而非泛泛治愈；先验证目标人群是否有相应需要，不能从设定反推动机。",
+    "form": "可借家族共享语言＋物种差异机制；需检验剪影/头像/去衣装后识别，不能搬专属脸与眼点组合。",
+    "studio": "内容动作可映射到被窝、服装、可动与随身载体；各SKU独立核材料和尺寸，陈列热闹不代表购买或复购。"
+  },
+  "gaps": [
+    "自然人作者、最初草稿、首条公开原作、完整著作权/商标/授权合同未核；ribo及中文姓名仅保留线索，不从AI汇编确认。",
+    "6月用户已讨论Bearibo，8月雪糕帖正文有日期但未显年份；10月森林欢聚日不能当全IP诞生/首售。",
+    "小红书连接返回Unknown tool；RiboDiary 品牌介绍与RiboDiary 产品汇总两组未执行，实读0篇。",
+    "独立用户样本来自1条近期线程的6位账号和1条早期讨论；未随机抽样，无中国用户年龄/性别比例、全平台排名或复购率。",
+    "第三方显示英国/美国缺货；英国官方读取为选项未加载，不能直接证实售罄或售罄速度；首批库存与销量均null。",
+    "已看7张官方原图，未覆盖所有成员全部视角和早期人偶影像；未读实体绘本，未核出版物ISBN，不把绘本感等同绘本起源。",
+    "平面只英文附图V2的特定款式可见身份接近；额毛/眼/腮颊有轻微差别，仍有微渐层/纸纹；纯文字、中文、重复稳定性未测。",
+    "原图不公开打包；内部结构、绒感、承重、耐用性、清洗与关节寿命未实测，成本利润未知。"
+  ],
+  "sources": [
+    {
+      "id": "R01",
+      "title": "森林欢聚日手办官方发布",
+      "url": "https://www.sina.cn/news/detail/5358601535489750.html",
+      "publisher": "POPMART泡泡玛特认证账号",
+      "published": "2026-10-27",
+      "observed": "2026-10-31",
+      "access": "partial",
+      "note": "读取主帖，不把下面的其他转发文章算该IP证据"
+    },
+    {
+      "id": "R02",
+      "title": "美国官网手办详情",
+      "url": "https://www.popmart.com/us/products/9420/ribodiary-forest-gathering-day-series-figures",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "full",
+      "note": null
+    },
+    {
+      "id": "R03",
+      "title": "美国官网毛绒挂件详情",
+      "url": "https://www.popmart.com/us/products/9418/ribodiary-forest-gathering-day-series-plush-doll-pendant",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "full",
+      "note": null
+    },
+    {
+      "id": "R04",
+      "title": "美国官网玩偶包瑞宝详情",
+      "url": "https://www.popmart.com/us/products/9417/ribodiary-forest-gathering-day-series-plush-doll-bag-bearibo",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "full",
+      "note": null
+    },
+    {
+      "id": "R05",
+      "title": "美国官网迷你包详情",
+      "url": "https://www.popmart.com/us/products/9419/ribodiary-forest-gathering-day-series-plush-mini-bag",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "full",
+      "note": null
+    },
+    {
+      "id": "R06",
+      "title": "美国官网背包瑞宝详情",
+      "url": "https://www.popmart.com/us/products/9415/ribodiary-forest-gathering-day-series-backpack-bearibo",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "full",
+      "note": null
+    },
+    {
+      "id": "R07",
+      "title": "美国官网擦手巾详情",
+      "url": "https://www.popmart.com/us/products/9416/ribodiary-forest-gathering-day-series-hand-towel",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "full",
+      "note": null
+    },
+    {
+      "id": "R08",
+      "title": "美国官网角色商品集合",
+      "url": "https://www.popmart.com/us/collection/ribodiary",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "full",
+      "note": "价格采用本集合观察页价，非海外统一价"
+    },
+    {
+      "id": "R09",
+      "title": "近期独立用户讨论：Is this a new IP",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1xbdmcg/is_this_a_new_ip/",
+      "publisher": "Reddit / KitchenLoan6",
+      "published": "2026-10-21",
+      "observed": "2026-10-31",
+      "access": "partial",
+      "note": "搜索给绝对日期，打开页10d ago；选取主线程六位账号评论，不包括相关推荐，不展开隐藏回复"
+    },
+    {
+      "id": "R10",
+      "title": "早期用户讨论：NEW IP Bearibo",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1u2fbh4/new_ip_bearibo/",
+      "publisher": "Reddit / Technical-Search-359",
+      "published": "2026-06-10",
+      "observed": "2026-10-31",
+      "access": "partial",
+      "note": "页面4mo ago；作者和旧合作的说法是用户线索，不直接填权属"
+    },
+    {
+      "id": "R11",
+      "title": "第三方零售状态追踪",
+      "url": "https://getshelfd.app/ips/ribodiary/series/ribodiary-forest-gathering-day-series-figures",
+      "publisher": "Shelfd",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "partial",
+      "note": "有联盟链接；Out of stock与估算全套价不是净销量，不采用隐藏款2.5倍估价"
+    },
+    {
+      "id": "R12",
+      "title": "英国官网对应商品页",
+      "url": "https://www.popmart.com/gb/products/ribodiary-forest-gathering-day-series-figures/46aec911-4bb3-4553-a903-466e84aa6a24",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "partial",
+      "note": "仅见Please select an option，未读出明确可购/缺货；第三方缺货未获直接确认"
+    },
+    {
+      "id": "R13",
+      "title": "群像人设及载体发布稿",
+      "url": "https://www.freestyle666.com/m/view.php?aid=30229",
+      "publisher": "freestyle潮流网",
+      "published": "2026-10-27",
+      "observed": "2026-10-31",
+      "access": "full",
+      "note": "公关稿性质，设定/功能为品牌自述的媒体转述；非独立用户实测"
+    },
+    {
+      "id": "R14",
+      "title": "毛绒挂件中国售价与发售公告",
+      "url": "https://www.sina.cn/news/detail/5357250022746194.html",
+      "publisher": "POPMART泡泡玛特认证账号",
+      "published": "2026-10-23",
+      "observed": "2026-10-31",
+      "access": "partial",
+      "note": "主帖与可见相关帖子分开，不转录其他IP和投资内容"
+    },
+    {
+      "id": "R15",
+      "title": "设计师姓名线索的AI汇编",
+      "url": "https://post.smzdm.com/p/aggrpx0m/",
+      "publisher": "什么值得买AIGC汇编",
+      "published": "2026-06-29",
+      "observed": "2026-10-31",
+      "access": "partial",
+      "note": "页面明确内容由AI生成；不采用作者姓名、全网无差评、其他IP销售数字等作为事实"
+    },
+    {
+      "id": "R16",
+      "title": "日文作家博客候选",
+      "url": "https://ribonetta.blog133.fc2.com/",
+      "publisher": "ribo",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "blocked",
+      "note": "检索摘要有羊毛毡创作与旧书名；打开重定向循环。无法凭此把该作家确认成RiboDiary作者"
+    },
+    {
+      "id": "R17",
+      "title": "日文官方毛绒挂件规格",
+      "url": "https://www.popmart.com/jp/pop-now/box-set/ribodiary-forest-gathering-day-series-plush-doll-pendant/1e0e1c16-f5e9-4ae5-a242-69566a89fe78",
+      "publisher": "POP MART Japan",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "snippet_only",
+      "note": "搜索可见规格，打开不可访问；原产国等不移用至美国SKU"
+    },
+    {
+      "id": "R18",
+      "title": "已有雪糕发布线索",
+      "url": "https://weibo.com/2/detail/5334004346916539",
+      "publisher": "POPMART泡泡玛特认证账号",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "partial",
+      "note": "正文显示8月20日及9月25日，年份未显；不单凭此锁定全IP首售日"
+    },
+    {
+      "id": "R19",
+      "title": "韩国媒体近期发布",
+      "url": "https://m.ktnews.com/news/articleView.html?idxno=149788",
+      "publisher": "韩国纤维新闻",
+      "published": "2026-10-30",
+      "observed": "2026-10-31",
+      "access": "snippet_only",
+      "note": "摘要可读，正文403；作为发布传播线索，不计第二类独立需求证据"
+    }
+  ],
+  "archive": "research/ribodiary/2026-10-31/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/",
+  "prompt_validation": {
+    "status": "ready",
+    "mode": "英文附图V2",
+    "scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
+    "strict_flat_fill": "not_passed",
+    "text_only": "not_tested",
+    "tests": "research/ribodiary/2026-10-31/prompt-tests.json"
+  }
+}

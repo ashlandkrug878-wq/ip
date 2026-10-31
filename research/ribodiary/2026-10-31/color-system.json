@@ -1,0 +1,126 @@
+[
+  {
+    "palette_id": "bearibo-pendant-photo",
+    "color_id": "C01",
+    "name": "棕色毛面",
+    "role": "主色",
+    "scope": "Bearibo当前常规挂件",
+    "classification": "series_palette；白脸棕耳关系另为recurring_identity候选",
+    "hex_preview": "#AF8056",
+    "value_basis": "图像取样",
+    "surface_or_region": "棕色毛面",
+    "image_ids": [
+      "V04"
+    ],
+    "evidence_ids": [
+      "R03"
+    ],
+    "sample_method": "Pillow RGB原图单像素，坐标左上起；不取背景",
+    "original_dimensions": [
+      1200,
+      1200
+    ],
+    "sample_coordinates_or_mask": [
+      600,
+      290
+    ],
+    "area_description": "面积未分割；仅定性位置",
+    "area_basis": "not_measured",
+    "material_context": "毛绒/脸区/衣料照片受暖光与局部阴影影响",
+    "variation_boundary": "不能把睡帽、糖果款芥黄裤或其他物种颜色固定成全IP规范",
+    "uncertainty": "非官方色号、非Pantone、非打样标准"
+  },
+  {
+    "palette_id": "bearibo-pendant-photo",
+    "color_id": "C02",
+    "name": "浅奶油粉脸区",
+    "role": "中性色/脸",
+    "scope": "Bearibo当前常规挂件",
+    "classification": "series_palette；白脸棕耳关系另为recurring_identity候选",
+    "hex_preview": "#F7DACA",
+    "value_basis": "图像取样",
+    "surface_or_region": "浅奶油粉脸区",
+    "image_ids": [
+      "V04"
+    ],
+    "evidence_ids": [
+      "R03"
+    ],
+    "sample_method": "Pillow RGB原图单像素，坐标左上起；不取背景",
+    "original_dimensions": [
+      1200,
+      1200
+    ],
+    "sample_coordinates_or_mask": [
+      540,
+      490
+    ],
+    "area_description": "面积未分割；仅定性位置",
+    "area_basis": "not_measured",
+    "material_context": "毛绒/脸区/衣料照片受暖光与局部阴影影响",
+    "variation_boundary": "不能把睡帽、糖果款芥黄裤或其他物种颜色固定成全IP规范",
+    "uncertainty": "非官方色号、非Pantone、非打样标准"
+  },
+  {
+    "palette_id": "bearibo-pendant-photo",
+    "color_id": "C03",
+    "name": "暗红领巾",
+    "role": "辅色",
+    "scope": "当款衣装",
+    "classification": "series_palette；白脸棕耳关系另为recurring_identity候选",
+    "hex_preview": "#A00910",
+    "value_basis": "图像取样",
+    "surface_or_region": "暗红领巾",
+    "image_ids": [
+      "V04"
+    ],
+    "evidence_ids": [
+      "R03"
+    ],
+    "sample_method": "Pillow RGB原图单像素，坐标左上起；不取背景",
+    "original_dimensions": [
+      1200,
+      1200
+    ],
+    "sample_coordinates_or_mask": [
+      650,
+      550
+    ],
+    "area_description": "面积未分割；仅定性位置",
+    "area_basis": "not_measured",
+    "material_context": "毛绒/脸区/衣料照片受暖光与局部阴影影响",
+    "variation_boundary": "不能把睡帽、糖果款芥黄裤或其他物种颜色固定成全IP规范",
+    "uncertainty": "非官方色号、非Pantone、非打样标准"
+  },
+  {
+    "palette_id": "bearibo-pendant-photo",
+    "color_id": "C04",
+    "name": "深靛蓝背带裤",
+    "role": "辅色",
+    "scope": "当款衣装",
+    "classification": "series_palette；白脸棕耳关系另为recurring_identity候选",
+    "hex_preview": "#110F1A",
+    "value_basis": "图像取样",
+    "surface_or_region": "深靛蓝背带裤",
+    "image_ids": [
+      "V04"
+    ],
+    "evidence_ids": [
+      "R03"
+    ],
+    "sample_method": "Pillow RGB原图单像素，坐标左上起；不取背景",
+    "original_dimensions": [
+      1200,
+      1200
+    ],
+    "sample_coordinates_or_mask": [
+      600,
+      800
+    ],
+    "area_description": "面积未分割；仅定性位置",
+    "area_basis": "not_measured",
+    "material_context": "毛绒/脸区/衣料照片受暖光与局部阴影影响",
+    "variation_boundary": "不能把睡帽、糖果款芥黄裤或其他物种颜色固定成全IP规范",
+    "uncertainty": "非官方色号、非Pantone、非打样标准"
+  }
+]

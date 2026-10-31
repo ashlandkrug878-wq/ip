@@ -1,0 +1,128 @@
+[
+  {
+    "id": "P01",
+    "name": "Forest Gathering Day植绒手办盲盒",
+    "region": "中国",
+    "released": "2026-10-29 22:00线上；10-30线下（北京时间）",
+    "price": 69,
+    "currency": "CNY",
+    "tax": null,
+    "size": null,
+    "material": "长短绒结合植绒；头部可左右各约90°，手脚可动；配姓名刺绣被子（官方自述）",
+    "configuration": "6常规＋1隐藏；公告常规1:6，隐藏1:72；整套414元，不能推为含全部隐藏款",
+    "sources": [
+      "R01"
+    ]
+  },
+  {
+    "id": "P02",
+    "name": "Forest Gathering Day手办",
+    "region": "美国",
+    "released": "2026-10-29 17:00 PST（原页写法，不擅改时区）",
+    "price": 19.99,
+    "currency": "USD",
+    "tax": "税费未另核",
+    "size": "高8–10cm",
+    "material": "PVC / Nylon / Polyester / PU；未取得各部位BOM",
+    "configuration": "系列含六个常规角色及糖果瑞宝，见官方图列；不等于每盒七体",
+    "sources": [
+      "R02",
+      "R08"
+    ]
+  },
+  {
+    "id": "P03",
+    "name": "Forest Gathering Day毛绒公仔挂件盲盒",
+    "region": "中国",
+    "released": "2026-10-29 22:00线上；10-30线下",
+    "price": 129,
+    "currency": "CNY",
+    "tax": null,
+    "size": null,
+    "material": "品类为毛绒公仔挂件；不把手办规格套入",
+    "configuration": "6常规＋1隐藏；公告常规1:6，隐藏1:72；整套774元",
+    "sources": [
+      "R14"
+    ]
+  },
+  {
+    "id": "P04",
+    "name": "Forest Gathering Day毛绒挂件",
+    "region": "美国",
+    "released": "2026-10-29 17:00 PST（原页）",
+    "price": 29.99,
+    "currency": "USD",
+    "tax": "税费未另核",
+    "size": "足至头顶约13.5–14.5cm；不含配件/耳/挂绳/挂环",
+    "material": "Polyester / PVC / ABS / POM / Polyamide；填充聚酯纤维/塑料颗粒",
+    "configuration": "不同成员面部与衣装分别核；不推手办材料或脚长",
+    "sources": [
+      "R03",
+      "R08"
+    ]
+  },
+  {
+    "id": "P05",
+    "name": "玩偶包 — Bearibo",
+    "region": "美国",
+    "released": "2026-10-29 17:00 PST（原页）",
+    "price": 99.99,
+    "currency": "USD",
+    "tax": "税费未另核",
+    "size": "足至头顶约35cm，不含帽",
+    "material": "Polyester / Zinc Alloy / PVC / ABS；填充聚酯纤维",
+    "configuration": "金棕背带裤糖果主题；单体包，不当作隐藏盲盒款",
+    "sources": [
+      "R04",
+      "R08"
+    ]
+  },
+  {
+    "id": "P06",
+    "name": "毛绒迷你包系列",
+    "region": "美国",
+    "released": "2026-10-29 17:00 PST（原页）",
+    "price": 27.99,
+    "currency": "USD",
+    "tax": "税费未另核",
+    "size": "约15–19.5cm",
+    "material": "Polyester / Zinc Alloy；填充聚酯纤维",
+    "configuration": "不可将包体尺寸套毛绒挂件",
+    "sources": [
+      "R05",
+      "R08"
+    ]
+  },
+  {
+    "id": "P07",
+    "name": "背包 — Bearibo",
+    "region": "美国",
+    "released": "2026-10-29 17:00 PST（原页）",
+    "price": 59.99,
+    "currency": "USD",
+    "tax": "税费未另核",
+    "size": "约30cm高",
+    "material": "Polyester / Zinc Alloy / PVC / Nylon；填充聚酯纤维/PU/EVA",
+    "configuration": "官方图有透明展示窗，图中玩偶不包含；照片不证明最大容量",
+    "sources": [
+      "R06",
+      "R08"
+    ]
+  },
+  {
+    "id": "P08",
+    "name": "擦手巾系列",
+    "region": "美国",
+    "released": "2026-10-29 17:00 PST（原页）",
+    "price": 15.99,
+    "currency": "USD",
+    "tax": "税费未另核",
+    "size": "约26–30cm高，不含织带",
+    "material": "100% Polyester；部分附件ABS；填充100%聚酯纤维",
+    "configuration": "日用品载体；未触摸、不作吸水性或耐洗评价",
+    "sources": [
+      "R07",
+      "R08"
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "prompt_id": "ribodiary-bearibo-flat-ref-v1",
+    "version": 1,
+    "subject_id": "ribodiary",
+    "target_scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
+    "carrier": "平面研究转绘",
+    "exact_prompt": "Create a flat 2D research illustration of the single small golden-brown bear shown in the attached reference photo, preserving this exact outfit, visible angle and leaning pose. Use the reference as the identity and pose source, not as a style source. Preserve a very large round head with two dark-brown round ears, the tousled central forehead tuft dipping into a pale cream heart-shaped face mask, protruding rounded peach-rose cheek areas, a tiny dark red oval nose and shallow closed smile. Preserve the two widely separated glossy dark oval eyes with warm brown side arcs, small pale clover-like highlights and the asymmetry caused by the head tilting toward the viewer's left. Small rounded body, short arms spread to the sides as in the photo, short legs, cream-and-pale-yellow striped shirt, red neckerchief pointing to the viewer's right, dark indigo bib shorts with shoulder straps, two tan buttons, ochre seam lines and turned-up hems. Brown exposed paws and feet. Translate fur into a simple slightly irregular outer contour and flat color areas; retain only a few short forehead tuft lines, not realistic hair. Center the full visible body on a plain white background with clear margins. Remove the grass, landscape, loose candy, shadows, copyright marks and legible embroidered lettering; keep the scarf red and otherwise keep the visible clothing shapes and color placement. No new accessories, no hanging ring invented outside the photographed area, no new pose, no extra characters, no 3D render, no gradients, no fabric texture. Do not invent hidden back details.",
+    "language": "en",
+    "input_mode": "reference_image",
+    "reference_image_ids": [
+      "V04"
+    ],
+    "reference_preparation": "1200×1200完整官方原图，无裁切；只作本地研究依赖，公开不打包",
+    "generated_file": "flat-ref-v1.webp",
+    "tested_at": "2026-10-31",
+    "status": "revise",
+    "checks": {
+      "identity": "棕熊＋淡色双叶脸区＋棕耳＋四叶状眼点接近",
+      "silhouette": "大圆头短身和侧倾张臂可辨；额毛与局部弧度仍不同",
+      "face": "v1脸区偏宽、倾斜偏强；v2额毛/短笑改善，眼与腮颊轮廓仍略异",
+      "colors": "红巾、深蓝裤、浅黄条纹与棕毛区域对应；照片光照不复制为标准色",
+      "pose": "保留可见四肢和微侧倾；挂环及背面未补",
+      "render": "二维插画，仍有微渐层/白底纸纹；严格均匀纯平涂未通过"
+    },
+    "revision_reason": "初次结果脸区偏宽、倾斜偏强、渐层明显，保留旧图并修词重测",
+    "remaining_differences": [
+      "眼部四叶亮点形状与大小、腮颊和毛缘仍略异",
+      "只一次最终附图结果；不证明纯文字/中文/重复稳定性",
+      "白底微纸纹与轻微渐层仍在；不可声称精确复刻或严格纯平涂"
+    ],
+    "untested_modes": [
+      "纯文字中文",
+      "纯文字英文",
+      "中文附图",
+      "重复稳定性",
+      "3D",
+      "毛绒概念生成"
+    ]
+  },
+  {
+    "prompt_id": "ribodiary-bearibo-flat-ref-v2",
+    "version": 2,
+    "subject_id": "ribodiary",
+    "target_scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
+    "carrier": "平面研究转绘",
+    "exact_prompt": "Create a flat 2D research illustration of the single small golden-brown bear shown in the attached reference photo, preserving this exact outfit, visible angle and leaning pose. Use the reference as the identity and pose source, not as a style source. Preserve a very large round head with two dark-brown round ears, the tousled central forehead tuft dipping into a pale cream heart-shaped face mask, protruding rounded peach-rose cheek areas, a tiny dark red oval nose and shallow closed smile. Preserve the two widely separated glossy dark oval eyes with warm brown side arcs, small pale clover-like highlights and the asymmetry caused by the head tilting toward the viewer's left. Small rounded body, short arms spread to the sides as in the photo, short legs, cream-and-pale-yellow striped shirt, red neckerchief pointing to the viewer's right, dark indigo bib shorts with shoulder straps, two tan buttons, ochre seam lines and turned-up hems. Brown exposed paws and feet. Translate fur into a simple slightly irregular outer contour and flat color areas; retain only a few short forehead tuft lines, not realistic hair. Center the full visible body on a plain white background with clear margins. Remove the grass, landscape, loose candy, shadows, copyright marks and legible embroidered lettering; keep the scarf red and otherwise keep the visible clothing shapes and color placement. No new accessories, no hanging ring invented outside the photographed area, no new pose, no extra characters, no 3D render, no gradients, no fabric texture. Do not invent hidden back details.\nRefinement requirements: keep the head tilt subtle, as in the original photograph, rather than exaggerating it. Match the small cream face-mask area and broad golden-brown forehead in the photo: the downward center forehead tuft ends above the nose bridge and covers more upper forehead, and the cheek lobes project sideways from the lower mask. Keep the eyes at their original small size and orientation, the smile short and almost horizontal, and the arms' original unequal bend. Use strictly uniform flat fills for the golden-brown fur, cream mask, red scarf and dark-indigo shorts. Do not add radial shading or shadow gradients. Show gentle peach cheek patches with a single flat peach tone. Preserve the original large-head-to-short-body relation without enlarging the head further.",
+    "language": "en",
+    "input_mode": "reference_image",
+    "reference_image_ids": [
+      "V04"
+    ],
+    "reference_preparation": "1200×1200完整官方原图，无裁切；只作本地研究依赖，公开不打包",
+    "generated_file": "flat-ref-v2.webp",
+    "tested_at": "2026-10-31",
+    "status": "ready",
+    "checks": {
+      "identity": "棕熊＋淡色双叶脸区＋棕耳＋四叶状眼点接近",
+      "silhouette": "大圆头短身和侧倾张臂可辨；额毛与局部弧度仍不同",
+      "face": "v1脸区偏宽、倾斜偏强；v2额毛/短笑改善，眼与腮颊轮廓仍略异",
+      "colors": "红巾、深蓝裤、浅黄条纹与棕毛区域对应；照片光照不复制为标准色",
+      "pose": "保留可见四肢和微侧倾；挂环及背面未补",
+      "render": "二维插画，仍有微渐层/白底纸纹；严格均匀纯平涂未通过"
+    },
+    "revision_reason": "在原图依赖上重测；改善脸区、额毛与短笑，身份项接近，严格无渐层保留缺口",
+    "remaining_differences": [
+      "眼部四叶亮点形状与大小、腮颊和毛缘仍略异",
+      "只一次最终附图结果；不证明纯文字/中文/重复稳定性",
+      "白底微纸纹与轻微渐层仍在；不可声称精确复刻或严格纯平涂"
+    ],
+    "untested_modes": [
+      "纯文字中文",
+      "纯文字英文",
+      "中文附图",
+      "重复稳定性",
+      "3D",
+      "毛绒概念生成"
+    ]
+  }
+]

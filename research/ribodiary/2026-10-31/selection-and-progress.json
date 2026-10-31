@@ -1,0 +1,191 @@
+{
+  "date": "2026-10-31",
+  "status": "selected_one",
+  "window": [
+    "2026-10-24",
+    "2026-10-31"
+  ],
+  "expanded_window": [
+    "2026-10-01",
+    "2026-10-31"
+  ],
+  "read_head": "8cef2d6f5c3470668ed7c3f17a563ec522be96d5",
+  "existing_study_count": 42,
+  "all_aliases_checked": true,
+  "pochacco_exists": true,
+  "latest_checkpoint": "Loveez 10-30附图ready；本轮不把纯文字未测当该对象全部失败。历史旧卡的未通过记录保留，不改写。",
+  "selected": "ribodiary",
+  "qualified_candidates": [
+    "ribodiary"
+  ],
+  "selection_reason": "当前官方发售/商品与独立用户线程（含抽重寻交换自述）交叉；近期兴趣可核，未测全网升温率。第三方缺货仅作弱辅助。",
+  "candidates": [
+    {
+      "id": "ribodiary",
+      "category": "泡泡玛特",
+      "event_date": [
+        "2026-10-29",
+        "2026-10-30"
+      ],
+      "published": [
+        "2026-10-23",
+        "2026-10-27"
+      ],
+      "classes": [
+        "官方新品发售",
+        "独立收藏讨论/抽重交换意向"
+      ],
+      "strength": "中等",
+      "decision": "选中",
+      "sources": [
+        "R01",
+        "R14",
+        "R09",
+        "R11"
+      ],
+      "boundary": "扩大30天窗口纳入10月21日线程；无排名、销量或售罄速度"
+    },
+    {
+      "id": "polar",
+      "category": "泡泡玛特",
+      "event_date": "2026-10-30至2027-03-07展期",
+      "published": "2026-10-26",
+      "classes": [
+        "展览公告"
+      ],
+      "strength": "官方供给强，需求弱",
+      "decision": "暂未选",
+      "sources": [
+        "H01"
+      ],
+      "boundary": "展期公告不证明实际到访/售票；与新品预热不混成销量"
+    },
+    {
+      "id": "miniso-chouchou",
+      "category": "名创优品",
+      "event_date": "2026-10-25至11-21",
+      "published": "2026-10-22",
+      "classes": [
+        "联名快闪"
+      ],
+      "strength": "活动可核，需求不足",
+      "decision": "暂未选",
+      "sources": [
+        "H02",
+        "H03",
+        "H06"
+      ],
+      "boundary": "不合并周同学CHOUCHOU旗舰店和其SKU/商业数据，不认同名即同IP"
+    },
+    {
+      "id": "k-monsters",
+      "category": "韩国",
+      "event_date": "2026-10-22至11-03；作者称10-27到访",
+      "published": "2026-10-28",
+      "classes": [
+        "快闪/单人到访"
+      ],
+      "strength": "中弱",
+      "decision": "暂未选",
+      "sources": [
+        "H04"
+      ],
+      "boundary": "到访不是销售；没有可比热度/需求变化"
+    },
+    {
+      "id": "puppet-sunsun",
+      "category": "其他日本",
+      "event_date": "库存快照10-17；常设店预告11月",
+      "published": null,
+      "classes": [
+        "二级库存/开店线索"
+      ],
+      "strength": "弱",
+      "decision": "未列合格候选",
+      "sources": [
+        "H07"
+      ],
+      "boundary": "未由官方回溯，不能将下架品数推净销量"
+    }
+  ],
+  "coverage": {
+    "pop_mart": "RiboDiary选中；其他旧角色去重",
+    "miniso": "CHOUCHOU核对同名，YOYO已入库；不并入TOP TOY成绩",
+    "sanrio": "本周上新可核；群像供给不证明未研究成员升温",
+    "other_japan": "Puppet Sunsun保留线索；Loveez/Sonny Angel已入库不重复",
+    "korea": "K-MONSTERS活动与到访文，未足够升温证据"
+  },
+  "sources": [
+    {
+      "id": "H01",
+      "title": "POLAR展讯",
+      "url": "https://www.sina.cn/news/detail/5358285288899738.html",
+      "publisher": "POPMART泡泡玛特",
+      "published": "2026-10-26",
+      "observed": "2026-10-31",
+      "access": "full",
+      "note": null
+    },
+    {
+      "id": "H02",
+      "title": "名创CHOUCHOU秋日快闪",
+      "url": "https://www.sina.cn/news/detail/5356880315548319.html",
+      "publisher": "名创优品",
+      "published": "2026-10-22",
+      "observed": "2026-10-31",
+      "access": "partial",
+      "note": null
+    },
+    {
+      "id": "H03",
+      "title": "周同学同名品牌线索",
+      "url": "https://www.hstong.com/news/detail/26092312170252698",
+      "publisher": "华盛通转载",
+      "published": "2026-09-23",
+      "observed": "2026-10-31",
+      "access": "snippet_only",
+      "note": "本轮打开超时；只用于排除混同，不用于确认名创成绩"
+    },
+    {
+      "id": "H04",
+      "title": "韩国K-MONSTERS到访文",
+      "url": "https://m.view.nate.com/travel/view/420300/",
+      "publisher": "다빛",
+      "published": "2026-10-28",
+      "observed": "2026-10-31",
+      "access": "partial",
+      "note": null
+    },
+    {
+      "id": "H05",
+      "title": "三丽鸥周新品",
+      "url": "https://www.sanrio.co.jp/news/goods/goods-release-202610-week5/",
+      "publisher": "Sanrio",
+      "published": "2026-10-23",
+      "observed": "2026-10-31",
+      "access": "partial",
+      "note": null
+    },
+    {
+      "id": "H06",
+      "title": "名创官方新闻页",
+      "url": "https://miniso.cn/brand/news.html",
+      "publisher": "MINISO",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "partial",
+      "note": null
+    },
+    {
+      "id": "H07",
+      "title": "日本Puppet Sunsun库存线索",
+      "url": "https://kokoniatta.com/puppet-sunsun-goods/",
+      "publisher": "ココニアッタ",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "snippet_only",
+      "note": "10月17日快照/11月常设店为二级线索，未核官方，不计当前销量"
+    }
+  ],
+  "not_a_ranking": true
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "account": "Bunnyxboy",
+    "visible_date": "10d ago（观察2026-10-31）",
+    "behavior": "表达复古联想和想入手",
+    "evidence_level": "意向，不是成交",
+    "source_ids": [
+      "R09"
+    ],
+    "observed": "2026-10-31"
+  },
+  {
+    "account": "PrettyKnowledge1",
+    "visible_date": "7d ago",
+    "behavior": "只关注Joeius",
+    "evidence_level": "成员偏好，不能推全群人群结构",
+    "source_ids": [
+      "R09"
+    ],
+    "observed": "2026-10-31"
+  },
+  {
+    "account": "Miserable_Ad_1749",
+    "visible_date": "3h ago",
+    "behavior": "自述抽到重复Iceymel，问交换渠道",
+    "evidence_level": "持有/抽重自述与交换意向；无订单或交换完成证明",
+    "source_ids": [
+      "R09"
+    ],
+    "observed": "2026-10-31"
+  },
+  {
+    "account": "Popular-Efficiency28",
+    "visible_date": "6d ago",
+    "behavior": "认为与另一品牌眼熟",
+    "evidence_level": "相似性意见，不是权属或抄袭结论",
+    "source_ids": [
+      "R09"
+    ],
+    "observed": "2026-10-31"
+  },
+  {
+    "account": "Background-Fox954",
+    "visible_date": "5d ago",
+    "behavior": "转述作者旧合作，后承认来源是Instagram评论",
+    "evidence_level": "二次听闻；不作作者确认",
+    "source_ids": [
+      "R09"
+    ],
+    "observed": "2026-10-31"
+  },
+  {
+    "account": "SilentSerel",
+    "visible_date": "9d ago",
+    "behavior": "表示喜欢与预算玩笑",
+    "evidence_level": "口头反应，不是付费",
+    "source_ids": [
+      "R09"
+    ],
+    "observed": "2026-10-31"
+  }
+]
