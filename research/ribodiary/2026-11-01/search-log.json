@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-01",
+  "languages": [
+    "zh",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "queries": [
+    "潮玩 新IP 热门 2026年10月31日 11月1日",
+    "名创优品 CHOUCHOU 2026 10月31日 快闪",
+    "パペットスンスン 常設店 2026年11月 オープン 公式",
+    "한국 캐릭터 팝업 2026 10월31 11월1",
+    "site.sanrio.co.jp 2026 11月1日 ニュース",
+    "site.popmart.com RIBODIARY October November 2026",
+    "RiboDiary 瑞宝 2026 10月30 11月1",
+    "site.miniso.cn/brand/news_201 CHOUCHOU 自有 艺术家 IP 李宇春",
+    "RiboDiary 品牌介绍",
+    "RiboDiary 제품 2026 10월"
+  ],
+  "xhs": [
+    {
+      "query": "RiboDiary 品牌介绍",
+      "status": "blocked",
+      "executed": false,
+      "read_pages": 0,
+      "accounts": [],
+      "reason": "本轮重新尝试Browser连接返回Unknown tool(browser.js)；按用户要求停止依赖该连接，不转到其他浏览器，不声称已搜。"
+    },
+    {
+      "query": "RiboDiary 产品汇总",
+      "status": "blocked",
+      "executed": false,
+      "read_pages": 0,
+      "accounts": [],
+      "reason": "本轮重新尝试Browser连接返回Unknown tool(browser.js)；按用户要求停止依赖该连接，不转到其他浏览器，不声称已搜。"
+    }
+  ],
+  "read_scope": "本轮重读1个独立用户主线程，复核原六位选样，不新增样本数；其相对时间显示有缓存/日期不一致风险。旧研究检索另见../2026-10-31/search-log.json",
+  "sampling_limit": "目的抽样、未验证订单、未展开隐藏评论；不是中国客群比例或随机调查。",
+  "source_discipline": "同事件公关转载归为一个家族；商品/活动和讨论分开；摘要不等于全文。"
+}

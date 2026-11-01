@@ -1,0 +1,138 @@
+{
+  "date": "2026-11-01",
+  "timezone": "Asia/Shanghai",
+  "scan_window_7d": [
+    "2026-10-26",
+    "2026-11-01"
+  ],
+  "extended_window_30d": [
+    "2026-10-03",
+    "2026-11-01"
+  ],
+  "study_count_before": 43,
+  "study_count_after": 43,
+  "selected_subject": "ribodiary",
+  "decision": "continue_failed_flat_checkpoint",
+  "new_studies": 0,
+  "dedupe": "重新读取43张研究卡和别名；RiboDiary包含瑞宝/Bearibo及成员，不能另建Bearibo；pochacco已在库。",
+  "selection_reason": "前日prompt_validation.strict_flat_fill=not_passed，按续作优先规则继续同款V04；官方新品发售和独立用户讨论两类信号足以解释研究价值，但不冒称当天最热门。",
+  "qualified_candidates": [
+    {
+      "subject_id": "ribodiary",
+      "category": "泡泡玛特",
+      "event_dates": [
+        "2026-10-29",
+        "2026-10-30"
+      ],
+      "publication_dates": [
+        "2026-10-21",
+        "2026-10-27"
+      ],
+      "sources": [
+        "N01",
+        "N02",
+        "R01",
+        "R14"
+      ],
+      "signal_classes": [
+        "官方新品商品/发售",
+        "独立用户成员偏好与抽重交换意向"
+      ],
+      "evidence_strength": "中等：事件明确，需求仅少量自述",
+      "sales_verified": false,
+      "decision": "续作，无新增"
+    }
+  ],
+  "watchlist_not_qualified": [
+    {
+      "name": "MINISO CHOUCHOU",
+      "category": "名创优品",
+      "event_dates": [
+        "2026-10-25",
+        "2026-11-21"
+      ],
+      "publication_dates": [
+        "2026-10-22"
+      ],
+      "sources": [
+        "N03",
+        "N04"
+      ],
+      "signal": "秋日线下联名活动；自有艺术家IP为官方背景口径",
+      "evidence_strength": "弱：只有活动，无独立需求样本",
+      "decision": "不足两类独立热度线索；不与周同学CHOUCHOU混淆，也不推定归TOP TOY"
+    },
+    {
+      "name": "PUPPET SUNSUN / パペットスンスン",
+      "category": "日本其他IP",
+      "event_dates": [
+        "2026-10-27",
+        "2026-11-02",
+        "2026-11-20"
+      ],
+      "publication_dates": [
+        "2026-10-26",
+        "2026-09-02"
+      ],
+      "sources": [
+        "N05",
+        "N06",
+        "N10"
+      ],
+      "signal": "常设店预约启动与商品铺陈，同属同一运营事件家族",
+      "evidence_strength": "中等活动、弱实际热度；预约不等于预约人数",
+      "decision": "库内未研究；本轮只有同一运营事件家族，尚缺独立需求线索，因续作规则不另开研究"
+    },
+    {
+      "name": "Hello Kitty",
+      "category": "三丽鸥",
+      "event_dates": [
+        "2026-10-28",
+        "2026-10-29",
+        "2026-11-08"
+      ],
+      "publication_dates": [
+        "2026-10-08"
+      ],
+      "sources": [
+        "N07",
+        "N08"
+      ],
+      "signal": "生日活动/商品发售与官网过去7天网页访问榜",
+      "evidence_strength": "活动强；站内关注有限，缺独立受众行为样本",
+      "decision": "已有hello-kitty研究，不重复；非销量或全网热榜"
+    },
+    {
+      "name": "K-MONSTERS / 케이몬스터",
+      "category": "韩国",
+      "event_dates": [
+        null,
+        "2026-11-03"
+      ],
+      "publication_dates": [
+        "2026-10-31"
+      ],
+      "sources": [
+        "N09"
+      ],
+      "signal": "乐天世界商城首个韩国线下快闪",
+      "evidence_strength": "弱：媒体转述百货事件，缺官方角色档案及独立用户线索",
+      "decision": "仅列待核线索，不够本轮候选标准；不与THE MONSTERS混淆"
+    }
+  ],
+  "checkpoint": {
+    "subject_id": "ribodiary",
+    "target": "原V04蓝背带裤瑞宝挂件可见角度，不换目标",
+    "tests_this_run": [
+      3,
+      4,
+      5
+    ],
+    "status": "strict_flat_fill_not_passed",
+    "next_action": "继续同款：需消除毛面/裤装/背景连续明暗，保留脸区、眼、比例和姿态；不进入3D或毛绒。",
+    "reliable_prior_mode": "英文附原图V2仅限可见身份接近；不证明严格纯平涂",
+    "text_only": "not_tested",
+    "stability": "not_tested"
+  },
+  "limitations": "合格候选不足3个，只列1个续作对象，其余为未达门槛观察线索；无销量、增长率或全网热门排名。"
+}

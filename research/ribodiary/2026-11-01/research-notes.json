@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-01",
+  "inherited_archive": "../2026-10-31/",
+  "research_fact_snapshot": "2026-10-31；本轮只复核新品日期和一个独立线程，未重报全IP起源/销量。",
+  "visual_scope": "原7张逐图记录与取色继承10/31；本轮重新下载并打开V04及旧V2，再实际查看V3–V5生成图。",
+  "original_reference": {
+    "url": "https://prod-global-biz.popmart.com/globalAdmin/1792747010610_51f8ba8bb40b10288601ff9b8472c7ec.jpg",
+    "size": [
+      1200,
+      1200
+    ],
+    "sha256": "cdd969500b9d0a58a91e3fb7535d20ad685475c7ebf11e440dd5373e95de7184",
+    "redistribution": "公开仅引用权利人图片链接，不打包官方原图"
+  },
+  "strict_flat_test": "三轮均失败：实际画面仍见渐层/纹理，原PNG取样只作非均匀填色的辅助检验，不是相似度评分；压缩前已有色差。",
+  "palette_note": "V5指定HEX为试验控制值，不是官方签名色，不能替代原图坐标取色。",
+  "test_count_total": 5,
+  "test_count_current_run": 3,
+  "text_only": "not_tested",
+  "repeatability": "not_tested",
+  "three_dimensional": "not_started",
+  "status": "partial_checkpoint",
+  "tool_limit": "Browser连接Unknown tool，XHS两组搜索未执行。",
+  "rights_and_origin_gaps": "沿用对标卡既有null和缺口，不由渠道销售推定完整著作权。"
+}

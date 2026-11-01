@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-01",
+  "scope": "结构/JSON/链接/实测输入全文/压缩与公开文件检查；不是研究事实自动证明或用户审美认可",
+  "html_internal_links": "pass",
+  "json": "pass",
+  "v2_copy_download_full_text": "pass",
+  "v3_v4_v5_input_download_full_text": "pass",
+  "executable_name_check": "pass",
+  "secrets_scan": "pass",
+  "image_compression": "768px最长边、WebP质量80、每张小于150KB",
+  "index": "运行仓库原build_index.py，所有集合ID含species保留，文件字节不变",
+  "card_validator": "pass structure and vocab only",
+  "historical_and_official_links": [
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/",
+      "status": 200,
+      "bytes": 46811,
+      "sha256": "c433a1d27960d00ebc298ed532b4ddd1a369e2711c0b1e808d7ed674988485db"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/flat-ref-v2.webp",
+      "status": 200,
+      "bytes": 21318,
+      "sha256": "1447293a1e56d706926f63d6626694b5270ddc6b65de126ffd26ed381af5f7a5"
+    },
+    {
+      "url": "https://prod-global-biz.popmart.com/globalAdmin/1792746657866_fc4f4d6975933c8392acf314281f353e.jpg",
+      "status": 200,
+      "bytes": 122303,
+      "sha256": "985c3d85f394bdfdf516a6eff2e5378bcad49334fac4ffffe55515eacd515229"
+    },
+    {
+      "url": "https://prod-global-biz.popmart.com/globalAdmin/1792746664412_cb8b6994141cd6c4e82e3154a521507b.jpg",
+      "status": 200,
+      "bytes": 128749,
+      "sha256": "86647572752e683957ef9aca94674dd2676502c3e53bf0fff0f6c4acaad72070"
+    },
+    {
+      "url": "https://prod-global-biz.popmart.com/globalAdmin/1792746668010_8d73e71acafb1dc380a3ddd4294edcd3.jpg",
+      "status": 200,
+      "bytes": 150668,
+      "sha256": "c609181879356ccc3cd15008d660864032c2747d0ce9c554d0eb87dc14c2cb58"
+    },
+    {
+      "url": "https://prod-global-biz.popmart.com/globalAdmin/1792746684709_ba3fa2503f71f71c956ae8b546a49158.jpg",
+      "status": 200,
+      "bytes": 134082,
+      "sha256": "ce96da9b8fff173427755677cc2e2d7d51bf49552d6ac61641ef1d8934045ad8"
+    },
+    {
+      "url": "https://prod-global-biz.popmart.com/globalAdmin/1792747010610_51f8ba8bb40b10288601ff9b8472c7ec.jpg",
+      "status": 200,
+      "bytes": 123525,
+      "sha256": "cdd969500b9d0a58a91e3fb7535d20ad685475c7ebf11e440dd5373e95de7184"
+    },
+    {
+      "url": "https://prod-global-biz.popmart.com/globalAdmin/1792748282646_cda749c711a47282fca27bcf4fac79d2.jpg",
+      "status": 200,
+      "bytes": 136201,
+      "sha256": "8dfbf15244e12067dd84a97693be12451464057e49f13802065bfd73a9d96a6c"
+    },
+    {
+      "url": "https://prod-global-biz.popmart.com/globalAdmin/1792748501881_0d3776ad585b2d502b21b8082a771cc6.jpg",
+      "status": 200,
+      "bytes": 151469,
+      "sha256": "561347103b514e95dfb2b000bb3a23855289aa5410b80ce86e0f1a57a2da6878"
+    }
+  ],
+  "visual_assessment": "原始生成图实际查看：V3–V5身份接近但严格纯平涂未通过。"
+}
