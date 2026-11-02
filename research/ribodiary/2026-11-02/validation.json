@@ -1,0 +1,8 @@
+{
+  "card": "pass structure/vocab",
+  "index": "unchanged, all collection IDs incl species preserved",
+  "prompt_actual_text": "V6/V7 inputs and downloads exact; failed prompts confined to records",
+  "compression": "WebP quality80 max768 <150KB",
+  "secrets": "none detected",
+  "status": "partial, strict_flat_fill not_passed"
+}

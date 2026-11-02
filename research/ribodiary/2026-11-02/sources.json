@@ -1,0 +1,66 @@
+{
+  "inherited": "../2026-11-01/sources.json",
+  "current": [
+    {
+      "id": "D01",
+      "title": "美国官方手办发售页",
+      "url": "https://www.popmart.com/us/pop-now/set/1488",
+      "published": null,
+      "event_date": "2026-10-29",
+      "access": "partial",
+      "note": "发售时间原文17:00 PST；只核日期/规格，不证明销量或当前库存",
+      "observed": "2026-11-02"
+    },
+    {
+      "id": "D02",
+      "title": "独立收藏线程复核",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1xbdmcg/is_this_a_new_ip/",
+      "published": "2026-10-21",
+      "event_date": null,
+      "access": "partial",
+      "note": "仍显示10d ago等缓存相对日期，不换算为11/2新评论；只重读既有成员偏好与交换自述，不新增样本数，不展开隐藏回复",
+      "observed": "2026-11-02"
+    },
+    {
+      "id": "D03",
+      "title": "MINISO CHOUCHOU×gubigubi官方原帖",
+      "url": "https://www.sina.cn/news/detail/5356880315548319.html",
+      "published": "2026-10-22",
+      "event_date": "2026-10-25/2026-11-21",
+      "access": "partial",
+      "note": "营销活动不代表独立需求；名创自有艺术家IP背景仍沿用旧官方摘要，完整权属未核，不推定属于TOP TOY",
+      "observed": "2026-11-02"
+    },
+    {
+      "id": "D04",
+      "title": "PUPPET SUNSUN常设店整理券公告",
+      "url": "https://shop.chocolate-inc.com/blogs/puppet-sunsun-store-news/20261026",
+      "published": "2026-10-26",
+      "event_date": "2026-10-27/2026-11-02",
+      "access": "full",
+      "note": "涩谷11/20–29预预约；申请截至11/2 22:00，不证明申请人数或到店热度",
+      "observed": "2026-11-02"
+    },
+    {
+      "id": "D05",
+      "title": "玉桂狗丹铁合作原始公告",
+      "url": "https://www.willer.co.jp/news/press/2026/1001_7214",
+      "published": "2026-10-01",
+      "event_date": "2026-11-01/2027-01-31",
+      "access": "full",
+      "note": "旧公告、本周开始事件；普通商品销售计划11/2 14:00，早于该时刻不称已开售；无销售或到访数据",
+      "observed": "2026-11-02"
+    },
+    {
+      "id": "D06",
+      "title": "韩国K-MONSTERS百货快闪报道",
+      "url": "https://www.yna.co.kr/amp/view/AKR20261030088100030",
+      "published": "2026-10-31",
+      "event_date": null,
+      "access": "partial",
+      "note": "快闪截止11/3，开始日未知；百货提供信息，无销量或到访量；多家同事转载不重复计独立线索",
+      "observed": "2026-11-02"
+    }
+  ],
+  "boundary": "旧观察日期不刷新成今天；正文原产品、视觉、取色沿用10/31档案，未知项仍为null。"
+}

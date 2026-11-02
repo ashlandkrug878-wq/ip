@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-02",
+  "window_7d": [
+    "2026-10-27",
+    "2026-11-02"
+  ],
+  "window_30d": [
+    "2026-10-04",
+    "2026-11-02"
+  ],
+  "selected": "ribodiary",
+  "decision": "continue_failed_flat_checkpoint",
+  "new_studies": 0,
+  "count_before": 43,
+  "count_after": 43,
+  "qualified_candidates": [
+    {
+      "name": "RiboDiary（含瑞宝）",
+      "category": "泡泡玛特",
+      "sources": [
+        "D01",
+        "D02"
+      ],
+      "evidence": "官方新品发售＋独立用户成员选择/交换自述；中等事件、弱需求；不是销量",
+      "reason": "最新11/1留下明确未通过关卡，优先继续；不另建Bearibo。"
+    }
+  ],
+  "unqualified_watchlist": [
+    {
+      "name": "MINISO CHOUCHOU",
+      "category": "名创优品",
+      "sources": [
+        "D03"
+      ],
+      "strength": "弱：单个联名活动，缺独立需求证据"
+    },
+    {
+      "name": "PUPPET SUNSUN",
+      "category": "日本其他IP",
+      "sources": [
+        "D04"
+      ],
+      "strength": "中等活动、弱热度：申请截止是制度，不是人数；未研究对象，因续作暂不另开"
+    },
+    {
+      "name": "Cinnamoroll 玉桂狗",
+      "category": "三丽鸥",
+      "sources": [
+        "D05"
+      ],
+      "strength": "活动可核、独立需求未取得；已在库不重复"
+    },
+    {
+      "name": "K-MONSTERS",
+      "category": "韩国",
+      "sources": [
+        "D06"
+      ],
+      "strength": "弱：百货事件报道，同通稿家族不重复计；不与THE MONSTERS混淆"
+    }
+  ],
+  "dedupe": "本轮从GitHub重新读取43张研究卡及别名；pochacco已存在，RiboDiary为角色群。",
+  "checkpoint": {
+    "subject_id": "ribodiary",
+    "status": "strict_flat_fill_not_passed",
+    "target_image": "V04原款，不换目标",
+    "tests_added": [
+      6,
+      7
+    ],
+    "next_action": "保持原身份、比例、脸区与姿态，继续解决渐层/纸纹；不进入3D或毛绒。"
+  },
+  "limit": "仅1个符合本轮采用门槛的续作对象，另外4项仅为观察线索；不凑候选数，不做全网热度排名或增长率。"
+}

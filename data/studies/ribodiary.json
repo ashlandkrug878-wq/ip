@@ -23,7 +23,7 @@
   "tier": "standard",
   "status": "partial",
   "cutoff_date": "2026-10-31",
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "summary": "森林日常由被窝、衣装、手作与群像分工落到产品；官方功能证据清楚，近期讨论可核，规模与增长因果未知。",
   "owner": {
     "creator": null,
@@ -237,11 +237,11 @@
   "gaps": [
     "自然人作者、最初草稿、首条公开原作、完整著作权/商标/授权合同未核；ribo及中文姓名仅保留线索，不从AI汇编确认。",
     "6月用户已讨论Bearibo，8月雪糕帖正文有日期但未显年份；10月森林欢聚日不能当全IP诞生/首售。",
-    "2026-11-01重新尝试小红书所需Browser连接，返回Unknown tool；品牌介绍与产品汇总两组未执行，实读0篇。",
+    "2026-11-02重新尝试Browser连接返回Unknown tool；小红书两组未执行，实读0篇。",
     "独立用户样本来自1条近期线程的6位账号和1条早期讨论；未随机抽样，无中国用户年龄/性别比例、全平台排名或复购率。",
     "第三方显示英国/美国缺货；英国官方读取为选项未加载，不能直接证实售罄或售罄速度；首批库存与销量均null。",
     "已看7张官方原图，未覆盖所有成员全部视角和早期人偶影像；未读实体绘本，未核出版物ISBN，不把绘本感等同绘本起源。",
-    "平面V2仅限英文附原图的可见身份接近；本轮V3–V5仍有渐层/纸纹，严格纯平涂未通过；纯文字、中文及同词重复稳定性未测，不进入3D或毛绒。",
+    "英文附图V2仅指定身份接近；中文V6/V7及旧V3–V5严格纯平涂未通过，V6另有口鼻色区偏差；纯文字及同词重复稳定性未测，不进入3D或毛绒。",
     "原图不公开打包；内部结构、绒感、承重、耐用性、清洗与关节寿命未实测，成本利润未知。"
   ],
   "sources": [
@@ -534,20 +534,87 @@
       "observed": "2026-11-01",
       "access": "full",
       "note": "11月预计开店属于9月旧公告；不因新抓取时间变成新发布。"
+    },
+    {
+      "id": "D01",
+      "title": "美国官方手办发售页",
+      "url": "https://www.popmart.com/us/pop-now/set/1488",
+      "published": null,
+      "event_date": "2026-10-29",
+      "access": "partial",
+      "note": "发售时间原文17:00 PST；只核日期/规格，不证明销量或当前库存",
+      "observed": "2026-11-02",
+      "publisher": "POP MART"
+    },
+    {
+      "id": "D02",
+      "title": "独立收藏线程复核",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1xbdmcg/is_this_a_new_ip/",
+      "published": "2026-10-21",
+      "event_date": null,
+      "access": "partial",
+      "note": "仍显示10d ago等缓存相对日期，不换算为11/2新评论；只重读既有成员偏好与交换自述，不新增样本数，不展开隐藏回复",
+      "observed": "2026-11-02",
+      "publisher": "原链接发布者"
+    },
+    {
+      "id": "D03",
+      "title": "MINISO CHOUCHOU×gubigubi官方原帖",
+      "url": "https://www.sina.cn/news/detail/5356880315548319.html",
+      "published": "2026-10-22",
+      "event_date": "2026-10-25/2026-11-21",
+      "access": "partial",
+      "note": "营销活动不代表独立需求；名创自有艺术家IP背景仍沿用旧官方摘要，完整权属未核，不推定属于TOP TOY",
+      "observed": "2026-11-02",
+      "publisher": "原链接发布者"
+    },
+    {
+      "id": "D04",
+      "title": "PUPPET SUNSUN常设店整理券公告",
+      "url": "https://shop.chocolate-inc.com/blogs/puppet-sunsun-store-news/20261026",
+      "published": "2026-10-26",
+      "event_date": "2026-10-27/2026-11-02",
+      "access": "full",
+      "note": "涩谷11/20–29预预约；申请截至11/2 22:00，不证明申请人数或到店热度",
+      "observed": "2026-11-02",
+      "publisher": "原链接发布者"
+    },
+    {
+      "id": "D05",
+      "title": "玉桂狗丹铁合作原始公告",
+      "url": "https://www.willer.co.jp/news/press/2026/1001_7214",
+      "published": "2026-10-01",
+      "event_date": "2026-11-01/2027-01-31",
+      "access": "full",
+      "note": "旧公告、本周开始事件；普通商品销售计划11/2 14:00，早于该时刻不称已开售；无销售或到访数据",
+      "observed": "2026-11-02",
+      "publisher": "原链接发布者"
+    },
+    {
+      "id": "D06",
+      "title": "韩国K-MONSTERS百货快闪报道",
+      "url": "https://www.yna.co.kr/amp/view/AKR20261030088100030",
+      "published": "2026-10-31",
+      "event_date": null,
+      "access": "partial",
+      "note": "快闪截止11/3，开始日未知；百货提供信息，无销量或到访量；多家同事转载不重复计独立线索",
+      "observed": "2026-11-02",
+      "publisher": "原链接发布者"
     }
   ],
-  "archive": "research/ribodiary/2026-11-01/index.html",
-  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-01/",
-  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-01/",
+  "archive": "research/ribodiary/2026-11-02/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-02/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-02/",
   "prompt_validation": {
     "status": "partial",
-    "mode": "前日英文附原图V2仅限身份接近；本轮V3–V5严格平涂未通过",
+    "mode": "英文附图V2仅身份接近；中文V6/V7严格平涂未通过",
     "scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
     "strict_flat_fill": "not_passed",
     "text_only": "not_tested",
     "stability": "not_tested",
-    "tests": "research/ribodiary/2026-11-01/prompt-tests.json",
-    "checkpoint": "research/ribodiary/2026-11-01/selection-and-progress.json",
-    "usable_prior_test": "ribodiary-bearibo-flat-ref-v2"
+    "tests": "research/ribodiary/2026-11-02/prompt-tests.json",
+    "checkpoint": "research/ribodiary/2026-11-02/selection-and-progress.json",
+    "usable_prior_test": "ribodiary-bearibo-flat-ref-v2",
+    "chinese_reference": "tested_not_passed"
   }
 }
