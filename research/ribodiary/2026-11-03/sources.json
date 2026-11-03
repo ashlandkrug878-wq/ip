@@ -1,0 +1,105 @@
+{
+  "inherited": "../2026-10-31/sources.json",
+  "current": [
+    {
+      "id": "T01",
+      "title": "美国官方手办发售页",
+      "url": "https://www.popmart.com/us/pop-now/set/1488",
+      "publisher": "POP MART",
+      "published": null,
+      "event_date": "2026-10-29",
+      "observed": "2026-11-03",
+      "access": "partial",
+      "note": "读取日期规格；不证明库存或销量。"
+    },
+    {
+      "id": "T02",
+      "title": "独立收藏讨论复核",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1xbdmcg/is_this_a_new_ip/",
+      "publisher": "Reddit / KitchenLoan6",
+      "published": "2026-10-21",
+      "event_date": null,
+      "observed": "2026-11-03",
+      "access": "partial",
+      "note": "重读原主线程。检索页缓存2天，仍显示10d ago；不把相对日期写成今日新增，不新增样本数，不展开隐藏回复。成员偏好/交换是自述而非成交。"
+    },
+    {
+      "id": "T03",
+      "title": "名创CHOUCHOU秋日联名原帖",
+      "url": "https://www.sina.cn/news/detail/5356880315548319.html",
+      "publisher": "名创优品认证账号",
+      "published": "2026-10-22",
+      "event_date": "2026-10-25/2026-11-21",
+      "observed": "2026-11-03",
+      "access": "partial",
+      "note": "单个活动家族，没有独立需求证据。"
+    },
+    {
+      "id": "T04",
+      "title": "名创CHOUCHOU自有IP背景原文",
+      "url": "https://www.miniso.cn/brand/news_201.html",
+      "publisher": "MINISO",
+      "published": null,
+      "event_date": "8月22日（正文）",
+      "observed": "2026-11-03",
+      "access": "partial",
+      "note": "本轮正文可读，补足先前摘要访问缺口；官方称自有艺术家IP及李宇春首席创意官，不等于取得完整合同。官网索引标2026-08-20，正文写8月22日开业，日期冲突并列，不拼成确认首创日期。旧背景不当作本周热点。"
+    },
+    {
+      "id": "T05",
+      "title": "PUPPET SUNSUN整理券公告",
+      "url": "https://shop.chocolate-inc.com/blogs/puppet-sunsun-store-news/20261026",
+      "publisher": "CHOCOLATE",
+      "published": "2026-10-26",
+      "event_date": "2026-10-27/2026-11-02",
+      "observed": "2026-11-03",
+      "access": "full",
+      "note": "申请期限已过，11/6拟公布抽选；11/20–29涩谷预预约，不等于已开店或实际到店人数。"
+    },
+    {
+      "id": "T06",
+      "title": "玉桂狗丹铁合作原始公告",
+      "url": "https://www.willer.co.jp/news/press/2026/1001_7214",
+      "publisher": "WILLER",
+      "published": "2026-10-01",
+      "event_date": "2026-11-01/2027-01-31",
+      "observed": "2026-11-03",
+      "access": "partial",
+      "note": "公告正文文字可读，事件开始与旧发布日期分开；无到访或销售结果。"
+    },
+    {
+      "id": "T07",
+      "title": "韩国K-MONSTERS快闪线索",
+      "url": "https://www.yna.co.kr/amp/view/AKR20261030088100030",
+      "publisher": "Yonhap",
+      "published": "2026-10-31",
+      "event_date": null,
+      "observed": "2026-11-03",
+      "access": "partial",
+      "note": "百货提供信息，快闪截止11/3，开始日未核；不与THE MONSTERS混淆，无实际需求数据。"
+    },
+    {
+      "id": "T08",
+      "title": "第三方标注背包发售取消",
+      "url": "https://cardboardalpha.com/drops/ribodiary-forest-gathering-day-series-backpack-bearibo-3d775813d5",
+      "publisher": "Cardboard Alpha",
+      "published": null,
+      "event_date": "2026-10-23",
+      "observed": "2026-11-03",
+      "access": "partial",
+      "note": "页面有联盟商业关系；历史记录10/23 11:42 UTC称发售前移除并标Cancelled，原定10/29。并非11/3新事件，不能直接当官方停产/停售/失败。"
+    },
+    {
+      "id": "T09",
+      "title": "官方背包详情仍可读",
+      "url": "https://www.popmart.com/us/products/9415/ribodiary-forest-gathering-day-series-backpack-bearibo",
+      "publisher": "POP MART",
+      "published": null,
+      "event_date": "2026-10-29",
+      "observed": "2026-11-03",
+      "access": "partial",
+      "note": "页面有产品名称、约30cm与材料、发售时间。检索缓存2天；可读不代表可购，未读出实时库存。与T08并存，结论为第三方历史追踪未获直接官方取消公告确认。"
+    }
+  ],
+  "rule": "旧事实仍按旧观察日引用；本轮复核不重报首创、版权或销量。"
+}

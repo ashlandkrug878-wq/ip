@@ -1,0 +1,720 @@
+[
+  {
+    "prompt_id": "ribodiary-bearibo-flat-ref-v1",
+    "version": 1,
+    "subject_id": "ribodiary",
+    "target_scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
+    "carrier": "平面研究转绘",
+    "exact_prompt": "Create a flat 2D research illustration of the single small golden-brown bear shown in the attached reference photo, preserving this exact outfit, visible angle and leaning pose. Use the reference as the identity and pose source, not as a style source. Preserve a very large round head with two dark-brown round ears, the tousled central forehead tuft dipping into a pale cream heart-shaped face mask, protruding rounded peach-rose cheek areas, a tiny dark red oval nose and shallow closed smile. Preserve the two widely separated glossy dark oval eyes with warm brown side arcs, small pale clover-like highlights and the asymmetry caused by the head tilting toward the viewer's left. Small rounded body, short arms spread to the sides as in the photo, short legs, cream-and-pale-yellow striped shirt, red neckerchief pointing to the viewer's right, dark indigo bib shorts with shoulder straps, two tan buttons, ochre seam lines and turned-up hems. Brown exposed paws and feet. Translate fur into a simple slightly irregular outer contour and flat color areas; retain only a few short forehead tuft lines, not realistic hair. Center the full visible body on a plain white background with clear margins. Remove the grass, landscape, loose candy, shadows, copyright marks and legible embroidered lettering; keep the scarf red and otherwise keep the visible clothing shapes and color placement. No new accessories, no hanging ring invented outside the photographed area, no new pose, no extra characters, no 3D render, no gradients, no fabric texture. Do not invent hidden back details.",
+    "language": "en",
+    "input_mode": "reference_image",
+    "reference_image_ids": [
+      "V04"
+    ],
+    "reference_preparation": "1200×1200完整官方原图，无裁切；只作本地研究依赖，公开不打包",
+    "generated_file": "../2026-10-31/flat-ref-v1.webp",
+    "tested_at": "2026-10-31",
+    "status": "revise",
+    "checks": {
+      "identity": "棕熊＋淡色双叶脸区＋棕耳＋四叶状眼点接近",
+      "silhouette": "大圆头短身和侧倾张臂可辨；额毛与局部弧度仍不同",
+      "face": "v1脸区偏宽、倾斜偏强；v2额毛/短笑改善，眼与腮颊轮廓仍略异",
+      "colors": "红巾、深蓝裤、浅黄条纹与棕毛区域对应；照片光照不复制为标准色",
+      "pose": "保留可见四肢和微侧倾；挂环及背面未补",
+      "render": "二维插画，仍有微渐层/白底纸纹；严格均匀纯平涂未通过"
+    },
+    "revision_reason": "初次结果脸区偏宽、倾斜偏强、渐层明显，保留旧图并修词重测",
+    "remaining_differences": [
+      "眼部四叶亮点形状与大小、腮颊和毛缘仍略异",
+      "只一次最终附图结果；不证明纯文字/中文/重复稳定性",
+      "白底微纸纹与轻微渐层仍在；不可声称精确复刻或严格纯平涂"
+    ],
+    "untested_modes": [
+      "纯文字中文",
+      "纯文字英文",
+      "中文附图",
+      "重复稳定性",
+      "3D",
+      "毛绒概念生成"
+    ],
+    "history_note": "继承2026-10-31实测记录；2026-11-01重新从GitHub读取；V2图像本轮重新打开检查。"
+  },
+  {
+    "prompt_id": "ribodiary-bearibo-flat-ref-v2",
+    "version": 2,
+    "subject_id": "ribodiary",
+    "target_scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
+    "carrier": "平面研究转绘",
+    "exact_prompt": "Create a flat 2D research illustration of the single small golden-brown bear shown in the attached reference photo, preserving this exact outfit, visible angle and leaning pose. Use the reference as the identity and pose source, not as a style source. Preserve a very large round head with two dark-brown round ears, the tousled central forehead tuft dipping into a pale cream heart-shaped face mask, protruding rounded peach-rose cheek areas, a tiny dark red oval nose and shallow closed smile. Preserve the two widely separated glossy dark oval eyes with warm brown side arcs, small pale clover-like highlights and the asymmetry caused by the head tilting toward the viewer's left. Small rounded body, short arms spread to the sides as in the photo, short legs, cream-and-pale-yellow striped shirt, red neckerchief pointing to the viewer's right, dark indigo bib shorts with shoulder straps, two tan buttons, ochre seam lines and turned-up hems. Brown exposed paws and feet. Translate fur into a simple slightly irregular outer contour and flat color areas; retain only a few short forehead tuft lines, not realistic hair. Center the full visible body on a plain white background with clear margins. Remove the grass, landscape, loose candy, shadows, copyright marks and legible embroidered lettering; keep the scarf red and otherwise keep the visible clothing shapes and color placement. No new accessories, no hanging ring invented outside the photographed area, no new pose, no extra characters, no 3D render, no gradients, no fabric texture. Do not invent hidden back details.\nRefinement requirements: keep the head tilt subtle, as in the original photograph, rather than exaggerating it. Match the small cream face-mask area and broad golden-brown forehead in the photo: the downward center forehead tuft ends above the nose bridge and covers more upper forehead, and the cheek lobes project sideways from the lower mask. Keep the eyes at their original small size and orientation, the smile short and almost horizontal, and the arms' original unequal bend. Use strictly uniform flat fills for the golden-brown fur, cream mask, red scarf and dark-indigo shorts. Do not add radial shading or shadow gradients. Show gentle peach cheek patches with a single flat peach tone. Preserve the original large-head-to-short-body relation without enlarging the head further.",
+    "language": "en",
+    "input_mode": "reference_image",
+    "reference_image_ids": [
+      "V04"
+    ],
+    "reference_preparation": "1200×1200完整官方原图，无裁切；只作本地研究依赖，公开不打包",
+    "generated_file": "../2026-10-31/flat-ref-v2.webp",
+    "tested_at": "2026-10-31",
+    "status": "ready",
+    "checks": {
+      "identity": "棕熊＋淡色双叶脸区＋棕耳＋四叶状眼点接近",
+      "silhouette": "大圆头短身和侧倾张臂可辨；额毛与局部弧度仍不同",
+      "face": "v1脸区偏宽、倾斜偏强；v2额毛/短笑改善，眼与腮颊轮廓仍略异",
+      "colors": "红巾、深蓝裤、浅黄条纹与棕毛区域对应；照片光照不复制为标准色",
+      "pose": "保留可见四肢和微侧倾；挂环及背面未补",
+      "render": "二维插画，仍有微渐层/白底纸纹；严格均匀纯平涂未通过"
+    },
+    "revision_reason": "在原图依赖上重测；改善脸区、额毛与短笑，身份项接近，严格无渐层保留缺口",
+    "remaining_differences": [
+      "眼部四叶亮点形状与大小、腮颊和毛缘仍略异",
+      "只一次最终附图结果；不证明纯文字/中文/重复稳定性",
+      "白底微纸纹与轻微渐层仍在；不可声称精确复刻或严格纯平涂"
+    ],
+    "untested_modes": [
+      "纯文字中文",
+      "纯文字英文",
+      "中文附图",
+      "重复稳定性",
+      "3D",
+      "毛绒概念生成"
+    ],
+    "history_note": "继承2026-10-31实测记录；2026-11-01重新从GitHub读取；V2图像本轮重新打开检查。"
+  },
+  {
+    "prompt_id": "ribodiary-bearibo-flat-ref-v3",
+    "version": 3,
+    "subject_id": "ribodiary",
+    "target_scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
+    "carrier": "平面研究转绘",
+    "exact_prompt": "Create a flat 2D research illustration from the attached single product photograph. Preserve the pictured golden-brown bear's exact identity, outfit, visible angle and pose; translate only the rendering into crisp, uniform flat color shapes.\nIdentity and geometry: a very large rounded furry head, dark-brown round ears, golden-brown broad forehead with a central downward tuft, a small pale-cream double-lobed heart-shaped face mask, rounded peach cheek lobes, tiny dark-red oval nose and a very short shallow closed smile. Small widely spaced dark oval eyes have warm brown side arcs and tiny pale clover-like highlights. Keep the original head tilt toward the viewer's left and the original head-to-body ratio. The small body has short arms spread with unequal bends and short separated legs.\nClothes: cream and pale-yellow striped short-sleeve shirt, red neckerchief with the two visible tail tips pointing to the viewer's right, dark-indigo bib shorts with two shoulder straps, two tan round buttons, thin ochre seam lines and turned-up hems. Exposed paws and feet remain golden brown. Keep all these colored areas in their photographed positions.\nFlat-color constraint: every single contiguous color region must have a single solid uniform RGB fill, including the entire golden-brown head, cream mask, each cheek, the red scarf and both dark-indigo trouser legs. No lighter centers, darker edges, gradients, shading, texture, noise, brush grain, paper grain, fabric weave or lighting. Only the eye highlights, short tuft lines, seam lines and necessary solid-color feature boundaries interrupt fills. Use a restrained slightly irregular outer contour to indicate fur, not individual hairs. This is an unshaded vector-style color diagram, not a dimensional plush rendering.\nComposition: preserve the original leaning full-body pose on a completely uniform pure-white background with margins on all sides. Remove the landscape, grass, loose candy, cast shadows, copyright marks and embroidered lettering. Do not add accessories, a hanging ring, hidden back details, text or other characters. Do not change the subject or simplify its face into a different generic bear.",
+    "language": "en",
+    "input_mode": "reference_image",
+    "reference_image_ids": [
+      "V04"
+    ],
+    "dependencies": [
+      {
+        "id": "V04",
+        "role": "identity_and_pose_reference",
+        "url": "https://prod-global-biz.popmart.com/globalAdmin/1792747010610_51f8ba8bb40b10288601ff9b8472c7ec.jpg",
+        "size": [
+          1200,
+          1200
+        ],
+        "sha256": "cdd969500b9d0a58a91e3fb7535d20ad685475c7ebf11e440dd5373e95de7184",
+        "preparation": "完整官方原图，无裁切，公开仅外链"
+      }
+    ],
+    "generator": "image_gen built-in",
+    "transparent_background": false,
+    "generated_file": "../2026-11-01/flat-ref-v3.webp",
+    "tested_at": "2026-11-01",
+    "status": "revise",
+    "strict_flat_fill": "not_passed",
+    "checks": {
+      "identity": "保留大头棕熊、双叶奶油脸区、圆耳、红巾和蓝背带裤的款式身份。",
+      "silhouette": "保留向画面左侧倾头与张臂；额毛、毛缘形状仍不同。",
+      "face": "脸区仍偏宽，鼻子偏大；眼内亮点简化，笑口弧度略不同。",
+      "colors": "主要色区位置对应；新图并未严格采用单一色块。",
+      "pose": "四肢与可见衣装位置接近，未补背面或挂环。",
+      "render": "毛面、脸区、裤装有明显连续明暗变化，白底也非严格均匀；严格纯平涂未通过。"
+    },
+    "revision_reason": "V2仍有渐层；V3只依赖原图，加强逐块均匀填色约束，结果仍未解决。",
+    "remaining_differences": [
+      "连续渐层与背景细纹仍未消除；新版本不进入正式可用区",
+      "脸区、毛缘、鼻眼与官方摄影仍有轻微差别；不称精确复刻"
+    ],
+    "untested_modes": [
+      "纯文字中文",
+      "纯文字英文",
+      "中文附图",
+      "同词重复稳定性",
+      "3D",
+      "毛绒概念生成"
+    ],
+    "output_metadata": {
+      "version": 3,
+      "original_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "117d6f944e4e7a9c4da406f10c178f5e77306dcf925ce08dce513d88613e379f",
+      "samples": [
+        {
+          "xy": [
+            552,
+            903
+          ],
+          "rgb": [
+            26,
+            51,
+            82
+          ]
+        },
+        {
+          "xy": [
+            552,
+            991
+          ],
+          "rgb": [
+            25,
+            52,
+            83
+          ]
+        },
+        {
+          "xy": [
+            464,
+            251
+          ],
+          "rgb": [
+            218,
+            163,
+            88
+          ]
+        },
+        {
+          "xy": [
+            464,
+            314
+          ],
+          "rgb": [
+            217,
+            163,
+            88
+          ]
+        },
+        {
+          "xy": [
+            63,
+            63
+          ],
+          "rgb": [
+            254,
+            254,
+            254
+          ]
+        }
+      ],
+      "published_size": [
+        768,
+        768
+      ],
+      "bytes": 23420,
+      "published_sha256": "cd0bd1180f9b30af42a96415247a7648301c4fcd819693ff56a72f0fe33c5b2f"
+    }
+  },
+  {
+    "prompt_id": "ribodiary-bearibo-flat-ref-v4",
+    "version": 4,
+    "subject_id": "ribodiary",
+    "target_scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
+    "carrier": "平面研究转绘",
+    "exact_prompt": "Use case: style-transfer.\nImage 1 is the illustration to edit. Image 2 is the original photograph for identity verification only.\nChange ONLY the illustration's rendering to truly flat, solid, unshaded color fills. Keep its bear identity, face-mask outline, eye shapes and highlights, cheek shapes, nose and short smile, head tilt, round ears, forehead tuft, all body proportions, asymmetrical arm pose, clothes, red scarf tails, straps, buttons, seams and rolled hems unchanged. Do not redesign the character.\nReplace every shaded region with one single uniform color: golden-brown fur, dark-brown ears, cream face, pale peach cheeks, red scarf, cream-and-pale-yellow striped shirt, dark-indigo shorts, tan buttons and ochre stitches. Both trouser legs must be exactly the same constant indigo fill all the way from waistband to hems, with no lighter center, no darker edge, no shading between the legs. Every fur region must use exactly the same constant golden-brown fill. Use a pure white constant background.\nKeep existing thin solid detail lines and flat eye highlight shapes. Eliminate ALL gradients, highlights from surfaces, soft light, shadows, ambient occlusion, grain, dithering, paper texture, fabric texture and colored-pencil texture. Render like a simple screen-printed spot-color character illustration: hard boundaries, flat solid interiors. No dimensional modeling. No new text, letters, accessories, scenery or characters. Full body with margins.",
+    "language": "en",
+    "input_mode": "image_edit_with_reference",
+    "reference_image_ids": [
+      "GEN-V2",
+      "V04"
+    ],
+    "dependencies": [
+      {
+        "id": "GEN-V2",
+        "role": "edit_target",
+        "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/flat-ref-v2.webp",
+        "size": [
+          768,
+          768
+        ],
+        "sha256": "1447293a1e56d706926f63d6626694b5270ddc6b65de126ffd26ed381af5f7a5",
+        "preparation": "前日真实生成webp原文件，无改图；并非官方母版"
+      },
+      {
+        "id": "V04",
+        "role": "identity_and_pose_reference",
+        "url": "https://prod-global-biz.popmart.com/globalAdmin/1792747010610_51f8ba8bb40b10288601ff9b8472c7ec.jpg",
+        "size": [
+          1200,
+          1200
+        ],
+        "sha256": "cdd969500b9d0a58a91e3fb7535d20ad685475c7ebf11e440dd5373e95de7184",
+        "preparation": "完整官方原图，无裁切，公开仅外链"
+      }
+    ],
+    "generator": "image_gen built-in",
+    "transparent_background": false,
+    "generated_file": "../2026-11-01/flat-ref-v4.webp",
+    "tested_at": "2026-11-01",
+    "status": "revise",
+    "strict_flat_fill": "not_passed",
+    "checks": {
+      "identity": "保留V2相同款式的识别组合。",
+      "silhouette": "V2的倾头与四肢关系延续；轮廓并非原图精确描摹。",
+      "face": "眼亮点形状、腮颊、额毛与原图略异；鼻面反光仍被生成。",
+      "colors": "红巾/蓝裤/黄奶油条纹位置保留；毛色、耳、裤仍有渐层。",
+      "pose": "完整可见全身与两条红巾尾保留。",
+      "render": "改为编辑V2并未去掉明暗和背景细纹；严格纯平涂未通过。"
+    },
+    "revision_reason": "V3从照片重绘仍有明暗；V4改为编辑既有V2，并用官方照片核身份，只要求消除渐层。",
+    "remaining_differences": [
+      "连续渐层与背景细纹仍未消除；新版本不进入正式可用区",
+      "脸区、毛缘、鼻眼与官方摄影仍有轻微差别；不称精确复刻"
+    ],
+    "untested_modes": [
+      "纯文字中文",
+      "纯文字英文",
+      "中文附图",
+      "同词重复稳定性",
+      "3D",
+      "毛绒概念生成"
+    ],
+    "output_metadata": {
+      "version": 4,
+      "original_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "e5646715a331bd2b21ef66aa3cbf4360e6a08f7475b27223c8f4ace0b410419a",
+      "samples": [
+        {
+          "xy": [
+            552,
+            903
+          ],
+          "rgb": [
+            32,
+            54,
+            91
+          ]
+        },
+        {
+          "xy": [
+            552,
+            991
+          ],
+          "rgb": [
+            34,
+            55,
+            92
+          ]
+        },
+        {
+          "xy": [
+            464,
+            251
+          ],
+          "rgb": [
+            220,
+            160,
+            86
+          ]
+        },
+        {
+          "xy": [
+            464,
+            314
+          ],
+          "rgb": [
+            221,
+            162,
+            87
+          ]
+        },
+        {
+          "xy": [
+            63,
+            63
+          ],
+          "rgb": [
+            254,
+            254,
+            254
+          ]
+        }
+      ],
+      "published_size": [
+        768,
+        768
+      ],
+      "bytes": 21564,
+      "published_sha256": "66badb8b5ee7a18a6f17332529bc2eecad16d1575c524975315c7d8b7431f10e"
+    }
+  },
+  {
+    "prompt_id": "ribodiary-bearibo-flat-ref-v5",
+    "version": 5,
+    "subject_id": "ribodiary",
+    "target_scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
+    "carrier": "平面研究转绘",
+    "exact_prompt": "Edit image 1 into a strictly flat spot-color illustration. Image 2 is the identity reference photograph. Keep image 1's existing bear geometry, tilted pose, facial features, tuft, ears, outfit, red scarf tails, striped shirt, indigo bib shorts, buttons, stitches, proportions and full-body composition exactly.\nUse ONLY these solid color inks, plus edge antialiasing: white background #FFFFFF; golden fur #DDA650; dark ears #6B3B1D; cream face #FFE9C4; cheeks #F8B394; scarf #DA2024; dark-indigo shorts and straps #203955; pale-yellow stripes #FFF0AD; shirt cream #FFFBE2; buttons and stitches #BE914A; dark eye/nose/line details #331C13; dark-red nose #7F1D23; small eye highlights #FFFBE2.\nOne ink per contiguous fill. Do not interpolate between inks anywhere inside a shape. In particular use one constant #DDA650 across the entire forehead and every paw and foot, and one constant #203955 across both trouser legs and straps. The mask is one constant cream fill and each cheek is one constant peach fill. The background is one constant white fill.\nRemove every gradient, soft glow, shading, shadow, grain, paper texture, fabric texture and dimensional highlight. Flat vector-like screenprint, no lighting. Keep the eyes' distinctive small highlight symbols and necessary solid outline and seam details. Do not add outlines around every shape. No new shapes, text, accessories or scenery.",
+    "language": "en",
+    "input_mode": "image_edit_with_reference",
+    "reference_image_ids": [
+      "GEN-V2",
+      "V04"
+    ],
+    "dependencies": [
+      {
+        "id": "GEN-V2",
+        "role": "edit_target",
+        "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/flat-ref-v2.webp",
+        "size": [
+          768,
+          768
+        ],
+        "sha256": "1447293a1e56d706926f63d6626694b5270ddc6b65de126ffd26ed381af5f7a5",
+        "preparation": "前日真实生成webp原文件，无改图；并非官方母版"
+      },
+      {
+        "id": "V04",
+        "role": "identity_and_pose_reference",
+        "url": "https://prod-global-biz.popmart.com/globalAdmin/1792747010610_51f8ba8bb40b10288601ff9b8472c7ec.jpg",
+        "size": [
+          1200,
+          1200
+        ],
+        "sha256": "cdd969500b9d0a58a91e3fb7535d20ad685475c7ebf11e440dd5373e95de7184",
+        "preparation": "完整官方原图，无裁切，公开仅外链"
+      }
+    ],
+    "generator": "image_gen built-in",
+    "transparent_background": false,
+    "generated_file": "../2026-11-01/flat-ref-v5.webp",
+    "tested_at": "2026-11-01",
+    "status": "revise",
+    "strict_flat_fill": "not_passed",
+    "checks": {
+      "identity": "仍可对应同一蓝背带裤棕熊，未更换目标。",
+      "silhouette": "延续V2轮廓与姿态；不证明与原图几何一致。",
+      "face": "四叶状眼点较清楚；额毛、眼睛大小、腮颊与鼻面高光仍有差别。",
+      "colors": "即使限定色值，毛面和裤腿仍出现连续色差；指定色值是测试控制值，不是官方标准色。",
+      "pose": "倾头、短身、张臂和衣装配置保留。",
+      "render": "限定色表也未清除渐层与纸纹，未通过严格纯平涂关卡。"
+    },
+    "revision_reason": "V4仍有明暗；V5同样依赖V2和官方原图，增加明确色表和禁止色块内插值，结果仍未解决。",
+    "remaining_differences": [
+      "连续渐层与背景细纹仍未消除；新版本不进入正式可用区",
+      "脸区、毛缘、鼻眼与官方摄影仍有轻微差别；不称精确复刻"
+    ],
+    "untested_modes": [
+      "纯文字中文",
+      "纯文字英文",
+      "中文附图",
+      "同词重复稳定性",
+      "3D",
+      "毛绒概念生成"
+    ],
+    "output_metadata": {
+      "version": 5,
+      "original_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "1823970a1e59c58e78b3f13ea5c6d23697167fb83be4ff9a541cfbf4f1275e6f",
+      "samples": [
+        {
+          "xy": [
+            552,
+            903
+          ],
+          "rgb": [
+            32,
+            54,
+            85
+          ]
+        },
+        {
+          "xy": [
+            552,
+            991
+          ],
+          "rgb": [
+            33,
+            56,
+            85
+          ]
+        },
+        {
+          "xy": [
+            464,
+            251
+          ],
+          "rgb": [
+            218,
+            161,
+            81
+          ]
+        },
+        {
+          "xy": [
+            464,
+            314
+          ],
+          "rgb": [
+            219,
+            162,
+            82
+          ]
+        },
+        {
+          "xy": [
+            63,
+            63
+          ],
+          "rgb": [
+            254,
+            254,
+            254
+          ]
+        }
+      ],
+      "published_size": [
+        768,
+        768
+      ],
+      "bytes": 21550,
+      "published_sha256": "97f063c59f5b77f5817c43abbeed83dd8a6be458af0ff1dbfa128fa010dea8ad"
+    }
+  },
+  {
+    "prompt_id": "ribodiary-bearibo-flat-ref-v6",
+    "version": 6,
+    "subject_id": "ribodiary",
+    "target_scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
+    "carrier": "平面研究转绘",
+    "exact_prompt": "把附图中的这一个棕熊挂件转绘成无明暗的二维色块插图。必须保持同一款式与可见角度：大圆头、两只深棕圆耳、宽阔棕色额头与向下的中间额毛、较小的奶油色双叶心形脸区、凸出的淡桃色腮颊、小暗红椭圆鼻和短浅闭口笑。两眼是间距较宽的小深色椭圆，保留棕色侧弧和小四叶状浅色亮点。头向画面左侧倾，保留原图大头短身比例、双臂不等角度张开和两条短腿。衣装严格保持奶油浅黄色横条短袖、红色领巾及向画面右侧的两个巾尾、深靛蓝背带短裤、两枚浅棕圆纽扣、赭黄缝线和翻边裤脚；手脚露出棕色。\n本次只画平面色块，完全取消照片的体积与光照。每个连续色块内部必须像剪纸一样使用完全相同的颜色：棕色头、手、脚不画高光或暗边，深蓝两条裤腿从上到下一个均匀色值；奶油脸与桃色腮颊各一个均匀色值。线条也只用单一实色。眼中亮点是固定图案，不能据此给鼻子、毛面或裤子添加反光。毛绒只用少量圆弧外轮廓表达，不画毛丝。\n纯白均匀背景，全身完整、四周留白。去掉草地、糖果、场景、阴影、刺绣文字和版权字样，不补挂环与看不见的背面。不要渐变、晕染、纸纹、织物纹理、噪点、光照、投影、三维体积或新配饰。保留同一身份与姿态，不能简化成另一个普通小熊。",
+    "language": "zh",
+    "input_mode": "reference_image",
+    "reference_image_ids": [
+      "V04"
+    ],
+    "dependencies": [
+      {
+        "id": "V04",
+        "role": "official_identity_reference",
+        "url": "https://prod-global-biz.popmart.com/globalAdmin/1792747010610_51f8ba8bb40b10288601ff9b8472c7ec.jpg",
+        "size": [
+          1200,
+          1200
+        ],
+        "sha256": "cdd969500b9d0a58a91e3fb7535d20ad685475c7ebf11e440dd5373e95de7184",
+        "preparation": "完整原图无裁切；公开仅外链"
+      }
+    ],
+    "generated_file": "../2026-11-02/flat-ref-v6.webp",
+    "tested_at": "2026-11-02",
+    "status": "revise",
+    "strict_flat_fill": "not_passed",
+    "revision_reason": "改用中文明确逐色块均匀填色；直接依原摄影仍有渐层和新增口鼻浅色区。",
+    "checks": {
+      "identity": "同一蓝背带裤棕熊身份可辨；不声称精确复刻",
+      "silhouette": "大头短身、圆耳及左倾头保留；毛缘圆弧较规则",
+      "face": "新增口鼻浅色区、脸区及鼻子偏大，存在结构偏差",
+      "colors": "红巾/深蓝裤/黄奶油条纹位置对应；V6棕毛较浅偏粉",
+      "pose": "四肢张开与两条巾尾可见，未补背面挂环",
+      "render": "毛面、裤装、脸区仍有连续明暗与背景细纹；严格纯平涂未通过"
+    },
+    "remaining_differences": [
+      "渐层与背景细纹尚未解决",
+      "纯文字、同词重复稳定性未测；中文失败不能反推其他语言成功"
+    ],
+    "output_metadata": {
+      "generator": "image_gen built-in",
+      "transparent_background": false,
+      "original_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "2522c2b5e816ea87e4da13f5524ed6e9eb2275fcf7c574d6093baaf9f6b2df65",
+      "published_size": [
+        768,
+        768
+      ],
+      "bytes": 22554,
+      "published_sha256": "75d82c928db190323d8d76a807b5254c62f8d3133195ca709eb3ad30249830d4",
+      "webp_quality": 80
+    }
+  },
+  {
+    "prompt_id": "ribodiary-bearibo-flat-ref-v7",
+    "version": 7,
+    "subject_id": "ribodiary",
+    "target_scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
+    "carrier": "平面研究转绘",
+    "exact_prompt": "只修改附图的填色方式，保持图中角色的全部轮廓、脸区形状、眼鼻嘴、眼内亮点、耳朵、额毛、头身比例、倾头方向、四肢姿态、衣装色区、两条领巾尾、背带纽扣与缝线不变。\n将每一块颜色改成一个完全均匀的实色：金棕色头和四肢、深棕耳、奶油色脸、桃色腮颊、红领巾、浅黄与奶油条纹上衣、深蓝背带裤。尤其两条裤腿必须全域同一深蓝色，禁止中间亮边缘暗；所有棕色毛面必须同一种金棕实色。不添加鼻面反光，不添加新的口鼻浅色区，不添加褶皱。背景全部纯白。\n这是色块填色修正，不是重新设计，不要改变身份或姿态。禁止一切渐层、明暗、光照、晕染、纹理、纸纹、噪点、立体效果和投影。保留眼中原有的固定小亮点图案与必要缝线。全身及四周留白保持原图，无文字，无新配件。",
+    "language": "zh",
+    "input_mode": "image_edit",
+    "reference_image_ids": [
+      "GEN-V2"
+    ],
+    "dependencies": [
+      {
+        "id": "GEN-V2",
+        "role": "edit_target",
+        "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/flat-ref-v2.webp",
+        "size": [
+          768,
+          768
+        ],
+        "sha256": "1447293a1e56d706926f63d6626694b5270ddc6b65de126ffd26ed381af5f7a5",
+        "preparation": "旧真实生成webp，无裁切；本次未直接附官方摄影；身份链源于V04"
+      }
+    ],
+    "generated_file": "../2026-11-02/flat-ref-v7.webp",
+    "tested_at": "2026-11-02",
+    "status": "revise",
+    "strict_flat_fill": "not_passed",
+    "revision_reason": "针对V6新增口鼻色区及渐层，改为只编辑原V2，保留所有脸区和几何，只修填色；未直接附产品照片，防止摄影光照再次迁入。",
+    "checks": {
+      "identity": "同一蓝背带裤棕熊身份可辨；不声称精确复刻",
+      "silhouette": "大头短身、圆耳及左倾头保留；毛缘圆弧较规则",
+      "face": "无V6新增口鼻浅色区；额毛、眼亮点、腮颊形状仍略异于原摄影",
+      "colors": "主要色区保留，未由均匀填色消除内部明暗",
+      "pose": "四肢张开与两条巾尾可见，未补背面挂环",
+      "render": "毛面、裤装、脸区仍有连续明暗与背景细纹；严格纯平涂未通过"
+    },
+    "remaining_differences": [
+      "渐层与背景细纹尚未解决",
+      "纯文字、同词重复稳定性未测；中文失败不能反推其他语言成功"
+    ],
+    "output_metadata": {
+      "generator": "image_gen built-in",
+      "transparent_background": false,
+      "original_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "c8d659cbae06f7867e0ef9f02c3a0470ff50a38a9ae3453abe3b3f3a7143df87",
+      "published_size": [
+        768,
+        768
+      ],
+      "bytes": 21694,
+      "published_sha256": "df227e84a32c11d6ea3498bb86e3fdff1931044aa3a7ee1bd5db7cbad3024df2",
+      "webp_quality": 80
+    }
+  },
+  {
+    "prompt_id": "ribodiary-bearibo-flat-ref-v8",
+    "version": 8,
+    "subject_id": "ribodiary",
+    "target_scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
+    "carrier": "平面研究转绘",
+    "exact_prompt": "Make a flat vector-style color-separation illustration of the single bear in the reference photograph, retaining the same visible outfit, head tilt to the viewer's left, unequal spread arms and full-body pose. The reference supplies geometry and identity only.\nBuild the artwork entirely from sharply bounded, completely unshaded solid-color shapes. Large round golden-brown head; two dark-brown round ears; broad forehead with its central descending tuft; small cream double-lobed heart-shaped face area; pale peach round projecting cheeks; two small widely separated dark oval eyes with brown side arcs and pale four-lobed highlight symbols; tiny dark-red oval nose and very short closed smile. No separate new pale muzzle patch.\nShort body and legs, golden-brown hands and feet. Cream shirt with pale-yellow horizontal stripes. Red neckerchief with two tail tips toward the viewer's right. Dark-indigo bib shorts, two shoulder straps, two tan buttons, thin ochre seam lines and rolled hems.\nFlat spot inks only. Fill the entire head, hands and feet with one identical solid golden-brown color; fill both trouser legs and straps with one identical solid dark-indigo color. No gradients, highlights on surfaces, shadows, lighting, texture, noise, paper grain, soft edges or three-dimensional modeling. Fur is represented only by a restrained irregular outline and a few short tuft marks. Keep the small eye-highlight symbols as identity markings.\nUniform pure-white background with margins. Remove the photographed scenery, grass, loose candy and all lettering. Do not add accessories, a hanging ring, hidden back structures or new facial regions. Do not change the subject, its proportions, color placement or pose.",
+    "language": "en",
+    "input_mode": "reference_image",
+    "reference_image_ids": [
+      "V04"
+    ],
+    "dependencies": [
+      {
+        "id": "V04",
+        "role": "official_identity_and_pose_reference",
+        "url": "https://prod-global-biz.popmart.com/globalAdmin/1792747010610_51f8ba8bb40b10288601ff9b8472c7ec.jpg",
+        "size": [
+          1200,
+          1200
+        ],
+        "sha256": "cdd969500b9d0a58a91e3fb7535d20ad685475c7ebf11e440dd5373e95de7184",
+        "preparation": "完整原图，无裁切；公开仅外链"
+      }
+    ],
+    "generated_file": "flat-ref-v8.webp",
+    "tested_at": "2026-11-03",
+    "status": "revise",
+    "strict_flat_fill": "not_passed",
+    "revision_reason": "以色块分色图为渲染约束重写；结果额毛尖化、缝线简化且渐层仍在。",
+    "repeat_of": null,
+    "checks": {
+      "identity": "红巾、蓝背带裤、双叶奶油脸区与圆耳棕熊仍对应同款",
+      "silhouette": "额毛和毛缘尖化，偏离原款圆润感",
+      "face": "眼睛偏大、脸区较宽，额毛变成线状符号",
+      "colors": "红/蓝/黄奶油区域对应，但棕毛偏橙且裤毛区域仍有渐层",
+      "pose": "同款可见倾头与张臂，不补不可见背面或挂环",
+      "structure": "裤装缝线简化成连续实线",
+      "render": "二维插画，仍有渐层与背景细纹；严格均匀纯平涂未通过"
+    },
+    "remaining_differences": [
+      "新版本未进入正式可用词区",
+      "纯文字未测；旧V2仅有限身份近似，严格平涂未通过"
+    ],
+    "stability": "not_tested",
+    "output_metadata": {
+      "generator": "image_gen built-in",
+      "transparent_background": false,
+      "original_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "6562c01bffa815519f03553d1bce5289834fccd1eab3125331346b8a5f26bc08",
+      "published_size": [
+        768,
+        768
+      ],
+      "published_sha256": "a5e94771e7ef1476b9e3e859afe13dac2bf00a4ee9dc099eac72689bc68f88b4",
+      "bytes": 22046,
+      "webp_quality": 80
+    }
+  },
+  {
+    "prompt_id": "ribodiary-bearibo-flat-ref-v9",
+    "version": 9,
+    "subject_id": "ribodiary",
+    "target_scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
+    "carrier": "平面研究转绘",
+    "exact_prompt": "Create a flat 2D research illustration of the single small golden-brown bear shown in the attached reference photo, preserving this exact outfit, visible angle and leaning pose. Use the reference as the identity and pose source, not as a style source. Preserve a very large round head with two dark-brown round ears, the tousled central forehead tuft dipping into a pale cream heart-shaped face mask, protruding rounded peach-rose cheek areas, a tiny dark red oval nose and shallow closed smile. Preserve the two widely separated glossy dark oval eyes with warm brown side arcs, small pale clover-like highlights and the asymmetry caused by the head tilting toward the viewer's left. Small rounded body, short arms spread to the sides as in the photo, short legs, cream-and-pale-yellow striped shirt, red neckerchief pointing to the viewer's right, dark indigo bib shorts with shoulder straps, two tan buttons, ochre seam lines and turned-up hems. Brown exposed paws and feet. Translate fur into a simple slightly irregular outer contour and flat color areas; retain only a few short forehead tuft lines, not realistic hair. Center the full visible body on a plain white background with clear margins. Remove the grass, landscape, loose candy, shadows, copyright marks and legible embroidered lettering; keep the scarf red and otherwise keep the visible clothing shapes and color placement. No new accessories, no hanging ring invented outside the photographed area, no new pose, no extra characters, no 3D render, no gradients, no fabric texture. Do not invent hidden back details.\nRefinement requirements: keep the head tilt subtle, as in the original photograph, rather than exaggerating it. Match the small cream face-mask area and broad golden-brown forehead in the photo: the downward center forehead tuft ends above the nose bridge and covers more upper forehead, and the cheek lobes project sideways from the lower mask. Keep the eyes at their original small size and orientation, the smile short and almost horizontal, and the arms' original unequal bend. Use strictly uniform flat fills for the golden-brown fur, cream mask, red scarf and dark-indigo shorts. Do not add radial shading or shadow gradients. Show gentle peach cheek patches with a single flat peach tone. Preserve the original large-head-to-short-body relation without enlarging the head further.",
+    "language": "en",
+    "input_mode": "reference_image",
+    "reference_image_ids": [
+      "V04"
+    ],
+    "dependencies": [
+      {
+        "id": "V04",
+        "role": "official_identity_and_pose_reference",
+        "url": "https://prod-global-biz.popmart.com/globalAdmin/1792747010610_51f8ba8bb40b10288601ff9b8472c7ec.jpg",
+        "size": [
+          1200,
+          1200
+        ],
+        "sha256": "cdd969500b9d0a58a91e3fb7535d20ad685475c7ebf11e440dd5373e95de7184",
+        "preparation": "完整原图，无裁切；公开仅外链"
+      }
+    ],
+    "generated_file": "flat-ref-v9.webp",
+    "tested_at": "2026-11-03",
+    "status": "revise",
+    "strict_flat_fill": "not_passed",
+    "revision_reason": "V8身份细节漂移后回到较接近的V2全文，保持同一官方原图、语言与附图模式，重复生成检验原有限结果；没有换目标。",
+    "repeat_of": "ribodiary-bearibo-flat-ref-v2",
+    "checks": {
+      "identity": "红巾、蓝背带裤、双叶奶油脸区与圆耳棕熊仍对应同款",
+      "silhouette": "大头短身与倾头张臂保留；脸区形状、局部轮廓仍不同",
+      "face": "相较旧V2笑口变长且更浅，眼睛与眼点形状变化，不能称稳定一致",
+      "colors": "色区对应，嘴线、眼与棕毛色调仍有变化，毛面/裤装明暗未消除",
+      "pose": "同款可见倾头与张臂，不补不可见背面或挂环",
+      "structure": "恢复虚线缝线，但翻边和细节并非照片精确描摹",
+      "render": "二维插画，仍有渐层与背景细纹；严格均匀纯平涂未通过"
+    },
+    "remaining_differences": [
+      "新版本未进入正式可用词区",
+      "纯文字未测；旧V2仅有限身份近似，严格平涂未通过"
+    ],
+    "stability": "同词重复1次，共2个跨日输出；可见差异，不证明稳定性",
+    "output_metadata": {
+      "generator": "image_gen built-in",
+      "transparent_background": false,
+      "original_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "2f2d2a7e9ef5c72c67cae7f588dc9b4f5aaaf3c2888e6f47878f0d4ec47afc89",
+      "published_size": [
+        768,
+        768
+      ],
+      "published_sha256": "0e5f8d1d88af0357cffd8ad86e7ad888f88cac3167f91c57a0ad803cd9402f8d",
+      "bytes": 20772,
+      "webp_quality": 80
+    }
+  }
+]

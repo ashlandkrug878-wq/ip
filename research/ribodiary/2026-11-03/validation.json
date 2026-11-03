@@ -1,0 +1,9 @@
+{
+  "card": "pass structure and vocab only",
+  "index": "unchanged, all IDs incl species retained",
+  "html_ids_links": "pass local checks",
+  "copy_download_exact": "pass",
+  "images": "WebP quality80 max768 <150KB",
+  "status": "partial, strict flat not passed",
+  "secrets": "no credentials/session tokens detected"
+}

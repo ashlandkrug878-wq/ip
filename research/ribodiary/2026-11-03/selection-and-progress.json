@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-03",
+  "window_7d": [
+    "2026-10-28",
+    "2026-11-03"
+  ],
+  "window_30d": [
+    "2026-10-05",
+    "2026-11-03"
+  ],
+  "dedupe": "重新读取43张研究卡及别名；pochacco已有，Bearibo属于RiboDiary角色群，不能重复新建。",
+  "selected": "ribodiary",
+  "reason": "11/2明确未通过平涂关卡，继续同款V04。官方发售和独立讨论是两类线索，但不冒称当天最热门。",
+  "new_studies": 0,
+  "count_before": 43,
+  "count_after": 43,
+  "qualified_candidates": [
+    {
+      "name": "RiboDiary（含瑞宝）",
+      "category": "泡泡玛特",
+      "sources": [
+        "T01",
+        "T02"
+      ],
+      "evidence_strength": "中等事件、弱需求；续作优先，不依据销量排名"
+    }
+  ],
+  "watchlist_not_qualified": [
+    {
+      "name": "MINISO CHOUCHOU",
+      "category": "名创优品",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "reason": "活动可核但独立需求不足；官方自有艺术家IP背景，不推定TOP TOY归属"
+    },
+    {
+      "name": "PUPPET SUNSUN",
+      "category": "日本其他IP",
+      "sources": [
+        "T05"
+      ],
+      "reason": "预约制度一个事件家族，申请已截止，缺实际参与数据；库内未研究但不跳过续作关卡"
+    },
+    {
+      "name": "Cinnamoroll",
+      "category": "三丽鸥",
+      "sources": [
+        "T06"
+      ],
+      "reason": "合作事件启动可核但无独立需求，已研究不重复"
+    },
+    {
+      "name": "K-MONSTERS",
+      "category": "韩国",
+      "sources": [
+        "T07"
+      ],
+      "reason": "快闪媒体线索，缺官方角色档案和独立用户需求"
+    }
+  ],
+  "limitations": "仅1个达到本轮采用门槛，其余4项是观察线索，不凑3–5个合格候选；不编全网热门排名或增长。",
+  "checkpoint": {
+    "subject_id": "ribodiary",
+    "status": "strict_flat_fill_not_passed",
+    "target": "V04蓝背带裤瑞宝可见角度，不换目标",
+    "tests_added": [
+      8,
+      9
+    ],
+    "next_action": "继续解决身份局部漂移和均匀平涂；不得进入3D或毛绒。",
+    "repeatability": "V9复测V2全文1次，有嘴眼/色调差异，不足以证明稳定。"
+  }
+}

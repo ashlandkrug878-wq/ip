@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-03",
+  "queries": [
+    "RiboDiary 瑞宝 2026 11月3日",
+    "MINISO CHOUCHOU 2026 11月 潮玩",
+    "site.sanrio.co.jp 2026 11月3日 発売",
+    "キャラクター 팝업 2026 11월3 人気"
+  ],
+  "languages": [
+    "zh",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "xhs": [
+    {
+      "query": "RiboDiary 品牌介绍",
+      "executed": false,
+      "read_pages": 0,
+      "accounts": [],
+      "status": "blocked",
+      "reason": "本轮新建连接尝试仍返回Unknown tool(browser.js)，停止依赖，不绕过或转移会话。"
+    },
+    {
+      "query": "RiboDiary 产品汇总",
+      "executed": false,
+      "read_pages": 0,
+      "accounts": [],
+      "status": "blocked",
+      "reason": "本轮新建连接尝试仍返回Unknown tool(browser.js)，停止依赖，不绕过或转移会话。"
+    }
+  ],
+  "sampling": "只复核原1个近期用户线程，页面缓存相对日期未更新；未计新样本，无订单证明。",
+  "negative_evidence": "T08/T09冲突并存，第三方取消标记与官方详情可读不能互相推出当前可售、售罄或停产。"
+}
