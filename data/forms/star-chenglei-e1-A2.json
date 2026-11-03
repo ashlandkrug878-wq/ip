@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-04",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-chenglei-e1",
+  "n": 2,
+  "title": "裹着易碎贴纸壳的铁秤砣立兽",
+  "species": "秤砣/铁秤砣",
+  "axes": {
+    "archetype": "物件生物，铁秤砣",
+    "silhouette": "下沉圆砣，外裹一层薄贴纸壳",
+    "mark": "前胸 · 一块偏大的淡黄易碎贴纸面",
+    "face": "半垂小黑豆眼，极小一字嘴",
+    "emotion": "内收，沉着走动感用重心前倾表达",
+    "fusion": "铁砣是芯，易碎贴纸面长成前胸壳皮，不是手贴的标签",
+    "material": "主体抛光铸铁，只有前胸贴纸面是哑光纸质贴面",
+    "palette": "铸铁深灰配淡黄贴纸"
+  },
+  "head": "砣环上方一小圆顶作头，环本身为空心圆不写字",
+  "combo": "铸铁圆砣 + 前胸偏大淡黄贴纸面 + 半垂豆眼 + 深灰对淡黄",
+  "odd": "贴纸面比脸大，像壳而不是便利贴",
+  "why": "易碎贴在能压住路的铁上。秤砣来自粉丝名落地，贴纸来自本人易碎比喻。",
+  "spec": {
+    "proportion": "全高约是砣径的 1.15 倍，脸只占上部 25%，贴纸面宽约脸宽的 1.8 倍",
+    "outline": "下沉半球加顶环，前胸鼓出一块圆角矩形贴面",
+    "volume": "大：铁砣；中：贴纸面；小：顶环和两只极短脚墩",
+    "face": "眼在头包中线略下，半垂，眼距约一个眼宽",
+    "stance": "两只极短脚墩分开站稳，重心略前",
+    "structure": "贴纸面边缘嵌进铁皮浅槽，撕掉会露出铁芯凹痕"
+  },
+  "toy_check": "站得住：短脚墩。物件长进去：贴纸是胸壳。特殊材质只有哑光贴面。新组合：易碎壳铁砣。不像绘本。头像要裁到贴纸。姿态：站，静。",
+  "crop": "记忆点在前胸大贴纸。头像必须裁进贴面一角。",
+  "collide": "不同于健身房铁饼人偶：没有举铁，没有笑，贴纸是嵌进的壳。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "贴纸被画成手持标签"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "贴面与砣糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "贴面加成文字图案"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩铁球"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换掉淡黄后必须仍是前胸大贴面"
+    ]
+  ],
+  "zh": "原创潮玩角色，一块抛光铸铁秤砣和一片易碎贴纸壳长在一起：铁砣是身体芯，前胸嵌着一块比脸更宽的圆角淡黄哑光贴纸面，边缘沉进浅槽，顶上有一枚空心圆砣环不写字。全高约是砣径的一点一五倍，脸只占上部。半垂小黑豆眼，极小一字嘴，神情收着。两只极短脚墩分开站稳，重心略前。主体铸铁深灰，只有贴纸面是淡黄。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实搪胶产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要把贴纸画成手持标签，不要贴纸上的汉字或英文，不要举重动作，不要尖刺。",
+  "enp": "Original designer toy character: a polished cast-iron weight fused with a fragile-sticker shell — a rounded matte pale-yellow sticker plate wider than the face is set into the chest with edges sunk in a shallow groove; a hollow top ring has no lettering. Height about 1.15 times the weight diameter. Half-lidded black bead eyes, tiny straight mouth, a held-in look. Two very short foot stubs stand apart, weight slightly forward. Body deep cast-iron grey; only the sticker plate is pale yellow. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, real vinyl toy product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, do not turn the sticker into a handheld tag, no Chinese or English on the sticker, no lifting pose, no sharp spikes.",
+  "rules_hit": "避开别的影子：不是举重吉祥物。识别：前胸大贴纸壳。不普通：贴面嵌进铁。材质只有哑光贴面。深灰对淡黄。组合少见。夸张在贴纸比脸大。",
+  "pose": "站"
+}

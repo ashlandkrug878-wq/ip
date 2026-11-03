@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-04",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-chenglei-e3",
+  "n": 2,
+  "title": "脸是空白麻将牌面的铁秤砣",
+  "species": "麻将牌",
+  "axes": {
+    "archetype": "物件生物，铁秤砣 + 牌面脸",
+    "silhouette": "圆砣身，前脸一块竖牌面",
+    "mark": "脸面 · 一块骨白空白麻将牌板",
+    "face": "半垂小黑豆眼嵌在牌面中下，极小一字嘴，牌面无汉字",
+    "emotion": "内收，留白",
+    "fusion": "空白麻将牌板成为脸平面，铁砣是身，不是手里摸的牌",
+    "material": "主体抛光铸铁，只有脸牌是哑光骨白瓷质",
+    "palette": "铸铁深灰配骨白牌面"
+  },
+  "head": "牌面上沿即额，无耳",
+  "combo": "铸铁圆砣 + 前脸骨白空白牌板 + 半垂豆眼 + 深灰对骨白",
+  "odd": "牌面无字，五官只占牌下半",
+  "why": "秤砣落地后眼前仍雾。牌面空白是雾的结构，不写热梗汉字。",
+  "spec": {
+    "proportion": "牌高约占全高 40%，牌宽约脸宽，砣径为身宽",
+    "outline": "下圆上竖圆角矩形",
+    "volume": "大：铁砣；中：牌面；小：顶环与短脚墩",
+    "face": "眼在牌高下半，半垂，眼距约一个眼宽",
+    "stance": "短脚墩站稳",
+    "structure": "牌板四边嵌进前额铁槽，表面无字无纹"
+  },
+  "toy_check": "站得住：短脚墩。物件长进去：牌是脸。特殊材质只有骨白瓷牌。新组合：铁砣脸是空白牌。不像绘本。头像即牌面。姿态：站。",
+  "crop": "记忆点在空白牌脸。头像天然含牌。",
+  "collide": "不同于麻将吉祥物：牌面空白无字，没有胡牌笑脸，身是秤砣。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "牌被画成手持麻将"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "牌与砣糊成椭圆"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "牌面加成汉字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩铁球"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换掉骨白后必须仍是竖牌脸"
+    ]
+  ],
+  "zh": "原创潮玩角色，一块抛光铸铁秤砣和一块空白麻将牌长在一起：铁砣是身体，前脸嵌着一块竖立的哑光骨白牌板，表面无汉字无花纹，半垂小黑豆眼落在牌面下半，极小一字嘴。全高约是砣径的一点二倍。短脚墩站稳。主体铸铁深灰，只有牌面是骨白瓷质。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实搪胶产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要把牌画成手持道具，不要任何汉字或牌面点数，不要赌具场景。",
+  "enp": "Original designer toy character: a polished cast-iron weight fused with a blank mahjong-tile face — a vertical matte bone-white tile plate with no characters or pips is set into the front, half-lidded black bead eyes in the lower half, tiny straight mouth. Height about 1.2 times the weight diameter. Short foot stubs stand firm. Body deep cast-iron grey; only the face tile is bone-white ceramic. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, real vinyl toy product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, do not turn the tile into a handheld prop, no Chinese characters or suit marks, no gambling scene.",
+  "rules_hit": "避开别的影子：不是麻将吉祥物。识别：空白牌脸+铁身。不普通：牌是脸平面。材质只有骨白瓷。深灰对骨白。组合少见。夸张在无字牌面。",
+  "pose": "站"
+}

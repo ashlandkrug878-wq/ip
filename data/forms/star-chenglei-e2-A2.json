@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-04",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-chenglei-e2",
+  "n": 2,
+  "title": "头顶一截雪压枝桠的空白画布立兽",
+  "species": "雪压枝桠",
+  "axes": {
+    "archetype": "物件生物，空白画布身",
+    "silhouette": "竖矩形画布身，顶上一截压雪短枝",
+    "mark": "头顶 · 一截深褐短枝压着厚雪冠",
+    "face": "半垂小黑豆眼，极小一字嘴",
+    "emotion": "内收，轻柔束缚",
+    "fusion": "画布板就是身体，雪压枝桠长成头顶冠，不是别在头上的装饰别针",
+    "material": "主体绷紧本白画布，只有枝是深褐木质、雪是哑光霜冻",
+    "palette": "本白配深褐与霜白"
+  },
+  "head": "画布上沿即头，枝雪冠压在上沿中央",
+  "combo": "竖本白画布身 + 顶上一截雪压深褐枝 + 半垂豆眼 + 本白对深褐霜白",
+  "odd": "雪冠体积接近脸宽，压得头顶微微下凹",
+  "why": "还没画完的布，被轻柔束缚感的雪枝压住。雪压枝来自本人 2023 关键词。",
+  "spec": {
+    "proportion": "全高约是身宽的 1.6 倍，雪冠高约占全高 18%",
+    "outline": "竖圆角矩形，顶中央鼓一截横枝加雪堆",
+    "volume": "大：画布身；中：雪堆；小：短枝与两只短脚墩",
+    "face": "眼在画布身上三分之一，半垂",
+    "stance": "两短脚墩并立站稳",
+    "structure": "枝端嵌进画布上沿木槽，雪堆是连在枝上的一体霜块"
+  },
+  "toy_check": "站得住：短脚墩。物件长进去：枝雪是冠。特殊材质：木质+霜冻。新组合：画布身顶雪枝。不像绘本。头像要裁到雪冠。姿态：站，静。",
+  "crop": "记忆点在雪压枝冠。头像必须裁进雪冠。",
+  "collide": "不同于圣诞树顶饰：没有灯，没有笑，身体是空白画布板。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "枝被画成头箍饰品"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "雪与顶糊成白球"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "枝加成复杂树冠"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时雪冠消失"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换掉霜白后必须仍是压枝冠"
+    ]
+  ],
+  "zh": "原创潮玩角色，一块竖立的空白画布和一截雪压枝桠长在一起：画布板就是身体，头顶中央嵌着一截深褐短枝，枝上压着一块体积接近脸宽的哑光霜白雪堆，压得上沿微微下凹。全高约是身宽的一点六倍。半垂小黑豆眼，极小一字嘴，神情收着。两只短脚墩并立。主体本白画布，只有枝是深褐木质、雪是霜冻。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实搪胶产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要把枝画成头箍饰品，不要屋檐建筑，不要汉字，不要尖冰锥扎手。",
+  "enp": "Original designer toy character: a vertical blank canvas body fused with a snow-laden branch crown — a short deep-brown twig set into the top rim carries a matte frost snow mound about as wide as the face, gently denting the upper edge. Height about 1.6 times body width. Half-lidded black bead eyes, tiny straight mouth, a held-in look. Two short foot stubs stand together. Body off-white canvas; only the twig is deep-brown wood and the snow is matte frost. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, real vinyl toy product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, do not turn the branch into a headband accessory, no building eaves, no lettering, no sharp painful icicles.",
+  "rules_hit": "避开别的影子：不是圣诞饰。识别：雪压枝冠+画布身。不普通：冠长进上沿。材质木质+霜冻。本白对深褐霜白。组合少见。夸张在雪冠近脸宽。",
+  "pose": "站"
+}

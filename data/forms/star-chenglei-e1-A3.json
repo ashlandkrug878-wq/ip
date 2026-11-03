@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-04",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-chenglei-e1",
+  "n": 3,
+  "title": "背后空白画布板的旅行箱团子",
+  "species": "空白画布",
+  "axes": {
+    "archetype": "物件生物，旅行箱团 + 画布背板",
+    "silhouette": "圆角箱团，背后一块更宽的本白矩形",
+    "mark": "背后 · 比身宽的空白画布板",
+    "face": "半垂小黑豆眼，极小一字嘴",
+    "emotion": "内收，放空",
+    "fusion": "箱团是前身，空白画布板嵌成后背轮廓，拿掉板身体就扁",
+    "material": "主体哑光箱壳塑料，只有背板是绷紧本白画布",
+    "palette": "雾蓝灰配本白画布"
+  },
+  "head": "箱顶圆包即头，无颈",
+  "combo": "圆角箱团 + 背后更宽本白画布板 + 半垂豆眼 + 雾蓝灰对本白",
+  "odd": "背板比身体宽，脸只占前脸一条",
+  "why": "易碎的远行遇上还没画完的背。画布是背板不是手持，箱是身体。",
+  "spec": {
+    "proportion": "全高约是身宽的 1.1 倍，背板宽约身宽的 130%，脸占前脸上部 30%",
+    "outline": "前圆角方团，后凸圆角矩形板",
+    "volume": "大：背板；中：箱团；小：短脚垫",
+    "face": "眼在前脸中线略上，半垂",
+    "stance": "坐着，背靠在画布板上",
+    "structure": "画布四边嵌进箱壳槽，下沿与坐面齐"
+  },
+  "toy_check": "站得住：坐靠背板。物件长进去：画布是后背。特殊材质只有画布。新组合：箱背是白布。不像绘本。头像要裁到背板上沿。姿态：靠坐。",
+  "crop": "记忆点在背后。头像必须裁进背板上沿。",
+  "collide": "不同于背包熊：背板是空白画布嵌死，没有包带，没有笑。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "画布被画成背包"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "板与箱糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "布面加成画作"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩箱脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换掉本白后必须仍是宽背板"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只圆角旅行箱团和一块空白画布长在一起：箱团是前身，背后嵌着一块比身体更宽的圆角本白画布板，下沿托住它坐着，拿掉背板身体就扁。全高约是身宽的一点一倍，脸只占前脸上部。半垂小黑豆眼，极小一字嘴，神情放空。坐着，后背靠在画布板上。主体雾蓝灰哑光硬壳，只有背板是绷紧本白画布。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实搪胶产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要把画布画成背包或画作，不要笔刷，不要品牌标识。",
+  "enp": "Original designer toy character: a rounded suitcase blob fused with a blank canvas — a rounded off-white canvas plate wider than the body is set into the back and becomes the seat. Height about 1.1 times body width. Half-lidded black bead eyes, tiny straight mouth, a blank calm look. Seated, leaning on the canvas plate. Body misty blue-grey matte hard shell; only the back plate is stretched blank canvas. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, real vinyl toy product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, do not turn the canvas into a backpack or finished painting, no brushes, no brand logos.",
+  "rules_hit": "避开别的影子：不是背包吉祥物。识别：宽空白背板。不普通：布嵌进壳。材质只有画布。雾蓝灰对本白。组合少见。夸张在背板比身宽。",
+  "pose": "靠坐"
+}

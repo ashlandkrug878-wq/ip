@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-04",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-chenglei-e3",
+  "n": 3,
+  "title": "格子法兰绒软壳裹住的铁秤砣",
+  "species": "格子衫软织物",
+  "axes": {
+    "archetype": "物件生物，铁秤砣 + 格子软壳",
+    "silhouette": "圆砣被一层松垮格子布裹住",
+    "mark": "外层 · 松垮格子法兰绒壳，露出一角铁芯",
+    "face": "半垂小黑豆眼从领口圆洞露出，极小一字嘴",
+    "emotion": "内收，告别感落在静站",
+    "fusion": "格子法兰绒长成整层软壳裹住铁砣，铁芯从下摆露出一角，不是穿衣的人",
+    "material": "主体内芯抛光铸铁，外层格子法兰绒是唯一织物特殊区",
+    "palette": "灰绿细格配铸铁深灰，领口一条青绿细线"
+  },
+  "head": "绒壳上部圆包，领口圆洞露出铁芯小脸区",
+  "combo": "灰绿格子法兰绒软壳 + 下摆露出铁芯一角 + 半垂豆眼 + 灰绿对铁灰",
+  "odd": "下摆铁角比脸清楚，像壳没裹严",
+  "why": "告别爱穿格子的自己，沉的芯还在。格子是软壳物件，不是真人衣服。",
+  "spec": {
+    "proportion": "全高约是砣径的 1.25 倍，露出的铁角宽约脸宽的 0.7 倍",
+    "outline": "松垮圆包下露一截硬弧",
+    "volume": "大：绒壳；中：铁芯；小：短脚墩",
+    "face": "眼在领口圆洞内，半垂",
+    "stance": "短脚墩从绒摆下露出站稳",
+    "structure": "绒壳缝在砣腰线，下摆缺口故意露出铁角"
+  },
+  "toy_check": "站得住：短脚墩。物件长进去：格子是壳。特殊材质：法兰绒对铸铁。新组合：格子壳铁砣。不像绘本。头像要裁到领口与铁角。姿态：站。非人形。",
+  "crop": "记忆点在下摆露出的铁角与格子壳。头像裁进领口与铁角。",
+  "collide": "不同于穿衣服的小人偶：没有四肢穿搭，格子是长在砣上的软壳，露出铁芯。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "格子被画成衬衫穿搭"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "绒壳糊成普通球"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "格纹加成复杂印花"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时铁角消失"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换掉格色后必须仍是软壳裹铁并露一角"
+    ]
+  ],
+  "zh": "原创潮玩角色，一块抛光铸铁秤砣和一层格子法兰绒长在一起：灰绿细格法兰绒裹成整层软壳，下摆故意留缺口露出一角深灰铁芯，领口圆洞里是半垂小黑豆眼和极小一字嘴，领口嵌一条极细青绿线。全高约是砣径的一点二五倍。短脚墩从绒摆下露出站稳。内芯铸铁，外层只有格子法兰绒。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实搪胶织物产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服穿搭，不要把格子画成衬衫小人，不要纽扣拉链复杂五金，不要品牌格纹。",
+  "enp": "Original designer toy character: a polished cast-iron weight fused with a plaid flannel soft shell — a loose grey-green micro-check flannel wraps the whole body as a shell, with a deliberate hem gap showing one corner of the deep-grey iron core; half-lidded black bead eyes and a tiny straight mouth sit in a round neck hole edged with a hairline teal line. Height about 1.25 times the weight diameter. Short foot stubs show under the hem. Iron core inside; only the outer shell is plaid flannel. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, real vinyl-textile toy product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothed outfit, do not turn the plaid into a shirted little person, no complex buttons or zippers, no brand tartan.",
+  "rules_hit": "避开别的影子：不是穿衣小人。识别：格子软壳露铁角。不普通：布是壳不是衣。材质法兰绒对铸铁。灰绿对铁灰。组合少见。夸张在下摆铁角比脸清楚。",
+  "pose": "站"
+}
