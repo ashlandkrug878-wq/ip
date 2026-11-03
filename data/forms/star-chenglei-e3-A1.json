@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-04",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-chenglei-e3",
+  "n": 1,
+  "title": "肚子是大铁秤砣的俄蓝坐猫",
+  "species": "猫/俄蓝猫",
+  "axes": {
+    "archetype": "生物+物件，俄蓝猫",
+    "silhouette": "团猫坐姿，腹前一块更大的圆铁砣",
+    "mark": "腹前 · 比脸宽的铸铁圆砣",
+    "face": "半垂小黑豆眼，极小一字嘴",
+    "emotion": "内收，淡",
+    "fusion": "铁秤砣长成肚子并成为坐面重心，拿掉砣猫就空",
+    "material": "主体俄蓝灰短绒，只有腹砣是抛光铸铁",
+    "palette": "俄蓝灰配铸铁深灰，砣环一条青绿细线"
+  },
+  "head": "圆猫头，短耳向两侧，下颌收在砣上沿",
+  "combo": "俄蓝短绒坐猫 + 腹前比脸宽的铁砣 + 半垂豆眼 + 蓝灰对铁灰青绿细环",
+  "odd": "铁砣比脸大，脸只占砣上沿一条",
+  "why": "脚下是秤砣，眼前还是雾。猫来自自洽，砣来自粉丝名，雾落在半垂眼上。",
+  "spec": {
+    "proportion": "全高约是身宽的 1.05 倍，腹砣宽约脸宽的 1.6 倍",
+    "outline": "上绒团下圆铁，坐成葫芦横宽版",
+    "volume": "大：铁砣；中：短绒上身；小：耳与尾尖",
+    "face": "眼在头高下三分之一，半垂，视线略下",
+    "stance": "坐在腹砣上，短后爪贴砣侧",
+    "structure": "砣上沿嵌进绒腹，环上一条青绿细线嵌槽"
+  },
+  "toy_check": "站得住：坐在宽砣上。物件长进去：砣是肚子。特殊材质只有铸铁。新组合：猫腹是秤砣。不像绘本。头像要裁到砣上沿。姿态：坐。",
+  "crop": "记忆点在腹前大砣。头像必须裁进砣上沿。",
+  "collide": "不同于抱鱼的蓝猫：腹是嵌死的铁砣，没有笑，没有举物。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "砣被画成抱着的哑铃"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "砣与腹糊成大肚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "环加成复杂花纹"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩猫头"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换掉铁色后必须仍是腹前大圆砣"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只俄蓝灰短绒猫和一块铁秤砣长在一起：腹前嵌着一块比脸更宽的抛光铸铁圆砣，上沿托住下颌，它坐在这块砣上，砣环嵌着一条极细的青绿线。全高约是身宽的一点零五倍，脸只占上部。半垂小黑豆眼，视线略下，极小一字嘴，神情淡。主体俄蓝灰短绒，只有腹砣是抛光铸铁。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实搪胶毛绒产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要把秤砣画成手抱哑铃，不要举重，不要肌肉，不要宠物名文字。",
+  "enp": "Original designer toy character: a Russian-blue short-plush cat fused with an iron weight — a polished cast-iron round weight wider than the face is set into the belly and becomes the seat, with a hairline teal ring line in the weight groove. Height about 1.05 times body width. Half-lidded black bead eyes glancing slightly down, tiny straight mouth, a quiet look. Body blue-grey short plush; only the belly weight is polished cast iron. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, real vinyl-plush product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, do not turn the weight into a handheld dumbbell, no lifting pose, no muscles, no pet-name lettering.",
+  "rules_hit": "避开别的影子：不是抱器械猫。识别：腹前大铁砣。不普通：砣是肚子。材质只有铸铁。蓝灰对铁灰+青绿细环。组合少见。夸张在砣比脸大。",
+  "pose": "坐"
+}

@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-04",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-chenglei-e2",
+  "n": 1,
+  "title": "脸是空白画布板的俄蓝短绒坐猫",
+  "species": "猫/俄蓝猫",
+  "axes": {
+    "archetype": "生物+物件，俄蓝短绒猫",
+    "silhouette": "团猫坐姿，脸上一块本白平面",
+    "mark": "脸面 · 一块略宽于头的空白画布板",
+    "face": "半垂小黑豆眼嵌在画布板中下部，极小一字嘴",
+    "emotion": "内收，允许空白",
+    "fusion": "画布板成为脸平面，绒猫身体从板后长出，不是戴上面具",
+    "material": "主体俄蓝灰短绒，只有脸板是绷紧本白画布",
+    "palette": "俄蓝灰配本白"
+  },
+  "head": "圆头被本白画布板盖成平面，两耳短圆不及头宽四分之一",
+  "combo": "俄蓝短绒坐猫 + 脸面本白画布板 + 半垂豆眼 + 蓝灰对本白",
+  "odd": "脸是一块白板，五官只占板的下三分之一",
+  "why": "脑子里那张空白画布还没画完。画布是脸平面，猫来自自比与俄蓝。",
+  "spec": {
+    "proportion": "头高约占全高 45%，画布板宽约头宽的 110%",
+    "outline": "圆团坐猫，前脸一块圆角矩形白面",
+    "volume": "大：短绒身体；中：脸板；小：两耳与短尾尖",
+    "face": "眼在板高下三分之一，半垂，眼距约一个眼宽",
+    "stance": "蹲坐，前爪并拢收在腹前",
+    "structure": "画布板四边缝进绒缘，取下板只剩空洞脸框"
+  },
+  "toy_check": "站得住：蹲坐。物件长进去：画布是脸。特殊材质只有画布。新组合：猫脸是白板。不像绘本。头像即白板+半垂眼。姿态：蹲坐。",
+  "crop": "记忆点在脸板。头像天然含白板。",
+  "collide": "不同于微笑蓝猫玩偶：脸是空白画布平面，没有花纹，没有笑。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "画布被画成面具箍"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "板与头糊成普通猫头"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "白面加成胡须纹"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通猫"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换掉本白后必须仍是脸平面板"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只俄蓝灰短绒猫和一块空白画布长在一起：脸面嵌着一块略宽于头的圆角本白画布板，半垂小黑豆眼落在板的下三分之一，极小一字嘴，两只短圆耳。身体是俄蓝灰短绒，只有脸板是绷紧本白画布。蹲坐，前爪并拢。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实搪胶毛绒产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要把画布画成可摘面具，不要画作和笔，不要张嘴，不要宠物名文字。",
+  "enp": "Original designer toy character: a Russian-blue short-plush cat fused with a blank canvas — a rounded off-white canvas plate slightly wider than the head becomes the face plane, with half-lidded black bead eyes in the lower third and a tiny straight mouth; two short round ears. Body blue-grey short plush; only the face plate is stretched blank canvas. Crouching sit, forepaws together. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, real vinyl-plush product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, do not turn the canvas into a removable mask, no painting or brushes, no open mouth, no pet-name lettering.",
+  "rules_hit": "避开别的影子：不是普通蓝猫。识别：脸是白板。不普通：布是脸平面。材质只有画布。俄蓝灰对本白。组合少见。夸张在白板宽于头。",
+  "pose": "蹲坐"
+}

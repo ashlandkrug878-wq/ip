@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-04",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-chenglei-e1",
+  "n": 1,
+  "title": "壳上一条易碎细边的旅行箱坐兽",
+  "species": "易碎贴纸行李箱",
+  "axes": {
+    "archetype": "物件生物，硬壳旅行箱",
+    "silhouette": "立式箱体坐姿，顶边一条细对比边",
+    "mark": "顶沿 · 一条比脸更醒目的易碎对比细边",
+    "face": "半垂小黑豆眼，极小一字嘴",
+    "emotion": "内收，还在撑着",
+    "fusion": "箱壳就是身体，易碎细边嵌进顶沿轮廓，拿掉边仍是箱体",
+    "material": "主体哑光硬壳塑料，只有细边是亮面橡胶贴边",
+    "palette": "暮土棕配青绿细边"
+  },
+  "head": "箱顶略圆即头，几乎无颈，锁扣作短钝凸起不写字",
+  "combo": "立式箱体坐兽 + 顶沿青绿易碎细边 + 半垂豆眼 + 暮土棕对青绿",
+  "odd": "易碎细边比脸清楚，像警告长在轮廓上",
+  "why": "贴着易碎却还在走。箱壳是身体，细边是易碎标签的结构种子，不是品牌箱。",
+  "spec": {
+    "proportion": "全高约是箱宽的 1.3 倍，脸只占上部 28%",
+    "outline": "圆角竖矩形，顶沿贴一条细边，底边坐稳",
+    "volume": "大：箱体；中：顶边条；小：两只短脚垫和侧面短把手凸起",
+    "face": "眼在箱高上三分之一，半垂，眼距约一个眼宽",
+    "stance": "坐在箱底，短脚垫藏在下沿",
+    "structure": "细边嵌进顶沿槽，拿掉它箱体剪影仍成立"
+  },
+  "toy_check": "站得住：坐在箱底。物件长进去：箱壳是身体。特殊材质只有亮面细边。新组合：易碎边旅行箱坐兽。不像绘本：无大眼无笑。头像要裁到细边。做得成：厚壳不是薄片。姿态：坐。",
+  "crop": "记忆点在顶沿细边。头像必须裁进这条边。",
+  "collide": "不同于微笑旅行箱吉祥物：没有笑，没有品牌标，细边是易碎对比色嵌进轮廓。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "细边被画成手持标牌"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "箱体糊成圆球"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "锁扣加成复杂五金"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩一张脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换掉青绿后必须仍是顶沿细边"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只哑光硬壳旅行箱和一条易碎细边长在一起：箱壳就是身体，顶沿嵌着一条比脸更醒目的亮面青绿细边，像警告贴进轮廓，侧面有一小段短钝把手凸起不写字。全高约是箱宽的一点三倍，几乎无颈，脸只占上部。半垂小黑豆眼，极小一字嘴，神情收着。坐在自己的箱底上，短脚垫藏在下沿。配色暮土棕为主，只有细边是青绿。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实搪胶产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要把细边画成手持标牌，不要品牌标识和字母，不要轮子伸得很长，不要尖刺。",
+  "enp": "Original designer toy character: a matte hard-shell suitcase body fused with a thin glossy teal fragile-edge strip set into the top rim, more noticeable than the face, plus a short blunt handle bump on the side with no lettering. Height about 1.3 times the case width, almost no neck. Half-lidded black bead eyes, tiny straight mouth, a held-in calm look. Seated on its own bottom edge, short foot pads tucked under. Main color dusty clay brown; only the rim strip is teal. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, real vinyl toy product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, do not turn the strip into a handheld sign, no brand logos or letters, no long sticking wheels, no sharp spikes.",
+  "rules_hit": "避开别的影子：不是品牌箱吉祥物。识别：顶沿易碎细边。不普通：边嵌进轮廓。材质只有亮边。暮土棕对青绿。组合少见。夸张在细边比脸清楚。",
+  "pose": "坐"
+}

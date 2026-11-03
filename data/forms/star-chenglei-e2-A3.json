@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-04",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-chenglei-e2",
+  "n": 3,
+  "title": "背脊一条空白画布卷的铁秤砣",
+  "species": "空白画布",
+  "axes": {
+    "archetype": "物件生物，铁秤砣 + 画布背脊",
+    "silhouette": "圆砣，背后竖一条画布卷",
+    "mark": "后背 · 一条高出头顶的本白画布卷轴",
+    "face": "半垂小黑豆眼，极小一字嘴",
+    "emotion": "内收，未完",
+    "fusion": "铁砣是身，空白画布卷长成背脊并高出头顶，不是背着的画筒道具",
+    "material": "主体抛光铸铁，只有背脊卷是本白画布",
+    "palette": "铸铁灰配生赭细轴头与本白"
+  },
+  "head": "砣顶小圆包作头，画布卷从脑后升起",
+  "combo": "铸铁圆砣 + 背后高出头顶的本白画布卷 + 半垂豆眼 + 铁灰对本白生赭",
+  "odd": "画布卷比头高一截，空白朝外",
+  "why": "沉的身体背着还没画完的一卷白。画布是背脊结构，不是手持。",
+  "spec": {
+    "proportion": "砣径为身宽，画布卷高出头顶约头高的 40%",
+    "outline": "下沉圆 + 背后竖椭圆卷",
+    "volume": "大：铁砣；中：画布卷；小：轴头与短脚墩",
+    "face": "眼在头包中线，半垂",
+    "stance": "短脚墩站稳",
+    "structure": "画布卷下端嵌进后背铁槽，轴心与砣连成一体"
+  },
+  "toy_check": "站得住：短脚墩。物件长进去：画布是背脊。特殊材质只有画布。新组合：铁砣背白卷。不像绘本。头像要裁到卷顶。姿态：站。",
+  "crop": "记忆点在高出头顶的白卷。头像必须裁进卷顶。",
+  "collide": "不同于背画筒的旅行者人偶：没有人形，卷是长进背的空白布，没有画。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "卷被画成可摘画筒"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "卷与砣糊成糖葫芦"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "布面加成图案"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时卷消失"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换掉本白后必须仍是高出头顶的背脊卷"
+    ]
+  ],
+  "zh": "原创潮玩角色，一块抛光铸铁秤砣和一条空白画布卷长在一起：铁砣是身体，后背嵌出一条高出头顶的本白画布竖卷，空白朝外，上下轴头是短生赭圆端。全高含卷约是砣径的一点五倍。半垂小黑豆眼，极小一字嘴，神情收着。短脚墩站稳。主体铸铁灰，只有画布卷是本白、轴头生赭。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实搪胶产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要把画布卷画成可背画筒，不要画作，不要汉字。",
+  "enp": "Original designer toy character: a polished cast-iron weight fused with a blank canvas scroll spine — an off-white vertical canvas roll set into the back rises above the head, blank side out, with short raw-umber round finials. Overall height about 1.5 times the weight diameter. Half-lidded black bead eyes, tiny straight mouth, a held-in look. Short foot stubs stand firm. Body cast-iron grey; only the scroll is off-white canvas with raw-umber ends. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, real vinyl toy product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, do not turn the scroll into a removable tube, no finished painting, no lettering.",
+  "rules_hit": "避开别的影子：不是背画筒旅人。识别：高出头顶的白卷背脊。不普通：卷嵌进铁背。材质只有画布。铁灰对本白生赭。组合少见。夸张在卷高过头。",
+  "pose": "站"
+}
