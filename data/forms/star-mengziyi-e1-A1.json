@@ -1,0 +1,81 @@
+{
+  "ip": "star-mengziyi-e1",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "身前鼓起软柠檬壳的果皮兽",
+  "species": "柠檬",
+  "axes": {
+    "archetype": "物件生物，柠檬",
+    "silhouette": "团子，身前鼓壳",
+    "mark": "身前 · 鼓起的软柠檬半壳",
+    "face": "半垂小黑豆眼，极小一字嘴",
+    "emotion": "内收，放空",
+    "fusion": "物件就是壳：半个柠檬皮鼓在身前并嵌进身体，拿掉就不成立",
+    "material": "主体奶黄短绒，只有柠檬壳是半透明果冻皮",
+    "palette": "奶黄配浅粉棱（#FAA2C1 只在壳边一条）"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头身一团，头顶无耳，壳沿贴住下颌",
+  "combo": "鼓起软柠檬半壳 + 半垂豆眼 + 奶黄绒 + 壳边一条浅粉",
+  "odd": "铠甲是软果皮，壳比脸宽",
+  "line": "",
+  "why": "挡在前面的是软柠檬壳。借粉丝名与铠甲比喻，不画人臉。",
+  "spec": {
+    "proportion": "全高约身宽的 1.15 倍，壳宽约占身宽 120%",
+    "outline": "圆团，身前凸出半个柠檬弧",
+    "volume": "大：柠檬壳；中：绒身体；小：短脚",
+    "face": "眼在头高下三分之一，半垂，嘴一条短线",
+    "stance": "稍坐，重心靠在身前壳上",
+    "structure": "壳边缘嵌进绒里，不是手持盾"
+  },
+  "toy_check": "站得住：靠壳。物件长进：壳是胸。特殊材质只有果冻皮。新组合：软果当铠甲。不像绘本。头像要裁进壳沿。",
+  "crop": "记忆点在身前壳，头像需带壳上沿。",
+  "collide": "不同于手里拿柠檬的吉祥物：壳嵌进身体。也不同于硬塑料盔甲兵。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通动物"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质纹路过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩一张脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后认不出融合结构"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短绒小兽和半个柠檬长在一起：身前鼓着一块比脸宽的软柠檬半壳，边缘嵌进绒里，拿掉壳身体就空。全高约是身宽的一点一五倍。半垂小黑豆眼，极小一字嘴，神情放空。稍坐，重心靠在壳上。身体是奶黄短绒，只有柠檬壳是半透明果冻皮，壳边只有一条浅粉棱。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星或品牌名，不要尖刃见血。",
+  "enp": "Original designer toy character: a short-plush critter fused with half a lemon — a soft lemon shell wider than the face bulges from the chest and is set into the plush so the figure fails without it. Height about 1.15× body width. Half-lidded black bead eyes, tiny straight mouth, blank calm. Slightly seated, weight on the shell. Cream short plush; only the shell is translucent jelly peel with one thin pale-pink rim. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no celebrity or brand names, no sharp blades or blood.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-05",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：不是拿柠檬的吉祥物。识别：鼓壳加半垂眼。不普通：没有壳就不是它。材质只有果冻皮，不怪不疼。奶黄对浅粉棱。组合少见。壳夸张宽过脸。",
+  "pose": "靠坐"
+}

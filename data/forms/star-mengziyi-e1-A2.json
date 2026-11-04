@@ -1,0 +1,81 @@
+{
+  "ip": "star-mengziyi-e1",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "钝瓣牡丹花冠嵌进头顶的绒兽",
+  "species": "牡丹",
+  "axes": {
+    "archetype": "物件生物，牡丹",
+    "silhouette": "大头，顶上一朵钝瓣花冠",
+    "mark": "头顶 · 一朵厚钝瓣牡丹冠",
+    "face": "眯成线的眼，无嘴",
+    "emotion": "内收，面无表情",
+    "fusion": "物件是长出来的结构：牡丹冠就是头顶，瓣根长进头皮绒",
+    "material": "主体雾粉短绒，只有花瓣是哑光釉陶",
+    "palette": "雾粉配深胭脂红"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "竖高圆头，花冠占头顶一半高度",
+  "combo": "厚钝牡丹冠 + 眯线眼 + 雾粉绒对深胭脂",
+  "odd": "花冠比头还高一截，瓣全是钝的",
+  "line": "",
+  "why": "软的保护也可以长成花冠。牡丹来自角色意象与逆应援，不画真人发型。",
+  "spec": {
+    "proportion": "头高约占全高 55%，花冠再占头高 40%",
+    "outline": "大头小身，顶上一团钝瓣",
+    "volume": "大：花冠；中：头；小：短身短脚",
+    "face": "眼在头高中线以下眯成弧线，无嘴",
+    "stance": "立正微前倾",
+    "structure": "瓣根埋进头顶绒，不是发卡"
+  },
+  "toy_check": "站得住。花冠是头的一部分。釉陶只在瓣。新组合。无大眼笑。",
+  "crop": "记忆点在头顶花冠。",
+  "collide": "不同于头上别一朵花的穿衣小人：冠就是头。也不同于仿真仿真花艺。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通动物"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质纹路过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩一张脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后认不出融合结构"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只雾粉短绒小兽和一朵牡丹长在一起：头顶嵌着一朵厚钝瓣牡丹冠，瓣根埋进绒里，拿掉冠头就缺一块。头高约占全高一半。眼眯成线，无嘴，面无表情。短身短脚微微前倾。身体是雾粉短绒，只有花瓣是哑光釉陶，配色雾粉配深胭脂红。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星或品牌名，不要尖刃见血。",
+  "enp": "Original designer toy character: a mist-pink short-plush critter fused with a peony — a thick blunt-petaled peony crown is set into the crown of the head so the head fails without it. Head about half the height. Eyes squinted to thin arcs, no mouth, blank. Short body, slight forward lean. Mist-pink plush; only petals are matte glazed ceramic. Mist pink with deep rouge. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no celebrity or brand names, no sharp blades or blood.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-05",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开影子：不是别花的小人。识别：钝瓣高冠。不普通。釉陶只一处。雾粉对深胭脂强对比。没见过的花冠头。瓣夸张加高。",
+  "pose": "微前倾立正"
+}

@@ -1,0 +1,81 @@
+{
+  "ip": "star-mengziyi-e2",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "白博美软团背上一块收折的钝铁片",
+  "species": "白色博美软团",
+  "axes": {
+    "archetype": "动物+物件融合，白博美",
+    "silhouette": "圆蓬松，背后一片折起的钝铁",
+    "mark": "后背 · 折起的小钝铁片像收起的羽脊",
+    "face": "圆黑豆眼半垂，小鼻子一点",
+    "emotion": "内收，憨",
+    "fusion": "物件背负并成为轮廓：钝铁片折进后背绒，是轮廓一部分",
+    "material": "主体雪白短绒，只有铁片是拉丝锡合金",
+    "palette": "雪白配锡灰"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "圆头短吻，两耳小三角埋进毛",
+  "combo": "雪白蓬松博美团 + 背后折起锡灰钝片 + 半垂眼",
+  "odd": "铁片不大，像把锋折起来收好",
+  "line": "",
+  "why": "爱宠白博美抽象成软团；王法的锋收成背后一小片钝铁。不写犬名。",
+  "spec": {
+    "proportion": "头高约占全高 45%",
+    "outline": "蓬松圆，背上一小折片",
+    "volume": "大：绒团；小：铁片",
+    "face": "半垂圆眼，鼻极小",
+    "stance": "坐着，短腿前伸",
+    "structure": "铁片下沿缝进背绒"
+  },
+  "toy_check": "坐得住。铁片是背轮廓。锡只一处。不是普通狗+道具（片嵌进）。",
+  "crop": "记忆点背后折片，头像带上沿。",
+  "collide": "不同于背书包的小狗：铁片是背的一部分且已折收。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通动物"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质纹路过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩一张脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后认不出融合结构"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只雪白短绒博美形软团和一块钝铁片长在一起：背后折起一小片拉丝锡合金钝铁，下沿嵌进背绒，像收折的脊，拿掉背就平。圆头半垂眼，小鼻。坐着短腿前伸。身体雪白短绒，只有铁片是锡灰拉丝金属。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星或品牌名，不要尖刃见血。",
+  "enp": "Original designer toy character: a snow-white short-plush pom-pom dog-shaped fluff fused with a blunt metal plate — a small folded brushed-tin plate is set into the back as part of the silhouette, so the back goes flat without it. Round head, half-lidded eyes, tiny nose. Sitting, short legs forward. Snow-white plush; only the plate is brushed tin grey. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no celebrity or brand names, no sharp blades or blood.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-05",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开影子：不是背包装饰狗。识别：背折铁片。不普通。金属只一处。雪白锡灰。少见。片小而收折，夸张在「已收起」。",
+  "pose": "坐"
+}

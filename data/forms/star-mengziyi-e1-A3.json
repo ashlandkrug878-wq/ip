@@ -1,0 +1,81 @@
+{
+  "ip": "star-mengziyi-e1",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "茶包披风垂住身体的柠檬籽兽",
+  "species": "牡丹花茶包",
+  "axes": {
+    "archetype": "物件生物，茶包",
+    "silhouette": "长条垂披，头小",
+    "mark": "后背 · 方形茶包披风垂到脚",
+    "face": "半垂豆眼，小嘴偏一侧",
+    "emotion": "内收，疲软",
+    "fusion": "物件是壳或披风：一方茶包展开成披风并连着后背",
+    "material": "主体米白短绒，只有茶包是半透明硫酸纸质",
+    "palette": "米白配茶褐，浅粉线缝一条"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "小圆头从披风领口探出",
+  "combo": "方形茶包披风 + 半垂眼 + 米白对茶褐",
+  "odd": "披风是一张放大的茶包，线头是浅粉",
+  "line": "",
+  "why": "逆应援里的花茶落成披风壳，保护感来自垂住的纸质，不是硬甲。",
+  "spec": {
+    "proportion": "披风长约占全高 90%，头只占上部 20%",
+    "outline": "垂着的方袋形",
+    "volume": "大：披风；中：身体；小：头和脚尖",
+    "face": "眼半垂，嘴角微偏",
+    "stance": "站着，披风拖地，手短缩在披风里",
+    "structure": "茶包上沿与后背绒连成一体"
+  },
+  "toy_check": "站得住。披风是背。硫酸纸只一处。新组合。脸收着。",
+  "crop": "记忆点在垂披轮廓，头像要带披风肩线。",
+  "collide": "不同于背包客小动物：茶包就是披风身体。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通动物"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质纹路过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩一张脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后认不出融合结构"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只米白短绒小兽和一张茶包长在一起：后背展开一方半透明硫酸纸茶包披风，垂到脚边，上沿嵌进后背，拿掉披风只剩瘦条。头只占上部五分之一，半垂豆眼，小嘴偏一侧。手短缩在披风里。身体米白短绒，只有披风是硫酸纸质，茶褐袋身，缝线一条浅粉。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星或品牌名，不要尖刃见血。",
+  "enp": "Original designer toy character: a rice-white short-plush critter fused with a tea bag — a square translucent glassine tea-bag cloak hangs from the back to the feet and is fused at the upper edge so the figure fails without it. Head only the top fifth, half-lidded bead eyes, tiny mouth askew. Hands tucked in the cloak. Rice-white plush; only the cloak is glassine paper in tea brown with one pale-pink stitch line. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no celebrity or brand names, no sharp blades or blood.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-05",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开影子：不是背背包。识别：方披风剪影。不普通。纸质只一处且讲得通。米白茶褐对比。少见。披风夸张拖地。",
+  "pose": "披风拖地站"
+}

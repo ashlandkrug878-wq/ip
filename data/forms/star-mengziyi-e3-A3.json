@@ -1,0 +1,81 @@
+{
+  "ip": "star-mengziyi-e3",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "牡丹瓣盾已翻到身后当坐垫的绒兽",
+  "species": "牡丹",
+  "axes": {
+    "archetype": "物件生物，牡丹瓣",
+    "silhouette": "团子坐在翻开的大钝瓣上",
+    "mark": "身下 · 一片翻开的巨大钝牡丹瓣",
+    "face": "半垂眼，小嘴",
+    "emotion": "内收，歇住",
+    "fusion": "物件背负/坐垫：曾经挡前的瓣现在翻到身下成为坐面",
+    "material": "主体藕粉短绒，只有大瓣是珍珠母贝",
+    "palette": "藕粉配珍珠母粉白"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "圆头",
+  "combo": "藕粉团坐在珍珠母大瓣上 + 半垂眼",
+  "odd": "保护过自己的瓣，现在只用来坐",
+  "line": "",
+  "why": "谢的是自己那步：瓣不再举着挡，翻到身下成了歇处。",
+  "spec": {
+    "proportion": "瓣宽约身宽 1.8 倍",
+    "outline": "圆团+身下一片横瓣",
+    "volume": "大：瓣；中：身体",
+    "face": "半垂，小嘴",
+    "stance": "坐在瓣上，短脚悬一点",
+    "structure": "瓣柄连着尾椎绒"
+  },
+  "toy_check": "坐得住。瓣是坐面结构。贝母只一处。新组合。",
+  "crop": "记忆点身下大瓣。",
+  "collide": "不同于拿花瓣的仙女：瓣是坐垫且曾是盾的错位。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通动物"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质纹路过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩一张脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后认不出融合结构"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只藕粉短绒小兽和一片巨大钝牡丹瓣长在一起：身下铺开一片珍珠母贝大钝瓣当坐面，瓣柄连着尾部，像把曾经挡在身前的瓣翻到身后坐下。半垂眼小嘴。主体藕粉短绒，只有大瓣是珍珠母粉白。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星或品牌名，不要尖刃见血。",
+  "enp": "Original designer toy character: a lotus-root pink short-plush critter fused with a huge blunt peony petal — a mother-of-pearl petal spreads under it as a seat, stem fused at the tail, as if a once-front shield were flipped behind to sit on. Half-lidded eyes, tiny mouth. Lotus-root pink plush; only the petal is mother-of-pearl. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no celebrity or brand names, no sharp blades or blood.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-05",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开影子：不是花仙子。识别：身下贝母大瓣。不普通。贝母只一处。藕粉粉白。少见。瓣夸张宽。",
+  "pose": "坐瓣上"
+}

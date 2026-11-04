@@ -1,0 +1,81 @@
+{
+  "ip": "star-mengziyi-e3",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "身体已错开身下裂壳的籽兽",
+  "species": "裂开的钝壳",
+  "axes": {
+    "archetype": "物件生物，裂壳",
+    "silhouette": "团子踩在裂开的壳瓣上",
+    "mark": "脚下 · 两片裂开的钝壳",
+    "face": "半垂眼，嘴一条平静线",
+    "emotion": "内收，自守",
+    "fusion": "物件是长出来的/脚下结构：裂壳是站姿的一部分，与脚掌相连",
+    "material": "主体草绿短绒，只有壳是哑光骨瓷",
+    "palette": "草绿配米白骨瓷"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "小圆头",
+  "combo": "草绿团 + 脚下米白裂壳两片 + 半垂眼",
+  "odd": "壳已经不罩住它，只在脚下",
+  "line": "",
+  "why": "不必谢风：裂壳留在身后脚下，谢的是迈开的错位。",
+  "spec": {
+    "proportion": "壳展开宽约身宽 1.5 倍，身体偏一侧",
+    "outline": "偏心团+两片壳",
+    "volume": "中：身体；大：展开壳",
+    "face": "半垂，平静",
+    "stance": "一脚仍连左壳，身体重心已到右壳外",
+    "structure": "壳瓣与脚垫相连，不是散落道具"
+  },
+  "toy_check": "站得住。壳是站姿结构。骨瓷只一处。新组合。",
+  "crop": "记忆点脚下裂壳与偏心站位。",
+  "collide": "不同于破蛋出壳的小鸡周边：重点是已经错开，不卖萌出生。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通动物"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质纹路过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩一张脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后认不出融合结构"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只草绿短绒小兽和两片裂开的钝壳长在一起：脚下连着两片米白骨瓷钝壳，身体重心已经错到壳外一侧，左脚还连着壳缘。半垂眼，平静一字嘴。主体草绿短绒，只有壳是哑光骨瓷。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星或品牌名，不要尖刃见血。",
+  "enp": "Original designer toy character: a grass-green short-plush critter fused with a split blunt shell — two matte bone-china shell halves connect to the feet while the body's weight has already shifted off-center past the shell. Half-lidded eyes, calm straight mouth. Grass-green plush; only the shell is bone china. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no celebrity or brand names, no sharp blades or blood.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-05",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开影子：不是破蛋小鸡。识别：偏心+裂壳。不普通。骨瓷只一处。草绿米白。少见。错位夸张。",
+  "pose": "偏心站"
+}

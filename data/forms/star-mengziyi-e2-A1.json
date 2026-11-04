@@ -1,0 +1,81 @@
+{
+  "ip": "star-mengziyi-e2",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "蓬松白团里只露一截钝簪的绒兽",
+  "species": "毛茸茸披风",
+  "axes": {
+    "archetype": "物件生物，钝簪藏绒",
+    "silhouette": "一团蓬松白，一侧露出短钝簪",
+    "mark": "体侧 · 一截圆头钝簪从绒里探出",
+    "face": "眯眼，无嘴",
+    "emotion": "内收，刚收完锋",
+    "fusion": "物件背负/长出：短钝簪嵌进身体只露一截，拿掉结构空心",
+    "material": "主体雪白长绒，只有簪是哑光白瓷",
+    "palette": "雪白配浅灰瓷，一点浅粉在簪头"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头埋在绒里几乎无颈",
+  "combo": "雪白长绒团 + 一截圆头白瓷钝簪 + 眯眼",
+  "odd": "锋只剩一截圆头，藏在毛里",
+  "line": "",
+  "why": "王法收进毛里：锋的那截变成圆钝簪，默认态是毛。",
+  "spec": {
+    "proportion": "团高约宽的 1 倍，簪外露长度约头宽一半",
+    "outline": "浑圆绒团，一侧一根短棒",
+    "volume": "大：绒；小：簪和五官",
+    "face": "眼眯成弧，无嘴",
+    "stance": "团坐",
+    "structure": "簪中段埋进绒核"
+  },
+  "toy_check": "坐得住。簪长进身体。白瓷只一处。新组合。无笑。",
+  "crop": "记忆点是绒中一截簪，头像要带簪头。",
+  "collide": "不同于手持发簪的古装人偶：簪在绒核里。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通动物"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质纹路过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩一张脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后认不出融合结构"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只雪白长绒小兽和一截钝簪长在一起：浑圆蓬松身体里嵌着一截圆头白瓷钝簪，只露出一半，拿掉簪团子中间就空。眯眼无嘴。团坐。身体雪白长绒，只有簪是哑光白瓷，簪头一点浅粉。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星或品牌名，不要尖刃见血。",
+  "enp": "Original designer toy character: a snow-white long-plush critter fused with a blunt hairpin — a round-tipped matte white-porcelain stub is embedded in the fluff with only half showing, so the core is hollow without it. Squinted eyes, no mouth. Sitting in a ball. Snow-white long plush; only the pin is porcelain with a pale-pink tip. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no celebrity or brand names, no sharp blades or blood.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-05",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开影子：不是古装人偶。识别：绒里钝簪。不普通。瓷只一处。雪白浅粉点。少见。锋收得很夸张。",
+  "pose": "团坐"
+}

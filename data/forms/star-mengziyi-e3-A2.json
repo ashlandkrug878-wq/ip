@@ -1,0 +1,81 @@
+{
+  "ip": "star-mengziyi-e3",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "野草簇从石片缝里长出来的小兽",
+  "species": "野草团",
+  "axes": {
+    "archetype": "物件生物，草+石",
+    "silhouette": "石片底座，顶上一簇草形身体",
+    "mark": "底座 · 一片竖插的钝石板",
+    "face": "两点小眼藏在草里",
+    "emotion": "面无表情",
+    "fusion": "物件就是底座结构：钝石板是下半身，草簇是上半身长出",
+    "material": "主体干草绿植绒，只有石板是粗磨砂岩",
+    "palette": "干草绿配砂岩灰，一点浅粉在草尖"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "无独立头，草簇即头",
+  "combo": "砂岩竖板 + 干草簇身体 + 藏眼",
+  "odd": "峭壁缝里长出，不哭不喊",
+  "line": "",
+  "why": "媒体野草隐喻落成石缝草簇；不卖惨，只留自守的长出。",
+  "spec": {
+    "proportion": "石板高约占全高 40%，草簇 60%",
+    "outline": "竖板+蓬草",
+    "volume": "大：草；中：石",
+    "face": "两点眼在草中下部",
+    "stance": "石板立住，无手脚或极短脚",
+    "structure": "草根从石板顶缝长出并固化"
+  },
+  "toy_check": "站得住（石）。石是身体下半。砂岩只一处。新组合。",
+  "crop": "记忆点石+草剪影。",
+  "collide": "不同于盆栽装饰：石板是腿身，草是头身。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通动物"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质纹路过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩一张脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后认不出融合结构"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只干草绿植绒小兽和一块钝石板长在一起：下半身是竖立的粗磨砂岩钝板，顶缝长出一簇草形上身，两点小眼藏在草里。无大表情。主体干草绿植绒，只有石板是砂岩灰，草尖一点浅粉。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要写任何明星或品牌名，不要尖刃见血。",
+  "enp": "Original designer toy character: a dry-grass flocked critter fused with a blunt stone slab — the lower body is an upright rough sandstone plate with a grass-tuft upper body growing from the top seam, two tiny eyes hidden in the grass. Dry-grass flocking; only the slab is sandstone grey, pale-pink tips on a few blades. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no celebrity or brand names, no sharp blades or blood.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-05",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开影子：不是盆景。识别：石板草簇。不普通。砂岩只一处。绿灰对比。少见。缝里长出夸张。",
+  "pose": "石立"
+}
