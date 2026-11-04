@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-04",
+  "queries": [
+    "潮玩 2026 11月3日 11月4日 新IP 泡泡玛特 名创优品",
+    "site.sanrio.co.jp/news 2026 11月 4",
+    "パペットスンスン 2026 11月 新発売",
+    "한국 캐릭터 팝업 2026 11월 4일 인형",
+    "잔망루피 팝업 2026 11월 4일",
+    "TOPTOY Nommi 糯米儿 疯狂动物城 都市奇遇 2026 11月3日",
+    "재혼황후 이마트24 빼빼로 2026 11월 공식",
+    "site.webtoons.com remarried empress Alphatart Sumpul"
+  ],
+  "languages": [
+    "zh",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "xhs": [
+    {
+      "query": "RiboDiary 品牌介绍",
+      "executed": false,
+      "read_pages": 0,
+      "accounts": [],
+      "status": "blocked",
+      "reason": "本轮新建Browser连接尝试返回Unknown tool(browser.js)，停止依赖，不绕过、不转移会话。"
+    },
+    {
+      "query": "RiboDiary 产品汇总",
+      "executed": false,
+      "read_pages": 0,
+      "accounts": [],
+      "status": "blocked",
+      "reason": "本轮新建Browser连接尝试返回Unknown tool(browser.js)，停止依赖，不绕过、不转移会话。"
+    }
+  ],
+  "user_pages_this_run": [
+    {
+      "source": "U02",
+      "account": "一直啊游到海水变蓝",
+      "visible_date": "2026-11-01 12:25",
+      "scope": "主帖文字，照片未逐图打开；推荐区不计入样本"
+    },
+    {
+      "source": "U03",
+      "account": "原线程6位目的抽样账号，见10/31 user-samples.json",
+      "visible_date": "缓存相对日期未更新",
+      "scope": "只复核主线程，不展开隐藏回复，不新计论坛样本"
+    }
+  ],
+  "sampling_limits": "2个近期独立用户页面（1条新微博、1条复核论坛线程），非随机，无订单；不能从主帖推年龄/性别比例或赠礼普遍性。",
+  "rejected_claims": [
+    "U02聚合标题的全网断货没有正文证据，不采纳",
+    "2024年残망루피快闪不作2026热点",
+    "同通稿报道不重复计独立需求"
+  ]
+}

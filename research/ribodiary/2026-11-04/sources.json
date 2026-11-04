@@ -1,0 +1,127 @@
+{
+  "inherited": "../2026-10-31/sources.json",
+  "current": [
+    {
+      "id": "U01",
+      "title": "RiboDiary机器人商店主题焕新原帖",
+      "url": "https://www.sina.cn/news/detail/5361107939101367.html",
+      "publisher": "POPMART泡泡玛特认证账号",
+      "published": "2026-11-03",
+      "event_date": "2026-11-03起陆续焕新",
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "只读主帖文字，实际以线下点位为准；未逐图打开帖内照片，不描述装饰细节，无点位数、到访或销量。"
+    },
+    {
+      "id": "U02",
+      "title": "中国用户目标小羊与端盒自述",
+      "url": "https://www.sina.cn/news/detail/5360419786984961.html",
+      "publisher": "一直啊游到海水变蓝",
+      "published": "2026-11-01",
+      "event_date": null,
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "主帖自述最后抽到小羊、舍友端盒；无订单，赠礼/舍友关系仅本人说法。新浪标题加了全网断货，正文未提供此证据，本研究不采纳。下方推荐内容不计该样本，不据此判断商业合作性质。未逐图看照片。"
+    },
+    {
+      "id": "U03",
+      "title": "原独立收藏讨论复核",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1xbdmcg/is_this_a_new_ip/",
+      "publisher": "Reddit / KitchenLoan6",
+      "published": "2026-10-21",
+      "event_date": null,
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "缓存3天、相对日期仍显示10d ago，不换算成今日新增。保留原6位目的抽样，不新增论坛样本，不展开隐藏回复。"
+    },
+    {
+      "id": "U04",
+      "title": "官方挂件SKU与参考图来源",
+      "url": "https://www.popmart.com/us/products/9418/ribodiary-forest-gathering-day-series-plush-doll-pendant",
+      "publisher": "POP MART",
+      "published": null,
+      "event_date": "2026-10-29 17:00 PST（原文）",
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "身高13.5–14.5cm口径不含耳/配件等；规格与实际当前库存分开。官方V04原图本轮重新下载、打开，仍1200×1200。"
+    },
+    {
+      "id": "U05",
+      "title": "PUPPET SUNSUN挂件软糖官方SKU",
+      "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4570117926495000",
+      "publisher": "Bandai",
+      "published": null,
+      "event_date": "2026-11-16计划发售",
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "385JPY含税、全8种，其中1种植绒。是未来发售计划，非已售罄、销量或新品增长。"
+    },
+    {
+      "id": "U06",
+      "title": "PUPPET SUNSUN新品近期报道",
+      "url": "https://www.inside-games.jp/article/2026/11/02/190220.html",
+      "publisher": "Inside",
+      "published": "2026-11-02",
+      "event_date": "2026-11-16计划发售",
+      "observed": "2026-11-04",
+      "access": "snippet_only",
+      "note": "本轮只读搜索摘要；与U05同一新品家族，不重复计独立需求。"
+    },
+    {
+      "id": "U07",
+      "title": "TOPTOY Nommi官方栏目",
+      "url": "https://gotoptoy.com/pages/nommi",
+      "publisher": "TOPTOY",
+      "published": null,
+      "event_date": null,
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "导航将Nommi列于Original Characters，页面标TOPTOY x NOMMI；这是官网分类，不等于完整著作权/合同核验，不自动称归名创优品本体。"
+    },
+    {
+      "id": "U08",
+      "title": "Nommi都市奇遇近期新品线索",
+      "url": "https://www.mowanmi.com/post/8520.html",
+      "publisher": "模玩迷",
+      "published": "2026-11-03",
+      "event_date": "2026-10-30（媒体转述）",
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "媒体转述TOPTOY五关节系列，单抽199CNY；未获本款官方原始发售公告确认，不将渠道挂名认成迪士尼或Nommi完整权属。"
+    },
+    {
+      "id": "U09",
+      "title": "三丽鸥FRAGARIA MEMORIES新章节官方计划",
+      "url": "https://fragariamemories.sanrio.co.jp/news/post-317/",
+      "publisher": "Sanrio",
+      "published": "2026-10-21",
+      "event_date": "11/4声剧、11/5 MV、11/6起联动计划",
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "计划日期不等于本轮已播放/确认上线；未打开音视频，也没有观看量或用户讨论。角色群与两名成员不重复排期。"
+    },
+    {
+      "id": "U10",
+      "title": "韩国便利店再婚皇后联动报道线索",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/02/2026110200034.amp.html",
+      "publisher": "NewDaily",
+      "published": "2026-11-02",
+      "event_date": null,
+      "observed": "2026-11-04",
+      "access": "snippet_only",
+      "note": "搜索摘要见便利店联动，打开不可访问；另一媒体亦502。无独立需求样本；仅韩国市场观察线索。旧2024年残망루피快闪检索结果被排除，不伪作2026新事件。"
+    },
+    {
+      "id": "U11",
+      "title": "再婚皇后WEBTOON官方署名背景",
+      "url": "https://www.webtoons.com/en/fantasy/the-remarried-empress/list?title_no=2135",
+      "publisher": "NAVER WEBTOON",
+      "published": null,
+      "event_date": null,
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "只核系列身份与SUMPUL/HereLee/Alphatart分工；未读漫画章节，不把累计页面指标当近期热度或便利店销量，未据此确认完整联名权利链。"
+    }
+  ],
+  "boundary": "旧正文仍按10/31原观察日期；本轮只补上述实读范围，不重报全IP首创/权属/销量。"
+}

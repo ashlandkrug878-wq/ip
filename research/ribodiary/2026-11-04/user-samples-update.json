@@ -1,0 +1,20 @@
+{
+  "inherited": "../2026-10-31/user-samples.json",
+  "new_samples": [
+    {
+      "id": "CN-01",
+      "source": "U02",
+      "account": "一直啊游到海水变蓝",
+      "published": "2026-11-01 12:25",
+      "observed": "2026-11-04",
+      "access": "partial",
+      "paraphrase": "自述最后抽到目标小羊、舍友端盒，并用周日加班打趣。",
+      "evidence_type": "self_report",
+      "verified_order": false,
+      "what_it_supports": "成员偏好与整盒/赠送关系的一个线索",
+      "what_it_does_not_support": "成交核验、销量、全网缺货、全体客群动机或比例"
+    }
+  ],
+  "new_independent_accounts": 1,
+  "limits": "未核商业合作性质；照片未逐图打开，不写实拍视觉结论。"
+}

@@ -23,7 +23,7 @@
   "tier": "standard",
   "status": "partial",
   "cutoff_date": "2026-10-31",
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "summary": "森林日常由被窝、衣装、手作与群像分工落到产品；官方功能证据清楚，近期讨论可核，规模与增长因果未知。",
   "owner": {
     "creator": null,
@@ -125,7 +125,7 @@
   "circle": {
     "who": "近期公开收藏讨论者；人群规模比例未知",
     "where": "公开收藏论坛、官方零售及乐园线索",
-    "buy": "一名评论者自述抽重；无订单可核",
+    "buy": "原论坛1名账号抽重自述；新增中文账号自述目标小羊与舍友端盒，均无订单可核。",
     "signs": "对物种、复古气质、某个成员有偏好；不是所有人都因害羞购买",
     "share": "讨论图、询问交换；成交与复购未知",
     "breakout": "跨载体渠道增加接触，但没有破圈率"
@@ -210,11 +210,12 @@
     {
       "claim": "群像以共同脸部语言维持家族感，同时让用户选择某一成员",
       "type": "inference",
-      "evidence": "官方角色列表和所看熊/企鹅/兔图像支持共享语言；独立评论有只关注Joeius、抽重Iceymel求交换",
-      "boundary": "仅一条公开线程的少量账号；交换意向不等于成交，共同脸部也有眼熟/辨识度风险",
+      "evidence": "官方角色列表和所看熊/企鹅/兔图像支持共享语言；独立评论有只关注Joeius、抽重Iceymel求交换 11/4另读中文微博U02，同样出现目标成员小羊与舍友端盒自述。",
+      "boundary": "1个论坛线程的少量账号＋1个中文主帖，非随机；交换/抽盒是自述，不能证明成交、复购或总体促购因果。",
       "sources": [
         "R02",
-        "R09"
+        "R09",
+        "U02"
       ]
     }
   ],
@@ -237,11 +238,11 @@
   "gaps": [
     "自然人作者、最初草稿、首条公开原作、完整著作权/商标/授权合同未核；ribo及中文姓名仅保留线索，不从AI汇编确认。",
     "6月用户已讨论Bearibo，8月雪糕帖正文有日期但未显年份；10月森林欢聚日不能当全IP诞生/首售。",
-    "2026-11-03 Browser连接仍返回Unknown tool，小红书两组未执行、实读0篇。",
-    "独立用户样本来自1条近期线程的6位账号和1条早期讨论；未随机抽样，无中国用户年龄/性别比例、全平台排名或复购率。",
+    "2026-11-04 Browser新连接仍返回Unknown tool，小红书两组未执行、实读0篇。",
+    "用户材料包括原1条近期论坛线程6位目的抽样、1条早期存在时间讨论，及新增中文微博主帖1位账号；均非随机且无订单，不推中国年龄/性别比例、排名或复购率。",
     "第三方显示英国/美国缺货；英国官方读取为选项未加载，不能直接证实售罄或售罄速度；首批库存与销量均null。",
     "已看7张官方原图，未覆盖所有成员全部视角和早期人偶影像；未读实体绘本，未核出版物ISBN，不把绘本感等同绘本起源。",
-    "英文附图V2仅身份近似；V8/V9及旧V3–V7严格平涂未通过。V9与V2同词同官方参考复测1次仍有嘴眼/色调差异，不证明稳定；纯文字未测，不推进3D/毛绒。",
+    "本轮英文纯文字V10/V11已实测未通过：倾头修正后头脸/结构仍偏离；附V04的英文V12较接近同款但严格平涂未过。旧V2仍仅有限身份接近，中文/稳定性未证实，不推进3D/毛绒。",
     "原图不公开打包；内部结构、绒感、承重、耐用性、清洗与关节寿命未实测，成本利润未知。"
   ],
   "sources": [
@@ -699,21 +700,143 @@
       "observed": "2026-11-03",
       "access": "partial",
       "note": "页面有产品名称、约30cm与材料、发售时间。检索缓存2天；可读不代表可购，未读出实时库存。与T08并存，结论为第三方历史追踪未获直接官方取消公告确认。"
+    },
+    {
+      "id": "U01",
+      "title": "RiboDiary机器人商店主题焕新原帖",
+      "url": "https://www.sina.cn/news/detail/5361107939101367.html",
+      "publisher": "POPMART泡泡玛特认证账号",
+      "published": "2026-11-03",
+      "event_date": "2026-11-03起陆续焕新",
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "只读主帖文字，实际以线下点位为准；未逐图打开帖内照片，不描述装饰细节，无点位数、到访或销量。"
+    },
+    {
+      "id": "U02",
+      "title": "中国用户目标小羊与端盒自述",
+      "url": "https://www.sina.cn/news/detail/5360419786984961.html",
+      "publisher": "一直啊游到海水变蓝",
+      "published": "2026-11-01",
+      "event_date": null,
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "主帖自述最后抽到小羊、舍友端盒；无订单，赠礼/舍友关系仅本人说法。新浪标题加了全网断货，正文未提供此证据，本研究不采纳。下方推荐内容不计该样本，不据此判断商业合作性质。未逐图看照片。"
+    },
+    {
+      "id": "U03",
+      "title": "原独立收藏讨论复核",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1xbdmcg/is_this_a_new_ip/",
+      "publisher": "Reddit / KitchenLoan6",
+      "published": "2026-10-21",
+      "event_date": null,
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "缓存3天、相对日期仍显示10d ago，不换算成今日新增。保留原6位目的抽样，不新增论坛样本，不展开隐藏回复。"
+    },
+    {
+      "id": "U04",
+      "title": "官方挂件SKU与参考图来源",
+      "url": "https://www.popmart.com/us/products/9418/ribodiary-forest-gathering-day-series-plush-doll-pendant",
+      "publisher": "POP MART",
+      "published": null,
+      "event_date": "2026-10-29 17:00 PST（原文）",
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "身高13.5–14.5cm口径不含耳/配件等；规格与实际当前库存分开。官方V04原图本轮重新下载、打开，仍1200×1200。"
+    },
+    {
+      "id": "U05",
+      "title": "PUPPET SUNSUN挂件软糖官方SKU",
+      "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4570117926495000",
+      "publisher": "Bandai",
+      "published": null,
+      "event_date": "2026-11-16计划发售",
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "385JPY含税、全8种，其中1种植绒。是未来发售计划，非已售罄、销量或新品增长。"
+    },
+    {
+      "id": "U06",
+      "title": "PUPPET SUNSUN新品近期报道",
+      "url": "https://www.inside-games.jp/article/2026/11/02/190220.html",
+      "publisher": "Inside",
+      "published": "2026-11-02",
+      "event_date": "2026-11-16计划发售",
+      "observed": "2026-11-04",
+      "access": "snippet_only",
+      "note": "本轮只读搜索摘要；与U05同一新品家族，不重复计独立需求。"
+    },
+    {
+      "id": "U07",
+      "title": "TOPTOY Nommi官方栏目",
+      "url": "https://gotoptoy.com/pages/nommi",
+      "publisher": "TOPTOY",
+      "published": null,
+      "event_date": null,
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "导航将Nommi列于Original Characters，页面标TOPTOY x NOMMI；这是官网分类，不等于完整著作权/合同核验，不自动称归名创优品本体。"
+    },
+    {
+      "id": "U08",
+      "title": "Nommi都市奇遇近期新品线索",
+      "url": "https://www.mowanmi.com/post/8520.html",
+      "publisher": "模玩迷",
+      "published": "2026-11-03",
+      "event_date": "2026-10-30（媒体转述）",
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "媒体转述TOPTOY五关节系列，单抽199CNY；未获本款官方原始发售公告确认，不将渠道挂名认成迪士尼或Nommi完整权属。"
+    },
+    {
+      "id": "U09",
+      "title": "三丽鸥FRAGARIA MEMORIES新章节官方计划",
+      "url": "https://fragariamemories.sanrio.co.jp/news/post-317/",
+      "publisher": "Sanrio",
+      "published": "2026-10-21",
+      "event_date": "11/4声剧、11/5 MV、11/6起联动计划",
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "计划日期不等于本轮已播放/确认上线；未打开音视频，也没有观看量或用户讨论。角色群与两名成员不重复排期。"
+    },
+    {
+      "id": "U10",
+      "title": "韩国便利店再婚皇后联动报道线索",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/02/2026110200034.amp.html",
+      "publisher": "NewDaily",
+      "published": "2026-11-02",
+      "event_date": null,
+      "observed": "2026-11-04",
+      "access": "snippet_only",
+      "note": "搜索摘要见便利店联动，打开不可访问；另一媒体亦502。无独立需求样本；仅韩国市场观察线索。旧2024年残망루피快闪检索结果被排除，不伪作2026新事件。"
+    },
+    {
+      "id": "U11",
+      "title": "再婚皇后WEBTOON官方署名背景",
+      "url": "https://www.webtoons.com/en/fantasy/the-remarried-empress/list?title_no=2135",
+      "publisher": "NAVER WEBTOON",
+      "published": null,
+      "event_date": null,
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "只核系列身份与SUMPUL/HereLee/Alphatart分工；未读漫画章节，不把累计页面指标当近期热度或便利店销量，未据此确认完整联名权利链。"
     }
   ],
-  "archive": "research/ribodiary/2026-11-03/index.html",
-  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-03/",
-  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-03/",
+  "archive": "research/ribodiary/2026-11-04/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-04/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-04/",
   "prompt_validation": {
     "status": "partial",
-    "mode": "旧英文附图V2仅身份接近；本轮V8/V9未过严格平涂",
+    "mode": "旧英文附图V2有限身份近似；纯文字V10/V11未通过，附图V12仍revise",
     "scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
     "strict_flat_fill": "not_passed",
-    "text_only": "not_tested",
+    "text_only": "English V10/V11 tested_not_passed",
     "stability": "one_repeat_observed_differences_not_validated",
-    "tests": "research/ribodiary/2026-11-03/prompt-tests.json",
-    "checkpoint": "research/ribodiary/2026-11-03/selection-and-progress.json",
+    "tests": "research/ribodiary/2026-11-04/prompt-tests.json",
+    "checkpoint": "research/ribodiary/2026-11-04/selection-and-progress.json",
     "usable_prior_test": "ribodiary-bearibo-flat-ref-v2",
-    "chinese_reference": "tested_not_passed"
+    "chinese_reference": "tested_not_passed",
+    "reference_latest": "English V12 revise"
   }
 }
