@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-06",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-liuyifei-e3",
+  "n": 2,
+  "title": "拧成麻花脊的钢丝空腔坐兽",
+  "species": "钢丝麻花",
+  "axes": {
+    "archetype": "物件生物，金属麻花+空腔",
+    "silhouette": "细长拧脊立坐，腹是空腔环",
+    "mark": "背脊 · 一条拧紧的钢丝麻花脊",
+    "face": "半垂小黑豆眼在腔环上沿，极小一字嘴",
+    "emotion": "内收，细但不断",
+    "fusion": "钢丝麻花是脊骨，空腔环是身躯，二者长成一体",
+    "material": "脊是拉丝不锈钢丝，腔环是哑光搪胶空心",
+    "palette": "冷钢银配雾紫腔，脊上一道浅仙粉极细线"
+  },
+  "head": "腔环上沿微鼓即头，无发",
+  "combo": "钢丝麻花脊 + 雾紫空腔环身 + 半垂豆眼 + 冷钢对雾紫",
+  "odd": "细脊拧着却撑住空腔，像内心麻花",
+  "why": "急性子学会安住后的芯：细、拧、不易断；空腔是满戏后先空掉。",
+  "spec": {
+    "proportion": "脊高约占全高60%，腔环径约占身宽",
+    "outline": "上细拧脊、下圆腔环、底短脚钉",
+    "volume": "大：空腔环；中：麻花脊；小：脚钉与脊顶钝结",
+    "face": "眼在腔环上沿正面，半垂",
+    "stance": "双短脚钉站稳",
+    "structure": "麻花脊拧进腔环后壁，取下脊腔环仍圆"
+  },
+  "toy_check": "站得住：脚钉。物件长进去：麻花脊与腔是身体。特殊材质拉丝钢丝。新组合：麻花脊空腔兽。不像绘本。头像裁进脊顶与腔沿。姿态：站。",
+  "crop": "记忆点在拧紧麻花脊。头像必须含脊。",
+  "collide": "不同于健身弹簧玩具：有空腔身与半垂眼，不是弹跳动作。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "麻花被画成手持弹簧"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "脊与腔糊成一根肠"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "加成闪电特效"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩银线"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换掉冷钢后必须仍是拧脊"
+    ]
+  ],
+  "zh": "原创潮玩角色，一条拉丝冷钢银钢丝麻花脊和一个雾紫哑光空腔环长在一起：麻花脊是背骨拧进腔环后壁，腔环是身体，半垂小黑豆眼在腔沿，极小一字嘴，脊上一道浅仙粉极细线。双短脚钉站稳。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实搪胶产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要尖刺乱飞伤人场面，不要色情。不要手持弹簧，不要弹跳动作，不要伤人尖端。",
+  "enp": "Original designer toy character: a cold-steel brushed wire twisted-rope spine fused into a mist-purple matte hollow ring body, half-lidded black bead eyes on the rim, tiny straight mouth, extremely thin soft-pink line on the spine. Two short foot pegs. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, real vinyl toy product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no name lettering or brand logos, no existing drama or film titles, no violent stabbing scene, no sexualized content. No handheld spring, no bouncing action, no dangerous sharp tips.",
+  "rules_hit": "避开别的影子：不是弹簧玩具。识别：拧脊+空腔。不普通：金属脊长进腔。材质拉丝钢丝。冷钢对雾紫。组合少见。夸张在细脊撑住大腔。",
+  "pose": "站"
+}

@@ -135,6 +135,9 @@
     "star-huangjingyu-e1",
     "star-huangjingyu-e2",
     "star-huangjingyu-e3",
+    "star-liuyifei-e1",
+    "star-liuyifei-e2",
+    "star-liuyifei-e3",
     "star-liyunrui-e1",
     "star-liyunrui-e2",
     "star-liyunrui-e3",
@@ -191,6 +194,15 @@
     "star-huangjingyu-e3-A1",
     "star-huangjingyu-e3-A2",
     "star-huangjingyu-e3-A3",
+    "star-liuyifei-e1-A1",
+    "star-liuyifei-e1-A2",
+    "star-liuyifei-e1-A3",
+    "star-liuyifei-e2-A1",
+    "star-liuyifei-e2-A2",
+    "star-liuyifei-e2-A3",
+    "star-liuyifei-e3-A1",
+    "star-liuyifei-e3-A2",
+    "star-liuyifei-e3-A3",
     "star-liyunrui-e1-A1",
     "star-liyunrui-e1-A2",
     "star-liyunrui-e1-A3",
@@ -397,10 +409,11 @@
     "star-chenglei",
     "star-dilireba",
     "star-huangjingyu",
+    "star-liuyifei",
     "star-liyunrui",
     "star-mengziyi",
     "star-tianxiwei",
     "star-xiaozhan"
   ],
-  "updated": "2026-11-04T22:57:45+00:00"
+  "updated": "2026-11-05T23:06:08+00:00"
 }

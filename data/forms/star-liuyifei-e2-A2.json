@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-06",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-liuyifei-e2",
+  "n": 2,
+  "title": "缎面褶皱裹住马蹄莲芯的坐兽",
+  "species": "缎面头纱 / 马蹄莲",
+  "axes": {
+    "archetype": "物件生物，花与缎",
+    "silhouette": "竖喇叭花形，外裹垂坠缎褶",
+    "mark": "外披 · 一道竖向缎褶反光脊",
+    "face": "半垂小黑豆眼在花喉外沿，极小一字嘴",
+    "emotion": "内收，盛装物件化，不露人脸",
+    "fusion": "马蹄莲芯是身，缎面褶皱是外皮长在一起，不是人披头纱",
+    "material": "芯是哑光瓷白，外皮是亮面缎纹搪胶",
+    "palette": "瓷白芯配银灰缎，褶边一点蜜黄刺点"
+  },
+  "head": "花喉上沿即额，无发无五官夸张",
+  "combo": "马蹄莲芯 + 银灰缎褶外皮 + 半垂豆眼 + 瓷白对银灰",
+  "odd": "盛典视觉抽象成物件：头纱变缎褶外皮，花是身体",
+  "why": "勋章可以是缎与花，但蜜黄刺点提醒边界仍在。",
+  "spec": {
+    "proportion": "全高约是最大宽的1.5倍，缎褶宽于花芯20%",
+    "outline": "上开喇叭、下收坐稳",
+    "volume": "大：缎褶；中：花芯；小：底坐环与蜜黄刺点",
+    "face": "眼在花喉外沿中线两侧，半垂",
+    "stance": "底坐环稳坐",
+    "structure": "缎褶从花肩垂下融进轮廓，不可当可脱披风"
+  },
+  "toy_check": "站得住：底坐环。物件长进去：花与缎是身体。特殊材质亮面缎纹。新组合：马蹄莲缎褶兽。不像绘本。头像裁进花喉与竖褶脊。姿态：坐。",
+  "crop": "记忆点在竖向缎褶脊。头像必须含褶脊。",
+  "collide": "不同于婚纱娃娃：无人脸发型服装，只是花与缎物件融合。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "画成真人披头纱"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "褶糊成斗篷人"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "加成珠宝品牌标"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩白锥"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换掉银灰后必须仍是缎褶外皮"
+    ]
+  ],
+  "zh": "原创潮玩角色，一支瓷白马蹄莲芯和银灰亮面缎褶长在一起：花芯是身体，缎褶是长进肩线的外皮，竖向反光脊比脸醒目，褶边一点蜜黄钝刺点。半垂小黑豆眼，极小一字嘴。底坐环坐稳。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实搪胶产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要尖刺乱飞伤人场面，不要色情。不要真人脸发型婚纱，不要品牌名，不要珠宝Logo。",
+  "enp": "Original designer toy character: a porcelain-white calla core fused with silver-grey glossy satin folds as an outer skin grown from the shoulder line, a vertical sheen ridge more noticeable than the face, tiny honey-yellow blunt thorn dots on the hem. Half-lidded black bead eyes, tiny straight mouth. Seated on a base ring. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, real vinyl toy product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no name lettering or brand logos, no existing drama or film titles, no violent stabbing scene, no sexualized content. No real human face, hair or wedding dress, no brand names, no jewelry logos.",
+  "rules_hit": "避开别的影子：不是婚纱娃娃。识别：缎褶脊+花芯。不普通：缎是外皮。材质亮面缎纹。瓷白对银灰。组合少见。夸张在褶脊压过脸。",
+  "pose": "坐"
+}

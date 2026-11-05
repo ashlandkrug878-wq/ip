@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-06",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-liuyifei-e1",
+  "n": 3,
+  "title": "伞骨撑开羽膜的黑伞坐兽",
+  "species": "黑伞",
+  "axes": {
+    "archetype": "物件生物，伞体",
+    "silhouette": "半开黑伞坐姿，伞面是羽膜",
+    "mark": "伞面 · 羽膜纹理压过脸",
+    "face": "半垂小黑豆眼嵌在伞柄结，极小一字嘴",
+    "emotion": "内收，撑着但不张开炫耀",
+    "fusion": "伞骨是骨架，羽膜是皮肤，柄结是头，不是人打伞",
+    "material": "主体哑光黑伞骨塑料，伞面是软羽膜毡",
+    "palette": "墨黑伞骨配霜白羽膜斑"
+  },
+  "head": "柄结圆鼓即头，无发，伞骨放射如短肋",
+  "combo": "半开黑伞坐兽 + 羽膜伞面 + 半垂豆眼 + 墨黑对霜白斑",
+  "odd": "伞不是道具，伞就是身体；羽膜取代布面",
+  "why": "轻羽落到遮风物件上：重量交给结构（伞骨），自我仍轻（羽膜）。",
+  "spec": {
+    "proportion": "伞面宽约是全高的1.1倍，头（柄结）约占15%",
+    "outline": "浅穹顶坐姿，底边三短脚骨",
+    "volume": "大：伞面；中：伞骨；小：柄结头与脚骨",
+    "face": "眼在柄结正面，半垂",
+    "stance": "三短脚骨撑住",
+    "structure": "羽膜绷在骨上，取下膜仍见伞骨星形"
+  },
+  "toy_check": "站得住：三脚骨。物件长进去：伞是身体。特殊材质羽膜毡。新组合：黑伞羽膜兽。不像绘本。头像裁进柄结与近侧骨。姿态：坐撑。",
+  "crop": "记忆点在羽膜伞面与柄结头。头像必须含二者。",
+  "collide": "不同于雨伞吉祥物：无人手握柄，伞面是羽膜不是广告布。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "画成真人打伞"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "伞面糊成蘑菇"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "加成水滴特效"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩黑圆"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换掉羽膜后必须仍是伞骨身"
+    ]
+  ],
+  "zh": "原创潮玩角色，一把半开墨黑伞和霜白羽膜长在一起：伞骨就是骨架，伞面绷着软羽膜毡，柄结圆鼓是头，半垂小黑豆眼，极小一字嘴，三根短脚骨撑住。无人手。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实搪胶产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要尖刺乱飞伤人场面，不要色情。不要人手握伞，不要杂志名文字，不要大面积水滴场景。",
+  "enp": "Original designer toy character: a half-open ink-black umbrella body fused with a soft frost-white feather-felt canopy — ribs are the skeleton, the canopy is feather membrane, the handle knob is the head with half-lidded black bead eyes and a tiny straight mouth; three short foot-ribs. No human hand. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, real vinyl toy product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no name lettering or brand logos, no existing drama or film titles, no violent stabbing scene, no sexualized content. No human hand holding the umbrella, no magazine title lettering, no large raindrop scene.",
+  "rules_hit": "避开别的影子：不是雨伞广告偶。识别：羽膜伞面。不普通：伞即身体。材质羽膜毡。墨黑对霜白斑。组合少见。夸张在半开不展翅。",
+  "pose": "坐撑"
+}

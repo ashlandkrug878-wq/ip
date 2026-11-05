@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-06",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-liuyifei-e3",
+  "n": 3,
+  "title": "书页风口鼓起的侧卧书砖",
+  "species": "书 / 茶杯",
+  "axes": {
+    "archetype": "物件生物，书砖",
+    "silhouette": "侧卧厚书，切口鼓起一小股抽象风褶",
+    "mark": "书口 · 一股竖起的软风褶",
+    "face": "半垂小黑豆眼在书脊端，极小一字嘴",
+    "emotion": "内收，独处阅读的风",
+    "fusion": "书砖是身体，风褶从书口长出，不是背景特效",
+    "material": "书壳哑光布面，风褶是半透明软胶",
+    "palette": "墨绿书壳配月白风褶"
+  },
+  "head": "书脊端圆角即头，无发",
+  "combo": "侧卧书砖 + 书口月白风褶 + 半垂豆眼 + 墨绿对月白",
+  "odd": "风从书口长出，像等待里的有风，不写剧名",
+  "why": "独处看书与安住当下：书是身体，风褶是未说完的等待。",
+  "spec": {
+    "proportion": "书长约是厚的2.2倍，风褶高约占厚的80%",
+    "outline": "长方书砖侧卧，书口一褶耸起",
+    "volume": "大：书砖；中：风褶；小：书脊端眼区与底边短垫",
+    "face": "眼在书脊端，半垂",
+    "stance": "侧卧，底边短垫贴地",
+    "structure": "风褶根部嵌进书口，表面无字"
+  },
+  "toy_check": "站得住：侧卧贴地。物件长进去：书是身体。特殊材质半透明软胶风褶。新组合：书口长风褶。不像绘本。头像裁进书脊端与风褶。姿态：侧卧。",
+  "crop": "记忆点在书口风褶。头像必须含风褶。",
+  "collide": "不同于会说话的书角色：无大嘴朗读，风褶抽象，脸收着。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "风被画成背景线条"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "书糊成砖块"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "封面加成书名文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩绿块"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换掉月白后必须仍是书口耸褶"
+    ]
+  ],
+  "zh": "原创潮玩角色，一块侧卧墨绿布面书砖和一股月白半透明软胶风褶长在一起：书就是身体，风褶从书口嵌出耸起，半垂小黑豆眼在书脊端，极小一字嘴，封面书口均无文字。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实搪胶产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要尖刺乱飞伤人场面，不要色情。不要封面书名，不要把风画成背景特效线，不要张嘴朗读。",
+  "enp": "Original designer toy character: a side-lying forest-green cloth-bound book-brick body fused with a moon-white translucent soft-gel wind fold rising from the fore-edge. Half-lidded black bead eyes on the spine end, tiny straight mouth, no lettering on cover or edge. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, real vinyl toy product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no name lettering or brand logos, no existing drama or film titles, no violent stabbing scene, no sexualized content. No title lettering on the cover, do not draw the wind as background speed lines, no open-mouth reading face.",
+  "rules_hit": "避开别的影子：不是会说话的书。识别：书口风褶。不普通：风长进书口。材质半透明软胶。墨绿对月白。组合少见。夸张在侧卧书鼓风。",
+  "pose": "侧卧"
+}

@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-06",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-liuyifei-e2",
+  "n": 1,
+  "title": "刺骨长进花托的黄玫瑰坐兽",
+  "species": "黄玫瑰（带刺）",
+  "axes": {
+    "archetype": "物件生物，玫瑰",
+    "silhouette": "团花坐姿，刺骨从花托向下成脚",
+    "mark": "花托下 · 三根暗褐刺骨比脸清楚",
+    "face": "半垂小黑豆眼嵌在花心外层瓣，极小一字嘴",
+    "emotion": "内收，接着勋章却留刺",
+    "fusion": "花头是身体，刺骨从托里长出成肢，不是旁边插的枝",
+    "material": "主体哑光搪胶花瓣，刺骨是硬质树脂尖钝刺",
+    "palette": "蜜黄花瓣配暗褐刺，一道浅仙粉细环在托上"
+  },
+  "head": "外层瓣收成头区，无发无冠",
+  "combo": "蜜黄玫瑰坐兽 + 花托暗褐刺骨肢 + 半垂豆眼 + 蜜黄对暗褐",
+  "odd": "刺不是装饰，刺是从花托长出的脚骨",
+  "why": "讨厌过的符号后来成了带刺勋章。花是接受，刺是边界。",
+  "spec": {
+    "proportion": "花头约占全高70%，刺脚长约占30%",
+    "outline": "上圆下三叉刺脚",
+    "volume": "大：花头；中：花托；小：三刺脚与托上细环",
+    "face": "眼在花头下三分之一外瓣，半垂",
+    "stance": "三刺脚撑坐",
+    "structure": "刺从托内长出，剪掉刺仍剩花头剪影"
+  },
+  "toy_check": "站得住：三刺脚。物件长进去：花是身体。特殊材质硬刺树脂。新组合：刺骨作肢的玫瑰。不像绘本。头像裁进花头与托上环。姿态：坐。",
+  "crop": "记忆点在刺脚与蜜黄花头。头像必须含托上仙粉细环。",
+  "collide": "不同于甜玫瑰吉祥物：刺是脚骨，脸收着，没有献花手。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "刺被画成手持花枝"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "花糊成圆球糖"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "去掉全部刺"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩黄团"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换掉蜜黄后必须仍是刺脚花"
+    ]
+  ],
+  "zh": "原创潮玩角色，一朵蜜黄玫瑰和三根暗褐刺骨长在一起：花头就是身体，刺从花托长出变成短钝脚骨，托上一道浅仙粉细环。半垂小黑豆眼嵌在外层瓣，极小一字嘴。坐姿。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实搪胶产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要尖刺乱飞伤人场面，不要色情。不要手持花枝，不要拔光刺，不要真人捧花。",
+  "enp": "Original designer toy character: a honey-yellow rose body fused with three dark-brown thorn-bones growing from the calyx as short blunt legs, thin soft-pink ring on the calyx. Half-lidded black bead eyes on an outer petal, tiny straight mouth. Seated. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, real vinyl toy product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no name lettering or brand logos, no existing drama or film titles, no violent stabbing scene, no sexualized content. No handheld flower stem, do not remove all thorns, no human holding a bouquet.",
+  "rules_hit": "避开别的影子：不是甜玫瑰吉祥物。识别：刺骨作脚。不普通：刺长进托。材质硬刺树脂。蜜黄对暗褐。组合少见。夸张在刺比脸清楚。",
+  "pose": "坐"
+}

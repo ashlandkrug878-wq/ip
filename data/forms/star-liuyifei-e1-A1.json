@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-06",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-liuyifei-e1",
+  "n": 1,
+  "title": "腹心嵌铅坠的羽壳坐兽",
+  "species": "羽毛",
+  "axes": {
+    "archetype": "物件生物，羽壳身体",
+    "silhouette": "卵形羽壳坐姿，腹心一颗沉坠",
+    "mark": "腹心 · 一颗比脸更醒目的哑光铅坠",
+    "face": "半垂小黑豆眼，极小一字嘴",
+    "emotion": "内收，轻里压着沉",
+    "fusion": "羽瓣就是身体外壳，铅坠嵌进腹心凹槽，不是挂件",
+    "material": "主体哑光羽纤维壳，只有腹坠是磨砂铅金属",
+    "palette": "霜白羽配铅灰坠，一道浅仙粉细边"
+  },
+  "head": "羽壳上端略收即头，几乎无颈，无发无耳",
+  "combo": "羽壳坐兽 + 腹心铅坠 + 半垂豆眼 + 霜白对铅灰",
+  "odd": "身体极轻的羽壳，记忆点却是腹心那颗沉坠",
+  "why": "自己轻成羽毛，角色才有重量。羽壳是自我放轻，坠是角色重量的结构种子。",
+  "spec": {
+    "proportion": "全高约是最大宽的1.2倍，脸只占上部25%，坠径约身宽35%",
+    "outline": "竖卵形羽壳，腹心圆坠凸出",
+    "volume": "大：羽壳；中：铅坠；小：短脚垫与顶端一撮钝羽尖",
+    "face": "眼在壳高上三分之一，半垂，眼距约一个眼宽",
+    "stance": "坐在壳底，短脚垫藏在下沿",
+    "structure": "坠嵌进腹槽，拿掉坠羽壳剪影仍成立"
+  },
+  "toy_check": "站得住：坐在壳底。物件长进去：羽壳是身体。特殊材质只有铅坠。新组合：羽壳嵌铅坠。不像绘本。头像要裁到坠的上沿。姿态：坐。",
+  "crop": "记忆点在腹心铅坠。头像必须裁进坠的上缘。",
+  "collide": "不同于天使羽毛玩偶：没有光环张开翅，坠嵌进腹心，脸收着。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "坠被画成手持吊坠"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "羽壳糊成棉花团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "加成翅膀展开"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩一张脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换掉铅灰后必须仍是腹心坠"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只哑光霜白羽纤维壳和一颗磨砂铅灰坠长在一起：羽壳就是身体，腹心嵌着一颗比脸更醒目的圆钝铅坠，顶上一撮短钝羽尖，几乎无颈。半垂小黑豆眼，极小一字嘴，神情收着。坐在壳底，短脚垫藏在下沿。主色霜白，坠为铅灰，壳沿一道浅仙粉细边。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实搪胶产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要尖刺乱飞伤人场面，不要色情。不要把铅坠画成手持吊坠，不要张开的翅膀，不要光环。",
+  "enp": "Original designer toy character: a matte frost-white feather-fiber shell body fused with a frosted lead-grey weight set into the belly, more noticeable than the face, plus a short blunt feather tip on top and almost no neck. Half-lidded black bead eyes, tiny straight mouth, held-in calm. Seated on its own bottom, short foot pads tucked under. Main frost white; belly weight lead grey; a thin soft-pink edge line only. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, real vinyl toy product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no name lettering or brand logos, no existing drama or film titles, no violent stabbing scene, no sexualized content. Do not turn the weight into a handheld pendant, no spread wings, no halo.",
+  "rules_hit": "避开别的影子：不是天使玩偶。识别：腹心铅坠。不普通：坠嵌进羽壳。材质只有磨砂铅。霜白对铅灰。组合少见。夸张在坠比脸清楚。",
+  "pose": "坐"
+}
