@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-05",
+  "window_7d": [
+    "2026-10-30",
+    "2026-11-05"
+  ],
+  "window_30d": [
+    "2026-10-07",
+    "2026-11-05"
+  ],
+  "selected": "ribodiary",
+  "reason": "前次同款未过平涂检查点，先续作；不称今日最热门。官方内容/渠道动作、日本店内榜单与历史独立用户自述交叉参考。",
+  "new_studies": 0,
+  "count_before": 43,
+  "count_after": 43,
+  "dedupe": "重新读取43张卡/别名；Pochacco已有，RiboDiary涵盖瑞宝及其他群像成员。",
+  "qualified_candidates": [
+    {
+      "name": "RiboDiary",
+      "category": "泡泡玛特",
+      "sources": [
+        "W01",
+        "W02",
+        "U02"
+      ],
+      "event_dates": [
+        "2026-11-01",
+        "2026-11-04",
+        "2026-11-05"
+      ],
+      "strength": "事件证据较强；单店榜口径有限、用户为弱自述",
+      "decision": "续作同卡"
+    }
+  ],
+  "watchlist_not_qualified": [
+    {
+      "name": "Nommi",
+      "category": "名创优品相关／TOPTOY单列",
+      "sources": [
+        "W06",
+        "W07",
+        "W08"
+      ],
+      "reason": "新品＋开店动作可核，独立需求不足；分类自述不等于权利合同，不认定MINISO本体所有"
+    },
+    {
+      "name": "PUPPET SUNSUN",
+      "category": "其他日本IP",
+      "sources": [
+        "W05"
+      ],
+      "reason": "只有新品计划，缺独立近期需求；11/16尚未发售"
+    },
+    {
+      "name": "FRAGARIA MEMORIES",
+      "category": "三丽鸥",
+      "sources": [
+        "W09"
+      ],
+      "reason": "10/21旧公告中11月内容计划；未核今天上线和独立用户证据，跳过小红书"
+    },
+    {
+      "name": "LITTLE RIIZE minini",
+      "category": "韩国角色IP",
+      "sources": [
+        "W10"
+      ],
+      "reason": "11/4发布/预售媒体摘要，主公告及独立需求未核；同稿多媒体不重复计数"
+    }
+  ],
+  "limitations": "只有1个续作对象足够进入本轮；其余4项是待核观察线索，不伪装3—5个热门候选。",
+  "checkpoint": {
+    "subject_id": "ribodiary",
+    "status": "strict_flat_fill_not_passed",
+    "target": "同一V04蓝背带裤瑞宝可见全身，不换目标",
+    "tests_added": [
+      13,
+      14
+    ],
+    "text_only": "English V10/V11 tested_not_passed",
+    "reference": "English V13/V14 revise; old V2 limited identity match only",
+    "next_action": "维持同款，解决色块均匀性并检查眼点/嘴/比例；不进入3D/毛绒。"
+  }
+}

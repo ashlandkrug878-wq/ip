@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-05",
+  "card_validator": "PASS structure/vocab/source IDs, facts reviewed separately",
+  "index_builder": "index unchanged",
+  "collections": {
+    "batches": 13,
+    "ips": 132,
+    "forms": 78,
+    "studies": 43,
+    "reviews": 83,
+    "pools": 28,
+    "species": 2,
+    "stars": 8
+  },
+  "html": "unique ids, valid local anchors, prompt copy/download exact, JSON parse passed",
+  "prompts": "old V2 unchanged; new V13/V14 exactly equal actual tool inputs, no prohibited proper names",
+  "images": "longest edge <=768; WebP q80; each <150KB; generated images only",
+  "credentials_scan": "passed",
+  "historical_attachment_http": [
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/flat-ref-v1.webp",
+      "status": 200,
+      "bytes": 24172,
+      "sha256": "d333aab3557eb3c0fc3e4c060040d9c52246938b3f1932b1f4168a2c1fe29bd5"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/flat-ref-v2.webp",
+      "status": 200,
+      "bytes": 21318,
+      "sha256": "1447293a1e56d706926f63d6626694b5270ddc6b65de126ffd26ed381af5f7a5"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/research-notes.json",
+      "status": 200,
+      "bytes": 3429,
+      "sha256": "54cea9ceb1426123eb653f671811078383d7490ac2bef32a576707b60bb82197"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/user-samples.json",
+      "status": 200,
+      "bytes": 1582,
+      "sha256": "547c3a24ed4502ff38e8a2f7848f2574f5de131181c628c29df59314a2fdc066"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-01/flat-ref-v3.webp",
+      "status": 200,
+      "bytes": 23420,
+      "sha256": "cd0bd1180f9b30af42a96415247a7648301c4fcd819693ff56a72f0fe33c5b2f"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-01/flat-ref-v4.webp",
+      "status": 200,
+      "bytes": 21564,
+      "sha256": "66badb8b5ee7a18a6f17332529bc2eecad16d1575c524975315c7d8b7431f10e"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-01/flat-ref-v5.webp",
+      "status": 200,
+      "bytes": 21550,
+      "sha256": "97f063c59f5b77f5817c43abbeed83dd8a6be458af0ff1dbfa128fa010dea8ad"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-02/flat-ref-v6.webp",
+      "status": 200,
+      "bytes": 22554,
+      "sha256": "75d82c928db190323d8d76a807b5254c62f8d3133195ca709eb3ad30249830d4"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-02/flat-ref-v7.webp",
+      "status": 200,
+      "bytes": 21694,
+      "sha256": "df227e84a32c11d6ea3498bb86e3fdff1931044aa3a7ee1bd5db7cbad3024df2"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-03/flat-ref-v8.webp",
+      "status": 200,
+      "bytes": 22046,
+      "sha256": "a5e94771e7ef1476b9e3e859afe13dac2bf00a4ee9dc099eac72689bc68f88b4"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-03/flat-ref-v9.webp",
+      "status": 200,
+      "bytes": 20772,
+      "sha256": "0e5f8d1d88af0357cffd8ad86e7ad888f88cac3167f91c57a0ad803cd9402f8d"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-04/flat-ref-v12.webp",
+      "status": 200,
+      "bytes": 22258,
+      "sha256": "dbdbba9041a0075a636661c27998d95bca63d57304535e0cfe7bf46d1c8b34f8"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-04/flat-text-v10.webp",
+      "status": 200,
+      "bytes": 19430,
+      "sha256": "2309f1c9227a74631be6b8801fdc2de5ddc27cc9ec2312d3dd128883801cdee2"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-04/flat-text-v11.webp",
+      "status": 200,
+      "bytes": 17540,
+      "sha256": "e806d02ab96ff0014c234ca54409febf82d2342a93ba6cd3416ee05f6ddda9de"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-04/user-samples-update.json",
+      "status": 200,
+      "bytes": 756,
+      "sha256": "cf6ffa7a3abe6396604224b1f599acd9be9e8791acb001063e8948129f63218a"
+    }
+  ],
+  "scope": "same ribodiary card and 2026-11-05 archive only; no index content change",
+  "visual_render": "未在浏览器渲染网页；HTML结构与公开链接检查不冒称截图验收",
+  "publication_status": "prepared_before_commit; pipeline/pages/public payload verification performed after commit and reported separately"
+}

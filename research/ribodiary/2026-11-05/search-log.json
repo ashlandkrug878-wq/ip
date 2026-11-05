@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-05",
+  "queries": [
+    {
+      "engine": "system1",
+      "query": "瑞宝 RiboDiary 2026 11月 4 5 泡泡玛特",
+      "window": "7d"
+    },
+    {
+      "engine": "system1",
+      "query": "潮玩 名创优品 TOPTOY NOMMI 2026 11月 新品",
+      "window": "7d"
+    },
+    {
+      "engine": "system1",
+      "query": "サンリオ パペットスンスン 2026年11月5日 新商品",
+      "window": "7d"
+    },
+    {
+      "engine": "system1",
+      "query": "캐릭터 팝업 2026 11월 5일 인형",
+      "window": "7d"
+    },
+    {
+      "engine": "system1",
+      "query": "리라니니 IPX 2026 11 4 공식",
+      "window": "7d"
+    },
+    {
+      "engine": "system2",
+      "query": "\"RiboDiary\" \"2026-11-04\""
+    },
+    {
+      "engine": "system2",
+      "query": "\"NOMMI\" \"2026-11\" TOP TOY"
+    },
+    {
+      "engine": "system2",
+      "query": "\"パペットスンスン\" \"2026年11月\" 新商品"
+    },
+    {
+      "engine": "system2",
+      "query": "\"캐릭터\" \"2026.11.04\" 팝업"
+    }
+  ],
+  "xiaohongshu": [
+    {
+      "query": "RiboDiary 品牌介绍",
+      "status": "blocked",
+      "executed": false,
+      "read_pages": 0,
+      "accounts": [],
+      "reason": "当前浏览器连接返回Unknown tool(browser.js)，停止依赖；未开站内搜索，不绕过"
+    },
+    {
+      "query": "RiboDiary 产品汇总",
+      "status": "blocked",
+      "executed": false,
+      "read_pages": 0,
+      "accounts": [],
+      "reason": "当前浏览器连接返回Unknown tool(browser.js)，停止依赖；未开站内搜索，不绕过"
+    }
+  ],
+  "other_access": [
+    {
+      "url": "https://www.sina.cn/news/detail/5360419786984961.html",
+      "status": "blocked",
+      "note": "11/5重新打开不可访问，11/4已实读历史样本保留原观察日"
+    },
+    {
+      "url": "https://www.sina.cn/news/detail/5361107939101367.html",
+      "status": "blocked",
+      "note": "单帖不可访问；官方账号聚合正文另可读，但未查看图片"
+    },
+    {
+      "url": "https://item.rakuten.co.jp/pop-mart-japan/p49600110004m02/",
+      "status": "blocked",
+      "note": "从榜单点击商品页超时；不继续重试、不推断库存"
+    },
+    {
+      "url": "https://popga.co.kr/popup/16251",
+      "status": "blocked",
+      "note": "正文0行，不纳为合格候选"
+    }
+  ],
+  "sampling": "本轮没有新增用户主帖；11/4中文1账号及10/31论坛目的抽样6账号沿用历史观察，不写成今日新样本。"
+}
