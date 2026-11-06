@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-07",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-wangyibo-e2",
+  "n": 3,
+  "title": "甲板身体的滑板坐兽",
+  "species": "滑板",
+  "axes": {
+    "archetype": "物件生物，滑板甲板",
+    "silhouette": "横长甲板身，两端微翘",
+    "mark": "身 · 整块磨砂甲板就是躯干",
+    "face": "半垂眼贴在翘头端",
+    "emotion": "稳、收",
+    "fusion": "甲板是身体，轮桥是短肢结构",
+    "material": "主体木质磨砂甲板，只有轮子是PU亮面",
+    "palette": "原木色配正绿砂面边，轮深黑"
+  },
+  "head": "翘头端即头",
+  "combo": "横长甲板 + 两端微翘 + 半垂眼 + 木色对正绿",
+  "odd": "身体是板不是动物躯干",
+  "why": "温柔的控制力：踢翻靠重复，不靠喊。",
+  "spec": {
+    "proportion": "长约为高的2倍，板厚可见",
+    "outline": "双翘板剪影",
+    "volume": "大：甲板；中：轮；小：眼",
+    "face": "眼在头端上表面",
+    "stance": "轮着地坐稳",
+    "structure": "轮桥长进板底"
+  },
+  "toy_check": "坐得住。板是身体。特殊材质是PU轮。",
+  "crop": "须见整板剪影。",
+  "collide": "不同于滑板贴纸IP：板本身是角色身体。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "剪影糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "加成人类五官细节"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩一张脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点消失"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只原木磨砂滑板甲板和四个深黑PU轮长在一起：甲板就是身体，两端微翘，头端上表面半垂小黑豆眼，极小嘴，砂面边缘一道正绿。轮桥长进板底，坐稳。单个角色完整全身，正面略侧，浅灰背景，棚拍。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要色情，不要磕真人CP，不要涉及家人隐私。不要人类站在板上的骑手，不要动作翻转场景，不要品牌砂面logo。",
+  "enp": "Original designer toy character: a raw-wood grip-tape skate deck that IS the body, fused with four deep-black PU wheels; slight kicktail ends; half-lidded bead eyes on the nose end top surface, tiny mouth; thin vivid-green grip edge. Trucks built into underside, seated stable. Full body, three-quarter, light grey, studio. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no name lettering or brand logos, no existing drama or film titles, no sexualized content, no real-person shipping, no family privacy. No human rider on the board, no flip action scene, no brand grip logos.",
+  "rules_hit": "避开别的影子：物件长进身体非配件。识别：夸张记忆点。不普通：新组合。材质单一特殊处。强对比色。夸张推大物件。",
+  "pose": "坐稳"
+}

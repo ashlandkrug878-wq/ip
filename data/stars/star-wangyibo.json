@@ -1,0 +1,492 @@
+{
+  "name": "王一博",
+  "aliases": [
+    "Wang Yibo",
+    "YIBO",
+    "一博",
+    "WYB"
+  ],
+  "picked_because": "wishlist 空，自选。X 近约7天非转推合计约14036（查询 王一博 OR \"Wang Yibo\" -is:retweet；窗口约2026-10-30→11-06 UTC；分日约59/1855/1984/1673/2082/1197/1357/3829）。微博热搜时光机近24h艺人榜亦常见相关讨论；对比已有卡肖战/刘亦菲/迪丽热巴/孟子义等已做过，本轮补王一博。",
+  "status": "researched",
+  "updated": "2026-11-07",
+  "persona": [
+    {
+      "word": "话少 / 慢热",
+      "basis": "时尚COSMO 2020-05-13：采访以话少、认生出名；自述最常被形容的词是「话少」。",
+      "type": "self",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "word": "像索隆：说得少做得多",
+      "basis": "同上：自比《海贼王》罗罗诺亚·索隆——冷冽、说得少做得多。提示词不写漫画名。",
+      "type": "self",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "word": "因为酷",
+      "basis": "Marie Claire 采访转述（Reddit 英译档 2025-06）：问选择理由总答「Because it's cool」。",
+      "type": "self",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "word": "喜欢不必有意义",
+      "basis": "同上：拒绝给爱好强加意义，「Why should everything be done with a meaning, can't it be simply liked?」",
+      "type": "self",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "word": "无语 / 是你们不懂",
+      "basis": "数英饭圈报告转述极限青春采访：「无语，是你们不懂。」微博之夜亦说「我也无语了。」",
+      "type": "self",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "word": "我有我自己的节奏",
+      "basis": "数英饭圈报告转述相声搭档段：接包袱后说「别拐着我说，我有我自己的节奏」。",
+      "type": "self",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "word": "极限力量藏在温柔里",
+      "basis": "GQ China 2026 April 英译档：谈运动「the ultimate strength is contained within gentleness」。",
+      "type": "self",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "word": "超喜欢绿色",
+      "basis": "粉丝站转述本人说「我超喜欢绿色」；粉丝因此选绿色为应援色。",
+      "type": "self",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "word": "怕黑 / 怕虫子",
+      "basis": "COSMO 2020：怂的事是怕黑、怕虫子；酒店会开电视睡觉。",
+      "type": "self",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "word": "天天练习",
+      "basis": "COSMO 2020：爱好玩成专业，达成极致四个字「天天练习」。",
+      "type": "self",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "catchphrases": [
+    {
+      "text": "因为酷。",
+      "type": "self",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "为什么一定要有意义，不能只是喜欢吗？",
+      "type": "self",
+      "sources": [
+        "s2"
+      ],
+      "note": "Marie Claire 英译转述。"
+    },
+    {
+      "text": "无语，是你们不懂。",
+      "type": "self",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "我也无语了。",
+      "type": "self",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "我有我自己的节奏。",
+      "type": "self",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "天天练习。",
+      "type": "self",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "我好我坏，你还在吗？",
+      "type": "self",
+      "sources": [
+        "s3"
+      ],
+      "note": "2018出道纪念日微博；粉丝口号回「你好你坏，我都在」。"
+    },
+    {
+      "text": "极限力量藏在温柔里。",
+      "type": "self",
+      "sources": [
+        "s4"
+      ],
+      "note": "GQ 2026 April 英译。"
+    },
+    {
+      "text": "我超喜欢绿色。",
+      "type": "self",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "text": "弯道和直道一样酷。",
+      "type": "self",
+      "sources": [
+        "s2"
+      ],
+      "note": "Marie Claire：the curve is as cool as the straight line。"
+    }
+  ],
+  "colors": {
+    "official": [],
+    "fan": [
+      {
+        "name": "正绿（近似）",
+        "hex": "#22C55E",
+        "type": "fan",
+        "note": "粉丝因本人喜欢绿色选为应援色；公开材料多见「正绿色/绿色」，无统一机构色号。本 hex 为鲜亮正绿近似预览。造型里只做对比色或签名细边，不铺满全身。",
+        "sources": [
+          "s5",
+          "s6",
+          "s3"
+        ]
+      }
+    ]
+  },
+  "fan_names": [
+    "摩托姐姐",
+    "MTJJ",
+    "小摩托",
+    "啵丝",
+    "猫头",
+    "ibo"
+  ],
+  "fan_name_records": [
+    {
+      "text": "摩托姐姐",
+      "type": "fan",
+      "sources": [
+        "s3",
+        "s6"
+      ],
+      "note": "个人活动后由摩托车爱好衍生；英文缩写 MTJJ。"
+    },
+    {
+      "text": "MTJJ",
+      "type": "fan",
+      "sources": [
+        "s3",
+        "s6"
+      ],
+      "note": "摩托姐姐拼音缩写。"
+    },
+    {
+      "text": "小摩托",
+      "type": "fan",
+      "sources": [
+        "s3"
+      ],
+      "note": "早期/昵称。"
+    },
+    {
+      "text": "啵丝",
+      "type": "fan",
+      "sources": [
+        "s6"
+      ],
+      "note": "粉丝互称。"
+    },
+    {
+      "text": "猫头",
+      "type": "fan",
+      "sources": [
+        "s3",
+        "s6"
+      ],
+      "note": "mt 玩笑称。"
+    },
+    {
+      "text": "ibo",
+      "type": "fan",
+      "sources": [
+        "s6"
+      ],
+      "note": "小名式称呼。"
+    }
+  ],
+  "likened_to": [
+    {
+      "text": "罗罗诺亚·索隆。本人自比：说得少做得多。提示词不写漫画名。",
+      "type": "self",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "摩托车 / 赛车手。爱好做成职业；弯道与直道一样酷。",
+      "type": "self",
+      "sources": [
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "text": "滑板。练习 kickflip；身体控制。",
+      "type": "self",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "开着电视的夜灯。怕黑，酒店电视音量开到3才睡。",
+      "type": "self",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "belongings": [
+    "摩托车 / 赛车（self）",
+    "头盔与护目镜（racing）",
+    "滑板（self：kickflip）",
+    "号码 85 / 585（赛事；不写队名品牌）",
+    "绿色赛车服 / 绿漆（self 喜绿；只抽象色块）",
+    "电视夜光（self：怕黑开电视睡）"
+  ],
+  "symbols": [
+    "绿色 / 正绿近似 #22C55E（self 喜绿 + fan 应援）",
+    "摩托车与弯道（self）",
+    "头盔、护目镜、轮胎、油门握把（racing 抽象物件）",
+    "号码牌 85/585（赛事；不写队名）",
+    "滑板甲板（self）",
+    "无语 / 自己的节奏（self 口头）",
+    "电视夜光（self：怕黑）",
+    "头彩彩带（fan 记忆：节目下彩带）"
+  ],
+  "taboo": [
+    "不画本人的脸、发型和服装。提示词不写姓名、英文名（Wang Yibo / YIBO）、现有剧名作品名、品牌名与艺术家名。",
+    "不磕真人 CP；不碰 227/平台封禁争议消费；不写贬低、恶搞、色情；不碰家人隐私。",
+    "绿色只作对比色或细边，不铺满全身。",
+    "摩托车队名、品牌（雅马哈等）绝不进提示词。",
+    "不写海贼王/索隆等现有 IP 名；只抽象「说少做多」气质。",
+    "赛车号码可抽象成牌面，不写真实队徽。"
+  ],
+  "species_candidates": [
+    {
+      "answer": "摩托车 / 弯道机车",
+      "why": "self：爱好做成职业；弯道和直道一样酷。车身可作身体壳。",
+      "type": "self",
+      "sources": [
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "answer": "赛车头盔",
+      "why": "racing 符号；盔壳可作头或身体。",
+      "type": "self",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "answer": "滑板",
+      "why": "self：练习 kickflip。甲板可作身体平面。",
+      "type": "self",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "answer": "号码牌",
+      "why": "赛事号码 85/585。牌面嵌进胸口或背。",
+      "type": "media",
+      "sources": [
+        "s4",
+        "sx"
+      ]
+    },
+    {
+      "answer": "油门握把",
+      "why": "racing 手感。握把可作臂骨或背脊。",
+      "type": "inference",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "answer": "护目镜",
+      "why": "racing 视觉。镜片可成眼罩结构。",
+      "type": "inference",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "answer": "轮胎",
+      "why": "弯道抓地。轮胎环可作身体腰环或壳。",
+      "type": "inference",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "answer": "电视夜光小兽",
+      "why": "self：怕黑开电视睡。屏幕光是记忆点，反差酷盖。",
+      "type": "self",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "answer": "绿漆车壳",
+      "why": "self 喜绿 + fan 应援。漆面特殊材质。",
+      "type": "self",
+      "sources": [
+        "s5"
+      ]
+    }
+  ],
+  "discussion": {
+    "x_query": "王一博 OR \"Wang Yibo\" -is:retweet",
+    "window": "2026-10-30T00:00:00Z/2026-11-06T23:59:59Z",
+    "total": 14036,
+    "by_utc_day": {
+      "2026-10-30": 59,
+      "2026-10-31": 1855,
+      "2026-11-01": 1984,
+      "2026-11-02": 1673,
+      "2026-11-03": 2082,
+      "2026-11-04": 1197,
+      "2026-11-05": 1357,
+      "2026-11-06": 3829
+    },
+    "note": "近约7天非转推合计约14036。11-06 单日约3829 为窗口峰值。计数含各语言字面匹配，未剔除同名与广告；近期帖中亦夹杂旧剧/CP 讨论噪声。"
+  },
+  "recent_heat": [
+    {
+      "text": "X 近约7天非转推约14036，11-06 单日约3829。",
+      "type": "media",
+      "sources": [
+        "sx"
+      ]
+    },
+    {
+      "text": "粉丝侧持续强调应援色绿色与粉丝名摩托姐姐/MTJJ。",
+      "type": "fan",
+      "sources": [
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "text": "GQ China 2026 April 谈运动：极限力量藏在温柔里；继续赛道训练叙事。",
+      "type": "self",
+      "sources": [
+        "s4"
+      ]
+    }
+  ],
+  "gaps": [
+    "抖音与小红书：本轮已派本机浏览器（computerUse）检索应援色与粉丝名；若回报失败或未登录，则以公开网页（摩托姐姐/MTJJ/绿色）为准，平台内热帖交叉验证记为未完成。",
+    "应援色无统一官方色号；#22C55E 仅为正绿近似，非机构色卡。",
+    "Marie Claire / GQ 正文以英译转述与粉丝站为准，未核对纸刊原页。",
+    "恋情传闻、家人隐私、227/平台争议只作雷区，不进表达与造型。",
+    "身高、具体商务合同细节不用于设计。"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "时尚COSMO：直来直往未尝不是勇敢（索隆、话少、怕黑、天天练习）",
+      "url": "http://www.trendsgroup.com.cn/2020/0513/225608.shtml",
+      "date": "2020-05-13",
+      "type": "self"
+    },
+    {
+      "id": "s2",
+      "title": "Marie Claire 采访英译档：因为酷；喜欢不必有意义；弯道一样酷",
+      "url": "https://www.reddit.com/r/cdramasfans/comments/1lewlrl/wang_yibo_for_marie_claire/",
+      "date": "2025-06-19",
+      "type": "self",
+      "note": "粉丝英译转载；日期为帖子日。"
+    },
+    {
+      "id": "s3",
+      "title": "数英：顶流粉丝圈层报告——王一博篇（粉丝名、无语、自己的节奏、你好你坏）",
+      "url": "https://www.digitaling.com/articles/265600.html",
+      "date": "2020-03-02",
+      "type": "fan"
+    },
+    {
+      "id": "s4",
+      "title": "GQ China 2026 April 英译档：极限力量藏在温柔里；赛道孤独",
+      "url": "https://www.reddit.com/r/cdramasfans/comments/1t8nfyy/wang_yibo_for_gq_china_april_issue_amidst_the/",
+      "date": "2026-04-01",
+      "type": "self",
+      "note": "月份近似；以帖内英译为准。"
+    },
+    {
+      "id": "s5",
+      "title": "粉丝站转述：我超喜欢绿色 → 应援色",
+      "url": "https://www.sina.cn/news/detail/5351264854474774.html",
+      "date": "2026-10-07",
+      "type": "self"
+    },
+    {
+      "id": "s6",
+      "title": "粉丝科普：摩托姐姐/MTJJ/小摩托/啵丝/猫头；应援色绿色",
+      "url": "https://www.sina.cn/news/detail/5335081600421174.html",
+      "date": "2026-08-23",
+      "type": "fan"
+    },
+    {
+      "id": "sx",
+      "title": "X 近约7天非转推计数",
+      "url": "https://x.com/search?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20OR%20%22Wang%20Yibo%22%20-is%3Aretweet&src=typed_query&f=live",
+      "date": "2026-11-06",
+      "type": "media",
+      "note": "合计约14036；分日见 discussion。"
+    },
+    {
+      "id": "sbrowser",
+      "title": "本轮抖音/小红书浏览器检索记录",
+      "url": "",
+      "date": "2026-11-07",
+      "type": "media",
+      "note": "以 computerUse 回报为准；失败则记入 gaps。"
+    }
+  ]
+}

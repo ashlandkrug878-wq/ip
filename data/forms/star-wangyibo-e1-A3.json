@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-07",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-wangyibo-e1",
+  "n": 3,
+  "title": "背脊长成油门握把的绒兽",
+  "species": "油门握把",
+  "axes": {
+    "archetype": "物件生物，握把背脊",
+    "silhouette": "竖卵身，背上一段橡胶握把脊",
+    "mark": "背 · 一段带刻纹的油门握把脊",
+    "face": "半垂眼，嘴角平",
+    "emotion": "收着",
+    "fusion": "握把长成背脊骨骼，不是扛在肩上的零件",
+    "material": "主体短绒，只有背脊握把是橡胶防滑纹",
+    "palette": "雾白绒配正绿握把端盖，握把石墨黑"
+  },
+  "head": "圆钝头，无耳或极小钝耳",
+  "combo": "绒卵身 + 背脊握把 + 半垂眼 + 雾白对石墨黑",
+  "odd": "背脊比脸更像把手",
+  "why": "酷是手感：握住自己的节奏，不演速度线。",
+  "spec": {
+    "proportion": "头高约占全高45%，握把长约身长55%",
+    "outline": "竖卵加背脊凸起",
+    "volume": "大：绒身；中：握把脊；小：短脚",
+    "face": "眼在头高中部略上，半垂",
+    "stance": "微微前倾站稳",
+    "structure": "握把与脊椎一体"
+  },
+  "toy_check": "站得住。握把长进背。特殊材质只有橡胶脊。",
+  "crop": "裁切须含背脊握把上端。",
+  "collide": "不同于工具人偶：握把是脊椎，不是手持。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "剪影糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "加成人类五官细节"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩一张脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点消失"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只雾白短绒卵形小兽和一段石墨黑橡胶油门握把长在一起：握把就是背脊，防滑刻纹清晰，端盖一点正绿。半垂小黑豆眼，极小平嘴。微微前倾站稳，短脚。单个角色完整全身，正面略侧，浅灰背景，棚拍。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要色情，不要磕真人CP，不要涉及家人隐私。不要把手画成细长手指握着零件，不要速度线，不要真人手套。",
+  "enp": "Original designer toy character: a mist-white short-plush oval creature fused with a graphite-black rubber throttle grip that IS its spine ridge, clear grip texture, tiny vivid-green end cap. Half-lidded bead eyes, tiny flat mouth. Slight forward lean, short feet. Full body, three-quarter, light grey, studio. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no name lettering or brand logos, no existing drama or film titles, no sexualized content, no real-person shipping, no family privacy. No thin fingers holding a part, no speed lines, no human gloves.",
+  "rules_hit": "避开别的影子：物件长进身体非配件。识别：夸张记忆点。不普通：新组合。材质单一特殊处。强对比色。夸张推大物件。",
+  "pose": "微前倾站"
+}

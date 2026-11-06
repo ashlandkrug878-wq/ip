@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-07",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-wangyibo-e3",
+  "n": 3,
+  "title": "绿漆端盖的节拍摆锤兽",
+  "species": "节拍器摆锤",
+  "axes": {
+    "archetype": "物件生物，摆锤身体",
+    "silhouette": "三角座上立着的钝摆锤身",
+    "mark": "顶 · 正绿端盖摆锤头",
+    "face": "半垂眼在锤身中部",
+    "emotion": "等拍落下",
+    "fusion": "节拍摆锤就是身体，座是脚",
+    "material": "主体哑光木壳，只有端盖是正绿亮漆金属",
+    "palette": "胡桃木配正绿端盖，座深棕"
+  },
+  "head": "端盖即头顶记忆点",
+  "combo": "三角座 + 立摆锤身 + 正绿端盖 + 半垂眼",
+  "odd": "人形或类人探索位：略直立但仍是摆锤物件身，非穿衣小孩",
+  "why": "自己的节奏：摆锤只按自己的弧摆，不跟场子。",
+  "spec": {
+    "proportion": "全高约座宽的1.8倍，端盖直径约身宽50%",
+    "outline": "三角座加竖锤",
+    "volume": "大：锤身；中：座；小：端盖",
+    "face": "眼在锤身中部",
+    "stance": "座着地直立",
+    "structure": "锤与座一体铰意，但不画成可拆玩具"
+  },
+  "toy_check": "站得住。摆锤是身体。特殊材质是绿漆端盖。类人最多这一只，仍是物件身。",
+  "crop": "须含端盖。",
+  "collide": "不同于音乐教室教具：有脸有角色，端盖夸张。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "剪影糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "加成人类五官细节"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩一张脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点消失"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只胡桃木哑光节拍摆锤和一粒正绿亮漆金属端盖长在一起：摆锤就是身体，三角座就是脚，端盖比脸更醒目。半垂小黑豆眼在锤身中部，极小嘴。座着地直立。单个角色完整全身，正面略侧，浅灰背景，棚拍。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要色情，不要磕真人CP，不要涉及家人隐私。不要穿衣服的人类小孩，不要乐谱背景，不要品牌节拍器字样。",
+  "enp": "Original designer toy character: a walnut matte metronome-pendulum body fused with a vivid-green gloss metal end cap more noticeable than the face; triangle base as feet. Half-lidded bead eyes mid-pendulum, tiny mouth. Standing on its base. Full body, three-quarter, light grey, studio. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no name lettering or brand logos, no existing drama or film titles, no sexualized content, no real-person shipping, no family privacy. No clothed human child, no sheet-music background, no brand metronome lettering.",
+  "rules_hit": "避开别的影子：物件长进身体非配件。识别：夸张记忆点。不普通：新组合。材质单一特殊处。强对比色。夸张推大物件。",
+  "pose": "直立"
+}

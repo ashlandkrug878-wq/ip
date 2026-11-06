@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-07",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-wangyibo-e3",
+  "n": 2,
+  "title": "屏光肚的夜灯电视兽",
+  "species": "电视夜光",
+  "axes": {
+    "archetype": "物件生物，小电视肚",
+    "silhouette": "方圆身，腹是一块柔光屏幕",
+    "mark": "腹 · 一块柔和夜光屏",
+    "face": "半垂眼，小嘴",
+    "emotion": "怕黑却稳住",
+    "fusion": "屏幕长成肚腹发光面，不是抱着的平板",
+    "material": "主体磨砂壳，只有屏是柔光塑料",
+    "palette": "午夜蓝壳配正绿电源细点，屏暖白光"
+  },
+  "head": "方圆，天线改成两只钝耳突起（抽象，非真人）",
+  "combo": "方圆壳 + 腹屏夜光 + 半垂眼 + 午夜蓝对暖白",
+  "odd": "酷盖壳，腹却是安睡光",
+  "why": "节奏也包括敢把灯开着：怕黑不必装不怕。",
+  "spec": {
+    "proportion": "接近1:1方圆，屏占腹60%",
+    "outline": "圆角方壳",
+    "volume": "大：壳；中：屏；小：短脚",
+    "face": "眼在屏上方",
+    "stance": "坐",
+    "structure": "屏嵌腹面"
+  },
+  "toy_check": "坐得住。屏是身体一部分。特殊材质是柔光屏。",
+  "crop": "须含腹屏。",
+  "collide": "不同于电视卡通：屏嵌腹，脸收着，无频道乱码搞笑。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "剪影糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "加成人类五官细节"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩一张脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点消失"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只午夜蓝磨砂方圆小兽和一块暖白柔光屏长在一起：屏就是肚腹发光面，边上一粒正绿电源细点。半垂小黑豆眼在屏上方，极小嘴。坐稳，短脚。单个角色完整全身，正面略侧，浅灰背景，棚拍。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要色情，不要磕真人CP，不要涉及家人隐私。不要抱着平板的配件感，不要真人脸，不要恐怖噪点屏。",
+  "enp": "Original designer toy character: a midnight-blue matte rounded-square creature fused with a warm-white soft-glow screen that IS its belly light panel, one tiny vivid-green power dot. Half-lidded bead eyes above the screen, tiny mouth. Seated, short feet. Full body, three-quarter, light grey, studio. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no name lettering or brand logos, no existing drama or film titles, no sexualized content, no real-person shipping, no family privacy. No handheld tablet accessory feel, no human face, no horror static screen.",
+  "rules_hit": "避开别的影子：物件长进身体非配件。识别：夸张记忆点。不普通：新组合。材质单一特殊处。强对比色。夸张推大物件。",
+  "pose": "坐"
+}

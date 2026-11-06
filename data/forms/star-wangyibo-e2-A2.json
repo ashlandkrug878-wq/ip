@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-07",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-wangyibo-e2",
+  "n": 2,
+  "title": "镜片眼罩结构的盔面兽",
+  "species": "护目镜",
+  "axes": {
+    "archetype": "物件生物，护目镜面",
+    "silhouette": "扁宽盔面，整块半透明镜片作眼区",
+    "mark": "眼区 · 一整块半透明护目镜面",
+    "face": "镜片下隐约豆眼，嘴极小",
+    "emotion": "收着的注视",
+    "fusion": "护目镜成为脸前结构，不是戴上的配件",
+    "material": "主体哑光壳，只有镜片是半透明硬塑料",
+    "palette": "深青壳配正绿镜框线，镜片烟透灰"
+  },
+  "head": "扁宽，镜面占脸上半",
+  "combo": "扁盔面 + 整块镜片眼区 + 隐约豆眼 + 深青对烟灰",
+  "odd": "眼睛被镜片结构替代大半",
+  "why": "力在看见与稳住，不在张扬表情。",
+  "spec": {
+    "proportion": "头宽大于身宽，头高占全高50%",
+    "outline": "扁梯形头，短身",
+    "volume": "大：镜面；中：壳身；小：短肢",
+    "face": "镜片下豆眼轻垂",
+    "stance": "立正微张臂",
+    "structure": "镜框与头骨一体"
+  },
+  "toy_check": "站得住。镜片长进脸。特殊材质只有半透明片。",
+  "crop": "记忆点在镜面，头像即镜面。",
+  "collide": "不同于戴墨镜的人形：镜是结构不是配件。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "剪影糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "加成人类五官细节"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩一张脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点消失"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只深青哑光扁宽小兽和一整块烟透灰半透明护目镜长在一起：镜片就是眼区结构，框上一道正绿细线，镜下隐约半垂豆眼，极小嘴。短身，立正微张粗臂。单个角色完整全身，正面略侧，浅灰背景，棚拍。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要色情，不要磕真人CP，不要涉及家人隐私。不要可摘的眼镜配件感，不要闪亮动漫大眼透过镜片，不要真人脸。",
+  "enp": "Original designer toy character: a deep-teal matte wide-flat creature fused with a smoke-tint translucent visor that IS the eye-area structure, thin vivid-green rim, faint half-lidded bead eyes under it, tiny mouth. Short body, slight open-arm stance with thick arms. Full body, three-quarter, light grey, studio. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no name lettering or brand logos, no existing drama or film titles, no sexualized content, no real-person shipping, no family privacy. No removable glasses accessory feel, no big shiny anime eyes through the lens, no human face.",
+  "rules_hit": "避开别的影子：物件长进身体非配件。识别：夸张记忆点。不普通：新组合。材质单一特殊处。强对比色。夸张推大物件。",
+  "pose": "微张臂立正"
+}
