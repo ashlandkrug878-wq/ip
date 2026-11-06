@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-07",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-wangyibo-e1",
+  "n": 1,
+  "title": "腹嵌绿边号码牌的盔壳坐兽",
+  "species": "赛车头盔",
+  "axes": {
+    "archetype": "物件生物，盔壳身体",
+    "silhouette": "圆钝盔壳坐姿，腹心嵌号码牌",
+    "mark": "腹心 · 一块比脸醒目的哑光号码牌",
+    "face": "半垂小黑豆眼，极小一字嘴",
+    "emotion": "内收，干脆",
+    "fusion": "盔壳就是身体，号码牌嵌进腹心凹槽，不是手持",
+    "material": "主体哑光盔壳塑料，只有牌面是磨砂金属漆",
+    "palette": "霜灰盔配正绿细边，牌面炭灰"
+  },
+  "head": "盔壳上端略收即头，几乎无颈，无发无耳",
+  "combo": "盔壳坐兽 + 腹心号码牌 + 半垂豆眼 + 霜灰对正绿",
+  "odd": "酷落在牌面，不落在表情",
+  "why": "因为酷就够了。盔壳是干脆的身体，牌是识别，不讲励志故事。",
+  "spec": {
+    "proportion": "全高约是最大宽的1.15倍，脸占上部28%，牌宽约身宽40%",
+    "outline": "圆钝盔卵形，腹心方圆牌凸出",
+    "volume": "大：盔壳；中：号码牌；小：短脚垫",
+    "face": "眼在壳高上三分之一，半垂",
+    "stance": "坐在壳底",
+    "structure": "牌嵌进腹槽，拿掉牌盔剪影仍成立"
+  },
+  "toy_check": "站得住：坐。物件长进去：盔是身体。特殊材质只有牌。新组合：盔嵌牌。不像绘本。",
+  "crop": "记忆点在腹心牌。头像裁进牌上缘。",
+  "collide": "不同于赛车吉祥物：无奖杯无微笑，牌嵌进腹。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "剪影糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "加成人类五官细节"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩一张脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点消失"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只哑光霜灰赛车盔壳和一块磨砂炭灰号码牌长在一起：盔壳就是身体，腹心嵌着一块比脸更醒目的圆角牌，顶上一小撮钝棱，几乎无颈。半垂小黑豆眼，极小一字嘴，神情收着。坐在壳底，短脚垫藏在下沿。主色霜灰，牌为炭灰，盔沿一道正绿细边。单个角色完整全身，正面略侧，浅灰纯色背景，柔和棚拍光，像真实搪胶产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要色情，不要磕真人CP，不要涉及家人隐私。不要把号码牌画成手持纸牌，不要真人脸发型服装，不要打开的面罩飞出去。",
+  "enp": "Original designer toy character: a matte frost-grey racing-helmet shell body fused with a frosted charcoal number plate set into the belly, more noticeable than the face, almost no neck. Half-lidded black bead eyes, tiny straight mouth, held-in calm. Seated on its own bottom. Main frost grey; plate charcoal; a thin vivid-green edge line only. Single character, full body, slight three-quarter front, plain light grey background, soft studio light, real vinyl toy product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no name lettering or brand logos, no existing drama or film titles, no sexualized content, no real-person shipping, no family privacy. Do not turn the plate into a handheld card, no human face hair or clothes, no flying open visor.",
+  "rules_hit": "避开别的影子：物件长进身体非配件。识别：夸张记忆点。不普通：新组合。材质单一特殊处。强对比色。夸张推大物件。",
+  "pose": "坐"
+}

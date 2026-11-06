@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-07",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-wangyibo-e3",
+  "n": 1,
+  "title": "胸口嵌转速表的静立兽",
+  "species": "转速表",
+  "axes": {
+    "archetype": "物件生物，表盘胸口",
+    "silhouette": "直立圆身，胸口圆形转速表",
+    "mark": "胸口 · 圆形转速表盘与指针",
+    "face": "半垂眼，视线略偏",
+    "emotion": "等自己的拍",
+    "fusion": "转速表嵌进胸口成为胸腔盖，不是挂件",
+    "material": "主体短绒，只有表盘是玻璃面金属圈",
+    "palette": "暖灰绒配正绿刻度，表圈银哑光"
+  },
+  "head": "圆头，几乎无颈",
+  "combo": "圆身 + 胸口转速表 + 半垂偏视线 + 暖灰对正绿刻度",
+  "odd": "指针比表情更忙",
+  "why": "别拐着我，我有我自己的节奏：指针是自己的拍子。",
+  "spec": {
+    "proportion": "头高占全高40%，表径约身宽45%",
+    "outline": "竖圆，胸圆表凸出",
+    "volume": "大：绒身；中：表盘；小：短肢",
+    "face": "眼半垂，视线略偏右",
+    "stance": "立正，一手轻贴身侧",
+    "structure": "表嵌胸槽"
+  },
+  "toy_check": "站得住。表长进胸。特殊材质是玻璃表盘。",
+  "crop": "须含表盘。",
+  "collide": "不同于闹钟吉祥物：不笑不响铃，指针静停一格。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "剪影糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "加成人类五官细节"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩一张脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点消失"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只暖灰短绒圆身小兽和一只银哑光圈玻璃转速表长在一起：表盘嵌进胸口，正绿刻度，指针静停在一格。半垂小黑豆眼，视线略偏，极小嘴。立正站稳。单个角色完整全身，正面略侧，浅灰背景，棚拍。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要色情，不要磕真人CP，不要涉及家人隐私。不要把表画成项链挂件，不要响铃动画感，不要真人手表品牌。",
+  "enp": "Original designer toy character: a warm-grey short-plush round creature fused with a brushed-silver rim glass tachometer set into the chest, vivid-green ticks, needle still on one mark. Half-lidded bead eyes, gaze slightly aside, tiny mouth. Standing straight. Full body, three-quarter, light grey, studio. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no name lettering or brand logos, no existing drama or film titles, no sexualized content, no real-person shipping, no family privacy. Do not make the gauge a necklace charm, no ringing-alarm cartoon feel, no real watch brands.",
+  "rules_hit": "避开别的影子：物件长进身体非配件。识别：夸张记忆点。不普通：新组合。材质单一特殊处。强对比色。夸张推大物件。",
+  "pose": "立正"
+}

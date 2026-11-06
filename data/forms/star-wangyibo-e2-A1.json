@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-07",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "ip": "star-wangyibo-e2",
+  "n": 1,
+  "title": "腹心软垫的硬壳机车坐兽",
+  "species": "摩托车壳",
+  "axes": {
+    "archetype": "物件生物，车壳身体",
+    "silhouette": "流线硬壳坐姿，腹心一块软垫",
+    "mark": "腹心 · 一块比脸醒目的绒软垫",
+    "face": "半垂眼，小嘴",
+    "emotion": "柔里含力",
+    "fusion": "车壳是身体外壳，软垫嵌进腹心，不是抱着的枕头",
+    "material": "主体硬壳亮漆，只有腹垫是短绒",
+    "palette": "石墨壳配正绿细边，软垫奶油白"
+  },
+  "head": "壳前端收成钝鼻头",
+  "combo": "流线壳 + 腹心绒垫 + 半垂眼 + 石墨对奶油",
+  "odd": "最硬的壳，记忆点却是软垫",
+  "why": "极限力气藏在温柔里：壳是力，垫是柔。",
+  "spec": {
+    "proportion": "全高约宽的1.2倍，垫径约身宽35%",
+    "outline": "流线卵壳，腹心圆垫",
+    "volume": "大：壳；中：垫；小：脚蹬状短肢",
+    "face": "眼半垂",
+    "stance": "坐",
+    "structure": "垫嵌槽内"
+  },
+  "toy_check": "坐得住。壳是身体。特殊材质是绒垫。新组合：硬壳嵌软。",
+  "crop": "须含腹垫上缘。",
+  "collide": "不同于抱枕玩偶：垫嵌进硬壳轮廓。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "剪影糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "加成人类五官细节"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩一张脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点消失"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只石墨亮漆流线机车壳和一块奶油白短绒软垫长在一起：壳就是身体，腹心嵌着一块比脸更醒目的圆软垫，壳沿一道正绿细边。半垂小黑豆眼，极小嘴。坐在壳底。单个角色完整全身，正面略侧，浅灰背景，棚拍。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸、头发和衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要色情，不要磕真人CP，不要涉及家人隐私。不要把软垫画成抱着的枕头，不要真人骑姿，不要品牌车标。",
+  "enp": "Original designer toy character: a graphite gloss streamline bike-shell body fused with a cream short-plush soft pad set into the belly, more noticeable than the face, thin vivid-green shell edge. Half-lidded bead eyes, tiny mouth. Seated. Full body, three-quarter, light grey, studio. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face, hair or clothes, no name lettering or brand logos, no existing drama or film titles, no sexualized content, no real-person shipping, no family privacy. Do not make the pad a hugged pillow, no human riding pose, no brand emblems.",
+  "rules_hit": "避开别的影子：物件长进身体非配件。识别：夸张记忆点。不普通：新组合。材质单一特殊处。强对比色。夸张推大物件。",
+  "pose": "坐"
+}

@@ -1,0 +1,57 @@
+{
+  "order": 2,
+  "name": "暂名：力在温柔里",
+  "en": "strength in gentleness",
+  "type": "反差",
+  "expr": "极限的力气，藏在温柔里。",
+  "insight": {
+    "scene": "GQ China 2026 April 英译档：谈为何喜欢运动——不只是出汗，更要思考与协调，「the ultimate strength is contained within gentleness」。",
+    "act": "赛车、攀岩这类高压运动，他强调的不是硬刚，是柔里含力。",
+    "state": "外面看见速度与硬壳，里面是协调与收着的力。",
+    "conflict": "酷盖标签要外放的强，他谈的是温柔里的极限。",
+    "unsaid": "真正的满格，不一定张牙舞爪。",
+    "depth": "深层：力量的完成态是可控的温柔，不是表演出来的狠。",
+    "source": "https://www.reddit.com/r/cdramasfans/comments/1t8nfyy/wang_yibo_for_gq_china_april_issue_amidst_the/"
+  },
+  "circle": {
+    "name": "把力收进身体的人",
+    "who": "训练、康复、高压工作里学过「收着发力」的人。购买仍是推测。",
+    "where": "桌面、健身房储物格、安静短视频封面。",
+    "buy": "推测会买一只外壳硬、触感却有一处软的角色。",
+    "signs": "温柔、极限、弯道。不进提示词。",
+    "share": "硬壳碰软芯的静物。",
+    "breakout": "路人先懂『强可以很轻』。"
+  },
+  "origin": "「极限力量藏在温柔里」来自 GQ 2026 April 英译。不借真人脸。",
+  "timing": "当下主流仍追外放的强与狠。这张卡站在反差：力在温柔里。",
+  "fore": "硬壳 + 一处绒或凝胶软点。正绿细边。可信度C。",
+  "core": {
+    "personality": "收、稳、韧",
+    "emotion": "表达的情绪是含着的强。脸上的情绪内收。可以半垂眼。不可以张嘴笑、挥拳动作。",
+    "face": "可以：半垂眼、小嘴、肩落。不可以：怒目、张嘴大笑。",
+    "action": "坐稳或微蹲，重心低，像压进弯道前的那一下。",
+    "seed": "借的是柔里含力。结构种子：硬壳是身体，一处软垫嵌进关节或腹心。"
+  },
+  "carrier": "主载体：桌上角色。次载体：短句配图。",
+  "biz": "搪胶或植绒小手办，79到129元。不绑授权。",
+  "egg": "软垫边缘一道正绿线。",
+  "collide": "不同于肌肉猛男手办：力不外翻，软点是记忆点。",
+  "risk": "如果软垫只是抱着的枕头，就普通。如果造型疼感过强，触避错规则。",
+  "links": [
+    {
+      "t": "GQ China 2026 April 英译",
+      "url": "https://www.reddit.com/r/cdramasfans/comments/1t8nfyy/wang_yibo_for_gq_china_april_issue_amidst_the/"
+    }
+  ],
+  "expression_trials": {
+    "允许": "轻一点也可以很满格。",
+    "反差": "极限的力气，藏在温柔里。",
+    "陪伴": "我把力收好给你看。",
+    "留白": "不张牙。",
+    "自嘲": "看着软，其实顶得住。"
+  },
+  "batch": "star-wangyibo",
+  "star": "star-wangyibo",
+  "source": "grok-star",
+  "stage": "expression"
+}
