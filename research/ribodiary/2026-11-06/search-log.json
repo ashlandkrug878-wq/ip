@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-06",
+  "web_queries": [
+    "RiboDiary 瑞宝 2026 11月 5日",
+    "名创优品 TOP TOY Nommi 2026 11月6日",
+    "パペットスンスン サンリオ 2026年11月6日 新商品",
+    "캐릭터 인형 팝업 2026 11월 6일",
+    "\"RiboDiary\" \"2026-11-05\"",
+    "\"리라니니\" \"2026\" \"11\" 예약",
+    "\"パペットスンスン\" \"2026年11月6日\""
+  ],
+  "engines": [
+    "system1 recent7d",
+    "system2"
+  ],
+  "xiaohongshu": [
+    {
+      "query": "RiboDiary 品牌介绍",
+      "status": "blocked",
+      "executed": false,
+      "read_pages": 0,
+      "accounts": [],
+      "reason": "新浏览器连接Unknown tool(browser.js)，不绕过，不假装站内已搜"
+    },
+    {
+      "query": "RiboDiary 产品汇总",
+      "status": "blocked",
+      "executed": false,
+      "read_pages": 0,
+      "accounts": [],
+      "reason": "新浏览器连接Unknown tool(browser.js)，不绕过，不假装站内已搜"
+    }
+  ],
+  "sampling": "本轮没有新增直接用户样本；保留10/31论坛和11/4中文1账号原观察日。韩文媒体引用的粉丝不是本轮直接访谈。"
+}

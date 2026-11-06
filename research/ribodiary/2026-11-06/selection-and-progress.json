@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-06",
+  "window_7d": [
+    "2026-10-31",
+    "2026-11-06"
+  ],
+  "window_30d": [
+    "2026-10-08",
+    "2026-11-06"
+  ],
+  "selected": "ribodiary",
+  "reason": "上轮明确平面未过检查点，继续同款，不称今日最热门；官方内容与单店渠道榜并结合历史独立用户自述，两类线索不作销量。",
+  "new_studies": 0,
+  "count_before": 43,
+  "count_after": 43,
+  "dedupe": "本轮重新取得43张卡及别名；Pochacco已有，瑞宝/其他成员不拆新IP。",
+  "qualified_candidates": [
+    {
+      "name": "RiboDiary",
+      "sources": [
+        "Q01",
+        "Q02",
+        "U02"
+      ],
+      "strength": "供给/内容可核；店内榜口径有限，用户证据弱且是11/4历史观察"
+    }
+  ],
+  "watchlist_not_qualified": [
+    {
+      "name": "Nommi及圣诞系列",
+      "category": "名创相关／TOPTOY单列",
+      "sources": [
+        "Q03"
+      ],
+      "reason": "官方供给自述，缺独立需求，不由销售渠道推权属"
+    },
+    {
+      "name": "MR. MEN LITTLE MISS",
+      "category": "三丽鸥",
+      "sources": [
+        "Q04"
+      ],
+      "reason": "11/5公告11/6开店，缺实际人流/需求"
+    },
+    {
+      "name": "PUPPET SUNSUN",
+      "category": "其他日本IP",
+      "sources": [
+        "Q05"
+      ],
+      "reason": "旧公告计划今日17时公布抽签结果，申请早已截止；未核需求"
+    },
+    {
+      "name": "LITTLE RIIZE minini",
+      "category": "韩国",
+      "sources": [
+        "Q06"
+      ],
+      "reason": "媒体主文可读但同稿转载不独立，直接用户和原始商品公告仍缺"
+    }
+  ],
+  "limitations": "合格候选不足3个，如实仅1个续作对象，另外4项只是观察线索。",
+  "checkpoint": {
+    "subject_id": "ribodiary",
+    "status": "strict_flat_fill_not_passed",
+    "tests_added": [
+      15,
+      16
+    ],
+    "target": "V04同款可见全身",
+    "next_action": "保留同目标继续脸区/嘴/缝线和均匀填色，不进入3D/毛绒"
+  }
+}

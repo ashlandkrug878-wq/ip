@@ -22,8 +22,8 @@
   ],
   "tier": "standard",
   "status": "partial",
-  "cutoff_date": "2026-11-05",
-  "updated": "2026-11-05",
+  "cutoff_date": "2026-11-06",
+  "updated": "2026-11-06",
   "summary": "森林日常由被窝、衣装、手作与群像分工落到产品；官方功能证据清楚，近期讨论可核，规模与增长因果未知。",
   "owner": {
     "creator": null,
@@ -241,6 +241,28 @@
         "W01"
       ],
       "note": "不推算成交量、收入、增长率"
+    },
+    {
+      "metric": "日本官方乐天店展示的挂件店内名次",
+      "value": 1,
+      "unit": "店内名次",
+      "period": "10/30—11/05集计，11/06更新",
+      "type": "self_report",
+      "sources": [
+        "Q01"
+      ],
+      "note": "滚动重叠窗口，不推销量或增长"
+    },
+    {
+      "metric": "日本官方乐天店展示的手办店内名次",
+      "value": 2,
+      "unit": "店内名次",
+      "period": "10/30—11/05集计，11/06更新",
+      "type": "self_report",
+      "sources": [
+        "Q01"
+      ],
+      "note": "滚动重叠窗口，不推销量或增长"
     }
   ],
   "mechanisms": [
@@ -297,11 +319,11 @@
   "gaps": [
     "自然人作者、最初草稿、首条公开原作、完整著作权/商标/授权合同未核；ribo及中文姓名仅保留线索，不从AI汇编确认。",
     "6/18官方乐园亮相节点已核，6/10仍只是用户存在时间线索；创作、最初公开和全IP首售未知；8月雪糕帖年份未显。",
-    "2026-11-05新建浏览器连接仍返回Unknown tool；小红书两组查询未执行、实读0篇，不绕过。",
+    "11/6重新建立浏览器连接返回Unknown tool；RiboDiary 品牌介绍、RiboDiary 产品汇总两组未执行，实读0篇。",
     "用户材料包括原1条近期论坛线程6位目的抽样、1条早期存在时间讨论，及新增中文微博主帖1位账号；均非随机且无订单，不推中国年龄/性别比例、排名或复购率。",
     "第三方显示英国/美国缺货；英国官方读取为选项未加载，不能直接证实售罄或售罄速度；首批库存与销量均null。",
     "已看7张官方原图，未覆盖所有成员全部视角和早期人偶影像；未读实体绘本，未核出版物ISBN，不把绘本感等同绘本起源。",
-    "本轮英文旧生成图V2辅助编辑V13/V14仍有渐层，V14色调进一步偏离；纯文字V10/V11和中文V6/V7曾测未过，旧V2仅有限身份接近；稳定性未证实，不推进3D/毛绒。",
+    "11/6英文附图V15（官方V04+旧V2）、V16（仅官方V04）仍revise：嘴/额脸/缝线和渐层有差异。旧V2仍只限附图身份近似。纯文字V10/V11、中文V6/V7已测未过，稳定性未证实，不进入3D/毛绒。",
     "原图不公开打包；内部结构、绒感、承重、耐用性、清洗与关节寿命未实测，成本利润未知。"
   ],
   "sources": [
@@ -997,22 +1019,94 @@
       "access": "snippet_only",
       "note": "搜索摘要称IPX/SM合作与11/6前预售；正文打开不可访问。多家媒体同一发布稿不算独立需求；权属合同和原始商品公告待核。",
       "event_date": "2026-11-04"
+    },
+    {
+      "id": "Q01",
+      "title": "日本官方乐天店榜单续查",
+      "url": "https://www.rakuten.co.jp/pop-mart-japan/",
+      "publisher": "POP MART JAPAN",
+      "published": null,
+      "event_date": [
+        "2026-10-30",
+        "2026-11-05"
+      ],
+      "observed": "2026-11-06",
+      "access": "partial",
+      "note": "11/06更新、10/30—11/05集计，挂件第1、手办第2；算法、销量、GMV未披露。非全站/全网排名，滚动重叠窗口不作增长率。"
+    },
+    {
+      "id": "Q02",
+      "title": "官方账号近期发布续查",
+      "url": "https://www.sina.cn/media/1726303567",
+      "publisher": "POPMART泡泡玛特",
+      "published": null,
+      "event_date": "2026-11-04",
+      "observed": "2026-11-06",
+      "access": "partial",
+      "note": "可读11/4瑞宝MV剧照、11/3机器人商店更新正文，图片/MV未观看；同期其他IP不移用数字。"
+    },
+    {
+      "id": "Q03",
+      "title": "TOPTOY圣诞新品自述",
+      "url": "https://gotoptoy.com/ja/blogs/articles/2026-christmas-blind-boxes-nommi-maymei-piropiroo",
+      "publisher": "TOPTOY",
+      "published": null,
+      "event_date": "2026-11-01",
+      "observed": "2026-11-06",
+      "access": "partial",
+      "note": "官网博客自述Nommi/MayMei/Piropiroo 11/1上线；称自有/内部设计仅属官方自述，未见合同，不等同名创本体所有。Nommi29.99USD为本页地区口径；不采用最可靠礼物等营销评价。"
+    },
+    {
+      "id": "Q04",
+      "title": "MR. MEN LITTLE MISS咖啡店公告",
+      "url": "https://corporate.sanrio.co.jp/news/20261105.html",
+      "publisher": "Sanrio",
+      "published": "2026-11-05",
+      "event_date": "2026-11-06",
+      "observed": "2026-11-06",
+      "access": "partial",
+      "note": "核实标题和开店公告，不证明实际到店、成交或今天开业执行状态；三丽鸥单列且跳过小红书。"
+    },
+    {
+      "id": "Q05",
+      "title": "PUPPET SUNSUN入场预约公告续查",
+      "url": "https://shop.chocolate-inc.com/blogs/puppet-sunsun-store-news/20261026",
+      "publisher": "CHOCOLATE",
+      "published": "2026-10-26",
+      "event_date": [
+        "2026-11-06",
+        "2026-11-20"
+      ],
+      "observed": "2026-11-06",
+      "access": "partial",
+      "note": "10/27—11/2申请已截止，11/6 17:00左右计划公布中签结果；本轮早间未到该时刻、不查个人结果。不把预约制当实际人流或销量。"
+    },
+    {
+      "id": "Q06",
+      "title": "韩国LITTLE RIIZE minini媒体全文主文",
+      "url": "https://www.peoplegate.co.kr/2026/11/news-ipx-riize-little-riize-minini-magic-characters-2026.html",
+      "publisher": "PEOPLEGATE",
+      "published": "2026-11-04",
+      "event_date": "2026-11-06",
+      "observed": "2026-11-06",
+      "access": "partial",
+      "note": "实读主文，称IPX/SM合作和11/6前预售；本文转述粉丝反应不是本轮直接用户采样，同稿媒体不算独立需求。"
     }
   ],
-  "archive": "research/ribodiary/2026-11-05/index.html",
-  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-05/",
-  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-05/",
+  "archive": "research/ribodiary/2026-11-06/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-06/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-06/",
   "prompt_validation": {
     "status": "partial",
-    "mode": "旧英文附图V2有限身份近似；英文编辑V13/V14仍revise",
+    "mode": "旧英文附图V2有限身份近似；英文附图V15/V16仍revise",
     "scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
     "strict_flat_fill": "not_passed",
     "text_only": "English V10/V11 tested_not_passed",
     "stability": "one_repeat_observed_differences_not_validated",
-    "tests": "research/ribodiary/2026-11-05/prompt-tests.json",
-    "checkpoint": "research/ribodiary/2026-11-05/selection-and-progress.json",
+    "tests": "research/ribodiary/2026-11-06/prompt-tests.json",
+    "checkpoint": "research/ribodiary/2026-11-06/selection-and-progress.json",
     "usable_prior_test": "ribodiary-bearibo-flat-ref-v2",
     "chinese_reference": "tested_not_passed",
-    "reference_latest": "English image-edit V13/V14 revise"
+    "reference_latest": "English V15/V16 revise"
   }
 }
