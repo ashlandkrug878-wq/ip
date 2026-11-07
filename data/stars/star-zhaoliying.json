@@ -1,0 +1,481 @@
+{
+  "name": "赵丽颖",
+  "aliases": [
+    "Zhao Liying",
+    "Zanilia",
+    "Zanilia Zhao",
+    "颖宝",
+    "小赵",
+    "赵小刀"
+  ],
+  "picked_because": "微博明星热搜榜近24小时第1（上榜12次，最高热度约103.5万），热搜含「也得变着法哄自己上班」「金鸡创投主评审」；2026-11-07金鸡创投连审15组项目。既有库无此星。X近7日非转推合计约286条（国际盘相对弱，国内热度为主）。",
+  "status": "researched",
+  "updated": "2026-11-08",
+  "persona": [
+    {
+      "word": "做好辅助",
+      "basis": "2026-11-07澎湃：作为金鸡创投主单元评审，她说作品走进影院一路很难，「我尽力做好辅助」。新浪娱乐转述她把自己定位为客观旁观者，帮判断哪些可优先实践、哪些需再打磨。",
+      "type": "self",
+      "sources": [
+        "s10",
+        "s11"
+      ]
+    },
+    {
+      "word": "赵小刀",
+      "basis": "维基昵称栏与2017上海周刊专访：生活中直、慢热，粉丝与媒体长期称「赵小刀」。本人说「我不是难聊天，只是不想在生活中演戏」。",
+      "type": "fan",
+      "sources": [
+        "s1",
+        "s12"
+      ]
+    },
+    {
+      "word": "闷声干大事",
+      "basis": "2026-10-30前后官宣金鸡创投主评审时，粉丝与媒体热搜标签；属网友概括行事风格，不是本人自称口号。",
+      "type": "fan",
+      "sources": [
+        "s13",
+        "s14"
+      ]
+    },
+    {
+      "word": "哄自己上班",
+      "basis": "2026-11-07创投现场被拍到上午咖啡下午奶茶续命，热搜「也得变着法哄自己上班」。媒体转述高强度连审15组，未找到本人原话自称「哄上班」。",
+      "type": "fan",
+      "sources": [
+        "s15",
+        "s16"
+      ]
+    }
+  ],
+  "catchphrases": [
+    {
+      "text": "我尽力做好辅助。",
+      "type": "self",
+      "sources": [
+        "s10"
+      ],
+      "note": "澎湃2026-11-07对创投评审发言的报道。"
+    },
+    {
+      "text": "没有什么标准，就是看一种感觉。",
+      "type": "self",
+      "sources": [
+        "s11"
+      ],
+      "note": "新浪娱乐对创投评判标准的转述。"
+    },
+    {
+      "text": "我不是难聊天，只是不想在生活中演戏。",
+      "type": "self",
+      "sources": [
+        "s12"
+      ]
+    },
+    {
+      "text": "坚强很久，让我软弱很难。",
+      "type": "self",
+      "sources": [
+        "s12"
+      ]
+    },
+    {
+      "text": "热血风格可以更极端、更疯一点。",
+      "type": "self",
+      "sources": [
+        "s17"
+      ],
+      "note": "多家媒体转述她对动画项目《跳水少女》的点评。剧名与项目名不进提示词。"
+    },
+    {
+      "text": "丽颖勇敢飞，虫儿永相随。",
+      "type": "fan",
+      "sources": [
+        "s3",
+        "s4"
+      ],
+      "note": "常见应援口号，非本人创作声明。"
+    },
+    {
+      "text": "赵丽颖你闷声干大事。",
+      "type": "fan",
+      "sources": [
+        "s13",
+        "s14"
+      ],
+      "note": "热搜标签句式。"
+    },
+    {
+      "text": "也得变着法哄自己上班。",
+      "type": "fan",
+      "sources": [
+        "s15",
+        "s16"
+      ],
+      "note": "2026-11-07热搜对咖啡奶茶续命画面的概括。"
+    }
+  ],
+  "colors": {
+    "official": [],
+    "fan": [
+      {
+        "name": "应援黄",
+        "hex": "#F5C518",
+        "type": "fan",
+        "note": "近似预览，非官方色卡编号。多来源写粉丝应援色为黄色，因「颖火虫」发光意象。造型里只做对比色或一条签名色，不铺满全身。",
+        "sources": [
+          "s2",
+          "s3",
+          "s4"
+        ]
+      }
+    ],
+    "preference_notes": [
+      {
+        "text": "2017芭莎珠宝采访写她日常喜欢粉色和白色。属媒体记述，非色卡声明；粉色可作对比候选。",
+        "type": "fan",
+        "sources": [
+          "s18"
+        ]
+      }
+    ]
+  },
+  "fan_names": [
+    "颖火虫",
+    "颖宝",
+    "小赵",
+    "赵小刀"
+  ],
+  "fan_name_records": [
+    {
+      "text": "颖火虫",
+      "type": "fan",
+      "sources": [
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "note": "公开百科与应援资料普遍写法。 小红书本轮未交叉验证（登录超限）。"
+    },
+    {
+      "text": "颖宝",
+      "type": "fan",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "赵小刀",
+      "type": "fan",
+      "sources": [
+        "s1",
+        "s12"
+      ],
+      "note": "昵称，偏性格梗，不是正式粉丝名。"
+    }
+  ],
+  "likened_to": [
+    {
+      "text": "萤火虫。粉丝名颖火虫，应援黄对应发光点。",
+      "type": "fan",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "小刀。赵小刀昵称；造型只借钝圆刀形轮廓，不出刃、不画血。",
+      "type": "fan",
+      "sources": [
+        "s1",
+        "s12"
+      ]
+    },
+    {
+      "text": "咖啡杯与奶茶杯。2026-11-07现场续命画面被路人化成打工人符号。",
+      "type": "fan",
+      "sources": [
+        "s15",
+        "s16"
+      ]
+    },
+    {
+      "text": "保温杯里的养生饮。同场报道提到保温杯备养生饮品。",
+      "type": "fan",
+      "sources": [
+        "s16"
+      ]
+    }
+  ],
+  "belongings": [
+    "咖啡与奶茶轮换（fan：创投现场续命画面）",
+    "保温杯养生饮（fan：现场报道）",
+    "演员与出品人双重视角（self/media：创投身份介绍）",
+    "粉色与白色日常偏好（fan/media：2017采访记述）"
+  ],
+  "symbols": [
+    "萤火虫光点（fan：颖火虫）",
+    "应援黄（fan，近似）",
+    "钝圆小刀轮廓（fan：赵小刀，钝、圆、不出刃）",
+    "咖啡杯 / 奶茶杯（fan：哄上班）",
+    "保温杯（fan）",
+    "辅助者旁观席位（self：做好辅助）",
+    "粉色点缀（fan/media：本人日常偏好记述）"
+  ],
+  "taboo": [
+    "不画本人的脸、发型和服装。提示词不写本人姓名、英文名，也不写任何现有作品、品牌、奖项或艺术家的名字。",
+    "不写婚姻、离婚、孩子与家人隐私。",
+    "不碰饭圈互撕、拉踩、抵制与平台处罚细节。",
+    "不把注水剧、播放量争议写成表达或造型。",
+    "刀不出刃，不画血；小刀只做钝圆物件融合。",
+    "应援黄只当对比色或一条签名色，不铺满全身。",
+    "不写贬低、恶搞、色情。",
+    "「闷声干大事」是粉丝概括，不当成本人自称口号写进提示词。",
+    "创投项目名、动画片名不进提示词。"
+  ],
+  "species_candidates": [
+    {
+      "answer": "萤火虫",
+      "why": "fan：粉丝名颖火虫；光点可长成身体或冠，不画真人脸。",
+      "type": "fan",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "answer": "钝圆小刀",
+      "why": "fan：赵小刀。刀身是身体，刃口做厚圆，不锋利。",
+      "type": "fan",
+      "sources": [
+        "s1",
+        "s12"
+      ]
+    },
+    {
+      "answer": "咖啡杯",
+      "why": "fan：上午两杯咖啡续命。杯体就是身体，不是手里拿着。",
+      "type": "fan",
+      "sources": [
+        "s15",
+        "s16"
+      ]
+    },
+    {
+      "answer": "奶茶杯",
+      "why": "fan：下午奶茶犒劳。杯盖或吸管可成冠，杯身是躯干。",
+      "type": "fan",
+      "sources": [
+        "s15",
+        "s16"
+      ]
+    },
+    {
+      "answer": "保温杯",
+      "why": "fan：现场保温杯养生饮。圆柱保温壳长成身体。",
+      "type": "fan",
+      "sources": [
+        "s16"
+      ]
+    },
+    {
+      "answer": "粉白点心",
+      "why": "fan/media：日常喜欢粉与白；点心是身体，不画真人。",
+      "type": "fan",
+      "sources": [
+        "s18"
+      ]
+    },
+    {
+      "answer": "旁观软垫",
+      "why": "self：做好辅助、客观旁观者。垫子是身体，人坐在判断边上而不是舞台中央。",
+      "type": "inference",
+      "sources": [
+        "s10",
+        "s11"
+      ]
+    },
+    {
+      "answer": "闯关门牌",
+      "why": "self/media：项目从筹备到影院像闯关。门牌或关卡牌嵌进身体。",
+      "type": "inference",
+      "sources": [
+        "s11"
+      ]
+    }
+  ],
+  "discussion": {
+    "x_query": "(赵丽颖 OR \"Zhao Liying\" OR Zanilia) -is:retweet",
+    "window": "2026-11-01T00:00:00Z/2026-11-07T22:56:47Z",
+    "total": 286,
+    "by_utc_day": {
+      "2026-11-01": 23,
+      "2026-11-02": 25,
+      "2026-11-03": 22,
+      "2026-11-04": 30,
+      "2026-11-05": 31,
+      "2026-11-06": 85,
+      "2026-11-07_to_22:56Z": 70
+    },
+    "note": "近7天非转推约286条。11-06起抬升，与金鸡相关节点同段。国际X盘弱于微博热搜；国内热搜榜近24小时第1（上榜12次）。计数含各语言字面匹配，未剔除同名和广告。"
+  },
+  "recent_heat": [
+    {
+      "text": "微博明星热搜榜近24小时第1：上榜12次，最高热度约103.5万；词条含哄自己上班、金鸡相关口碑。",
+      "type": "fan",
+      "sources": [
+        "s19"
+      ]
+    },
+    {
+      "text": "2026-11-07金鸡创投主单元连审15组；澎湃报道她谈「做好辅助」。",
+      "type": "media",
+      "sources": [
+        "s10",
+        "s15"
+      ]
+    },
+    {
+      "text": "2026-10-30前后官宣主评审，粉丝标签「闷声干大事」；多家报道称85后演员首位担此主评审。",
+      "type": "fan",
+      "sources": [
+        "s13",
+        "s14",
+        "s17"
+      ]
+    }
+  ],
+  "gaps": [
+    "抖音：2026-11-08 本机浏览器未登录，搜索页强制登录浮层（扫码/验证码），遮罩后无标题、话题、点赞可读。URL https://www.douyin.com/search/%E8%B5%B5%E4%B8%BD%E9%A2%96?type=video 。需重新登录后补首屏。见 /workspace/star-research/zhaoliying/douyin-observed.md。",
+    "小红书：2026-11-08 提示「电脑设备登录超限，请重新登录」，搜索结果与官方账号卡均不可读。URL https://www.xiaohongshu.com/search_result?keyword=%E8%B5%B5%E4%B8%BD%E9%A2%96 。需有效会话后补粉丝名/应援色交叉验证。见 /workspace/star-research/zhaoliying/xiaohongshu-observed.md。",
+    "微博原帖与后援会手册需登录；应援黄无机构色卡编号，hex #F5C518 为近似。",
+    "「更疯一点」等现场点评多为媒体转述，未找到完整官方实录稿。",
+    "粉色偏好来自2017杂志记述，未见2026年本人重申。",
+    "X 国际讨论量远低于微博热搜，不以 X 总量代表国内热度。"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "中文维基百科：赵丽颖",
+      "url": "https://zh.wikipedia.org/wiki/%E8%B5%B5%E4%B8%BD%E9%A2%96",
+      "date": "2026-11-08",
+      "type": "media"
+    },
+    {
+      "id": "s2",
+      "title": "搜狗百科：赵丽颖（粉丝名与应援色字段）",
+      "url": "https://baike.sogou.com/m/fullLemma?lid=4297323",
+      "date": "2026-11-08",
+      "type": "fan"
+    },
+    {
+      "id": "s3",
+      "title": "明星关系图：应援色与口号",
+      "url": "https://m.mxgxt.com/news/view/1265931",
+      "date": "2025-05-18",
+      "type": "fan"
+    },
+    {
+      "id": "s4",
+      "title": "明星关系图：应援色与口号汇总",
+      "url": "https://mxgxt.com/news/view/1087307",
+      "date": "2026-11-08",
+      "type": "fan"
+    },
+    {
+      "id": "s10",
+      "title": "澎湃：作品能走进影院一路很难，我尽力做好辅助",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34425983",
+      "date": "2026-11-07",
+      "type": "self"
+    },
+    {
+      "id": "s11",
+      "title": "新浪娱乐：从演员转型评审的评判标准",
+      "url": "https://ent.sina.cn/2026-11-08/detail-inixxutn7739753.d.html?vt=4",
+      "date": "2026-11-08",
+      "type": "self"
+    },
+    {
+      "id": "s12",
+      "title": "上海周刊：不想在生活中演戏",
+      "url": "http://app.why.com.cn/epaper/webpc/shzk/html/2017-11/07/content_43061.html",
+      "date": "2017-11-07",
+      "type": "self"
+    },
+    {
+      "id": "s13",
+      "title": "新浪：为什么被称闷声干大事",
+      "url": "https://k.sina.cn/article_7879776328_1d5abd84806802fxt2.html",
+      "date": "2026-10-31",
+      "type": "fan"
+    },
+    {
+      "id": "s14",
+      "title": "微博话题：赵丽颖你闷声干大事",
+      "url": "https://weibo.com/a/hot/9732de79f4a9417f_0.html?type=grab",
+      "date": "2026-10-30",
+      "type": "fan"
+    },
+    {
+      "id": "s15",
+      "title": "新浪：网友为什么说上班状态演我",
+      "url": "https://ent.sina.cn/2026-11-08/detail-inixxutn7738995.d.html?vt=4",
+      "date": "2026-11-08",
+      "type": "fan"
+    },
+    {
+      "id": "s16",
+      "title": "新浪微博转载：上午咖啡下午奶茶",
+      "url": "https://www.sina.cn/weibo/detail/5362745350554841.html",
+      "date": "2026-11-07",
+      "type": "fan"
+    },
+    {
+      "id": "s17",
+      "title": "新浪：金鸡创投主评审动画风格要更疯一点",
+      "url": "https://www.sina.cn/weibo/detail/5362715361287166.html",
+      "date": "2026-11-07",
+      "type": "media"
+    },
+    {
+      "id": "s18",
+      "title": "时尚集团/芭莎珠宝：粉色和白色是日常喜欢的颜色",
+      "url": "http://www.trendsgroup.com.cn/2017/0811/222947_2.shtml",
+      "date": "2017-08-11",
+      "type": "media"
+    },
+    {
+      "id": "s19",
+      "title": "热搜时光机：明星热搜榜近24小时",
+      "url": "https://www.weibotop.cn/celebrity",
+      "date": "2026-11-08",
+      "type": "media"
+    },
+    {
+      "id": "sx",
+      "title": "X 近7天非转推计数",
+      "url": "https://x.com/search?q=%E8%B5%B5%E4%B8%BD%E9%A2%96&src=typed_query&f=live",
+      "date": "2026-11-08",
+      "type": "media",
+      "note": "窗口见 discussion；搜索链接只标平台。"
+    },
+    {
+      "id": "s34",
+      "title": "抖音搜索首屏（未登录，被登录墙挡住）",
+      "url": "https://www.douyin.com/search/%E8%B5%B5%E4%B8%BD%E9%A2%96?type=video",
+      "date": "2026-11-08",
+      "type": "fan",
+      "note": "login=false。强制登录浮层，结果正文不可读。不采用遮罩后猜测内容。"
+    },
+    {
+      "id": "s35",
+      "title": "小红书搜索首屏（登录超限）",
+      "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%B5%B5%E4%B8%BD%E9%A2%96",
+      "date": "2026-11-08",
+      "type": "fan",
+      "note": "login=false。电脑设备登录超限，笔记与官方卡不可读。"
+    }
+  ]
+}

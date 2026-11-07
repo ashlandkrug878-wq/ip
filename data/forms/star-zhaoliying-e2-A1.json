@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhaoliying-e2",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "杯身是身体的续命咖啡兽",
+  "species": "咖啡杯",
+  "axes": {
+    "archetype": "物件生物，咖啡杯",
+    "silhouette": "杯形，厚底",
+    "mark": "头顶 · 厚圆杯盖",
+    "face": "半垂豆眼，极小嘴偏一侧",
+    "emotion": "内收，微倦",
+    "fusion": "物件就是身体：整只是一杯，盖是头顶",
+    "material": "主体暖棕短绒，只有杯盖是釉面陶",
+    "palette": "暖棕配乳白"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "盖即头，短圆耳从盖沿冒出",
+  "combo": "暖棕绒杯身 + 乳白釉盖头 + 半垂倦眼 + 厚杯底脚",
+  "odd": "杯耳变成一条短臂贴在身侧，不是手提",
+  "line": "",
+  "why": "上午苦的那杯：苦在身体里，脸只留一点倦。",
+  "spec": {
+    "proportion": "杯高约是杯径1.3倍，盖头占上部30%",
+    "outline": "上略收的圆柱杯",
+    "volume": "大：杯身；中：盖；小：杯耳臂与底脚",
+    "face": "眼在盖高下半，半垂",
+    "stance": "坐在厚底上，微前倾",
+    "structure": "盖与杯口一圈绒缝咬合"
+  },
+  "toy_check": "站得住：姿态可定格。物件长进去：拿掉物件角色不成立。特殊材质只有一处。新组合成立。不像绘本：小五官无大笑。头像需裁到记忆点。做得成：无过薄片。",
+  "crop": "记忆点需进入头像裁切，否则只剩普通脸。",
+  "collide": "避开穿衣小人、普通动物加道具、整体透明三类；与常见杯套娃、武器人、奖杯兽拉开。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质被加成花纹贴纸"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点结构必须仍在"
+    ]
+  ],
+  "zh": "原创潮玩角色，咖啡杯和物件长在一起：物件就是身体：整只是一杯，盖是头顶。杯高约是杯径1.3倍，盖头占上部30%，上略收的圆柱杯。盖即头，短圆耳从盖沿冒出。半垂豆眼，极小嘴偏一侧，情绪内收，微倦。姿态：坐在厚底上，微前倾。主体暖棕短绒，只有杯盖是釉面陶。配色是暖棕配乳白。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要品牌logo，不要人手握杯，不要咖啡液体泼溅场面。",
+  "enp": "Original designer toy character: 杯身是身体的续命咖啡兽 — 物件就是身体：整只是一杯，盖是头顶. 杯高约是杯径1.3倍，盖头占上部30%. 上略收的圆柱杯. 盖即头，短圆耳从盖沿冒出. 半垂豆眼，极小嘴偏一侧, mood: 内收，微倦. Pose: 坐在厚底上，微前倾. Materials: 主体暖棕短绒，只有杯盖是釉面陶. Colors: 暖棕配乳白. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No brand logos, no human hands holding the cup, no splashing coffee action.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-08",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子与普通：物件长进身体。识别靠记忆点尺度。材质只一处且讲得通。强对比两三色。组合少见。特点夸张到记忆点大于脸的一部分。",
+  "pose": "微倾坐"
+}

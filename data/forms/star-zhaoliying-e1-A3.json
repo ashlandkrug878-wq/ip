@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhaoliying-e1",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "背着半扇圆角推门的小兽",
+  "species": "旁观软垫",
+  "axes": {
+    "archetype": "怪兽精灵，推门兽",
+    "silhouette": "团身，背后半扇门",
+    "mark": "背后 · 半扇圆角推门",
+    "face": "小黑豆眼略下视，极小嘴",
+    "emotion": "内收，帮忙",
+    "fusion": "物件背负并成轮廓：半扇圆角门嵌进后背，下沿可当坐沿",
+    "material": "主体藕粉针织，只有门扇是刷漆木纹搪胶",
+    "palette": "藕粉配深棕"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "竖高圆头，两只极短钝角",
+  "combo": "藕粉针织团 + 背后半扇圆角门 + 下视豆眼 + 藕粉对深棕",
+  "odd": "门扇比身体宽，像刚推开一条缝",
+  "line": "",
+  "why": "坐边上却推得动门：门扇长在背上，不是手里推的道具。",
+  "spec": {
+    "proportion": "全高约身宽1.2倍，门宽约身宽1.3倍",
+    "outline": "前圆后板",
+    "volume": "大：门扇；中：针织身；小：短角短脚",
+    "face": "眼偏下，间距约一个眼宽",
+    "stance": "坐着，后背靠门扇",
+    "structure": "门轴一侧嵌进肩背"
+  },
+  "toy_check": "站得住：姿态可定格。物件长进去：拿掉物件角色不成立。特殊材质只有一处。新组合成立。不像绘本：小五官无大笑。头像需裁到记忆点。做得成：无过薄片。",
+  "crop": "记忆点需进入头像裁切，否则只剩普通脸。",
+  "collide": "避开穿衣小人、普通动物加道具、整体透明三类；与常见杯套娃、武器人、奖杯兽拉开。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质被加成花纹贴纸"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点结构必须仍在"
+    ]
+  ],
+  "zh": "原创潮玩角色，旁观软垫和物件长在一起：物件背负并成轮廓：半扇圆角门嵌进后背，下沿可当坐沿。全高约身宽1.2倍，门宽约身宽1.3倍，前圆后板。竖高圆头，两只极短钝角。小黑豆眼略下视，极小嘴，情绪内收，帮忙。姿态：坐着，后背靠门扇。主体藕粉针织，只有门扇是刷漆木纹搪胶。配色是藕粉配深棕。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要完整建筑，不要玻璃碎片，不要人类手推门的动作场面。",
+  "enp": "Original designer toy character: 背着半扇圆角推门的小兽 — 物件背负并成轮廓：半扇圆角门嵌进后背，下沿可当坐沿. 全高约身宽1.2倍，门宽约身宽1.3倍. 前圆后板. 竖高圆头，两只极短钝角. 小黑豆眼略下视，极小嘴, mood: 内收，帮忙. Pose: 坐着，后背靠门扇. Materials: 主体藕粉针织，只有门扇是刷漆木纹搪胶. Colors: 藕粉配深棕. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No full buildings, no glass shards, no human hands pushing a door in an action scene.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-08",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子与普通：物件长进身体。识别靠记忆点尺度。材质只一处且讲得通。强对比两三色。组合少见。特点夸张到记忆点大于脸的一部分。",
+  "pose": "靠坐"
+}
