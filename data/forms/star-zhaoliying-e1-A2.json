@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhaoliying-e1",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "圆角闯关门牌嵌进团身",
+  "species": "闯关门牌",
+  "axes": {
+    "archetype": "物件生物，门牌团",
+    "silhouette": "竖牌嵌进圆团",
+    "mark": "胸口 · 竖立圆角门牌",
+    "face": "眯成线的小眼，无嘴",
+    "emotion": "面无表情，笃定",
+    "fusion": "物件是长出来的结构：圆角门牌从胸口长出并成为前轮廓",
+    "material": "主体米白短绒，只有门牌是哑光釉陶",
+    "palette": "米白配靛蓝"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "正圆小头，几乎埋进牌上沿",
+  "combo": "圆团身 + 胸口竖圆角陶牌 + 线眼 + 米白对靛蓝",
+  "odd": "门牌比头高，头只露在牌顶一线",
+  "line": "",
+  "why": "闯关不是打打杀杀，是一块先走的门牌嵌进身体。",
+  "spec": {
+    "proportion": "头高约占全高30%，牌高约占全高70%",
+    "outline": "圆团，正面凸出竖圆角矩形牌",
+    "volume": "大：陶牌；中：绒团；小：短肢",
+    "face": "眼在头中线，眯成弧线",
+    "stance": "立正微侧，牌面朝前",
+    "structure": "牌下沿嵌进绒腹，上沿高出头顶少许"
+  },
+  "toy_check": "站得住：姿态可定格。物件长进去：拿掉物件角色不成立。特殊材质只有一处。新组合成立。不像绘本：小五官无大笑。头像需裁到记忆点。做得成：无过薄片。",
+  "crop": "记忆点需进入头像裁切，否则只剩普通脸。",
+  "collide": "避开穿衣小人、普通动物加道具、整体透明三类；与常见杯套娃、武器人、奖杯兽拉开。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质被加成花纹贴纸"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点结构必须仍在"
+    ]
+  ],
+  "zh": "原创潮玩角色，闯关门牌和物件长在一起：物件是长出来的结构：圆角门牌从胸口长出并成为前轮廓。头高约占全高30%，牌高约占全高70%，圆团，正面凸出竖圆角矩形牌。正圆小头，几乎埋进牌上沿。眯成线的小眼，无嘴，情绪面无表情，笃定。姿态：立正微侧，牌面朝前。主体米白短绒，只有门牌是哑光釉陶。配色是米白配靛蓝。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要尖角铁门，不要文字招牌内容可辨的商标，不要人类小孩。",
+  "enp": "Original designer toy character: 圆角闯关门牌嵌进团身 — 物件是长出来的结构：圆角门牌从胸口长出并成为前轮廓. 头高约占全高30%，牌高约占全高70%. 圆团，正面凸出竖圆角矩形牌. 正圆小头，几乎埋进牌上沿. 眯成线的小眼，无嘴, mood: 面无表情，笃定. Pose: 立正微侧，牌面朝前. Materials: 主体米白短绒，只有门牌是哑光釉陶. Colors: 米白配靛蓝. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No sharp iron gates, no readable brand lettering, no human child figure.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-08",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子与普通：物件长进身体。识别靠记忆点尺度。材质只一处且讲得通。强对比两三色。组合少见。特点夸张到记忆点大于脸的一部分。",
+  "pose": "微侧立正"
+}

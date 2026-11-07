@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhaoliying-e3",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "粉白点心芯嵌钝刀片的小兽",
+  "species": "粉白点心",
+  "axes": {
+    "archetype": "物件生物，点心兽（探索向类点心非人形）",
+    "silhouette": "圆点心，中嵌扁钝片",
+    "mark": "中轴 · 竖嵌的钝圆金属片",
+    "face": "小点眼，浅笑线极小",
+    "emotion": "反差：软点心里有直的芯",
+    "fusion": "物件是长出来的结构：钝圆金属片从点心中轴长出",
+    "material": "主体粉白植绒，只有中轴片是拉丝银金属",
+    "palette": "粉白配银灰"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "点心顶弧即头",
+  "combo": "粉白圆点心身 + 中轴银灰钝片 + 小点眼 + 底一圈糖霜边",
+  "odd": "金属片比点心半径还长一截，却四边全圆",
+  "line": "",
+  "why": "软的日常偏好里仍有直的芯：点心是身体，钝片是直，不伤人。",
+  "spec": {
+    "proportion": "径约全高1.1倍，片高出顶约20%",
+    "outline": "扁圆加竖片",
+    "volume": "大：点心；中：金属片；小：糖霜边脚",
+    "face": "眼距宽，极小浅线嘴",
+    "stance": "坐在糖霜边上",
+    "structure": "片从圆心贯通，上下露圆头"
+  },
+  "toy_check": "站得住：姿态可定格。物件长进去：拿掉物件角色不成立。特殊材质只有一处。新组合成立。不像绘本：小五官无大笑。头像需裁到记忆点。做得成：无过薄片。",
+  "crop": "记忆点需进入头像裁切，否则只剩普通脸。",
+  "collide": "避开穿衣小人、普通动物加道具、整体透明三类；与常见杯套娃、武器人、奖杯兽拉开。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质被加成花纹贴纸"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点结构必须仍在"
+    ]
+  ],
+  "zh": "原创潮玩角色，粉白点心和物件长在一起：物件是长出来的结构：钝圆金属片从点心中轴长出。径约全高1.1倍，片高出顶约20%，扁圆加竖片。点心顶弧即头。小点眼，浅笑线极小，情绪反差：软点心里有直的芯。姿态：坐在糖霜边上。主体粉白植绒，只有中轴片是拉丝银金属。配色是粉白配银灰。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要可辨认品牌糕点，不要刀叉餐具套装，不要人类小孩脸。",
+  "enp": "Original designer toy character: 粉白点心芯嵌钝刀片的小兽 — 物件是长出来的结构：钝圆金属片从点心中轴长出. 径约全高1.1倍，片高出顶约20%. 扁圆加竖片. 点心顶弧即头. 小点眼，浅笑线极小, mood: 反差：软点心里有直的芯. Pose: 坐在糖霜边上. Materials: 主体粉白植绒，只有中轴片是拉丝银金属. Colors: 粉白配银灰. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No identifiable brand pastry, no cutlery set, no human child face.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-08",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子与普通：物件长进身体。识别靠记忆点尺度。材质只一处且讲得通。强对比两三色。组合少见。特点夸张到记忆点大于脸的一部分。",
+  "pose": "坐"
+}

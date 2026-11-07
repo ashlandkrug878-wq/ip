@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhaoliying-e2",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "保温杯壳长成的续命兽",
+  "species": "保温杯",
+  "axes": {
+    "archetype": "物件生物，保温杯",
+    "silhouette": "高圆柱，提环冠",
+    "mark": "头顶 · 圆提环",
+    "face": "小豆眼，一线嘴",
+    "emotion": "内收，稳住",
+    "fusion": "物件就是身体：保温壳是全身，提环是头顶结构",
+    "material": "主体雾绿针织套，只有瓶壳中段是拉丝金属",
+    "palette": "雾绿配银灰"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "瓶盖圆顶，提环从顶侧长出",
+  "combo": "雾绿针织套柱 + 银灰金属腰 + 圆提环冠 + 一线嘴",
+  "odd": "金属腰只占中段一圈，上下仍是软套",
+  "line": "",
+  "why": "保温杯续命：硬的一圈嵌在软里，不是整瓶冰凉。",
+  "spec": {
+    "proportion": "高约是径的2倍，头盖占上部20%",
+    "outline": "高圆柱",
+    "volume": "大：柱身；中：金属腰；小：提环与短脚",
+    "face": "眼距窄，靠上",
+    "stance": "立正，略后仰像刚盖紧",
+    "structure": "针织套开口在金属腰上下边缘收口"
+  },
+  "toy_check": "站得住：姿态可定格。物件长进去：拿掉物件角色不成立。特殊材质只有一处。新组合成立。不像绘本：小五官无大笑。头像需裁到记忆点。做得成：无过薄片。",
+  "crop": "记忆点需进入头像裁切，否则只剩普通脸。",
+  "collide": "避开穿衣小人、普通动物加道具、整体透明三类；与常见杯套娃、武器人、奖杯兽拉开。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质被加成花纹贴纸"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点结构必须仍在"
+    ]
+  ],
+  "zh": "原创潮玩角色，保温杯和物件长在一起：物件就是身体：保温壳是全身，提环是头顶结构。高约是径的2倍，头盖占上部20%，高圆柱。瓶盖圆顶，提环从顶侧长出。小豆眼，一线嘴，情绪内收，稳住。姿态：立正，略后仰像刚盖紧。主体雾绿针织套，只有瓶壳中段是拉丝金属。配色是雾绿配银灰。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真实品牌保温杯外观，不要蒸汽动画，不要人类办公室场景。",
+  "enp": "Original designer toy character: 保温杯壳长成的续命兽 — 物件就是身体：保温壳是全身，提环是头顶结构. 高约是径的2倍，头盖占上部20%. 高圆柱. 瓶盖圆顶，提环从顶侧长出. 小豆眼，一线嘴, mood: 内收，稳住. Pose: 立正，略后仰像刚盖紧. Materials: 主体雾绿针织套，只有瓶壳中段是拉丝金属. Colors: 雾绿配银灰. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real brand thermos look, no steam animation, no human office scene.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-08",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子与普通：物件长进身体。识别靠记忆点尺度。材质只一处且讲得通。强对比两三色。组合少见。特点夸张到记忆点大于脸的一部分。",
+  "pose": "略后仰立正"
+}

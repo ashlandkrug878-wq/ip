@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhaoliying-e3",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "钝圆刀身萤火虫",
+  "species": "钝圆小刀",
+  "axes": {
+    "archetype": "物件生物，钝刀萤",
+    "silhouette": "刀形扁身，圆头",
+    "mark": "刀脊 · 一点淡黄光斑",
+    "face": "细眯眼，小嘴",
+    "emotion": "内收，笃定",
+    "fusion": "物件就是身体：钝圆刀身是全身，刃口厚圆",
+    "material": "主体炭黑短绒，只有刀脊光斑是半透明霜冻黄",
+    "palette": "炭黑配萤黄"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "圆钝刀头即脸所在",
+  "combo": "炭黑钝刀身 + 脊上霜冻黄光斑 + 细眯眼 + 圆脚尖",
+  "odd": "刃口厚得像面包刀圆边，完全不能割伤",
+  "line": "",
+  "why": "直但不割人：刀是身体，伤人的锋被收成圆，亮只留一点。",
+  "spec": {
+    "proportion": "长约是宽的2.2倍，头端占30%",
+    "outline": "扁长圆角刀形",
+    "volume": "大：刀身；中：光斑；小：短肢",
+    "face": "眼在头端中部，细眯",
+    "stance": "侧立，圆刃着地",
+    "structure": "刃口与脊是连续圆角，无开口"
+  },
+  "toy_check": "站得住：姿态可定格。物件长进去：拿掉物件角色不成立。特殊材质只有一处。新组合成立。不像绘本：小五官无大笑。头像需裁到记忆点。做得成：无过薄片。",
+  "crop": "记忆点需进入头像裁切，否则只剩普通脸。",
+  "collide": "避开穿衣小人、普通动物加道具、整体透明三类；与常见杯套娃、武器人、奖杯兽拉开。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质被加成花纹贴纸"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点结构必须仍在"
+    ]
+  ],
+  "zh": "原创潮玩角色，钝圆小刀和物件长在一起：物件就是身体：钝圆刀身是全身，刃口厚圆。长约是宽的2.2倍，头端占30%，扁长圆角刀形。圆钝刀头即脸所在。细眯眼，小嘴，情绪内收，笃定。姿态：侧立，圆刃着地。主体炭黑短绒，只有刀脊光斑是半透明霜冻黄。配色是炭黑配萤黄。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要出刃，不要血，不要武器收纳架，不要人类持刀。",
+  "enp": "Original designer toy character: 钝圆刀身萤火虫 — 物件就是身体：钝圆刀身是全身，刃口厚圆. 长约是宽的2.2倍，头端占30%. 扁长圆角刀形. 圆钝刀头即脸所在. 细眯眼，小嘴, mood: 内收，笃定. Pose: 侧立，圆刃着地. Materials: 主体炭黑短绒，只有刀脊光斑是半透明霜冻黄. Colors: 炭黑配萤黄. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No sharp edge, no blood, no weapon rack, no human holding a knife.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-08",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子与普通：物件长进身体。识别靠记忆点尺度。材质只一处且讲得通。强对比两三色。组合少见。特点夸张到记忆点大于脸的一部分。",
+  "pose": "侧立"
+}
