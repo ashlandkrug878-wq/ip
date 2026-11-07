@@ -1,0 +1,1209 @@
+{
+  "id": "ribodiary",
+  "name": "RiboDiary 森林伙伴（含瑞宝 Bearibo）",
+  "aliases": [
+    "Ribo Diary",
+    "RIBO DIARY",
+    "瑞宝",
+    "Bearibo",
+    "ベアリボ",
+    "リボダイアリー",
+    "리보다이어리",
+    "Peippi",
+    "佩皮",
+    "Iceymel",
+    "艾斯弥尔",
+    "Furrychiii",
+    "芙伊绮",
+    "Memicchi",
+    "玫米琪",
+    "Joeius",
+    "乔恩斯"
+  ],
+  "tier": "standard",
+  "status": "partial",
+  "cutoff_date": "2026-11-07",
+  "updated": "2026-11-07",
+  "summary": "森林日常由被窝、衣装、手作与群像分工落到产品；官方功能证据清楚，近期讨论可核，规模与增长因果未知。",
+  "owner": {
+    "creator": null,
+    "operator": "POP MART／泡泡玛特",
+    "relation": "官方发售与运营可核；自然人作者与全部权利链未知，不因品牌字段认定买断",
+    "since": null,
+    "sources": [
+      "R01",
+      "R02",
+      "R03"
+    ]
+  },
+  "origin": {
+    "path": [
+      "其他"
+    ],
+    "year": null,
+    "story": "已取得当前官方森林日常设定；早期人偶/艺术家手作/首实体商品的先后未由原始资料核清。不是因名称Diary就判绘本出版起源。 11/5补核官方6/18城市乐园亮相公告；它仅界定线下节点，仍不等同创作或首售。",
+    "sources": [
+      "R01",
+      "R10",
+      "R18",
+      "W03"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2026-06-10",
+      "event": "独立用户已讨论Bearibo；只是公开存在的线索，非首创日",
+      "type": "fact",
+      "sources": [
+        "R10"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "event": "近期独立线程讨论Ribo Diary及成员",
+      "type": "fact",
+      "sources": [
+        "R09"
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "event": "官方发布毛绒挂件发售与中国售价",
+      "type": "self_report",
+      "sources": [
+        "R14"
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "event": "官方发布手办可动/被子/中国售价",
+      "type": "self_report",
+      "sources": [
+        "R01"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "event": "中国22:00线上发售节点；美国官网另写17:00 PST，分地区并存",
+      "type": "self_report",
+      "sources": [
+        "R01",
+        "R02"
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "event": "中国线下发售节点；不等于全IP首售",
+      "type": "self_report",
+      "sources": [
+        "R01"
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "event": "官方公告瑞宝自当日起在城市乐园泡泡街亮相；不是全IP首创/首售",
+      "type": "self_report",
+      "sources": [
+        "W03"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "event": "官方公告单曲及MV已于腾讯音乐上线；本轮未播放",
+      "type": "self_report",
+      "sources": [
+        "W04"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "event": "官方发布MV剧照主帖；本轮未看图/视频，不作逐图和剧情断言",
+      "type": "self_report",
+      "sources": [
+        "W02"
+      ]
+    }
+  ],
+  "expression": {
+    "line": "慢一点也没关系，和朋友一起给今天一点勇气。",
+    "sentence_type": "陪伴",
+    "basis": "inferred",
+    "sources": [
+      "R08",
+      "R01"
+    ]
+  },
+  "core": {
+    "personality": "害羞／好奇／友善",
+    "emotion": "内收",
+    "action": "醒来、相聚、手作、读书；成员性格不同",
+    "basis": "inferred"
+  },
+  "insight": {
+    "scene": "日常开始、居家陈列与随身携带",
+    "behavior": "选择偏爱的伙伴、摆放被窝、换装与抽重求交换",
+    "state": "想慢慢进入世界，也想有朋友",
+    "conflict": "软萌相似性带来熟悉感，也可能削弱独特记忆",
+    "unsaid": "不用一下子变勇敢，先有个小小陪伴",
+    "basis": "inferred"
+  },
+  "circle": {
+    "who": "近期公开收藏讨论者；人群规模比例未知",
+    "where": "公开收藏论坛、官方零售及乐园线索",
+    "buy": "原论坛1名账号抽重自述；新增中文账号自述目标小羊与舍友端盒，均无订单可核。",
+    "signs": "对物种、复古气质、某个成员有偏好；不是所有人都因害羞购买",
+    "share": "讨论图、询问交换；成交与复购未知",
+    "breakout": "跨载体渠道增加接触，但没有破圈率"
+  },
+  "pendulum": {
+    "position": "软萌治愈",
+    "against": "研究定位：以复古动物与日常友情提供低冲突接触；没有证明是对行业主流的反动"
+  },
+  "form": {
+    "archetype": "动物类人",
+    "silhouette": "大头小身",
+    "mark_position": [
+      "五官",
+      "整体轮廓"
+    ],
+    "mark": "圆润大头、淡色脸区与突腮颊，眼内四叶状图案；物种耳喙和尾巴负责成员差异",
+    "face": "眼睛低于额部较大留白，深色椭圆眼、鼻/喙、小笑与腮颊；企鹅与熊不共用鼻嘴结构",
+    "emotion": "内收",
+    "odd": "复古动物脸与当代可动/随身产品组合；不声称元素独有",
+    "density": "中等",
+    "naming": "其他",
+    "group": "角色群"
+  },
+  "collide_combo": "不要照搬棕熊双叶脸区＋突出腮颊＋四叶状眼点＋红巾蓝背带裤的整套当款组合；耳、腮红各自是公共元素。",
+  "color": {
+    "mode": "多色系列",
+    "main": "熊棕/奶油脸；企鹅黑白；兔淡粉；衣装另分",
+    "signature": "四叶眼点与同族脸区关系为研究候选，非唯一固定色",
+    "notes": "取样只对V04原图1200×1200；暖光/毛面阴影影响，不能作生产色号"
+  },
+  "materials": "手办、毛绒挂件、玩偶包、背包与擦手巾按SKU分列，PVC、聚酯、金属等材料不互相替代",
+  "carrier": {
+    "primary": "实物潮玩",
+    "secondary": "线下人偶"
+  },
+  "product": {
+    "first_category": null,
+    "hit_category": null,
+    "hit_product": null,
+    "price_band": "已核中国手办69元/挂件129元；美国15.99–99.99 USD代表载体，非同口径横比",
+    "sources": [
+      "R01",
+      "R14",
+      "R08"
+    ]
+  },
+  "numbers": [
+    {
+      "metric": "中国手办常规款数量",
+      "value": 6,
+      "unit": "款",
+      "period": "2026-10-27发布",
+      "type": "self_report",
+      "sources": [
+        "R01"
+      ]
+    },
+    {
+      "metric": "单IP净销量/营收/利润/复购",
+      "value": null,
+      "unit": null,
+      "period": null,
+      "type": "fact",
+      "sources": [
+        "R02",
+        "R11"
+      ],
+      "note": "未取得，缺货不代销量"
+    },
+    {
+      "metric": "日本官方乐天店展示的挂件店内名次",
+      "value": 1,
+      "unit": "店内名次",
+      "period": "10/29—11/04集计，11/05更新",
+      "type": "self_report",
+      "sources": [
+        "W01"
+      ],
+      "note": "算法和销量未披露，非全站或全网"
+    },
+    {
+      "metric": "日本官方乐天店展示的手办店内名次",
+      "value": 2,
+      "unit": "店内名次",
+      "period": "10/29—11/04集计，11/05更新",
+      "type": "self_report",
+      "sources": [
+        "W01"
+      ],
+      "note": "不推算成交量、收入、增长率"
+    },
+    {
+      "metric": "日本官方乐天店展示的挂件店内名次",
+      "value": 1,
+      "unit": "店内名次",
+      "period": "10/30—11/05集计，11/06更新",
+      "type": "self_report",
+      "sources": [
+        "Q01"
+      ],
+      "note": "滚动重叠窗口，不推销量或增长"
+    },
+    {
+      "metric": "日本官方乐天店展示的手办店内名次",
+      "value": 2,
+      "unit": "店内名次",
+      "period": "10/30—11/05集计，11/06更新",
+      "type": "self_report",
+      "sources": [
+        "Q01"
+      ],
+      "note": "滚动重叠窗口，不推销量或增长"
+    },
+    {
+      "metric": "日本官方乐天店展示的挂件店内名次",
+      "value": 1,
+      "unit": "店内名次",
+      "period": "10/31—11/06集计，11/07更新",
+      "type": "self_report",
+      "sources": [
+        "J01"
+      ],
+      "note": "前8名未见同群手办，但无完整榜单，不赋其名次；不推销量或衰退"
+    }
+  ],
+  "mechanisms": [
+    {
+      "claim": "把“清晨醒来参加聚会”做成可动玩偶与被窝摆放玩法",
+      "type": "inference",
+      "evidence": "官方公告明确可动及刺绣被子，所看手办场景用床/读书/手作延展日常",
+      "boundary": "功能与故事对应有证据；未证明因此带来转化、复购或安抚效果，陈列摄影也可能贡献吸引力",
+      "sources": [
+        "R01",
+        "R02"
+      ]
+    },
+    {
+      "claim": "群像以共同脸部语言维持家族感，同时让用户选择某一成员",
+      "type": "inference",
+      "evidence": "官方角色列表和所看熊/企鹅/兔图像支持共享语言；独立评论有只关注Joeius、抽重Iceymel求交换 11/4另读中文微博U02，同样出现目标成员小羊与舍友端盒自述。",
+      "boundary": "1个论坛线程的少量账号＋1个中文主帖，非随机；交换/抽盒是自述，不能证明成交、复购或总体促购因果。",
+      "sources": [
+        "R02",
+        "R09",
+        "U02"
+      ]
+    },
+    {
+      "claim": "把角色互动扩展到歌曲/MV、乐园和商品，但不将内容曝光等同成交",
+      "type": "inference",
+      "evidence": "6/18乐园亮相、10/29上线公告与11/4剧照发布可核；日本单店产品榜单提供有限渠道观察",
+      "boundary": "未播放MV或取得跨渠道转化与对照组；不能证明歌曲、乐园或角色设定贡献多少销售",
+      "sources": [
+        "W03",
+        "W04",
+        "W02",
+        "W01"
+      ]
+    }
+  ],
+  "counterexamples": "一条独立线程同时有成员偏好和眼熟意见；作者合作说法后来说明是听闻，不用其消除所有争议。未找到已核失败SKU/退坑调查；未找到不等于不存在。 11/3补充：第三方历史发售追踪标背包Cancelled，官方详情仍可读；没有直接官方取消公告，不把此认定为停售或失败。",
+  "theory": {
+    "shell": "圆润复古动物脸＋物种轮廓＋家族眼部语言",
+    "core": "官方友情与勇气设定；不同成员的日常分工",
+    "shadow": "圆耳、腮红、背带裤等公共元素较多；用户的眼熟联想提示需检验身份辨识，不能直接作抄袭判断",
+    "two_layers": {
+      "surface": "熟悉复古动物与触感想象",
+      "deep": "特定成员、日常分工与摆放/交换行为"
+    },
+    "validation": "官方发售/产品配置可核；抽重与交换是自述/意向；没有独立销量、增长或复购证据"
+  },
+  "for_skills": {
+    "lab": "可研究把小勇气落在具体日常而非泛泛治愈；先验证目标人群是否有相应需要，不能从设定反推动机。",
+    "form": "可借家族共享语言＋物种差异机制；需检验剪影/头像/去衣装后识别，不能搬专属脸与眼点组合。",
+    "studio": "内容动作可映射到被窝、服装、可动与随身载体；各SKU独立核材料和尺寸，陈列热闹不代表购买或复购。"
+  },
+  "gaps": [
+    "自然人作者、最初草稿、首条公开原作、完整著作权/商标/授权合同未核；ribo及中文姓名仅保留线索，不从AI汇编确认。",
+    "6/18官方乐园亮相节点已核，6/10仍只是用户存在时间线索；创作、最初公开和全IP首售未知；8月雪糕帖年份未显。",
+    "11/7新浏览器连接仍返回Unknown tool；小红书两组未执行，实读0篇，不绕过。",
+    "用户材料包括原1条近期论坛线程6位目的抽样、1条早期存在时间讨论，及新增中文微博主帖1位账号；均非随机且无订单，不推中国年龄/性别比例、排名或复购率。",
+    "第三方显示英国/美国缺货；英国官方读取为选项未加载，不能直接证实售罄或售罄速度；首批库存与销量均null。",
+    "已看7张官方原图，未覆盖所有成员全部视角和早期人偶影像；未读实体绘本，未核出版物ISBN，不把绘本感等同绘本起源。",
+    "中文附官方V04的V17/V18仍未通过：V18手臂弯折改善，额毛、嘴形、色调、渐层仍偏离；旧英文附图V2仅有限身份近似。英文纯文字V10/V11、中文V6/V7未通过，稳定性未证实，不进入3D/毛绒。",
+    "原图不公开打包；内部结构、绒感、承重、耐用性、清洗与关节寿命未实测，成本利润未知。"
+  ],
+  "sources": [
+    {
+      "id": "R01",
+      "title": "森林欢聚日手办官方发布",
+      "url": "https://www.sina.cn/news/detail/5358601535489750.html",
+      "publisher": "POPMART泡泡玛特认证账号",
+      "published": "2026-10-27",
+      "observed": "2026-10-31",
+      "access": "partial",
+      "note": "读取主帖，不把下面的其他转发文章算该IP证据"
+    },
+    {
+      "id": "R02",
+      "title": "美国官网手办详情",
+      "url": "https://www.popmart.com/us/products/9420/ribodiary-forest-gathering-day-series-figures",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "full",
+      "note": null
+    },
+    {
+      "id": "R03",
+      "title": "美国官网毛绒挂件详情",
+      "url": "https://www.popmart.com/us/products/9418/ribodiary-forest-gathering-day-series-plush-doll-pendant",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "full",
+      "note": null
+    },
+    {
+      "id": "R04",
+      "title": "美国官网玩偶包瑞宝详情",
+      "url": "https://www.popmart.com/us/products/9417/ribodiary-forest-gathering-day-series-plush-doll-bag-bearibo",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "full",
+      "note": null
+    },
+    {
+      "id": "R05",
+      "title": "美国官网迷你包详情",
+      "url": "https://www.popmart.com/us/products/9419/ribodiary-forest-gathering-day-series-plush-mini-bag",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "full",
+      "note": null
+    },
+    {
+      "id": "R06",
+      "title": "美国官网背包瑞宝详情",
+      "url": "https://www.popmart.com/us/products/9415/ribodiary-forest-gathering-day-series-backpack-bearibo",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "full",
+      "note": null
+    },
+    {
+      "id": "R07",
+      "title": "美国官网擦手巾详情",
+      "url": "https://www.popmart.com/us/products/9416/ribodiary-forest-gathering-day-series-hand-towel",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "full",
+      "note": null
+    },
+    {
+      "id": "R08",
+      "title": "美国官网角色商品集合",
+      "url": "https://www.popmart.com/us/collection/ribodiary",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "full",
+      "note": "价格采用本集合观察页价，非海外统一价"
+    },
+    {
+      "id": "R09",
+      "title": "近期独立用户讨论：Is this a new IP",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1xbdmcg/is_this_a_new_ip/",
+      "publisher": "Reddit / KitchenLoan6",
+      "published": "2026-10-21",
+      "observed": "2026-10-31",
+      "access": "partial",
+      "note": "搜索给绝对日期，打开页10d ago；选取主线程六位账号评论，不包括相关推荐，不展开隐藏回复"
+    },
+    {
+      "id": "R10",
+      "title": "早期用户讨论：NEW IP Bearibo",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1u2fbh4/new_ip_bearibo/",
+      "publisher": "Reddit / Technical-Search-359",
+      "published": "2026-06-10",
+      "observed": "2026-10-31",
+      "access": "partial",
+      "note": "页面4mo ago；作者和旧合作的说法是用户线索，不直接填权属"
+    },
+    {
+      "id": "R11",
+      "title": "第三方零售状态追踪",
+      "url": "https://getshelfd.app/ips/ribodiary/series/ribodiary-forest-gathering-day-series-figures",
+      "publisher": "Shelfd",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "partial",
+      "note": "有联盟链接；Out of stock与估算全套价不是净销量，不采用隐藏款2.5倍估价"
+    },
+    {
+      "id": "R12",
+      "title": "英国官网对应商品页",
+      "url": "https://www.popmart.com/gb/products/ribodiary-forest-gathering-day-series-figures/46aec911-4bb3-4553-a903-466e84aa6a24",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "partial",
+      "note": "仅见Please select an option，未读出明确可购/缺货；第三方缺货未获直接确认"
+    },
+    {
+      "id": "R13",
+      "title": "群像人设及载体发布稿",
+      "url": "https://www.freestyle666.com/m/view.php?aid=30229",
+      "publisher": "freestyle潮流网",
+      "published": "2026-10-27",
+      "observed": "2026-10-31",
+      "access": "full",
+      "note": "公关稿性质，设定/功能为品牌自述的媒体转述；非独立用户实测"
+    },
+    {
+      "id": "R14",
+      "title": "毛绒挂件中国售价与发售公告",
+      "url": "https://www.sina.cn/news/detail/5357250022746194.html",
+      "publisher": "POPMART泡泡玛特认证账号",
+      "published": "2026-10-23",
+      "observed": "2026-10-31",
+      "access": "partial",
+      "note": "主帖与可见相关帖子分开，不转录其他IP和投资内容"
+    },
+    {
+      "id": "R15",
+      "title": "设计师姓名线索的AI汇编",
+      "url": "https://post.smzdm.com/p/aggrpx0m/",
+      "publisher": "什么值得买AIGC汇编",
+      "published": "2026-06-29",
+      "observed": "2026-10-31",
+      "access": "partial",
+      "note": "页面明确内容由AI生成；不采用作者姓名、全网无差评、其他IP销售数字等作为事实"
+    },
+    {
+      "id": "R16",
+      "title": "日文作家博客候选",
+      "url": "https://ribonetta.blog133.fc2.com/",
+      "publisher": "ribo",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "blocked",
+      "note": "检索摘要有羊毛毡创作与旧书名；打开重定向循环。无法凭此把该作家确认成RiboDiary作者"
+    },
+    {
+      "id": "R17",
+      "title": "日文官方毛绒挂件规格",
+      "url": "https://www.popmart.com/jp/pop-now/box-set/ribodiary-forest-gathering-day-series-plush-doll-pendant/1e0e1c16-f5e9-4ae5-a242-69566a89fe78",
+      "publisher": "POP MART Japan",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "snippet_only",
+      "note": "搜索可见规格，打开不可访问；原产国等不移用至美国SKU"
+    },
+    {
+      "id": "R18",
+      "title": "已有雪糕发布线索",
+      "url": "https://weibo.com/2/detail/5334004346916539",
+      "publisher": "POPMART泡泡玛特认证账号",
+      "published": null,
+      "observed": "2026-10-31",
+      "access": "partial",
+      "note": "正文显示8月20日及9月25日，年份未显；不单凭此锁定全IP首售日"
+    },
+    {
+      "id": "R19",
+      "title": "韩国媒体近期发布",
+      "url": "https://m.ktnews.com/news/articleView.html?idxno=149788",
+      "publisher": "韩国纤维新闻",
+      "published": "2026-10-30",
+      "observed": "2026-10-31",
+      "access": "snippet_only",
+      "note": "摘要可读，正文403；作为发布传播线索，不计第二类独立需求证据"
+    },
+    {
+      "id": "N01",
+      "title": "美国官网手办发售信息复核",
+      "url": "https://www.popmart.com/us/pop-now/set/1488",
+      "publisher": "POP MART",
+      "published": null,
+      "observed": "2026-11-01",
+      "access": "partial",
+      "note": "打开正文发售日期和材料；价格需结合前日对应集合；不推出当前可售或净销量。"
+    },
+    {
+      "id": "N02",
+      "title": "独立讨论线程本轮重读",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1xbdmcg/is_this_a_new_ip/",
+      "publisher": "Reddit / KitchenLoan6",
+      "published": "2026-10-21",
+      "observed": "2026-11-01",
+      "access": "partial",
+      "note": "主线程打开页仍显示10d ago，与日历推进不同步；相对时间不换算成新增评论绝对日。只复核既有六位行为样本，不新计人数，不展开隐藏回复或相关推荐。"
+    },
+    {
+      "id": "N03",
+      "title": "CHOUCHOU×gubigubi秋日活动原帖",
+      "url": "https://www.sina.cn/news/detail/5356880315548319.html",
+      "publisher": "名创优品认证账号",
+      "published": "2026-10-22",
+      "observed": "2026-11-01",
+      "access": "partial",
+      "note": "主帖活动10/25–11/21；页面下方其他转发不作为活动证据。仅营销事件，不代表销售或参与量。"
+    },
+    {
+      "id": "N04",
+      "title": "CHOUCHOU首发与自有艺术家IP口径",
+      "url": "https://miniso.cn/brand/news_201.html",
+      "publisher": "MINISO",
+      "published": null,
+      "observed": "2026-11-01",
+      "access": "snippet_only",
+      "note": "搜索摘要明确自有艺术家IP及李宇春首席创意官；正文打开超时。属于旧背景，不当作7天热点，不等于合同或完整著作权文件。"
+    },
+    {
+      "id": "N05",
+      "title": "PUPPET SUNSUN常设店整理券公告",
+      "url": "https://shop.chocolate-inc.com/blogs/puppet-sunsun-store-news/20261026",
+      "publisher": "CHOCOLATE",
+      "published": "2026-10-26",
+      "observed": "2026-11-01",
+      "access": "full",
+      "note": "11/20–29涩谷店预预约，10/27–11/2申请；因应混杂为主办方预期，不当作实际人数。"
+    },
+    {
+      "id": "N06",
+      "title": "PUPPET SUNSUN常设店官方网站",
+      "url": "https://shop.chocolate-inc.com/pages/puppet-sunsun-store",
+      "publisher": "CHOCOLATE",
+      "published": null,
+      "observed": "2026-11-01",
+      "access": "partial",
+      "note": "读取文字100件以上商品与门店；商品海报未逐图打开，不作视觉断言。"
+    },
+    {
+      "id": "N07",
+      "title": "Hello Kitty Lounge活动",
+      "url": "https://www.sanrio.co.jp/news/spots/kt-event-20261008/",
+      "publisher": "Sanrio",
+      "published": "2026-10-08",
+      "observed": "2026-11-01",
+      "access": "partial",
+      "note": "10/28–11/8活动，生日系列10/29发售、会场10/28先行；原页发布日期不是本周。"
+    },
+    {
+      "id": "N08",
+      "title": "三丽鸥新闻页面访问榜",
+      "url": "https://p-api.sanrio.co.jp/news/",
+      "publisher": "Sanrio",
+      "published": null,
+      "observed": "2026-11-01",
+      "access": "partial",
+      "note": "页内称过去7天访问汇总；所见列表含Lounge与抽奖页，无点击数。仅站内网页访问口径，排名会更新，不作全网IP热榜。"
+    },
+    {
+      "id": "N09",
+      "title": "韩国百货快闪报道",
+      "url": "https://www.yna.co.kr/amp/view/AKR20261030088100030",
+      "publisher": "Yonhap / 조민정",
+      "published": "2026-10-31",
+      "observed": "2026-11-01",
+      "access": "partial",
+      "note": "仅采K-MONSTERS首个韩国线下快闪截至11/3的事件线索，图片为百货提供；无到访或销量数据。"
+    },
+    {
+      "id": "N10",
+      "title": "PUPPET SUNSUN首次常设店旧公告",
+      "url": "https://puppetsunsun.com/blogs/ニュース/初の常設店舗-puppet-sunsun-store-がオープンします",
+      "publisher": "PUPPET SUNSUN",
+      "published": "2026-09-02",
+      "observed": "2026-11-01",
+      "access": "full",
+      "note": "11月预计开店属于9月旧公告；不因新抓取时间变成新发布。"
+    },
+    {
+      "id": "D01",
+      "title": "美国官方手办发售页",
+      "url": "https://www.popmart.com/us/pop-now/set/1488",
+      "published": null,
+      "event_date": "2026-10-29",
+      "access": "partial",
+      "note": "发售时间原文17:00 PST；只核日期/规格，不证明销量或当前库存",
+      "observed": "2026-11-02",
+      "publisher": "POP MART"
+    },
+    {
+      "id": "D02",
+      "title": "独立收藏线程复核",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1xbdmcg/is_this_a_new_ip/",
+      "published": "2026-10-21",
+      "event_date": null,
+      "access": "partial",
+      "note": "仍显示10d ago等缓存相对日期，不换算为11/2新评论；只重读既有成员偏好与交换自述，不新增样本数，不展开隐藏回复",
+      "observed": "2026-11-02",
+      "publisher": "原链接发布者"
+    },
+    {
+      "id": "D03",
+      "title": "MINISO CHOUCHOU×gubigubi官方原帖",
+      "url": "https://www.sina.cn/news/detail/5356880315548319.html",
+      "published": "2026-10-22",
+      "event_date": "2026-10-25/2026-11-21",
+      "access": "partial",
+      "note": "营销活动不代表独立需求；名创自有艺术家IP背景仍沿用旧官方摘要，完整权属未核，不推定属于TOP TOY",
+      "observed": "2026-11-02",
+      "publisher": "原链接发布者"
+    },
+    {
+      "id": "D04",
+      "title": "PUPPET SUNSUN常设店整理券公告",
+      "url": "https://shop.chocolate-inc.com/blogs/puppet-sunsun-store-news/20261026",
+      "published": "2026-10-26",
+      "event_date": "2026-10-27/2026-11-02",
+      "access": "full",
+      "note": "涩谷11/20–29预预约；申请截至11/2 22:00，不证明申请人数或到店热度",
+      "observed": "2026-11-02",
+      "publisher": "原链接发布者"
+    },
+    {
+      "id": "D05",
+      "title": "玉桂狗丹铁合作原始公告",
+      "url": "https://www.willer.co.jp/news/press/2026/1001_7214",
+      "published": "2026-10-01",
+      "event_date": "2026-11-01/2027-01-31",
+      "access": "full",
+      "note": "旧公告、本周开始事件；普通商品销售计划11/2 14:00，早于该时刻不称已开售；无销售或到访数据",
+      "observed": "2026-11-02",
+      "publisher": "原链接发布者"
+    },
+    {
+      "id": "D06",
+      "title": "韩国K-MONSTERS百货快闪报道",
+      "url": "https://www.yna.co.kr/amp/view/AKR20261030088100030",
+      "published": "2026-10-31",
+      "event_date": null,
+      "access": "partial",
+      "note": "快闪截止11/3，开始日未知；百货提供信息，无销量或到访量；多家同事转载不重复计独立线索",
+      "observed": "2026-11-02",
+      "publisher": "原链接发布者"
+    },
+    {
+      "id": "T01",
+      "title": "美国官方手办发售页",
+      "url": "https://www.popmart.com/us/pop-now/set/1488",
+      "publisher": "POP MART",
+      "published": null,
+      "event_date": "2026-10-29",
+      "observed": "2026-11-03",
+      "access": "partial",
+      "note": "读取日期规格；不证明库存或销量。"
+    },
+    {
+      "id": "T02",
+      "title": "独立收藏讨论复核",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1xbdmcg/is_this_a_new_ip/",
+      "publisher": "Reddit / KitchenLoan6",
+      "published": "2026-10-21",
+      "event_date": null,
+      "observed": "2026-11-03",
+      "access": "partial",
+      "note": "重读原主线程。检索页缓存2天，仍显示10d ago；不把相对日期写成今日新增，不新增样本数，不展开隐藏回复。成员偏好/交换是自述而非成交。"
+    },
+    {
+      "id": "T03",
+      "title": "名创CHOUCHOU秋日联名原帖",
+      "url": "https://www.sina.cn/news/detail/5356880315548319.html",
+      "publisher": "名创优品认证账号",
+      "published": "2026-10-22",
+      "event_date": "2026-10-25/2026-11-21",
+      "observed": "2026-11-03",
+      "access": "partial",
+      "note": "单个活动家族，没有独立需求证据。"
+    },
+    {
+      "id": "T04",
+      "title": "名创CHOUCHOU自有IP背景原文",
+      "url": "https://www.miniso.cn/brand/news_201.html",
+      "publisher": "MINISO",
+      "published": null,
+      "event_date": "8月22日（正文）",
+      "observed": "2026-11-03",
+      "access": "partial",
+      "note": "本轮正文可读，补足先前摘要访问缺口；官方称自有艺术家IP及李宇春首席创意官，不等于取得完整合同。官网索引标2026-08-20，正文写8月22日开业，日期冲突并列，不拼成确认首创日期。旧背景不当作本周热点。"
+    },
+    {
+      "id": "T05",
+      "title": "PUPPET SUNSUN整理券公告",
+      "url": "https://shop.chocolate-inc.com/blogs/puppet-sunsun-store-news/20261026",
+      "publisher": "CHOCOLATE",
+      "published": "2026-10-26",
+      "event_date": "2026-10-27/2026-11-02",
+      "observed": "2026-11-03",
+      "access": "full",
+      "note": "申请期限已过，11/6拟公布抽选；11/20–29涩谷预预约，不等于已开店或实际到店人数。"
+    },
+    {
+      "id": "T06",
+      "title": "玉桂狗丹铁合作原始公告",
+      "url": "https://www.willer.co.jp/news/press/2026/1001_7214",
+      "publisher": "WILLER",
+      "published": "2026-10-01",
+      "event_date": "2026-11-01/2027-01-31",
+      "observed": "2026-11-03",
+      "access": "partial",
+      "note": "公告正文文字可读，事件开始与旧发布日期分开；无到访或销售结果。"
+    },
+    {
+      "id": "T07",
+      "title": "韩国K-MONSTERS快闪线索",
+      "url": "https://www.yna.co.kr/amp/view/AKR20261030088100030",
+      "publisher": "Yonhap",
+      "published": "2026-10-31",
+      "event_date": null,
+      "observed": "2026-11-03",
+      "access": "partial",
+      "note": "百货提供信息，快闪截止11/3，开始日未核；不与THE MONSTERS混淆，无实际需求数据。"
+    },
+    {
+      "id": "T08",
+      "title": "第三方标注背包发售取消",
+      "url": "https://cardboardalpha.com/drops/ribodiary-forest-gathering-day-series-backpack-bearibo-3d775813d5",
+      "publisher": "Cardboard Alpha",
+      "published": null,
+      "event_date": "2026-10-23",
+      "observed": "2026-11-03",
+      "access": "partial",
+      "note": "页面有联盟商业关系；历史记录10/23 11:42 UTC称发售前移除并标Cancelled，原定10/29。并非11/3新事件，不能直接当官方停产/停售/失败。"
+    },
+    {
+      "id": "T09",
+      "title": "官方背包详情仍可读",
+      "url": "https://www.popmart.com/us/products/9415/ribodiary-forest-gathering-day-series-backpack-bearibo",
+      "publisher": "POP MART",
+      "published": null,
+      "event_date": "2026-10-29",
+      "observed": "2026-11-03",
+      "access": "partial",
+      "note": "页面有产品名称、约30cm与材料、发售时间。检索缓存2天；可读不代表可购，未读出实时库存。与T08并存，结论为第三方历史追踪未获直接官方取消公告确认。"
+    },
+    {
+      "id": "U01",
+      "title": "RiboDiary机器人商店主题焕新原帖",
+      "url": "https://www.sina.cn/news/detail/5361107939101367.html",
+      "publisher": "POPMART泡泡玛特认证账号",
+      "published": "2026-11-03",
+      "event_date": "2026-11-03起陆续焕新",
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "只读主帖文字，实际以线下点位为准；未逐图打开帖内照片，不描述装饰细节，无点位数、到访或销量。"
+    },
+    {
+      "id": "U02",
+      "title": "中国用户目标小羊与端盒自述",
+      "url": "https://www.sina.cn/news/detail/5360419786984961.html",
+      "publisher": "一直啊游到海水变蓝",
+      "published": "2026-11-01",
+      "event_date": null,
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "主帖自述最后抽到小羊、舍友端盒；无订单，赠礼/舍友关系仅本人说法。新浪标题加了全网断货，正文未提供此证据，本研究不采纳。下方推荐内容不计该样本，不据此判断商业合作性质。未逐图看照片。"
+    },
+    {
+      "id": "U03",
+      "title": "原独立收藏讨论复核",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1xbdmcg/is_this_a_new_ip/",
+      "publisher": "Reddit / KitchenLoan6",
+      "published": "2026-10-21",
+      "event_date": null,
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "缓存3天、相对日期仍显示10d ago，不换算成今日新增。保留原6位目的抽样，不新增论坛样本，不展开隐藏回复。"
+    },
+    {
+      "id": "U04",
+      "title": "官方挂件SKU与参考图来源",
+      "url": "https://www.popmart.com/us/products/9418/ribodiary-forest-gathering-day-series-plush-doll-pendant",
+      "publisher": "POP MART",
+      "published": null,
+      "event_date": "2026-10-29 17:00 PST（原文）",
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "身高13.5–14.5cm口径不含耳/配件等；规格与实际当前库存分开。官方V04原图本轮重新下载、打开，仍1200×1200。"
+    },
+    {
+      "id": "U05",
+      "title": "PUPPET SUNSUN挂件软糖官方SKU",
+      "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4570117926495000",
+      "publisher": "Bandai",
+      "published": null,
+      "event_date": "2026-11-16计划发售",
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "385JPY含税、全8种，其中1种植绒。是未来发售计划，非已售罄、销量或新品增长。"
+    },
+    {
+      "id": "U06",
+      "title": "PUPPET SUNSUN新品近期报道",
+      "url": "https://www.inside-games.jp/article/2026/11/02/190220.html",
+      "publisher": "Inside",
+      "published": "2026-11-02",
+      "event_date": "2026-11-16计划发售",
+      "observed": "2026-11-04",
+      "access": "snippet_only",
+      "note": "本轮只读搜索摘要；与U05同一新品家族，不重复计独立需求。"
+    },
+    {
+      "id": "U07",
+      "title": "TOPTOY Nommi官方栏目",
+      "url": "https://gotoptoy.com/pages/nommi",
+      "publisher": "TOPTOY",
+      "published": null,
+      "event_date": null,
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "导航将Nommi列于Original Characters，页面标TOPTOY x NOMMI；这是官网分类，不等于完整著作权/合同核验，不自动称归名创优品本体。"
+    },
+    {
+      "id": "U08",
+      "title": "Nommi都市奇遇近期新品线索",
+      "url": "https://www.mowanmi.com/post/8520.html",
+      "publisher": "模玩迷",
+      "published": "2026-11-03",
+      "event_date": "2026-10-30（媒体转述）",
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "媒体转述TOPTOY五关节系列，单抽199CNY；未获本款官方原始发售公告确认，不将渠道挂名认成迪士尼或Nommi完整权属。"
+    },
+    {
+      "id": "U09",
+      "title": "三丽鸥FRAGARIA MEMORIES新章节官方计划",
+      "url": "https://fragariamemories.sanrio.co.jp/news/post-317/",
+      "publisher": "Sanrio",
+      "published": "2026-10-21",
+      "event_date": "11/4声剧、11/5 MV、11/6起联动计划",
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "计划日期不等于本轮已播放/确认上线；未打开音视频，也没有观看量或用户讨论。角色群与两名成员不重复排期。"
+    },
+    {
+      "id": "U10",
+      "title": "韩国便利店再婚皇后联动报道线索",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/02/2026110200034.amp.html",
+      "publisher": "NewDaily",
+      "published": "2026-11-02",
+      "event_date": null,
+      "observed": "2026-11-04",
+      "access": "snippet_only",
+      "note": "搜索摘要见便利店联动，打开不可访问；另一媒体亦502。无独立需求样本；仅韩国市场观察线索。旧2024年残망루피快闪检索结果被排除，不伪作2026新事件。"
+    },
+    {
+      "id": "U11",
+      "title": "再婚皇后WEBTOON官方署名背景",
+      "url": "https://www.webtoons.com/en/fantasy/the-remarried-empress/list?title_no=2135",
+      "publisher": "NAVER WEBTOON",
+      "published": null,
+      "event_date": null,
+      "observed": "2026-11-04",
+      "access": "partial",
+      "note": "只核系列身份与SUMPUL/HereLee/Alphatart分工；未读漫画章节，不把累计页面指标当近期热度或便利店销量，未据此确认完整联名权利链。"
+    },
+    {
+      "id": "W01",
+      "title": "日本官方乐天店店内榜单",
+      "url": "https://www.rakuten.co.jp/pop-mart-japan/",
+      "publisher": "POP MART JAPAN 楽天市場店",
+      "published": null,
+      "observed": "2026-11-05",
+      "access": "partial",
+      "note": "后一次打开显示11/05更新、10/29—11/04集计，挂件第1、手办第2。首次打开曾显示11/04旧快照；不拼成趋势。店内榜单算法、订单、销售额和数量未披露，不是乐天全站或全网榜。",
+      "event_date": [
+        "2026-10-29",
+        "2026-11-04"
+      ]
+    },
+    {
+      "id": "W02",
+      "title": "官方MV剧照发布主帖",
+      "url": "https://www.sina.cn/news/detail/5361560924718243.html",
+      "publisher": "POPMART泡泡玛特认证账号",
+      "published": "2026-11-04",
+      "observed": "2026-11-05",
+      "access": "partial",
+      "note": "只读主帖正文，图片及MV未观看；不能描述逐帧剧情或听感。没有把推荐区其他IP和投资信息纳入。",
+      "event_date": "2026-11-04"
+    },
+    {
+      "id": "W03",
+      "title": "官方瑞宝城市乐园亮相公告",
+      "url": "https://www.sina.cn/news/detail/5311128618144931.html",
+      "publisher": "POPMART泡泡玛特认证账号",
+      "published": "2026-06-18",
+      "observed": "2026-11-05",
+      "access": "partial",
+      "note": "实际打开主帖正文。6/18起于城市乐园泡泡街亮相和好友见面会；不是作者创作日、全IP首公开或首商品销售日。未观看原帖视频。",
+      "event_date": "2026-06-18"
+    },
+    {
+      "id": "W04",
+      "title": "官方单曲和MV上线公告",
+      "url": "https://www.sina.cn/news/detail/5359326212657081.html",
+      "publisher": "POPMART泡泡玛特认证账号",
+      "published": "2026-10-29",
+      "observed": "2026-11-05",
+      "access": "partial",
+      "note": "官方自述腾讯音乐已上线，未播放音视频，不验证播放量、剧情或促购。",
+      "event_date": "2026-10-29"
+    },
+    {
+      "id": "W05",
+      "title": "PUPPET SUNSUN挂件食玩计划",
+      "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4570117926495000",
+      "publisher": "Bandai",
+      "published": null,
+      "observed": "2026-11-05",
+      "access": "partial",
+      "note": "计划11/16发售、385JPY含税、8种其中1种植绒；只核商品计划，不视作已售或需求。",
+      "event_date": "2026-11-16"
+    },
+    {
+      "id": "W06",
+      "title": "TOP TOY广岛PARCO开店计划",
+      "url": "https://hiroshima.parco.jp/newrenewal/detail/?id=38984",
+      "publisher": "广岛PARCO",
+      "published": null,
+      "observed": "2026-11-05",
+      "access": "partial",
+      "note": "11/6计划开店，正文提到Nommi原创角色商品；不是Nommi独立销量或权利合同。",
+      "event_date": "2026-11-06"
+    },
+    {
+      "id": "W07",
+      "title": "TOPTOY的Nommi栏目",
+      "url": "https://gotoptoy.com/pages/nommi",
+      "publisher": "TOPTOY",
+      "published": null,
+      "observed": "2026-11-05",
+      "access": "partial",
+      "note": "Original Characters导航将Nommi与Licensed Characters区分；看见同名五关节联名SKU链接，未打开该SKU详情。仅属官方自述分类，著作权和签约合同未核；不等同MINISO本体所有。",
+      "event_date": null
+    },
+    {
+      "id": "W08",
+      "title": "Nommi疯狂动物城新品报道",
+      "url": "https://mowanmi.com/post/8520.html",
+      "publisher": "模玩迷",
+      "published": "2026-11-03",
+      "observed": "2026-11-05",
+      "access": "partial",
+      "note": "媒体称10/30发售、五关节、8常规1隐藏、199CNY/1592CNY。官网栏目存在对应英文SKU但未逐项核中国规格；独立需求不足。",
+      "event_date": "2026-10-30"
+    },
+    {
+      "id": "W09",
+      "title": "三丽鸥FRAGARIA新内容日程",
+      "url": "https://fragariamemories.sanrio.co.jp/news/post-317/",
+      "publisher": "Sanrio",
+      "published": "2026-10-21",
+      "observed": "2026-11-05",
+      "access": "partial",
+      "note": "计划11/4声音剧、11/5双人MV、11/6—23联动。只读原计划，未验证今天MV已经上线或观看，不视为需求。",
+      "event_date": [
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06"
+      ]
+    },
+    {
+      "id": "W10",
+      "title": "韩国LITTLE RIIZE minini发布线索",
+      "url": "https://www3.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05385766645642440",
+      "publisher": "Edaily",
+      "published": "2026-11-04",
+      "observed": "2026-11-05",
+      "access": "snippet_only",
+      "note": "搜索摘要称IPX/SM合作与11/6前预售；正文打开不可访问。多家媒体同一发布稿不算独立需求；权属合同和原始商品公告待核。",
+      "event_date": "2026-11-04"
+    },
+    {
+      "id": "Q01",
+      "title": "日本官方乐天店榜单续查",
+      "url": "https://www.rakuten.co.jp/pop-mart-japan/",
+      "publisher": "POP MART JAPAN",
+      "published": null,
+      "event_date": [
+        "2026-10-30",
+        "2026-11-05"
+      ],
+      "observed": "2026-11-06",
+      "access": "partial",
+      "note": "11/06更新、10/30—11/05集计，挂件第1、手办第2；算法、销量、GMV未披露。非全站/全网排名，滚动重叠窗口不作增长率。"
+    },
+    {
+      "id": "Q02",
+      "title": "官方账号近期发布续查",
+      "url": "https://www.sina.cn/media/1726303567",
+      "publisher": "POPMART泡泡玛特",
+      "published": null,
+      "event_date": "2026-11-04",
+      "observed": "2026-11-06",
+      "access": "partial",
+      "note": "可读11/4瑞宝MV剧照、11/3机器人商店更新正文，图片/MV未观看；同期其他IP不移用数字。"
+    },
+    {
+      "id": "Q03",
+      "title": "TOPTOY圣诞新品自述",
+      "url": "https://gotoptoy.com/ja/blogs/articles/2026-christmas-blind-boxes-nommi-maymei-piropiroo",
+      "publisher": "TOPTOY",
+      "published": null,
+      "event_date": "2026-11-01",
+      "observed": "2026-11-06",
+      "access": "partial",
+      "note": "官网博客自述Nommi/MayMei/Piropiroo 11/1上线；称自有/内部设计仅属官方自述，未见合同，不等同名创本体所有。Nommi29.99USD为本页地区口径；不采用最可靠礼物等营销评价。"
+    },
+    {
+      "id": "Q04",
+      "title": "MR. MEN LITTLE MISS咖啡店公告",
+      "url": "https://corporate.sanrio.co.jp/news/20261105.html",
+      "publisher": "Sanrio",
+      "published": "2026-11-05",
+      "event_date": "2026-11-06",
+      "observed": "2026-11-06",
+      "access": "partial",
+      "note": "核实标题和开店公告，不证明实际到店、成交或今天开业执行状态；三丽鸥单列且跳过小红书。"
+    },
+    {
+      "id": "Q05",
+      "title": "PUPPET SUNSUN入场预约公告续查",
+      "url": "https://shop.chocolate-inc.com/blogs/puppet-sunsun-store-news/20261026",
+      "publisher": "CHOCOLATE",
+      "published": "2026-10-26",
+      "event_date": [
+        "2026-11-06",
+        "2026-11-20"
+      ],
+      "observed": "2026-11-06",
+      "access": "partial",
+      "note": "10/27—11/2申请已截止，11/6 17:00左右计划公布中签结果；本轮早间未到该时刻、不查个人结果。不把预约制当实际人流或销量。"
+    },
+    {
+      "id": "Q06",
+      "title": "韩国LITTLE RIIZE minini媒体全文主文",
+      "url": "https://www.peoplegate.co.kr/2026/11/news-ipx-riize-little-riize-minini-magic-characters-2026.html",
+      "publisher": "PEOPLEGATE",
+      "published": "2026-11-04",
+      "event_date": "2026-11-06",
+      "observed": "2026-11-06",
+      "access": "partial",
+      "note": "实读主文，称IPX/SM合作和11/6前预售；本文转述粉丝反应不是本轮直接用户采样，同稿媒体不算独立需求。"
+    },
+    {
+      "id": "J01",
+      "title": "日本官方乐天店11/7榜单",
+      "url": "https://www.rakuten.co.jp/pop-mart-japan/",
+      "publisher": "POP MART JAPAN",
+      "published": null,
+      "event_date": [
+        "2026-10-31",
+        "2026-11-06"
+      ],
+      "observed": "2026-11-07",
+      "access": "partial",
+      "note": "11/7更新；挂件第1，前8名没有本群手办。没有完整后续榜单，不填手办名次。单店算法与销量未知，不把滚动名次变化判为需求衰退。"
+    },
+    {
+      "id": "J02",
+      "title": "拉脱维亚地区挂件官方详情",
+      "url": "https://www.popmart.com/en-LV/products/ribodiary-forest-gathering-day-series-plush-doll-pendant/2aac501c-e38f-47b4-8f0a-a037b4f1bcca",
+      "publisher": "POP MART",
+      "published": null,
+      "event_date": null,
+      "observed": "2026-11-07",
+      "access": "partial",
+      "note": "正文产品规格可读，选项未加载。搜索摘要LAUNCH TIME 11/06/2026 11:00:00未在正文核到，地区日期格式/时区也未核，不写补货、全IP首售或售罄。"
+    },
+    {
+      "id": "J03",
+      "title": "官方近期内容聚合页",
+      "url": "https://www.sina.cn/media/1726303567",
+      "publisher": "POPMART泡泡玛特",
+      "published": null,
+      "event_date": "2026-11-03",
+      "observed": "2026-11-07",
+      "access": "partial",
+      "note": "本轮只读可见聚合正文；搜索索引含11/3群像问候，不把11/6其他IP公告算瑞宝证据，未播放MV或查看图片。"
+    },
+    {
+      "id": "J04",
+      "title": "TOPTOY圣诞礼物清单",
+      "url": "https://gotoptoy.com/blogs/articles/2026-christmas-wishlist-blind-box-gifts-that-arrive-on-time",
+      "publisher": "TOPTOY",
+      "published": null,
+      "event_date": null,
+      "observed": "2026-11-07",
+      "access": "partial",
+      "note": "品牌自述Nommi美国店现货及29.99USD，不采信所谓最可靠礼物或配送必达为独立效果证据。Original与Licensed栏目分列；未核版权合同，不能认定名创本体持有。"
+    },
+    {
+      "id": "J05",
+      "title": "三丽鸥11月第三周新品计划",
+      "url": "https://www.sanrio.co.jp/news/goods/goods-release-202611-week3/",
+      "publisher": "Sanrio",
+      "published": "2026-11-06",
+      "event_date": [
+        "2026-11-12",
+        "2026-11-13"
+      ],
+      "observed": "2026-11-07",
+      "access": "snippet_only",
+      "note": "搜索摘要可见圣诞、礼物手巾、钱包、贴纸交换系列计划；正文打开受阻，不冒充全文，不当销量。"
+    },
+    {
+      "id": "J06",
+      "title": "PUPPET SUNSUN食玩计划续查",
+      "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4570117926495000",
+      "publisher": "Bandai",
+      "published": null,
+      "event_date": "2026-11-16",
+      "observed": "2026-11-07",
+      "access": "partial",
+      "note": "正文规格可读：385JPY含税、8种其中1种植绒；尚未到发售日，不代表近期销量。"
+    },
+    {
+      "id": "J07",
+      "title": "韩国DURIDU展会介绍",
+      "url": "https://ilovecharacter.com/news/newsview.php?ncode=1065577851207753",
+      "publisher": "I Love Character",
+      "published": "2026-10-28",
+      "event_date": [
+        "2026-11-27",
+        "2026-11-29"
+      ],
+      "observed": "2026-11-07",
+      "access": "partial",
+      "note": "实读主文，介绍情绪妖精群像和DDP参展计划；无直接用户或销售证据。文章在30天窗口内、非近7天，页面顶部站点日期不当发布日期；图片未打开，不做逐图断言。"
+    }
+  ],
+  "archive": "research/ribodiary/2026-11-07/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-07/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-07/",
+  "prompt_validation": {
+    "status": "partial",
+    "mode": "旧英文附图V2有限身份近似；中文附图V17/V18仍revise",
+    "scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
+    "strict_flat_fill": "not_passed",
+    "text_only": "English V10/V11 tested_not_passed",
+    "stability": "one_repeat_observed_differences_not_validated",
+    "tests": "research/ribodiary/2026-11-07/prompt-tests.json",
+    "checkpoint": "research/ribodiary/2026-11-07/selection-and-progress.json",
+    "usable_prior_test": "ribodiary-bearibo-flat-ref-v2",
+    "chinese_reference": "V6/V7/V17/V18 tested_not_passed",
+    "reference_latest": "Chinese V17/V18 revise"
+  }
+}

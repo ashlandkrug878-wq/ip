@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-07",
+  "web_queries": [
+    "RiboDiary 瑞宝 2026 11月6日",
+    "名创优品 TOPTOY 潮玩 2026 11月7日",
+    "サンリオ パペットスンスン 2026年11月7日 新商品",
+    "캐릭터 인형 팝업 2026 11월7일",
+    "\"RiboDiary\" \"2026-11-06\"",
+    "\"캐릭터\" \"2026.11.06\" 팝업 인형",
+    "\"NOMMI\" \"2026\" \"November\" Christmas"
+  ],
+  "engines": [
+    "system1 recent7d",
+    "system2"
+  ],
+  "xiaohongshu": [
+    {
+      "query": "RiboDiary 品牌介绍",
+      "executed": false,
+      "status": "blocked",
+      "read_pages": 0,
+      "accounts": [],
+      "reason": "浏览器新连接Unknown tool(browser.js)，停止依赖，不假装站内已搜"
+    },
+    {
+      "query": "RiboDiary 产品汇总",
+      "executed": false,
+      "status": "blocked",
+      "read_pages": 0,
+      "accounts": [],
+      "reason": "浏览器新连接Unknown tool(browser.js)，停止依赖，不假装站内已搜"
+    }
+  ],
+  "sampling": "没有新增直接用户主帖；保留10/31论坛与11/4中文自述原观察日。",
+  "blocked_urls": [
+    "https://www.sanrio.co.jp/news/goods/goods-release-202611-week3/",
+    "https://torecabiyori.com/sunsun/"
+  ],
+  "date_cautions": "LV官方页摘要发售时间未在正文核到；韩国旧缓存列表不当今天新文。"
+}

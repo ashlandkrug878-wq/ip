@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-07",
+  "window_7d": [
+    "2026-11-01",
+    "2026-11-07"
+  ],
+  "window_30d": [
+    "2026-10-09",
+    "2026-11-07"
+  ],
+  "selected": "ribodiary",
+  "reason": "最新平面未过检查点优先续作；不是今日最热门。官方内容/供给与店内榜为不同类型线索，历史独立用户自述仅弱补充。",
+  "new_studies": 0,
+  "count_before": 43,
+  "count_after": 43,
+  "dedupe": "重新取得43卡及别名；Pochacco已有；瑞宝及其群像不拆新对象。",
+  "qualified_candidates": [
+    {
+      "name": "RiboDiary",
+      "sources": [
+        "J01",
+        "J02",
+        "J03",
+        "U02"
+      ],
+      "strength": "官方规格可核、榜单范围窄，历史用户证据弱"
+    }
+  ],
+  "watchlist_not_qualified": [
+    {
+      "name": "Nommi",
+      "category": "名创相关／TOPTOY单列",
+      "sources": [
+        "J04"
+      ],
+      "reason": "品牌供给/礼物营销自述，无独立需求，不由渠道推版权"
+    },
+    {
+      "name": "Sanrio圣诞/贴纸交换系列",
+      "category": "三丽鸥",
+      "sources": [
+        "J05"
+      ],
+      "reason": "11/6发布的未来供给摘要，正文受阻，不能称当日热门"
+    },
+    {
+      "name": "PUPPET SUNSUN",
+      "category": "其他日本IP",
+      "sources": [
+        "J06"
+      ],
+      "reason": "11/16食玩计划；第三方抽签汇编受阻，不采纳当全量热度"
+    },
+    {
+      "name": "DURIDU 두리두",
+      "category": "韩国",
+      "sources": [
+        "J07"
+      ],
+      "reason": "10/28介绍和11/27—29展会计划，30天窗口弱线索，无独立需求"
+    }
+  ],
+  "limitations": "仅1个续作对象；其余4项是未达证据门槛的观察线索，不伪造3—5个热门候选。",
+  "checkpoint": {
+    "subject_id": "ribodiary",
+    "status": "strict_flat_fill_not_passed",
+    "tests_added": [
+      17,
+      18
+    ],
+    "target": "V04同款可见全身",
+    "next_action": "同款继续解决额脸/嘴/色块/缝线偏差，不进入3D/毛绒"
+  }
+}
