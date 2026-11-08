@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-08",
+  "web_queries": [
+    "RiboDiary 瑞宝 2026 11月8日",
+    "名创优品 TOPTOY Nommi 2026 11月 新品",
+    "サンリオ パペットスンスン 2026 11月8日 新商品",
+    "캐릭터 인형 팝업 2026 11월8일",
+    "\"RiboDiary\" \"November\" \"2026\" \"8\"",
+    "\"Nommi\" \"2026\" \"November\" Christmas",
+    "\"캐릭터\" \"2026.11.06\" 팝업 인형",
+    "\"瑞宝\" \"2026\" \"11月\" 退坑 差评",
+    "\"RiboDiary\" review disappointment",
+    "\"리보다이어리\" 리뷰",
+    "\"RiboDiary\" \"レビュー\""
+  ],
+  "engines": [
+    "system1 recent7d/30d",
+    "system2"
+  ],
+  "xiaohongshu": [
+    {
+      "query": "RiboDiary 品牌介绍",
+      "executed": false,
+      "status": "blocked",
+      "read_pages": 0,
+      "accounts": [],
+      "reason": "当前新浏览器连接Unknown tool(browser.js)，停止依赖，不绕过，不冒称站内已搜"
+    },
+    {
+      "query": "RiboDiary 产品汇总",
+      "executed": false,
+      "status": "blocked",
+      "read_pages": 0,
+      "accounts": [],
+      "reason": "当前新浏览器连接Unknown tool(browser.js)，停止依赖，不绕过，不冒称站内已搜"
+    }
+  ],
+  "sanrio_exception": "用户2026-10-28排除小红书，不采集",
+  "sampling": "本轮新增直接实读用户0；保留原观察日。K09仅摘要，不计实读样本。",
+  "blocked_urls": [
+    {
+      "url": "https://m.ktnews.com/news/articleView.html?idxno=149977",
+      "reason": "403，只有搜索摘要"
+    },
+    {
+      "url": "https://shop.tiktok.com/us/pdp/pop-mart-ribodiary-forest-gathering-day-series-figures-blind-box/1732794008400139073",
+      "reason": "Security Check，停止访问"
+    }
+  ],
+  "date_cautions": [
+    "7天11/2—11/8；Nommi 11/1在30天窗口。",
+    "店内榜11/7快照不改为11/8；本轮未读到当前榜。",
+    "韩国日历正文未加载，摘要价/补货按钮未当实时库存。",
+    "ConCall摘要与正文阅读数不同，不推算热度增长。"
+  ]
+}

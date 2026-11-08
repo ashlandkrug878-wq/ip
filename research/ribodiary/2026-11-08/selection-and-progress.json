@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-08",
+  "window_7d": [
+    "2026-11-02",
+    "2026-11-08"
+  ],
+  "window_30d": [
+    "2026-10-10",
+    "2026-11-08"
+  ],
+  "selected": "ribodiary",
+  "reason": "最新明确未过的平面检查点优先续作，不冒称今日最热门。当前官方内容与SKU供给、11/7历史店内榜、历史独立用户自述为不同类型线索；营销供稿不另算需求。",
+  "new_studies": 0,
+  "count_before": 43,
+  "count_after": 43,
+  "dedupe": "从GitHub重取43卡正式名/别名；Pochacco已有。RiboDiary及Bearibo/瑞宝、Peippi等成员不重复；跨地区不重排。",
+  "qualified_candidates": [
+    {
+      "name": "RiboDiary",
+      "category": "泡泡玛特",
+      "sources": [
+        "K01",
+        "K02",
+        "K08",
+        "J01",
+        "U02"
+      ],
+      "strength": "产品/内容自述较强；历史单店榜窄、用户自述弱；无全网排名、销量或增长率",
+      "decision": "同IP检查点续作，未新增"
+    }
+  ],
+  "watchlist_not_qualified": [
+    {
+      "name": "Nommi",
+      "category": "名创相关／TOPTOY单列",
+      "sources": [
+        "K04"
+      ],
+      "event_date": "2026-11-01（品牌自述）",
+      "publication_date": null,
+      "reason": "30天内的圣诞供给/营销，无独立需求；官方称自有不等于已核MINISO本体持有版权"
+    },
+    {
+      "name": "Sanrio圣诞及贴纸交换系列",
+      "category": "三丽鸥",
+      "sources": [
+        "K05"
+      ],
+      "event_date": [
+        "2026-11-12",
+        "2026-11-13"
+      ],
+      "publication_date": "2026-11-06",
+      "reason": "本轮正文已可读，未来商品计划不是近期升温证明；多角色系列不拆新IP，不做小红书"
+    },
+    {
+      "name": "PUPPET SUNSUN",
+      "category": "其他日本",
+      "sources": [
+        "K06"
+      ],
+      "event_date": "2026-11-16（计划）",
+      "publication_date": null,
+      "reason": "385JPY含税食玩供给可核，缺独立需求，尚未发售"
+    },
+    {
+      "name": "PPULBATU 뿔바투",
+      "category": "韩国角色／第三方联名",
+      "sources": [
+        "K07"
+      ],
+      "event_date": null,
+      "publication_date": "2026-11-06",
+      "reason": "近期媒体联名摘要，正文403；未核完整权利链及独立需求，不因POP MART销售即认其原创"
+    }
+  ],
+  "limitations": "仅1个续作对象；另4项未达证据门槛的观察线索不算3—5个热门候选。中文/英文/日韩语搜索已执行；未虚构实时榜单。",
+  "checkpoint": {
+    "subject_id": "ribodiary",
+    "status": "strict_flat_fill_not_passed",
+    "tests_added": [
+      19,
+      20
+    ],
+    "target": "V04同款可见全身，未改目标",
+    "next_action": "继续同款解决渐层、色调、眼内亮点、额脸/嘴形及缝线差异；不得进入3D/毛绒"
+  },
+  "source_families": {
+    "brand_release": [
+      "K01",
+      "K02",
+      "K08"
+    ],
+    "historical_store_rank": [
+      "J01"
+    ],
+    "historical_independent_user": [
+      "U02"
+    ],
+    "unread_quality_lead": [
+      "K09"
+    ]
+  }
+}
