@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhanglinghe-e1",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "胸腔嵌着取景窗的壳兽",
+  "species": "取景窗",
+  "axes": {
+    "archetype": "物件生物，窗框嵌胸",
+    "silhouette": "圆钝壳坐姿，胸口一方窗",
+    "mark": "胸口 · 一扇比脸醒目的直角圆角取景窗",
+    "face": "半垂小黑豆眼，眼距约一个眼宽，极小一字嘴",
+    "emotion": "内收，询问",
+    "fusion": "物件是长出来的结构：取景窗嵌进胸腔成为前轮廓，不是手持的小窗",
+    "material": "主体霜灰短绒，只有窗框是哑光炭黑金属",
+    "palette": "霜灰配炭灰"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "圆钝头嵌在壳顶，几乎无颈，无发",
+  "combo": "霜灰壳身 + 胸嵌取景窗 + 半垂豆眼 + 霜灰对炭灰",
+  "odd": "用来看的窗子长在胸口，比脸更大",
+  "line": "",
+  "why": "外形是壳，真正要对的是窗里那一格有没有落稳。",
+  "spec": {
+    "proportion": "全高约是最大宽的1.15倍，脸占上部26%，窗宽约身宽45%",
+    "outline": "圆钝卵壳，胸口一方圆角矩形窗向前凸出",
+    "volume": "大：壳身；中：取景窗；小：短脚垫",
+    "face": "眼在头高下三分之一，半垂，比窗框更小",
+    "stance": "微侧坐",
+    "structure": "窗框嵌进胸槽，拿掉窗则前轮廓塌陷"
+  },
+  "toy_check": "站得住：坐。物件长进去：窗是前胸结构。特殊材质只有金属窗框。新组合：壳嵌窗。不像绘本。头像需裁进窗上沿。",
+  "crop": "记忆点在胸口取景窗，头像裁切必须带上窗的上沿。",
+  "collide": "避开相机品牌吉祥物和手持放大镜小人；窗是身体的前壁，不是配件。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质被加成花纹贴纸"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点结构必须仍在"
+    ]
+  ],
+  "zh": "原创潮玩角色，霜灰壳和一扇取景窗长在一起：取景窗嵌进胸腔成为前轮廓，不是手里拿的小窗。全高约是最大宽的1.15倍，头只占上部26%。圆钝卵壳，胸口一方圆角矩形窗向前凸出，窗比脸醒目。圆钝头嵌在壳顶，几乎无颈。半垂小黑豆眼，眼距约一个眼宽，极小一字嘴，情绪内收，像在询问。姿态：微侧坐。主体霜灰短绒，只有窗框是哑光炭黑金属。配色是霜灰配炭灰。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸头发衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要色情，不要磕真人CP，不要涉及家人隐私。不要写出任何相机品牌，不要可识别的厂牌饰条，不要把窗子画成手持取景器。",
+  "enp": "Original designer toy character: 胸腔嵌着取景窗的壳兽 — a frost-grey shell body with a viewfinder window grown into the chest as the front contour, not a handheld window. Height about 1.15 times its greatest width, head 26%. A rounded rectangular window protrudes from the chest, more noticeable than the face. Half-lidded black bead eyes, tiny straight mouth, a quiet asking look. Slight three-quarter seated pose. Main frost-grey flocking; only the window frame is matte charcoal metal. Colors: frost grey against charcoal. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no name lettering or brand logos, no existing drama or film titles, no sexualized content, no real-person shipping, no family privacy. No camera brand names or recognizable maker stripes; do not turn the window into a handheld viewfinder.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-09",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子与普通：物件长进身体。识别靠记忆点尺度。材质只一处且讲得通。强对比两三色。组合少见。特点夸张到记忆点大于脸的一部分。",
+  "pose": "微侧坐"
+}

@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhanglinghe-e1",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "未上釉的陶胚坐兽",
+  "species": "陶胚",
+  "axes": {
+    "archetype": "物件生物，陶胚兽",
+    "silhouette": "圆敦未修坯的坐姿坛形",
+    "mark": "胸前 · 一块比脸大的湿润接缝浅窝",
+    "face": "半垂小黑豆眼陷进陶壁，眼距约一个眼宽，极小一字嘴",
+    "emotion": "内收，确认",
+    "fusion": "物件就是身体：整只是一团未上釉的陶胚，拿掉陶土角色不在",
+    "material": "主体未上釉粗陶，只有胸前接缝是一点未干的泥浆光泽",
+    "palette": "陶土褐配奶油湿痕"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "扁圆头从坛口上沿微微鼓出，几乎无颈，无发无耳",
+  "combo": "未修坯陶坛身 + 胸前湿缝浅窝 + 凹陷豆眼 + 陶土褐对奶油",
+  "odd": "还没完成的胚比脸醒目，脸只是壁上的一处浅凹",
+  "line": "",
+  "why": "外形还是胚，他要问的是心里那一下软没软下来。",
+  "spec": {
+    "proportion": "全高约是最大宽的1.05倍，头只占上部24%，胸窝宽约身宽40%",
+    "outline": "圆敦坛卵形，口沿厚钝，底收成矮坐",
+    "volume": "大：陶坛身；中：胸前湿缝窝；小：两短脚墩",
+    "face": "眼在头高下三分之一，陷进壁里，半垂",
+    "stance": "坐在自己的底足上",
+    "structure": "头从口沿长出，胸窝是壁上的浅凹，不是贴上去的饰片"
+  },
+  "toy_check": "站得住：坐。物件长进去：拿掉陶土角色不在。特殊材质只有湿缝一处。新组合成立。不像绘本：小五官无大笑。头像需裁到胸窝。做得成：壁有厚度。",
+  "crop": "记忆点在胸前湿缝浅窝，头像裁切需带上窝的上沿。",
+  "collide": "避开穿衣小人、普通动物加道具、整体透明三类；与石膏人像、精修花瓶拉开：这是未完成的胚，没有五官雕像。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质被加成花纹贴纸"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点结构必须仍在"
+    ]
+  ],
+  "zh": "原创潮玩角色，陶胚和物件长在一起：物件就是身体：整只是一团未上釉的陶胚，拿掉陶土角色不在。全高约是最大宽的1.05倍，头只占上部24%，圆敦坛卵形，口沿厚钝。扁圆头从坛口上沿微微鼓出，几乎无颈。半垂小黑豆眼陷进陶壁，眼距约一个眼宽，极小一字嘴，情绪内收，像在确认。姿态：坐在自己的底足上。主体未上釉粗陶，只有胸前接缝是一点未干的泥浆光泽。配色是陶土褐配奶油湿痕。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸头发衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要色情，不要磕真人CP，不要涉及家人隐私。不要把陶土画成真人肖像雕塑，不要精修成花瓶，不要写成作品名。",
+  "enp": "Original designer toy character: 未上釉的陶胚坐兽 — an unfinished unglazed clay-blank body, the clay itself is the creature, remove the clay and the character is gone. Height about 1.05 times its greatest width, head only 24% of height. Thick blunt rim, a recessed wet-seam hollow on the chest larger than the face. Half-lidded black bead eyes sunk into the clay wall, tiny straight mouth, checking-in calm. Seated on its own foot-ring. Main unglazed earthen brown; only the chest seam has a damp cream slurried sheen. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no name lettering or brand logos, no existing drama or film titles, no sexualized content, no real-person shipping, no family privacy. Do not sculpt a human portrait out of the clay, do not refine it into a finished vase, no drama titles.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-09",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子与普通：物件长进身体。识别靠记忆点尺度。材质只一处且讲得通。强对比两三色。组合少见。特点夸张到记忆点大于脸的一部分。",
+  "pose": "坐"
+}

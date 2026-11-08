@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhanglinghe-e3",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "环上长出一弯鹤颈的窗兽",
+  "species": "鹤",
+  "axes": {
+    "archetype": "物件生物，环身生颈",
+    "silhouette": "粗环为身，一弯细颈从后沿升起",
+    "mark": "后沿 · 一弯比脸长的抽象眺望颈",
+    "face": "半垂小黑豆眼长在颈端一小鼓包上，极小一字嘴，无写实鸟喙",
+    "emotion": "内收，眺望",
+    "fusion": "物件是长出来的结构：镜头环是躯干，一弯抽象鹤颈从环后沿长成头茎，不是一只鸟拿着圆环",
+    "material": "主体阳极氧化霜灰金属环，只有颈弧是墨青搪胶",
+    "palette": "霜灰环配墨青颈"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "颈端一小鼓包即头，无冠无耳无写实鸟头",
+  "combo": "霜灰镜头环身 + 一弯墨青颈 + 颈端小脸 + 霜灰对墨青",
+  "odd": "身体是环，用来看的只有一弯颈，没有羽翅",
+  "line": "",
+  "why": "看的人站在环后面，脖子只是一弯用来眺望的弧。",
+  "spec": {
+    "proportion": "环外径约为头宽的2倍，颈长约等于环外径，头只占全高12%",
+    "outline": "横环为身，后沿抽出一道平滑S形细颈",
+    "volume": "大：金属环；中：颈弧；小：颈端头包与短脚",
+    "face": "眼在颈端鼓包上，半垂，无尖喙",
+    "stance": "侧立，环站在底沿",
+    "structure": "颈从环壁长出，不是插上去的；无羽翅、无爪持物"
+  },
+  "toy_check": "站得住：环有底沿。物件长进去：环是身体，颈是长出的结构。特殊材质只有墨青颈。不是普通动物加道具。不像绘本。",
+  "crop": "记忆点是环加一弯颈，头像需同时裁进环上沿和颈弧。",
+  "collide": "避开仙鹤吉祥物和鸟叼相机：没有羽翅，没有鸟爪抓着圆环，环本身就是身体。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质被加成花纹贴纸"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点结构必须仍在"
+    ]
+  ],
+  "zh": "原创潮玩角色，一圈霜灰环和一弯颈弧长在一起：环就是躯干，一弯抽象的眺望颈从环后沿长出，不是一只鸟拿着圆环。环外径约为头宽的2倍，头只占全高12%。颈端一小鼓包即头，无冠无写实鸟头。半垂小黑豆眼，极小一字嘴，没有尖喙，情绪内收，像在远处看。姿态：侧立，环站在自己的底沿。主体阳极氧化霜灰金属环，只有颈弧是墨青搪胶。配色是霜灰环配墨青颈。没有羽翅，没有鸟爪。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸头发衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要色情，不要磕真人CP，不要涉及家人隐私。不要画成仙鹤吉祥物，不要羽翅，不要鸟爪抓着圆环，不要写出任何镜头品牌，不要可识别的厂牌色条。",
+  "enp": "Original designer toy character: 环上长出一弯鹤颈的窗兽 — a frost-grey ring body with one abstract looking-neck growing from the back rim, not a bird holding a hoop. Ring outer diameter about twice the head width; the head is only 12% of total height, a small knob at the end of the neck, no realistic bird head or sharp beak. Half-lidded black bead eyes, tiny straight mouth, quietly looking out. Standing on the ring's bottom edge in side view. Main frost-grey anodized metal; only the neck curve is ink-cyan vinyl. No wings, no bird claws. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no name lettering or brand logos, no existing drama or film titles, no sexualized content, no real-person shipping, no family privacy. Do not draw a lucky-crane mascot, no wings, no bird claws gripping a hoop, no lens brand names or recognizable maker stripes.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-09",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子与普通：物件长进身体。识别靠记忆点尺度。材质只一处且讲得通。强对比两三色。组合少见。特点夸张到记忆点大于脸的一部分。",
+  "pose": "侧立"
+}

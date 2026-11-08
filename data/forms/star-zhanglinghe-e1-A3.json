@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhanglinghe-e1",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "空白面盘的钟壳坐兽",
+  "species": "钟表",
+  "axes": {
+    "archetype": "物件生物，钟壳身体",
+    "silhouette": "圆钟壳坐姿，胸前空白面盘",
+    "mark": "胸前 · 一块比脸大的空白珐琅面盘，只有一根短针",
+    "face": "半垂小黑豆眼，极小一字嘴",
+    "emotion": "内收，不求精确",
+    "fusion": "物件就是身体：钟壳是全身，面盘嵌进胸前，不是挂着的表",
+    "material": "主体胡桃木钟壳，只有面盘是奶油珐琅",
+    "palette": "胡桃木配奶油珐琅，短针尖一道深红（#971230）"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "壳顶略收即头，几乎无颈，无发无耳",
+  "combo": "胡桃木钟壳 + 空白奶油面盘 + 半垂豆眼 + 针尖一道深红",
+  "odd": "钟有面盘却几乎没有刻度，精确被留白了",
+  "line": "",
+  "why": "理科生的壳是秩序，面盘却故意不写满，先问情绪有没有到。",
+  "spec": {
+    "proportion": "全高约是钟径的1.1倍，脸占上部25%，面盘宽约身宽50%",
+    "outline": "正圆钟壳微厚，底沿两短脚",
+    "volume": "大：钟壳；中：空白面盘；小：一根短针",
+    "face": "眼在壳顶下沿，半垂，小于面盘",
+    "stance": "坐",
+    "structure": "面盘嵌进胸槽，刻度刻意留白，只有一根短针，针尖一点深红"
+  },
+  "toy_check": "站得住：坐。物件长进去：钟壳是身体。特殊材质只有珐琅面盘。新组合：空白盘。不像绘本。",
+  "crop": "记忆点在空白面盘，头像裁进盘上沿。",
+  "collide": "不同于报时吉祥物和闹钟人：没有数字，没有闹铃槌，精确被收走了。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质被加成花纹贴纸"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点结构必须仍在"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只胡桃木钟壳和一块奶油珐琅面盘长在一起：钟壳就是身体，面盘嵌进胸前，不是挂件。全高约是钟径的1.1倍，头只占上部25%。面盘比脸大，刻度刻意留白，只有一根短针。壳顶略收即头，几乎无颈。半垂小黑豆眼，极小一字嘴，情绪内收。姿态：坐。主体胡桃木钟壳，只有面盘是奶油珐琅，短针尖一道深红色细线。配色是胡桃木配奶油珐琅。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸头发衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要色情，不要磕真人CP，不要涉及家人隐私。不要写出数字和品牌名，不要把钟画成手腕上的表，不要铺满红色。",
+  "enp": "Original designer toy character: 空白面盘的钟壳坐兽 — a walnut-wood clock-case body fused with a cream enamel dial set into the chest, not a hanging watch. Height about 1.1 times the case diameter, head 25%. The dial is larger than the face and intentionally blank, only one short hand. Half-lidded black bead eyes, tiny straight mouth, unhurried. Seated. Main walnut wood; only the dial is cream enamel, with a thin deep-red tip on the hand. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no name lettering or brand logos, no existing drama or film titles, no sexualized content, no real-person shipping, no family privacy. No numerals or brand names, do not turn it into a wristwatch, do not flood the body with red.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-09",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子与普通：物件长进身体。识别靠记忆点尺度。材质只一处且讲得通。强对比两三色。组合少见。特点夸张到记忆点大于脸的一部分。",
+  "pose": "坐"
+}
