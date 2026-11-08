@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhanglinghe-e2",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "躯干是一圈镜头环的坐兽",
+  "species": "镜头环",
+  "axes": {
+    "archetype": "物件生物，环身",
+    "silhouette": "粗镜头环做躯干的坐姿",
+    "mark": "腰身 · 一圈比头更粗的金属镜头环",
+    "face": "半垂小黑豆眼，极小一字嘴",
+    "emotion": "内收，专注",
+    "fusion": "物件就是身体：镜头环就是腰身和胸腔，头从环上沿长出，不是套在外面的零件",
+    "material": "主体阳极氧化霜灰金属环，只有内径一圈是磨砂光学玻璃",
+    "palette": "霜灰环配炭灰内径"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "小球头从环上沿微微探出，几乎无颈",
+  "combo": "粗镜头环躯干 + 玻璃内径 + 半垂豆眼 + 霜灰对炭灰",
+  "odd": "人的中间是一圈空心的环，喜欢的事把中间占满了",
+  "line": "",
+  "why": "一上头，整个人就收进这一圈里，别的日程让开。",
+  "spec": {
+    "proportion": "环外径约为头宽的2.2倍，全高约是环外径的1.05倍，头占上部22%",
+    "outline": "横置粗环为躯干，上沿一小头，下沿两短脚",
+    "volume": "大：金属环；中：玻璃内径；小：头与短脚",
+    "face": "眼在小球头下三分之一，半垂",
+    "stance": "坐在环底",
+    "structure": "环是胸腰，内径通空，拿掉环角色不成立"
+  },
+  "toy_check": "站得住：坐在环底。物件长进去：环是身体。特殊材质只有内径玻璃。新组合成立。不像绘本。",
+  "crop": "记忆点是粗环，头像需裁进环的上沿与内径。",
+  "collide": "避开品牌镜头人偶和动物套泳圈：环是躯干骨，不是外套的圈。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质被加成花纹贴纸"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点结构必须仍在"
+    ]
+  ],
+  "zh": "原创潮玩角色，一圈镜头环和角色长在一起：镜头环就是腰身和胸腔，头从环上沿长出，不是套在外面的零件。环外径约为头宽的2.2倍，头只占上部22%。小球头从环上沿微微探出，几乎无颈。半垂小黑豆眼，极小一字嘴，情绪内收，专注。姿态：坐在环底。主体阳极氧化霜灰金属环，只有内径一圈是磨砂光学玻璃。配色是霜灰环配炭灰内径。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸头发衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要色情，不要磕真人CP，不要涉及家人隐私。不要写出任何镜头品牌，不要可识别的厂牌色条，不要把环画成套在腰外的泳圈。",
+  "enp": "Original designer toy character: 躯干是一圈镜头环的坐兽 — a thick lens ring that is the torso itself, head peeking from the upper rim, not a hoop worn around an animal. Ring outer diameter about 2.2 times the head width, head only 22% of height. Half-lidded black bead eyes, tiny straight mouth, quietly absorbed. Seated on the ring's bottom. Main frost-grey anodized metal; only the inner rim is frosted optical glass. Colors: frost-grey ring against charcoal inner bore. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no name lettering or brand logos, no existing drama or film titles, no sexualized content, no real-person shipping, no family privacy. No lens brand names or recognizable maker color stripes; do not turn the ring into a swim-ring worn around a waist.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-09",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子与普通：物件长进身体。识别靠记忆点尺度。材质只一处且讲得通。强对比两三色。组合少见。特点夸张到记忆点大于脸的一部分。",
+  "pose": "坐"
+}

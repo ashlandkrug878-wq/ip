@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhanglinghe-e2",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "裂开一条缝的核桃壳兽",
+  "species": "核桃壳",
+  "axes": {
+    "archetype": "物件生物，果壳身体",
+    "silhouette": "圆核桃壳坐姿，腹缝裂开",
+    "mark": "腹心 · 一条裂开的壳缝，露出比脸醒目的奶油仁",
+    "face": "半垂小黑豆眼陷在壳纹里，极小一字嘴",
+    "emotion": "内收，被喜欢撑开",
+    "fusion": "物件就是身体：核桃壳是全身，缝是长出来的结构，仁是腹心而不是手里的零食",
+    "material": "主体硬质核桃壳木纹，只有仁是奶油短绒",
+    "palette": "核桃褐配奶油仁，壳缝一道深红细线（#971230）"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "壳顶自然隆起即头，几乎无颈，无发",
+  "combo": "核桃壳身 + 腹缝奶油仁 + 凹陷豆眼 + 褐对奶油，缝一道深红",
+  "odd": "喜欢的那一件从里面把壳撑开了一条缝",
+  "line": "",
+  "why": "兴趣不多，喜欢的那件把壳从里面撑开。",
+  "spec": {
+    "proportion": "全高约是壳宽的0.95倍，头占上部28%，腹缝长约身高55%",
+    "outline": "圆钝核桃卵形，腹心一条纵向裂缝",
+    "volume": "大：硬壳；中：奶油仁；小：短脚突",
+    "face": "眼陷在壳纹上三分之一以下，半垂",
+    "stance": "坐",
+    "structure": "仁从腹缝长出，缝沿一道深红细线，拿掉壳角色不在"
+  },
+  "toy_check": "站得住：坐。物件长进去：壳是身体。特殊材质只有绒仁。新组合：裂壳。不像绘本。不画小孩。",
+  "crop": "记忆点是腹缝和仁，头像裁进缝的上沿。",
+  "collide": "避开零食吉祥物和坚果人偶：没有微笑促销感，仁是腹心结构。不画真人小孩。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质被加成花纹贴纸"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点结构必须仍在"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只核桃壳和一点奶油仁长在一起：核桃壳就是身体，腹心裂开一条缝，仁从缝里长出，不是手里的零食。全高约是壳宽的0.95倍，头只占上部28%。壳顶自然隆起即头，几乎无颈。半垂小黑豆眼陷在壳纹里，极小一字嘴，情绪内收。姿态：坐。主体硬质核桃壳木纹，只有仁是奶油短绒，壳缝一道深红色细线。配色是核桃褐配奶油仁。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸头发衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要色情，不要磕真人CP，不要涉及家人隐私。不要画真人小孩，不要把果仁画成手持零食，不要铺满红色，不要在壳上写字。",
+  "enp": "Original designer toy character: 裂开一条缝的核桃壳兽 — a walnut-shell body with a split seam down the belly and a cream kernel growing from inside, not a snack held in a hand. Height about 0.95 times shell width, head 28%. Half-lidded black bead eyes sunk into the shell grain, tiny straight mouth, quietly opened from within. Seated. Main hard walnut-wood shell; only the kernel is cream flocking, with a thin deep-red line along the seam. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no name lettering or brand logos, no existing drama or film titles, no sexualized content, no real-person shipping, no family privacy. Do not draw a real child, do not turn the kernel into a handheld snack, do not flood the body with red, no lettering on the shell.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-09",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子与普通：物件长进身体。识别靠记忆点尺度。材质只一处且讲得通。强对比两三色。组合少见。特点夸张到记忆点大于脸的一部分。",
+  "pose": "坐"
+}

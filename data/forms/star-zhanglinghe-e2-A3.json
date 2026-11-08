@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhanglinghe-e2",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "清空内膛的暗盒坐兽",
+  "species": "相机取景窗",
+  "axes": {
+    "archetype": "物件生物，中空暗盒",
+    "silhouette": "方圆暗盒坐姿，内膛空着",
+    "mark": "头胸 · 一方空着的取景凹框，内膛比脸更深",
+    "face": "半垂小黑豆眼靠在框沿，极小一字嘴",
+    "emotion": "内收，腾空",
+    "fusion": "物件就是身体：暗盒是全身，内膛空着，取景凹框是头胸前结构，不是手持机身",
+    "material": "主体磨砂炭灰工程塑料壳，只有内衬是一层暖米哑光皮革",
+    "palette": "炭灰暗盒配暖米皮腔"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "盒顶前沿略收成头，取景凹框占去大半脸位",
+  "combo": "中空暗盒 + 取景凹框 + 暖米皮腔 + 半垂豆眼",
+  "odd": "最醒目的不是脸，是被清空的那一块内膛",
+  "line": "",
+  "why": "把别的都清空，只留下这一格要看的东西。",
+  "spec": {
+    "proportion": "全高约是盒宽的0.9倍，头胸框占上部40%，内膛深约身厚一半",
+    "outline": "圆角方盒，前脸挖出一方取景凹框",
+    "volume": "大：空盒；中：暖米皮腔；小：短脚",
+    "face": "眼贴在凹框上沿外侧，半垂，很小",
+    "stance": "坐",
+    "structure": "内膛中空，皮腔是内壁，拿掉暗盒角色不在"
+  },
+  "toy_check": "站得住：坐。物件长进去：暗盒是身体。特殊材质只有皮革内衬。新组合：清空的膛。不像绘本。",
+  "crop": "记忆点是空着的取景凹框，头像必须裁进框和内膛。",
+  "collide": "避开品牌相机模型和打开的玩具盒：没有商标，没有胶卷文字，空是结构不是破损。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质被加成花纹贴纸"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点结构必须仍在"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只中空的暗盒和一层暖米皮腔长在一起：暗盒就是身体，内膛空着，头胸前一方取景凹框，不是手里拿的机身。全高约是盒宽的0.9倍。盒顶前沿略收成头，取景凹框占去大半脸位，小脸靠在框沿。半垂小黑豆眼，极小一字嘴，情绪内收。姿态：坐。主体磨砂炭灰工程塑料壳，只有内衬是一层暖米哑光皮革。配色是炭灰暗盒配暖米皮腔。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸头发衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要色情，不要磕真人CP，不要涉及家人隐私。不要写出任何相机品牌，不要胶卷文字，不要可识别的厂牌饰条，不要把暗盒画成手持器材。",
+  "enp": "Original designer toy character: 清空内膛的暗盒坐兽 — a hollow charcoal camera-chamber body with a warm-rice leather lining grown as the inner wall, not a handheld camera. Height about 0.9 times box width. A recessed viewfinder frame takes most of the upper front; a tiny face rests on the frame edge. Half-lidded black bead eyes, tiny straight mouth, emptied and still. Seated. Main frosted charcoal engineering plastic; only the inner lining is matte warm-rice leather. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no name lettering or brand logos, no existing drama or film titles, no sexualized content, no real-person shipping, no family privacy. No camera brand names, no film lettering, no recognizable maker stripes, do not turn the chamber into a handheld gadget.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-09",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子与普通：物件长进身体。识别靠记忆点尺度。材质只一处且讲得通。强对比两三色。组合少见。特点夸张到记忆点大于脸的一部分。",
+  "pose": "坐"
+}

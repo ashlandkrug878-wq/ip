@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhanglinghe-e3",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "腹心开一扇窗的雪壳兽",
+  "species": "雪",
+  "axes": {
+    "archetype": "物件生物，雪壳开窗",
+    "silhouette": "圆敦雪堆坐姿，腹心一方小窗",
+    "mark": "腹心 · 一扇墨青窗棂的小窗，比脸醒目",
+    "face": "半垂小黑豆眼，极小一字嘴",
+    "emotion": "内收，回落",
+    "fusion": "物件是长出来的结构：雪壳是身体，小窗从腹心长出并成为下轮廓，不是旁边摆的玩具屋",
+    "material": "主体霜冻半透明雪树脂，只有窗棂是墨青哑光",
+    "palette": "霜白雪壳配墨青窗棂"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "雪顶略收成圆头，几乎无颈，无发",
+  "combo": "霜冻雪壳 + 腹心墨青小窗 + 半垂豆眼 + 霜白对墨青",
+  "odd": "雪落成身体以后，还留一扇看人的窗",
+  "line": "",
+  "why": "回落到实处，像雪自己落下；心里仍留一格看别人的位置。",
+  "spec": {
+    "proportion": "全高约是宽的1.0倍，头占上部26%，腹窗宽约身宽38%",
+    "outline": "圆敦雪堆，腹心嵌一方小窗",
+    "volume": "大：雪壳；中：腹窗；小：短脚雪墩",
+    "face": "眼在头高下三分之一，半垂",
+    "stance": "坐",
+    "structure": "窗从腹心长出，拿掉窗则下轮廓塌一处"
+  },
+  "toy_check": "站得住：坐。物件长进去：窗是腹结构。特殊材质只有霜冻雪树脂配一处墨青窗棂。不像绘本。",
+  "crop": "记忆点是腹心小窗，头像裁进窗上沿。",
+  "collide": "避开雪人吉祥物和小屋摆件：没有胡萝卜鼻和围巾，窗不是玩具屋。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质被加成花纹贴纸"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点结构必须仍在"
+    ]
+  ],
+  "zh": "原创潮玩角色，一团霜白雪壳和一扇小窗长在一起：雪壳就是身体，腹心长出一方带墨青窗棂的小窗，不是旁边摆的小屋。全高约等于宽，头只占上部26%。雪顶略收成圆头，几乎无颈。半垂小黑豆眼，极小一字嘴，情绪内收，像刚落下来。姿态：坐。主体霜冻半透明雪树脂，只有窗棂是墨青哑光。配色是霜白雪壳配墨青窗棂。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸头发衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要色情，不要磕真人CP，不要涉及家人隐私。不要雪人围巾和胡萝卜鼻，不要戏服场景，不要写出作品名，不要把窗子画成手里的卡片。",
+  "enp": "Original designer toy character: 腹心开一扇窗的雪壳兽 — a frost-white snow-shell body with a small window grown from the belly, not a toy house set beside it. Height about equal to width, head 26%. Half-lidded black bead eyes, tiny straight mouth, settled and quiet. Seated. Main frosted translucent snow resin; only the window muntins are matte ink-cyan. Colors: frost-white snow against ink-cyan window bars. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no name lettering or brand logos, no existing drama or film titles, no sexualized content, no real-person shipping, no family privacy. No snowman scarf or carrot nose, no costume drama scenery, no work titles, do not turn the window into a handheld card.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-09",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子与普通：物件长进身体。识别靠记忆点尺度。材质只一处且讲得通。强对比两三色。组合少见。特点夸张到记忆点大于脸的一部分。",
+  "pose": "坐"
+}

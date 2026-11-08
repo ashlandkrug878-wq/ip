@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhanglinghe-e3",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "整座观景窗框的坐兽",
+  "species": "观景窗",
+  "axes": {
+    "archetype": "物件生物，窗框身体",
+    "silhouette": "一座立着的厚窗框，下沿可坐",
+    "mark": "中心 · 一扇比脸大得多的磨砂窗洞",
+    "face": "半垂小黑豆眼嵌在上框内侧，极小一字嘴",
+    "emotion": "内收，旁观",
+    "fusion": "物件就是身体：整只是一座观景窗框，窗洞是胸腔，不是背景里的窗户",
+    "material": "主体暖米木纹搪胶框，只有窗洞是半透明磨砂玻璃",
+    "palette": "暖米窗框配霜灰窗洞"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "上框中段微微鼓出即头，几乎无颈，脸贴在框内侧",
+  "combo": "厚窗框身 + 磨砂窗洞 + 框沿小脸 + 暖米对霜灰",
+  "odd": "角色本身就是窗子，人只占上沿一条",
+  "line": "",
+  "why": "站在窗子后面看，生活自己会过来。",
+  "spec": {
+    "proportion": "全高约是窗宽的1.2倍，脸只占上框厚度，窗洞约占身面积55%",
+    "outline": "圆角矩形厚框，底边加厚成坐沿",
+    "volume": "大：窗洞；中：厚框；小：两短脚柱",
+    "face": "眼在上框内沿，半垂，很小",
+    "stance": "立正兼可坐的底沿",
+    "structure": "框是身体，洞是中空胸腔，拿掉框角色不在"
+  },
+  "toy_check": "站得住：底沿加厚。物件长进去：窗框是身体。特殊材质只有磨砂玻璃。新组合成立。不像绘本。",
+  "crop": "记忆点是整座窗，头像需裁进上框小脸和窗洞上沿。",
+  "collide": "避开窗边穿衣小人和建筑模型：不是人靠着窗，是窗自己坐着。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成手持配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成普通圆团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "特殊材质被加成花纹贴纸"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "换色后记忆点结构必须仍在"
+    ]
+  ],
+  "zh": "原创潮玩角色，一座观景窗框和角色长在一起：整只是一座窗框，窗洞是胸腔，不是背景里的窗户。全高约是窗宽的1.2倍，脸只占上框一条。圆角矩形厚框，底边加厚成坐沿。上框中段微微鼓出即头，几乎无颈，半垂小黑豆眼嵌在上框内侧，极小一字嘴，情绪内收，旁观。姿态：立正，重心在加厚的底沿。主体暖米木纹搪胶框，只有窗洞是半透明磨砂玻璃。配色是暖米窗框配霜灰窗洞。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类的脸头发衣服，不要姓名文字和品牌标识，不要现有剧名作品名，不要色情，不要磕真人CP，不要涉及家人隐私。不要画成一个人倚在窗边，不要写成作品名，不要品牌标识。",
+  "enp": "Original designer toy character: 整座观景窗框的坐兽 — a thick viewing-window frame that is the entire body, the pane opening is the chest cavity, not a background window. Height about 1.2 times window width; the face is only a strip along the top rail. Rounded rectangular frame with a thickened sitting bottom edge. Half-lidded black bead eyes set on the inner top rail, tiny straight mouth, quietly watching. Standing on its thickened base. Main warm-rice woodgrain vinyl; only the opening is frosted translucent glass. Colors: warm-rice frame against frost-grey pane. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human face hair or clothes, no name lettering or brand logos, no existing drama or film titles, no sexualized content, no real-person shipping, no family privacy. Do not draw a person leaning on a window, no drama titles, no brand marks.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-09",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子与普通：物件长进身体。识别靠记忆点尺度。材质只一处且讲得通。强对比两三色。组合少见。特点夸张到记忆点大于脸的一部分。",
+  "pose": "立正"
+}
