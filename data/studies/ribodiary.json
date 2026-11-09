@@ -22,8 +22,8 @@
   ],
   "tier": "standard",
   "status": "partial",
-  "cutoff_date": "2026-11-08",
-  "updated": "2026-11-08",
+  "cutoff_date": "2026-11-09",
+  "updated": "2026-11-09",
   "summary": "森林日常由被窝、衣装、手作与群像分工落到产品；官方功能证据清楚，近期讨论可核，规模与增长因果未知。",
   "owner": {
     "creator": null,
@@ -349,14 +349,14 @@
   "gaps": [
     "自然人作者、最初草稿、首条公开原作、完整著作权/商标/授权合同未核；ribo及中文姓名仅保留线索，不从AI汇编确认。",
     "6/18官方乐园亮相节点已核，6/10仍只是用户存在时间线索；创作、最初公开和全IP首售未知；8月雪糕帖年份未显。",
-    "11/8新浏览器连接仍返回Unknown tool(browser.js)；小红书RiboDiary 品牌介绍与RiboDiary 产品汇总两组未执行，实读0篇，停止依赖。",
     "历史直接用户材料为10/31一个论坛线程6位目的抽样账号、另1条早期存在时间讨论，11/4读取中文主帖1位；本轮未新增直接实读用户。TikTok瑕疵反馈仅搜索摘要、日期和订单未核。不能推中国客群比例、排名、缺陷率或复购。",
     "第三方显示英国/美国缺货；英国官方读取为选项未加载，不能直接证实售罄或售罄速度；首批库存与销量均null。",
     "已看7张官方原图，未覆盖所有成员全部视角和早期人偶影像；未读实体绘本，未核出版物ISBN，不把绘本感等同绘本起源。",
-    "11/8英文附图编辑V19/V20未通过严格平涂：V20嘴缩短，但渐层、色差、眼内亮点和缝线仍有偏差。旧英文附V04的V2仅有限身份近似；英文纯文字V10/V11、中文V6/V7/V17/V18未通过，稳定性未证实，不进入3D/毛绒。",
     "原图不公开打包；内部结构、绒感、承重、耐用性、清洗与关节寿命未实测，成本利润未知。",
-    "11/8日本店本轮未读取到榜单区日期/名次；11/7第1保留为历史，不当今日名次或增长。",
-    "11/2品牌供稿与官方发布属同一品牌证据家族，不作为独立需求；自然人作者和完整版权链仍未知。"
+    "11/2品牌供稿与官方发布属同一品牌证据家族，不作为独立需求；自然人作者和完整版权链仍未知。",
+    "11/9小红书连接Unknown tool(browser.js)，两组未执行，实读0；历史用户线程复核不算新增样本。",
+    "11/9 V21/V22仍未通过；嘴和纽扣底片有修正，头脸、眼内图案、渐层仍偏离。旧V2仅有限身份近似，纯文字/中文未过，稳定性未证，不进入3D/毛绒。",
+    "11/9店内当前名次未读到，保留null。"
   ],
   "sources": [
     {
@@ -1322,22 +1322,116 @@
       "observed": "2026-11-08",
       "access": "partial",
       "note": "搜索摘要曾列10/30挂件32000KRW与手办16000KRW及购买/补货按钮；正文仅载入中，未重核对应SKU，故不新增正式产品价/库存结论。"
+    },
+    {
+      "id": "L01",
+      "title": "官方内容聚合续查",
+      "url": "https://www.sina.cn/media/1726303567",
+      "publisher": "POPMART泡泡玛特",
+      "published": null,
+      "event_date": "2026-11-07",
+      "observed": "2026-11-09",
+      "access": "partial",
+      "note": "仅实读文字，仍可见11/7瑞宝舞蹈公告；11/8 PPULBATU等不移作瑞宝热度。音视频未播放，无新增瑞宝销量。"
+    },
+    {
+      "id": "L02",
+      "title": "挂件官方规格续查",
+      "url": "https://www.popmart.com/us/products/9418/ribodiary-forest-gathering-day-series-plush-doll-pendant",
+      "publisher": "POP MART",
+      "published": null,
+      "event_date": "2026-10-29 17:00 PST（原文）",
+      "observed": "2026-11-09",
+      "access": "partial",
+      "note": "正文尺寸13.5–14.5cm排除耳/配件/挂绳/环，材料可核，实时库存未取得。V04另重新下载和实际开图，1200×1200、哈希未变。"
+    },
+    {
+      "id": "L03",
+      "title": "历史用户讨论复核",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1xbdmcg/is_this_a_new_ip/",
+      "publisher": "Reddit / KitchenLoan6",
+      "published": "2026-10-21",
+      "event_date": null,
+      "observed": "2026-11-09",
+      "access": "partial",
+      "note": "实读原线程可见正文，缓存相对日期仍10d ago，不转为今天新增。保留原六账号目的抽样，无新增独立样本；成员偏好与抽重交换为自述，无订单。"
+    },
+    {
+      "id": "L04",
+      "title": "日本官方店访问限制",
+      "url": "https://www.rakuten.co.jp/pop-mart-japan/",
+      "publisher": "POP MART JAPAN",
+      "published": null,
+      "event_date": null,
+      "observed": "2026-11-09",
+      "access": "partial",
+      "note": "店页可读，但本轮未见集计期、更新时间及瑞宝名次，当前名次null，不移用11/7榜。"
+    },
+    {
+      "id": "L05",
+      "title": "TOPTOY圣诞供给续查",
+      "url": "https://gotoptoy.com/ja/blogs/articles/2026-christmas-blind-boxes-nommi-maymei-piropiroo",
+      "publisher": "TOPTOY",
+      "published": null,
+      "event_date": "2026-11-01（品牌自述）",
+      "observed": "2026-11-09",
+      "access": "partial",
+      "note": "实读品牌博客，Nommi单盒29.99USD美国口径；自有/内部设计仅官方自述，不等同合同确认或MINISO本体版权。营销及预测不作独立需求，事件在30天内、7天外。"
+    },
+    {
+      "id": "L06",
+      "title": "三丽鸥新品计划续查",
+      "url": "https://www.sanrio.co.jp/news/goods/goods-release-202611-week3/",
+      "publisher": "Sanrio",
+      "published": "2026-11-06",
+      "event_date": [
+        "2026-11-12",
+        "2026-11-13"
+      ],
+      "observed": "2026-11-09",
+      "access": "partial",
+      "note": "实读正文：圣诞等11/12、贴纸交换11/13计划，非已售。未开配图；按用户要求不做小红书，无独立需求。"
+    },
+    {
+      "id": "L07",
+      "title": "书店PUPPET SUNSUN活动计划",
+      "url": "https://www.miraiyashoten.co.jp/news/puppetsunsun/",
+      "publisher": "未来屋书店",
+      "published": null,
+      "event_date": [
+        "2026-11-11",
+        "2026-11-29"
+      ],
+      "observed": "2026-11-09",
+      "access": "partial",
+      "note": "实读主文，11/11起书籍衍生7类商品、195店探索活动计划；均为供给，不等于实际到访或销量。未读书、未开图，发布日期未知，不声称新文章。"
+    },
+    {
+      "id": "L08",
+      "title": "PPULBATU官方联名内容",
+      "url": "https://www.sina.cn/news/detail/5363040677794468.html",
+      "publisher": "POPMART泡泡玛特",
+      "published": "2026-11-08",
+      "event_date": "2026-11-08",
+      "observed": "2026-11-09",
+      "access": "partial",
+      "note": "实读主帖确认TXT/PPULBATU联名传播，未核合同及独立需求；不因POP MART销售就认角色归其所有。韩国角色按群像去重。"
     }
   ],
-  "archive": "research/ribodiary/2026-11-08/index.html",
-  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-08/",
-  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-08/",
+  "archive": "research/ribodiary/2026-11-09/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-09/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-09/",
   "prompt_validation": {
     "status": "partial",
-    "mode": "旧英文附图V2有限身份近似；英文编辑V19/V20仍revise",
+    "mode": "旧英文附图V2有限身份近似；英文附官方图V21/V22仍revise",
     "scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
     "strict_flat_fill": "not_passed",
     "text_only": "English V10/V11 tested_not_passed",
     "stability": "one_repeat_observed_differences_not_validated",
-    "tests": "research/ribodiary/2026-11-08/prompt-tests.json",
-    "checkpoint": "research/ribodiary/2026-11-08/selection-and-progress.json",
+    "tests": "research/ribodiary/2026-11-09/prompt-tests.json",
+    "checkpoint": "research/ribodiary/2026-11-09/selection-and-progress.json",
     "usable_prior_test": "ribodiary-bearibo-flat-ref-v2",
     "chinese_reference": "V6/V7/V17/V18 tested_not_passed",
-    "reference_latest": "English edit V19/V20 revise"
+    "reference_latest": "English reference V21/V22 revise"
   }
 }

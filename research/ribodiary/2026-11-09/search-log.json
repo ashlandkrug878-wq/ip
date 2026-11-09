@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-09",
+  "web_queries": [
+    "RiboDiary 瑞宝 2026 11月9日",
+    "名创优品 TOPTOY Nommi 2026 11月 新品",
+    "サンリオ パペットスンスン 2026 11月9日 新商品",
+    "캐릭터 인형 팝업 2026 11월9일",
+    "캐릭터 인형 \"2026.11.09\"",
+    "\"RiboDiary\" review November 2026",
+    "パペットスンスン ガイドブック 2026 11月11日 ポプラ"
+  ],
+  "engines": [
+    "system1 recent7d",
+    "system2"
+  ],
+  "xiaohongshu": [
+    {
+      "query": "RiboDiary 品牌介绍",
+      "executed": false,
+      "status": "blocked",
+      "read_pages": 0,
+      "accounts": [],
+      "reason": "当前新连接Unknown tool(browser.js)，停止依赖，不绕过"
+    },
+    {
+      "query": "RiboDiary 产品汇总",
+      "executed": false,
+      "status": "blocked",
+      "read_pages": 0,
+      "accounts": [],
+      "reason": "当前新连接Unknown tool(browser.js)，停止依赖，不绕过"
+    }
+  ],
+  "sampling": "复核1个既有Reddit线程，保留原六账号目的抽样，不新增账号/评论；相对日期缓存未变不当今天新增。",
+  "sanrio_exception": "按2026-10-28用户指令跳过",
+  "date_cautions": "未来供给非销量；发布日期未知为null；滚动历史榜不当当前名次"
+}
