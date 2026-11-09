@@ -1,0 +1,81 @@
+{
+  "ip": "star-yanan-e2",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "糖纸盔裂开一条缝的软芯糖兽",
+  "species": "糖纸盔",
+  "axes": {
+    "archetype": "物件生物，糖兽",
+    "silhouette": "圆糖头加裂壳",
+    "mark": "头顶到额 · 糖纸盔的一条固定裂缝",
+    "face": "半垂豆眼从缝里露出",
+    "emotion": "内收，不好意思",
+    "fusion": "物件是壳：糖纸盔罩住头与肩，裂开后软芯露出",
+    "material": "主体奶油软绒，只有糖纸盔是箔纸质",
+    "palette": "奶油配番茄红缝，盔外一点桉糖蓝"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "圆糖头，盔缘不整齐裂开",
+  "combo": "圆糖软芯 + 箔纸盔一条缝 + 缝里半垂眼 + 奶油对番茄红",
+  "odd": "裂口固定且干净，像本来就该裂",
+  "line": "",
+  "why": "装着的壳裂了，红先从缝里跑出来。",
+  "spec": {
+    "proportion": "头约占全高 55%",
+    "outline": "圆头，盔裂成不对称两片仍连在肩上",
+    "volume": "大：软芯头；中：盔；小：短手脚",
+    "face": "眼只在裂缝里，半垂，极小嘴",
+    "stance": "微侧身，像想把缝转开",
+    "structure": "箔纸盔与肩绒长在一起，裂缝是结构不是贴纸"
+  },
+  "toy_check": "站得住。盔是壳。特殊材质只有箔纸。新组合。无血腥。缩小时剩裂盔圆头。姿态：微侧。",
+  "crop": "记忆点在盔缝，头像必须带缝。",
+  "collide": "不同于破损机器人：裂口干净可爱，无齿轮无伤。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只奶油软绒糖兽和一层糖纸盔长在一起：头与肩罩着箔纸质糖纸盔，正中偏侧裂开一条固定的干净缝，缝里露出番茄红软芯和半垂小黑豆眼，拿掉盔角色就不成立。头约占全高百分之五十五，短手脚。极小嘴，神情像不好意思。微微侧身。身体奶油软绒，只有盔是箔纸，盔外一点浅桉糖蓝。单个角色完整全身，正面略侧，浅灰背景，棚拍光，产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要血腥伤口，不要真的撕碎垃圾感，不要人类小孩，不要张嘴笑。",
+  "enp": "Original designer toy character: a cream plush candy beast fused with a foil candy-wrap helm — the helm covers head and shoulders and splits in one clean fixed seam showing tomato-red soft core and half-lidded bead eyes. Head about 55% of height. Tiny mouth, shy reserved look, slightly turned. Cream plush; only the helm is foil with a hint of candy blue. Full body, three-quarter view, light grey backdrop, studio light, product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No bloody wound, no trashy torn mess, no human child, no open-mouth grin.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-10",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "微侧站"
+}

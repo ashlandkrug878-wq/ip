@@ -1,0 +1,81 @@
+{
+  "ip": "star-yanan-e3",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "金渐层圆猫腹嵌半片红柿瓣",
+  "species": "金渐层圆猫",
+  "axes": {
+    "archetype": "物件生物，圆猫",
+    "silhouette": "横宽扁圆猫",
+    "mark": "腹前 · 半片釉面红柿瓣",
+    "face": "半垂细眼",
+    "emotion": "内收，陪伴",
+    "fusion": "物件成为身体一部分：半片柿瓣嵌进胸腹成为体块",
+    "material": "主体金渐层短绒，只有柿瓣是亮釉",
+    "palette": "暖金配番茄红，瓣缘一点桉糖蓝"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "横宽猫头，短圆耳",
+  "combo": "金渐层扁圆猫 + 腹前半片红柿瓣 + 半垂细眼 + 暖金对番茄红",
+  "odd": "柿瓣几乎有脸那么大",
+  "line": "",
+  "why": "红心嵌在腹前，蓝只描柿瓣边。",
+  "spec": {
+    "proportion": "头高约占全高 50%，身宽大于高",
+    "outline": "扁圆猫，胸前凸半片柿",
+    "volume": "大：柿瓣；中：绒身；小：短耳短脚",
+    "face": "细半垂眼，眼距宽，极小嘴",
+    "stance": "坐着，柿瓣朝前",
+    "structure": "柿瓣边缘嵌进绒，不是抱着的道具"
+  },
+  "toy_check": "坐得住。柿瓣是体块。只有亮釉特殊材质。新组合。不是抱番茄的猫。姿态：坐。",
+  "crop": "记忆点在腹前柿瓣，头像需带上。",
+  "collide": "不同于抱水果的猫仔：水果是身体结构。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只金渐层短绒圆猫和半片柿子长在一起：胸腹嵌着几乎有脸那么大的半片亮釉番茄红柿瓣，瓣缘一点浅桉糖蓝，拿掉柿瓣胸口就缺一块。横宽扁圆，头高约占全高一半，短圆耳。半垂细眼，极小嘴。坐着。身体暖金短绒，只有柿瓣是亮釉。单个角色完整全身，正面略侧，浅灰背景，棚拍光，产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要把柿瓣画成手里抱的水果，不要人类脸，不要闪亮大眼，不要蓝铺满。",
+  "enp": "Original designer toy character: a golden-shaded round cat fused with half a persimmon — a glossy tomato-red persimmon lobe almost face-sized is set into the chest, rimmed with candy blue. Wide flat oval, head about half the height, short round ears. Half-lidded thin eyes, tiny mouth, seated. Warm-gold short plush; only the lobe is glossy glaze. Full body, three-quarter view, light grey backdrop, studio light, product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. Do not make the lobe a held fruit, no human face, no big shiny eyes, no blue flooding.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-10",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "坐"
+}

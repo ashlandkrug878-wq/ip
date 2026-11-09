@@ -1,0 +1,81 @@
+{
+  "ip": "star-yanan-e3",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "番茄就是身体的鼓腹坐兽",
+  "species": "小西红柿",
+  "axes": {
+    "archetype": "物件生物，番茄兽",
+    "silhouette": "番茄轮廓",
+    "mark": "整体 · 番茄鼓腹身体",
+    "face": "半垂小黑豆眼嵌在上沿",
+    "emotion": "内收，安静",
+    "fusion": "物件就是身体：番茄外形即身体，蒂把变成短耳状结构",
+    "material": "主体短绒，只有表皮是亮釉番茄红",
+    "palette": "番茄红配浅米，外沿一圈桉糖蓝细边"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头身一体番茄形",
+  "combo": "番茄鼓腹身 + 釉面红皮 + 半垂豆眼 + 蓝细边",
+  "odd": "蓝边极细却完整一圈",
+  "line": "",
+  "why": "红心已经长成身体，蓝只描边。",
+  "spec": {
+    "proportion": "接近番茄高宽比，全高约身宽的 1.05 倍",
+    "outline": "番茄剪影，顶部小蒂瓣",
+    "volume": "大：釉红腹；中：绒底；小：短脚",
+    "face": "眼在上沿，半垂，极小嘴",
+    "stance": "坐着，圆底稳定",
+    "structure": "釉皮是外层，蓝边嵌在釉与绒交界"
+  },
+  "toy_check": "坐得住。番茄是身体。特殊材质是亮釉皮。新组合。蓝不铺满。缩小时剩红番茄加蓝边。姿态：坐。",
+  "crop": "记忆点是整体番茄形。",
+  "collide": "不同于食物表情包：有半垂眼和潮玩比例，不是搞笑贴纸。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只小兽和一颗番茄长在一起：整个身体就是鼓腹番茄轮廓，顶部小蒂瓣像极短耳，拿掉番茄形就不成立。全高约身宽一点零五倍。半垂小黑豆眼嵌在上沿，极小一字嘴。坐着。身体底是浅米短绒，只有表皮是亮釉番茄红，外沿嵌一圈极细的桉糖蓝边。单个角色完整全身，正面略侧，浅灰背景，棚拍光，产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要写成食物广告，不要人类脸，不要蓝铺满全身，不要手里拿番茄。",
+  "enp": "Original designer toy character: a little beast fused with a tomato — the whole body is a plump tomato silhouette with tiny calyx flaps as short ears. Height about 1.05× width. Half-lidded bead eyes on the upper rim, tiny mouth. Seated. Pale rice plush base; only the skin is glossy tomato-red glaze with a hairline candy-blue rim. Full body, three-quarter view, light grey backdrop, studio light, product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No food-ad look, no human face, no blue flooding the body, no tomato held as a prop.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-10",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "坐"
+}

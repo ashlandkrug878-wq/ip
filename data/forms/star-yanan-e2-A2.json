@@ -1,0 +1,81 @@
+{
+  "ip": "star-yanan-e2",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "铸铁壳裂缝透出绒芯的圆兽",
+  "species": "霜片",
+  "axes": {
+    "archetype": "物件生物，圆兽",
+    "silhouette": "铁壳圆球",
+    "mark": "胸前 · 一条纵向铸铁裂缝",
+    "face": "裂缝上方两粒小黑眼",
+    "emotion": "内收，绷着",
+    "fusion": "物件是壳：圆铸铁壳就是身体外轮廓，裂开露出内绒",
+    "material": "主体内里米绒，只有外壳是哑光铸铁",
+    "palette": "铁灰配缝里暖米，外缘一点桉糖蓝"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头身一体圆壳",
+  "combo": "圆铸铁壳 + 胸前纵缝透绒 + 壳上小黑眼 + 铁灰对暖米",
+  "odd": "铁壳很重，缝却细",
+  "line": "",
+  "why": "戒备是铁壳，破防是那条细缝。",
+  "spec": {
+    "proportion": "接近正圆，全高约身宽",
+    "outline": "圆球剪影，胸前一条纵缝",
+    "volume": "大：铁壳；中：内绒；小：短脚",
+    "face": "两粒小黑眼贴在壳上靠近缝顶",
+    "stance": "短脚站稳，微前倾",
+    "structure": "铸铁壳开合仍连在底部，绒芯从缝鼓出一点"
+  },
+  "toy_check": "站得住。壳是身体。只有铸铁特殊材质。新组合。缝不做成伤。缩小时剩圆壳加缝。姿态：微前倾。",
+  "crop": "记忆点在胸缝。",
+  "collide": "不同于盔甲战士：无头盔面具，是整只圆壳生物。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只圆滚生物和铸铁壳长在一起：身体外轮廓就是一层哑光铸铁圆壳，胸前纵向裂开一条细缝，缝里鼓出一点暖米绒芯，拿掉壳就没有它。接近正圆。壳上靠近缝顶两粒小黑眼，无嘴。短脚站稳微前倾。内里米绒，只有外壳是哑光铸铁，外缘一点浅桉糖蓝。单个角色完整全身，正面略侧，浅灰背景，棚拍光，产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要伤口血迹，不要机甲关节，不要人类脸，不要尖刺。",
+  "enp": "Original designer toy character: a round creature fused with a cast-iron shell — the matte iron sphere is the body, a thin vertical chest seam lets warm rice plush peek out. Nearly spherical. Two tiny black eyes on the shell near the seam top, no mouth. Short feet, slight lean. Inner rice plush; only the shell is matte cast iron with a hint of candy blue. Full body, three-quarter view, light grey backdrop, studio light, product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No bloody wound, no mecha joints, no human face, no spikes.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-10",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "微前倾站"
+}

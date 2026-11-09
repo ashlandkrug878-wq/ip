@@ -1,0 +1,81 @@
+{
+  "ip": "star-yanan-e3",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "蓝糖霜冠扣在红糖球身上",
+  "species": "桉糖",
+  "axes": {
+    "archetype": "物件生物，糖球兽",
+    "silhouette": "圆糖球",
+    "mark": "头顶 · 一圈蓝糖霜冠",
+    "face": "眯眼小嘴",
+    "emotion": "内收，温和",
+    "fusion": "物件是长出来的结构：蓝糖霜冠扣死在红糖球头顶",
+    "material": "主体红糖软绒，只有霜冠是玻璃糖霜",
+    "palette": "番茄红配桉糖蓝"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "正圆糖球头身",
+  "combo": "红糖圆球 + 蓝玻璃糖霜冠 + 眯眼 + 红对蓝强对比",
+  "odd": "冠颜色比身体冷",
+  "line": "",
+  "why": "心是红糖球，蓝冠只是克制的边。",
+  "spec": {
+    "proportion": "头身一体正圆，全高约身宽",
+    "outline": "圆球加一圈冠",
+    "volume": "大：红球；中：蓝冠；小：短脚",
+    "face": "眯成线的眼，小嘴",
+    "stance": "短脚站稳",
+    "structure": "糖霜冠从头顶一圈长出，根部熔进绒里"
+  },
+  "toy_check": "站得住。冠是长出的结构。特殊材质玻璃糖霜。强对比配色。新组合。姿态：立正短脚。",
+  "crop": "记忆点在蓝冠。",
+  "collide": "不同于圣诞糖球挂饰：有脸有脚，是角色。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只红糖球小兽和一圈蓝糖霜长在一起：头顶扣着一圈玻璃质桉糖蓝糖霜冠，根部熔进番茄红软绒球身体，拿掉冠只剩光球。头身一体接近正圆。眼睛眯成线，小嘴。短脚站稳。身体番茄红软绒，只有霜冠是玻璃糖霜蓝。单个角色完整全身，正面略侧，浅灰背景，棚拍光，产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要糖果包装文字，不要人类小孩，不要闪亮大眼，不要蓝铺满身体。",
+  "enp": "Original designer toy character: a red candy-ball beast fused with a blue sugar-frost crown — a glasslike candy-blue frost ring grows from the tomato-red plush sphere. Nearly spherical. Squinting line eyes, small mouth, stump feet. Tomato-red soft plush; only the crown is glass candy frost blue. Full body, three-quarter view, light grey backdrop, studio light, product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No candy-package text, no human child, no big shiny eyes, no blue flooding the body.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-10",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "短脚站"
+}

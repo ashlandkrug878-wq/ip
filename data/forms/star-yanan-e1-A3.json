@@ -1,0 +1,81 @@
+{
+  "ip": "star-yanan-e1",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "玉石词牌嵌进侧腹的短耳兽",
+  "species": "词库硬牌",
+  "axes": {
+    "archetype": "物件生物，短耳兽",
+    "silhouette": "横宽扁圆",
+    "mark": "侧腹 · 一块圆角硬玉词牌",
+    "face": "一侧半垂眼，另一侧眯更甚",
+    "emotion": "反差，嘴硬脸收",
+    "fusion": "物件就是身体的一块：圆角硬牌嵌进侧腹成为体块",
+    "material": "主体炭灰短绒，只有词牌是抛光玉",
+    "palette": "炭灰配青白玉"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "横宽扁圆头，两只极短耳",
+  "combo": "扁圆短耳兽 + 侧腹嵌圆角玉牌 + 不对称半垂眼 + 炭灰对青白",
+  "odd": "玉牌几乎有半个身体大",
+  "line": "",
+  "why": "温玉是嵌进身体的牌面，锋收在「不说全」的空白牌上，对应毒舌词库却不写字。",
+  "spec": {
+    "proportion": "头高约占全高 45%，身宽大于高",
+    "outline": "横椭圆，侧腹一块凸出的圆角牌",
+    "volume": "大：玉牌；中：绒身；小：短耳",
+    "face": "眼不对称，都半垂，无嘴",
+    "stance": "坐着，玉牌朝外",
+    "structure": "玉牌嵌进侧腹，边缘没入绒里"
+  },
+  "toy_check": "坐得住。牌是身体块面。只有抛光玉特殊材质。新组合。无绘本笑脸。头像要带上侧牌。做得成。姿态：坐。",
+  "crop": "记忆点在侧腹，头像需斜裁入牌。",
+  "collide": "不同于胸口徽章娃：牌是体块不是别针。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只炭灰短绒短耳小兽和一块玉牌长在一起：侧腹嵌着一块几乎有半个身体大的圆角抛光玉牌，牌面空白无字，拿掉牌身体就缺一块。横宽扁圆，头高约占全高百分之四十五。两眼半垂且略不对称，无嘴。坐着，玉牌朝外。身体炭灰短绒，只有玉牌是抛光青白玉。单个角色完整全身，正面略侧，浅灰背景，棚拍光，搪胶毛绒产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要写任何文字，不要胸针别针，不要人类脸，不要尖角牌。",
+  "enp": "Original designer toy character: a charcoal plush short-eared beast fused with a jade plaque — a rounded blank polished jade plate almost half the body is set into the flank. Wide flat oval, head about 45% of height. Uneven half-lidded eyes, no mouth. Seated with the plaque outward. Charcoal short plush; only the plaque is polished pale jade. Full body, three-quarter view, light grey backdrop, studio light, vinyl-plush product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No written text, no pin badge, no human face, no sharp plaque corners.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-10",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "侧坐"
+}

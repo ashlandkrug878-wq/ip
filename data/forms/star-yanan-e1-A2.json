@@ -1,0 +1,81 @@
+{
+  "ip": "star-yanan-e1",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "头顶一圈钝霜冠的鼓腹玉兽",
+  "species": "青白玉",
+  "axes": {
+    "archetype": "物件生物，玉石鼓腹兽",
+    "silhouette": "鼓腹圆罐形",
+    "mark": "头顶 · 一圈钝边霜冠",
+    "face": "眯成线的眼，无嘴",
+    "emotion": "内收，面无表情",
+    "fusion": "物件是长出来的结构：霜冠从头顶一圈长出；鼓腹本身是玉体",
+    "material": "主体青白玉釉面，只有霜冠是半透明霜",
+    "palette": "青白配霜白，冠尖一点桉糖蓝"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "上宽下收的罐形头身一体，无耳",
+  "combo": "玉鼓腹罐形 + 一圈钝霜冠 + 线眼无嘴 + 青白对霜白",
+  "odd": "冠比脸宽，却极薄极钝",
+  "line": "",
+  "why": "温的是整只玉腹，锋收成一圈不伤人的霜冠。",
+  "spec": {
+    "proportion": "头身一体，全高约身宽的 1.2 倍",
+    "outline": "圆罐剪影，顶上一圈薄冠",
+    "volume": "大：玉腹；中：冠；小：两只短桩脚",
+    "face": "眼是两条细缝，位于上三分之一，无鼻无嘴",
+    "stance": "微微张开短臂，重心中正站稳",
+    "structure": "霜冠从头顶一圈长出，根部嵌进玉里"
+  },
+  "toy_check": "站得住。霜冠是长出来的结构。特殊材质只有霜。新组合。无大眼无笑。缩小时剩罐形加冠。做得成：冠要厚钝。姿态：微张臂。",
+  "crop": "记忆点在头顶霜冠。",
+  "collide": "不同于冰冠精灵：无翅膀无尖刺，冠钝，身体是玉罐。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只鼓腹的青白玉小兽和一圈霜长在一起：头顶长出一圈钝边半透明霜冠，根部嵌进玉里，拿掉冠只剩光头罐。头身一体像圆罐，全高约身宽一点二倍。眼睛是两条细缝，无嘴，面无表情。短臂微张，两只短桩脚站稳。身体是青白玉釉面，只有霜冠是半透明霜，冠缘一点浅桉糖蓝。单个角色完整全身，正面略侧，浅灰背景，棚拍光，搪胶手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要尖刺冰凌，不要整身透明，不要人类小孩，不要尖耳精灵。",
+  "enp": "Original designer toy character: a jar-bellied jade beast fused with a frost crown — a blunt translucent frost ring grows from the head into the jade. One-piece jar silhouette, height about 1.2× width. Slit eyes, no mouth, blank. Short arms slightly open, stump feet. Glazed pale jade body; only the crown is translucent frost with a hint of candy blue. Full body, three-quarter view, light grey backdrop, studio light, vinyl figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No sharp icicles, no fully transparent body, no human child, no pointed elf ears.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-10",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "微张臂站"
+}
