@@ -1,0 +1,81 @@
+{
+  "ip": "star-gaoye-e1",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "胸腹嵌着可捧暖釉块的团兽",
+  "species": "可捧的暖块",
+  "axes": {
+    "archetype": "物件生物，暖块",
+    "silhouette": "团子，胸前鼓出一块圆角暖釉",
+    "mark": "胸腹 · 一块比头几乎一样大的圆角暖釉块，嵌进身体",
+    "face": "半垂豆眼，眼距略窄，小点嘴",
+    "emotion": "内收，空而软",
+    "fusion": "物件成为身体的一块：圆角暖釉块嵌进胸腹成为体块，拿掉身体就空一个洞",
+    "material": "主体米白短绒，只有胸前这块是温润暖釉",
+    "palette": "米白配暖柿橙"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "横宽扁圆头，下颌短，脸上留白多",
+  "combo": "胸前一块几乎与头同大的暖釉块 + 米白绒团 + 半垂窄距豆眼 + 米白对柿橙",
+  "odd": "要捧的不是手里的东西，而是长在胸口、几乎有头那么大的一块",
+  "line": "",
+  "why": "把梦做成可以捧着的一团，却不做成奖杯。双手内收，捧的是自己胸口那块。",
+  "spec": {
+    "proportion": "头高约占全高 45%，釉块直径约等于头宽，块的下沿落到腹线",
+    "outline": "圆团，胸前明显鼓出一块圆角几何",
+    "volume": "大：暖釉块；中：绒身体和头；小：短手",
+    "face": "眼在头高下三分之一，半垂，眼距略小于一个眼宽",
+    "stance": "站着，双手内收贴在釉块两侧，像捧着身体里的那一块，脚短圆站稳",
+    "structure": "釉块四边嵌进绒里，不是抱着的杯子，边缘圆润"
+  },
+  "toy_check": "站得住：短脚站。物件长进去：釉块是胸腹体块。特殊材质只有温润釉。新组合：可捧的是身体里的一块。不像绘本。头像要稍稍裁进釉块上沿。做得成。姿态：双手内收。",
+  "crop": "记忆点在胸，头像需裁进釉块上沿才认得出。",
+  "collide": "不同于抱着桃或抱罐的动物：块嵌进胸腹，不是手持道具，也不是奖杯造型。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只米白短绒团兽和一块圆角暖釉长在一起：胸腹嵌着一块几乎和头一样大的圆角暖柿橙釉块，四边陷进绒里，拿掉这块身体就空一个洞。头高约占全高四成多，半垂小黑豆眼，眼距略窄，小点嘴，神情有一点空。站着，短手从两侧内收贴在釉块边缘，像捧着自己身体里的那一块，不是手里另拿东西。身体米白短绒，只有这块是温润釉。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。 不要画成奖杯、杯子或手里抱着的水果，不要人类的脸头发衣服，不要做成心形符号贴纸。",
+  "enp": "Original designer toy character: a rice-white short-plush round creature fused with a warm glazed mass — a rounded persimmon-orange glazed block almost as wide as the head is set into the chest, edges sunk into the plush; remove it and the body has a hole. Head about 45% of height. Half-lidded bead eyes set slightly close, tiny dot mouth, a little blank. Standing, short hands drawn in against both sides of the block as if holding a part of its own body, not a separate object. Rice-white short plush; only the chest block is warm glaze. Full body, slight three-quarter view, plain light grey background, soft studio light, vinyl-plush product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. Do not make a trophy, cup, or fruit held in the hands, no human face hair or clothes, no heart-shaped sticker.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-11",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "双手内收站"
+}

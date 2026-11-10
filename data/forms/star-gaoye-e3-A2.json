@@ -1,0 +1,81 @@
+{
+  "ip": "star-gaoye-e3",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "收下的陶空腔成为胸腔的短脚兽",
+  "species": "回响空腔",
+  "axes": {
+    "archetype": "物件生物，空腔",
+    "silhouette": "鼓胸，胸前一个圆口空腔",
+    "mark": "胸 · 一个口朝上、边缘圆钝的薄釉陶空腔成为整个胸腔",
+    "face": "眯眼，眼距略宽，无嘴，像把声音都留给胸口",
+    "emotion": "内收，听着",
+    "fusion": "物件就是胸：空腔成为胸腔体块，拿掉腔身体中空塌掉",
+    "material": "主体雾蓝短绒，只有胸腔是暖土色薄釉陶",
+    "palette": "雾蓝配暖土"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "小圆头，缩在鼓胸上方，下巴贴近腔口后沿",
+  "combo": "雾蓝小头短绒 + 胸前暖土陶空腔口朝上收下 + 宽距眯眼无嘴 + 雾蓝对暖土",
+  "odd": "胸口的口比头还大，头反而缩在腔的后上方",
+  "line": "",
+  "why": "热爱终有回响，回声不喊出去，是收下的一口空腔。口朝上，像在等。",
+  "spec": {
+    "proportion": "空腔外径约为头宽的 1.5 倍，头高约占全高 30%，腔占中部 40%",
+    "outline": "大胸小头的梨形，胸前一个圆口",
+    "volume": "大：陶空腔；中：绒身体；小：头和短脚",
+    "face": "细眯眼在头高中下部，眼距约一个半眼宽，无嘴",
+    "stance": "短脚站稳，重心在腔下的腹，不前扑",
+    "structure": "腔壁嵌进绒胸，口沿圆厚，腔是浅的凹窝不是通到底的洞，能站稳"
+  },
+  "toy_check": "站得住：短脚加厚腹。物件长进去：腔是胸。特殊材质只有薄釉陶。新组合：口朝上的胸腔。不像绘本。头像要裁进腔口上沿。做得成。姿态：短脚站。",
+  "crop": "记忆点在胸，头像须裁进腔口。",
+  "collide": "不同于喇叭吉祥物或音箱角色：口朝上收下，不做成可识别的乐器，无按键无号嘴。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只雾蓝短绒兽和一个空腔长在一起：整个胸腔是一枚口朝上、沿很圆的暖土色薄釉陶空腔，外径比头更宽，口是浅凹窝不是通洞，拿掉腔胸就塌。头很小，缩在腔口后上方，细眯眼，没有嘴，像在听。短脚站稳，重心在腹。身体雾蓝短绒，只有胸腔是薄釉陶。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。 不要做成喇叭、话筒、乐器或奖杯，不要口朝前喊叫，不要挖穿到底站不稳，不要人类的脸头发衣服。",
+  "enp": "Original designer toy character: a mist-blue short-plush creature fused with a hollow chamber — the whole chest is a warm-earth thin-glazed clay cavity with a blunt upward rim, wider than the head, a shallow bowl not a through-hole; without it the chest collapses. A small head sits behind the rim, narrow squinting eyes, no mouth, as if listening. Short feet, weight in the belly. Mist-blue short plush; only the chest cavity is thin-glazed clay. Full body, slight three-quarter view, plain light grey background, soft studio light, vinyl-plush product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. Do not make a horn, microphone, instrument or trophy, no forward-shouting mouth, do not pierce the body so it cannot stand, no human face hair or clothes.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-11",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "短脚站"
+}

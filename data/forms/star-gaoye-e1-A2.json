@@ -1,0 +1,81 @@
+{
+  "ip": "star-gaoye-e1",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "比头更宽的单片迎光叶冠",
+  "species": "迎光叶",
+  "axes": {
+    "archetype": "物件生物，叶",
+    "silhouette": "大头小身，头顶一张宽叶",
+    "mark": "头顶 · 一张比头宽的单片叶，只有迎光的那一面半透明",
+    "face": "眯成细线的眼，眼距略宽，无嘴",
+    "emotion": "内收，被光照到也不张扬",
+    "fusion": "物件是长出来的结构：单片宽叶从头顶长出成为冠，拿掉叶剪影就塌",
+    "material": "主体暖灰短绒，只有叶冠是半透明薄叶蜡，迎光一侧更透",
+    "palette": "暖灰配迎光金"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "竖高的圆头，下颌短，叶冠从顶骨一体长出，叶片向前微倾",
+  "combo": "竖高圆头 + 比头更宽的单片叶冠 + 细线眯眼无嘴 + 暖灰对迎光金",
+  "odd": "叶子只有一片却比肩还宽，光只停在迎着的那一面",
+  "line": "",
+  "why": "看见落成光只打在一片叶子上。不是整棵树在发光，是这一片被照到。",
+  "spec": {
+    "proportion": "头高约占全高 50%，叶冠宽度约为头宽的 1.6 倍，叶长略向前探",
+    "outline": "大头，头顶一张横向展开的单叶，身体短圆锥",
+    "volume": "大：叶冠；中：头；小：短手脚",
+    "face": "细线眼在头高中下部，眼距约一个半眼宽，无嘴，脸上留白多",
+    "stance": "微张臂站稳，脚短圆，叶冠微向前，重心仍在脚上",
+    "structure": "叶柄不是插销，叶基与头皮绒连成一体，边缘圆钝"
+  },
+  "toy_check": "站得住：双脚站。物件长进去：叶是头上长出的冠。特殊材质只有薄叶蜡。新组合：单片超宽叶冠。不像绘本。头像要裁进叶冠。做得成。姿态：微张臂。",
+  "crop": "记忆点在头部，头像必须裁进宽叶冠。",
+  "collide": "不同于花环头饰角色：只有一片叶，是长出来的结构不是头饰，无花朵。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短绒圆头兽和一张叶子长在一起：头顶长出一张比头更宽的单片圆钝叶冠，只有迎着光的那一面是半透明薄叶蜡，呈迎光金，背面仍是暖灰绒的厚度。头高约占全高一半，细线眯眼，没有嘴，神情收着。微张臂站稳，手脚短圆。身体暖灰短绒，只有叶冠是半透明薄叶蜡。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。 不要多片叶子做成花环，不要把叶画成帽子或发卡，不要整身发光，不要人类的脸头发衣服，不要树干人形。",
+  "enp": "Original designer toy character: a short-plush round-headed creature fused with a single leaf — a blunt leaf crown wider than the head grows from the scalp; only the light-facing side is translucent leaf wax in warm gold, the back stays thick warm-grey plush. Head about half the height. Fine line squinting eyes, no mouth, reserved. Standing with arms slightly open, short round limbs. Warm-grey short plush; only the leaf crown is translucent leaf wax. Full body, slight three-quarter view, plain light grey background, soft studio light, vinyl-plush product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. Do not make a wreath of many leaves, do not turn the leaf into a hat or clip, no whole-body glow, no human face hair or clothes, no tree-trunk humanoid.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-11",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "微张臂站"
+}

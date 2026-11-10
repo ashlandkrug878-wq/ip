@@ -1,0 +1,81 @@
+{
+  "ip": "star-gaoye-e1",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "未开透的芽苞就是头的坐兽",
+  "species": "晚开的芽",
+  "axes": {
+    "archetype": "物件生物，芽",
+    "silhouette": "团子，头顶鼓起的芽苞",
+    "mark": "头顶 · 比脸更宽的未开透芽苞，只裂一线暖光",
+    "face": "半垂小黑豆眼，眼距约一个眼宽，极小一字嘴，长在芽苞下沿",
+    "emotion": "内收，安静张开",
+    "fusion": "物件就是头：未开透的芽苞就是头颅，拿掉芽就没有头",
+    "material": "主体苔绿短绒，只有芽尖裂口是半透明蜡质新叶",
+    "palette": "苔绿配暖蜜黄"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头就是一枚横宽的芽苞，顶部圆钝，下颌收成短弧，脸只占芽下沿一条",
+  "combo": "横宽芽苞头 + 只裂一线暖光 + 半垂豆眼贴在下沿 + 苔绿对蜜黄",
+  "odd": "脸只占芽下沿一条窄带，芽比身体还宽",
+  "line": "",
+  "why": "晚到的看见落成迟迟裂开的一线。光只在裂口，芽没有完全盛开。",
+  "spec": {
+    "proportion": "头高约占全高 55%，芽宽约为身宽的 1.3 倍",
+    "outline": "圆团坐姿，头顶鼓出一枚横宽芽苞",
+    "volume": "大：芽苞；中：绒身体；小：短脚",
+    "face": "眼在芽下沿，约占头高最底部三分之一，半垂，眼距约一个眼宽",
+    "stance": "坐着，短脚前伸，肩松，芽微微前倾但重心稳定",
+    "structure": "芽苞与身体一体，下沿嵌入肩线，裂口在顶前方，不是插上去的花"
+  },
+  "toy_check": "站得住：坐姿。物件长进去：芽就是头。特殊材质只有蜡质裂口。新组合：未开透的芽当头。不像绘本。头像能看到裂口。做得成。姿态：坐。",
+  "crop": "记忆点在头部，头像能看见芽苞和那一线光。",
+  "collide": "不同于盛开花朵头的吉祥物：芽未开透，只有一线光，无花瓣层叠，脸收着。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短绒圆兽和一枚未开透的芽长在一起：头就是一枚比身体更宽的圆钝芽苞，顶前方只裂开一线，裂口里透出暖蜜黄的半透明新叶，拿掉芽就没有头。头高约占全高一半多，脸只占芽下沿一条。半垂小黑豆眼，极小一字嘴，神情安静。坐着，短脚前伸。身体苔绿短绒，只有裂口是半透明蜡质新叶。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。 不要把芽画成盛开的花，不要花瓣层叠，不要整身发光，不要人类的脸头发衣服，不要做成奖杯或舞台灯。",
+  "enp": "Original designer toy character: a short-plush round creature fused with an unopened bud — the head is a blunt bud wider than the body, split by only one warm line of translucent new leaf at the front. Height of the head about half the figure, the face only a narrow band along the lower rim. Half-lidded black bead eyes, tiny straight mouth, quiet. Seated with short feet forward. Moss-green short plush; only the split is waxy translucent new leaf in warm honey yellow. Full body, slight three-quarter view, plain light grey background, soft studio light, vinyl-plush product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. Do not open the bud into a full bloom, no layered petals, no whole-body glow, no human face hair or clothes, no trophy or stage light.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-11",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "坐"
+}

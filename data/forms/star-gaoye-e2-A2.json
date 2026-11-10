@@ -1,0 +1,81 @@
+{
+  "ip": "star-gaoye-e2",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "背后嵌一条钝硬脉板的软叶团",
+  "species": "软刃叶",
+  "axes": {
+    "archetype": "物件生物，叶",
+    "silhouette": "团子，背后一条竖板",
+    "mark": "背后 · 一条比身体更高的圆角钝脉板",
+    "face": "半垂豆眼，眼距正常，极小一字嘴",
+    "emotion": "反差：脸放空而软，板是清楚的边",
+    "fusion": "物件背负着并成为轮廓：钝脉板嵌进后背，拿掉身体就空",
+    "material": "主体粉雾短绒，只有脉板是哑光骨瓷",
+    "palette": "粉雾配青白瓷"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头身几乎一团，两只极短的圆叶耳，下颌挨着瓷板的上沿",
+  "combo": "粉雾软绒团 + 背后一条更高的青白瓷钝板 + 半垂一字嘴 + 粉雾对青白",
+  "odd": "板比头高，脸只靠在板的上沿，像把硬的那条边留给背后",
+  "line": "",
+  "why": "软面给人碰，锋收在背后一条钝板里。板不是刀，是瓷，边圆。",
+  "spec": {
+    "proportion": "坐高约是身宽的 1.1 倍，瓷板高出头顶约 20%",
+    "outline": "圆团靠坐，背后一条竖向圆角薄板",
+    "volume": "大：瓷板；中：绒团；小：短耳短脚",
+    "face": "眼在头高下三分之一，半垂，眼距约一个眼宽",
+    "stance": "坐着靠在板上，短脚前伸，肩松开",
+    "structure": "瓷板下沿是坐面，两侧嵌进绒背，顶角和侧缘全部倒圆"
+  },
+  "toy_check": "站得住：坐在板的下沿。物件长进去：板是后背。特殊材质只有骨瓷。新组合：软团背后一条钝瓷脉。不像绘本。头像要裁进板上沿。做得成。姿态：靠坐。",
+  "crop": "记忆点在背后，头像须裁进瓷板上沿。",
+  "collide": "不同于靠椅角色或刀背角色：板是一条窄脉不是椅背，边圆钝，无扶手无刃。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只粉雾短绒团和一条叶脉长在一起：背后嵌着一条比身体更高的圆角钝脉板，板是哑光青白骨瓷，下沿托住它坐着，拿掉板身体就空。全高约是身宽的一点一倍，半垂小黑豆眼，极小一字嘴，神情放空而软。坐着靠在板上，短脚前伸，肩松开。身体粉雾短绒，只有脉板是哑光骨瓷。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。 不要把板画成刀、剑或椅子，不要尖角，不要人类的脸头发衣服，不要做成翅膀。",
+  "enp": "Original designer toy character: a misty-pink short-plush round creature fused with a leaf vein — a rounded blunt vein plate taller than the body is set into the back in matte celadon bone china, its lower edge forming the seat; remove the plate and the body is hollow. Height about 1.1× body width. Half-lidded bead eyes, tiny straight mouth, soft and blank. Seated leaning on the plate, short feet forward, loose shoulders. Misty-pink short plush; only the plate is matte bone china. Full body, slight three-quarter view, plain light grey background, soft studio light, vinyl-plush product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. Do not turn the plate into a knife, sword or chair, no sharp corners, no human face hair or clothes, no wings.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-11",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "靠坐"
+}

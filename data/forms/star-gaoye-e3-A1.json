@@ -1,0 +1,81 @@
+{
+  "ip": "star-gaoye-e3",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "圆角路石就是下身的坐兽",
+  "species": "远路石",
+  "axes": {
+    "archetype": "物件生物，路石",
+    "silhouette": "上绒下石的坐姿块",
+    "mark": "下身 · 一块圆角粗陶路石成为骨盆到坐面的整个下身",
+    "face": "半垂豆眼，眼距正常，小一字嘴，神情笃定",
+    "emotion": "内收，温和笃定",
+    "fusion": "物件就是身体的下半：路石即下身和坐面，拿掉石它不能坐也不能站",
+    "material": "主体暖褐短绒上身，只有下身路石是粗陶",
+    "palette": "暖褐配浅沙"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "横宽圆头，短耳，下颌圆，和石身子比例清楚",
+  "combo": "暖褐绒上身 + 浅沙粗陶圆角石下身 + 半垂笃定豆眼 + 暖褐对浅沙",
+  "odd": "下半截不是腿，是一块可以坐稳的路石",
+  "line": "",
+  "why": "路虽远，先把自己做成可以停住的一块石头。走和到都落在坐得住上。",
+  "spec": {
+    "proportion": "头高约占全高 40%，石下身约占全高 45%，上身短",
+    "outline": "上圆下稳的梯形块，底面宽而平",
+    "volume": "大：路石下身；中：头；小：短手",
+    "face": "眼在头高下三分之一，半垂，眼距约一个眼宽，嘴小而平",
+    "stance": "坐在自己的石下身上，短手自然垂在石沿，底面平，不用另做椅子",
+    "structure": "绒上身在腰线处嵌入粗陶石，接缝是一圈浅沟，不是穿的裤子"
+  },
+  "toy_check": "站得住：石底平坐。物件长进去：石就是下身。特殊材质只有粗陶。新组合：路石下身。不像绘本。头像要稍带石的上沿。做得成。姿态：坐。",
+  "crop": "记忆点在下身，头像需带一点石的上沿才完整。",
+  "collide": "不同于石像或穿石靴的小人：上身是软绒动物，下身整块是石，不是鞋子或底座配件。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只暖褐短绒兽和一块路石长在一起：从腰到坐面整截下身就是一块圆角浅沙粗陶路石，底面宽而平，拿掉石头它就不能坐。头高约占全高四成，半垂小黑豆眼，小一字嘴，神情温和笃定。坐在自己的石下身上，短手垂在石沿。上身暖褐短绒，只有下身是粗陶。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。 不要画成底座上的摆件，不要做成鞋子或石凳配件，不要人类的脸头发衣服，不要里程碑文字。",
+  "enp": "Original designer toy character: a warm-brown short-plush creature fused with a road stone — from the waist down the whole lower body is one rounded coarse-clay stone in pale sand, wide flat base; without the stone it cannot sit. Head about 40% of height. Half-lidded bead eyes, tiny straight mouth, gently sure. Seated on its own stone lower body, short hands resting on the stone rim. Warm-brown short plush above; only the lower body is coarse clay. Full body, slight three-quarter view, plain light grey background, soft studio light, vinyl-plush product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. Do not sit it on a separate base, do not make shoes or a stool accessory, no human face hair or clothes, no milestone lettering.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-11",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "坐"
+}

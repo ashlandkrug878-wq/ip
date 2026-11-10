@@ -1,0 +1,81 @@
+{
+  "ip": "star-gaoye-e2",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "锯齿香草叶就是身体的鼓叶兽",
+  "species": "艾叶",
+  "axes": {
+    "archetype": "物件生物，香草叶",
+    "silhouette": "叶子轮廓的鼓腹身体",
+    "mark": "全身 · 锯齿叶缘的香草叶外形就是身体，一条浅色钝脉从中脊走过",
+    "face": "半垂豆眼贴在叶身上部，无嘴",
+    "emotion": "反差：脸软，轮廓清楚",
+    "fusion": "物件就是身体：香草叶的轮廓即全身，拿掉叶子角色不在",
+    "material": "主体灰绿短绒，只有中脊叶脉是浅釉硬脉，边缘圆钝",
+    "palette": "灰绿配浅米脉"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头和身体连成一张鼓起的叶子，上部稍圆，没有另长一个头",
+  "combo": "锯齿叶缘的鼓叶身体 + 中脊一条浅米钝脉 + 上部半垂无嘴豆眼 + 灰绿对浅米",
+  "odd": "没有分开的头，脸直接长在叶身上部",
+  "line": "",
+  "why": "叶就是她。锋只是中脊一条钝脉，面是软绒。不做成伤人的锯齿。",
+  "spec": {
+    "proportion": "全高约为最宽叶身的 1.4 倍，脸只占上部 25%",
+    "outline": "一张立着的鼓腹香草叶，边缘浅浅分瓣但圆钝",
+    "volume": "大：叶身；中：中脊脉；小：底部两只短脚",
+    "face": "眼在上部四分之一，半垂，眼距约一个眼宽，无嘴",
+    "stance": "微侧站，两只极短的脚从叶的下沿长出，重心在叶腹",
+    "structure": "叶脉是嵌进中脊的浅釉条，两端圆头，不刺出叶缘"
+  },
+  "toy_check": "站得住：短脚加宽叶腹。物件长进去：叶就是身体。特殊材质只有浅釉脉。新组合：无头叶身长脸。不像绘本。头像即叶身上部。做得成。姿态：微侧站。",
+  "crop": "记忆点就是身体轮廓，头像裁叶身上部带齿缘和脉。",
+  "collide": "不同于普通叶子精灵或旅行青蛙：没有四肢人体，锯齿是钝的，脸极小且无嘴。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短绒兽和一张锯齿香草叶长在一起：整张鼓起的叶子就是身体，没有另长的头，浅浅的圆钝齿缘就是轮廓，一条浅米色的钝釉叶脉嵌在中脊，不刺出边缘。全高约是叶宽的一点四倍，半垂小黑豆眼贴在叶身上部，没有嘴，脸是软的，边是清楚的。微侧站，下沿两只极短的脚。身体灰绿短绒，只有中脊脉是浅釉。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。 不要尖刺齿，不要做成刀或剑，不要另画一个动物头，不要人类的脸头发衣服，不要写实植物标本。",
+  "enp": "Original designer toy character: a short-plush creature fused with a serrated herb leaf — the puffed leaf is the whole body, no separate head; shallow blunt teeth form the silhouette; a pale rice-colored glazed vein is set into the midrib and does not pierce the edge. Height about 1.4× leaf width. Half-lidded bead eyes on the upper leaf, no mouth; soft face, clear outline. Slight three-quarter standing pose on two tiny feet at the lower rim. Grey-green short plush; only the midrib vein is pale glaze. Full body, slight three-quarter view, plain light grey background, soft studio light, vinyl-plush product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No sharp thorns, do not make a knife or sword, no separate animal head, no human face hair or clothes, no realistic herbarium specimen.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-11",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "微侧站"
+}

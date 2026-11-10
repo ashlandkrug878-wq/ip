@@ -1,0 +1,81 @@
+{
+  "ip": "star-gaoye-e3",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "头顶一圈圆钝小石冠的麦色兽",
+  "species": "远路石",
+  "axes": {
+    "archetype": "物件生物，石",
+    "silhouette": "大头，头顶一圈矮石冠",
+    "mark": "头顶 · 一圈六到七枚圆钝小石连成的矮冠，像走了很久才攒下的路",
+    "face": "半垂豆眼，眼距正常，小点嘴",
+    "emotion": "内收，温和，还可以走",
+    "fusion": "物件是长出来的结构：小石冠从头皮长出，拿掉冠剪影就平",
+    "material": "主体麦色短绒，只有石冠是磨砂青灰石",
+    "palette": "麦色配青灰石，冠底一点苔绿"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "竖高圆头，冠贴着头皮一圈，石粒大小不一但都圆钝，不高耸",
+  "combo": "竖高麦色圆头 + 一圈圆钝青灰小石冠 + 半垂点嘴 + 麦色对青灰",
+  "odd": "冠不是珠宝，是一圈走出来的小石头，还矮，像刚刚攒够",
+  "line": "",
+  "why": "路虽远，先把走过的路攒成一圈矮冠。不是胜利花环，是还能继续走的重量。",
+  "spec": {
+    "proportion": "头高约占全高 52%，石冠高出头顶约 10%，石粒直径约是眼宽的 1 到 1.5 倍",
+    "outline": "大头小身，顶上一圈矮钝凸起",
+    "volume": "大：头；中：石冠；小：手脚",
+    "face": "眼在头高下三分之一，半垂，眼距约一个眼宽",
+    "stance": "双手微张站稳，不是拥抱的大张，脚短圆",
+    "structure": "每枚小石从绒头皮长出，彼此挨着但不掉下来，底沿可有极窄一圈苔绿绒，像路上的一点草"
+  },
+  "toy_check": "站得住：短脚站。物件长进去：石冠是长出的结构。特殊材质只有磨砂石。新组合：一圈矮路石冠。不像绘本。头像能看到冠。做得成。姿态：双手微张。",
+  "crop": "记忆点在头部，头像能看见一圈小石。",
+  "collide": "不同于王冠或花环头角色：石粒圆钝矮小，无尖无珠宝，不是金属冠。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只麦色短绒兽和一圈路石长在一起：头顶贴着头皮长出一圈六到七枚大小略有不同的圆钝青灰磨砂小石，矮，像刚攒够的一路，拿掉这圈石头头的剪影就平了。头高约占全高一半，半垂小黑豆眼，小点嘴，神情温和。双手微张站稳，不是大张开的拥抱，脚短圆。身体麦色短绒，只有石冠是磨砂石，冠底可有极窄一点苔绿绒。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。 不要做成金属王冠或花环，不要尖石，不要文字路标，不要人类的脸头发衣服，不要珠宝切面。",
+  "enp": "Original designer toy character: a wheat-colored short-plush creature fused with road stones — a low crown of six or seven blunt, slightly uneven frosted blue-grey pebbles grows from the scalp, as if gathered along a long road; without the ring the head silhouette goes flat. Head about half the height. Half-lidded bead eyes, tiny dot mouth, gentle. Standing with hands slightly open, not a wide embrace, short round feet. Wheat-colored short plush; only the pebble crown is frosted stone, with a hairline of moss-green plush at the base. Full body, slight three-quarter view, plain light grey background, soft studio light, vinyl-plush product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. Do not make a metal crown or floral wreath, no sharp rocks, no lettered signposts, no human face hair or clothes, no faceted jewels.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-11",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "双手微张站"
+}

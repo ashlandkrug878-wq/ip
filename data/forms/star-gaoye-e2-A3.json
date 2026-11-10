@@ -1,0 +1,81 @@
+{
+  "ip": "star-gaoye-e2",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "叶形薄壳罩住肩、前缘裂开露出软芯",
+  "species": "软刃叶",
+  "axes": {
+    "archetype": "物件生物，叶壳",
+    "silhouette": "壳形，前开一条缝",
+    "mark": "头肩 · 一张叶形薄壳罩住头和肩，前缘裂开一条缝露出软芯和脸",
+    "face": "缝里是两只半垂细眼，无嘴，只露出软芯中间一小块",
+    "emotion": "反差：壳有清楚的边，缝里的脸是软的",
+    "fusion": "物件是壳：叶形壳就是头肩外轮廓，拿掉壳只剩一小团芯",
+    "material": "主体奶油软绒芯，只有叶壳是深苔绿薄釉叶",
+    "palette": "奶油配深苔绿"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头藏在叶壳里，壳顶圆钝如一张对折的叶子，前缘一条竖缝",
+  "combo": "深苔绿叶壳罩头肩 + 前缝露出奶油软芯和半垂细眼 + 壳缘钝 + 奶油对苔绿",
+  "odd": "脸几乎不在壳外，只从一条缝里被看见",
+  "line": "",
+  "why": "被看见的那一下是软芯从硬壳缝里露出来。壳是叶，边钝，不是盔甲杀气。",
+  "spec": {
+    "proportion": "壳高约占全高 60%，缝宽约是壳宽的 1/5，下身短",
+    "outline": "一张对折立叶的剪影，下部露出短脚",
+    "volume": "大：叶壳；中：缝里的绒芯；小：短脚",
+    "face": "两眼在缝的中下部，半垂细长，无嘴，缝外不画五官",
+    "stance": "微前倾站稳，短脚前后半步，壳仍盖住肩",
+    "structure": "壳与肩绒在两侧连着，不是披风搭扣，下沿圆，不割伤"
+  },
+  "toy_check": "站得住：短脚站。物件长进去：壳是头肩。特殊材质只有薄釉叶壳。新组合：从叶缝里被看见。不像绘本。头像即叶壳和那条缝。做得成。姿态：微前倾。",
+  "crop": "记忆点在头部，头像是叶壳和中间那条缝。",
+  "collide": "不同于纸袋头或盔甲骑士：壳是一张叶子的对折，缝里只有软芯和小脸，无盔无袋印。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "物件被画成配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一团奶油软绒和一张叶子长在一起：一张深苔绿的薄釉叶对折成壳，罩住头和肩，前缘只裂一条竖缝，缝里露出奶油软芯和两只半垂细眼，没有嘴。壳高约占全高六成，下沿圆钝。微前倾站稳，短脚前后半步。身体芯是奶油短绒，只有叶壳是薄釉。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。 不要做成盔甲、头盔或纸袋，不要尖壳，不要张嘴，不要人类的脸头发衣服，不要多条裂缝。",
+  "enp": "Original designer toy character: a cream soft-plush core fused with a leaf — a deep moss-green thin-glazed leaf folds into a shell over the head and shoulders, split down the front by one vertical slit that shows the cream core and two half-lidded narrow eyes, no mouth. Shell about 60% of height, blunt lower rim. Standing with a slight forward lean, short feet in a half-step. Cream short plush core; only the leaf shell is thin glaze. Full body, slight three-quarter view, plain light grey background, soft studio light, vinyl-plush product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. Do not make armor, a helmet or a paper bag, no sharp shell, no open mouth, no human face hair or clothes, no extra slits.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-11",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "微前倾站"
+}
