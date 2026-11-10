@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-10",
+  "window_7d": [
+    "2026-11-04",
+    "2026-11-10"
+  ],
+  "window_30d": [
+    "2026-10-12",
+    "2026-11-10"
+  ],
+  "selected": "ribodiary",
+  "reason": "最新未过平面检查点优先续作，不冒称当日最热门。新官方快闪计划与SKU供给可核；历史独立用户及历史店内榜为不同类型补充，当前需求证据仍弱。",
+  "new_studies": 0,
+  "count_before": 43,
+  "count_after": 43,
+  "dedupe": "重新取得43卡与别名，Pochacco已有；瑞宝及其角色群不拆新对象，跨地区不重复。",
+  "qualified_candidates": [
+    {
+      "name": "RiboDiary（续作）",
+      "sources": [
+        "M01",
+        "M02",
+        "M03",
+        "J01"
+      ],
+      "strength": "近期官方运营计划强，历史用户自述弱，无成交因果"
+    }
+  ],
+  "watchlist_not_qualified": [
+    {
+      "name": "Nommi / TOPTOY",
+      "category": "名创相关，TOPTOY单列",
+      "sources": [
+        "M05"
+      ],
+      "reason": "11/1供给在30天窗口，版权合同未核，缺独立需求"
+    },
+    {
+      "name": "Sanrio圣诞/贴纸交换",
+      "category": "三丽鸥",
+      "sources": [
+        "M06"
+      ],
+      "reason": "11/6发布，11/12–13未来供给，无销量"
+    },
+    {
+      "name": "PUPPET SUNSUN",
+      "category": "其他日本",
+      "sources": [
+        "M07"
+      ],
+      "reason": "11/11—29书店活动计划可核，未见独立需求，发布日期未知"
+    },
+    {
+      "name": "DURIDU 두리두",
+      "category": "韩国",
+      "sources": [
+        "M08"
+      ],
+      "reason": "10/28介绍及11/27—29展会计划，仅30天弱线索，无用户/销售"
+    }
+  ],
+  "limitations": "只有1个续作对象，另4项未达门槛观察，不凑3–5个热门候选。",
+  "checkpoint": {
+    "subject_id": "ribodiary",
+    "status": "strict_flat_fill_not_passed",
+    "tests_added": [
+      23,
+      24
+    ],
+    "target": "V04蓝背带裤挂件同一可见角度",
+    "next_action": "继续纠正额脸/眼点/色区/比例/结构，不进入3D或毛绒"
+  }
+}

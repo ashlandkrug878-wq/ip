@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-10",
+  "web_queries": [
+    "RiboDiary 瑞宝 2026 11月10日",
+    "名创优品 TOPTOY Nommi 2026 11月",
+    "サンリオ パペットスンスン 2026 11月10日 新商品",
+    "캐릭터 인형 팝업 2026 11월10일",
+    "\"RiboDiary\" review November 2026",
+    "캐릭터 인형 \"2026.11.09\"",
+    "\"NOMMI\" \"2026\" \"November\" Christmas"
+  ],
+  "engines": [
+    "system1 recent7d",
+    "system2"
+  ],
+  "xiaohongshu": [
+    {
+      "query": "RiboDiary 品牌介绍",
+      "executed": false,
+      "status": "blocked",
+      "read_pages": 0,
+      "accounts": [],
+      "reason": "当前新连接Unknown tool(browser.js)，停止依赖，不绕过"
+    },
+    {
+      "query": "RiboDiary 产品汇总",
+      "executed": false,
+      "status": "blocked",
+      "read_pages": 0,
+      "accounts": [],
+      "reason": "当前新连接Unknown tool(browser.js)，停止依赖，不绕过"
+    }
+  ],
+  "sampling": "复核一个既有Reddit线程，保留原六账号目的抽样；相对日期缓存未变，不当今天新增。",
+  "sanrio_exception": "用户明确跳过小红书",
+  "blocked_urls": [
+    "https://www.sina.cn/news/detail/5363040677794468.html"
+  ],
+  "date_cautions": "快闪预约11/12、开幕11/13均未来；预约制不当需求；Nommi/DURIDU在30天窗口，店内历史榜不作今天排名。"
+}
