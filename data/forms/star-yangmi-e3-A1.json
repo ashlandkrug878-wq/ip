@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangmi-e3",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "背上轻裂一枚新壳的圆兽",
+  "species": "轻裂变身壳",
+  "axes": {
+    "archetype": "物件生物，变身壳",
+    "silhouette": "圆坐兽，背上鼓起一枚轻轻裂开的新壳",
+    "mark": "后背 · 一枚圆钝新壳只裂一线，缝里透出一点新绿",
+    "face": "半垂小黑豆眼，小嘴，脸平静",
+    "emotion": "内收，平静换壳",
+    "fusion": "物件就是背：轻裂的壳长在背上成为新的外轮廓，拿掉壳背形不成立",
+    "material": "主体暖灰短绒，只有这枚壳是薄哑光瓷",
+    "palette": "暖灰配新叶绿"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "圆头略低，与身体连成一团，壳在后上，不遮脸",
+  "combo": "圆坐身 + 背上圆钝薄瓷壳只裂一线 + 缝里一点新绿 + 暖灰对新叶绿",
+  "odd": "壳裂开却不是伤口，缝是圆钝的一线",
+  "line": "",
+  "why": "不说坏了，说变身了。变化落成一枚轻轻裂开的新壳，快乐点在那一线新色。",
+  "spec": {
+    "proportion": "头高约占全高 45%，壳宽约为背宽的 0.8 倍，壳高于头一点",
+    "outline": "圆坐团，后上鼓起一枚壳",
+    "volume": "大：圆身；中：壳；小：短肢",
+    "face": "眼在头中下部，半垂，嘴极小且闭合",
+    "stance": "坐着，短脚前伸，肩松，不挣扎",
+    "structure": "壳从后背长出，边缘圆钝，只裂一线，缝里是同一只身体的新叶绿色，不是另一张脸或内脏"
+  },
+  "toy_check": "站得住：坐。物件长进去：壳就是背的外轮廓。特殊材质只有薄瓷壳。新组合：轻裂新壳当背。不像绘本。头像能看到肩后的壳缘。做得成。姿态：坐。",
+  "crop": "记忆点在头与肩后壳缘，头像能看见壳的起端和那一线缝。",
+  "collide": "不同于破茧狂欢或受伤模型：壳未脱落，裂口圆钝，脸平静，缝里只是一点新色。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "裂口被画成伤口或看着很疼的破损"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短绒圆兽和一枚轻轻裂开的新壳长在一起：这枚壳就是背的外轮廓，拿掉壳背形就不成立。头高约占全高四五成，坐姿。圆头，半垂小黑豆眼，极小闭合嘴，表情平静。背上的壳边缘圆钝，只裂开一线，缝里透出一点新叶绿，不是伤口。主体是暖灰短绒，只有这枚壳是薄哑光瓷。配色是暖灰配新叶绿。单个角色完整全身，正面略侧，坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要伤口、血迹、骨骼或内脏，不要痛苦表情，不要完全脱落的碎壳，不要整身透明。",
+  "enp": "Original designer toy character: a short-plush round creature fused with a lightly split new shell — the shell is the back's outer contour, without it the back shape fails. Head about 45 percent of height, sitting. Round head, half-lidded bean eyes, a tiny closed mouth, calm. The shell edges are blunt, split only along one line, with a hint of new-leaf green in the seam, not a wound. Body is warm-grey plush; only the shell is thin matte porcelain. Colors: warm grey with new-leaf green. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No wounds, blood, bones or viscera, no pained face, no fully shed broken shell pieces, no fully transparent body.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-12",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "坐"
+}

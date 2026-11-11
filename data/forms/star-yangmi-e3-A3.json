@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangmi-e3",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "背上长出一串圆钝星点软脊的兽",
+  "species": "绿海聚点",
+  "axes": {
+    "archetype": "物件生物，星脊",
+    "silhouette": "矮站梨形，一条由圆钝星点连成的软脊从后脑落到尾",
+    "mark": "后背 · 一串圆钝星点连成软脊，像把散点收成一条河",
+    "face": "半垂小黑豆眼，小嘴，头微侧",
+    "emotion": "内收，把散开的收起来",
+    "fusion": "物件就是背脊：圆钝星点连成的软脊长在背上，拿掉脊剪影不成立",
+    "material": "主体夜蓝短绒，只有星点是哑光矿晶",
+    "palette": "夜蓝配嫩绿"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "圆头略前，脊从后脑开始一颗颗落下，星点大小略有变化但都圆钝",
+  "combo": "后脑到尾的圆钝星点软脊 + 夜蓝绒身 + 星点哑光矿晶 + 夜蓝对嫩绿",
+  "odd": "脊不是尖刺，是一串圆点连成的河",
+  "line": "",
+  "why": "散开的光被收成一条脊。变身不是碎掉，是把点连起来，还在身上。",
+  "spec": {
+    "proportion": "头高约占全高 45%，脊的最高点略高于头顶，星点最大的约等于眼宽",
+    "outline": "矮站梨形，一条点状软脊画出从后脑到尾的弧",
+    "volume": "大：梨身；中：星脊；小：短肢",
+    "face": "眼在头中下部，半垂，头微侧",
+    "stance": "双脚分开站稳，重心在两脚之间，一手自然垂，不是迈步",
+    "structure": "星点从后脑长出并连成一体的软脊，不是背包或别针；点与点之间有短绒相连"
+  },
+  "toy_check": "站得住：双脚站。物件长进去：星脊就是背的轮廓。特殊材质只有矿晶星点。新组合：圆钝星点连成软脊。不像绘本。头像能看到后脑第一颗星点。做得成。姿态：微侧站。",
+  "crop": "记忆点在后脑与第一颗星点，头像能看见脊的起点。",
+  "collide": "不同于背上插旗或尖刺龙脊：星点圆钝，连成软河，不是武器，有夜蓝与嫩绿对比。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "星点被画成可摘别针或尖刺武器"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短绒圆兽和一串圆钝星点长在一起：这些星点连成一条软脊，就是背的轮廓，拿掉脊剪影就不成立。头高约占全高四五成，矮站，双脚分开站稳。圆头微侧，半垂小黑豆眼，极小嘴。脊从后脑落到尾，星点都圆钝，不是尖刺。主体是夜蓝短绒，只有星点是哑光矿晶。配色是夜蓝配嫩绿。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要尖刺龙脊，不要武器，不要夜空背景，不要可摘的星星别针。",
+  "enp": "Original designer toy character: a short-plush round creature fused with a string of blunt star-dots — the dots join into a soft spine that is the back's contour, without it the silhouette fails. Head about 45 percent of height, short standing pose, feet apart and stable. Round head slightly turned, half-lidded bean eyes, tiny mouth. The spine runs from the back of the head to the tail; every dot is rounded, not spiked. Body is night-blue plush; only the dots are matte mineral crystal. Colors: night blue with fresh green. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No spiked dragon spine, no weapons, no night-sky backdrop, no clip-on star pins.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-12",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "站微侧"
+}

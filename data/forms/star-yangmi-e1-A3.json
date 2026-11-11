@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangmi-e1",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "前肢长成宽布掌去抚平褶皱的兽",
+  "species": "铺开的裙浪",
+  "axes": {
+    "archetype": "物件生物，布掌",
+    "silhouette": "圆身，前方展开一对宽过身体的布掌",
+    "mark": "前肢 · 两片宽布掌铺在身前，把褶皱抚平",
+    "face": "半垂小黑豆眼，视线落在布掌上，小嘴",
+    "emotion": "内收，专注",
+    "fusion": "物件就是前肢：宽布掌长成双手臂，拿掉布掌就没有前肢",
+    "material": "主体米白短绒，只有布掌是哑光厚织物",
+    "palette": "米白配墨绿"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "圆钝短头，顶平，脸在前下，不做成人类手型的五指",
+  "combo": "圆身 + 身前两片宽过身体的布掌 + 掌面哑光厚织物 + 米白对墨绿",
+  "odd": "前肢不是手，是两片可以铺平的布",
+  "line": "",
+  "why": "成全落成把褶皱抚平。手先于脸，掌比身体更宽。",
+  "spec": {
+    "proportion": "头高约占全高 45%，单侧布掌宽约等于身宽",
+    "outline": "圆身蹲坐，身前展开横宽布掌",
+    "volume": "大：布掌；中：圆身；小：短脚",
+    "face": "眼在头中下部，半垂，视线向下落在掌面",
+    "stance": "蹲坐，布掌铺在身前地面感的平面上，掌缘圆钝",
+    "structure": "布掌从肩下直接展开成片，没有细手指，掌面与肩一体"
+  },
+  "toy_check": "站得住：蹲坐。物件长进去：布掌就是前肢。特殊材质只有织物掌。新组合：前肢是铺平的布。不像绘本。头像能看到肩下涌出的布掌。做得成。姿态：前肢铺开。",
+  "crop": "记忆点在肩与掌的交接，头像能看见宽布掌的起端。",
+  "collide": "不同于举手的小人偶：没有人类手指，掌是整片布，做成身体结构。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "布掌被画成两只普通手再盖一块布"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短绒圆兽和两片宽布掌长在一起：布掌就是它的前肢，拿掉布掌就没有手臂。头高约占全高四五成，单侧掌宽约等于身宽，蹲坐。圆钝短头，半垂小黑豆眼视线落在掌面上，极小嘴。没有细手指，掌缘圆钝。主体是米白短绒，只有布掌是哑光厚织物。配色是米白配墨绿。单个角色完整全身，正面略侧，蹲坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要人类手指，不要整理衣物的情节场面，不要伸长的橡皮管臂。",
+  "enp": "Original designer toy character: a short-plush round creature fused with two wide cloth palms — the palms are the forelimbs, without them there are no arms. Head about 45 percent of height, each palm about as wide as the body, squatting. Blunt round head, half-lidded bean eyes looking down at the palms, tiny mouth. No thin fingers, rounded palm edges. Body is off-white plush; only the palms are matte thick cloth. Colors: off-white with pine green. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human fingers, no clothes-adjusting scene, no rubber-hose arms.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-12",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "前肢铺开"
+}

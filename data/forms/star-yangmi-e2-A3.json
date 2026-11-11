@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangmi-e2",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "头是一枚铺开布冠的蹲姿软团类人",
+  "species": "低身支点",
+  "axes": {
+    "archetype": "类人探索，布冠",
+    "silhouette": "矮软团类人蹲姿，头上展开一枚横宽布冠",
+    "mark": "头 · 一枚铺开的布冠成为头的外轮廓，脸只占冠下一条",
+    "face": "极小半垂眼和一字嘴贴在布冠折里，不是真人五官",
+    "emotion": "内收，把锋藏进折里",
+    "fusion": "物件就是头：铺开的布冠就是头的外壳，拿掉布冠只剩一颗小核",
+    "material": "主体暖灰短绒，只有布冠折边是硬挺拷花厚布",
+    "palette": "暖灰配孔雀绿"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "没有真人发型，头的外轮廓就是一枚向两侧铺开的布冠，顶低，折边圆钝",
+  "combo": "铺开布冠当头壳 + 脸只占冠下一条 + 折边硬挺拷花 + 暖灰对孔雀绿",
+  "odd": "类人却没有人脸发型，头是布的结构",
+  "line": "",
+  "why": "在本该比造型的直立场里，头自己先铺开、蹲下去。锋藏在折边里。",
+  "spec": {
+    "proportion": "头连冠约占全高 55%，冠宽约为肩宽的 1.5 倍，身体很矮",
+    "outline": "蹲着的软团类人，头是横宽布冠",
+    "volume": "大：布冠；中：软团身体；小：短圆手脚",
+    "face": "五官极小，贴在冠下中线，半垂，无鼻梁无真人唇形",
+    "stance": "蹲，膝并拢，双手圆钝垂在膝上，不整理、不摆拍",
+    "structure": "布冠与头核一体铺开，不是戴上的帽子；无服饰细节、无真人头发"
+  },
+  "toy_check": "站得住：蹲。物件长进去：布冠就是头。特殊材质只有折边拷花。新组合：类人的头是铺开的布。不像绘本。头像能看到布冠和一条小脸。做得成。姿态：蹲。此为唯一类人探索位。",
+  "crop": "记忆点在头部，头像能看见铺开的布冠和冠下小脸。",
+  "collide": "不同于穿衣小孩或头戴布饰的人偶：无真人发型服装，头本身是布冠结构，五官极小。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成穿礼服的小孩戴着一块布"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一个矮软的类人团和一个铺开的布冠长在一起：布冠就是头的外壳，拿掉布冠只剩一颗小核。头连冠约占全高一半以上，冠宽于肩，蹲姿很矮。没有真人头发和衣服，脸只是冠下一条极小的半垂眼和一字嘴。双手圆钝垂在膝上。主体是暖灰短绒，只有布冠折边是硬挺拷花厚布。配色是暖灰配孔雀绿。单个角色完整全身，正面略侧，蹲在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸和发型，不要时装，不要高跟鞋，不要站立展示。此形虽是类人，仍不要画成穿衣服的人类小孩。",
+  "enp": "Original designer toy character: a short soft humanoid lump fused with a spreading cloth crown — the crown is the head's shell, without it only a small core remains. Head-plus-crown more than half the height, crown wider than the shoulders, very low squat. No realistic hair or clothing; the face is only a tiny half-lidded eye line and a straight mouth under the crown. Round blunt hands rest on the knees. Body is warm-grey plush; only the crown's folded edge is stiff embossed cloth. Colors: warm grey with peacock green. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No realistic human face or hairstyle, no fashion outfit, no high heels, no standing showcase. Even though slightly humanoid, do not make a clothed human child.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-12",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "蹲"
+}

@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangmi-e3",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "身体是一汪收住的绿海只鼓一枚露珠",
+  "species": "绿海聚点",
+  "axes": {
+    "archetype": "物件生物，绿海",
+    "silhouette": "扁圆坐姿，身体像一汪被收住的海，顶上只鼓一枚露珠",
+    "mark": "头顶 · 一枚玻璃质露珠鼓在绿绒海面上，是实体凸起不是灯",
+    "face": "半垂小黑豆眼贴在海面下沿的一圈脸带上",
+    "emotion": "内收，把散开的光收成一点",
+    "fusion": "物件就是身体：收住的绿海就是躯干，拿掉海就没有身体",
+    "material": "主体苔绿短绒，只有那枚露珠是玻璃质",
+    "palette": "苔绿配浅金"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "没有另长一个头，脸是海面前沿一条窄带，露珠在顶上稍后",
+  "combo": "扁圆绿海身 + 顶上一枚实体玻璃露珠 + 脸只占前沿窄带 + 苔绿对浅金",
+  "odd": "身体是海，却是绒的、被收住的，不是一摊液体",
+  "line": "",
+  "why": "快乐点被收成一枚露珠。散开的东西可以聚成一点，不必铺满全身。",
+  "spec": {
+    "proportion": "体高扁，全高的约 60% 是海身，露珠直径约占头宽的 0.4，脸带很窄",
+    "outline": "扁圆坐洼，顶上单枚露珠",
+    "volume": "大：海身；中：露珠；小：短脚",
+    "face": "眼贴在前沿窄带，半垂，眼距约一个眼宽",
+    "stance": "坐洼，底部圆但可稳住，无波浪翻腾",
+    "structure": "海身是绒体不是液体，露珠嵌在顶面与身体一体，不是可摘的珠饰"
+  },
+  "toy_check": "站得住：坐洼。物件长进去：海就是身体。特殊材质只有玻璃露珠。新组合：被收住的绒海顶一枚珠。不像绘本。头像能看到露珠和前沿的脸带。做得成。姿态：坐。",
+  "crop": "记忆点在顶部露珠与前沿脸带。",
+  "collide": "不同于透明史莱姆或整身果冻：海是短绒实体，只有一枚珠是玻璃，脸收着。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成一摊透明史莱姆或全身发光"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短绒圆兽和一汪被收住的绿海长在一起：这汪海就是身体，拿掉海就没有躯干。整体扁圆坐着，不是一摊流动的液体。脸只是海面前沿一条窄带，半垂小黑豆眼，极小嘴。头顶稍后鼓起一枚实体的浅金玻璃露珠，不是灯，也不铺满全身。主体是苔绿短绒，只有那枚露珠是玻璃质。配色是苔绿配浅金。单个角色完整全身，正面略侧，坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要整身透明或液态流动，不要发光灯体，不要水花四溅。",
+  "enp": "Original designer toy character: a short-plush creature fused with a contained green sea — the sea is the body, without it there is no torso. A low round sitting volume, not a puddle of liquid. The face is only a narrow band on the front rim, half-lidded bean eyes, tiny mouth. Just behind the top, one solid pale-gold glass dewdrop is raised, not a lamp and not spread over the whole body. Body is moss-green plush; only the dewdrop is glass. Colors: moss green with pale gold. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No fully transparent or liquid body, no glowing lamp body, no splashing water.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-12",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "坐"
+}

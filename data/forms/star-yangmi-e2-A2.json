@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangmi-e2",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "头就是一盏只亮一格的蜂窝",
+  "species": "蜜蜂",
+  "axes": {
+    "archetype": "物件生物，蜂窝盏",
+    "silhouette": "矮圆身，头顶一只横宽蜂窝盏",
+    "mark": "头顶 · 蜂窝盏里只有一格透出蜜色，其余是哑光实心",
+    "face": "半垂小黑豆眼贴在盏下沿，小嘴",
+    "emotion": "内收，光只给一格",
+    "fusion": "物件就是头：横宽蜂窝盏就是头颅，拿掉盏就没有头",
+    "material": "主体深褐短绒，只有那一格是半透明蜜蜡",
+    "palette": "深褐配蜜绿"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头是扁平的六角蜂窝盏，顶面略鼓，下沿收成短弧，脸只占下沿",
+  "combo": "蜂窝盏当头 + 只有一格半透明蜜蜡 + 眼贴在盏下沿 + 深褐对蜜绿",
+  "odd": "头是盏，光只在一格，不是满头发光",
+  "line": "",
+  "why": "锋和热忱都收在一格里。先伸出去的不是整片强光，是一格刚好够用的亮。",
+  "spec": {
+    "proportion": "头高约占全高 50%，盏宽约为身宽的 1.3 倍",
+    "outline": "矮圆蹲姿，头顶一只扁宽蜂窝盏",
+    "volume": "大：蜂窝头；中：绒身体；小：短肢",
+    "face": "眼在盏下沿，约占头高底部四分之一，半垂",
+    "stance": "蹲，双圆手放松垂在膝前",
+    "structure": "盏与颈肩一体，格纹浅浅刻在头上，只有一格透出，不是手提灯笼"
+  },
+  "toy_check": "站得住：蹲。物件长进去：盏就是头。特殊材质只有一格蜜蜡。新组合：蜂窝头只亮一格。不像绘本。头像能看到那一格。做得成。姿态：蹲。",
+  "crop": "记忆点在头部，头像能看见蜂窝和那一格蜜色。",
+  "collide": "不同于满头发光的蜜蜂吉祥物：只有一格透光，其余实心，脸收在下沿，不是飞行姿势。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "整头被画成发光灯，或蜂窝变成手里拿的道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短绒圆兽和一盏蜂窝长在一起：这只横宽蜂窝盏就是头，拿掉盏就没有头。头高约占全高一半，盏比身体更宽，矮身蹲着。头上的格纹很浅，只有一格透出蜜色，其余是实心。半垂小黑豆眼贴在盏下沿，极小嘴。主体是深褐短绒，只有那一格是半透明蜜蜡。配色是深褐配蜜绿。单个角色完整全身，正面略侧，蹲在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要整头发光或整身透明，不要飞行，不要真实蜜蜂复眼，不要提灯道具。",
+  "enp": "Original designer toy character: a short-plush round creature fused with a honeycomb lamp — the wide honeycomb cap is the head, without it there is no head. Head about half the height, wider than the body, low squat. Only one cell is translucent honey-amber; the rest are solid. Half-lidded bean eyes on the lower rim, tiny mouth. Body is dark brown plush; only that one cell is translucent beeswax. Colors: dark brown with honey green. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No fully glowing or transparent head or body, no flying, no realistic bee compound eyes, no handheld lantern prop.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-12",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "蹲"
+}

@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangmi-e2",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "钝棱狐耳就是头的蹲兽",
+  "species": "狐狸软耳",
+  "axes": {
+    "archetype": "物件生物，狐耳",
+    "silhouette": "蹲坐梨形，头顶两枚横向展开的钝棱软耳",
+    "mark": "头顶 · 两枚比脸更宽的钝棱狐耳，内侧一点缎面",
+    "face": "半垂小黑豆眼偏在一侧，极小嘴，脸贴在耳根下",
+    "emotion": "内收，锋已收",
+    "fusion": "物件就是头冠：两枚钝棱狐耳就是头的上半，拿掉耳头型不成立",
+    "material": "主体赤褐短绒，只有耳内侧是一小块哑光缎",
+    "palette": "赤褐配松石绿"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头由两枚横向钝耳合成宽顶，耳尖圆钝不下刺，下颌短圆",
+  "combo": "横向展开的钝棱狐耳当头上半 + 半垂眼偏侧 + 耳内侧一点缎 + 赤褐对松石绿",
+  "odd": "耳宽于脸，棱是钝的，不刺出轮廓",
+  "line": "",
+  "why": "锋收在耳的钝棱里，手先不必做出攻击。蹲下来，棱还在，但不指向人。",
+  "spec": {
+    "proportion": "头连耳约占全高 50%，双耳展开宽约为身宽的 1.4 倍",
+    "outline": "蹲坐梨形，顶上横展开两枚钝耳",
+    "volume": "大：双耳；中：梨身；小：短脚与圆手",
+    "face": "眼在耳根下方，半垂，轻微偏向一侧，眼距约一个眼宽",
+    "stance": "蹲坐，一只圆手微微向前停住，不抓不扑",
+    "structure": "耳与头盖一体，不是卡上的发饰；耳尖圆钝，内侧缎只在耳窝"
+  },
+  "toy_check": "站得住：蹲坐。物件长进去：耳就是头上半。特殊材质只有耳内侧缎。新组合：钝棱耳当头。不像绘本。头像能看到横宽钝耳。做得成。姿态：蹲坐，一手微前。",
+  "crop": "记忆点在头部，头像能看见横宽钝耳和偏侧的半垂眼。",
+  "collide": "不同于普通狐狸公仔：耳是头的结构且宽过脸，棱钝，有一侧缎面和松石绿对比，不是头饰。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "耳被画成可摘的头饰，或尖得像刃"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短绒圆兽和两枚钝棱狐耳长在一起：这两枚耳就是头的上半，拿掉耳就没有完整的头型。头连耳约占全高一半，双耳展开宽于身体。耳尖圆钝、不刺出，半垂小黑豆眼偏在一侧，极小嘴。蹲坐，一只圆手微微向前停住。主体是赤褐短绒，只有耳内侧是一小块哑光缎。配色是赤褐配松石绿。单个角色完整全身，正面略侧，蹲坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要尖刀状耳尖，不要鲜血，不要真人狐狸头套，不要扑击姿势。",
+  "enp": "Original designer toy character: a short-plush creature fused with two blunt-edged fox ears — the ears are the upper half of the head, without them the head shape fails. Head-plus-ears about half the height, the ear span wider than the body. Ear tips rounded, not sharp; half-lidded bean eyes shifted slightly to one side, tiny mouth. Squatting, one round paw stopped a little forward. Body is russet plush; only the inner ear is a small patch of matte satin. Colors: russet with turquoise green. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No knife-sharp ear tips, no blood, no realistic fox-head costume, no pouncing pose.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-12",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "蹲坐"
+}

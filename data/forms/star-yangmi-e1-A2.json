@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangmi-e1",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "身体就是一枚压低的支点石",
+  "species": "低身支点",
+  "axes": {
+    "archetype": "物件生物，支点石",
+    "silhouette": "扁宽卵石，头贴在石肩上",
+    "mark": "身体 · 整块扁宽支点石，头顶只露出一小颗圆头",
+    "face": "半垂小黑豆眼靠得很低，嘴极小",
+    "emotion": "内收，承托",
+    "fusion": "物件就是身体：扁宽卵石就是躯干，拿掉石就没有身体",
+    "material": "主体炭灰短绒，只有石肩一条细结晶脊",
+    "palette": "炭灰配一抹苔绿"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头小而圆，几乎埋进石肩，只露出前额和下沿的脸",
+  "combo": "扁宽卵石身 + 头只露出一小颗 + 石肩一条细结晶脊 + 炭灰对苔绿",
+  "odd": "头明显小于身体，像被石身托住",
+  "line": "",
+  "why": "让出去的高度落成一块压低的石头。它不站高，它把别人托住。",
+  "spec": {
+    "proportion": "头高约占全高 30%，石身宽约为头宽的 2.2 倍",
+    "outline": "横宽卵石，小头贴在前上沿",
+    "volume": "大：石身；中：结晶脊；小：圆头",
+    "face": "眼贴在露出的头下沿，半垂，眼距略窄于一个眼宽",
+    "stance": "低坐，无细腿，底部平坦可稳住",
+    "structure": "头从石肩长出，不是放在石头上的配件；结晶脊只在一侧肩线"
+  },
+  "toy_check": "站得住：平底低坐。物件长进去：石就是身体。特殊材质只有结晶脊。新组合：支点石当躯干、头极小。不像绘本。头像能看到小头和石肩。做得成。姿态：低坐。",
+  "crop": "记忆点在头部与石肩，头像能看见小头埋进石里。",
+  "collide": "不同于普通石头吉祥物画画脸：头只露出一小颗，石是身体不是底座道具，有一处结晶脊和一点苔绿对比。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "石头被画成身下垫块，角色变成普通小兽"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短绒圆兽和一枚扁宽支点石长在一起：石头就是它的身体，拿掉石就没有躯干。头高只约占全高三成，石宽约为头宽的两倍多，整体低扁。小圆头几乎埋进石肩，半垂小黑豆眼贴在露出的下沿，极小嘴。主体是炭灰短绒，只有石肩一条细结晶脊。配色是炭灰配一抹苔绿。单个角色完整全身，正面略侧，低坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要把石头画成底座道具，不要尖利碎石，不要人脸。",
+  "enp": "Original designer toy character: a short-plush creature fused with a wide flat keystone — the stone is the body, without it there is no torso. Head about 30 percent of total height, stone more than twice the head width, low and wide. A small round head almost sunk into the stone shoulder, half-lidded tiny bean eyes on the exposed lower edge, a tiny mouth. Body is charcoal plush; only one thin crystalline ridge on the shoulder. Colors: charcoal with a touch of moss green. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. Do not make the stone a separate base prop, no sharp rubble, no human face.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-12",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "低坐"
+}

@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangmi-e1",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "身下铺开比身体更宽的裙浪坐兽",
+  "species": "铺开的裙浪",
+  "axes": {
+    "archetype": "物件生物，裙浪",
+    "silhouette": "低矮团子，身下展开一大片横宽软浪",
+    "mark": "身下 · 比身体更宽的铺开裙浪，边缘只有一线半透明",
+    "face": "半垂小黑豆眼，眼距约一个眼宽，极小一字嘴，贴在低头前",
+    "emotion": "内收，安静让出",
+    "fusion": "物件就是底座：铺开的裙浪长成身体下半和坐面，拿掉浪就没有下半身",
+    "material": "主体雾青短绒，只有浪边是半透明薄纱",
+    "palette": "雾青配暖沙色"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头是横宽矮圆，顶部平钝，下颌收进浪里，脸只占前侧一条",
+  "combo": "低矮团身 + 身下比身体更宽的裙浪 + 浪边一线半透明纱 + 雾青对暖沙",
+  "odd": "浪的宽度明显超过头，脸比浪小很多",
+  "line": "",
+  "why": "把高度让出去，落成一片铺开的浪。身体压低，浪把画面托住。",
+  "spec": {
+    "proportion": "头高约占全高 40%，浪宽约为头宽的 2 倍，整体低",
+    "outline": "蹲坐的矮团，身下展开横宽裙浪",
+    "volume": "大：裙浪；中：绒身体；小：低头",
+    "face": "眼在头前下三分之一，半垂，眼距约一个眼宽，视线微低",
+    "stance": "蹲坐，短脚收在浪下，肩松，重心沉在浪中央",
+    "structure": "浪与腰腹一体展开，不是围在腰上的裙子，边缘只有一线薄纱"
+  },
+  "toy_check": "站得住：蹲坐在浪上。物件长进去：浪就是下半身。特殊材质只有浪边薄纱。新组合：铺开裙浪当底座。不像绘本。头像能看到低头和浪的起端。做得成。姿态：蹲坐。",
+  "crop": "记忆点在头与浪的交界，头像能看见低头和身侧涌起的浪。",
+  "collide": "不同于穿礼服展示裙摆的人偶：浪是身体结构，无真人衣着，脸收着，姿态是低身而不是站立展示。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "浪被画成一条围在腰上的真人裙子"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短绒圆兽和一片铺开的裙浪长在一起：裙浪就是它的下半身和坐面，拿掉浪就没有下半身。头高约占全高四成，浪宽约为头宽的两倍，整体低矮蹲坐。头是横宽矮圆，半垂小黑豆眼贴在头前下沿，极小一字嘴，视线微低。主体是雾青短绒，只有浪边是半透明薄纱。配色是雾青配暖沙色。单个角色完整全身，正面略侧，蹲坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要画成人穿的裙子，不要透明整身液体，不要整理衣物的动作场面。",
+  "enp": "Original designer toy character: a short-plush round creature fused with a spreading skirt-wave — the wave is the lower body and sitting base, without it there is no lower half. Head about 40 percent of total height, the wave about twice the head width, low squatting sit. Wide low-round head, half-lidded tiny black bean eyes on the lower front, a tiny straight mouth, gaze slightly down. Body is mist-teal plush; only the wave edge is translucent gauze. Colors: mist teal with warm sand. Single character, full body, slight three-quarter front view, plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No human clothing dress, no fully liquid transparent body, no dressing or adjusting-clothes action.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-12",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "蹲坐"
+}
