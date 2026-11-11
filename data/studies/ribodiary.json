@@ -22,8 +22,8 @@
   ],
   "tier": "standard",
   "status": "partial",
-  "cutoff_date": "2026-11-10",
-  "updated": "2026-11-10",
+  "cutoff_date": "2026-11-11",
+  "updated": "2026-11-11",
   "summary": "森林日常由被窝、衣装、手作与群像分工落到产品；官方功能证据清楚，近期讨论可核，规模与增长因果未知。",
   "owner": {
     "creator": null,
@@ -298,6 +298,17 @@
         "J01"
       ],
       "note": "前8名未见同群手办，但无完整榜单，不赋其名次；不推销量或衰退"
+    },
+    {
+      "metric": "日本官方乐天店展示的挂件店内名次",
+      "value": 2,
+      "unit": "店内名次",
+      "period": "11/04—11/10集计，11/11更新",
+      "type": "self_report",
+      "sources": [
+        "Z02"
+      ],
+      "note": "仅本店榜展示，算法/件数未知；不与旧重叠窗口推算升降趋势或销量增长，手办当期名次null"
     }
   ],
   "mechanisms": [
@@ -363,9 +374,9 @@
     "已看7张官方原图，未覆盖所有成员全部视角和早期人偶影像；未读实体绘本，未核出版物ISBN，不把绘本感等同绘本起源。",
     "原图不公开打包；内部结构、绒感、承重、耐用性、清洗与关节寿命未实测，成本利润未知。",
     "11/2品牌供稿与官方发布属同一品牌证据家族，不作为独立需求；自然人作者和完整版权链仍未知。",
-    "11/10浏览器连接Unknown tool(browser.js)，小红书两组未执行、实读0；既有Reddit线程复核不计新账号。",
-    "11/10 V23/V24未通过；V24短嘴与细缝线改善，但眼内图案、额脸、比例与渐层仍偏离。旧V2仅有限身份近似，纯文字/中文未过，稳定性未证，不进入3D/毛绒。",
-    "上海快闪仅计划公告，未到开幕/预约时刻，无预约量、到访、销售或增量；当前店内榜未读到，名次null。"
+    "11/11浏览器连接Unknown tool(browser.js)，小红书固定两组未执行、实读0；既有Reddit复核不新增账号。",
+    "11/11 V25/V26未通过；V26缩眼、细缝线改善，但嘴形/眼侧弧、额脸、比例与渐层仍偏离。旧V2仅有限身份近似，纯文字/中文未过，稳定性未证，不进入3D/毛绒。",
+    "上海快闪仅计划公告，11/12才开放预约，11/13才拟开幕；到访/销售/增量未知。11/11日本官方乐天店挂件2位仅店内自述，算法/件数未知；不外推中国或全网热度。"
   ],
   "sources": [
     {
@@ -1537,22 +1548,154 @@
       "observed": "2026-11-10",
       "access": "blocked",
       "note": "本轮打开不可访问；保留11/9历史实读记录，不假称今天重读，不重试或推新需求。"
+    },
+    {
+      "id": "Z01",
+      "title": "上海森林欢聚日快闪计划复核",
+      "url": "https://www.sina.cn/news/detail/5363403062510512.html",
+      "publisher": "POPMART泡泡玛特／新浪微博认证主帖",
+      "published": "2026-11-09",
+      "event_date": "2026-11-13/2026-11-26",
+      "observed": "2026-11-11",
+      "access": "partial",
+      "note": "正文实读。上海静安大悦城北座1F中庭，计划11/13—26 10:00—22:00；11/12 10:00开放首日预约，11/13—15仅线上预约，11/16—26计划直接有序入场。商品仅森林欢聚日系列；现在尚未开放预约，无预约量、到访、销售或增量。图片未开，不作空间视觉判断。"
+    },
+    {
+      "id": "Z02",
+      "title": "日本官方乐天店11/11更新店内榜",
+      "url": "https://www.rakuten.co.jp/pop-mart-japan/",
+      "publisher": "POP MART JAPAN 楽天市場店",
+      "published": "2026-11-11",
+      "event_date": "2026-11-04/2026-11-10",
+      "observed": "2026-11-11",
+      "access": "partial",
+      "note": "实际读到更新日11/11、11/04—11/10集计；森林欢聚日挂件列店内2位，展示3,520日元。店内算法、成交件数未披露，不是乐天全站或全网榜；与旧滚动窗口不推增长/衰退，手办本期名次null。店铺整体评分不移用于本IP。"
+    },
+    {
+      "id": "Z03",
+      "title": "既有Reddit线程复核",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1xbdmcg/is_this_a_new_ip/",
+      "publisher": "r/PopMartCollectors",
+      "published": null,
+      "event_date": null,
+      "observed": "2026-11-11",
+      "access": "partial",
+      "note": "正文与可见评论复读，仍见KitchenLoan6、PrettyKnowledge1、Miserable_Ad_1749等：官方app上架自述、偏好Joeius、抽重Iceymel求换。沿用历史目的抽样6账号，不算本轮新增用户；相对10d/3h时间可能是缓存，不换算成绝对发布日期。不是订单核验、比例或中国代表性。"
+    },
+    {
+      "id": "Z04",
+      "title": "TOPTOY糯米儿圣诞新品媒体线索",
+      "url": "https://mowanmi.com/post/8547.html",
+      "publisher": "模玩迷",
+      "published": "2026-11-10",
+      "event_date": "2026-11-06",
+      "observed": "2026-11-11",
+      "access": "partial",
+      "note": "正文实读：称11/6发货、6常规1隐藏、单抽99.9元。标题拼作Nomii，中文同为糯米儿，先与Nommi按可能同一对象去重，不另排新IP；正文端盒单位明显误写“厘米”，价格不采信为核定SKU。媒体供给线索，未核中国官方商品页，不代表热销；同文转载只算一族。"
+    },
+    {
+      "id": "Z05",
+      "title": "TOPTOY美国圣诞商品品牌自述",
+      "url": "https://gotoptoy.com/ja/blogs/articles/2026-christmas-blind-boxes-nommi-maymei-piropiroo",
+      "publisher": "TOPTOY店铺自称官方",
+      "published": null,
+      "event_date": "2026-11-01",
+      "observed": "2026-11-11",
+      "access": "partial",
+      "note": "正文实读，称Nommi等三系列11/1上市，Nommi单盒29.99美元、美国市场；不可和中国11/6发货或99.9元合并口径。正文自述所列角色为品牌自有IP，仅是经营方自述，未取得自然人作者/合同/名创优品与TOP TOY法律权属链。不得由渠道售卖或网站导航认定角色权属；需求和伪货泛论均未独立验证。"
+    },
+    {
+      "id": "Z06",
+      "title": "三丽鸥11月第三周商品计划",
+      "url": "https://www.sanrio.co.jp/news/goods/goods-release-202611-week3/",
+      "publisher": "三丽鸥日本官网",
+      "published": "2026-11-06",
+      "event_date": "2026-11-12/2026-11-13",
+      "observed": "2026-11-11",
+      "access": "partial",
+      "note": "正文实读：11/12圣诞、手帕、钱包与糖果，11/13贴纸交换系列。均为商品供给计划，未核销量。三丽鸥依用户要求跳过小红书。图未打开，不作图像断言。"
+    },
+    {
+      "id": "Z07",
+      "title": "三丽鸥今日发布ふわわんフレンズ",
+      "url": "https://www.sanrio.co.jp/news/goods/mx-fluffy-friends-202611/",
+      "publisher": "三丽鸥日本官网",
+      "published": "2026-11-11",
+      "event_date": "2026-11-19",
+      "observed": "2026-11-11",
+      "access": "partial",
+      "note": "实读11/19商品计划，相关角色布丁狗、玉桂狗、帕恰狗均库内已研究，不按新系列重复立项。限购是规则，不是实际销量或需求证明；未开图，不作逐图分析。"
+    },
+    {
+      "id": "Z08",
+      "title": "三丽鸥与魔卡少女樱联名商品计划",
+      "url": "https://www.sanrio.co.jp/news/goods/mx-ccsakura-202611/",
+      "publisher": "三丽鸥日本官网",
+      "published": "2026-11-11",
+      "event_date": "2026-11-19",
+      "observed": "2026-11-11",
+      "access": "partial",
+      "note": "实读11/19联名商品计划，包挂另期未定；这是两方角色联名，不把第三方原作纳为三丽鸥自有。不把限购或宣布上市当需求，未开图。"
+    },
+    {
+      "id": "Z09",
+      "title": "PUPPET SUNSUN书店商品与活动",
+      "url": "https://www.miraiyashoten.co.jp/news/puppetsunsun/",
+      "publisher": "未来屋书店",
+      "published": null,
+      "event_date": "2026-11-11/2026-11-29",
+      "observed": "2026-11-11",
+      "access": "partial",
+      "note": "正文实读：11/11起推出书籍衍生7类商品；Where’s SUNSUN计划11/11—29覆盖195店，东员店11/20后。未见发布日期，不因今天到日就写全部店已实际开幕；未读书、未开图片、无实际到访或销量，书店促销安排和上游供稿非独立需求。"
+    },
+    {
+      "id": "Z10",
+      "title": "韩国DURIDU参展介绍",
+      "url": "https://ilovecharacter.com/news/newsview.php?ncode=1065577851207753",
+      "publisher": "아이러브캐릭터／최인영",
+      "published": "2026-10-28",
+      "event_date": "2026-11-27/2026-11-29",
+      "observed": "2026-11-11",
+      "access": "partial",
+      "note": "实读情绪妖精群像介绍及DDP展会计划；批准日期10/28 10:50:48，站头11/11是站点日期，不是新发布日期。30天窗口内但非7天新文。未开图，无独立用户/销量。"
+    },
+    {
+      "id": "Z11",
+      "title": "美国普通商品页规格本轮复核",
+      "url": "https://www.popmart.com/us/products/9418/ribodiary-forest-gathering-day-series-plush-doll-pendant",
+      "publisher": "POP MART US",
+      "published": null,
+      "event_date": "2026-10-29",
+      "observed": "2026-11-11",
+      "access": "partial",
+      "note": "正文实读13.5—14.5cm及排除项、材料和填充，沿用PST原标注，不改写时区。搜索快照曾列29.99美元及12/17预计发货，但本轮打开正文只返规格，价格/发货选项未完整加载；这些快照不确认当前库存、发货承诺或售罄。原图V04本轮另行打开，其他图只保留历史观察。"
+    },
+    {
+      "id": "Z12",
+      "title": "美国POP NOW同系列规格复核",
+      "url": "https://www.popmart.com/us/pop-now/set/1486",
+      "publisher": "POP MART US",
+      "published": null,
+      "event_date": "2026-10-29",
+      "observed": "2026-11-11",
+      "access": "partial",
+      "note": "正文实读同系列规格；搜索快照曾列11/15预计发货，与普通商品页快照不同，但正文未加载价格和发货选项。只记摘要差异待核，不能当真实延迟、补货、缺货或销量证据。"
     }
   ],
-  "archive": "research/ribodiary/2026-11-10/index.html",
-  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-10/",
-  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-10/",
+  "archive": "research/ribodiary/2026-11-11/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-11/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-11/",
   "prompt_validation": {
     "status": "partial",
-    "mode": "旧英文附图V2有限身份近似；英文附官方图V23/V24仍revise",
+    "mode": "旧英文附图V2有限身份近似；英文附官方图V25/V26仍revise",
     "scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
     "strict_flat_fill": "not_passed",
     "text_only": "English V10/V11 tested_not_passed",
     "stability": "one_repeat_observed_differences_not_validated",
-    "tests": "research/ribodiary/2026-11-10/prompt-tests.json",
-    "checkpoint": "research/ribodiary/2026-11-10/selection-and-progress.json",
+    "tests": "research/ribodiary/2026-11-11/prompt-tests.json",
+    "checkpoint": "research/ribodiary/2026-11-11/selection-and-progress.json",
     "usable_prior_test": "ribodiary-bearibo-flat-ref-v2",
     "chinese_reference": "V6/V7/V17/V18 tested_not_passed",
-    "reference_latest": "English reference V23/V24 revise"
+    "reference_latest": "English reference V25/V26 revise"
   }
 }

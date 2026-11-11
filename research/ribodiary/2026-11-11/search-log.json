@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-11",
+  "languages": [
+    "zh",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "queries": [
+    {
+      "engine": "web system1",
+      "recency_days": 7,
+      "query": "RiboDiary 瑞宝 2026 11月11日",
+      "status": "executed"
+    },
+    {
+      "engine": "web system1",
+      "recency_days": 7,
+      "query": "名创优品 TOPTOY Nommi 2026 11月",
+      "status": "executed"
+    },
+    {
+      "engine": "web system1",
+      "recency_days": 7,
+      "query": "サンリオ パペットスンスン 2026 11月11日 新商品",
+      "status": "executed"
+    },
+    {
+      "engine": "web system1",
+      "recency_days": 7,
+      "query": "캐릭터 인형 팝업 2026 11월11일",
+      "status": "executed"
+    },
+    {
+      "engine": "web system1",
+      "recency_days": 7,
+      "query": "RiboDiary Forest Gathering Day November 2026 collector restock",
+      "status": "executed"
+    },
+    {
+      "engine": "web system1",
+      "recency_days": 30,
+      "query": "두리두 캐릭터 인형 팝업 2026 11월",
+      "status": "executed"
+    },
+    {
+      "engine": "web system2",
+      "query": "\"TOPTOY\" \"圣诞森林晚宴\" 2026",
+      "status": "executed"
+    },
+    {
+      "engine": "web system2",
+      "query": "\"캐릭터\" \"2026.11.10\" 인형 팝업",
+      "status": "executed"
+    }
+  ],
+  "opened_sources": [
+    "Z01",
+    "Z02",
+    "Z03",
+    "Z04",
+    "Z05",
+    "Z06",
+    "Z07",
+    "Z08",
+    "Z09",
+    "Z10",
+    "Z11",
+    "Z12"
+  ],
+  "xhs": {
+    "queries": [
+      "RiboDiary 品牌介绍",
+      "RiboDiary 产品汇总"
+    ],
+    "status": "not_executed",
+    "reason": "fresh browser startup returned Unknown tool(browser.js); stopped dependent actions",
+    "pages_read": 0,
+    "accounts_read": [],
+    "sanrio": "skipped_by_user_instruction_2026-10-28"
+  },
+  "user_sampling": {
+    "pages_reread": 1,
+    "new_pages": 0,
+    "new_accounts": 0,
+    "existing_accounts_purpose_sample": 6,
+    "visible_relative_dates": "10d ago / 3h ago cached; absolute date null",
+    "limits": "单一论坛便利样本，不推中国用户比例/成交/复购"
+  },
+  "new_images_viewed": [
+    "V04 official full1200x1200",
+    "historical V2 webp768x768",
+    "historical V24 webp768x768",
+    "actual generated V25 PNG1254x1254",
+    "actual generated V26 PNG1254x1254"
+  ],
+  "visual_history": "7张官方图逐图分析沿用10/31观察日；本轮没有假称重开其余6图；候选图片未打开不做逐图判断",
+  "unknowns": {
+    "ip_sales": null,
+    "ip_revenue": null,
+    "ip_repurchase": null,
+    "popup_visitors": null,
+    "popup_reservations": null,
+    "rank_algorithm": null,
+    "current_figure_rank": null
+  }
+}
