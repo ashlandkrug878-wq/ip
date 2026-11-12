@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhaolusi-e3",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "左右两色不对称花瓣长成身体",
+  "species": "叠色玫瑰",
+  "axes": {
+    "archetype": "物件生物，花瓣身体",
+    "silhouette": "头身一体的花苞团",
+    "mark": "身 · 左右两色不对称花瓣就是身体",
+    "face": "半垂小黑豆眼贴在花心前，极小一字嘴",
+    "emotion": "内收，两种花色安静叠着",
+    "fusion": "物件就是身体：花瓣就是躯干，拿掉花瓣没有身体",
+    "material": "主体短绒瓣面，只有花心是珍珠质",
+    "palette": "露紫配玫瑰红，花心米珍珠"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头就是花苞顶部的圆，和下方瓣身连成一体，几乎没有颈",
+  "combo": "头身一体花苞 + 左右两色不对称瓣 + 中央珍珠质花心 + 露紫对玫瑰红",
+  "odd": "左右瓣色和大小都不对称，一边明显更宽",
+  "line": "",
+  "why": "两种花色叠在同一株。不是两朵花，是同一具身体左右不同色。",
+  "spec": {
+    "proportion": "头高约占全高 50%，因为头身一体，全高接近一个竖圆，宽略小于高",
+    "outline": "饱满花苞团，底部收成很小的坐面",
+    "volume": "大：两色瓣身；中：头；小：珍珠花心",
+    "face": "眼贴在花心上方，半垂，眼距约一个眼宽，一字嘴在花心下沿，视线平",
+    "stance": "蹲坐在瓣的收口上，无外露长腿，短瓣尖点地",
+    "structure": "左右瓣直接长成身体左右壁，花心嵌在胸前，不是插在花瓶里的仿真花，只有花心是珍珠质"
+  },
+  "toy_check": "站得住：瓣底蹲坐。物件长进去：瓣就是身体。特殊材质只有珍珠花心。新组合：左右不对称两色瓣身。不像绘本。头像能看到两色交界和花心。做得成。姿态：蹲坐。",
+  "crop": "记忆点在两色交界与花心，头像能看见左右不同色和中间那一点珍珠。",
+  "collide": "不同于仿真玫瑰花束或对称花头玩偶：左右色块不对称是身体结构，脸收着，不是装饰花。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成对称仿真玫瑰或插在花瓶里的静物"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短绒生物和玫瑰花瓣长在一起：花瓣就是它的躯干，拿掉花瓣就没有身体。头身一体，头高约占全高一半，整体是一个饱满花苞团，蹲坐。左右花瓣颜色和宽度都不对称，一边露紫，一边玫瑰红。半垂小黑豆眼贴在中央花心上方，极小一字嘴，视线放平。主体是短绒瓣面，只有花心是米白珍珠质。配色是露紫配玫瑰红，加一处米珍珠。单个角色完整全身，正面略侧，蹲坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口、拐杖或残缺造型，不要吊起来无法站稳的造型，不要整体透明果冻身体。不要对称仿真玫瑰，不要插在花瓶里的静物。",
+  "enp": "Original designer toy character: a short-plush creature fused with rose petals — the petals are the torso, without them there is no body. Head and body are one, the head about half of total height, a plump bud sitting low. Left and right petals differ in both color and width: one side lilac, the other rose red. Half-lidded tiny black bean eyes sit just above a central blossom heart, a tiny straight mouth, level gaze. Petal surfaces are plush; only the blossom heart is creamy pearl nacre. Colors: lilac with rose red, plus one creamy pearl accent. Single character, full body, slight three-quarter front view, squatting on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds, crutches or disfigurement, no hanging pose that cannot stand, no fully transparent jelly body. No symmetrical realistic rose bouquet, no flower-in-a-vase still life.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-13",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "蹲坐"
+}

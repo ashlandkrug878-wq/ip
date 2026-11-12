@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhaolusi-e1",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "铜投信口长在竖筒头顶的信筒兽",
+  "species": "收件信筒",
+  "axes": {
+    "archetype": "物件生物，立式信筒",
+    "silhouette": "竖高圆筒",
+    "mark": "头顶 · 铜质投信口成为头冠",
+    "face": "小黑豆眼挤在投信口下方，眼距窄于半个眼宽，无嘴或一线嘴",
+    "emotion": "面无表情，等待收件",
+    "fusion": "物件就是身体：圆筒就是躯干，投信口与头连成一体",
+    "material": "主体青灰针织筒身，只有头顶投信口是铜",
+    "palette": "青灰配浅金铜"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头就是筒顶的圆盖，投信口横槽嵌在盖沿，下颌是筒壁的收口",
+  "combo": "竖高圆筒身 + 头顶横槽铜投信口 + 口下窄距小眼 + 青灰针对浅金铜",
+  "odd": "投信口比脸更宽，几乎占满头顶",
+  "line": "",
+  "why": "收件人被做成一只站得住的筒。它不追信，信会找到它。",
+  "spec": {
+    "proportion": "头高约占全高 25%，筒身细高，脚很短，全高明显大于宽",
+    "outline": "直立圆筒，顶部一个略宽的盖和横槽",
+    "volume": "大：筒身；中：铜口；小：短脚",
+    "face": "眼紧贴投信口下沿，圆豆眼，眼距窄于半个眼宽，视线正前，几乎无嘴",
+    "stance": "双短脚左右分开立正，筒身垂直，重心在筒底",
+    "structure": "筒壁就是身体，不是柜子上的道具，只有投信口是铜"
+  },
+  "toy_check": "站得住：筒底短脚立正。物件长进去：筒就是身体。特殊材质只有铜口。新组合：投信口当头冠。不像绘本。头像能看到铜口和窄距眼。做得成。姿态：立正。",
+  "crop": "记忆点在铜投信口与其下小眼，头像能看见横槽和筒壁起端。",
+  "collide": "不同于街边邮箱模型或拿信的人偶：筒是生物身体，有小脸和短脚，脸收着，不是仿真市政物件。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成仿真邮箱或细长不稳的柱子"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只针织圆兽和一只立式信筒长在一起：圆筒就是它的躯干，头顶铜质投信口和头连成一体，拿掉筒就没有身体。头高约占全高四分之一，筒身细高，短脚着地。头是筒顶圆盖，小黑豆眼挤在投信口横槽下方，眼距很窄，几乎没有嘴，视线正前。主体是青灰针织，只有头顶投信口是浅金铜。配色是青灰配浅金铜。单个角色完整全身，正面略侧，立正站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口、拐杖或残缺造型，不要吊起来无法站稳的造型，不要整体透明果冻身体。不要仿真市政邮箱，不要细长站不稳。",
+  "enp": "Original designer toy character: a knitted creature fused with a standing letter box — the cylinder is the torso, and a brass mail slot is fused into the head, without the cylinder there is no body. Head about 25 percent of total height, a tall slim cylinder with very short feet. The head is the lid of the cylinder, tiny black bean eyes packed just under the slot, narrower than half an eye-width apart, almost no mouth, gaze straight ahead. Body is slate-grey knit; only the mail slot is pale gold brass. Colors: slate grey with pale gold brass. Single character, full body, slight three-quarter front view, standing at attention on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds, crutches or disfigurement, no hanging pose that cannot stand, no fully transparent jelly body. No realistic street mailbox, no tall unstable stick body.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-13",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "立正"
+}

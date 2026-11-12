@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhaolusi-e3",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "釉陶铃腔长成躯干的风铃兽",
+  "species": "心愿风铃",
+  "axes": {
+    "archetype": "物件生物，风铃",
+    "silhouette": "钟形垂筒，短脚着地",
+    "mark": "身 · 钟形铃腔就是身体，舌锤露出一小截",
+    "face": "小眼在铃肩，半垂，视线微低，小嘴",
+    "emotion": "内收，祝福停在静止里",
+    "fusion": "物件就是身体：铃腔就是躯干，拿掉铃腔没有身体",
+    "material": "主体月白针织铃肩，只有铃腔是釉陶",
+    "palette": "月白配雾紫釉"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头是铃肩上的圆盖，和下方钟形腔连在一起，下颌短",
+  "combo": "钟形铃腔身 + 腔下露出一小截舌锤 + 铃肩半垂眼 + 月白针对雾紫釉",
+  "odd": "舌锤几乎点到地面，却仍保持站立，不摆动",
+  "line": "",
+  "why": "心愿写成山间风铃。铃声不息，但潮玩必须停在静止里，脚站在桌上。",
+  "spec": {
+    "proportion": "头高约占全高 35%，腔宽略大于头宽，舌锤向下接近地面但不成为第三只脚的道具",
+    "outline": "上圆下阔的钟形，短脚在腔沿两侧着地",
+    "volume": "大：釉陶铃腔；中：针织肩和头；小：舌锤和脚",
+    "face": "眼在铃肩前侧、头高中下，半垂，眼距约一个眼宽，视线微低",
+    "stance": "短脚左右分开立定，铃腔离地一点点，舌锤垂直静止，几乎点地但不晃",
+    "structure": "铃腔与身体一体，不是悬挂的装饰铃，必须靠脚站稳，只有腔壁是釉陶，不做吊绳悬挂"
+  },
+  "toy_check": "站得住：短脚立定，不是吊着。物件长进去：铃腔就是身体。特殊材质只有釉陶腔。新组合：风铃腔当躯干。不像绘本。头像能看到铃肩和腔的起端。做得成。姿态：立定。",
+  "crop": "记忆点在铃肩与腔壁交界，头像能看见半垂眼和雾紫腔的起端。",
+  "collide": "不同于门上挂着的装饰风铃：它有脚、有脸，站在桌上，不是悬挂摆件。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成吊在空中的风铃，或摇铃的动作场面"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只针织圆兽和一只风铃长在一起：钟形铃腔就是它的躯干，拿掉铃腔就没有身体。头高约占全高三成五，腔宽略大于头宽，短脚立定，不是吊着。头是铃肩上的圆盖，半垂小眼贴在肩前，视线微低，小嘴。主体肩部和头是月白针织，只有铃腔是雾紫釉陶，腔下垂直露出一小截静止的舌锤，几乎点地但不摆动。配色是月白配雾紫。单个角色完整全身，正面略侧，立定在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口、拐杖或残缺造型，不要吊起来无法站稳的造型，不要整体透明果冻身体。不要悬挂吊绳，不要摇铃动作，必须靠脚站稳。",
+  "enp": "Original designer toy character: a knitted creature fused with a wind chime — the bell chamber is the torso, without it there is no body. Head about 35 percent of total height, the chamber slightly wider than the head, standing on short feet, not hanging. The head is the rounded cap of the bell shoulder, half-lidded small eyes on the front of the shoulder, gaze slightly down, a small mouth. Shoulders and head are moonlight-white knit; only the chamber is mist-lilac glaze ceramic, with a short motionless clapper hanging straight underneath, almost touching the ground but not swinging. Colors: moonlight white with mist lilac. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds, crutches or disfigurement, no hanging pose that cannot stand, no fully transparent jelly body. No hanging cord, no ringing action, must stand stably on its feet.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-13",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "立定"
+}

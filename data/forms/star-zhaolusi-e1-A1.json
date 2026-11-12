@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhaolusi-e1",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "折好的信纸长成横展纸鸢身",
+  "species": "折信纸鸢",
+  "axes": {
+    "archetype": "物件生物，折信纸鸢",
+    "silhouette": "菱形横展，纸鸢轮廓就是全身",
+    "mark": "身 · 整面折信就是身体和翅面",
+    "face": "半垂小黑豆眼贴在中缝下沿，极小一字嘴，眼距约一个眼宽",
+    "emotion": "内收，安静被托住",
+    "fusion": "物件就是身体：折好的信纸鸢就是躯干和双翅，拿掉信就没有身体",
+    "material": "主体暖沙短绒核，只有翅面是半透明硫酸纸摺痕",
+    "palette": "暖沙配一处露紫印"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头是菱形上角收成的钝尖小头，下颌没入中缝，脸只占前中一条",
+  "combo": "菱形纸鸢全身 + 中缝下沿半垂小眼 + 翅面半透明摺痕纸 + 暖沙对露紫印",
+  "odd": "翅面明显宽过头，脸比信折小很多",
+  "line": "",
+  "why": "把告别折成出发。信就是身体，被轻轻托住，却站在桌上。",
+  "spec": {
+    "proportion": "头高约占全高 30%，翅展约为头宽的 3 倍，整体扁横",
+    "outline": "横展菱形纸鸢，短脚在菱形下角着地",
+    "volume": "大：摺痕翅面；中：绒核；小：钝尖头",
+    "face": "眼在头前下三分之一、中缝两侧，半垂，眼距约一个眼宽，视线微前",
+    "stance": "短脚左右分开站稳，翅面平展但不飞，重心在菱形中央",
+    "structure": "信纸摺痕与躯干一体展开，不是背上绑的风筝，只有翅面是硫酸纸"
+  },
+  "toy_check": "站得住：短脚着地。物件长进去：信就是身体。特殊材质只有翅面纸。新组合：折信当纸鸢身。不像绘本。头像能看到中缝和翅的起端。做得成。姿态：立定。",
+  "crop": "记忆点在头与中缝交界，头像能看见钝尖头和身侧展开的摺痕翅。",
+  "collide": "不同于手里拿信或线牵风筝的动物：信就是身体，无线轴，脸收着，姿态是站稳而不是飞行。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "翅被画成普通风筝配件或角色飞起来"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短绒圆核和一封折好的信长在一起：折信就是它的躯干和双翅，拿掉信就没有身体。头高约占全高三成，翅展约为头宽的三倍，整体是横展的菱形。头是菱形上角收成的钝尖小头，半垂小黑豆眼贴在中缝下沿，极小一字嘴，视线微前。主体是暖沙短绒，只有翅面是半透明硫酸纸摺痕。配色是暖沙配一处露紫色印。单个角色完整全身，正面略侧，短脚站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口、拐杖或残缺造型，不要吊起来无法站稳的造型，不要整体透明果冻身体。不要线轴和放飞动作，不要整身透明纸。",
+  "enp": "Original designer toy character: a short-plush rounded core fused with a folded letter — the letter is the torso and both wings, without it there is no body. Head about 30 percent of total height, wingspan about three times the head width, a flat diamond kite silhouette. Small blunt-pointed head formed by the upper diamond corner, half-lidded tiny black bean eyes on the lower center crease, a tiny straight mouth, gaze slightly forward. Body core is warm-sand plush; only the wing surfaces are translucent tracing-paper folds. Colors: warm sand with one lilac stamp. Single character, full body, slight three-quarter front view, short feet standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds, crutches or disfigurement, no hanging pose that cannot stand, no fully transparent jelly body. No kite string or flying action, no fully transparent paper body.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-13",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "立定"
+}

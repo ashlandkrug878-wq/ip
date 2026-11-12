@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhaolusi-e1",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "胸前展开信封壳的团兽",
+  "species": "衔信壳兽",
+  "axes": {
+    "archetype": "物件生物，信封壳",
+    "silhouette": "横宽团子，前胸一块打开一半的信封",
+    "mark": "胸前 · 打开一半的信封壳",
+    "face": "眯成线的眼，眼距略宽，极小圆点嘴",
+    "emotion": "内收，温和递出",
+    "fusion": "物件是壳：信封成为整个前胸外壳，拿掉信封没有前胸",
+    "material": "主体雾紫短绒，只有信封口一处蜡封印是釉蜡",
+    "palette": "雾紫配暖赭蜡"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头是横宽扁圆，顶部平钝，下颌贴着信封上沿",
+  "combo": "横宽团身 + 前胸半开信封壳 + 口上一处釉蜡封 + 雾紫对暖赭",
+  "odd": "信封壳几乎和头一样宽，蜡封比嘴更大",
+  "line": "",
+  "why": "没说出口的话变成胸腔上的壳。壳微张，人还坐着，不是去投递。",
+  "spec": {
+    "proportion": "头高约占全高 45%，信封宽约等于头宽，整体矮团",
+    "outline": "横宽蹲坐团子，前胸一块三角形翻盖信封",
+    "volume": "大：绒团身；中：信封壳；小：蜡封",
+    "face": "眼在头高中线略下，眯成短线，眼距约一个半眼宽，视线平",
+    "stance": "蹲坐，短脚收在身下，肩松，信封盖向一侧微掀并定格",
+    "structure": "信封与胸腹一体，不是抱在手里的信，只有封口是釉蜡"
+  },
+  "toy_check": "站得住：蹲坐。物件长进去：信封就是前胸。特殊材质只有蜡封。新组合：半开信封当胸壳。不像绘本。头像能看到下颌和信封上沿。做得成。姿态：蹲坐。",
+  "crop": "记忆点在下颌与信封上沿的交界，头像能看见眯眼和微掀的盖。",
+  "collide": "不同于手里拿着信的动物：信封是胸壳，无投递动作，脸收着。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "信封被画成手里的道具或角色在跑着送信"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短绒圆兽和一只信封长在一起：信封就是它的前胸外壳，拿掉信封就没有前胸。头高约占全高四成五，信封宽约等于头宽，整体矮团蹲坐。头是横宽扁圆，眯成线的小眼贴在头高中线略下，极小圆点嘴，视线放平。主体是雾紫短绒，只有信封口一处蜡封印是暖赭釉蜡。配色是雾紫配暖赭。单个角色完整全身，正面略侧，蹲坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口、拐杖或残缺造型，不要吊起来无法站稳的造型，不要整体透明果冻身体。不要把信封画成手里拿的道具，不要送信动作。",
+  "enp": "Original designer toy character: a short-plush round creature fused with an envelope — the envelope is the entire front-chest shell, without it there is no chest. Head about 45 percent of total height, envelope about as wide as the head, a low squat bun. Wide low-round head, tiny eyes squinted into short lines just below mid-head, a tiny dot mouth, level gaze. Body is mist-lilac plush; only the seal on the envelope flap is warm-umber glazed wax. Colors: mist lilac with warm umber. Single character, full body, slight three-quarter front view, squatting on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds, crutches or disfigurement, no hanging pose that cannot stand, no fully transparent jelly body. Do not draw the envelope as a handheld prop, no mail-delivery action.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-13",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "蹲坐"
+}

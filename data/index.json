@@ -167,7 +167,10 @@
     "star-zhanglinghe-e3",
     "star-zhaoliying-e1",
     "star-zhaoliying-e2",
-    "star-zhaoliying-e3"
+    "star-zhaoliying-e3",
+    "star-zhaolusi-e1",
+    "star-zhaolusi-e2",
+    "star-zhaolusi-e3"
   ],
   "forms": [
     "2026w42b-1-A1",
@@ -310,7 +313,16 @@
     "star-zhaoliying-e2-A3",
     "star-zhaoliying-e3-A1",
     "star-zhaoliying-e3-A2",
-    "star-zhaoliying-e3-A3"
+    "star-zhaoliying-e3-A3",
+    "star-zhaolusi-e1-A1",
+    "star-zhaolusi-e1-A2",
+    "star-zhaolusi-e1-A3",
+    "star-zhaolusi-e2-A1",
+    "star-zhaolusi-e2-A2",
+    "star-zhaolusi-e2-A3",
+    "star-zhaolusi-e3-A1",
+    "star-zhaolusi-e3-A2",
+    "star-zhaolusi-e3-A3"
   ],
   "studies": [
     "anmoo",
@@ -491,7 +503,8 @@
     "star-yanan",
     "star-yangmi",
     "star-zhanglinghe",
-    "star-zhaoliying"
+    "star-zhaoliying",
+    "star-zhaolusi"
   ],
-  "updated": "2026-11-11T23:08:28+00:00"
+  "updated": "2026-11-12T23:12:49+00:00"
 }

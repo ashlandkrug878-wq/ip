@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhaolusi-e2",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "三片夸大暗花瓣长成披风的夜玫瑰兽",
+  "species": "暗夜玫瑰",
+  "axes": {
+    "archetype": "物件生物，花瓣披风",
+    "silhouette": "矮团身，背后展开三片更大的花瓣斗篷",
+    "mark": "背后 · 三片夸大暗色花瓣披风",
+    "face": "半垂小黑豆眼，视线偏侧，极小一字嘴",
+    "emotion": "反差：小脸收着，披风很大",
+    "fusion": "物件是壳或披风：花瓣就是背部和披风轮廓，拿掉花瓣没有后背",
+    "material": "主体炭黑短绒，只有花瓣是釉面暗紫",
+    "palette": "夜黑配冷紫釉"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头是竖高圆，顶部微收，下颌短，脸只占前侧一小块",
+  "combo": "矮团身 + 背后三片宽过身体的釉瓣披风 + 半垂偏侧眼 + 夜黑对冷紫",
+  "odd": "花瓣披风的宽度超过头两倍，脸相对极小",
+  "line": "",
+  "why": "看熟的甜脸被收到最小，决定画面的是身后那片暗下去的瓣。",
+  "spec": {
+    "proportion": "头高约占全高 40%，披风宽约为头宽的 2.5 倍，整体前低后宽",
+    "outline": "前是矮圆团，后是三片向下铺开的花瓣",
+    "volume": "大：花瓣披风；中：绒身体；小：竖圆头",
+    "face": "眼在头前中下部，半垂，眼距约一个眼宽，视线偏向一侧",
+    "stance": "坐着，短脚前伸一点点，披风铺在身后，肩松",
+    "structure": "花瓣从肩背长出并成为后轮廓，不是别上的胸花，只有瓣面是釉"
+  },
+  "toy_check": "站得住：坐着，披风铺成底座的一部分。物件长进去：花瓣就是后背。特殊材质只有釉瓣。新组合：夸大暗瓣当披风。不像绘本。头像能看到肩和瓣的起端。做得成。姿态：坐着。",
+  "crop": "记忆点在头与肩后第一片瓣的交界，头像能看见偏侧眼和瓣的起端。",
+  "collide": "不同于头上戴一朵玫瑰的动物或穿花裙的小人：瓣是背部结构，无真人衣着，脸收着。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "花瓣被画成头饰胸花，或角色变成穿花裙的小孩"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短绒圆兽和三片玫瑰花瓣长在一起：花瓣就是它的后背和披风，拿掉花瓣就没有后背。头高约占全高四成，披风宽约为头宽的两倍半，坐着，前低后宽。头是竖高圆，半垂小黑豆眼贴在头前中下，视线偏向一侧，极小一字嘴。主体是炭黑短绒，只有花瓣是釉面冷紫。配色是夜黑配冷紫。单个角色完整全身，正面略侧，坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口、拐杖或残缺造型，不要吊起来无法站稳的造型，不要整体透明果冻身体。不要把花瓣画成头饰或胸花，不要穿花裙的人形。",
+  "enp": "Original designer toy character: a short-plush round creature fused with three rose petals — the petals are the back and cloak, without them there is no back. Head about 40 percent of total height, the cloak about two and a half times the head width, a seated pose, low in front and wide behind. Vertically tall round head, half-lidded tiny black bean eyes on the lower front, gaze to one side, a tiny straight mouth. Body is charcoal plush; only the petals are glazed cold-purple. Colors: night black with cold purple. Single character, full body, slight three-quarter front view, sitting on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds, crutches or disfigurement, no hanging pose that cannot stand, no fully transparent jelly body. Do not draw the petals as a hairpin or corsage, no clothed flower-dress figure.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-13",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "坐着"
+}

@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhaolusi-e3",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "夸大沙窝长成下半身的植玫兽",
+  "species": "沙海植玫",
+  "axes": {
+    "archetype": "物件生物，沙窝底座",
+    "silhouette": "低矮沙丘形，顶上一小段花萼",
+    "mark": "身下 · 夸大的沙窝就是下半身和坐面",
+    "face": "眯眼藏在沙沿下，小嘴",
+    "emotion": "内收，生根",
+    "fusion": "物件是壳或底座：沙窝就是下半身和坐面，拿掉沙窝没有下半身",
+    "material": "主体沙色短绒丘，只有顶上花萼是粗陶",
+    "palette": "沙金配绛紫陶"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头是从沙沿微微探出的横宽矮圆，几乎半埋，顶部有一截短粗陶萼",
+  "combo": "低矮沙丘下半身 + 沙沿下眯眼 + 顶上一截绛紫粗陶花萼 + 沙金对绛紫",
+  "odd": "沙窝宽过探出的头很多，花萼很短，不像盛开",
+  "line": "",
+  "why": "先把根在沙里站住。花不必先盛开，颜色在那一截陶萼上就够。",
+  "spec": {
+    "proportion": "头高约占全高 30%，沙窝宽约为头宽的 2.5 倍，整体扁平低",
+    "outline": "横宽低丘，顶部一点点头和短萼",
+    "volume": "大：沙窝；中：埋进沙里的身体；小：陶萼",
+    "face": "眼在沙沿下的头前，眯成线，眼距约一个眼宽，视线微低",
+    "stance": "整个沙窝坐在桌面上，没有外露长腿，重心在丘中央",
+    "structure": "沙窝与腰腹一体展开，不是花盆托盘，只有顶上一截花萼是粗陶，不做枯枝或裂土伤口"
+  },
+  "toy_check": "站得住：沙窝就是座。物件长进去：沙窝就是下半身。特殊材质只有粗陶萼。新组合：沙窝当身体底座。不像绘本。头像能看到沙沿和短萼。做得成。姿态：低坐。",
+  "crop": "记忆点在沙沿与短陶萼，头像能看见眯眼从沙里探出和那一截绛紫。",
+  "collide": "不同于花盆栽或沙漠风景摆件：沙窝是身体结构，有一张收着的脸，不是盆景。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成花盆栽、枯萎或开裂的土地伤口"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短绒生物和一座沙窝长在一起：沙窝就是它的下半身和坐面，拿掉沙窝就没有下半身。头高约占全高三成，沙窝宽约为头宽的两倍半，整体扁平低坐。头是从沙沿微微探出的横宽矮圆，眯成线的小眼贴在沙沿下，小嘴，视线微低。头顶只有一截很短的花萼，并不盛开。主体是沙金短绒丘，只有花萼是绛紫粗陶。配色是沙金配绛紫。单个角色完整全身，正面略侧，低坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口、拐杖或残缺造型，不要吊起来无法站稳的造型，不要整体透明果冻身体。不要花盆栽，不要枯枝、裂土或伤口感。",
+  "enp": "Original designer toy character: a short-plush creature fused with a sand hollow — the hollow is the lower body and sitting base, without it there is no lower half. Head about 30 percent of total height, the hollow about two and a half times the head width, a flat low sit. A wide low-round head barely rises from the sand rim, tiny eyes squinted into lines just under the rim, a small mouth, gaze slightly down. Only a very short blossom calyx sits on the crown, not in full bloom. The mound is sand-gold plush; only the calyx is maroon rough ceramic. Colors: sand gold with maroon. Single character, full body, slight three-quarter front view, sitting low on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds, crutches or disfigurement, no hanging pose that cannot stand, no fully transparent jelly body. No potted-plant prop, no dead branches, cracked earth, or wound-like ground.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-13",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "低坐"
+}

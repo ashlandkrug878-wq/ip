@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhaolusi-e2",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "一圈不完整取景环从颈后长出围住头",
+  "species": "取景环冠",
+  "axes": {
+    "archetype": "物件生物，取景环冠",
+    "silhouette": "团子，头外一圈不闭合的硬环",
+    "mark": "头周 · 一圈不完整的取景环冠",
+    "face": "环内小脸，宽眼距半垂眼，小嘴",
+    "emotion": "内收，被框住仍安静",
+    "fusion": "物件是长出来的结构：取景环从颈后长出包围头部，拿掉环就失去识别",
+    "material": "主体米白短绒，只有取景环是黑釉陶瓷",
+    "palette": "米白配炭黑环"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头是正圆略扁，完全落在环的开口里，顶部刚低于环的上沿",
+  "combo": "团身 + 颈后长出的不闭合黑釉环冠 + 环内宽距半垂眼 + 米白对炭黑",
+  "odd": "环比头更宽一圈，缺口在前方，像把脸让出来",
+  "line": "",
+  "why": "退到后面看，先给自己套上一圈框。框是长出来的，不是戴上的眼镜。",
+  "spec": {
+    "proportion": "头高约占全高 45%，环外径约为头宽的 1.4 倍，整体团圆",
+    "outline": "圆团坐姿，头外一圈前缺的环",
+    "volume": "大：绒团身和头；中：陶瓷环；小：短脚",
+    "face": "眼在头高中线，半垂，眼距约两个眼宽，小嘴居中，视线正前",
+    "stance": "蹲坐，环不触地，由颈后结构托住，双短臂收在腹前",
+    "structure": "环从颈后一体长出，前侧断开留出脸，不是套上去的项圈或眼镜，只有环是黑釉陶"
+  },
+  "toy_check": "站得住：蹲坐。物件长进去：环是从颈后长出的冠。特殊材质只有陶环。新组合：不闭合取景环当冠。不像绘本。头像能看到环和宽距眼。做得成。姿态：蹲坐。",
+  "crop": "记忆点在环与脸的前后关系，头像能看见前缺口和环内的眼。",
+  "collide": "不同于戴眼镜或头戴反光板的人偶：环是长出的结构，前侧断开，无真人衣着。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成眼镜、项圈或摄影设备配件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短绒圆兽和一圈取景环长在一起：取景环从颈后长出，包围头部，前侧断开把脸让出来，拿掉环就失去识别。头高约占全高四成五，环外径约为头宽的一点四倍，蹲坐团圆。头是略扁的正圆，半垂小眼眼距很宽，小嘴居中，视线正前。主体是米白短绒，只有取景环是炭黑釉面陶瓷。配色是米白配炭黑。单个角色完整全身，正面略侧，蹲坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口、拐杖或残缺造型，不要吊起来无法站稳的造型，不要整体透明果冻身体。不要画成眼镜、项圈或摄影器材配件。",
+  "enp": "Original designer toy character: a short-plush round creature fused with a viewfinder ring — the ring grows from the back of the neck and encircles the head, broken at the front to leave the face open; without the ring the character is unrecognizable. Head about 45 percent of total height, ring outer diameter about 1.4 times the head width, a round squat. Slightly flattened round head, half-lidded small eyes set about two eye-widths apart, a tiny centered mouth, gaze forward. Body is off-white plush; only the ring is charcoal glazed ceramic. Colors: off-white with charcoal black. Single character, full body, slight three-quarter front view, squatting on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds, crutches or disfigurement, no hanging pose that cannot stand, no fully transparent jelly body. Do not draw it as glasses, a collar, or camera gear.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-13",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "蹲坐"
+}

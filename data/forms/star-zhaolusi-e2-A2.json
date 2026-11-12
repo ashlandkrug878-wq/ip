@@ -1,0 +1,81 @@
+{
+  "ip": "star-zhaolusi-e2",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "可翻合的双层面板成为整个头",
+  "species": "翻合板",
+  "axes": {
+    "archetype": "物件生物，翻合板头",
+    "silhouette": "方圆大头小身，头是两块微掀的板",
+    "mark": "头 · 可翻合的双层面板就是整个头",
+    "face": "小眼画在下面那块板的下沿，眼距正常，一线嘴",
+    "emotion": "反差：板很方正，眼很软",
+    "fusion": "物件就是头：翻合板就是头，拿掉板没有头",
+    "material": "主体雾灰短绒身体，只有头是哑光木夹板",
+    "palette": "暖木褐配粉笔白"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头是两块圆角矩形板，上板从前额微掀一线缝，下板承脸，顶部平，下颌方圆",
+  "combo": "圆角方板头 + 上板微掀一线缝 + 下沿软小眼 + 暖木褐对粉笔白",
+  "odd": "头明显大于身体，掀开的缝成为最宽的一条线",
+  "line": "",
+  "why": "喊停落成一块能翻合的头。停在微掀的那一线，不是拍下去的动作。",
+  "spec": {
+    "proportion": "头高约占全高 55%，头宽大于肩宽，身体短小",
+    "outline": "大头小身，头是圆角长方形，身是短柱",
+    "volume": "大：木板头；中：绒身体；小：短手脚",
+    "face": "眼贴在下板下三分之一，半圆小眼，眼距约一个眼宽，一线嘴靠近下沿，视线正前微低",
+    "stance": "短脚左右分开立定，双臂贴身，上板保持微掀的固定角度",
+    "structure": "两块板在一侧相连如书页，整颗头就是板，不是手里拿的拍板，只有头是木头"
+  },
+  "toy_check": "站得住：短脚立定，头虽大但重心在脚。物件长进去：板就是头。特殊材质只有木头。新组合：翻合板当头。不像绘本。头像能看到微掀缝和软眼。做得成。姿态：立定。",
+  "crop": "记忆点在上板缝与下沿小眼，头像只裁头也认得出这块微掀的板。",
+  "collide": "不同于拿场记板的穿衣工作人员人偶：板就是头，无真人衣着，没有拍合动作。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成手里拍板的小人，或上板飞起像在拍戏"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只短绒小身和一个可翻合的双层木板长在一起：木板就是它的整个头，拿掉板就没有头。头高约占全高五成五，头宽大于肩宽，大头小身。头是两块圆角矩形板，上板从前额微掀一线缝，半圆小眼贴在下板下沿，一线嘴，视线微低。主体身体是雾灰短绒，只有头是哑光暖木色夹板，板面有一块粉笔白。配色是暖木褐配粉笔白。单个角色完整全身，正面略侧，立定在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口、拐杖或残缺造型，不要吊起来无法站稳的造型，不要整体透明果冻身体。不要把板画成手里拿的道具，不要拍合动作，不要穿工作服的人形。",
+  "enp": "Original designer toy character: a short-plush small body fused with a two-layer clapping board — the board is the entire head, without it there is no head. Head about 55 percent of total height, wider than the shoulders, big head and small body. Two rounded rectangles form the head, the upper board slightly lifted at the forehead to leave a thin gap; small half-round eyes sit on the lower edge of the bottom board, a single-line mouth, gaze slightly down. The body is mist-grey plush; only the head is matte warm-wood board with one chalk-white field. Colors: warm wood brown with chalk white. Single character, full body, slight three-quarter front view, standing at attention on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props.No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds, crutches or disfigurement, no hanging pose that cannot stand, no fully transparent jelly body. Do not draw the board as a handheld prop, no clapping action, no uniformed human figure.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-13",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "立定"
+}
