@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-12",
+  "queries": [
+    {
+      "query": "RiboDiary 瑞宝 2026 11月12日 快闪",
+      "engine": "system1",
+      "recency_days": 7
+    },
+    {
+      "query": "名创优品 TOPTOY Nommi 2026 11月12日",
+      "engine": "system1",
+      "recency_days": 7
+    },
+    {
+      "query": "サンリオ パペットスンスン 2026 11月12日 新商品",
+      "engine": "system1",
+      "recency_days": 7
+    },
+    {
+      "query": "캐릭터 인형 팝업 2026 11월12일",
+      "engine": "system1",
+      "recency_days": 7
+    },
+    {
+      "query": "RiboDiary Forest Gathering Day November 12 2026 restock",
+      "engine": "system2"
+    },
+    {
+      "query": "PUPPET SUNSUN STORE 2026 11月20日 公式",
+      "engine": "system2"
+    }
+  ],
+  "xhs": {
+    "queries": [
+      "RiboDiary 品牌介绍",
+      "RiboDiary 产品汇总"
+    ],
+    "status": "not_executed",
+    "pages_read": 0,
+    "reason": "fresh browser Unknown tool(browser.js)",
+    "sanrio": "skipped_by_user"
+  },
+  "user_samples": {
+    "thread_pages_reread": 1,
+    "new_accounts": 0,
+    "historical_purpose_sample": 6,
+    "visible_relative_dates": "10d/3h cached; absolute unknown"
+  },
+  "opened_source_ids": [
+    "AA01",
+    "AA02",
+    "AA03",
+    "AA04",
+    "AA05",
+    "AA06",
+    "AA07",
+    "AA08",
+    "AA09",
+    "AA10"
+  ],
+  "visual_observation": "本轮实际打开V04完整原图、历史V26及真实V27/V28；其余7张历史官方图档案保持原观察日；候选图片未开不做逐图分析",
+  "sales": null
+}
