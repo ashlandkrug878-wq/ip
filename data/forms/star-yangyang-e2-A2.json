@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangyang-e2",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "铜风向标从头顶长出来成为冠",
+  "species": "风向标冠",
+  "axes": {
+    "archetype": "物件生物，铜风向标冠兽",
+    "silhouette": "团子身上竖起一个箭头冠",
+    "mark": "头 · 铜风向标就是从头顶长出的冠",
+    "face": "半垂眼，小嘴，眼距正常",
+    "emotion": "内收，等方向",
+    "fusion": "物件是长出来的结构：风向标从头顶长出并成为头的一部分，拿掉标头型就不成立",
+    "material": "主体雾灰长绒，只有风向标是亮面铜",
+    "palette": "雾灰配宝蓝箭头"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "正圆绒头，顶上一体长出扁平箭头形的铜标",
+  "combo": "正圆绒头 + 头顶一体铜箭头冠 + 半垂眼 + 雾灰对宝蓝箭头",
+  "odd": "箭头冠几乎和头一样宽，却还是头的一部分而不是帽子",
+  "line": "",
+  "why": "留白的人把等待做成头上的方向。标就是头，不是气象站配件。",
+  "spec": {
+    "proportion": "头高约占全高 50%，箭头冠宽约等于头宽，冠高约占头高的一半",
+    "outline": "大头团子加一个扁平箭头顶",
+    "volume": "大：圆头；中：铜冠；小：短身短脚",
+    "face": "半垂小黑豆眼在头高下三分之一，眼距约一个眼宽，小嘴，视线顺着箭头的方向微侧",
+    "stance": "短脚站稳，一只短臂微微抬起与箭头同向，不是挥手，也不离地",
+    "structure": "铜标从颅顶皮肤一体长出，没有帽箍，箭头表面是铜，底座没入绒里"
+  },
+  "toy_check": "站得住。物件长进去：标就是头的冠。特殊材质只有铜。新组合：风向标当头冠。不像绘本。头像正好是圆头加箭头。做得成。姿态：单臂微抬，不是立正。",
+  "crop": "记忆点在头部，头像就能认出箭头冠。",
+  "collide": "不同于戴风向标帽子的动物：标是头骨一样长出来的结构，拿掉就不成头。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成头上戴的活动帽子或旋转不停的装置"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只雾灰长绒团子和一枚铜风向标长在一起：风向标从头顶长出，成为头的一部分，拿掉标头型就不成立。头高约占全高一半，箭头冠几乎和头一样宽。头是正圆，半垂小黑豆眼在头高下三分之一，小嘴，视线顺着箭头微侧。短脚站稳，一只短臂微微抬起，和箭头同一方向，不挥手，不离地。主体是雾灰长绒，只有风向标是亮面铜，箭头上有一处宝蓝。配色是雾灰配宝蓝箭头。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口、拐杖、瘸腿或残缺造型，不要整体透明果冻身体。不要可摘的帽子，不要旋转不止的机械，不要飞翔。",
+  "enp": "Original designer toy character: a fog-grey long-plush dumpling fused with a copper weather vane — the vane grows from the crown of the head and is part of the head, without it the head shape fails. Head about 50 percent of total height, the arrow almost as wide as the head. A perfectly round head, half-lidded tiny black bean eyes in the lower third, a small mouth, gaze slightly along the arrow. Short feet planted, one short arm lifted a little in the same direction as the arrow, not waving, not leaving the ground. Body is fog-grey plush; only the vane is polished copper, with one cobalt-blue arrow face. Colors: fog grey with a cobalt arrow. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds, crutches, limp or disfigurement, no fully transparent jelly body. No removable hat, no constantly spinning mechanism, no flying.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-14",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "单臂微抬"
+}

@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangyang-e3",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "霜玻璃灯笼长成胸腔和身",
+  "species": "候风灯",
+  "axes": {
+    "archetype": "物件生物，灯笼身",
+    "silhouette": "竖向的灯笼轮廓",
+    "mark": "身 · 整只灯笼就是胸腔和身体",
+    "face": "半垂小眼贴在灯帽下，小嘴",
+    "emotion": "内收、温和，光很小",
+    "fusion": "物件就是身体：灯笼就是胸腔和身，拿掉灯就没有角色",
+    "material": "主体暖杏短绒灯帽和足，只有灯身是霜面玻璃",
+    "palette": "暖杏配深海蓝"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "短绒灯帽就是头，和下边的玻璃灯身连成一体",
+  "combo": "竖灯笼全身 + 灯帽下半垂小眼 + 霜面玻璃灯身一点内光 + 暖杏对深海蓝",
+  "odd": "身体是一只透着很小光的灯，脸却收在帽檐下不发光",
+  "line": "",
+  "why": "少出来的日子，灯还在身上。光不大，路还是一条。",
+  "spec": {
+    "proportion": "头帽约占全高 30%，玻璃灯身约占 50%，短足约占 20%",
+    "outline": "经典竖向灯笼，底有两只短足",
+    "volume": "大：玻璃灯身；中：绒帽头；小：短足",
+    "face": "半垂小黑豆眼在帽檐下，眼距约一个眼宽，小嘴，视线平或微低",
+    "stance": "两足分开立定，不举手，灯芯光很小，只在玻璃里",
+    "structure": "霜玻璃灯身与绒帽、绒足一体，玻璃是唯一特殊材质，不是手里提的灯"
+  },
+  "toy_check": "站得住。物件长进去：灯就是身体。特殊材质只有霜玻璃。新组合：灯笼当身。不像绘本。头像能看到帽和玻璃上沿。做得成。姿态：立定。",
+  "crop": "记忆点在头帽与玻璃上沿的交接。",
+  "collide": "不同于提着灯笼的动物：灯就是身体，光很小，没有夜游动作。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成巨大探照灯或手里提的配件灯"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只暖杏短绒灯帽和一只霜玻璃灯笼长在一起：灯笼就是它的胸腔和身体，拿掉灯就没有角色。灯帽约占全高三成，玻璃灯身约占一半，底下两只短足。半垂小黑豆眼贴在帽檐下，小嘴，视线平或微低。两足分开站稳，不举手。主体是暖杏短绒的帽和足，只有灯身是霜面玻璃，里面只有很小一点光。配色是暖杏配深海蓝。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口、拐杖、瘸腿或残缺造型，不要整体透明果冻身体。不要巨大光束，不要手里提着的灯，不要夜游队伍。",
+  "enp": "Original designer toy character: a warm-apricot plush lamp hat fused with a frosted-glass lantern — the lantern is the chest and body, without it there is no character. The hat is about 30 percent of total height, the glass body about half, with two short feet. Half-lidded tiny black bean eyes under the brim, a small mouth, gaze level or slightly down. Feet apart, standing firm, no raised hands. The hat and feet are warm-apricot plush; only the body is frosted glass, with only a very small light inside. Colors: warm apricot with deep sea blue. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds, crutches, limp or disfigurement, no fully transparent jelly body. No huge searchlight beam, no handheld lantern accessory, no night parade.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-14",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "立定"
+}

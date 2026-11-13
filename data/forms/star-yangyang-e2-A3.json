@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangyang-e2",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "空着的砚堂成为整颗头",
+  "species": "留白砚",
+  "axes": {
+    "archetype": "物件生物，砚台头",
+    "silhouette": "方圆砚形的头加短身",
+    "mark": "头 · 空着的砚堂就是整张脸所在的头",
+    "face": "砚堂里两枚极小半垂眼，无嘴，脸上大片留白",
+    "emotion": "面无表情、留白",
+    "fusion": "物件就是头或脸：一方砚台就是头，拿掉砚没有头",
+    "material": "主体霜白短绒身子，只有头是釉面陶砚",
+    "palette": "砚黑配霜白身"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "上宽下收的方圆形陶砚，砚堂平坦几乎空白",
+  "combo": "方圆陶砚头 + 砚堂里极小半垂眼无嘴 + 大片空白砚堂 + 砚黑对霜白身",
+  "odd": "头是一块空砚，五官小到几乎要被空白吃掉",
+  "line": "",
+  "why": "留白不只是气质，是头本身空出一堂。等风的时候，先把脸空着。",
+  "spec": {
+    "proportion": "头高约占全高 55%，头宽大于身宽，短身短腿",
+    "outline": "大方圆头加很小的锥身",
+    "volume": "大：砚头；中：空白砚堂平面；小：短绒身",
+    "face": "两枚极小半垂眼靠近砚堂下沿，眼距略宽，无嘴，视线平，大部分砚堂是空的",
+    "stance": "短腿立正站稳，双手贴身",
+    "structure": "陶砚头和霜白绒身在下颌一线长在一起，只有头是釉陶，身上没有墨渍喷溅"
+  },
+  "toy_check": "站得住。物件长进去：砚就是头。特殊材质只有釉陶头。新组合：空砚当头。不像绘本。头像就是砚堂和两点眼。做得成。姿态：立正。",
+  "crop": "记忆点在头部，头像即空砚加两点眼。",
+  "collide": "不同于拿着砚或笔的书生动物：砚就是头，空白是五官配置，不是书写工具。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成满墨的砚、拿笔写字或人形书生"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只霜白短绒短身和一方陶砚长在一起：砚台就是它的整颗头，拿掉砚就没有头。头高约占全高五成五，头宽大于身宽。头是上宽下收的方圆形釉陶砚，砚堂平坦几乎空白，只在下沿有两枚极小半垂眼，没有嘴，视线平。短腿立正站稳，双手贴身。主体是霜白短绒身子，只有头是釉面陶砚。配色是砚黑配霜白。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口、拐杖、瘸腿或残缺造型，不要整体透明果冻身体。不要写满墨的砚，不要毛笔，不要穿衣服的书生小人。",
+  "enp": "Original designer toy character: a frost-white plush short body fused with an inkstone — the inkstone is the entire head, without it there is no head. Head about 55 percent of total height, wider than the body. A rounded-square glazed ceramic inkstone, the well almost blank, only two extremely small half-lidded eyes near the lower edge, no mouth, level gaze. Short legs standing straight, arms close to the body. The body is frost-white plush; only the head is glazed ceramic. Colors: ink-stone black with frost white. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds, crutches, limp or disfigurement, no fully transparent jelly body. No ink-filled stone, no writing brush, no clothed scholar child.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-14",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "立正"
+}

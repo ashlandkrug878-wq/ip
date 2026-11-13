@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangyang-e3",
+  "round": "A",
+  "n": 3,
+  "parent": "",
+  "title": "竹编风罩从头顶长成一圈冠",
+  "species": "毡核风罩",
+  "axes": {
+    "archetype": "物件生物，竹编风罩冠的毡核",
+    "silhouette": "圆毡核加上一圈灯笼般的竹编冠",
+    "mark": "头 · 一圈竹编风罩成为冠",
+    "face": "眯成线的细眼，极小嘴",
+    "emotion": "内收、安静",
+    "fusion": "物件是长出来的结构：竹编风罩像灯笼骨架一样从颅顶一圈长出，拿掉冠头就不完整",
+    "material": "主体燕麦羊毛毡，只有风罩是细竹编",
+    "palette": "燕麦配靛青"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "正圆毡头，顶上一圈透空的竹编罩",
+  "combo": "正圆羊毛毡头 + 一圈透空竹编风罩冠 + 细线眼 + 燕麦对靛青编带",
+  "odd": "冠是透空的灯笼骨架，里头却没有灯，只留结构",
+  "line": "",
+  "why": "少出来也可以把光收掉，只留下同行的骨架。冠是头的一部分，不是帽子。",
+  "spec": {
+    "proportion": "头高约占全高 52%，竹编冠高出头顶约头高的三分之一，罩宽略大于头",
+    "outline": "大圆头加一圈透空罩，短身",
+    "volume": "大：毡头；中：竹编冠；小：短身",
+    "face": "细线眼在头高中线略下，眼距略窄，极小嘴，视线平",
+    "stance": "短脚立正，双臂自然下垂",
+    "structure": "竹编从颅顶一圈长出，像灯笼骨架但里面空着，只有编带是靛青，毡身没有第二处硬材"
+  },
+  "toy_check": "站得住。物件长进去：罩就是头冠。特殊材质只有竹编。新组合：空的灯笼骨架当冠。不像绘本。头像正好是圆头加竹编圈。做得成。姿态：立定。",
+  "crop": "记忆点在头部的竹编圈。",
+  "collide": "不同于戴竹帽的动物或完整灯笼吉祥物：冠是透空骨架，头是毡核，里面不点灯。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成可摘竹帽或点亮的灯笼吉祥物"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一颗燕麦色羊毛毡圆核和一圈竹编风罩长在一起：风罩像灯笼骨架一样从颅顶长出，成为头的一部分，拿掉冠头就不完整。头高约占全高一半，罩比头略宽，高出头顶约头高的三分之一。头是正圆，眼睛是两条细线，嘴极小，视线平。短脚立正，双臂自然下垂。主体是燕麦羊毛毡，只有风罩是细竹编，编带上有一处靛青，罩里面是空的，不点灯。配色是燕麦配靛青。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口、拐杖、瘸腿或残缺造型，不要整体透明果冻身体。不要可摘的帽子，不要点着的灯笼吉祥物，不要密密的竹刺。",
+  "enp": "Original designer toy character: an oat-colored wool-felt round core fused with a bamboo wind shade — the shade grows from the crown like a lantern frame and is part of the head, without it the head is incomplete. Head about 52 percent of total height, the shade a little wider than the head and about one third of the head height above it. A perfectly round head, eyes as thin lines, a tiny mouth, level gaze. Short feet standing straight, arms hanging naturally. The body is oat wool felt; only the shade is fine bamboo weave, with one indigo band, empty inside, no flame. Colors: oat with indigo. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds, crutches, limp or disfigurement, no fully transparent jelly body. No removable hat, no lit lantern mascot, no dense sharp bamboo spikes.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-14",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "立定"
+}
