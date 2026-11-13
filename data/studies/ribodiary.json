@@ -22,8 +22,8 @@
   ],
   "tier": "standard",
   "status": "partial",
-  "cutoff_date": "2026-11-12",
-  "updated": "2026-11-12",
+  "cutoff_date": "2026-11-13",
+  "updated": "2026-11-13",
   "summary": "森林日常由被窝、衣装、手作与群像分工落到产品；官方功能证据清楚，近期讨论可核，规模与增长因果未知。",
   "owner": {
     "creator": null,
@@ -320,6 +320,17 @@
         "AA02"
       ],
       "note": "算法/销量未知，非全网，不计算增长率"
+    },
+    {
+      "metric": "日本官方乐天店展示的挂件店内名次",
+      "value": 2,
+      "unit": "店内名次",
+      "period": "11/06—11/12集计，11/13更新",
+      "type": "self_report",
+      "sources": [
+        "AB03"
+      ],
+      "note": "算法/销量未知；非全网，不计算销量增长"
     }
   ],
   "mechanisms": [
@@ -385,9 +396,9 @@
     "已看7张官方原图，未覆盖所有成员全部视角和早期人偶影像；未读实体绘本，未核出版物ISBN，不把绘本感等同绘本起源。",
     "原图不公开打包；内部结构、绒感、承重、耐用性、清洗与关节寿命未实测，成本利润未知。",
     "11/2品牌供稿与官方发布属同一品牌证据家族，不作为独立需求；自然人作者和完整版权链仍未知。",
-    "11/12浏览器Unknown tool(browser.js)，小红书两组查询未执行，实读0页；旧论坛复核不计新增账号。",
-    "V27/V28未通过；V28缝线和眼侧弧改善，额脸、嘴形、比例及渐层仍偏离；旧V2仅有限身份近似，中文/纯文字未过、稳定性未证，不进3D/毛绒。",
-    "11/12预约计划尚未到10:00；无预约量/到访/销售，11/12店内榜挂件2位仅渠道自述，不推销量或全网热度。"
+    "11/13浏览器Unknown tool(browser.js)，小红书两组查询未执行、实读0页；旧论坛复核不算新增账号。",
+    "V29/V30未通过；V30嘴/缝线改善但额脸、眼内点、比例及渐层仍偏离；旧V2仅有限身份近似，纯文字/中文未过、稳定性未证，不进3D或毛绒。",
+    "上海快闪到计划开幕日，但实际开幕、到访/预约量/销售未核；见面会仅搜索摘要且正文受阻。11/13店内2位不能推全网热度/销量。"
   ],
   "sources": [
     {
@@ -1791,22 +1802,112 @@
       "observed": "2026-11-12",
       "access": "partial",
       "note": "实读尺寸13.5—14.5cm排除耳/配件/挂绳/环与材料、填充；沿用原文PST，不改时区。实时库存/价格选项未加载，不由推荐栏其他SKU推本品库存。V04原图另下载开图。"
+    },
+    {
+      "id": "AB01",
+      "title": "上海快闪计划复核",
+      "url": "https://www.sina.cn/news/detail/5363403062510512.html",
+      "published": "2026-11-09",
+      "event_date": "2026-11-13/2026-11-26",
+      "observed": "2026-11-13",
+      "access": "partial",
+      "note": "实读官方主帖计划11/13—26、10:00—22:00，11/12 10:00开启首日预约；到计划日期不等于已核现场开幕。未取得预约量/到访/销售，首三日仅预约为规则。图片未开。"
+    },
+    {
+      "id": "AB02",
+      "title": "瑞宝艾斯弥尔见面会线索",
+      "url": "https://www.sina.cn/news/detail/5364007042288159.html",
+      "published": "2026-11-11",
+      "event_date": "2026-11-13/2026-11-22",
+      "observed": "2026-11-13",
+      "access": "snippet_only",
+      "note": "搜索摘要显示官方11/11 10:00发帖，拟11/13—15及11/20—22于同址举行见面会；正文工具不可访问，停止依赖，未读场次海报。不确认实际演出、到访或转化。仅摘要，权重低。"
+    },
+    {
+      "id": "AB03",
+      "title": "日本官方乐天店11/13榜",
+      "url": "https://www.rakuten.co.jp/pop-mart-japan/",
+      "published": "2026-11-13",
+      "event_date": "2026-11-06/2026-11-12",
+      "observed": "2026-11-13",
+      "access": "partial",
+      "note": "实读11/13更新、11/06—11/12集计，森林欢聚日挂件店内2位、3520JPY。算法/件数未知，非全站/全网；重叠窗口名次不推销量稳定或增长，手办当期名次null。"
+    },
+    {
+      "id": "AB04",
+      "title": "原独立收藏线程复核",
+      "url": "https://www.reddit.com/r/PopMartCollectors/comments/1xbdmcg/is_this_a_new_ip/",
+      "published": null,
+      "event_date": null,
+      "observed": "2026-11-13",
+      "access": "partial",
+      "note": "实读可见主文/评论，Miserable_Ad_1749自述抽重Iceymel求换及既有成员偏好仍在。不新增账号或订单核验；10d/3h相对日期可能缓存，不当今日新发布；单线程目的样本不代表中国人群。"
+    },
+    {
+      "id": "AB05",
+      "title": "TOP TOY糯米儿媒体供给复核",
+      "url": "https://mowanmi.com/post/8547.html",
+      "published": "2026-11-10",
+      "event_date": "2026-11-06",
+      "observed": "2026-11-13",
+      "access": "partial",
+      "note": "正文称11/6发货、6常规1隐藏、单抽99.9元；端盒单位误写厘米，未核中国官方SKU，不当实销。Nomii/Nommi糯米儿按同一对象待核去重；品牌权属不由销售渠道推定，MINISO/TOP TOY经营关系不等同版权合同。"
+    },
+    {
+      "id": "AB06",
+      "title": "三丽鸥第三周新品",
+      "url": "https://www.sanrio.co.jp/news/goods/goods-release-202611-week3/",
+      "published": "2026-11-06",
+      "event_date": "2026-11-12/2026-11-13",
+      "observed": "2026-11-13",
+      "access": "partial",
+      "note": "正文实读11/12商品与11/13贴纸交换系列安排。商品计划不是销量；图片未开。三丽鸥按用户要求跳过小红书，已有角色不按新品重复立项。"
+    },
+    {
+      "id": "AB07",
+      "title": "日本PUPPET SUNSUN韩国快闪供稿",
+      "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=485125",
+      "published": "2026-11-13",
+      "event_date": "2026-11-27/2026-12-10",
+      "observed": "2026-11-13",
+      "access": "partial",
+      "note": "实读主文：11/13 09:37刊出，文末标NewsWire/리버스供稿；称11/27—12/10于AK PLAZA弘大店快闪、30余韩国原创商品。韩国主授权方仅供稿自述，未见合同；韩国销售不使其成为韩国原创IP，与日本类别同一IP不重复排期。仅供给，无用户/销量，图片未开。"
+    },
+    {
+      "id": "AB08",
+      "title": "韩国DURIDU介绍复核",
+      "url": "https://ilovecharacter.com/news/newsview.php?ncode=1065577851207753",
+      "published": "2026-10-28",
+      "event_date": "2026-11-27/2026-11-29",
+      "observed": "2026-11-13",
+      "access": "partial",
+      "note": "实读情绪妖精群像与DDP展会计划，批准10/28 10:50:48，非本周新文；站头日期不作发布日期，无独立用户或销量，图片未打开。"
+    },
+    {
+      "id": "AB09",
+      "title": "美国挂件规格复核",
+      "url": "https://www.popmart.com/us/products/9418/ribodiary-forest-gathering-day-series-plush-doll-pendant",
+      "published": null,
+      "event_date": "2026-10-29",
+      "observed": "2026-11-13",
+      "access": "partial",
+      "note": "实读13.5—14.5cm排除耳/配件/挂绳/环、材料五项与填充；保留PST原文不改时区。实时价格/库存选项未加载，不由推荐栏或销售导航推本品。V04原图另下载开图。"
     }
   ],
-  "archive": "research/ribodiary/2026-11-12/index.html",
-  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-12/",
-  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-12/",
+  "archive": "research/ribodiary/2026-11-13/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-13/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-13/",
   "prompt_validation": {
     "status": "partial",
-    "mode": "旧V2英文附图有限身份近似；英文附官方图V27/V28仍revise",
+    "mode": "旧V2英文附图有限身份近似；英文附官方图V29/V30仍revise",
     "scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
     "strict_flat_fill": "not_passed",
     "text_only": "English V10/V11 tested_not_passed",
     "stability": "one_repeat_observed_differences_not_validated",
-    "tests": "research/ribodiary/2026-11-12/prompt-tests.json",
-    "checkpoint": "research/ribodiary/2026-11-12/selection-and-progress.json",
+    "tests": "research/ribodiary/2026-11-13/prompt-tests.json",
+    "checkpoint": "research/ribodiary/2026-11-13/selection-and-progress.json",
     "usable_prior_test": "ribodiary-bearibo-flat-ref-v2",
     "chinese_reference": "V6/V7/V17/V18 tested_not_passed",
-    "reference_latest": "English reference V27/V28 revise"
+    "reference_latest": "English reference V29/V30 revise"
   }
 }

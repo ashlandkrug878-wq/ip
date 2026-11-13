@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-13",
+  "queries": [
+    {
+      "engine": "system1",
+      "recency_days": 7,
+      "query": "RiboDiary 瑞宝 2026 11月13日 上海 快闪"
+    },
+    {
+      "engine": "system1",
+      "recency_days": 7,
+      "query": "TOP TOY 名创优品 Nommi 2026 11月 新品 热门"
+    },
+    {
+      "engine": "system1",
+      "recency_days": 7,
+      "query": "サンリオ パペットスンスン 2026 11月13日"
+    },
+    {
+      "engine": "system1",
+      "recency_days": 7,
+      "query": "한국 캐릭터 인형 팝업 2026 11월13일"
+    },
+    {
+      "engine": "system2",
+      "query": "RiboDiary Forest Gathering Day November 13 2026"
+    },
+    {
+      "engine": "system2",
+      "query": "두리두 캐릭터 2026 11월 팝업"
+    }
+  ],
+  "xhs": {
+    "queries": [
+      "RiboDiary 品牌介绍",
+      "RiboDiary 产品汇总"
+    ],
+    "status": "not_executed",
+    "reason": "fresh browser Unknown tool(browser.js)",
+    "pages_read": 0,
+    "sanrio": "skipped_by_user"
+  },
+  "user_sampling": {
+    "thread_pages_reread": 1,
+    "new_accounts": 0,
+    "historical_sample_accounts": 6,
+    "visible_dates": "10d/3h cached; absolute unknown"
+  },
+  "source_ids": [
+    "AB01",
+    "AB02",
+    "AB03",
+    "AB04",
+    "AB05",
+    "AB06",
+    "AB07",
+    "AB08",
+    "AB09"
+  ],
+  "images_viewed": "本轮V04完整原图、历史V28、实际生成V29/V30；历史七张官方图保留原观察日，候选图未开不作逐图断言",
+  "sales": null
+}

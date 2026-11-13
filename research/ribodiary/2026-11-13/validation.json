@@ -1,0 +1,281 @@
+{
+  "date": "2026-11-13",
+  "validator": "PASS run1113/repo/data/studies/ribodiary.json (structure and vocab only; facts need review)",
+  "index": "index unchanged",
+  "all_collection_ids_preserved": true,
+  "species_ids": [
+    "01-sunflower",
+    "02-fear-curiosity"
+  ],
+  "html_anchors_balance": true,
+  "exact_prompt_fulltext": true,
+  "secrets_scan": true,
+  "json_parse": true,
+  "card_archive_equal": true,
+  "historical_link_gets": [
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/color-system.json",
+      "status": 200,
+      "bytes": 4020
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/flat-ref-v1.webp",
+      "status": 200,
+      "bytes": 24172
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/flat-ref-v2.webp",
+      "status": 200,
+      "bytes": 21318
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/products.json",
+      "status": 200,
+      "bytes": 3828
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/user-samples.json",
+      "status": 200,
+      "bytes": 1582
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/visual-index.json",
+      "status": 200,
+      "bytes": 10302
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-01/flat-ref-v3.webp",
+      "status": 200,
+      "bytes": 23420
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-01/flat-ref-v4.webp",
+      "status": 200,
+      "bytes": 21564
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-01/flat-ref-v5.webp",
+      "status": 200,
+      "bytes": 21550
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-02/flat-ref-v6.webp",
+      "status": 200,
+      "bytes": 22554
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-02/flat-ref-v7.webp",
+      "status": 200,
+      "bytes": 21694
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-03/flat-ref-v8.webp",
+      "status": 200,
+      "bytes": 22046
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-03/flat-ref-v9.webp",
+      "status": 200,
+      "bytes": 20772
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-04/flat-ref-v12.webp",
+      "status": 200,
+      "bytes": 22258
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-04/flat-text-v10.webp",
+      "status": 200,
+      "bytes": 19430
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-04/flat-text-v11.webp",
+      "status": 200,
+      "bytes": 17540
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-04/user-samples-update.json",
+      "status": 200,
+      "bytes": 756
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-05/flat-ref-v13.webp",
+      "status": 200,
+      "bytes": 22948
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-05/flat-ref-v14.webp",
+      "status": 200,
+      "bytes": 23064
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-06/flat-ref-v15.webp",
+      "status": 200,
+      "bytes": 21624
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-06/flat-ref-v16.webp",
+      "status": 200,
+      "bytes": 20250
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-07/flat-ref-v17.webp",
+      "status": 200,
+      "bytes": 18908
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-07/flat-ref-v18.webp",
+      "status": 200,
+      "bytes": 20468
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-08/flat-ref-v19.webp",
+      "status": 200,
+      "bytes": 23200
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-08/flat-ref-v20.webp",
+      "status": 200,
+      "bytes": 22340
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-09/flat-ref-v21.webp",
+      "status": 200,
+      "bytes": 18932
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-09/flat-ref-v22.webp",
+      "status": 200,
+      "bytes": 19434
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-10/flat-ref-v23.webp",
+      "status": 200,
+      "bytes": 20020
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-10/flat-ref-v24.webp",
+      "status": 200,
+      "bytes": 17200
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-11/flat-ref-v25.webp",
+      "status": 200,
+      "bytes": 20250
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-11/flat-ref-v26.webp",
+      "status": 200,
+      "bytes": 16776
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-11/prompt-v25-not-passed.txt",
+      "status": 200,
+      "bytes": 2178
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-11/prompt-v26-not-passed.txt",
+      "status": 200,
+      "bytes": 3106
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-12/flat-ref-v27.webp",
+      "status": 200,
+      "bytes": 18776
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-12/flat-ref-v28.webp",
+      "status": 200,
+      "bytes": 15810
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-12/prompt-v27-not-passed.txt",
+      "status": 200,
+      "bytes": 1653
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-12/prompt-v28-not-passed.txt",
+      "status": 200,
+      "bytes": 2292
+    }
+  ],
+  "image_metadata": [
+    {
+      "version": 29,
+      "original_file": "exec-8ad0a41d-b759-40ea-9c41-35f7cf04853e.png",
+      "original_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "3138bc9f2b5024c27598d66e969d7bf58b9bee04deef76c69d3d41222ccbe86d",
+      "published_size": [
+        768,
+        768
+      ],
+      "published_sha256": "5f9d176126c57e1443aa74d1e03f32760f9e5609daa261757cee0275d4ae464b",
+      "bytes": 19616,
+      "webp_quality": 80,
+      "generator": "image_gen built-in",
+      "transparent_background": false
+    },
+    {
+      "version": 30,
+      "original_file": "exec-736c23a3-a87c-4fd5-8fbc-1742d04e9686.png",
+      "original_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "3a0e1aab1db78ab3899aae02461bc2b5ed03afb769189a7754c5fac0004f5684",
+      "published_size": [
+        768,
+        768
+      ],
+      "published_sha256": "437a548871bf1176856c3e7c2d57a5fe8efb7fbd3a09c95856f4b0f02ca0aa74",
+      "bytes": 16832,
+      "webp_quality": 80,
+      "generator": "image_gen built-in",
+      "transparent_background": false
+    }
+  ],
+  "original_color_rechecked": {
+    "size": [
+      1200,
+      1200
+    ],
+    "method": "RGB pixel top-left coordinates; photo sampling not official standard",
+    "points": [
+      {
+        "xy": [
+          600,
+          290
+        ],
+        "rgb": "#AF8056"
+      },
+      {
+        "xy": [
+          540,
+          490
+        ],
+        "rgb": "#F7DACA"
+      },
+      {
+        "xy": [
+          650,
+          550
+        ],
+        "rgb": "#A00910"
+      },
+      {
+        "xy": [
+          600,
+          800
+        ],
+        "rgb": "#110F1A"
+      }
+    ]
+  },
+  "research_status": "partial",
+  "strict_flat_fill": "not_passed",
+  "browser_visual_check": false,
+  "publication": "pending post-commit checks"
+}

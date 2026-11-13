@@ -1,0 +1,541 @@
+{
+  "date": "2026-11-13",
+  "timezone": "Asia/Shanghai",
+  "standard": "chaowan-ip-study v0.3 standard unchanged",
+  "status": "partial",
+  "new_ip_count": 0,
+  "selected_subject": "ribodiary",
+  "selected_reason": "继续11/12 V27/V28未通过的同一官方V04平面检查点，不宣称当天最热；帕恰狗已在库",
+  "previous_checkpoint": "../2026-11-12/selection-and-progress.json",
+  "window_7d": [
+    "2026-11-07",
+    "2026-11-13"
+  ],
+  "window_30d": [
+    "2026-10-15",
+    "2026-11-13"
+  ],
+  "qualified_candidate_count": 1,
+  "candidate_note": "1个为续作对象；其余4行只是未达门槛观察，不伪称3—5个合格候选或热榜",
+  "candidates": [
+    {
+      "subject_id": "ribodiary",
+      "category": "泡泡玛特",
+      "selected": true,
+      "qualified": true,
+      "reason": "前次明确平面未过，优先续作；不是当天最热宣称",
+      "evidence_types": [
+        "线下运营计划",
+        "店内榜展示",
+        "第三方既有用户行为自述"
+      ],
+      "sources": [
+        "AB01",
+        "AB02",
+        "AB03",
+        "AB04"
+      ],
+      "strength": "商品/活动事实强，渠道排名中，独立用户弱；规模与因果未知",
+      "new_ip": false
+    },
+    {
+      "subject_id": "nommi",
+      "category": "名创优品/TOP TOY观察",
+      "selected": false,
+      "qualified": false,
+      "aliases": [
+        "Nommi",
+        "Nomii",
+        "糯米儿"
+      ],
+      "reason": "新媒体供给线索与店铺旧计划同一商业家族，缺独立需求；中国与美国口径分开；法律权属未核，不因渠道认定归属",
+      "sources": [
+        "AB05"
+      ]
+    },
+    {
+      "subject_id": "sanrio-existing-characters",
+      "category": "三丽鸥",
+      "selected": false,
+      "qualified": false,
+      "reason": "今日新系列与联名均供给计划；三位主角已有卡，不把系列当新IP；无独立需求",
+      "sources": [
+        "AB06"
+      ]
+    },
+    {
+      "subject_id": "puppet-sunsun",
+      "category": "日本其他IP",
+      "selected": false,
+      "qualified": false,
+      "reason": "新韩国快闪供稿属日本同一IP的海外供给，非韩国原创，不重复排期；独立需求仍不足",
+      "sources": [
+        "AB07"
+      ]
+    },
+    {
+      "subject_id": "duridu",
+      "category": "韩国",
+      "selected": false,
+      "qualified": false,
+      "reason": "仅10/28参展介绍，30天窗口，非7天新发布；无独立需求",
+      "sources": [
+        "AB08"
+      ]
+    }
+  ],
+  "dedup_snapshot": [
+    {
+      "id": "anmoo",
+      "name": "ANMOO 阿默",
+      "aliases": [
+        "AnMoo",
+        "阿默",
+        "LITTLE ANMOO"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "azura",
+      "name": "AZURA",
+      "aliases": [
+        "Azura",
+        "アズラ"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "baby-zoraa",
+      "name": "BABY ZORAA 妹妹",
+      "aliases": [
+        "BabyZoraa",
+        "Zoraa",
+        "佐拉",
+        "妹宝"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "boy-rayan",
+      "name": "BOY RAYAN 哥哥",
+      "aliases": [
+        "BoyRayan",
+        "Rayan",
+        "瑞恩",
+        "哥哥"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "butterbear",
+      "name": "黄油小熊",
+      "aliases": [
+        "Butterbear",
+        "Nong Noey",
+        "น้องเนย",
+        "หมีเนย"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "chiikawa",
+      "name": "Chiikawa 吉伊卡哇",
+      "aliases": [
+        "ちいかわ",
+        "吉伊卡哇",
+        "小可爱",
+        "ちいかわ なんか小さくてかわいいやつ"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "cinnamoroll",
+      "name": "玉桂狗 Cinnamoroll",
+      "aliases": [
+        "大耳狗",
+        "喜拿",
+        "シナモロール",
+        "シナモン",
+        "Cinnamon"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "crybaby",
+      "name": "CRYBABY",
+      "aliases": [
+        "哭娃",
+        "哭泣娃娃"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "dimoo",
+      "name": "DIMOO",
+      "aliases": [
+        "DIMOO WORLD",
+        "迪莫"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "dora",
+      "name": "DORA 大表姐",
+      "aliases": [
+        "Dora",
+        "朵拉",
+        "大表姐"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "farmerbob",
+      "name": "FARMER BOB",
+      "aliases": [
+        "BOB",
+        "农夫BOB",
+        "famerbob（用户输入）"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "hacipupu",
+      "name": "HACIPUPU 哈奇噗噗",
+      "aliases": [
+        "Hacipupu",
+        "哈奇噗噗"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "hello-kitty",
+      "name": "Hello Kitty",
+      "aliases": [
+        "ハローキティ",
+        "凯蒂猫",
+        "Kitty White"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "hirono",
+      "name": "HIRONO 小野",
+      "aliases": [
+        "Hirono",
+        "小野"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "kubo",
+      "name": "KUBO",
+      "aliases": [
+        "kubo"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "kuromi",
+      "name": "KUROMI 酷洛米",
+      "aliases": [
+        "Kuromi",
+        "クロミ",
+        "可罗米",
+        "库洛米"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "loveez",
+      "name": "Loveez らぶいーず",
+      "aliases": [
+        "らぶいーず",
+        "Loveeez",
+        "すもっぴ",
+        "Smoppi",
+        "Sumoppi",
+        "ぴょんちー",
+        "Pyonchi",
+        "Pyonchii",
+        "皮皮与琪琪"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "maltese",
+      "name": "线条小狗",
+      "aliases": [
+        "Maltese",
+        "モルチーズ",
+        "小白与小金毛",
+        "Retriever"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "mikko",
+      "name": "MIKKO / Lil ala mode by mikko",
+      "aliases": [
+        "mikko illustrations",
+        "mikko characters",
+        "リルアラモード",
+        "Mousse 慕斯"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "mofusand",
+      "name": "mofusand 猫福珊迪",
+      "aliases": [
+        "モフサンド",
+        "鲨鱼猫"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "molly",
+      "name": "MOLLY 茉莉",
+      "aliases": [
+        "Molly",
+        "モリー",
+        "Baby Molly",
+        "SPACE MOLLY",
+        "ROYAL MOLLY",
+        "ANGRY MOLLY"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "my-melody",
+      "name": "美乐蒂 My Melody",
+      "aliases": [
+        "マイメロディ",
+        "Melody"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "nyota",
+      "name": "NYOTA",
+      "aliases": [
+        "Nyota"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "opanchu-usagi",
+      "name": "内裤兔 Opanchu Usagi",
+      "aliases": [
+        "おぱんちゅうさぎ",
+        "裤裤兔",
+        "胖次兔",
+        "裤头兔"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "peach-riot",
+      "name": "PEACH RIOT",
+      "aliases": [
+        "Peach Riot",
+        "Lil Peach Riot"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "pino-jelly",
+      "name": "PINO JELLY 软糖男孩",
+      "aliases": [
+        "Pino Jelly",
+        "软糖男孩"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "pochacco",
+      "name": "帕恰狗 Pochacco",
+      "aliases": [
+        "ポチャッコ",
+        "PC狗"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "pompompurin",
+      "name": "布丁狗 Pompompurin",
+      "aliases": [
+        "ポムポムプリン",
+        "Purin"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "pucky",
+      "name": "PUCKY 毕奇",
+      "aliases": [
+        "Pucky",
+        "毕奇精灵"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "ribodiary",
+      "name": "RiboDiary 森林伙伴（含瑞宝 Bearibo）",
+      "aliases": [
+        "Ribo Diary",
+        "RIBO DIARY",
+        "瑞宝",
+        "Bearibo",
+        "ベアリボ",
+        "リボダイアリー",
+        "리보다이어리",
+        "Peippi",
+        "佩皮",
+        "Iceymel",
+        "艾斯弥尔",
+        "Furrychiii",
+        "芙伊绮",
+        "Memicchi",
+        "玫米琪",
+        "Joeius",
+        "乔恩斯"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "rilakkuma",
+      "name": "轻松熊 Rilakkuma",
+      "aliases": [
+        "リラックマ",
+        "拉拉熊",
+        "松弛熊"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "shangqiu",
+      "name": "野有上秋／上秋子",
+      "aliases": [
+        "野有上秋",
+        "上秋子",
+        "SQles",
+        "上野秋子（用户输入）"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "skullpanda",
+      "name": "SKULLPANDA",
+      "aliases": [
+        "熊喵",
+        "SP"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "smiski",
+      "name": "角落君 SMISKI",
+      "aliases": [
+        "スミスキー",
+        "Smiski"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "sonny-angel",
+      "name": "Sonny Angel 颂尼天使",
+      "aliases": [
+        "ソニーエンジェル",
+        "趴趴天使"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "sumikko-gurashi",
+      "name": "角落小伙伴 Sumikko Gurashi",
+      "aliases": [
+        "すみっコぐらし",
+        "Sumikkogurashi",
+        "角落生物"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "sweet-bean",
+      "name": "SWEET BEAN 小甜豆",
+      "aliases": [
+        "Sweet Bean",
+        "小甜豆"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "the-monsters",
+      "name": "THE MONSTERS",
+      "aliases": [
+        "精灵天团"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "tiny-tiny",
+      "name": "TINY TINY",
+      "aliases": [
+        "TinyTiny",
+        "TINYTINY",
+        "Tiny Tiny"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "xingxingren",
+      "name": "星星人",
+      "aliases": [
+        "Twinkle Twinkle"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "yoyo",
+      "name": "YOYO 右右酱",
+      "aliases": [
+        "YOYO",
+        "右右酱",
+        "YOYO宝宝"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "yuy",
+      "name": "小玉 YUY",
+      "aliases": [
+        "小玉",
+        "Yuy",
+        "YUY",
+        "yuy玉",
+        "玉 yuy"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "zsiga",
+      "name": "Zsiga",
+      "aliases": [
+        "ZSIGA",
+        "嘎子姐"
+      ],
+      "status": "partial"
+    }
+  ],
+  "target": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
+  "new_tests": [
+    29,
+    30
+  ],
+  "test_count": 30,
+  "strict_flat_fill": "not_passed",
+  "limited_prior_ready": "V2 English + official V04 identity approximation only",
+  "next_checkpoint": "继续同一官方V04；额脸、眼内点、嘴形、比例与渐层仍未过，不换目标不进入3D/毛绒",
+  "public_original_image_policy": "官方原图仅外链，无再分发依据不打包",
+  "aesthetic_approval": false
+}
