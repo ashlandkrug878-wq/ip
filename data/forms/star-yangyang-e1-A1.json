@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangyang-e1",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "蒲公英绒核微微前倾，根还在地上",
+  "species": "蒲公英",
+  "axes": {
+    "archetype": "物件生物，蒲公英绒核",
+    "silhouette": "圆伞绒球就是全身，底下只有很短的根足",
+    "mark": "身 · 整颗绒伞就是身体",
+    "face": "半垂小黑豆眼陷在绒伞下沿，极小一字嘴，眼距约一个眼宽",
+    "emotion": "内收，重心略前仍站住",
+    "fusion": "物件就是身体：绒伞就是头和身，拿掉绒伞就没有角色",
+    "material": "主体暖乳短绒，只有伞顶一层半透明种子膜",
+    "palette": "暖乳配墨蓝"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头和身是同一颗圆伞，几乎头身一体，下颌没入绒面",
+  "combo": "圆伞绒核全身 + 下沿半垂小眼 + 伞顶半透明种子膜 + 暖乳对墨蓝",
+  "odd": "伞远大于脸，根足极短却要站稳",
+  "line": "",
+  "why": "往前走不必全能。绒伞往风里倾一点点，根还钉在桌上。",
+  "spec": {
+    "proportion": "绒伞直径约占全高 70%，根足只占 15%，整体是大圆压在短足上",
+    "outline": "正圆绒伞，底部两枚短钝根足",
+    "volume": "大：绒伞；中：短足；小：下沿那张小脸",
+    "face": "眼在绒伞下缘前侧，半垂，眼距约一个眼宽，视线微前",
+    "stance": "双足前后半步，重心略前，不离地，不飞",
+    "structure": "种子膜只覆在伞顶一层，和绒核长在一起，不是头上插的花"
+  },
+  "toy_check": "站得住：短根足着地。物件长进去：绒伞就是身体。特殊材质只有伞顶膜。新组合：蒲公英当全身。不像绘本。头像能看到伞和下沿小脸。做得成。姿态：重心略前，不是立正。",
+  "crop": "记忆点在头部下沿与伞顶膜的交界，头像能看见圆伞和种子膜。",
+  "collide": "不同于头上戴花或手里拿风车的动物：绒伞就是身体，不飞，脸收着。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成放飞的蒲公英或头上插的装饰花"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只暖乳短绒圆核和一颗蒲公英绒伞长在一起：绒伞就是它的头和身体，拿掉绒伞就没有角色。绒伞直径约占全高七成，底下只有很短的钝根足，整体是大圆压在短足上。半垂小黑豆眼陷在绒伞下沿，极小一字嘴，视线微前。双足前后半步站稳，重心略向前，不离地。主体是暖乳短绒，只有伞顶是一层半透明种子膜。配色是暖乳配墨蓝。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口、拐杖、瘸腿或残缺造型，不要整体透明果冻身体。不要放飞，不要线绳，不要花朵插在头上。",
+  "enp": "Original designer toy character: a warm-cream plush rounded core fused with a dandelion seed head — the seed head is the head and body, without it there is no character. The puff is about 70 percent of total height, with only very short blunt root-feet, a big sphere on short feet. Half-lidded tiny black bean eyes sit on the lower rim of the puff, a tiny straight mouth, gaze slightly forward. Two feet in a short staggered stance, weight a little forward, still planted, not flying. Body is warm-cream plush; only the top of the puff is a translucent seed membrane. Colors: warm cream with ink blue. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds, crutches, limp or disfigurement, no fully transparent jelly body. No flying seeds, no strings, no flower stuck on the head.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-14",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "重心略前"
+}

@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangyang-e2",
+  "round": "A",
+  "n": 1,
+  "parent": "",
+  "title": "空白册页展开成身体和双翼",
+  "species": "宣纸翼",
+  "axes": {
+    "archetype": "物件生物，宣纸册页翼",
+    "silhouette": "左右展开的册页形",
+    "mark": "身 · 空白宣纸就是躯干和双翼",
+    "face": "面无表情的小点眼贴在中缝，无嘴",
+    "emotion": "面无表情、等风",
+    "fusion": "物件就是身体：展开的空白册页就是躯干和翼，拿掉纸就没有角色",
+    "material": "主体燕麦短绒书脊核，只有翼面是生宣纸",
+    "palette": "宣白配一处霁青签"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "头是书脊上端收成的小圆，几乎没入中缝",
+  "combo": "左右展开的空白册页身 + 中缝小点眼无嘴 + 生宣纸翼 + 宣白对一处霁青签",
+  "odd": "翼面几乎全白，只有一处小青签，脸小到要在中缝里找",
+  "line": "",
+  "why": "说着留白，却在等风。空白的纸就是身体，侧向风，却不飞走。",
+  "spec": {
+    "proportion": "头高约占全高 25%，翼展约为头宽的 4 倍，横展大于高度",
+    "outline": "打开的册页，短足在下边",
+    "volume": "大：宣纸翼；中：书脊绒核；小：中缝小头",
+    "face": "两枚小点眼贴在中缝中下部，无嘴，视线平，面无表情",
+    "stance": "短足站稳，身体微微侧向一侧，像在等风，翼面平展不飞",
+    "structure": "纸页从书脊一体展开，不是背上插的旗帜，只有翼面是生宣"
+  },
+  "toy_check": "站得住。物件长进去：纸就是身体。特殊材质只有宣纸翼。新组合：空白册页当身翼。不像绘本。头像能看到中缝和翼的起端。做得成。姿态：微侧，不是立正。",
+  "crop": "记忆点在中缝小头和展开的白翼起端。",
+  "collide": "不同于拿着扇或书的动物：册页就是身体，空白是结构，不是文字插画。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画上大段文字、书写动作或飞走的纸"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只燕麦短绒书脊和一套展开的空白册页长在一起：空白宣纸就是它的躯干和双翼，拿掉纸就没有角色。头高约占全高四分之一，翼展约为头宽的四倍，整体横展。头是书脊上端的小圆，两枚小点眼贴在中缝中下部，没有嘴，面无表情，视线平。短足站稳，身体微微侧向一侧，翼面平展但不飞。主体是燕麦短绒书脊，只有翼面是生宣纸，纸上几乎空白，只有一处霁青书签。配色是宣白配一处霁青。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口、拐杖、瘸腿或残缺造型，不要整体透明果冻身体。不要写满字的纸，不要飞翔，不要接吻或拥抱姿势。",
+  "enp": "Original designer toy character: an oat-plush spine fused with an opened blank album — the blank xuan paper is the torso and both wings, without it there is no character. Head about 25 percent of total height, wingspan about four times the head width, a wide horizontal shape. A small round head at the top of the spine, two tiny dot eyes on the lower mid-crease, no mouth, expressionless, level gaze. Short feet planted, body turned slightly to one side as if waiting for wind, wings spread but not flying. The spine is oat plush; only the wing surfaces are raw xuan paper, almost blank, with one celadon bookmark. Colors: paper white with one celadon accent. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds, crutches, limp or disfigurement, no fully transparent jelly body. No pages covered in writing, no flying, no kissing or embracing pose.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-14",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "微侧向风"
+}

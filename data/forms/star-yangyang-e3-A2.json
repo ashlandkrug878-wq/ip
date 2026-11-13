@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangyang-e3",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "提灯长在背上成为轮廓的一部分",
+  "species": "同行提灯",
+  "axes": {
+    "archetype": "物件生物，背上长出提灯的绒兽",
+    "silhouette": "团子身加一个从背到侧的提灯轮廓",
+    "mark": "背 · 提灯成为背和肩的轮廓",
+    "face": "半垂眼，视线微低，小嘴",
+    "emotion": "内收、温和",
+    "fusion": "物件背负着并成为轮廓的一部分：提灯从背上长出，构成肩背剪影，拿掉灯剪影就不成立",
+    "material": "主体绒棕色短绒，只有灯盏是半透明蜂蜡",
+    "palette": "绒棕配一处琉璃蓝提梁"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "横宽扁圆的绒头，不戴帽子",
+  "combo": "背上长出的提灯轮廓 + 半垂微低视线 + 蜂蜡灯盏 + 绒棕对一处琉璃蓝提梁",
+  "odd": "灯不在手里，而从背上长出来，提梁却是蓝的",
+  "line": "",
+  "why": "同行不必把灯举到脸前。灯在背上，光很小，人还并排走在一条路上的感觉，用站住的身体说完。",
+  "spec": {
+    "proportion": "头高约占全高 48%，灯盏大约和头同高，贴在背侧",
+    "outline": "团子身，背侧多出一个灯形鼓包和提梁弧",
+    "volume": "大：绒身；中：背灯；小：提梁",
+    "face": "半垂小黑豆眼，眼距正常，视线微低，小嘴",
+    "stance": "双脚站住，双手内收抱在胸前，不提灯",
+    "structure": "灯从肩背一体长出，提梁是弧形琉璃蓝，灯盏是蜂蜡，不是可摘的提手物件"
+  },
+  "toy_check": "站得住。物件长进去：拿掉灯剪影不成立。特殊材质只有蜂蜡灯盏。新组合：背灯当轮廓。不像绘本。头像能看到肩后灯的上沿和提梁。做得成。姿态：双手内收，不是立正。",
+  "crop": "记忆点在肩背，头像需看到提梁和灯上沿；头部本身是辅助。",
+  "collide": "不同于手里提灯的动物：灯是背轮廓，手是收着的，不是行路动作。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成手里提着的配件或一对真人手牵手"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只绒棕色短绒团子和一盏提灯长在一起：提灯从背上长出，成为肩背轮廓的一部分，拿掉灯剪影就不成立。头高约占全高一半，灯盏大约和头同高，贴在背侧。头是横宽扁圆，半垂小黑豆眼，视线微低，小嘴。双脚站住，双手内收抱在胸前，不提灯。主体是绒棕色短绒，只有灯盏是半透明蜂蜡，提梁是一处琉璃蓝。配色是绒棕配一处琉璃蓝。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口、拐杖、瘸腿或残缺造型，不要整体透明果冻身体。不要手里提灯，不要两个人牵手，不要巨大光束。",
+  "enp": "Original designer toy character: a fawn-brown plush dumpling fused with a hand-lantern — the lantern grows from the back and becomes part of the shoulder silhouette, without it the outline fails. Head about 48 percent of total height, the lamp about as tall as the head, set on the back. A wide flat-round head, half-lidded tiny black bean eyes, gaze slightly down, a small mouth. Feet planted, both arms folded in at the chest, not holding the lamp. Body is fawn-brown plush; only the lamp bowl is translucent beeswax, with one glazed-blue handle arc. Colors: fawn brown with one glazed blue handle. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds, crutches, limp or disfigurement, no fully transparent jelly body. No handheld lantern, no two people holding hands, no huge beam of light.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-14",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "双手内收"
+}

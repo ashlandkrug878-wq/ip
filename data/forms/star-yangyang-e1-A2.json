@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangyang-e1",
+  "round": "A",
+  "n": 2,
+  "parent": "",
+  "title": "暗钢刀鞘长成背壳，刃不外露",
+  "species": "淬鞘兽",
+  "axes": {
+    "archetype": "物件生物，刀鞘背壳兽",
+    "silhouette": "长条鞘形的背加上团子身",
+    "mark": "背 · 一整条合着的刀鞘就是背壳",
+    "face": "眯成线的眼，无嘴，眼距略宽",
+    "emotion": "内收、笃定",
+    "fusion": "物件是壳：合上的刀鞘成为整个背部和后脑壳，拿掉鞘角色就塌",
+    "material": "主体炭黑短绒，只有背鞘是哑光淬火钢",
+    "palette": "炭黑配麦黄"
+  },
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "head": "横宽扁圆的绒头，后脑被鞘口平滑地包住",
+  "combo": "长条鞘背壳 + 线眼无嘴 + 哑光淬火钢只在背上 + 炭黑对麦黄一点",
+  "odd": "背壳明显长过身体，像一件合上的鞘，却没有刃和血",
+  "line": "",
+  "why": "往前走不必把刃亮出来。力量在合上的鞘和站住的脚。",
+  "spec": {
+    "proportion": "头高约占全高 45%，鞘长约为身长的 1.2 倍，从后脑落到脚后",
+    "outline": "团子身加一条清晰的长条背轮廓",
+    "volume": "大：鞘背；中：绒身；小：扁圆头前脸",
+    "face": "线眼位于头高中线略下，眼距约一个半眼宽，无嘴，视线平",
+    "stance": "两脚分开立正站稳，手臂贴身，不拔鞘",
+    "structure": "鞘与后背一体生长，开口在后脑上方合死，不露出刃，没有伤口和铆钉密铺"
+  },
+  "toy_check": "站得住。物件长进去：鞘就是背。特殊材质只有钢鞘。新组合：合鞘当背壳。不像绘本。头像能看到后脑的鞘口。做得成。姿态：立正。",
+  "crop": "记忆点在后脑与背的鞘口，头像要看见鞘的起端。",
+  "collide": "不同于背着一把剑的武士动物：鞘就是身体结构，没有出刃，没有战斗姿势。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画出外露的刃、血或受伤的腿"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓糊成一团"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只炭黑短绒团子和一条合着的刀鞘长在一起：刀鞘就是它的整个背部和后脑壳，拿掉鞘角色就塌。头高约占全高四成五，鞘比身子更长一点，从后脑落到脚后。头是横宽扁圆，眼睛是两条细线，没有嘴，视线平视。两脚分开站稳，手臂贴着身体，不拔鞘。主体是炭黑短绒，只有背鞘是哑光淬火钢，没有刃、没有血、没有伤口。配色是炭黑配一点麦黄。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口、拐杖、瘸腿或残缺造型，不要整体透明果冻身体。不要出刃，不要血，不要伤口，不要瘸腿，不要战斗姿势。",
+  "enp": "Original designer toy character: a charcoal plush dumpling body fused with a closed blade sheath — the sheath is the entire back and the back of the head, without it the figure collapses. Head about 45 percent of total height, the sheath a little longer than the body, running from the occiput to behind the feet. A wide flat-round head, eyes as thin lines, no mouth, level gaze. Feet apart, standing firm, arms close to the body, not drawing a blade. Body is charcoal plush; only the back sheath is matte quenched steel, no exposed edge, no blood, no wound. Colors: charcoal with a touch of wheat yellow. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds, crutches, limp or disfigurement, no fully transparent jelly body. No exposed blade, no blood, no wounds, no limp, no fighting pose.",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-14",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "pose": "立正"
+}
