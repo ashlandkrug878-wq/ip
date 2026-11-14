@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangchaoyue-e3",
+  "n": 3,
+  "species": "靠近灯",
+  "title": "一盏小灯背在身上，成为后轮廓上的暖核",
+  "axes": {
+    "archetype": "物件生物，背灯",
+    "silhouette": "圆身子加上背后一枚玻璃灯，形成背上的鼓包轮廓",
+    "mark": "背 · 玻璃灯成为后轮廓的一部分",
+    "face": "前面两只半垂小眼，视线微抬，极小嘴，眼距正常",
+    "emotion": "内收，像在靠近一个点",
+    "fusion": "物件背负着并成为轮廓的一部分：小灯长在背上，拿掉灯后轮廓就不成立",
+    "material": "主体藏青短绒，只有背灯是玻璃灯罩",
+    "palette": "灯暖黄配藏青"
+  },
+  "head": "竖高一点的圆头，和身子连得很短，灯在后背不在头顶",
+  "combo": "背上鼓起的玻璃灯 + 前脸半垂微抬的小眼 + 藏青绒身 + 暖黄对藏青",
+  "odd": "灯在背上不在手里，而且只有一小团光，不做成探照灯",
+  "why": "靠近一个点，事情会慢慢发生。灯是背轮廓，光很小，留给下一秒。",
+  "spec": {
+    "proportion": "头约占全高 45%，身子约占 35%，背灯鼓出约占身厚的一倍，短足约占 20%",
+    "outline": "前圆后鼓，像一个带着灯包的团子",
+    "volume": "大：绒头和身；中：背灯；小：前面的脸",
+    "face": "眼在头高下三分之一，半垂，视线微抬，眼距约一个眼宽",
+    "stance": "双足前后半步，重心略前，像靠近什么，脚不离地",
+    "structure": "玻璃灯罩从后背中线长出，根部和绒身连在一起，不是背带上的提灯"
+  },
+  "toy_check": "站得住：短足撑住前倾和背灯。物件长进去：拿掉灯后轮廓就瘪。特殊材质只有玻璃灯罩。新组合：灯在背上成为轮廓，不是手提灯。不像绘本。头像能看到头顶和后侧灯弧的一部分，前脸是辅助。做得成。姿态：重心略前，不是立正。",
+  "crop": "记忆点主要在背，头像需略侧，让后侧灯弧露出来；前脸半垂眼作辅助。",
+  "collide": "不同于手里提灯或头上戴灯的角色：灯长在背上，成为后轮廓。",
+  "pose": "重心略前，像在靠近",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-15",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一团藏青短绒和一盏小灯长在一起：玻璃灯罩从后背长出，成为它后轮廓上的鼓包，拿掉这盏灯角色的背面就不成立。头约占全高四成五，背灯只是一小团暖光。半垂小眼在脸的下部，视线微微抬起，极小嘴。双足前后半步，重心略向前，脚不离地。主体是藏青短绒，只有背灯是玻璃灯罩。配色是灯暖黄配藏青。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要手提灯，不要头灯，不要强烈光束和舞台射灯。",
+  "enp": "Original designer toy character: a navy plush body fused with a small lamp — a glass shade grows from the back and becomes a rounded bulge in the rear silhouette; without it the back is incomplete. The head is about 45 percent of total height, and the lamp is only a small warm glow. Half-lidded tiny eyes sit low on the face, gaze slightly lifted, tiny mouth. Two feet in a short staggered stance, weight a little forward, still planted. Body is navy plush; only the back lamp is glass. Colors: lamp warm yellow with navy. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body.No lantern held in the hands, no headlamp, no strong spotlight beams.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成手里提灯或头戴矿灯"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "侧看时灯包不够鼓，只剩普通团子"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ]
+}

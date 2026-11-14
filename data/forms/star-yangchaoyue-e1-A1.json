@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangchaoyue-e1",
+  "n": 1,
+  "species": "自己的锦鲤",
+  "title": "鲤身就是身体，背上只留一片可抓住的釉鳞",
+  "axes": {
+    "archetype": "物件生物，鲤身",
+    "silhouette": "侧卧的弧线鱼身，短鳍当足",
+    "mark": "背 · 一片略翘起的釉鳞，像可被抓住的边",
+    "face": "半垂小黑豆眼贴在吻部后侧，极小一字嘴，眼距略窄",
+    "emotion": "内收，重心略前仍站住",
+    "fusion": "物件就是身体：整条鲤就是头和身，拿掉鲤身就没有角色",
+    "material": "主体暖橙短绒，只有背上那一片是亮釉鳞",
+    "palette": "暖橙配墨青"
+  },
+  "head": "头和身连成一条侧弧，吻部圆钝，几乎没有颈",
+  "combo": "侧弧鲤身全身 + 背上单片翘起釉鳞 + 吻后半垂小眼 + 暖橙对墨青",
+  "odd": "全身是软绒，只有一片硬釉；鳞远大于眼",
+  "why": "抓住才算数。角色略前倾站住，背上那片釉鳞是可握住的边，不是许愿符。",
+  "spec": {
+    "proportion": "身长约占全高的横向 1.3 倍，体高约占全高 70%，短鳍足约占 20%",
+    "outline": "一条圆润的侧弧，背上单片鳞微微翘出",
+    "volume": "大：鲤身；中：短鳍足；小：单片釉鳞和吻下那张小脸",
+    "face": "眼在吻后上侧，半垂，眼距略窄于一个眼宽，视线微前",
+    "stance": "腹下两枚短钝鳍足前后半步，重心略前，不离地，不跃出水面",
+    "structure": "釉鳞从背脊长出并微微翘起，和绒身连在一起，不是贴上去的符"
+  },
+  "toy_check": "站得住：短鳍足着地。物件长进去：鲤就是身体。特殊材质只有一片釉鳞。新组合：可抓住的单鳞，不是许愿符。不像绘本。头像能看到弧背和釉鳞。做得成。姿态：重心略前，不是立正。",
+  "crop": "记忆点在背部釉鳞，头像需切到背脊；吻后小眼是辅助。",
+  "collide": "不同于手里抱鱼或头上贴锦鲤贴纸的动物：鲤身就是身体，只有一片鳞，脸收着，不做跃龙门。",
+  "pose": "重心略前",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-15",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一只暖橙短绒圆核和一条鲤鱼长在一起：整条鲤就是它的头和身体，拿掉鲤身就没有角色。身长比站高更长一些，腹下只有很短的钝鳍足，背上单独长出一片微微翘起的亮釉鳞。半垂小黑豆眼贴在圆钝吻部后侧，极小一字嘴，视线微前。双足前后半步站稳，重心略向前，不离地。主体是暖橙短绒，只有那一片背鳞是亮釉。配色是暖橙配墨青。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要许愿符、不要红绳、不要满身密鳞、不要跃出水面、不要龙门。",
+  "enp": "Original designer toy character: a warm-orange plush rounded core fused with a carp — the carp is the head and body, without it there is no character. The body is slightly longer than it is tall, with only very short blunt fin-feet, and a single glossy glazed scale rising from the back like an edge you could hold. Half-lidded tiny black bean eyes sit just behind a blunt snout, a tiny straight mouth, gaze slightly forward. Two feet in a short staggered stance, weight a little forward, still planted, not leaping. Body is warm-orange plush; only that one back scale is glossy glaze. Colors: warm orange with ink teal. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body.No wish talismans, no red lucky strings, no dense all-over scales, no leaping out of water, no dragon gate.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成转发许愿符或满身鳞片的普通锦鲤摆件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓被画成普通鱼，翘鳞不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ]
+}

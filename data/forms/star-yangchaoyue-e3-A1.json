@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangchaoyue-e3",
+  "n": 1,
+  "species": "太阳雨伞核",
+  "title": "油纸伞就是壳，伞骨里只有一小团暖光",
+  "axes": {
+    "archetype": "物件生物，油纸伞壳",
+    "silhouette": "张开的伞就是整个身体轮廓",
+    "mark": "身 · 整把伞成为壳，伞下藏一小团暖光",
+    "face": "伞缘内侧两只半垂眼，极小嘴，眼距宽",
+    "emotion": "内收，像在等下一秒",
+    "fusion": "物件是壳或披风：油纸伞就是外壳，拿掉伞角色就不成立",
+    "material": "主体雨灰短绒核，只有伞面是半透明油纸",
+    "palette": "雨灰配暖阳黄"
+  },
+  "head": "头和身是同一颗绒核，躲在伞壳下面，眼长在伞缘内侧",
+  "combo": "张开的伞壳全身 + 伞缘内侧半垂眼 + 伞骨间一小团暖黄 + 雨灰对暖阳黄",
+  "odd": "伞远大于脸；光只有一小团，不是整把伞在发光",
+  "why": "雨还没停，对面已有一点光。伞是壳，光在下一秒那么大。",
+  "spec": {
+    "proportion": "伞面直径约占全高 90%，绒核约占 45%，短足从伞缘下露出约 15%",
+    "outline": "浅弧的圆伞扣在短足上，像一顶会站的壳",
+    "volume": "大：伞面；中：绒核；小：伞骨间那团暖光和缘内小脸",
+    "face": "眼在伞缘内侧前侧，半垂，眼距宽，视线平或微抬",
+    "stance": "短足分开站稳，伞沿一侧略低，像刚抖过水，不转动",
+    "structure": "油纸伞面从肩背长成壳，和绒核在伞柄短桩处相连，不是手里撑的伞"
+  },
+  "toy_check": "站得住：短足撑住伞壳。物件长进去：伞就是壳。特殊材质只有油纸伞面。新组合：伞下小光核，不是撑伞动物。不像绘本。头像能看到伞弧和缘内眼。做得成。姿态：伞沿一侧略低，不是对称立正。",
+  "crop": "记忆点在伞壳，头像要切到伞缘和内侧小眼。",
+  "collide": "不同于手里撑伞的动物：伞就是身体的壳，光在伞骨里，不是道具。",
+  "pose": "伞沿一侧略低，短足站稳",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-15",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一颗雨灰短绒核和一把油纸伞长在一起：张开的伞就是它的外壳，拿掉伞就没有角色。伞面几乎和站高一样宽，短足从伞缘下露出。半垂小眼长在伞缘内侧，极小嘴，视线平。伞骨之间只有一小团暖黄光，不是整把伞在亮。短足分开站稳，伞沿一侧略低。主体是雨灰短绒，只有伞面是半透明油纸。配色是雨灰配暖阳黄。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要手里再撑一把伞，不要彩虹，不要整把伞发光，不要雨丝动作线。",
+  "enp": "Original designer toy character: a rain-grey plush core fused with an oil-paper umbrella — the open canopy is the shell, without it there is no character. The canopy is almost as wide as the figure is tall, with short feet showing under the rim. Half-lidded tiny eyes sit on the inner rim, a tiny mouth, level gaze. Only a small warm-yellow glow sits between the ribs, not a fully lit canopy. Short feet planted apart, one side of the rim slightly lower. Body is rain-grey plush; only the canopy is translucent oil paper. Colors: rain grey with warm sun yellow. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body.No second umbrella held in the hands, no rainbow, no fully glowing canopy, no motion-line rain.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成一只动物在撑伞，或整把伞发光的吉祥物"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "伞沿太平，像普通圆盘"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ]
+}
