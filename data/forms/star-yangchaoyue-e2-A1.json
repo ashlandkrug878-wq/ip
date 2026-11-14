@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangchaoyue-e2",
+  "n": 1,
+  "species": "基础款卫衣兽",
+  "title": "整件卫衣就是身体，脸只在领口下沿",
+  "axes": {
+    "archetype": "物件生物，卫衣身子",
+    "silhouette": "宽松连帽卫衣的灯笼轮廓，帽子就是头",
+    "mark": "身 · 整件卫衣成为身体和头罩",
+    "face": "领口下沿两只半垂小眼，极小一字嘴，眼距正常",
+    "emotion": "内收，像把注视交给了衣服",
+    "fusion": "物件就是身体：卫衣就是头罩和身，拿掉卫衣就没有角色",
+    "material": "主体炭灰针织绒，只有袋口一圈是哑光铜包边",
+    "palette": "炭灰配亮柠"
+  },
+  "head": "头就是连帽的圆顶，下颌没入领口，几乎看不见颈",
+  "combo": "灯笼形卫衣全身 + 领口下沿半垂小眼 + 袋口一圈铜边 + 炭灰对亮柠",
+  "odd": "几乎没有露出的身体，只有领口一点点脸；铜边只在袋口",
+  "why": "焦点落在衣服上才松一口气。卫衣就是角色，脸缩在领口下沿。",
+  "spec": {
+    "proportion": "帽头约占全高 40%，宽松衣身约占 45%，短针织腿约占 15%",
+    "outline": "上圆下收的灯笼形，帽子和衣身连成一体",
+    "volume": "大：衣身；中：帽头；小：领口那张脸和袋口铜边",
+    "face": "眼在领口下沿内侧，半垂，眼距约一个眼宽，嘴极小",
+    "stance": "两只过长的袖管略向外垂，短腿站稳，不是走秀步",
+    "structure": "针织卫衣从帽到摆就是身体，袋口铜边和衣身长在一起，不是别上的金属牌"
+  },
+  "toy_check": "站得住：短腿撑着宽松衣身。物件长进去：卫衣就是身体。特殊材质只有袋口铜边。新组合：衣服即身体，不是穿衣小人。不像绘本。头像能看到帽和领口小脸。做得成。姿态：袖管外垂，不是立正贴手。",
+  "crop": "记忆点在帽与领口，头像能看见灯笼帽和领下小眼。",
+  "collide": "不同于穿衣服的小孩：没有一套从身体上脱下来的衣服，角色本身就是卫衣。",
+  "pose": "袖管略外垂，短腿站稳",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-15",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一团炭灰针织绒和一件连帽卫衣长在一起：整件卫衣就是它的头罩和身体，拿掉卫衣就没有角色。帽头约占全高四成，衣身宽松像灯笼，底下只有很短的针织腿。半垂小眼只出现在领口下沿，极小一字嘴。两只袖管略向外垂，双腿站稳，不是走秀。主体是炭灰针织绒，只有袋口一圈是哑光铜包边。配色是炭灰配一点亮柠。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要在卫衣里面再画一个小孩身体，不要拉链门牙，不要品牌标志。",
+  "enp": "Original designer toy character: a charcoal knit core fused with a hoodie — the hoodie is the hood-head and body, without it there is no character. The hood is about 40 percent of total height, the body is loose and lantern-shaped, with only very short knit legs. Half-lidded tiny eyes appear only at the lower edge of the collar, with a tiny straight mouth. Both sleeves hang slightly outward, feet planted, not walking a runway. Body is charcoal knit; only the pocket opening is edged in matte copper. Colors: charcoal with a sharp lemon accent. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body.No child body inside the hoodie, no zipper drawn as teeth, no brand logos.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成一个小孩穿着卫衣"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "剪影沦为普通连帽娃娃"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ]
+}

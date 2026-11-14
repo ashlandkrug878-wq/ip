@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangchaoyue-e2",
+  "n": 3,
+  "species": "紫芽冠",
+  "title": "一枚釉紫芽从头顶长出，成为整顶冠",
+  "axes": {
+    "archetype": "物件生物，紫芽冠",
+    "silhouette": "圆身子顶着一枚明显放大的芽冠",
+    "mark": "头 · 一枚釉紫芽就是冠，也是记忆点",
+    "face": "芽下两只半垂眼，小嘴偏向一侧，眼距正常",
+    "emotion": "内收带一点反差：冠很大，脸很小",
+    "fusion": "物件是长出来的结构：釉紫芽从头顶长成冠，拿掉芽冠头部轮廓就不成立",
+    "material": "主体雾灰短绒，只有芽冠是釉紫陶瓷",
+    "palette": "雾灰配亮紫"
+  },
+  "head": "正圆绒头，顶上长出一枚占头宽三分之二的钝芽",
+  "combo": "放大的釉紫芽冠 + 芽下半垂小眼 + 雾灰绒身 + 灰对亮紫",
+  "odd": "芽冠尺度远大于脸，却只有一枚，不做成花丛",
+  "why": "先被看见的是长出来的那一枚冠，脸仍收着。注视先落在外壳一样的芽上。",
+  "spec": {
+    "proportion": "头约占全高 50%，芽冠高又约占头高的 70%，短身短腿约占 50%",
+    "outline": "大圆头加上一枚前倾的钝芽，像逗号",
+    "volume": "大：圆头；中：釉芽冠；小：脸和短身",
+    "face": "眼在头高下三分之一、芽的下方，半垂，眼距约一个眼宽，嘴角微偏向一侧",
+    "stance": "短腿站稳，身体正对前方，芽冠略向前探",
+    "structure": "釉芽从颅顶中线长出，根部和绒头连在一起，不是插在头上的花"
+  },
+  "toy_check": "站得住：短腿撑住大头和芽。物件长进去：拿掉芽冠头就不完整。特殊材质只有釉芽。新组合：单枚放大的陶瓷芽，不是头上插花。不像绘本。头像正好是芽和圆头。做得成。姿态：芽前探，接近立正但冠打破对称。",
+  "crop": "记忆点在头部，头像能看见釉芽。",
+  "collide": "不同于头上戴花的动物：花不是饰品，是长出来的唯一冠，而且是陶瓷。",
+  "pose": "芽冠略前探，短腿站稳",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-15",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一团雾灰短绒和一枚紫芽长在一起：釉紫陶瓷芽从头顶长出，成为它的整顶冠，拿掉这枚芽头部轮廓就不成立。头约占全高一半，芽冠又占去头高的大半，钝尖略向前探。半垂小眼在芽下方，极小嘴微微偏向一侧。短腿站稳。主体是雾灰短绒，只有芽冠是釉紫陶瓷。配色是雾灰配一点亮紫。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要一丛花，不要把芽插在头上，不要闪亮水钻。",
+  "enp": "Original designer toy character: a mist-grey plush body fused with a single purple bud — the glazed purple ceramic bud grows from the crown and becomes the whole crest; without it the head silhouette is incomplete. The head is about half the total height, and the bud takes most of the head height, its blunt tip leaning slightly forward. Half-lidded tiny eyes sit under the bud, a tiny mouth shifted a little to one side. Short legs planted. Body is mist-grey plush; only the crest is glazed purple ceramic. Colors: mist grey with a bright purple accent. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body.No bouquet of flowers, no bud stuck on like a pin, no rhinestones.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成头上插的一束花或多枚芽"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "去掉芽就只剩普通圆头"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ]
+}

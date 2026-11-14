@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangchaoyue-e3",
+  "n": 2,
+  "species": "湿棉披",
+  "title": "一件尚未晒干的油布披就是身体的外轮廓",
+  "axes": {
+    "archetype": "物件生物，湿棉披风",
+    "silhouette": "厚重下垂的披肩轮廓，像刚被雨水加过重",
+    "mark": "披风 · 整件油布披成为肩和背的轮廓",
+    "face": "披领下两只半垂眼，小嘴闭合，眼距正常",
+    "emotion": "内收，像可以等到晒干的那一秒",
+    "fusion": "物件是壳或披风：油布披就是肩背轮廓，拿掉披角色就不成立",
+    "material": "主体晒金短绒身子，只有披是蜡光油布",
+    "palette": "湿蓝配晒金"
+  },
+  "head": "圆绒头从披领里探出一截，披的厚领成为头的后半轮廓",
+  "combo": "厚重下垂的油布披 + 领下半垂小眼 + 蜡光表面 + 湿蓝对晒金",
+  "odd": "披又厚又重，身子却是干的暖绒；不像悲剧，只是还没干",
+  "why": "淋湿的厚外壳可以等到晒干。披是身体轮廓，不是悲剧戏服。",
+  "spec": {
+    "proportion": "披从肩垂到全高的 80%，头露出披领以上约 25%，短足约占 15%",
+    "outline": "上宽下垂的三角形披，一边更长，像还坠着水",
+    "volume": "大：披；中：绒头和身；小：领下的脸",
+    "face": "眼在披领下方，半垂，眼距约一个眼宽，嘴闭合成短线",
+    "stance": "短足站稳，一边披角更长更垂，双手不从披里伸出来",
+    "structure": "蜡光油布从后脑和肩长成披，和绒身在领口相连，不是搭在肩上的衣服"
+  },
+  "toy_check": "站得住：短足撑住厚披。物件长进去：拿掉披就失去下垂轮廓。特殊材质只有油布披。新组合：未干的披成为身体。不像绘本。头像能看到厚领和领下眼。做得成。姿态：一边披角更长，不是对称立正。",
+  "crop": "记忆点在头后的厚领，头像能看见披的轮廓。",
+  "collide": "不同于穿着雨衣的小人：雨衣不是服装层，是长进肩背的轮廓本身。",
+  "pose": "一边披角更长更垂",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-15",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一团晒金短绒和一件厚油布披长在一起：蜡光油布披就是它的肩背和外轮廓，拿掉这件披角色就不成立。披从后脑垂到接近地面，一边更长，像还坠着水。半垂小眼出现在披领下方，嘴闭合成短线。短足站稳，手不从披里伸出来。主体是晒金短绒，只有披是蜡光油布。配色是湿蓝配晒金。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要在披里面再画四肢和衣服，不要眼泪，不要雨滴喷溅动作。",
+  "enp": "Original designer toy character: a sun-gold plush body fused with a heavy oilcloth cape — the waxed cloth cape is the shoulders, back and outer silhouette, without it there is no character. The cape falls from the back of the head almost to the ground, one side longer, as if still weighted with water. Half-lidded tiny eyes sit under the collar, mouth a short closed line. Short feet planted, no hands coming out from the cape. Body is sun-gold plush; only the cape is waxed oilcloth. Colors: wet blue with sun gold. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body.No separate clothed body under the cape, no tears, no splashing rain action.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成小孩穿雨衣，或哭湿的悲伤造型"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "披平贴身体，剪影只剩圆头"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ]
+}

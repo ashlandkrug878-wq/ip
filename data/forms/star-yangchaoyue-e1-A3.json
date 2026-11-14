@@ -1,0 +1,81 @@
+{
+  "ip": "star-yangchaoyue-e1",
+  "n": 3,
+  "species": "小问题匣",
+  "title": "陶匣就是身体，一格盖子微微掀开",
+  "axes": {
+    "archetype": "物件生物，陶匣身子",
+    "silhouette": "方圆的小匣子立着，盖沿微掀",
+    "mark": "身 · 掀开一格的匣盖成为胸腔和轮廓",
+    "face": "匣前板上部两只小黑豆眼，无嘴，眼距正常",
+    "emotion": "面无表情，像刚解决完一格",
+    "fusion": "物件就是身体：陶匣就是胸腔和身，拿掉匣子就没有角色",
+    "material": "主体陶褐短绒四肢和顶绒，只有匣身是亚光釉陶",
+    "palette": "陶褐配青绿"
+  },
+  "head": "头是匣盖的上沿加上一小撮顶绒，几乎头身一体",
+  "combo": "立着的方圆匣身 + 一格微掀的盖 + 前板小黑豆眼 + 陶褐对青绿",
+  "odd": "身体是硬匣，手脚却是软绒；盖子掀开却不是嘴巴",
+  "why": "小问题一格一格解决。掀开的那一格是刚被征服的空位，不是表情。",
+  "spec": {
+    "proportion": "匣身约占全高 65%，顶绒和盖沿约占 15%，短绒腿约占 20%",
+    "outline": "圆角方匣立着，一边盖沿掀起一个小角",
+    "volume": "大：匣身；中：短腿；小：掀起的盖角和顶绒",
+    "face": "眼在匣前板上三分之一，小黑豆，眼距约一个眼宽，没有嘴",
+    "stance": "双腿分开半步站稳，两只短绒手垂在匣侧，不是举手庆祝",
+    "structure": "釉陶匣就是胸腹，盖子从肩线长出，掀开的一格仍连在匣上，不是手里拿的盒子"
+  },
+  "toy_check": "站得住：短腿撑着匣身。物件长进去：匣就是身体。特殊材质只有釉陶匣。新组合：掀盖不是嘴。不像绘本。头像能看到盖沿和前板眼。做得成。姿态：分腿站稳，接近立正但盖角打破对称。",
+  "crop": "记忆点在身前的匣和掀盖，头像要切到盖沿。",
+  "collide": "不同于手里提箱的动物：箱子就是身体，只有一格掀开。",
+  "pose": "分腿站稳，一格盖微掀",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-15",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一团陶褐短绒和一只小陶匣长在一起：亚光釉陶匣就是它的胸腹和身体，拿掉匣子就没有角色。匣身约占全高六成五，圆角方盒立着，一边盖沿只掀起一个小角。小黑豆眼嵌在匣前板上部，没有嘴。短绒腿分开半步站稳，短绒手垂在匣侧。主体是陶褐短绒的顶和四肢，只有匣身是亚光釉陶。配色是陶褐配青绿。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要把手里再放一个箱子，不要把掀开的盖画成大嘴，不要机器人接缝脸。",
+  "enp": "Original designer toy character: a clay-brown plush core fused with a small ceramic box — the matte glazed box is the chest and body, without it there is no character. The box is about 65 percent of total height, a rounded square standing upright, with only one corner of the lid slightly lifted. Tiny black bean eyes sit on the upper front panel, no mouth. Short plush legs in a small stance, short plush hands hanging at the sides. The top and limbs are clay-brown plush; only the box is matte glazed ceramic. Colors: clay brown with pine green. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body.No extra box held in the hands, no lid drawn as a big mouth, no robot-jointed face.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成手提箱或张开的大嘴"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "方匣和普通方块机器人撞车，掀盖不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉物件后无法识别"
+    ]
+  ]
+}
