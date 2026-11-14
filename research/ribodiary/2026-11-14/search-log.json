@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-14",
+  "timezone": "Asia/Shanghai",
+  "window_7d": [
+    "2026-11-08",
+    "2026-11-14"
+  ],
+  "window_30d": [
+    "2026-10-16",
+    "2026-11-14"
+  ],
+  "web_queries": [
+    {
+      "query": "RiboDiary 瑞宝 快闪 2026 11月14日",
+      "status": "executed",
+      "limitation": "搜索摘要仅线索，实际打开页记录在AC01—09；未强称所有结果合格"
+    },
+    {
+      "query": "TOP TOY 名创优品 Nommi 2026 11月 新品",
+      "status": "executed",
+      "limitation": "搜索摘要仅线索，实际打开页记录在AC01—09；未强称所有结果合格"
+    },
+    {
+      "query": "サンリオ パペットスンスン 2026 11月14日 新商品",
+      "status": "executed",
+      "limitation": "搜索摘要仅线索，实际打开页记录在AC01—09；未强称所有结果合格"
+    },
+    {
+      "query": "한국 캐릭터 인형 팝업 2026 11월14일",
+      "status": "executed",
+      "limitation": "搜索摘要仅线索，实际打开页记录在AC01—09；未强称所有结果合格"
+    },
+    {
+      "query": "RiboDiary Forest Gathering Day November 14 2026 restock",
+      "status": "executed",
+      "limitation": "搜索摘要仅线索，实际打开页记录在AC01—09；未强称所有结果合格"
+    },
+    {
+      "query": "두리두 캐릭터 2026 11월",
+      "status": "executed",
+      "limitation": "搜索摘要仅线索，实际打开页记录在AC01—09；未强称所有结果合格"
+    }
+  ],
+  "source_ids": [
+    "AC01",
+    "AC02",
+    "AC03",
+    "AC04",
+    "AC05",
+    "AC06",
+    "AC07",
+    "AC08",
+    "AC09"
+  ],
+  "xhs": {
+    "queries": [
+      "RiboDiary 品牌介绍",
+      "RiboDiary 产品汇总"
+    ],
+    "status": "not_executed",
+    "reason": "当前浏览器工具Unknown tool(browser.js)，停止依赖，不绕过",
+    "pages_read": 0,
+    "accounts": [],
+    "sanrio_exception": "按用户2026-10-28指示跳过"
+  },
+  "users": {
+    "new_accounts_sampled": 0,
+    "current_reddit_access": "partial",
+    "historical_sample": "10/31论坛6账号与11/4中文主帖1账号，各保留原观察日；本日不冒称重读全部"
+  },
+  "excluded_signals": [
+    "2025年11月报道不是2026近期材料",
+    "名创优品8月半年业绩在30天外且非单IP数字",
+    "营销/供稿重复不算独立线索",
+    "页面站头今日日期不等于发表日"
+  ],
+  "selection": "1个续作合格对象+4个不足门槛观察项，未凑3—5个新候选",
+  "source_method": "fresh connected GitHub; unchanged v0.3 standard; fresh study aliases checked"
+}

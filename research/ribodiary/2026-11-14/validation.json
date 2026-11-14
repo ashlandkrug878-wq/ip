@@ -1,0 +1,283 @@
+{
+  "date": "2026-11-14",
+  "status": "partial",
+  "card_validation": "PASS structure and controlled vocabulary; facts separately reviewed",
+  "index_build": "unchanged; all arrays exactly preserved including species",
+  "json_parse": "passed",
+  "html": "unique IDs, internal anchors, paired structural tags passed; page source inspected",
+  "prompt_fulltext": "V2 copied/displayed/downloaded equals historical actual input; V31/V32 archives/downloads equal actual inputs",
+  "new_tests": [
+    31,
+    32
+  ],
+  "strict_flat_fill": "not_passed",
+  "image_check": "V04 and V30 freshly downloaded and opened; V31/V32 actual generated outputs visually inspected",
+  "compression": "WebP quality80, max768, under150KB; no retouch or color quantization",
+  "official_reference": {
+    "size": [
+      1200,
+      1200
+    ],
+    "sha256": "cdd969500b9d0a58a91e3fb7535d20ad685475c7ebf11e440dd5373e95de7184",
+    "pixel_coordinates_top_left_rgb": {
+      "600,290": "#AF8056",
+      "540,490": "#F7DACA",
+      "650,550": "#A00910",
+      "600,800": "#110F1A"
+    },
+    "note": "photo pixels only, not official/production colors"
+  },
+  "historical_attachment_checks": [
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/color-system.json",
+      "status": 200,
+      "bytes": 4020,
+      "sha256": "735654d916ee83a9c806557fea05ed2cc001741479a39f1840804741cb89bc78"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/flat-ref-v1.webp",
+      "status": 200,
+      "bytes": 24172,
+      "sha256": "d333aab3557eb3c0fc3e4c060040d9c52246938b3f1932b1f4168a2c1fe29bd5"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/flat-ref-v2.webp",
+      "status": 200,
+      "bytes": 21318,
+      "sha256": "1447293a1e56d706926f63d6626694b5270ddc6b65de126ffd26ed381af5f7a5"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/products.json",
+      "status": 200,
+      "bytes": 3828,
+      "sha256": "d4633556f703f38b6ccc7a42a15ac62a1fcc2c758b6336356f15ddca7dcfff5d"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/user-samples.json",
+      "status": 200,
+      "bytes": 1582,
+      "sha256": "547c3a24ed4502ff38e8a2f7848f2574f5de131181c628c29df59314a2fdc066"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-10-31/visual-index.json",
+      "status": 200,
+      "bytes": 10302,
+      "sha256": "d2329f135737c0606bf38c066c6e8c6eff5b519e14a1a83265c9ac8e6438c4dc"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-01/flat-ref-v3.webp",
+      "status": 200,
+      "bytes": 23420,
+      "sha256": "cd0bd1180f9b30af42a96415247a7648301c4fcd819693ff56a72f0fe33c5b2f"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-01/flat-ref-v4.webp",
+      "status": 200,
+      "bytes": 21564,
+      "sha256": "66badb8b5ee7a18a6f17332529bc2eecad16d1575c524975315c7d8b7431f10e"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-01/flat-ref-v5.webp",
+      "status": 200,
+      "bytes": 21550,
+      "sha256": "97f063c59f5b77f5817c43abbeed83dd8a6be458af0ff1dbfa128fa010dea8ad"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-02/flat-ref-v6.webp",
+      "status": 200,
+      "bytes": 22554,
+      "sha256": "75d82c928db190323d8d76a807b5254c62f8d3133195ca709eb3ad30249830d4"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-02/flat-ref-v7.webp",
+      "status": 200,
+      "bytes": 21694,
+      "sha256": "df227e84a32c11d6ea3498bb86e3fdff1931044aa3a7ee1bd5db7cbad3024df2"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-03/flat-ref-v8.webp",
+      "status": 200,
+      "bytes": 22046,
+      "sha256": "a5e94771e7ef1476b9e3e859afe13dac2bf00a4ee9dc099eac72689bc68f88b4"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-03/flat-ref-v9.webp",
+      "status": 200,
+      "bytes": 20772,
+      "sha256": "0e5f8d1d88af0357cffd8ad86e7ad888f88cac3167f91c57a0ad803cd9402f8d"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-04/flat-ref-v12.webp",
+      "status": 200,
+      "bytes": 22258,
+      "sha256": "dbdbba9041a0075a636661c27998d95bca63d57304535e0cfe7bf46d1c8b34f8"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-04/flat-text-v10.webp",
+      "status": 200,
+      "bytes": 19430,
+      "sha256": "2309f1c9227a74631be6b8801fdc2de5ddc27cc9ec2312d3dd128883801cdee2"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-04/flat-text-v11.webp",
+      "status": 200,
+      "bytes": 17540,
+      "sha256": "e806d02ab96ff0014c234ca54409febf82d2342a93ba6cd3416ee05f6ddda9de"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-04/user-samples-update.json",
+      "status": 200,
+      "bytes": 756,
+      "sha256": "cf6ffa7a3abe6396604224b1f599acd9be9e8791acb001063e8948129f63218a"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-05/flat-ref-v13.webp",
+      "status": 200,
+      "bytes": 22948,
+      "sha256": "ca77e0063ee359f9b49f7f6560450736f6df78f0f275b35f23af9a5b1ece3e5f"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-05/flat-ref-v14.webp",
+      "status": 200,
+      "bytes": 23064,
+      "sha256": "d83bc4c3a06e0cafca9d53d8b1f57f13d71108bcf6250ef3033611697d31ae32"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-06/flat-ref-v15.webp",
+      "status": 200,
+      "bytes": 21624,
+      "sha256": "8d28fd1801ad45c286f5529f52ccbadee3d46c959b8d610ba2bcffdb4f11cbef"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-06/flat-ref-v16.webp",
+      "status": 200,
+      "bytes": 20250,
+      "sha256": "151f25ec98dad2fd929f49e6076c862fcb2d52021bd2d088f024c2d89d1edb49"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-07/flat-ref-v17.webp",
+      "status": 200,
+      "bytes": 18908,
+      "sha256": "e6da23c5f87fbf2cb827f05e372e9bc09c1f2c93a7f650512b966316135fddd5"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-07/flat-ref-v18.webp",
+      "status": 200,
+      "bytes": 20468,
+      "sha256": "bb15e2adddf6a06392356f436f408b2c195d53d8702df816e7faf1a26617e3f0"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-08/flat-ref-v19.webp",
+      "status": 200,
+      "bytes": 23200,
+      "sha256": "e176bb3352d7b012bd5aacc338813da2f22a90d2a1f7617827d37636e5ce3b07"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-08/flat-ref-v20.webp",
+      "status": 200,
+      "bytes": 22340,
+      "sha256": "fbd46cfce0eb7fc1b119cece5678c4ab924edf10b32ce7edb5f9623d09b5a297"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-09/flat-ref-v21.webp",
+      "status": 200,
+      "bytes": 18932,
+      "sha256": "85a332434871c0d4f344d4cdd45f6a474d1dc83e585fa863cf51b94d40a6bcf6"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-09/flat-ref-v22.webp",
+      "status": 200,
+      "bytes": 19434,
+      "sha256": "9fb5b757035c62c010d605c2d44f45d172c905da7a9d33072afeb1aa8c43242b"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-10/flat-ref-v23.webp",
+      "status": 200,
+      "bytes": 20020,
+      "sha256": "f2818d7b76283eb25bddecefa2c3fbdb25e9f40892321655cde8b973cf96b762"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-10/flat-ref-v24.webp",
+      "status": 200,
+      "bytes": 17200,
+      "sha256": "53b7a57f64c4b12e31acee7a02b71b81f890e87bba14d8d653cd4fb2c6659a5c"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-11/flat-ref-v25.webp",
+      "status": 200,
+      "bytes": 20250,
+      "sha256": "09eb045a92bd1a80aeb607bf013c932462aaae5841a55bebc0996bbd8925b731"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-11/flat-ref-v26.webp",
+      "status": 200,
+      "bytes": 16776,
+      "sha256": "9c4a90eb32401bc4edbd0ba6f9c08f70a19e68d7ea61054eedbed68a6c30540e"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-11/prompt-v25-not-passed.txt",
+      "status": 200,
+      "bytes": 2178,
+      "sha256": "6937e3f51e9b3154192bf691e29fa7137e6ff1d367bdaf251179eb7846fac637"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-11/prompt-v26-not-passed.txt",
+      "status": 200,
+      "bytes": 3106,
+      "sha256": "248f87a4d081481105a77f6d4907905604ce533b08028ede0f006e44be829186"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-12/flat-ref-v27.webp",
+      "status": 200,
+      "bytes": 18776,
+      "sha256": "53bec207d552abf6baebf8560b0687ffe81ee70de4240b792c7d88aaba5e5851"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-12/flat-ref-v28.webp",
+      "status": 200,
+      "bytes": 15810,
+      "sha256": "06f9134a7194f542d9deaab241b1a87f2e6ef640d499c7976461f331c1d7a64a"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-12/prompt-v27-not-passed.txt",
+      "status": 200,
+      "bytes": 1653,
+      "sha256": "4b0eb6e48b474cc55621960958ec733098e645847946ad3abcd8d3f6f147187b"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-12/prompt-v28-not-passed.txt",
+      "status": 200,
+      "bytes": 2292,
+      "sha256": "7b11485f036264ad524576396066c0386a3ca28f66a015ac9a5123aef68ef6d9"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-13/flat-ref-v29.webp",
+      "status": 200,
+      "bytes": 19616,
+      "sha256": "5f9d176126c57e1443aa74d1e03f32760f9e5609daa261757cee0275d4ae464b"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-13/flat-ref-v30.webp",
+      "status": 200,
+      "bytes": 16832,
+      "sha256": "437a548871bf1176856c3e7c2d57a5fe8efb7fbd3a09c95856f4b0f02ca0aa74"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-13/prompt-v29-not-passed.txt",
+      "status": 200,
+      "bytes": 1642,
+      "sha256": "c9bf07ee4c8b928182d2250f1b4a2d5542712f8cffbb6e38cd7cb6bf22789a32"
+    },
+    {
+      "url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-13/prompt-v30-not-passed.txt",
+      "status": 200,
+      "bytes": 2395,
+      "sha256": "65f0f843d7594d7dbf76d97bdf7e273cd1d3042093e8d3689760434647d91af0"
+    }
+  ],
+  "secret_scan": "passed targeted credential/session query scan",
+  "browser_visual_render": false,
+  "browser_limitation": "Unknown tool(browser.js); no claim of browser visual inspection",
+  "publication": "pending commit/CI/Pages and public exact-content verification",
+  "aesthetic_approval": false
+}
