@@ -1,0 +1,81 @@
+{
+  "ip": "star-luyuxiao-e1",
+  "n": 2,
+  "species": "杖芽冠",
+  "title": "一根铜杖从圆背上长出来，成为向前的冠",
+  "axes": {
+    "archetype": "物件生物，杖冠",
+    "silhouette": "圆身竖杖，杖略前倾",
+    "mark": "头顶 · 一根从背脊长出的短铜杖，杖头微微向前",
+    "face": "眯成细线的小眼贴在圆头前侧，极小点嘴，视线沿杖的方向微抬",
+    "emotion": "内收，略仰仍站稳",
+    "fusion": "物件是长出来的结构：铜杖从背脊长成冠，拿掉杖冠角色就不成立",
+    "material": "主体土褐短绒，只有那一根杖是哑光铜",
+    "palette": "土褐配铜橙"
+  },
+  "head": "正圆略扁的头，和圆身连得很短，杖从后枕长出并越过头顶",
+  "combo": "圆身 + 一根前倾铜杖冠 + 细线小眼 + 土褐对铜橙",
+  "odd": "杖比脸长许多，却短于全身，不像真正的登山杖那么细长",
+  "why": "只能向前。杖不是手里的工具，是从背上长出来、微微向前的冠。",
+  "spec": {
+    "proportion": "头高约占全高 45%，杖高出头顶约头高的 40%，短足约占 15%",
+    "outline": "圆团上竖起一根略前倾的短杖",
+    "volume": "大：圆身；中：铜杖冠；小：前侧小脸和短足",
+    "face": "细线眼在头前中部，眼距约一个眼宽，视线沿杖微抬",
+    "stance": "两枚短足左右分开站稳，身微仰，不迈步",
+    "structure": "铜杖从背脊连续长出，根部埋进绒身，不是插在头上的配件"
+  },
+  "toy_check": "站得住：短足左右分开。物件长进去：杖是长出的冠。特殊材质只有铜杖。新组合：向前的杖冠，不是手持登山杖。不像绘本。头像能看到杖冠。做得成。姿态：略仰，不是立正。",
+  "crop": "记忆点在头部杖冠。",
+  "collide": "不同于手里握杖或头上戴登山帽的动物：杖从背脊长出成为冠，脸收着，不做登山动作。",
+  "pose": "略仰",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-16",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一只土褐短绒圆核和一根短杖长在一起：杖从背脊连续长出，越过头顶成为一根微微向前的冠，拿掉这根杖角色就不成立。头约占身高一半，腹下短足左右分开。眯成细线的小眼贴在圆头前侧，极小点嘴，视线沿杖的方向微抬。身子微仰，双足站稳，不迈步。主体是土褐短绒，只有那一根杖是哑光铜。配色是土褐配铜橙。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要手持登山杖、不要细长矛、不要山峰、不要迈步攀爬。",
+  "enp": "Original designer toy character: a soil-brown plush rounded core fused with a short staff — the staff grows continuously from the spine and becomes a slightly forward-leaning crown, without it there is no character. The head is about half the height, with short feet set apart. Fine-line squinted eyes sit on the front of the round head, a tiny dotted mouth, gaze lifted a little along the staff. The body tilts slightly up, feet planted, not stepping. Body is soil-brown plush; only the staff is matte copper. Colors: soil brown with copper orange. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No handheld hiking poles, no long spears, no mountain peaks, no stepping or climbing.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成头上插着的配件杖"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "杖太细，剪影看不清"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "杖身花纹过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩圆头"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉杖后无法识别"
+    ]
+  ]
+}

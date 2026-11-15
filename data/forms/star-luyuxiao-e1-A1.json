@@ -1,0 +1,81 @@
+{
+  "ip": "star-luyuxiao-e1",
+  "n": 1,
+  "species": "路石核",
+  "title": "卵石就是身体，身上一道釉裂纹像走过的路",
+  "axes": {
+    "archetype": "物件生物，卵石身",
+    "silhouette": "横宽卵石团，短钝足",
+    "mark": "身 · 一道从肩走向脚的亮釉裂纹，像刚走过的路",
+    "face": "半垂小黑豆眼贴在石腹上部，极小一字嘴，眼距略窄，视线微前",
+    "emotion": "内收，重心略前仍站住",
+    "fusion": "物件就是身体：整块卵石就是头和身，拿掉石头就没有角色",
+    "material": "主体岩灰短绒，只有那一道裂纹是亮石釉",
+    "palette": "岩灰配芽绿"
+  },
+  "head": "头和身连成一枚横宽卵石，几乎没有颈，顶部圆钝",
+  "combo": "横宽卵石全身 + 一道亮釉裂纹路 + 石腹半垂小眼 + 岩灰对芽绿",
+  "odd": "全身是软绒，只有一道硬釉；裂纹远长于眼",
+  "why": "都到这儿了，只能再往前。角色略前倾站住，身上那道釉裂纹是走过的路，不是奖杯。",
+  "spec": {
+    "proportion": "头身一体，体宽约占全高 90%，短钝足约占 18%",
+    "outline": "一枚横宽卵石，一道裂纹斜向前下方",
+    "volume": "大：卵石身；中：短足；小：釉裂纹和石腹那张小脸",
+    "face": "眼在石腹上三分之一，半垂，眼距略窄于一个眼宽，视线微前",
+    "stance": "两枚短钝足前后半步，重心略前，不离地，不做成攀爬",
+    "structure": "釉裂纹从肩部长进身体并斜向前下，和绒身连在一起，不是画上去的路标"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：石就是身体。特殊材质只有一道釉裂纹。新组合：身上的路，不是手里的地图。不像绘本。头像需切到裂纹。做得成。姿态：重心略前，不是立正。",
+  "crop": "记忆点在身侧釉裂纹，头像需切到肩部裂纹起点。",
+  "collide": "不同于头上插旗或脚下摆一条路的石头摆件：卵石就是身体，只有一道裂纹，脸收着，不做登山场景。",
+  "pose": "重心略前",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-16",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一只岩灰短绒圆核和一枚卵石长在一起：整块卵石就是它的头和身体，拿掉石头就没有角色。体宽接近站高，腹下只有很短的钝足，从肩到身侧单独长出一道微微亮起的石釉裂纹，像一条刚走过的路。半垂小黑豆眼贴在石腹上部，极小一字嘴，视线微前。双足前后半步站稳，重心略向前，不离地。主体是岩灰短绒，只有那一道裂纹是亮石釉。配色是岩灰配芽绿。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要山峰背景、不要地图、不要奖杯、不要攀岩动作、不要满身裂纹。",
+  "enp": "Original designer toy character: a rock-grey plush rounded core fused with a river cobble — the cobble is the head and body, without it there is no character. The body is nearly as wide as it is tall, with only very short blunt feet, and a single glossy stone-glaze crack running from the shoulder down the side like a path already walked. Half-lidded tiny black bean eyes sit on the upper belly, a tiny straight mouth, gaze slightly forward. Two feet in a short staggered stance, weight a little forward, still planted, not climbing. Body is rock-grey plush; only that one crack is glossy stone glaze. Colors: rock grey with bud green. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No mountain backdrop, no maps, no trophies, no climbing pose, no all-over cracks.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成普通石头摆件或满身裂痕"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，裂纹不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉卵石后无法识别"
+    ]
+  ]
+}

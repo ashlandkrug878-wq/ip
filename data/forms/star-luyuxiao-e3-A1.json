@@ -1,0 +1,81 @@
+{
+  "ip": "star-luyuxiao-e3",
+  "n": 1,
+  "species": "露珠壳",
+  "title": "一颗半透明露珠成为壳，微微开向前面",
+  "axes": {
+    "archetype": "物件生物，露珠壳",
+    "silhouette": "圆壳微开，软身缩在里面，重心略前",
+    "mark": "壳 · 一颗略大于头的水青露珠壳，只在正前开一条缝",
+    "face": "壳缝里露出半垂小黑豆眼和极小嘴，视线从缝里向前",
+    "emotion": "内收带一点向前，先缩再看",
+    "fusion": "物件是壳：露珠罩住身体，拿掉这颗露珠角色就不成立",
+    "material": "主体暖米短绒，只有外壳是半透明水青露珠，不是整身透明",
+    "palette": "水青配暖米"
+  },
+  "head": "软圆头缩在壳里，只从开缝处看见下半张脸",
+  "combo": "水青露珠壳 + 正前一条开缝 + 缝里半垂小眼 + 暖米软身略前",
+  "odd": "壳比身体大一圈；透明只在这一处壳，身体仍是软的",
+  "why": "先怕一下，再走过去。壳先开一条缝，重心已经略向前。",
+  "spec": {
+    "proportion": "壳直径约占全高 80%，软身藏在壳内，短足从壳沿下露出约占 15%",
+    "outline": "一颗微微前倾的圆壳，正前开一条缝",
+    "volume": "大：露珠壳；中：壳内软身；小：开缝里的脸和短足",
+    "face": "半垂眼在开缝中部，眼距略窄，视线从缝里向前",
+    "stance": "两枚短足在壳沿下前后半步，重心略前，不缩回壳底",
+    "structure": "露珠壳与软身在颈肩处相连，只在正前裂开一条光滑的缝，边缘圆钝，不锋利"
+  },
+  "toy_check": "站得住：短足在壳沿下着地。物件长进去：露珠是壳。特殊材质只有半透明壳。新组合：先缩再开缝向前。不像绘本。头像即壳与缝。做得成。姿态：重心略前，不是立正。",
+  "crop": "记忆点在头部露珠壳与开缝。",
+  "collide": "不同于普通缩壳动物：壳是一颗露珠，只开一条缝，身体仍是软绒，不做受惊吓叫。",
+  "pose": "重心略前，壳缝向前",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-16",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一只暖米短绒圆核和一颗露珠长在一起：露珠成为外壳，罩住身体，只在正前开一条圆钝的缝，拿掉这颗露珠角色就不成立。壳约占身高的大半，两枚短足从壳沿下露出，前后半步，重心略向前。半垂小黑豆眼和极小嘴从缝里露出，视线向前。主体是暖米短绒，只有外壳是半透明水青露珠，不是整身透明。配色是水青配暖米。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要整身透明、不要锋利碎壳、不要受惊发抖、不要水洼场景。",
+  "enp": "Original designer toy character: a warm-rice plush rounded core fused with a dewdrop — the dewdrop becomes a shell over the body, opening only a blunt slit at the front, without it there is no character. The shell is most of the height, two short feet show under the rim in a staggered stance, weight a little forward. Half-lidded tiny black bean eyes and a tiny mouth show in the slit, gaze forward. Body is warm-rice plush; only the shell is a translucent water-teal dewdrop, not a fully transparent body. Colors: water teal with warm rice. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No fully transparent body, no sharp broken shell, no trembling fright, no puddle scene.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成普通蜗牛壳或整身果冻"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "开缝看不清"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "壳上水花过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩圆球"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉露珠壳后无法识别"
+    ]
+  ]
+}

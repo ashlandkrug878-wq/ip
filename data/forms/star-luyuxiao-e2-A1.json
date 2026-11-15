@@ -1,0 +1,81 @@
+{
+  "ip": "star-luyuxiao-e2",
+  "n": 1,
+  "species": "调味壶身",
+  "title": "壶就是身体，只有沿口一圈是粗盐晶",
+  "axes": {
+    "archetype": "物件生物，壶身",
+    "silhouette": "圆腹小壶，短流口成为一侧轮廓",
+    "mark": "沿口 · 一圈粗盐晶，像刚被调过的咸",
+    "face": "半垂小眼贴在壶腹，极小一字嘴靠近流口下方，面无表情",
+    "emotion": "留白，站稳，味道只在沿口",
+    "fusion": "物件就是身体：整把壶就是头和身，拿掉壶就没有角色",
+    "material": "主体乳白短绒，只有沿口一圈是粗盐晶",
+    "palette": "乳白配海盐青"
+  },
+  "head": "壶身就是头，顶部是沿口，几乎没有单独的颅顶",
+  "combo": "圆腹壶身全身 + 沿口一圈粗盐晶 + 壶腹半垂小眼 + 乳白对海盐青",
+  "odd": "全身软绒，只有沿口是硬晶；盐圈比眼睛更醒目",
+  "why": "把浓的留给那几个瞬间。壶身是淡的，只有沿口被调咸。",
+  "spec": {
+    "proportion": "腹宽约占全高 75%，壶身高约占 80%，短圈足约占 15%",
+    "outline": "一把圆腹小壶，短流口偏向一侧",
+    "volume": "大：壶腹；中：沿口盐晶和短流口；小：腹上小脸和圈足",
+    "face": "半垂眼在腹中上部，眼距约一个眼宽，嘴靠近流口下方，面无表情",
+    "stance": "一圈矮足站稳，不倾斜倾倒",
+    "structure": "盐晶只长在沿口一圈，和绒腹连在一起，不是撒在身上的颗粒"
+  },
+  "toy_check": "站得住：圈足着地。物件长进去：壶就是身体。特殊材质只有沿口盐晶。新组合：淡壶身配一圈浓盐。不像绘本。头像能看到沿口。做得成。姿态：圈足立定，味道不泼洒。",
+  "crop": "记忆点在沿口盐晶，头像需切到壶口。",
+  "collide": "不同于手里拿盐罐的动物：壶就是身体，只有沿口是盐，脸收着，不做厨房场景。",
+  "pose": "圈足立定",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-16",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一只乳白短绒圆核和一把小壶长在一起：整把壶就是它的头和身体，拿掉壶就没有角色。圆腹，一侧有短流口，腹下是一圈矮足。半垂小黑豆眼贴在壶腹，极小一字嘴靠近流口下方，面无表情。只有沿口一圈长着粗盐晶。主体是乳白短绒，只有沿口是盐晶。配色是乳白配海盐青。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要倾倒液体、不要厨房场景、不要满身盐粒、不要辣椒或复杂调料瓶。",
+  "enp": "Original designer toy character: a milky-white plush rounded core fused with a small cruet — the cruet is the head and body, without it there is no character. A round belly, a short spout to one side, a low ring foot. Half-lidded tiny black bean eyes sit on the belly, a tiny straight mouth near the spout, expression blank. Only the rim is a ring of coarse salt crystals. Body is milky-white plush; only the rim is salt crystal. Colors: milky white with sea-salt teal. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No pouring liquid, no kitchen scene, no salt all over the body, no chili or complicated condiment bottles.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成普通茶壶或满身盐粒"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "流口不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "沿口细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩圆腹"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉壶后无法识别"
+    ]
+  ]
+}

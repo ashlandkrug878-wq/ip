@@ -1,0 +1,81 @@
+{
+  "ip": "star-luyuxiao-e3",
+  "n": 2,
+  "species": "记录镜核",
+  "title": "一只镜头长成方圆头，用来记下，不是拿在手里拍",
+  "axes": {
+    "archetype": "物件生物，镜头头",
+    "silhouette": "方圆镜头头配软短身，微侧",
+    "mark": "头 · 一枚占满面部中央的黑亮圆形镜头",
+    "face": "镜头两侧各一枚极小半垂眼，镜头本身不是眼睛，极小嘴在镜头下方",
+    "emotion": "内收，微侧，像在轻轻记下",
+    "fusion": "物件就是头：镜头和方圆机身成为头，拿掉镜头头角色就不成立",
+    "material": "主体奶白短绒身体，只有头上的圆形镜头是黑亮玻璃",
+    "palette": "碳黑配奶白"
+  },
+  "head": "方圆的机身形头，四角收圆，镜头嵌在正中略偏上",
+  "combo": "方圆镜头头 + 中央黑亮圆镜 + 镜侧极小半垂眼 + 碳黑对奶白 + 微侧短身",
+  "odd": "镜头远大于两侧的眼；头是记录用的镜，不是偷拍的枪",
+  "why": "先怕一下，再走过去，也可以先在旁边记下。镜头是头，不是手持的机。",
+  "spec": {
+    "proportion": "头高约占全高 55%，头宽略大于身宽，短足约占 15%",
+    "outline": "一块方圆的头，正中一个大圆镜",
+    "volume": "大：方圆头和镜头；中：奶白短身；小：镜侧两枚眼和短足",
+    "face": "圆形镜头居中略上，两侧极小半垂眼，眼距被镜头隔开，嘴在镜头下沿",
+    "stance": "短足左右分开，身体微侧，不举起、不瞄准",
+    "structure": "镜头嵌进方圆头并与绒身在短颈处相连，不是手里握着的相机"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：镜头就是头。特殊材质只有黑亮玻璃镜头。新组合：记录用的头，不是手持相机。不像绘本。头像即记忆点。做得成。姿态：微侧，不是立正瞄准。",
+  "crop": "记忆点在头部大圆镜头。",
+  "collide": "不同于手里拿相机的小人：镜头就是头，两侧还有小眼，脸收着，不做偷拍或闪光动作。",
+  "pose": "微侧站定",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-16",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一只奶白短绒圆核和一个方圆镜头头长在一起：镜头和方圆机身就是它的头，拿掉这个头就没有角色。头约占身高一半，四角收圆，正中略上嵌着一枚很大的黑亮圆形镜头。镜头两侧各有一枚极小半垂眼，极小嘴在镜头下方。短足左右分开，身体微侧站定，不举起、不瞄准。主体身体是奶白短绒，只有圆形镜头是黑亮玻璃。配色是碳黑配奶白。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要手持相机、不要闪光灯、不要偷拍瞄准、不要监视器屏幕、不要品牌标志。",
+  "enp": "Original designer toy character: a milk-white plush rounded core fused with a rounded-square lens head — the lens and body of the camera are the head, without it there is no character. The head is about half the height, corners rounded, a large glossy black circular lens set slightly high in the center. A tiny half-lidded eye sits on each side of the lens, a tiny mouth below it. Short feet set apart, the body turned slightly, not raising or aiming. Body is milk-white plush; only the circular lens is glossy black glass. Colors: carbon black with milk white. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No handheld cameras, no flash bursts, no aiming or voyeur pose, no monitor screens, no brand logos.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成手里拿相机的小人"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "镜头不够圆、头不够方圆"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "机身按键过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩黑块"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉镜头头后无法识别"
+    ]
+  ]
+}

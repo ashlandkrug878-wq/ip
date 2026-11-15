@@ -1,0 +1,81 @@
+{
+  "ip": "star-luyuxiao-e3",
+  "n": 3,
+  "species": "小圈帐篷",
+  "title": "一小圈蜡棉帐篷成为披风，围住却不封死",
+  "axes": {
+    "archetype": "物件生物，帐篷披",
+    "silhouette": "三角小帐篷罩住圆身，门襟开一条缝",
+    "mark": "披 · 一顶只够围住自己的卡其蜡棉小帐篷，门襟微开",
+    "face": "门襟下露出半垂小眼和极小嘴，视线从开口向前",
+    "emotion": "内收，坐在帐篷里，开口对着前面",
+    "fusion": "物件是披风：帐篷成为罩住身体的披，拿掉帐篷角色就不成立",
+    "material": "主体天青短绒身体，只有帐篷披是卡其蜡棉",
+    "palette": "卡其配天青"
+  },
+  "head": "软圆头从帐篷门襟下露出一半，顶部被三角披罩住",
+  "combo": "三角蜡棉帐篷披 + 微开门襟 + 门襟下半垂小眼 + 卡其对天青 + 坐姿",
+  "odd": "帐篷只围出一小圈，不是把人关起来；开口对着前方",
+  "why": "不喜欢很多人的场合，只想留一小圈。披是帐篷，围住却不封死，开口仍向前。",
+  "spec": {
+    "proportion": "坐高中帐篷高约占 85%，头从门襟露出约占 25%，短腿藏在披沿里",
+    "outline": "一顶小三角帐篷坐在那里，门襟开一条缝",
+    "volume": "大：帐篷披；中：披里软身；小：门襟下的脸",
+    "face": "半垂眼在门襟开口中下部，眼距略窄，视线向前",
+    "stance": "坐在披里，帐篷底边着地，不收摊、不行走",
+    "structure": "蜡棉帐篷从肩背长出并罩住身体，门襟与绒身相连，不是身后支着的独立帐篷"
+  },
+  "toy_check": "站得住：帐篷底边坐地。物件长进去：帐篷是披。特殊材质只有蜡棉。新组合：只围一小圈、开口向前的帐篷披。不像绘本。头像需切到门襟。做得成。姿态：坐在披里，不是立正。",
+  "crop": "记忆点在帐篷披与门襟开口，头像需切到三角顶。",
+  "collide": "不同于坐在帐篷口的小人：帐篷就是披在身上的壳，只有一处蜡棉，脸收着，不做露营场景。",
+  "pose": "坐在披里",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-16",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一只天青短绒圆核和一顶小帐篷长在一起：帐篷成为罩住身体的披风，只围出一小圈，门襟微开向前，拿掉这顶帐篷角色就不成立。三角顶罩住大半个身体，头从门襟下露出一半，短腿藏在披沿里坐稳。半垂小黑豆眼和极小嘴从开口露出，视线向前。主体是天青短绒，只有帐篷披是卡其蜡棉。配色是卡其配天青。单个角色完整全身，正面略侧，坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要露营场景、不要营火、不要把角色关死、不要人穿的雨衣造型。",
+  "enp": "Original designer toy character: a celadon-teal plush rounded core fused with a tiny tent — the tent becomes a cloak that wraps only a small circle around the body, the flap slightly open toward the front, without it there is no character. The triangular top covers most of the body, half the head shows under the flap, short legs hidden along the hem, sitting stably. Half-lidded tiny black bean eyes and a tiny mouth show in the opening, gaze forward. Body is celadon-teal plush; only the tent cloak is khaki waxed cotton. Colors: khaki with celadon teal. Single character, full body, slight three-quarter front view, sitting on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No camping scene, no campfire, no fully sealed prison-like tent, no human raincoat costume.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成坐在独立帐篷里的小人"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "三角披不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "披面缝线和拉链过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩三角形"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉帐篷披后无法识别"
+    ]
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "ip": "star-luyuxiao-e1",
+  "n": 3,
+  "species": "路标旗背",
+  "title": "一面小搪瓷旗背在身上，成为往前的轮廓",
+  "axes": {
+    "archetype": "物件生物，旗背",
+    "silhouette": "圆身加一面斜向前的小旗，旗面成为背影轮廓",
+    "mark": "背 · 一面不大的朱红搪瓷小旗，旗杆长进肩背，旗面斜向前",
+    "face": "小黑豆眼略分得开，半垂，极小嘴，视线向前",
+    "emotion": "内收，坐稳，旗面指向前方",
+    "fusion": "物件背负着并成为轮廓的一部分：小旗长在肩背上，拿掉旗就没有这个轮廓",
+    "material": "主体雾白短绒，只有旗面是亮搪瓷",
+    "palette": "雾白配朱红"
+  },
+  "head": "横宽扁圆头，和下颌连成短弧，旗从后肩长出",
+  "combo": "雾白圆身 + 背上一面斜向前的朱红搪瓷旗 + 半垂分得开的小眼 + 坐姿",
+  "odd": "旗面不大，却比头更醒目；角色是坐着的，旗却指向前方",
+  "why": "不靠冲顶证明往前。坐着也能把那一面小旗指向前面。",
+  "spec": {
+    "proportion": "坐高中头高约占 50%，旗面宽约头宽的 80%，短腿蜷在身前",
+    "outline": "圆坐姿加上一面斜向前的小旗",
+    "volume": "大：圆身；中：搪瓷旗面；小：短腿和小脸",
+    "face": "半垂豆眼在头中下部，眼距略宽于一个眼宽，视线向前",
+    "stance": "坐着，短腿蜷在身前，旗面斜指向前，不挥旗",
+    "structure": "旗杆从肩背长出并与绒身相连，旗面是一块完整的搪瓷片，不是手拿的小旗"
+  },
+  "toy_check": "站得住：坐得稳。物件长进去：旗成为背轮廓。特殊材质只有搪瓷旗面。新组合：坐着的角色配向前的旗。不像绘本。头像需切到旗。做得成。姿态：坐着，不是立正。",
+  "crop": "记忆点在背部旗面，头像需切到肩旗。",
+  "collide": "不同于手里挥旗的吉祥物：旗长在背上成为轮廓，角色坐着，脸收着，不做庆祝场面。",
+  "pose": "坐着，旗面朝前",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-16",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一只雾白短绒圆核和一面小旗长在一起：旗杆从肩背长出，朱红旗面斜向前，成为身体轮廓的一部分，拿掉这面旗就没有这个轮廓。头约占坐高一半，短腿蜷在身前坐稳。半垂小黑豆眼略分得开，极小嘴，视线向前。不挥旗、不站起来。主体是雾白短绒，只有旗面是亮搪瓷。配色是雾白配朱红。单个角色完整全身，正面略侧，坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要手挥旗、不要庆祝场面、不要国旗或可识别徽标、不要站立冲刺。",
+  "enp": "Original designer toy character: a mist-white plush rounded core fused with a small flag — the pole grows from the shoulder, and a vermilion enamel flag tilts forward as part of the silhouette, without it the outline does not exist. The head is about half the seated height, short legs tucked in front, sitting stably. Half-lidded tiny black bean eyes are set a little wide, a tiny mouth, gaze forward. No waving, no standing up. Body is mist-white plush; only the flag face is glossy enamel. Colors: mist white with vermilion. Single character, full body, slight three-quarter front view, sitting on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No waving flags, no celebration scenes, no national flags or readable emblems, no sprinting stance.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成手里拿的小旗"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "坐姿把旗面挡住"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "旗面花纹过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩圆身"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉旗后无法识别"
+    ]
+  ]
+}

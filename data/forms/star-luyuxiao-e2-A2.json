@@ -1,0 +1,81 @@
+{
+  "ip": "star-luyuxiao-e2",
+  "n": 2,
+  "species": "淡茶浓蕊",
+  "title": "头是一只天青釉杯，只有杯心一处焙茶褐蕊",
+  "axes": {
+    "archetype": "物件生物，杯头",
+    "silhouette": "竖杯头配短软身，坐着",
+    "mark": "头心 · 一杯心里的深褐茶蕊，是唯一被调浓的点",
+    "face": "半垂小眼开在杯腹外壁，极小嘴，眼距正常，表情放空",
+    "emotion": "留白，坐着，浓只在杯心",
+    "fusion": "物件就是头：整只杯就是头，拿掉杯头角色就不成立",
+    "material": "主体焙茶褐短绒身体，只有杯头是天青釉，杯心一处更深的褐蕊仍属这处釉面的点缀，不另加第二种硬材",
+    "palette": "天青配焙茶褐"
+  },
+  "head": "竖高的杯形头，口沿微敞，下颌收进短颈，连着软身",
+  "combo": "天青釉杯头 + 杯心一处深褐蕊 + 杯腹外壁半垂小眼 + 焙茶褐软身坐姿",
+  "odd": "头是硬釉，身体是软绒；浓只在杯心一点，不在脸上",
+  "why": "把浓的留给瞬间。头是淡青的杯，只有心上那一点是浓的。",
+  "spec": {
+    "proportion": "杯头高约占坐高 55%，身宽小于头宽，短腿在身前盘住",
+    "outline": "一只竖杯坐在短软身上",
+    "volume": "大：釉杯头；中：软身；小：杯心茶蕊和外壁小脸",
+    "face": "半垂眼在杯腹外壁中部，眼距约一个眼宽，嘴很小，放空",
+    "stance": "坐着，短腿盘在身前，杯口朝上，不倾斜泼洒",
+    "structure": "杯头和软身在短颈处相连，茶蕊只在杯心一处，是釉面的深色点，不是另插的叶子"
+  },
+  "toy_check": "站得住：坐得稳。物件长进去：杯就是头。特殊材质只有天青釉杯头。新组合：淡杯头配一点浓蕊。不像绘本。头像即记忆点。做得成。姿态：坐着，不是立正。",
+  "crop": "记忆点在头部杯与杯心蕊。",
+  "collide": "不同于头上顶着茶杯的动物：杯就是头，只有一处深蕊，脸在杯外壁，不做茶席场景。",
+  "pose": "坐着",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-16",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一只焙茶褐短绒软身和一只小杯长在一起：整只杯就是它的头，拿掉杯头就没有角色。杯头约占坐高一半，口沿微敞，短腿盘在身前坐稳。半垂小黑豆眼开在杯腹外壁，极小嘴，表情放空。主体身体是焙茶褐短绒，只有杯头是天青釉，杯心只有一处更深的焙茶褐蕊。配色是天青配焙茶褐。单个角色完整全身，正面略侧，坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要茶席背景、不要飘着的茶叶、不要泼洒、不要整杯装满液体。",
+  "enp": "Original designer toy character: a roasted-tea-brown plush soft body fused with a small cup — the cup is the head, without it there is no character. The cup head is about half the seated height, rim slightly open, short legs folded in front. Half-lidded tiny black bean eyes open on the outer cup wall, a tiny mouth, expression empty. The body is roasted-tea-brown plush; only the cup head is celadon glaze, with a single deeper brown tea pip at the center. Colors: celadon with roasted-tea brown. Single character, full body, slight three-quarter front view, sitting on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No tea-table backdrop, no floating tea leaves, no spilling, no cup filled with liquid.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成头上顶杯的动物"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "杯沿不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "杯身花纹过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时看不清杯心蕊"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉杯头后无法识别"
+    ]
+  ]
+}
