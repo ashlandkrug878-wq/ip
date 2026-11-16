@@ -1,0 +1,81 @@
+{
+  "ip": "star-jingboran-e1",
+  "n": 1,
+  "species": "折返跑道核",
+  "title": "跑道就是身体，中段折返成一道弧背",
+  "axes": {
+    "archetype": "物件生物，跑道身",
+    "silhouette": "扁长跑道椭圆，中段折成弧背",
+    "mark": "身 · 一条橡胶跑道从胸前折返到背上，折点高过头顶",
+    "face": "半垂小黑豆眼贴在跑道内圈上部，极小一字嘴，眼距正常，视线略向身侧",
+    "emotion": "内收，重心微后仍站住，像刚要折返",
+    "fusion": "物件就是身体：整条短跑道弯成它的头和身体，拿掉跑道就没有角色",
+    "material": "主体土红短绒，只有跑道面是细密橡胶粒",
+    "palette": "土红配雾蓝"
+  },
+  "head": "头和身连成一圈被压扁的跑道椭圆，几乎没有颈，折返的弧背高过头顶",
+  "combo": "扁长跑道全身 + 高过头顶的折返弧背 + 内圈半垂小眼 + 土红对雾蓝",
+  "odd": "跑道在中段向上折起，比脸高；软绒身体只有跑道路面是硬橡胶",
+  "why": "跑到这儿了，也可以往回走。角色站住，跑道在身体中段折返，不是冲向终点的奖杯。",
+  "spec": {
+    "proportion": "头身一体，体长约占全高 120%，短钝足约占 15%",
+    "outline": "一枚扁长跑道椭圆，中段折成高弧",
+    "volume": "大：跑道身和弧背；中：短足；小：内圈那张小脸",
+    "face": "眼在内圈上三分之一，半垂，眼距约一个眼宽，视线略向身侧，不回头张望",
+    "stance": "两枚短钝足前后半步，重心微后，不离地，不做迈跑",
+    "structure": "橡胶路面从胸前一路长到背上并在头顶上方折返，和绒身连在一起，不是脚下铺的一条路"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：跑道就是身体。特殊材质只有橡胶路面。新组合：身上的折返，不是脚下的跑道。不像绘本。头像需切到弧背。做得成。姿态：重心微后，不是立正。",
+  "crop": "记忆点在高过头顶的折返弧背，头像需切到弧背折点。",
+  "collide": "不同于脚下摆一条跑道或头上插终点旗的动物：跑道就是身体，只有一次折返，脸收着，不做比赛场景。",
+  "pose": "重心微后，像刚要折返",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-17",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一只土红短绒圆核和一条短跑道长在一起：整条跑道弯过来就是它的头和身体，拿掉跑道就没有角色。身体比站高更长，腹下只有很短的钝足，跑道在胸前向上折到背上，折点高过头顶，像一条刚要往回走的路。半垂小黑豆眼贴在跑道内圈上部，极小一字嘴，视线略向身侧。双足前后半步站稳，重心微向后，不离地。主体是土红短绒，只有跑道面是细密橡胶粒。配色是土红配雾蓝。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要终点线、不要奖杯、不要跑道接缝画满全身、不要奔跑姿势。",
+  "enp": "Original designer toy character: a earth-red plush rounded core fused with a short running track — the track bends to become the head and body, without it there is no character. The body is longer than it is tall, with only very short blunt feet, and the track folds from the chest up over the back, the fold rising higher than the head, like a path turning home. Half-lidded tiny black bean eyes sit on the upper inner lane, a tiny straight mouth, gaze slightly to the side. Two feet in a short staggered stance, weight a little back, still planted, not running. Body is earth-red plush; only the track surface is fine rubber granule. Colors: earth red with mist blue. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No finish lines, no trophies, no all-over track markings, no running pose.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "ip": "star-jingboran-e2",
+  "n": 3,
+  "species": "铜扣合身",
+  "title": "软袋就是身体，胸口一粒巨大铜扣把它合上",
+  "axes": {
+    "archetype": "物件生物，软袋身",
+    "silhouette": "鼓胀的软袋团，胸口一粒大圆扣",
+    "mark": "胸 · 一粒远大于脸的铜扣长在心口，把袋口合上，只留扣缝",
+    "face": "两只小黑豆眼靠得很近，贴在扣上方的袋面上，极小嘴，视线微低",
+    "emotion": "内收，坐着，袋口被扣住",
+    "fusion": "物件是长出来的结构：巨大铜扣从心口长出并把身体合上，拿掉扣子角色就不成立",
+    "material": "主体炭黑短绒软袋，只有那一粒扣是黄铜",
+    "palette": "炭黑配铜"
+  },
+  "head": "头和身连成一只鼓胀软袋，几乎没有颈，脸只是扣上方一小块",
+  "combo": "鼓胀软袋全身 + 心口一粒大于脸的铜扣 + 扣上近距小眼 + 炭黑对铜",
+  "odd": "扣子比脸大；坐着的袋子被一粒扣合住，像把力气收在里面",
+  "why": "劲儿先收在里面，缝隙里你看得见。身体是合上的软袋，只在巨大铜扣周围留一道缝。",
+  "spec": {
+    "proportion": "头身一体，体宽约占全高 90%，坐高为主，铜扣直径约占体宽 35%",
+    "outline": "一个坐着的圆鼓袋，心口一粒大圆扣",
+    "volume": "大：软袋身；中：铜扣；小：扣上方那张近距小脸",
+    "face": "眼贴在扣上方，小黑豆，眼距窄于半个眼宽，极小嘴，视线微低",
+    "stance": "坐稳，短腿在身前，短手扶在袋侧，不解开扣子",
+    "structure": "黄铜大扣从心口长进袋身，把袋口合上，扣缝是唯一开口，不是衣服上的装饰扣"
+  },
+  "toy_check": "站得住：坐稳。物件长进去：拿掉铜扣袋子就不成立。特殊材质只有铜扣。新组合：一粒大于脸的扣把身体合上。不像绘本。头像需切到铜扣。做得成。姿态：坐着，不是立正。",
+  "crop": "记忆点在心口大铜扣，头像需切到扣和扣上的小眼。",
+  "collide": "不同于穿大衣扣纽扣的小人：没有衣服结构，袋子就是身体，只有一粒大扣，脸收着。",
+  "pose": "坐着，短手扶在袋侧",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-17",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一只炭黑短绒软袋和一粒巨大铜扣长在一起：软袋就是它的头和身体，一粒远大于脸的黄铜扣从心口长出，把袋口合上，只留扣缝，拿掉扣子就没有角色。整体是一个坐着的圆鼓袋，几乎没有脖子，两只小黑豆眼靠得很近，贴在扣上方的袋面上，极小嘴，视线微低。短腿在身前，短手扶在袋侧，坐稳。主体是炭黑短绒，只有那一粒扣是黄铜。配色是炭黑配铜。单个角色完整全身，正面略侧，放在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要画成穿衣服的大衣，不要一排纽扣，不要解开的袋口把东西倒出来，不要商标。",
+  "enp": "Original designer toy character: a charcoal plush soft sack fused with one huge copper button — the sack is the head and body, and a brass button much larger than the face grows from the chest, closing the sack so only the button seam remains; without the button there is no character. It sits as a round puffed sack with almost no neck. Two tiny black bean eyes sit close together on the sack just above the button, a tiny mouth, gaze slightly down. Short legs in front, short hands on the sides, sitting firmly. Body is charcoal plush; only that one button is brass. Colors: charcoal with copper. Single character, full body, slight three-quarter front view, placed on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. Do not draw a tailored coat, no row of buttons, no open bag spilling contents, no logos.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ]
+}

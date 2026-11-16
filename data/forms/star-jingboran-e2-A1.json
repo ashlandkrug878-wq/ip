@@ -1,0 +1,81 @@
+{
+  "ip": "star-jingboran-e2",
+  "n": 1,
+  "species": "留白缝匣",
+  "title": "匣子就是头，只留一道亮釉细缝",
+  "axes": {
+    "archetype": "物件生物，匣头",
+    "silhouette": "方圆匣子头加短身",
+    "mark": "头 · 匣盖合上，正中只留一道横着的亮釉细缝",
+    "face": "没有另画五官，细缝同时是眼的位置，缝下有极小一字嘴，眼距被这一道缝代替",
+    "emotion": "面无表情，双手内收抱在胸前",
+    "fusion": "物件就是头：合上的方圆匣子就是头和脸，拿掉匣子就没有角色",
+    "material": "主体米白短绒，只有那一道缝是亮釉",
+    "palette": "米白配墨缝"
+  },
+  "head": "方圆匣形，顶面微鼓像合上的盖，棱都收成圆角",
+  "combo": "方圆匣子头 + 一道横亮釉细缝当脸 + 双手内收 + 米白对墨色",
+  "odd": "五官几乎被一道缝代替；匣子头远大于短身",
+  "why": "劲儿先收在里面，缝隙里你看得见。头是合上的匣，只留一道缝，不是打开的惊吓盒。",
+  "spec": {
+    "proportion": "头高约占全高 60%，头宽大于身宽，短身约占 25%，短肢约占头宽的 1/4",
+    "outline": "一个圆角方匣顶在短圆柱身上",
+    "volume": "大：匣头；中：短身和内收的手；小：一道釉缝和一字嘴",
+    "face": "一道细缝横在头高中段，缝是亮釉，缝下略低处一极小一字嘴，不画眼白和瞳孔",
+    "stance": "短脚立定，双手内收抱在胸前，匣盖保持合上",
+    "structure": "亮釉细缝是匣盖与匣身之间长出来的结构，不是画上去的裂纹，也不是伤口"
+  },
+  "toy_check": "站得住：短脚着地，匣头虽大但底稳。物件长进去：匣就是头。特殊材质只有釉缝。新组合：一道缝当脸。不像绘本。头像就是匣和缝。做得成。姿态：双手内收，不是垂手立正。",
+  "crop": "记忆点在头部匣缝，头像即可识别。",
+  "collide": "不同于裂开的蛋或开盖的盲盒：匣合着，只有一道干净亮缝，不是裂纹或牙齿，没有弹出物。",
+  "pose": "双手内收抱在胸前",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-17",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一只米白短绒短身生物和一只方圆匣子长在一起：合上的匣子就是它的头和脸，拿掉匣子就没有角色。头高超过全身一半，棱都收成圆角，顶面微鼓像合上的盖，正中只横着一道细细的亮釉缝，缝下有极小一字嘴，不再另画眼睛。短脚立定，双手内收抱在胸前，匣盖保持合上。主体是米白短绒，只有那一道缝是亮釉。配色是米白配墨色细缝。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要把缝画成伤口或牙齿，不要开盖弹出，不要满身裂纹，不要眼睛画在缝外面。",
+  "enp": "Original designer toy character: a short ivory-plush body fused with a rounded square box — the closed box is the head and face, without it there is no character. The head is more than half the total height, all corners softened, the lid slightly domed and shut, with only one thin glossy glaze seam across the middle and a tiny straight mouth beneath, and no other eyes. Short feet planted, hands folded in at the chest, the lid stays closed. Body is ivory plush; only that seam is glossy glaze. Colors: ivory with an ink-dark seam. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. Do not turn the seam into a wound or a mouthful of teeth, no jack-in-the-box lid, no all-over cracks, no extra eyes beside the seam.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ]
+}

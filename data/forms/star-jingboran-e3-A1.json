@@ -1,0 +1,81 @@
+{
+  "ip": "star-jingboran-e3",
+  "n": 1,
+  "species": "沙发身",
+  "title": "沙发就是身体，人陷进自己的靠背里",
+  "axes": {
+    "archetype": "物件生物，沙发身",
+    "silhouette": "矮宽沙发轮廓，靠背就是头",
+    "mark": "身 · 整只矮沙发就是身体，靠背圆角高起成为头，坐垫是腹",
+    "face": "半垂眼陷在靠背下部，小嘴，眼距正常，视线略低",
+    "emotion": "内收，放松地坐着，像力气已经还完",
+    "fusion": "物件就是身体：整只沙发就是头和身体，拿掉沙发就没有角色",
+    "material": "主体奶油短绒，只有四只矮脚是木头",
+    "palette": "奶油配铁锈红"
+  },
+  "head": "靠背就是竖向略扁的宽头，顶是沙发的圆肩，没有另加的头",
+  "combo": "矮宽沙发全身 + 靠背下部半垂眼 + 四只木脚 + 奶油对铁锈红",
+  "odd": "没有从沙发里伸出一个小人，沙发自己就是角色；木脚很小，靠背很大",
+  "why": "戏里的力气还完了，才轮到我取悦自己。身体就是自己选的沙发，已经坐下，不是旁边摆着的家具。",
+  "spec": {
+    "proportion": "靠背头高约占全高 55%，体宽大于全高，木脚约占 12%",
+    "outline": "一个圆角矮宽沙发形",
+    "volume": "大：靠背和坐垫身；中：扶手；小：四只木脚和靠背上的小脸",
+    "face": "眼在靠背头高下三分之一，半垂，眼距约一个眼宽，小嘴，视线略低",
+    "stance": "以四只木脚坐稳，没有迈步的腿，扶手略向外，像张开又收回",
+    "structure": "木脚从沙发身下长出，和绒身连在一起；靠背、坐垫、扶手都是身体的一部分，不是一套可拆家具"
+  },
+  "toy_check": "站得住：四只木脚坐稳。物件长进去：沙发就是身体。特殊材质只有木脚。新组合：沙发自己是角色。不像绘本。头像需切到靠背和眼。做得成。姿态：坐着，不是立正。",
+  "crop": "记忆点在靠背头和沙发宽轮廓，头像需切到靠肩和半垂眼。",
+  "collide": "不同于坐在沙发上的小人偶：没有另一个身体从家具里伸出，沙发就是它，脸收着，没有房间背景。",
+  "pose": "以沙发脚坐稳",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-17",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一只奶油短绒圆核和一只矮宽沙发长在一起：整只沙发就是它的头和身体，靠背圆角高起成为头，坐垫是腹，扶手是两侧，拿掉沙发就没有角色。体宽大于站高，半垂眼陷在靠背下部，小嘴，视线略低。它用四只很矮的木脚坐稳，不迈步。主体是奶油短绒，只有四只矮脚是木头。配色是奶油配铁锈红。单个角色完整全身，正面略侧，放在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要在沙发上再坐一个小人，不要房间背景，不要品牌家具，不要遥控器等配件。",
+  "enp": "Original designer toy character: a cream plush rounded core fused with a low wide sofa — the whole sofa is the head and body, the rounded back rising as the head, the seat as the belly, the arms at the sides; without the sofa there is no character. It is wider than it is tall. Half-lidded eyes sit in the lower backrest, a small mouth, gaze slightly down. It rests on four very short wooden feet and does not walk. Body is cream plush; only the four short feet are wood. Colors: cream with rust red. Single character, full body, slight three-quarter front view, placed on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. Do not sit a second little person on the sofa, no room interior, no furniture brand cues, no remotes or extras.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ]
+}

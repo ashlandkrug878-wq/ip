@@ -1,0 +1,81 @@
+{
+  "ip": "star-jingboran-e1",
+  "n": 3,
+  "species": "折返旗背",
+  "title": "一面折过的小旗背负着，成为背后的轮廓",
+  "axes": {
+    "archetype": "怪兽精灵，背负折旗",
+    "silhouette": "团子身加上方折旗的背影",
+    "mark": "背 · 一面已经折过方向的小旗从背上长出，旗面成为后轮廓",
+    "face": "小黑豆眼位置偏低，极小点嘴，眼距略窄，视线微低",
+    "emotion": "内收，超长垂臂，站住",
+    "fusion": "物件背负着并成为轮廓的一部分：折过的旗从背上长出，拿掉旗就失去识别",
+    "material": "主体芽黄短绒，只有旗面是薄铜珐琅",
+    "palette": "藏青配芽黄"
+  },
+  "head": "横宽扁圆头，顶平，旗杆从后脑和后背交界处长出",
+  "combo": "团子身 + 背后折向的铜珐琅小旗 + 偏低小黑豆眼 + 藏青对芽黄",
+  "odd": "旗已经折向身后，不像冲锋；垂臂长过膝，旗面却不大",
+  "why": "跑到这儿了，也可以往回走。旗还在背上，但已经折过方向，角色只是站住垂着手。",
+  "spec": {
+    "proportion": "头高约占全高 50%，头宽大于肩宽，垂臂长过膝，约占头宽的 1/3 粗",
+    "outline": "一个团子，背后斜出一面折过的小旗",
+    "volume": "大：团子头身；中：垂臂和旗面；小：偏低的脸",
+    "face": "眼在头高下三分之一，小黑豆，眼距略窄于一个眼宽，极小点嘴，视线微低",
+    "stance": "双脚并立站住，两条超长垂臂贴着身侧，不挥旗",
+    "structure": "薄铜珐琅旗从后背长出，旗面在折过方向后成为背后轮廓，和身体连在一起，不是手里拿的道具旗"
+  },
+  "toy_check": "站得住：短脚着地，旗不让它倒。物件长进去：旗从背部长出，不是手持。特殊材质只有铜珐琅旗。新组合：折过方向的旗，不是冲锋旗。不像绘本。头像需切到旗面。做得成。姿态：超长垂臂，不是立正举手。",
+  "crop": "记忆点在背后折旗，头像需切到旗面或旗杆根部。",
+  "collide": "不同于手里拿旗或头顶插旗的吉祥物：旗从背部长出并已经折向，脸收着，不做飘扬的动作场面。",
+  "pose": "超长垂臂站住",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-17",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一只芽黄短绒团子精灵和一面小旗长在一起：旗从背上长出，旗面已经折过方向，成为背后的轮廓，拿掉旗就失去它。头是横宽扁圆，顶平，头高约占全身一半，两条超长垂臂贴着身侧，超过膝。小黑豆眼位置偏低，极小点嘴，视线微低。双脚并立站住，不挥旗。主体是芽黄短绒，只有旗面是薄铜珐琅。配色是藏青配芽黄。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要手持旗、不要飘扬的风、不要终点旗或国旗图案、不要冲锋姿态。",
+  "enp": "Original designer toy character: a bud-yellow plush dumpling spirit fused with a small flag — the flag grows from the back, already folded in a new direction, and becomes the rear silhouette; without it the character is lost. The head is a wide flat oval with a level crown, about half the total height, and two extra-long arms hang past the knees. Tiny black bean eyes sit low, a tiny dotted mouth, gaze slightly down. Feet planted together, not waving the flag. Body is bud-yellow plush; only the flag is thin enamel on copper. Colors: navy with bud yellow. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No handheld flags, no wind-blown fabric, no finish-line or national-flag patterns, no charging pose.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ]
+}

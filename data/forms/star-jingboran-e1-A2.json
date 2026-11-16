@@ -1,0 +1,81 @@
+{
+  "ip": "star-jingboran-e1",
+  "n": 2,
+  "species": "回家门壳",
+  "title": "门框就是壳，开着的门洞成了身体的轮廓",
+  "axes": {
+    "archetype": "物件生物，门框壳",
+    "silhouette": "直立门框轮廓，中间是软身体",
+    "mark": "身 · 一圈厚门框成为外壳，门扇停在半开的位置长进身体",
+    "face": "眯成细线的小眼贴在门洞里的软脸上，无嘴，眼距略宽，视线平",
+    "emotion": "内收，立定在门槛上，像已经走到门口",
+    "fusion": "物件是壳：厚门框和半开的门扇就是它的外壳，拿掉门框角色就不成立",
+    "material": "主体暖木色短绒，只有门框是亮木漆",
+    "palette": "暖木配藏青"
+  },
+  "head": "门洞里是一枚竖高的软圆头，门框顶部是平的横梁",
+  "combo": "直立门框壳 + 半开的门扇长进身体 + 门洞里细线眼 + 暖木对藏青",
+  "odd": "门扇停在半开，比脸还宽；整只角色像一座可以站住的小门",
+  "why": "跑到这儿了，也可以往回走。门已经在身上，人站住，不用再推门跑进去。",
+  "spec": {
+    "proportion": "头高约占全高 45%，门框高是全身，门框宽略大于头宽",
+    "outline": "一个圆角直立门形，半开的门扇向一侧斜出",
+    "volume": "大：门框壳；中：门洞里的软身体和短腿；小：细线眼",
+    "face": "眼在头高中段，眯成细线，眼距略宽于一个眼宽，无嘴，视线平",
+    "stance": "两只短脚站在门槛一样的底边上，立正，脚不迈出门外",
+    "structure": "亮木漆门框包围软身体并和身体连在一起，半开的门扇从一侧肩部长出，不是身后摆着的道具门"
+  },
+  "toy_check": "站得住：门槛底边着地。物件长进去：拿掉门框角色不成立。特殊材质只有木漆门框。新组合：门就是壳。不像绘本。头像能看到横梁和门洞。做得成。姿态：这只是立正，同轮其他形补姿态。",
+  "crop": "记忆点在门框和半开门扇，头像需切到横梁和门扇上沿。",
+  "collide": "不同于站在门边的小人：门框就是外壳，半开门扇长在身上，脸收着，没有房间背景。",
+  "pose": "立定在门槛上",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-17",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一只暖木色短绒生物和一扇门长在一起：厚门框成为它的外壳，半开的门扇从一侧肩部长进身体，拿掉门框就没有角色。整体是一个圆角直立的门形，门洞里是竖高的软圆头和短身，门框顶部一条平横梁。眯成细线的小眼贴在门洞里的软脸上，没有嘴，视线平。两只短脚站在门槛一样的底边上，不迈出。主体是暖木色短绒，只有门框是亮木漆。配色是暖木配藏青。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要门牌号、不要钥匙、不要房间背景、不要推门的动作。",
+  "enp": "Original designer toy character: a warm-wood plush creature fused with a door — the thick doorframe becomes its shell, and a half-open leaf grows from one shoulder into the body; without the frame there is no character. The silhouette is a rounded upright door, with a tall soft round head and short body inside the opening, and a flat lintel across the top. Tiny slit eyes sit on the soft face in the doorway, no mouth, level gaze. Two short feet stand on a threshold-like base and do not step out. Body is warm-wood plush; only the doorframe is glossy wood lacquer. Colors: warm wood with navy. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No house numbers, no keys, no room interior, no door-pushing pose.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ]
+}

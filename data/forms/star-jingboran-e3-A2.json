@@ -1,0 +1,81 @@
+{
+  "ip": "star-jingboran-e3",
+  "n": 2,
+  "species": "画框披风",
+  "title": "空画框是披在肩上的壳，框住的是软身体",
+  "axes": {
+    "archetype": "怪兽精灵，画框壳",
+    "silhouette": "竖向长方框轮廓，框里是圆软身体",
+    "mark": "身 · 一副空的厚画框成为披在肩上的壳，框住身体",
+    "face": "半垂眼在框内偏上，极小嘴，眼距正常，视线略低",
+    "emotion": "内收，双臂沿框边微微张开，像把自己轻轻框住",
+    "fusion": "物件是壳或披风：空画框披在肩上成为外壳，拿掉画框角色就不成立",
+    "material": "主体鼠灰短绒，只有画框是哑光金箔木框",
+    "palette": "鼠灰配金褐"
+  },
+  "head": "框内上沿是横宽扁圆头，框的顶部横梁贴着头顶",
+  "combo": "竖长方画框壳 + 框内扁圆头和软身 + 沿框微张的臂 + 鼠灰对金褐",
+  "odd": "框是空的，没有画；角色把自己框住，却不是被挂在墙上",
+  "why": "戏里的力气还完了，才轮到我取悦自己。画框是壳，框住的是休息下来的软身体，不是展览标签。",
+  "spec": {
+    "proportion": "头高约占全高 40%，框高即全身高，框宽略大于头宽，臂沿框边伸出约占框宽 15%",
+    "outline": "一个竖向圆角长方框，框里鼓出软身体",
+    "volume": "大：画框壳；中：框内软头和身；小：半垂眼",
+    "face": "眼在框内头高中下段，半垂，眼距约一个眼宽，极小嘴，视线略低",
+    "stance": "短脚从框下沿伸出站稳，双臂顺着左右框边微微张开，不把框举起来",
+    "structure": "哑光金箔木框从肩和背长出，包围身体，和绒身在肩线处连在一起，框内没有画布或图片"
+  },
+  "toy_check": "站得住：框下沿的短脚着地。物件长进去：拿掉框角色不成立。特殊材质只有金箔木框。新组合：空框成为壳。不像绘本。头像需切到上横梁。做得成。姿态：沿框微张臂，不是立正。",
+  "crop": "记忆点在头和上横梁，头像需切到框的顶部。",
+  "collide": "不同于相框里的肖像或墙上挂画：框是立体外壳，里面是软身体不是照片，脸收着，没有墙。",
+  "pose": "双臂沿框边微张，短脚站稳",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-17",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一只鼠灰短绒精灵和一副空画框长在一起：厚画框披在肩上成为外壳，框住它的头和身体，拿掉画框就没有角色。整体是竖向圆角长方框，框内是横宽扁圆头和短身，框内没有图画。半垂眼在框内偏上，极小嘴，视线略低。短脚从框下沿伸出站稳，双臂顺着左右框边微微张开。主体是鼠灰短绒，只有画框是哑光金箔木框。配色是鼠灰配金褐。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要框里出现图画或照片，不要挂在墙上，不要品牌画框，不要把角色画成被囚禁。",
+  "enp": "Original designer toy character: a mouse-grey plush spirit fused with an empty picture frame — the thick frame drapes from the shoulders as a shell and encloses the head and body; without the frame there is no character. The silhouette is a tall rounded rectangle, with a wide flat oval head and short body inside, and no picture in the opening. Half-lidded eyes sit slightly high in the opening, a tiny mouth, gaze slightly down. Short feet come out under the bottom rail and stand firm, arms opening a little along the side rails. Body is mouse-grey plush; only the frame is matte gilt wood. Colors: mouse grey with gilt brown. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No picture or photo inside the frame, no wall-hanging, no branded frame, do not make the character look imprisoned.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ]
+}

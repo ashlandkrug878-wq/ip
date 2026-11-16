@@ -1,0 +1,81 @@
+{
+  "ip": "star-jingboran-e3",
+  "n": 3,
+  "species": "磁带核",
+  "title": "磁带盒就是头，只有观察窗是亚克力",
+  "axes": {
+    "archetype": "物件生物，磁带头",
+    "silhouette": "横宽磁带盒头，短身",
+    "mark": "头 · 一枚横宽磁带盒就是头，正面只有一扇小观察窗",
+    "face": "半垂小眼做在观察窗里，窗下极小一字嘴，眼距被窗宽限制",
+    "emotion": "内收，坐着，像把一段声音收好",
+    "fusion": "物件就是头：磁带盒就是头和脸，拿掉磁带盒就没有角色",
+    "material": "主体暖橙短绒，只有观察窗是透明亚克力",
+    "palette": "暖橙配青透"
+  },
+  "head": "横宽扁方的磁带盒头，圆角，顶平，两只轮毂只做成低低的圆凸，不做成可转的机械",
+  "combo": "横宽磁带盒头 + 窗里半垂小眼 + 坐着的短身 + 暖橙对青透窗",
+  "odd": "头是一盒磁带，却是软的，只有窗是硬而透明；轮毂几乎不转，只是浅凸",
+  "why": "戏里的力气还完了，才轮到我取悦自己。他把那种拆开塑封、收好一盒声音的仪式放回身上，磁带就是头，不是手里拿着的怀旧配件。",
+  "spec": {
+    "proportion": "头高约占全高 50%，头宽明显大于身宽，坐高为主，短腿约占 20%",
+    "outline": "一个横宽扁方头加短坐姿身",
+    "volume": "大：磁带盒头；中：短身短腿；小：观察窗里的眼和窗本身",
+    "face": "眼在观察窗内中下部，半垂，窗宽限制眼距，窗下盒沿有极小一字嘴",
+    "stance": "坐着，短腿向前，短手搁在腿上，不把磁带举起来",
+    "structure": "青透亚克力观察窗嵌在盒头正面并和头连在一起，只占正面一块，不是整个身体透明；轮毂只是浅浅的圆凸，没有外露磁带缠绕"
+  },
+  "toy_check": "站得住：坐稳。物件长进去：磁带盒就是头。特殊材质只有亚克力窗。新组合：窗里是脸，不是播放器。不像绘本。头像就是盒和窗。做得成。姿态：坐着，不是立正。",
+  "crop": "记忆点在头部磁带窗，头像即可识别。",
+  "collide": "不同于手里拿磁带的动物或复古收录机摆件：盒子就是头，只有一扇窗透明，没有品牌字和缠绕的胶带。",
+  "pose": "坐着，短手搁在腿上",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-17",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一只暖橙短绒短身生物和一枚磁带盒长在一起：横宽的磁带盒就是它的头和脸，拿掉磁带盒就没有角色。头约占全身一半，圆角扁方，顶平，正面只有一扇小的青透观察窗，半垂小眼做在窗里，窗下有极小一字嘴，两只轮毂只做成浅浅的圆凸。它坐着，短腿向前，短手搁在腿上。主体是暖橙短绒，只有观察窗是透明亚克力。配色是暖橙配青透。单个角色完整全身，正面略侧，放在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要品牌商标和字样，不要外露缠绕的胶带，不要整体透明，不要播放按钮堆满，不要手持磁带。",
+  "enp": "Original designer toy character: a short warm-orange plush body fused with a cassette shell — the wide cassette is the head and face, without it there is no character. The head is about half the height, a rounded flat rectangle with a level top, and only one small cyan-clear window on the front. Half-lidded tiny eyes live inside the window, a tiny straight mouth sits on the lower edge, and the two hubs are only shallow round bumps. It sits with short legs forward and short hands on the legs. Body is warm-orange plush; only the window is clear acrylic. Colors: warm orange with cyan-clear. Single character, full body, slight three-quarter front view, placed on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No logos or lettering, no loose exposed tape spools, no fully transparent body, no cluster of play buttons, no handheld cassette.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ]
+}

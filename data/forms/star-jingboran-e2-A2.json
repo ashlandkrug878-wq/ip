@@ -1,0 +1,81 @@
+{
+  "ip": "star-jingboran-e2",
+  "n": 2,
+  "species": "内光缝冠",
+  "title": "一圈半透明细缝从肩上长成冠，里面微微有光",
+  "axes": {
+    "archetype": "怪兽精灵，缝冠",
+    "silhouette": "大头小身，头顶一圈竖起的细缝冠",
+    "mark": "头 · 一圈霜冻半透明的细缝从肩和后脑长出，像冠，缝里有一点内光",
+    "face": "半垂眼压得很低，无嘴，眼距宽，视线平",
+    "emotion": "面无表情，立定，光只从冠的缝里出来",
+    "fusion": "物件是长出来的结构：一圈细缝冠从肩和头交界处长出，拿掉冠就失去识别",
+    "material": "主体深靛短绒，只有缝冠是霜冻半透明",
+    "palette": "霜白配深靛"
+  },
+  "head": "竖高圆头，下颌收短，冠沿着头围一圈竖起，不高过一头的三分之一",
+  "combo": "竖高圆头 + 一圈霜冻内光细缝冠 + 压低半垂宽眼距 + 霜白对深靛",
+  "odd": "冠不是羽毛或角，是一圈能透一点光的缝；脸几乎无嘴",
+  "why": "劲儿先收在里面，缝隙里你看得见。力不写在脸上，只从一圈缝冠里微微透出来。",
+  "spec": {
+    "proportion": "头高约占全高 55%，身窄于头，冠高约占头高 30%",
+    "outline": "竖卵头加一圈竖缝冠，短身",
+    "volume": "大：头和冠；中：短身短肢；小：压低的半垂眼",
+    "face": "眼在头高下三分之一，半垂，眼距宽约一个半眼宽，无嘴，视线平",
+    "stance": "短脚立正，双臂自然下垂，不举手去摸冠",
+    "structure": "霜冻半透明细缝一片片从肩和后脑交界长出并围成冠，彼此分开，不是脸上的裂口，光只在缝内，不做成灯具电线"
+  },
+  "toy_check": "站得住：短脚着地。物件长进去：冠从身体长出。特殊材质只有霜冻缝冠。新组合：内光的缝做冠，不是灯笼头。不像绘本。头像能看到冠。做得成。姿态：这只是立正，同轮其他形补姿态。",
+  "crop": "记忆点在头部缝冠，头像即可识别。",
+  "collide": "不同于发光的灯笼头或一圈尖刺冠：缝是薄的、分开的、只有一点内光，不是尖刺，也不是霓虹灯管。",
+  "pose": "立定，光只在冠的缝里",
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-17",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "zh": "原创潮玩角色，一只深靛短绒精灵和一圈细缝长在一起：细缝从肩和后脑交界处长出，围成一圈冠，拿掉冠就失去它。头是竖高的圆，下颌收短，头高超过全身一半，一圈霜冻半透明的细缝冠竖起，缝与缝分开，缝里只有一点内光。半垂眼压在头高下三分之一，眼距宽，没有嘴，视线平。短脚立定，双臂自然下垂。主体是深靛短绒，只有缝冠是霜冻半透明。配色是霜白配深靛。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要把缝画成伤口或尖刺，不要霓虹灯管，不要满脸裂纹，不要电线和灯泡。",
+  "enp": "Original designer toy character: a deep-indigo plush spirit fused with a ring of thin seams — the seams grow from the join of shoulders and nape and become a crown; without it the character is lost. The head is a tall oval with a short jaw, more than half the height, and a ring of frost-translucent seam-petals stands up, spaced apart, with only a faint light inside the seams. Half-lidded eyes sit in the lower third of the head, wide-set, no mouth, level gaze. Short feet planted, arms hanging. Body is deep-indigo plush; only the seam-crown is frost-translucent. Colors: frost white with deep indigo. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. Do not turn the seams into wounds or spikes, no neon tubes, no cracked face, no wires or lightbulbs.",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ]
+}
