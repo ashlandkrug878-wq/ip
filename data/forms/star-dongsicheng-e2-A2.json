@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-18",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ],
+  "ip": "star-dongsicheng-e2",
+  "n": 2,
+  "species": "第一步鞋兽",
+  "title": "一只过大的第一步鞋成为整个下半身，后足还很小",
+  "axes": {
+    "archetype": "物件生物，鞋身",
+    "silhouette": "上小下大，一只夸大的圆头鞋成为下半身轮廓",
+    "mark": "身 · 一只过大的第一步鞋就是整个下半身，鞋头朝前，后面只留一只很小的短足",
+    "face": "小黑豆眼圆而小，眼皮不抬，极小嘴，视线平视",
+    "emotion": "反差：下半身已经迈出，上半身和脸仍收着",
+    "fusion": "物件就是身体：过大的鞋成为整个下半身，拿掉这只鞋角色就不成立",
+    "material": "主体奶白短绒，只有鞋底是一层橡胶",
+    "palette": "奶白配砖红"
+  },
+  "head": "竖高一点的圆头，很小，压在夸大的鞋身之上，几乎没有颈",
+  "combo": "过大圆头鞋下半身 + 后面一枚很小的短足 + 收着的小圆头和豆眼 + 奶白对砖红",
+  "odd": "一只鞋大到成为整个下半身，另一只足极小还留在后面；不是成对的鞋子",
+  "why": "想再往外走一步，也不用换一副面孔。第一步已经夸大成身体，脸却还是小小收着。",
+  "spec": {
+    "proportion": "头高约占全高 30%，鞋身约占 60%，后足约占 10%；鞋头宽约是头宽的两倍",
+    "outline": "小圆头压在一只巨大的圆头鞋上，后头一点短足",
+    "volume": "大：第一步的鞋；中：小圆头；小：后足",
+    "face": "眼在头高中下部，小黑豆，眼皮不抬，眼距正常，嘴极小，不笑",
+    "stance": "大鞋平放朝前站稳，后足还点在鞋身后方，像一步还没完全迈完，不做成行走残影",
+    "structure": "橡胶厚底和绒鞋身、绒上身连成一体，只有一只夸大的鞋，不是脚上穿着的一双鞋"
+  },
+  "toy_check": "站得住：大鞋底平放。物件长进去：拿掉这只鞋角色就不成立。特殊材质只有橡胶鞋底。新组合：单只过大第一步加极小后足，不是穿鞋小孩。不像绘本。头像需切到鞋口。做得成。姿态：一步未完，不是立正。",
+  "crop": "记忆点在夸大的鞋身，头像需切到鞋口才能认出。",
+  "collide": "不同于穿着大鞋子的动物或脚边摆一双鞋：一只鞋就是下半身，只有一步，脸收着，不做球鞋广告。",
+  "pose": "大鞋朝前，后足还点在后方",
+  "zh": "原创潮玩角色，一只奶白短绒圆核和一只过大的圆头鞋长在一起：这只鞋成为整个下半身，拿掉这只鞋就没有角色。小小的竖高圆头压在鞋身上，几乎没有颈，鞋头朝前，后面只留一枚很小的短足，像一步还没有完全迈完。小黑豆眼，眼皮不抬，极小嘴，视线平视，脸不跟着鞋头扬起来。大鞋平放站稳，不做行走。主体是奶白短绒，只有鞋底是一层橡胶。配色是奶白配砖红。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要成双的鞋，不要鞋带花结细节堆满，不要行走残影，不要品牌标志。",
+  "enp": "Original designer toy character: a cream-white plush rounded core fused with one oversized round-toe shoe — that shoe becomes the entire lower body, without it there is no character. A small slightly tall round head sits on the shoe with almost no neck, the toe pointing forward, only one very small hind foot still dotted behind, as if the step is not quite finished. Tiny black bean eyes, lids not lifted, a tiny mouth, level gaze, the face not lifting with the toe. The big shoe sits flat and steady, not walking. Body is cream-white plush; only the sole is a layer of rubber. Colors: cream white with brick red. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No pair of shoes, no piled-up lace-bow details, no walking afterimages, no brand logos."
+}
