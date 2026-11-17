@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-17",
+  "queries": [
+    "RiboDiary 瑞宝 快闪 2026 11月17日",
+    "名创优品 TOP TOY Nommi 新品 2026 11月",
+    "サンリオ パペットスンスン 2026 11月17日 新商品",
+    "한국 캐릭터 팝업 2026 11월17일",
+    "RiboDiary Forest Gathering Day November 17 2026 review quality"
+  ],
+  "window_7d": [
+    "2026-11-11",
+    "2026-11-17"
+  ],
+  "window_30d": [
+    "2026-10-19",
+    "2026-11-17"
+  ],
+  "source_ids": [
+    "AF01",
+    "AF03",
+    "AF05",
+    "AF06",
+    "AF07",
+    "AF08"
+  ],
+  "qualified_candidates": 1,
+  "note": "1续作+4未达门槛观察；二手上架/叫价和官方供给摘要不当成交；TikTok只见商品标题摘要未读评论，不重复依赖历史受阻访问",
+  "xhs": {
+    "queries": [
+      "RiboDiary 品牌介绍",
+      "RiboDiary 产品汇总"
+    ],
+    "status": "not_executed",
+    "reason": "当前浏览器Unknown tool(browser.js)，停止依赖",
+    "pages_read": 0,
+    "accounts": []
+  },
+  "new_independent_user_samples": 0,
+  "official_reference": {
+    "url": "https://prod-global-biz.popmart.com/globalAdmin/1792747010610_51f8ba8bb40b10288601ff9b8472c7ec.jpg",
+    "size": [
+      1200,
+      1200
+    ],
+    "sha256": "cdd969500b9d0a58a91e3fb7535d20ad685475c7ebf11e440dd5373e95de7184",
+    "viewed": true,
+    "public": "reference_only"
+  },
+  "aesthetic_approval": false
+}

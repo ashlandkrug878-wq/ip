@@ -22,8 +22,8 @@
   ],
   "tier": "standard",
   "status": "partial",
-  "cutoff_date": "2026-11-16",
-  "updated": "2026-11-16",
+  "cutoff_date": "2026-11-17",
+  "updated": "2026-11-17",
   "summary": "森林日常由被窝、衣装、手作与群像分工落到产品；官方功能证据清楚，近期讨论可核，规模与增长因果未知。",
   "owner": {
     "creator": null,
@@ -145,6 +145,14 @@
       "type": "self_report",
       "sources": [
         "M01"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "event": "品牌发布上海见面会回顾，感谢到场者并称活动继续；官方开展自述，不证明独立到访/订单/销售",
+      "type": "self_report",
+      "sources": [
+        "AF01"
       ]
     }
   ],
@@ -364,6 +372,17 @@
         "AE03"
       ],
       "note": "单店展示，算法与销量未知，重叠窗口不推增长率"
+    },
+    {
+      "metric": "日本官方乐天店展示的挂件店内名次",
+      "value": 2,
+      "unit": "店内名次",
+      "period": "11/10—11/16集计，11/17更新",
+      "type": "self_report",
+      "sources": [
+        "AF03"
+      ],
+      "note": "单店展示、算法销量未知，重叠窗口不推增长或衰退"
     }
   ],
   "mechanisms": [
@@ -429,9 +448,9 @@
     "已看7张官方原图，未覆盖所有成员全部视角和早期人偶影像；未读实体绘本，未核出版物ISBN，不把绘本感等同绘本起源。",
     "原图不公开打包；内部结构、绒感、承重、耐用性、清洗与关节寿命未实测，成本利润未知。",
     "11/2品牌供稿与官方发布属同一品牌证据家族，不作为独立需求；自然人作者和完整版权链仍未知。",
-    "11/16浏览器返回Unknown tool(browser.js)，小红书两组查询未执行、实读0页；本日未新增直接用户样本。",
-    "V35/V36仍未通过；V36描边与纽扣环去掉、缝线细化，但嘴形、眼高光、额脸、比例及渐层仍偏离。旧V2仅英文附官方图有限身份近似，纯文字/中文未过、稳定性未证，不进3D或毛绒。",
-    "11/16单店榜1位仅为渠道观察。上海取消预约为原计划，本日正文未取得该段；实际举办、预约量、到访及销售仍未知。"
+    "11/17浏览器返回Unknown tool(browser.js)，小红书两组查询未执行、实读0页；未新增独立用户样本。",
+    "V37/V38中文附官方V04仍未通过，V38高光与裤色改善，但嘴形、额脸、比例及渐层仍偏离；不能证明英文或纯文字。旧V2仅英文附图有限身份近似，稳定性未证，不进3D/毛绒。",
+    "已取得11/14品牌见面会开展回顾，补足只有预告的缺口；独立现场核验、到访人数、订单、销售和因果仍未知。"
   ],
   "sources": [
     {
@@ -2155,22 +2174,82 @@
       "observed": "2026-11-16",
       "access": "partial",
       "note": "实读10/28批准的DURIDU情绪妖精群像介绍及11/27—29 DDP计划；30天内，非本周新发布。站头日期不作发表日，无独立需求或销售，未开图。"
+    },
+    {
+      "id": "AF01",
+      "title": "品牌上海见面会回顾：由预告补到官方开展自述",
+      "url": "https://www.sina.cn/news/detail/5365124480631315.html",
+      "published": "2026-11-14",
+      "event_date": null,
+      "observed": "2026-11-17",
+      "access": "partial",
+      "note": "实读品牌11/14 12:00回顾，自述已在上海与朋友见面、感谢到场并称见面会继续。补足仅有预告的边界，但属于品牌自述，不是独立到访核验；未取得人数、订单或销售，不用推荐流点赞评论推需求，图片未打开。"
+    },
+    {
+      "id": "AF03",
+      "title": "日本官方乐天店11/14店内展示",
+      "url": "https://www.rakuten.co.jp/pop-mart-japan/",
+      "published": null,
+      "event_date": "2026-11-10/2026-11-16",
+      "observed": "2026-11-17",
+      "access": "partial",
+      "note": "实读11/17更新、11/10—16集计：该系列挂件店内2位、3520日元起。算法/销售件数未知，重叠窗口不能推销量增长或衰退，更不是全网榜。"
+    },
+    {
+      "id": "AF05",
+      "title": "Nomii糯米儿圣诞系列媒体供给线索",
+      "url": "https://mowanmi.com/post/8547.html",
+      "published": "2026-11-10",
+      "event_date": "2026-11-06",
+      "observed": "2026-11-17",
+      "access": "partial",
+      "note": "实读11/10媒体供给转述，称11/6发货、6常规+1隐藏、单抽99.9人民币。端盒单位错误不采用；Nomii/Nommi同一对象，完整艺术家/品牌权属合同未核，不从TOP TOY销售推定名创优品自有；无独立需求。"
+    },
+    {
+      "id": "AF06",
+      "title": "三丽鸥第4周新品官方预告",
+      "url": "https://www.sanrio.co.jp/news/goods/goods-release-202611-week4/",
+      "published": "2026-11-13",
+      "event_date": "2026-11-19",
+      "observed": "2026-11-17",
+      "access": "partial",
+      "note": "实读11/13官方11/19新品系列、联名和儿童用品计划。供给不是成交，联名不作新IP；未开图，三丽鸥按用户要求跳过小红书。"
+    },
+    {
+      "id": "AF07",
+      "title": "日本PUPPET SUNSUN唱歌毛绒万代官方规格",
+      "url": "https://toy.bandai.co.jp/ja/item/01_21264/",
+      "published": null,
+      "event_date": "2026-11-21",
+      "observed": "2026-11-17",
+      "access": "partial",
+      "note": "实读万代唱歌毛绒：11/21计划发售、7920日元含税、约240mm，抚头摆动唱歌、两模式、3节AAA另购。仅规格/供给，发布日期未知，无独立需求，未开图。"
+    },
+    {
+      "id": "AF08",
+      "title": "韩国DURIDU参展介绍复核",
+      "url": "https://ilovecharacter.com/news/newsview.php?ncode=1065577851207753",
+      "published": "2026-10-28",
+      "event_date": "2026-11-27/2026-11-29",
+      "observed": "2026-11-17",
+      "access": "partial",
+      "note": "实读10/28批准的DURIDU情绪妖精群像介绍及11/27—29 DDP参展计划；30天内非7天新文，站头不作发表日，未有独立用户或销量，未开图。"
     }
   ],
-  "archive": "research/ribodiary/2026-11-16/index.html",
-  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-16/",
-  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-16/",
+  "archive": "research/ribodiary/2026-11-17/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-17/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-17/",
   "prompt_validation": {
     "status": "partial",
-    "mode": "旧V2英文附图有限身份近似；V35/V36英文附官方V04仍revise",
+    "mode": "旧V2英文附图有限身份近似；本日V37/V38中文附官方V04仍revise",
     "scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
     "strict_flat_fill": "not_passed",
     "text_only": "English V10/V11 tested_not_passed",
     "stability": "one_repeat_observed_differences_not_validated",
-    "tests": "research/ribodiary/2026-11-16/prompt-tests.json",
-    "checkpoint": "research/ribodiary/2026-11-16/selection-and-progress.json",
+    "tests": "research/ribodiary/2026-11-17/prompt-tests.json",
+    "checkpoint": "research/ribodiary/2026-11-17/selection-and-progress.json",
     "usable_prior_test": "ribodiary-bearibo-flat-ref-v2",
-    "chinese_reference": "V6/V7/V17/V18 tested_not_passed",
-    "reference_latest": "English reference V35/V36 revise"
+    "chinese_reference": "V6/V7/V17/V18/V37/V38 tested_not_passed",
+    "reference_latest": "Chinese reference V37/V38 revise; latest English V35/V36 revise"
   }
 }
