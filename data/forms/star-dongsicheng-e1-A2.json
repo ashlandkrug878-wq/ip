@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-18",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ],
+  "ip": "star-dongsicheng-e1",
+  "n": 2,
+  "species": "未拆信封兽",
+  "title": "未拆的信封就是身体，封口还贴着，坐在自己的底边上",
+  "axes": {
+    "archetype": "物件生物，信封身",
+    "silhouette": "竖长信封矩形，上沿三角折口未拆",
+    "mark": "身 · 整只身体就是一只还没拆开的竖信封，封口三角还贴着",
+    "face": "眯成一线的眼贴在信封中上部，极小的闭口，眼距略窄，视线平平停住",
+    "emotion": "内收，坐着，像结果还封着也可以先放下",
+    "fusion": "物件就是身体：整只未拆信封就是它的头和身体，拿掉信封就没有角色",
+    "material": "主体短绒，只有封口和边是一层牛皮纸",
+    "palette": "牛皮纸褐配墨黑"
+  },
+  "head": "头就是信封上半和未拆的三角折口，没有另做头顶装饰",
+  "combo": "竖长未拆信封全身 + 还贴着的三角封口 + 中上部一线眯眼 + 牛皮纸褐对墨黑",
+  "odd": "信封没有被拆开，角色坐在自己的底边上；软绒身体只有封口是硬挺的牛皮纸",
+  "why": "把这一步走完，结果可以后看。信封还封着，角色已经坐下，不是拆信庆祝。",
+  "spec": {
+    "proportion": "头身一体，信封高约占坐高 100%，宽约占高的 65%，底边当坐姿，短圆足从底边微微露出",
+    "outline": "一枚竖长矩形，顶部一个未拆的三角折口",
+    "volume": "大：信封身和封口；中：底边坐姿；小：一线眼和微露的短足",
+    "face": "眼在信封高的上三分之一以下一点，眯成一线，眼距略窄于一个眼宽，视线平停，嘴几乎没有",
+    "stance": "坐在自己的底边上，两枚短圆足并着向前微伸，不站起来，不做拆封动作",
+    "structure": "牛皮纸封口和绒信封身长在一起，折口还贴着，没有拉绳或打开的口，不是手里拿的信"
+  },
+  "toy_check": "站得住：改成坐得住，底边着地。物件长进去：信封就是身体。特殊材质只有牛皮纸封口。新组合：未拆封口加坐姿，不是邮差道具。不像绘本。头像需切到封口三角。做得成。姿态：坐着，不是立正。",
+  "crop": "记忆点在未拆的三角封口，头像需切到封口。",
+  "collide": "不同于头上贴邮票或手里拿信的动物：信封就是身体，封口未拆，脸收着，不做拆信场景。",
+  "pose": "坐在自己的底边上，封口还贴着",
+  "zh": "原创潮玩角色，一只短绒圆核和一只还没拆开的竖信封长在一起：整只信封就是它的头和身体，拿掉信封就没有角色。身体是竖长矩形，顶部三角折口还贴着，它坐在自己的底边上，只有很短的圆足从底边微微露出。眯成一线的眼贴在信封中上部，几乎没有嘴，视线平平停住。不站起来，不拆封。主体是短绒，只有封口和边是一层硬挺牛皮纸。配色是牛皮纸褐配墨黑。单个角色完整全身，正面略侧，坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要拆开的信封，不要邮票贴满全身，不要文字地址，不要拆信动作。",
+  "enp": "Original designer toy character: a plush rounded core fused with an unopened upright envelope — the envelope is the head and body, without it there is no character. A tall rectangle with the triangular flap still sealed, sitting on its own bottom edge, only very short round feet peeking forward. Eyes narrowed to thin lines on the upper mid section, almost no mouth, gaze level and still. Not standing, not opening the flap. Body is plush; only the flap and edges are stiff kraft paper. Colors: kraft brown with ink black. Single character, full body, slight three-quarter front view, sitting on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No opened envelope, no stamps all over the body, no written address, no opening motion."
+}

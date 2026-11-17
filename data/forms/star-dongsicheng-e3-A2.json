@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-18",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ],
+  "ip": "star-dongsicheng-e3",
+  "n": 2,
+  "species": "绕圈壶核",
+  "title": "壶就是头，壶嘴先绕一圈才指向出口，水还不到沿",
+  "axes": {
+    "archetype": "物件生物，壶头",
+    "silhouette": "圆壶作头，一条绕圈的长壶嘴成为侧轮廓",
+    "mark": "头 · 一把圆壶就是头，壶嘴从一侧长出，绕头一圈才指向前方，水不到沿",
+    "face": "小黑豆眼贴在壶腹，眼距略近，极小嘴像还含着，视线沿壶嘴绕",
+    "emotion": "留白，壶身微倾却仍站住，话还在嘴里绕",
+    "fusion": "物件就是头：圆壶成为头，绕圈壶嘴是头的一部分，拿掉壶就没有角色",
+    "material": "主体短绒身体，只有壶头和壶嘴是青釉陶",
+    "palette": "青绿配珊瑚"
+  },
+  "head": "头就是一把圆壶，壶盖是微微隆起的顶，不是另加的帽子",
+  "combo": "圆壶头 + 绕头一圈才向前的壶嘴 + 壶腹近距豆眼 + 青绿对珊瑚",
+  "odd": "壶嘴故意绕远路，壶已微倾但液体不到出口；身体仍是软的短绒团",
+  "why": "话要绕一圈才出口，不是心里没有。壶里有水，嘴却先绕一圈，还没到沿。",
+  "spec": {
+    "proportion": "壶头约占全高 55%，身是较矮的绒团，绕圈壶嘴的外径约等于头宽，短足约占 15%",
+    "outline": "圆壶加大一圈壶嘴，下面一个矮团身",
+    "volume": "大：壶头和绕圈壶嘴；中：绒身；小：壶腹那张小脸",
+    "face": "眼在壶腹中部，小黑豆，眼距略近于一个眼宽，视线跟着壶嘴绕，嘴极小像还含着，不张嘴倒水",
+    "stance": "短足站稳，壶身只微微前倾，像要到出口又停住，不做成倾倒动作",
+    "structure": "青釉壶头和绒身在颈线长在一起，壶嘴从一侧长出绕头一圈再指向前方，和头是同一块陶，不是手里提的壶"
+  },
+  "toy_check": "站得住：短足着地，微倾仍稳住。物件长进去：拿掉壶就没有角色。特殊材质只有青釉。新组合：绕圈才到出口的壶嘴，不是茶具人偶。不像绘本。头像能看到绕圈壶嘴。做得成。姿态：微倾站住，不是立正。",
+  "crop": "记忆点在绕头一圈的壶嘴，头像能认出。",
+  "collide": "不同于头上顶茶壶或手里提壶的动物：壶就是头，嘴绕一圈才向前，脸留白，不做倒茶场景。",
+  "pose": "壶身微倾，水还不到沿，站住",
+  "zh": "原创潮玩角色，一只短绒圆核和一把圆壶长在一起：壶就是它的头，拿掉壶就没有角色。壶嘴从一侧长出，绕头一圈才指向前方，壶身只微微前倾，水还不到沿。小黑豆眼贴在壶腹，眼距略近，极小嘴像还含着，视线跟着壶嘴绕，不张嘴。下面是较矮的绒团身体和很短的钝足，站稳，不倒水。主体身体是短绒，只有壶头和壶嘴是青釉陶。配色是青绿配珊瑚。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要倒出水，不要茶具桌，不要蒸汽拟人，不要张嘴讲话。",
+  "enp": "Original designer toy character: a plush rounded core fused with a round teapot — the pot is the head, without it there is no character. The spout grows from one side, loops once around the head, then points forward; the pot tilts only slightly, liquid not yet at the rim. Tiny black bean eyes on the belly of the pot, set a little close, a tiny mouth as if still holding words, gaze following the spout, not opening. A lower, shorter plush body and very short blunt feet, standing steady, not pouring. The body is plush; only the pot head and spout are celadon glaze ceramic. Colors: celadon green with coral. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No liquid pouring out, no tea table, no personified steam, no open-mouth talking."
+}

@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-18",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ],
+  "ip": "star-dongsicheng-e1",
+  "n": 3,
+  "species": "叫号牌冠兽",
+  "title": "一枚叫号牌长成头顶一圈冠，号码朝里，还没轮到",
+  "axes": {
+    "archetype": "动物，叫号牌长成冠",
+    "silhouette": "团子圆身，头顶伸出一圈硬牌冠",
+    "mark": "头 · 一枚弯曲的叫号牌从额顶长成一圈冠，牌面朝里，数字看不清成一块色",
+    "face": "小黑豆眼眼距偏宽，半睁，极小圆嘴闭着，视线略向一侧",
+    "emotion": "内收，双手似的短臂抱在胸前，像还没听到自己的号",
+    "fusion": "物件是长出来的结构：叫号牌从额顶长成一圈冠，拿掉这圈冠角色就不成立",
+    "material": "主体雾灰短绒，只有号牌是硬质塑料",
+    "palette": "雾灰配热感红"
+  },
+  "head": "横宽扁圆的头，号牌冠贴着头围长出，不另戴帽子",
+  "combo": "扁圆团子身 + 朝里弯的硬塑料号牌冠 + 宽距半睁豆眼 + 雾灰对热感红",
+  "odd": "号牌弯成冠且牌面朝里，数字不成可读字；短臂抱在胸前，不像窗口排队摆件",
+  "why": "把这一步走完，结果可以后看。号还没叫到，角色已经抱臂站住，不是抢号狂欢。",
+  "spec": {
+    "proportion": "头高约占全高 50%，头宽略大于身宽，短臂约占头宽的一半，短足约占全高 15%",
+    "outline": "一团扁圆，头顶一圈横向硬牌",
+    "volume": "大：圆头和号牌冠；中：团子身；小：抱在胸前的短臂",
+    "face": "眼在头高中部略下，半睁豆眼，眼距约一个半眼宽，视线略向一侧，嘴极小且闭着",
+    "stance": "短足并立站稳，两枚短钝臂抱在胸前，不举手，不做成取号动作",
+    "structure": "硬塑料号牌从头顶两侧长出并在额前弯成一圈，牌面朝里，表面只有一块红色色域，不写可识别数字或文字，不是别在头上的配件"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：拿掉号牌冠角色就不成立。特殊材质只有塑料号牌。新组合：朝里的号牌冠加抱臂，不是窗口取号。不像绘本。头像能看到冠。做得成。姿态：抱臂，不是立正。",
+  "crop": "记忆点在头上朝里弯的号牌冠，头像能认出。",
+  "collide": "不同于头上夹号码牌或手里拿排队票的动物：号牌长成一圈冠，牌面朝里，脸收着，不做窗口场景。",
+  "pose": "短臂抱在胸前，像还没轮到",
+  "zh": "原创潮玩角色，一只雾灰短绒团子和一枚叫号牌长在一起：号牌从额顶长成一圈冠，拿掉这圈冠就没有角色。头横宽扁圆，约占全身一半高，身体是圆团，腹下只有很短的钝足。号牌在额前弯成一圈，牌面朝里，只有一块红色色域，不写数字。小黑豆眼眼距偏宽，半睁，极小圆嘴闭着，视线略向一侧。两枚短钝臂抱在胸前，站稳，不取号。主体是雾灰短绒，只有号牌是硬质塑料。配色是雾灰配热感红。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要可读数字或文字，不要窗口柜台，不要手里拿票，不要排队人群。",
+  "enp": "Original designer toy character: a mist-grey plush dumpling body fused with a queue-number ticket — the ticket grows from the brow into a circlet crown, without it there is no character. A wide flat-round head about half the height, a round body, only very short blunt feet. The ticket bends into a loop at the forehead, face of the ticket turned inward, only a block of red color, no numerals. Wide-set half-open bean eyes, a tiny closed round mouth, gaze slightly to one side. Two short blunt arms folded on the chest, standing still, not taking a ticket. Body is mist-grey plush; only the ticket is hard plastic. Colors: mist grey with heat red. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No readable numbers or letters, no service counter, no ticket held in the hands, no queue of people."
+}
