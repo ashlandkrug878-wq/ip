@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-18",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ],
+  "ip": "star-dongsicheng-e2",
+  "n": 3,
+  "species": "褪下面具披风兽",
+  "title": "半褪的空面具成为背上的披风，脸上仍是原来的小五官",
+  "axes": {
+    "archetype": "怪兽精灵，面具披风",
+    "silhouette": "圆身，背后一张空面具展开成壳状披风",
+    "mark": "背 · 一张没有五官的空面具从肩背长出，半褪下来成为披风，不是戴在脸上",
+    "face": "真正的脸上是眯成线的眼和极小嘴，眼距正常，视线平收",
+    "emotion": "反差：披风像一张退开的脸，真脸上仍收着",
+    "fusion": "物件是壳或披风：空面具长在肩背并半褪成披风，拿掉它角色就不成立",
+    "material": "主体浅杏短绒，只有面具披风是釉面陶",
+    "palette": "浅杏配深青"
+  },
+  "head": "方圆的小头，脸是角色自己的眯线眼，面具不盖住这张脸",
+  "combo": "肩背上半褪的空陶面具披风 + 方圆小头上的一线眯眼 + 浅杏对深青",
+  "odd": "面具是空的、没有五官，并且退到背上当披风，而不是一张新脸",
+  "why": "想再往外走一步，也不用换一副面孔。要换的那张脸已经退成披风，真脸还在。",
+  "spec": {
+    "proportion": "头高约占全高 45%，面具披风展开后宽约是头宽的两倍，短足约占全高 15%",
+    "outline": "圆头圆身，背后一张扁面具轮廓展开",
+    "volume": "大：面具披风；中：圆身和头；小：真脸上的一线眼",
+    "face": "眼在头高中部，眯成线，眼距约一个眼宽，嘴极小，面具上不画眼睛和嘴",
+    "stance": "短足站稳，两枚短臂略向两侧张开一点点，像刚把那张不必用的脸褪到背后，不做成舞蹈或脱衣动作",
+    "structure": "釉面陶的空面具从肩胛长出，上沿离开面颊，下沿成为披风，和绒身连在一起，不是手里拿着或戴在脸上的配件"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：拿掉面具披风角色就不成立。特殊材质只有陶面具。新组合：空面具退到背上，真脸还在，不是假面角色。不像绘本。头像需切到肩上的面具上沿。做得成。姿态：短臂略张，不是立正。",
+  "crop": "记忆点在肩背上半褪的空面具，头像需切到面具上沿。",
+  "collide": "不同于戴面具或手持面具的角色：面具是空的、长在背上成为披风，真脸是一线眯眼，不做假面舞会。",
+  "pose": "短臂略向两侧张开，面具已经退到背上",
+  "zh": "原创潮玩角色，一只浅杏短绒圆核和一张空面具长在一起：面具从肩背长出，半褪下来成为披风，拿掉它就没有角色。方圆小头上是角色自己的脸，眯成一线的眼，极小嘴，视线平收。面具上没有五官，上沿已经离开面颊，下沿展开在背后。短足站稳，两枚短臂只略向两侧张开一点点，不做舞蹈。主体是浅杏短绒，只有面具披风是釉面陶。配色是浅杏配深青。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要把面具戴在脸上，不要面具上再画五官，不要假面舞会，不要脱衣动作。",
+  "enp": "Original designer toy character: a light-apricot plush rounded core fused with a blank mask — the mask grows from the shoulders and half-slips down into a cloak, without it there is no character. The squarish-round small head keeps its own face: eyes narrowed to lines, a tiny mouth, gaze held level. The mask has no features, its top edge already leaving the cheeks, its lower edge opening down the back. Short feet planted, two short arms only slightly opened to the sides, not dancing. Body is light-apricot plush; only the mask-cloak is glazed ceramic. Colors: light apricot with deep teal. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No mask worn on the face, no features painted on the mask, no masquerade, no undressing motion."
+}

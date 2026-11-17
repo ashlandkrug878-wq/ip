@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-18",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ],
+  "ip": "star-dongsicheng-e2",
+  "n": 1,
+  "species": "门槛壳兽",
+  "title": "一道门槛成为环身的壳，一脚在里，一脚刚跨出",
+  "axes": {
+    "archetype": "物件生物，门槛壳",
+    "silhouette": "矮门框横在腰线，圆身被框住，一足伸出框外",
+    "mark": "身 · 一道带低门槛的短门框成为环在腰和肩的壳，一脚还在框里，一脚刚跨出",
+    "face": "半垂小黑豆眼，眼距正常，极小一字嘴，视线略向前但不扬起",
+    "emotion": "反差：脚已经迈出半步，脸仍收着",
+    "fusion": "物件是壳：短门框和门槛环住身体，拿掉门框角色就不成立",
+    "material": "主体短绒，只有门框和门槛是木漆",
+    "palette": "木褐配天空青"
+  },
+  "head": "正圆的小头从门框上沿探出，没有另做门楣装饰",
+  "combo": "环腰短门框壳 + 一脚在内一脚刚跨出 + 门框上沿那张半垂小脸 + 木褐对天空青",
+  "odd": "门框不成一座完整的房子，只剩一圈矮壳；步伐已迈，脸却不跟着打开",
+  "why": "想再往外走一步，也不用换一副面孔。一脚跨出门槛，脸还是原来那张收着的脸。",
+  "spec": {
+    "proportion": "头高约占全高 40%，门框壳约占身高的三分之二，跨出的那只足略放大，约为头宽的三分之二",
+    "outline": "一团圆被一道矮门框卡住，一足伸出框外",
+    "volume": "大：门框壳和圆身；中：跨出的足；小：框上沿的小脸",
+    "face": "眼在头高中下部，半垂，眼距约一个眼宽，视线略向前平视，嘴是极小一字，不笑",
+    "stance": "左足仍在门槛内，右足刚跨到框外半步，站稳，不做跨栏或奔跑",
+    "structure": "木漆短门框从肩侧和腰线长成一圈壳，底部连着一道矮门槛，和绒身长在一起，不是身后摆的道具门"
+  },
+  "toy_check": "站得住：一脚在内一脚在外仍能站稳。物件长进去：拿掉门框角色就不成立。特殊材质只有木漆门框。新组合：门槛壳加半步，不是门口摆件。不像绘本。头像需切到门框上沿。做得成。姿态：跨出半步，不是立正。",
+  "crop": "记忆点在环身的矮门框，头像需切到门框上沿。",
+  "collide": "不同于站在门边或头上顶一扇门的动物：门框就是壳，一脚在里一脚在外，脸收着，不做搬家场景。",
+  "pose": "一脚在门槛内，一脚刚跨出半步",
+  "zh": "原创潮玩角色，一只短绒圆核和一道矮门框长在一起：门框和门槛成为环在腰和肩的壳，拿掉门框就没有角色。圆头从门框上沿探出，身体被矮框卡住，左足还在门槛里，右足刚跨到框外半步，跨出的那只足略放大。半垂小黑豆眼，极小一字嘴，视线略向前，脸不扬起来。站稳，不跨栏。主体是短绒，只有门框和门槛是木漆。配色是木褐配天空青。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要完整房屋，不要门牌文字，不要跑步跨栏，不要换装。",
+  "enp": "Original designer toy character: a plush rounded core fused with a short doorframe — the frame and threshold become a shell around the waist and shoulders, without it there is no character. A round head peeks over the top rail, the body held by the low frame, left foot still inside the threshold, right foot just half a step outside, that outer foot slightly enlarged. Half-lidded tiny black bean eyes, a tiny straight mouth, gaze a little forward, the face not lifting. Standing steady, not hurdling. Body is plush; only the frame and threshold are lacquered wood. Colors: wood brown with sky cyan. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No complete house, no door-number lettering, no running or hurdling, no costume change."
+}

@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-18",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ],
+  "ip": "star-dongsicheng-e3",
+  "n": 1,
+  "species": "螺旋梯核",
+  "title": "一段短螺旋楼梯就是身体，它坐在自己的一圈台阶上",
+  "axes": {
+    "archetype": "物件生物，楼梯身",
+    "silhouette": "一圈向上绕的短螺旋，中心是圆核",
+    "mark": "身 · 一段只绕一圈多的短螺旋楼梯就是身体，台阶绕回来停在出口前",
+    "face": "半垂小黑豆眼贴在中心圆核上，视线顺着台阶绕，极小嘴",
+    "emotion": "留白，坐在自己的台阶上，像话还在绕",
+    "fusion": "物件就是身体：短螺旋楼梯就是它的头和身体，拿掉楼梯就没有角色",
+    "material": "主体暖赭短绒，只有扶手是一圈铜",
+    "palette": "暖赭配铜绿"
+  },
+  "head": "头就是中心圆核的上部，台阶从耳侧绕过头顶又落下来",
+  "combo": "只绕一圈多的螺旋楼梯全身 + 中心圆核上的半垂小眼 + 铜扶手 + 暖赭对铜绿",
+  "odd": "楼梯不成一座建筑，只绕一圈多就停在出口前；角色坐在自己的台阶上",
+  "why": "话要绕一圈才出口，不是心里没有。台阶绕完一圈停在出口前，脸留白，不是讲演。",
+  "spec": {
+    "proportion": "头身一体，螺旋外径约占全高 120%，中心核约占外径一半，它坐着，可见高度被压矮",
+    "outline": "一枚从上看是螺旋、从侧面是层层台阶的团",
+    "volume": "大：绕一圈的台阶；中：中心圆核；小：那张小脸和铜扶手的一圈细边",
+    "face": "眼在中心核上半，半垂，眼距正常，视线顺着台阶绕，不看向镜头说话，嘴极小",
+    "stance": "坐在最低一阶上，短足收回，不攀爬，不做成行走的楼梯场景",
+    "structure": "绒台阶绕中心核一圈多，在将到口处停住，铜扶手只是这一圈的特殊材质边，和身体长在一起，不是身后的建筑"
+  },
+  "toy_check": "站得住：改成坐得住。物件长进去：楼梯就是身体。特殊材质只有铜扶手。新组合：一圈就停的螺旋加坐姿，不是建筑模型。不像绘本。头像需切到绕过头顶的台阶。做得成。姿态：坐着，不是立正。",
+  "crop": "记忆点在绕过头顶的那圈台阶，头像需切到台阶。",
+  "collide": "不同于站在楼梯上或身边摆旋转梯的动物：楼梯就是身体，只绕一圈多，脸留白，不做攀爬场景。",
+  "pose": "坐在自己最低的一阶上，台阶在出口前停住",
+  "zh": "原创潮玩角色，一只暖赭短绒圆核和一段短螺旋楼梯长在一起：楼梯就是它的头和身体，拿掉楼梯就没有角色。台阶只绕中心核一圈多，在将到出口的地方停住，它坐在最低的一阶上，短足收回。半垂小黑豆眼贴在中心核上，视线顺着台阶绕，极小嘴，不像在说话。主体是暖赭短绒，只有扶手是一圈铜。配色是暖赭配铜绿。单个角色完整全身，正面略侧，坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要多层建筑，不要人物攀爬，不要做成旋转木马，不要张嘴讲话。",
+  "enp": "Original designer toy character: a warm-ochre plush rounded core fused with a short spiral stair — the stair is the head and body, without it there is no character. The steps loop the core just over once and stop before the exit, the character sitting on the lowest step with short feet tucked in. Half-lidded tiny black bean eyes on the core, gaze following the steps around, a tiny mouth, not speaking. Body is warm-ochre plush; only the rail is a ring of copper. Colors: warm ochre with verdigris. Single character, full body, slight three-quarter front view, sitting on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No multi-storey building, no climbing figures, no carousel, no open-mouth talking."
+}

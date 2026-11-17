@@ -132,6 +132,9 @@
     "star-dilireba-e1",
     "star-dilireba-e2",
     "star-dilireba-e3",
+    "star-dongsicheng-e1",
+    "star-dongsicheng-e2",
+    "star-dongsicheng-e3",
     "star-gaoye-e1",
     "star-gaoye-e2",
     "star-gaoye-e3",
@@ -218,6 +221,15 @@
     "star-dilireba-e3-A1",
     "star-dilireba-e3-A2",
     "star-dilireba-e3-A3",
+    "star-dongsicheng-e1-A1",
+    "star-dongsicheng-e1-A2",
+    "star-dongsicheng-e1-A3",
+    "star-dongsicheng-e2-A1",
+    "star-dongsicheng-e2-A2",
+    "star-dongsicheng-e2-A3",
+    "star-dongsicheng-e3-A1",
+    "star-dongsicheng-e3-A2",
+    "star-dongsicheng-e3-A3",
     "star-gaoye-e1-A1",
     "star-gaoye-e1-A2",
     "star-gaoye-e1-A3",
@@ -540,6 +552,7 @@
     "star-bailu",
     "star-chenglei",
     "star-dilireba",
+    "star-dongsicheng",
     "star-gaoye",
     "star-huangjingyu",
     "star-jingboran",
@@ -558,5 +571,5 @@
     "star-zhaoliying",
     "star-zhaolusi"
   ],
-  "updated": "2026-11-16T23:18:45+00:00"
+  "updated": "2026-11-17T23:17:57+00:00"
 }
