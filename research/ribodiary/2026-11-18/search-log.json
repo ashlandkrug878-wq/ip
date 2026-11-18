@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-18",
+  "queries": [
+    "RiboDiary 瑞宝 快闪 2026 11月18日",
+    "名创优品 TOP TOY Nommi 新品 2026 11月",
+    "サンリオ パペットスンスン 2026 11月18日 新商品",
+    "한국 캐릭터 팝업 2026 11월18일",
+    "RiboDiary Forest Gathering Day November 18 2026 review quality"
+  ],
+  "window_7d": [
+    "2026-11-12",
+    "2026-11-18"
+  ],
+  "window_30d": [
+    "2026-10-20",
+    "2026-11-18"
+  ],
+  "source_ids": [
+    "AG01",
+    "AG03",
+    "AG05",
+    "AG06",
+    "AG07",
+    "AG08"
+  ],
+  "qualified_candidates": 1,
+  "note": "1续作+4未达门槛观察；2025年业绩与8月中期财报不作近期单IP数字；集合页摘要和正文SKU不混价；二级商品摘要不代销量",
+  "xhs": {
+    "queries": [
+      "RiboDiary 品牌介绍",
+      "RiboDiary 产品汇总"
+    ],
+    "status": "not_executed",
+    "reason": "当前浏览器Unknown tool(browser.js)，停止依赖",
+    "pages_read": 0,
+    "accounts": []
+  },
+  "new_independent_user_samples": 0,
+  "reference_preparation": "重新下载并实际打开完整V04和旧V2；V2为生成草稿非官方；两次均只输入这两图",
+  "aesthetic_approval": false
+}
