@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-19",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ],
+  "ip": "star-yushuxin-e2",
+  "n": 3,
+  "species": "鱼",
+  "title": "鱼身和一圈停住的涟漪长在一起，水纹不再散开",
+  "axes": {
+    "archetype": "物件生物，鱼身连着涟漪环",
+    "silhouette": "一条短圆鱼水平停着，腰上长出一圈静止的水纹环",
+    "mark": "身 · 涟漪环就是长在腰上的一圈硬裙，纹路停住，不再向外散",
+    "face": "两粒小黑豆眼半垂贴在圆头两侧，极小嘴，视线平停",
+    "emotion": "内收，浮停，像这一步先按下",
+    "fusion": "物件长进身体：静止的涟漪环就是腰上的结构，拿掉这圈环角色就不成立",
+    "material": "主体银白短绒，只有涟漪环是透明亚克力",
+    "palette": "银白配深青环影"
+  },
+  "head": "头就是短圆鱼头，几乎没有颈，直接连到带着环的短身",
+  "combo": "短圆鱼全身 + 腰上静止的亚克力涟漪环 + 半垂侧眼 + 银白对深青",
+  "odd": "鱼不游，涟漪也不扩散；软绒身体只有那一圈环是硬透明，不做整身透明的水",
+  "why": "慢一步，也可以说我耍赖了。涟漪停在这一圈，这一步先不算完，不是游走的好运鱼。",
+  "spec": {
+    "proportion": "水平全长约两头，头约占 40%，环的直径略大于腹宽，短鳍短尾约占全长 15%",
+    "outline": "一条短圆鱼，腰上套着一圈静止的同心水纹",
+    "volume": "大：鱼身和涟漪环；中：圆头；小：短鳍短尾和五官",
+    "face": "眼在头侧偏上，半垂，不做成大笑鱼，嘴极小",
+    "stance": "身体水平，腹下两点极短的钝足让它停在桌上，不摆尾，环不旋转",
+    "structure": "绒鱼身和亚克力环长在一起，环是身体的一部分，不是鱼缸里的配件，也不是嘴里吐出的水花"
+  },
+  "toy_check": "站得住：腹下短足把水平鱼身稳住。物件长进去：涟漪环拿掉就不成立。特殊材质只有亚克力环。新组合：停住的水纹环，不是游动的鱼。不像绘本。头像需切到环。做得成。姿态：水平浮停。",
+  "crop": "记忆点在腰上的静止涟漪环，头像需切到环。",
+  "collide": "不同于手里拿水花或普通锦鲤摆件：涟漪长在腰上并且停住，鱼不游，脸收着，不做鱼缸。",
+  "pose": "水平浮停，环不再散开",
+  "zh": "原创潮玩角色，一条银白短绒短圆鱼和一圈静止的涟漪长在一起：这圈涟漪就是它腰上的结构，拿掉环角色就不成立。鱼身短而圆，水平停着，腹下两点极短的钝足把它稳住，短鳍短尾都不摆动。腰上的透明亚克力环带着深深浅浅的水纹，纹路停住，不再向外散开。半垂小黑豆眼贴在圆头两侧，极小一字嘴，视线平停。主体是银白短绒，只有涟漪环是透明亚克力，环里映一点深青。单个角色完整全身，正面略侧，停在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要游动和气泡，不要鱼缸水草，不要整身透明的水，不要鲤鱼旗。",
+  "enp": "Original designer toy character: a silver-white plush short round fish fused with a stopped ripple ring — the ripple is a structure at the waist, without the ring the character does not exist. The body is short and round, hovering level, two very short blunt feet under the belly holding it still, tiny fins and tail not waving. A clear acrylic ring around the waist holds concentric water marks that have stopped spreading. Half-lidded tiny black bean eyes sit on the sides of the round head, a tiny straight mouth, gaze paused level. Body is silver-white plush; only the ripple ring is clear acrylic with a hint of deep teal. Single character, full body, slight three-quarter front view, resting on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No swimming or bubbles, no aquarium plants, no fully transparent water body, no carp streamers."
+}

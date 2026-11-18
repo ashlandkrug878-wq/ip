@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-19",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ],
+  "ip": "star-yushuxin-e1",
+  "n": 3,
+  "species": "兰花",
+  "title": "兰花就是身体，花瓣略张，球茎却收得很紧",
+  "axes": {
+    "archetype": "物件生物，兰花身",
+    "silhouette": "一朵短茎兰花站着，花冠略开，下部是圆紧的球茎",
+    "mark": "头 · 花冠就是头，只有两三片瓣微微张开，下面的球茎圆而紧，像已经准备好",
+    "face": "两粒半垂小黑豆眼贴在花心上方，极小嘴，视线略向下停在球茎",
+    "emotion": "内收，花瓣像晃一下，球茎沉住",
+    "fusion": "物件就是身体：整朵短兰花就是头和身体，拿掉花就没有角色",
+    "material": "主体雾绿短绒，只有花瓣边缘是一层薄琉璃",
+    "palette": "雾绿配奶油花心"
+  },
+  "head": "头就是略张的花冠，扁圆，几乎没有颈，直接坐在圆球茎上",
+  "combo": "短兰花全身 + 略张的琉璃瓣边和收紧的球茎 + 花心小眼 + 雾绿对奶油",
+  "odd": "花瓣张开得很克制，不像盛放；软绒身体只有瓣边是薄硬琉璃，球茎比花冠更沉",
+  "why": "我只是看起来大惊小怪。瓣可以略张，球茎已经收紧，准备写在下面，不写在脸上。",
+  "spec": {
+    "proportion": "花冠约占全高 45%，圆球茎约占 40%，短足约占 15%，全高约两头",
+    "outline": "上为略开的扁花花冠，下为更沉的圆球茎，中间几乎无腰",
+    "volume": "大：球茎和花冠；中：两三片瓣；小：琉璃瓣边、花心和短足",
+    "face": "眼在花心上方，半垂，眼距约一个眼宽，不做成人脸花朵",
+    "stance": "球茎底下两枚短钝足分开站稳，花茎不弯成舞蹈，只是瓣略张、身坐沉",
+    "structure": "绒球茎和绒花冠长成一体，薄琉璃只包在瓣的边缘，不是插在瓶子里的花，也不是头上戴的花环"
+  },
+  "toy_check": "站得住：球茎下有短足。物件长进去：兰花就是身体。特殊材质只有琉璃瓣边。新组合：略张的瓣加更沉的紧球茎。不像绘本。头像需切到瓣。做得成。姿态：身坐下沉，不是舞蹈开花。",
+  "crop": "记忆点在略张的瓣和紧球茎，头像需切到瓣边。",
+  "collide": "不同于头上戴花或手里拿花的动物：花就是身体，瓣不多张，脸很小，不做花田。",
+  "pose": "身坐下沉，瓣只略张",
+  "zh": "原创潮玩角色，一只雾绿短绒圆核和一朵短茎兰花长在一起：整朵兰花就是它的头和身体，拿掉花就没有角色。上半是略微张开的扁花花冠，只有两三片瓣，下半是更沉、收得很紧的圆球茎，腹下两枚短钝足。半垂小黑豆眼贴在花心上方，极小一字嘴，视线略向下停在球茎。站得很稳，花茎不扭不舞。主体是雾绿短绒，只有花瓣边缘是一层薄琉璃，花心是奶油色。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要盛放的大花束，不要花瓶，不要人脸花，不要仙气飘带。",
+  "enp": "Original designer toy character: a mist-green plush rounded core fused with a short orchid — the orchid is the head and body, without it there is no character. The upper half is a slightly opened flat blossom with only two or three petals; the lower half is a heavier, tightly gathered round bulb, with two short blunt feet. Half-lidded tiny black bean eyes sit above the cream flower-heart, a tiny straight mouth, gaze paused slightly down toward the bulb. It stands steadily, the stem does not dance. Body is mist-green plush; only the petal edges are a thin glaze of glass, the heart is cream. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No full bouquet in bloom, no vase, no human-faced flower, no floating fairy ribbons."
+}

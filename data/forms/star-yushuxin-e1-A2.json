@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-19",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ],
+  "ip": "star-yushuxin-e1",
+  "n": 2,
+  "species": "相机",
+  "title": "相机就是身体，热靴竖着，镜头盖已经盖上",
+  "axes": {
+    "archetype": "物件生物，相机身",
+    "silhouette": "一台略圆润的短相机，顶部热靴竖起，腹下短足",
+    "mark": "头 · 整只头胸就是机身，镜头盖已经盖严，只有顶部热靴像要闪光却没有亮",
+    "face": "小黑豆眼贴在镜头盖上方的机身，极小嘴，视线平停，并不瞪大",
+    "emotion": "内收反差：外表像要拍一下，盖子却已经合上",
+    "fusion": "物件就是身体：短相机就是它的头和胸，拿掉相机就没有角色",
+    "material": "主体炭灰短绒，只有镜头圈是一圈黄铜",
+    "palette": "炭灰配黄铜，快门处一点石榴红"
+  },
+  "head": "头就是机身上盖，略方而圆角，几乎没有颈，直接连到短机身",
+  "combo": "短相机全身 + 已盖严的镜头和竖起未亮的热靴 + 盖上小眼 + 炭灰对黄铜",
+  "odd": "热靴竖着像要出声，镜头盖却已经盖上；软绒机身只有铜圈是硬的，不做闪光灯爆闪",
+  "why": "我只是看起来大惊小怪。热靴像晃了一下，镜头盖已经合上，心里并不那么激动。",
+  "spec": {
+    "proportion": "头胸一体的短相机，全高约一头半，热靴约占全高 18%，短足约占 12%",
+    "outline": "圆角短方机身，前有圆形盖，顶有一只未亮的短热靴",
+    "volume": "大：机身；中：镜头盖和热靴；小：黄铜圈、红快门点和短足",
+    "face": "眼在镜头盖上方，半垂，眼距约一个眼宽，不从镜头里瞪出来",
+    "stance": "两枚短钝足分开站稳，机身微微前倾后停住，不按快门，不弹跳",
+    "structure": "绒机身和黄铜圈长在一起，镜头盖是身体的一部分已经盖严，热靴是长出来的短柱，不是挂在肩上的相机"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：相机就是身体。特殊材质只有铜圈。新组合：竖热靴加已盖严的镜头。不像绘本。头像需切到镜头盖。做得成。姿态：微前倾后停住。",
+  "crop": "记忆点在已盖的镜头和竖起未亮的热靴，头像需切到两者。",
+  "collide": "不同于脖子上挂相机或头上顶镜头的动物：相机就是身体，盖子是合上的，脸不从镜头里做表情。",
+  "pose": "微前倾后停住，不按快门",
+  "zh": "原创潮玩角色，一只炭灰短绒圆核和一台短相机长在一起：短相机就是它的头和胸，拿掉相机就没有角色。圆角短方机身，前面是已经盖严的圆形镜头盖，顶部一只短热靴竖着却不发光，腹下两枚短钝足。半垂小黑豆眼贴在镜头盖上方的机身上，极小一字嘴，视线平停。机身微微前倾后站住，不按快门。主体是炭灰短绒，只有镜头圈是一圈黄铜，快门处只有一点石榴红。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要闪光灯爆闪，不要从镜头里瞪出一只大眼，不要挂带和记忆卡，不要抓拍动作。",
+  "enp": "Original designer toy character: a charcoal plush rounded core fused with a short camera — the camera is the head and chest, without it there is no character. Rounded short box body, a circular lens cap already closed, a short hot-shoe standing on top but not flashing, two short blunt feet. Half-lidded tiny black bean eyes sit on the body above the cap, a tiny straight mouth, gaze paused level. The body leans slightly forward and then stands still, not pressing the shutter. Body is charcoal plush; only the lens ring is brass, with a tiny pomegranate-red shutter dot. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No bursting flash, no giant eye staring out of the lens, no straps or memory cards, no snapshot action."
+}
