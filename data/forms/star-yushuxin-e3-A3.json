@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-19",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ],
+  "ip": "star-yushuxin-e3",
+  "n": 3,
+  "species": "兰花",
+  "title": "兰花就是身体，花心长出一块无字的圆牌",
+  "axes": {
+    "archetype": "物件生物，兰花身，花心是圆牌",
+    "silhouette": "一朵更收的短兰花坐着，花心是一块微凸的空白圆牌",
+    "mark": "头 · 花心那块无字圆牌长在蕊上，不是挂件，牌上什么都没有",
+    "face": "两粒半垂小黑豆眼贴在圆牌上方的瓣根，极小嘴，视线平视",
+    "emotion": "内收温和，牌子先空着",
+    "fusion": "物件长进身体：无字圆牌就是花心，拿掉这块牌角色就不成立",
+    "material": "主体雾绿短绒，只有花心圆牌是哑光陶瓷",
+    "palette": "雾绿配奶油白牌"
+  },
+  "head": "头就是收着的花冠，扁圆，花心的陶瓷牌微微隆起",
+  "combo": "收着的短兰花全身 + 花心无字陶瓷圆牌 + 瓣根半垂小眼 + 雾绿对奶油白",
+  "odd": "身份牌长在花心里却是空白的；软绒花身只有这块牌是硬陶瓷，不做挂绳铭牌",
+  "why": "你和本我，走同一段轨迹。牌子先空着，花还是花，不必先被写成一句。",
+  "spec": {
+    "proportion": "坐着全高约一头两，花冠扁，圆牌直径约占头宽的一半，短足隐在叶托下",
+    "outline": "一朵收着的扁花坐着，正中一块微凸的空白圆牌",
+    "volume": "大：花冠和叶托；中：陶瓷圆牌；小：五官和短足",
+    "face": "眼在圆牌上方瓣根处，半垂，眼距约一个眼宽，牌上无字",
+    "stance": "叶托坐下，短足稳住，花不盛放，牌不悬挂晃动",
+    "structure": "绒花冠和陶瓷圆牌长在一起，牌就是花心，不是用绳子挂上的铭牌，也不是奖章"
+  },
+  "toy_check": "坐得住：叶托着地。物件长进去：圆牌就是花心。特殊材质只有哑光陶瓷。新组合：空白圆牌长在花心。不像绘本。头像需切到牌。做得成。姿态：坐下，不是颁奖。",
+  "crop": "记忆点在花心无字圆牌，头像需切到牌。",
+  "collide": "不同于戴铭牌的花精灵或颁奖胸针：牌就是花心且无字，花就是身体，脸收着。",
+  "pose": "叶托坐下，牌不晃",
+  "zh": "原创潮玩角色，一只雾绿短绒圆核和一朵收着的短兰花长在一起：花心那块无字圆牌是它身体的一部分，拿掉牌角色就不成立。花冠扁而收，并不盛放，正中微微隆起一块奶油白的哑光陶瓷圆牌，牌上没有任何文字或字母。半垂小黑豆眼贴在圆牌上方的瓣根，极小一字嘴，视线平视。叶托坐下，下面两点短钝足稳住。主体是雾绿短绒，只有花心圆牌是哑光陶瓷。单个角色完整全身，正面略侧，坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要牌上的文字字母，不要挂绳铭牌，不要奖章，不要盛放花束。",
+  "enp": "Original designer toy character: a mist-green plush rounded core fused with a gathered short orchid — a blank round disc grows as the flower heart, without the disc the character does not exist. The blossom is flat and held in, not in full bloom. At the center a cream matte-ceramic disc rises slightly, with no letters or words on it. Half-lidded tiny black bean eyes sit at the petal base above the disc, a tiny straight mouth, gaze level. The leaf base sits down, two short blunt feet holding it steady. Body is mist-green plush; only the heart disc is matte ceramic. Single character, full body, slight three-quarter front view, sitting on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No letters or words on the disc, no hanging name tags, no medals, no bouquet in full bloom."
+}

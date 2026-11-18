@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-19",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ],
+  "ip": "star-yushuxin-e2",
+  "n": 2,
+  "species": "石榴包",
+  "title": "手提包就是身体，包口没拉上，带子垂着坐下",
+  "axes": {
+    "archetype": "物件生物，包身",
+    "silhouette": "一只圆鼓鼓的短手提包坐下，包口微开，两条带子摊在两侧",
+    "mark": "身 · 整只身体就是一只圆包，包口没有拉上冲出去，带子变成短臂垂着",
+    "face": "半垂小黑豆眼贴在包口下方的包面上，极小嘴，视线略向下",
+    "emotion": "内收，坐下歇住，像这一步先不算完",
+    "fusion": "物件就是身体：手提包就是它的头和身体，拿掉包就没有角色",
+    "material": "主体奶油短绒，只有包口一圈是亮漆皮革",
+    "palette": "奶油配石榴红包口"
+  },
+  "head": "头就是包口下方那一团，圆而鼓，几乎没有颈",
+  "combo": "圆鼓手提包全身 + 微开的漆皮包口和垂下的带子 + 包面半垂小眼 + 奶油对石榴红",
+  "odd": "包坐下而且带子不当提手使用；软绒包身只有口沿是硬亮漆，包口开着却不往外倒东西",
+  "why": "慢一步，也可以说我耍赖了。包口还开着，先坐下，不急着把这一步拉上定死。",
+  "spec": {
+    "proportion": "坐下全高约一头两，包身滚圆，口沿约占头宽，带子垂到身体两侧中段",
+    "outline": "一只圆鼓包坐着，顶上一圈微开的口，两侧各一条短带垂下",
+    "volume": "大：圆包身；中：漆皮口沿和带子；小：脸上的小五官",
+    "face": "眼在口沿下方，半垂，眼距约一个眼宽，不从包口里探出第二张脸",
+    "stance": "圆底坐稳，带子摊在两侧像放下的短臂，不站起来赶路，不把包提起",
+    "structure": "绒包身和亮漆口沿长在一起，带子是身体长出的部分，不是角色手里提的包，包内不露出杂物"
+  },
+  "toy_check": "坐得住：圆底着地。物件长进去：包就是身体。特殊材质只有漆皮口沿。新组合：坐下的开口腔包，带子垂着。不像绘本。头像需切到口沿。做得成。姿态：坐下，不是立正提包。",
+  "crop": "记忆点在微开的漆皮口沿，头像需切到口。",
+  "collide": "不同于手里提小包或头上顶包的动物：包就是身体，坐下歇着，不做逛街场景。",
+  "pose": "坐下，带子垂着",
+  "zh": "原创潮玩角色，一只奶油短绒圆核和一只短手提包长在一起：这只包就是它的头和身体，拿掉包就没有角色。身体圆鼓鼓地坐下，顶部一圈包口微微开着却不往外倒东西，两条短带子摊在两侧像放下的手臂。半垂小黑豆眼贴在包口下方的包面上，极小一字嘴，视线略向下。圆底坐稳，不站起来赶路。主体是奶油短绒，只有包口一圈是亮漆皮革，口沿是石榴红色。单个角色完整全身，正面略侧，坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要从包里倒出物品，不要五金链和品牌扣，不要站着赶路，不要购物场景。",
+  "enp": "Original designer toy character: a cream plush rounded core fused with a short handbag — the bag is the head and body, without it there is no character. A plump round body sits down, the top opening slightly ajar but nothing spilling out, two short straps resting at the sides like lowered arms. Half-lidded tiny black bean eyes sit on the bag face below the opening, a tiny straight mouth, gaze slightly downward. The round base sits steadily, not standing up to rush. Body is cream plush; only the opening rim is patent leather in pomegranate red. Single character, full body, slight three-quarter front view, sitting on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No items spilling from the bag, no hardware chains or brand clasps, no rushing while standing, no shopping scene."
+}

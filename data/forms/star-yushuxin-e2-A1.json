@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-19",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ],
+  "ip": "star-yushuxin-e2",
+  "n": 1,
+  "species": "硬币",
+  "title": "硬币就是身体，立在边缘上，正反还未落下",
+  "axes": {
+    "archetype": "物件生物，硬币身",
+    "silhouette": "一枚很厚的短硬币侧立着，左右两点短足，顶缘微平",
+    "mark": "身 · 整只身体就是一枚侧立的厚硬币，还停在边缘上，没有倒向任何一面",
+    "face": "半垂小黑豆眼贴在侧立的圆面上，极小嘴，视线落在尚未倒向的那一侧",
+    "emotion": "内收，停住，像结果刚要出来又被轻轻收回",
+    "fusion": "物件就是身体：厚硬币就是它的头和身体，拿掉硬币就没有角色",
+    "material": "主体暖褐短绒，只有外缘一圈是镀镍金属",
+    "palette": "暖褐配镍银"
+  },
+  "head": "头就是上半圆面，几乎没有颈，圆面直接连到立着的厚身",
+  "combo": "侧立厚硬币全身 + 未倒下的边缘和镀镍圈 + 圆面半垂小眼 + 暖褐对镍银",
+  "odd": "硬币不躺平也不在旋转，只是厚厚地立住；软绒身体只有外缘是硬金属，面上没有数字或字",
+  "why": "慢一步，也可以说我耍赖了。结果还立在边缘上，先不算完，不是赌徒的翻盘。",
+  "spec": {
+    "proportion": "侧立全高约一头半，币厚约占头宽的三分之二，短足约占全高 12%",
+    "outline": "一枚很厚的圆片侧立，顶缘平，底有两点短足",
+    "volume": "大：厚圆身；中：镀镍外缘；小：脸上的小五官和短足",
+    "face": "眼在朝前的圆面上偏上，半垂，眼距约一个眼宽，面上无文字无数字",
+    "stance": "两点短足把侧立的币身稳住，不滚动，不抛向空中，不倒向正面或背面",
+    "structure": "绒芯和镀镍外缘长在一起，整枚币就是身体，不是手里把玩的硬币，也不是桌上的赌注堆"
+  },
+  "toy_check": "站得住：侧立有短足。物件长进去：硬币就是身体。特殊材质只有镍缘。新组合：停在边缘的厚币，面上无字。不像绘本。头像需切到外缘。做得成。姿态：侧立停住，不是滚动。",
+  "crop": "记忆点在侧立的厚缘，头像需切到镍圈。",
+  "collide": "不同于手里抛硬币或头上顶金币的动物：硬币就是身体，停着不倒，脸上没有字，不做赌场。",
+  "pose": "侧立停住，不倒下",
+  "zh": "原创潮玩角色，一只暖褐短绒圆核和一枚很厚的硬币长在一起：这枚硬币就是它的头和身体，拿掉硬币就没有角色。身体是侧立的厚圆片，顶缘微平，底下两点短钝足把它稳住，没有倒向任何一面。朝前的圆面上没有文字也没有数字，半垂小黑豆眼贴在偏上的位置，极小一字嘴，视线落在尚未倒下的那一侧。主体是暖褐短绒，只有外缘一圈是镀镍金属。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要抛掷，不要旋转虚影，不要正反面的文字数字，不要筹码堆或赌场。",
+  "enp": "Original designer toy character: a warm-brown plush rounded core fused with a very thick coin — the coin is the head and body, without it there is no character. A thick disc stands on its edge, the top rim slightly flat, two short blunt feet holding it still, not falling to either face. The front face has no letters or numbers. Half-lidded tiny black bean eyes sit high on the face, a tiny straight mouth, gaze resting toward the side that has not fallen yet. Body is warm-brown plush; only the outer rim is nickel-plated metal. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No tossing, no spinning motion blur, no text or numbers on the faces, no chip stacks or casino setting."
+}
