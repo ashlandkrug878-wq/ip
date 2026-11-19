@@ -22,8 +22,8 @@
   ],
   "tier": "standard",
   "status": "partial",
-  "cutoff_date": "2026-11-18",
-  "updated": "2026-11-18",
+  "cutoff_date": "2026-11-19",
+  "updated": "2026-11-19",
   "summary": "森林日常由被窝、衣装、手作与群像分工落到产品；官方功能证据清楚，近期讨论可核，规模与增长因果未知。",
   "owner": {
     "creator": null,
@@ -441,9 +441,18 @@
         "K02",
         "M01"
       ]
+    },
+    {
+      "claim": "群像成员偏好可能同时推动收藏和阻碍盲抽购买",
+      "type": "inference",
+      "evidence": "AH02单条购买者评价描述偏好、随机风险及自述购买后的满意；并非订单审计",
+      "boundary": "店铺首页动态展示的日本单例，不能推中国整体需求、两件销量或实际复购，更不能归因于特定设计",
+      "sources": [
+        "AH02"
+      ]
     }
   ],
-  "counterexamples": "一条独立线程同时有成员偏好和眼熟意见；作者合作说法后来说明是听闻，不用其消除所有争议。未找到已核失败SKU/退坑调查；未找到不等于不存在。 11/3补充：第三方历史发售追踪标背包Cancelled，官方详情仍可读；没有直接官方取消公告，不把此认定为停售或失败。 11/8发现TikTok Shop用户瑕疵/不愿退货的搜索摘要，但正文Security Check，日期与订单未核；仅待验证反例，不算已确认瑕疵或新增直接用户样本（K09）。",
+  "counterexamples": "一条独立线程同时有成员偏好和眼熟意见；作者合作说法后来说明是听闻，不用其消除所有争议。未找到已核失败SKU/退坑调查；未找到不等于不存在。 11/3补充：第三方历史发售追踪标背包Cancelled，官方详情仍可读；没有直接官方取消公告，不把此认定为停售或失败。 11/8发现TikTok Shop用户瑕疵/不愿退货的搜索摘要，但正文Security Check，日期与订单未核；仅待验证反例，不算已确认瑕疵或新增直接用户样本（K09）。；11/19新增AH02：喜爱系列也会被不喜欢的随机角色阻碍购买；自述购买后满意不消除盲抽风险，单例不能推总体。",
   "theory": {
     "shell": "圆润复古动物脸＋物种轮廓＋家族眼部语言",
     "core": "官方友情与勇气设定；不同成员的日常分工",
@@ -469,7 +478,8 @@
     "11/2品牌供稿与官方发布属同一品牌证据家族，不作为独立需求；自然人作者和完整版权链仍未知。",
     "11/18浏览器返回Unknown tool(browser.js)，小红书两组未执行、实读0页；未新增独立用户样本。",
     "V39/V40为英文V04+旧V2双图编辑，未过；V40鼻亮点/高光/缝线改善，但新增纽扣底片，额脸、嘴形、比例与渐层仍偏离。旧V2仅有限身份近似，不证明纯文字/中文/稳定性，不进3D或毛绒。",
-    "11/17报道增加互动场景文字；未开图或播放视频，稿源/商业合作性质未核，独立到访、人数、订单、销售与因果仍未知。"
+    "11/17报道增加互动场景文字；未开图或播放视频，稿源/商业合作性质未核，独立到访、人数、订单、销售与因果仍未知。",
+    "2026-11-19：V41/V42均未过，继续同一V04；英文双图编辑依赖V40→V2→V04，不等于单附官方图、纯文字或中文通过。小红书连接Unknown tool，固定两组查询未执行，实读0页。"
   ],
   "sources": [
     {
@@ -2313,22 +2323,101 @@
       "observed": "2026-11-18",
       "access": "partial",
       "note": "实读10/28批准的DURIDU情绪妖精群像介绍及11/27—29 DDP参展计划。30天内、非本周新文，站头不作发表日，无独立需求/销售，图片未开。"
+    },
+    {
+      "id": "AH01",
+      "title": "官方见面会主帖正文复核",
+      "url": "https://www.sina.cn/news/detail/5364007042288159.html",
+      "publisher": "www.sina.cn",
+      "published": "2026-11-11",
+      "observed": "2026-11-19",
+      "event_date": [
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "access": "partial",
+      "notes": "实读认证品牌主帖：11/13—15及11/20—22于静安大悦城北座1F中庭计划见面会；本日不证明实际场次举行或到访/成交。相同品牌供稿不重复算独立需求。图片未打开。"
+    },
+    {
+      "id": "AH02",
+      "title": "日本官方乐天店：新实读购买者评价",
+      "url": "https://www.rakuten.co.jp/pop-mart-japan/",
+      "publisher": "www.rakuten.co.jp",
+      "published": null,
+      "observed": "2026-11-19",
+      "event_date": "2026-11-15",
+      "access": "partial",
+      "notes": "仅取首页展示中明确链接到RiboDiary挂件的一条评价；账号仅显示「購入者」，可见评价日2026/11/15，平台展示订单日2026/11/11。自述先看Instagram喜欢，因不喜欢某些鸟类角色曾犹豫，买两件后获得兔与松鼠，并考虑再买。未核订单、SKU角色身份、复购或曝光转化；购买不是独立审计事实。一条被店铺挑选/动态展示的目的样本，有正向偏差，不代表中国消费者。未新增采集其他两条不同IP评价。当前榜位/集计未查到，不沿用昨日排名作今日值。"
+    },
+    {
+      "id": "AH03",
+      "title": "Nommi集合正文与搜索缓存不一致",
+      "url": "https://gotoptoy.com/ja/collections/nommi/NOMMI",
+      "publisher": "gotoptoy.com",
+      "published": null,
+      "observed": "2026-11-19",
+      "event_date": null,
+      "access": "partial",
+      "notes": "搜索摘要称11/20手机挂饰10USD起，打开正文却为旧Baby Sweetheart等条目，抓取缓存期不一致；不合并成同一SKU/现价，不据此确认中国发售。页面自称TOPTOY合作不证明站点授权、版权买断或MINISO自有。无独立需求。"
+    },
+    {
+      "id": "AH04",
+      "title": "三丽鸥第四周新品官方计划",
+      "url": "https://www.sanrio.co.jp/news/goods/goods-release-202611-week4/",
+      "publisher": "www.sanrio.co.jp",
+      "published": "2026-11-13",
+      "observed": "2026-11-19",
+      "event_date": "2026-11-19",
+      "access": "partial",
+      "notes": "实读11/19新品安排及9:30查看、10:00开售提示；到日期不等于实际售出。已有角色不按换装重复立项；按用户要求跳过小红书。图片未打开。"
+    },
+    {
+      "id": "AH05",
+      "title": "PUPPET SUNSUN媒体先行内览",
+      "url": "https://news.mynavi.jp/article/20261116-5336683/",
+      "publisher": "news.mynavi.jp",
+      "published": "2026-11-16",
+      "observed": "2026-11-19",
+      "event_date": [
+        "2026-11-20",
+        "2026-11-24"
+      ],
+      "access": "partial",
+      "notes": "正文称媒体先行内览，并非一般消费者抽样；11/17更新，东京11/20、大阪11/24及11/18—23预开业均为安排。记者自述体验不能当普通用户需求或现场销量；同IP跨日韩不重复。图片未打开。"
+    },
+    {
+      "id": "AH06",
+      "title": "韩国DURIDU展会预告",
+      "url": "https://ilovecharacter.com/news/newsview.php?ncode=1065577851207753",
+      "publisher": "ilovecharacter.com",
+      "published": "2026-10-28",
+      "observed": "2026-11-19",
+      "event_date": [
+        "2026-11-27",
+        "2026-11-29"
+      ],
+      "access": "partial",
+      "notes": "实读情绪妖精群像和11/27—29 DDP参展计划。30天窗口，非本周新发布；站头日期不是发表日，无独立需求，图片未打开。"
     }
   ],
-  "archive": "research/ribodiary/2026-11-18/index.html",
-  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-18/",
-  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-18/",
+  "archive": "research/ribodiary/2026-11-19/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-19/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-19/",
   "prompt_validation": {
     "status": "partial",
-    "mode": "旧V2英文附图有限身份近似；本日V39/V40英文V04+旧V2双图编辑仍revise",
+    "mode": "旧V2英文附图有限身份近似；本日V41/V42英文V04+V40双图编辑仍revise",
     "scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
     "strict_flat_fill": "not_passed",
     "text_only": "English V10/V11 tested_not_passed",
     "stability": "one_repeat_observed_differences_not_validated",
-    "tests": "research/ribodiary/2026-11-18/prompt-tests.json",
-    "checkpoint": "research/ribodiary/2026-11-18/selection-and-progress.json",
+    "tests": "research/ribodiary/2026-11-19/prompt-tests.json",
+    "checkpoint": "research/ribodiary/2026-11-19/selection-and-progress.json",
     "usable_prior_test": "ribodiary-bearibo-flat-ref-v2",
     "chinese_reference": "V6/V7/V17/V18/V37/V38 tested_not_passed",
-    "reference_latest": "English V39/V40 V04+V2 edit revise; Chinese V37/V38 revise"
+    "reference_latest": "English V41/V42 V04+V40 edit revise; Chinese V37/V38 revise"
   }
 }

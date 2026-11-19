@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-19",
+  "card_validator": "passed",
+  "json": "parsed",
+  "index": "all collection IDs retained including species; build_index unchanged",
+  "new_tests": 42,
+  "new_tests_status": "revise",
+  "new_images": "768 max edge WebP q80 <150KB",
+  "prompt_exact": "actual inputs match failure TXT and archives; original V2 unchanged",
+  "publication": "pending verification; final verification recorded externally",
+  "aesthetic_approval": false
+}
