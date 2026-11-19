@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-20",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ],
+  "ip": "star-chengyi-e3",
+  "n": 1,
+  "species": "保温杯",
+  "title": "保温杯就是身体，盖是闭着的",
+  "axes": {
+    "archetype": "物件生物，保温杯身",
+    "silhouette": "一只短粗保温杯坐着，葱绿杯身，暖白盖闭上，像热度留在里面",
+    "mark": "身 · 整只身体就是一只盖着的短粗保温杯，盖是闭着的，看不见里面",
+    "face": "半垂小黑豆眼贴在杯身上部，极小一字嘴，眼距正常，视线落在闭上的盖沿",
+    "emotion": "内收温和，热度留在盖下，不必外溢",
+    "fusion": "物件就是身体：整只保温杯就是头和身体，拿掉杯子角色就不成立",
+    "material": "主体暖白短绒只在盖顶和短足露出，杯身是葱绿哑光不锈钢",
+    "palette": "暖白配葱绿杯身"
+  },
+  "head": "头就是关上的杯盖，圆盖扣在葱绿杯身上，几乎没有颈",
+  "combo": "葱绿哑光不锈钢杯身 + 闭上的暖白盖 + 半垂眼看着盖沿 + 暖白对葱绿",
+  "odd": "杯是身体，盖却一直闭着，热度不外溢；只有杯身是不锈钢，不做喷出的蒸汽",
+  "why": "我只顾把眼前这一步做好。外壳普通，热度留在盖下。",
+  "spec": {
+    "proportion": "头身一体，全高约一头两的短杯，盖约占全高 25%，短足约占全高 12%，坐下略更矮",
+    "outline": "短粗圆柱杯，圆盖扣紧，腹下短钝足",
+    "volume": "大：葱绿杯身；中：关上的圆盖；小：短足和贴在杯身上的小眼",
+    "face": "眼在杯身上部，半垂，眼距约一个眼宽，视线落在盖沿，不张嘴，盖缝不冒气",
+    "stance": "坐下，杯底两枚短钝足左右分开，盖保持闭合，不举起，不倾倒",
+    "structure": "暖白领核和葱绿哑光不锈钢杯身长在一起，杯就是身体，盖是闭上的头，不是手里拿的杯子，也不做成打开的杯口"
+  },
+  "toy_check": "站得住：坐下，足着地。物件长进去：保温杯就是身体。特殊材质只有不锈钢杯身。新组合：盖闭上、热度不外溢的杯身。不像绘本。头像需切到盖和杯身交接。做得成。姿态：坐下盖着，不是干杯或冒热气。",
+  "crop": "记忆点在葱绿杯身和闭上的盖，头像需切到盖沿。",
+  "collide": "不同于手持保温杯的动物或打开的水杯：杯就是身体，盖是闭的，脸收着，不做蒸汽。",
+  "pose": "坐下，盖闭上，重心落在杯底",
+  "zh": "原创潮玩角色，一只暖白短绒圆核和一只短粗保温杯长在一起：整只杯子就是它的头和身体，拿掉杯子就没有角色。葱绿的杯身是短粗圆柱，暖白圆盖紧紧扣上，看不见里面，腹下两枚短钝足。半垂小黑豆眼贴在杯身上部，极小一字嘴，视线落在闭上的盖沿。身体坐下，盖保持闭合，没有热气喷出。主体短绒只在盖顶和足上露出，只有杯身是葱绿哑光不锈钢。配色是暖白配葱绿杯身。单个角色完整全身，正面略侧，坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要打开的杯口，不要喷出的蒸汽，不要水渍，不要吸管，不要举杯。",
+  "enp": "Original designer toy character: a warm-white plush rounded core fused with a short thick thermos — the flask is the head and body, without it there is no character. A scallion-green short cylindrical body, a warm-white round lid closed tight so the inside cannot be seen, two short blunt feet. Half-lidded tiny black bean eyes sit on the upper flask, a tiny straight mouth, gaze resting on the closed lid rim. The body sits, the lid stays shut, with no steam escaping. Plush shows only on the lid top and feet; only the flask body is scallion-green matte stainless steel. Colors: warm white with a scallion-green flask. Single character, full body, slight three-quarter front view, sitting on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No open mouth of the flask, no escaping steam, no drips, no straw, no toasting pose."
+}

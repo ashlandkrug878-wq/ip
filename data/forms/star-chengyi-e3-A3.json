@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-20",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ],
+  "ip": "star-chengyi-e3",
+  "n": 3,
+  "species": "石阶",
+  "title": "只铺出一阶的短石阶就是下盘",
+  "axes": {
+    "archetype": "物件生物，一阶石阶下盘",
+    "silhouette": "浅苔绿的圆核只踏出半步，停在一截短灰褐石阶上，石阶就是它的下半身",
+    "mark": "身 · 下半身就是一截只铺出一阶的短石阶，没有第二级，人也只停在这一阶",
+    "face": "半垂小黑豆眼，视线落在脚前这一阶，极小一字嘴，眼距正常",
+    "emotion": "内收，只顾眼前这一阶，不再往前铺",
+    "fusion": "物件就是身体的下半：短石阶成为下盘和坐下的结构，拿掉石阶角色就站不住也不成立",
+    "material": "主体浅苔绿短绒，只有石阶是哑光灰褐青石",
+    "palette": "浅苔绿配灰褐石"
+  },
+  "head": "头是横宽扁圆的绒核，几乎直接坐进那一阶里，颈很短",
+  "combo": "只铺一阶的灰褐青石下盘 + 浅苔绿圆核停在这一阶 + 半垂眼看脚前 + 浅苔绿对灰褐",
+  "odd": "路只铺出一阶，角色就停在这里；只有这一阶是石头，不做成长长的台阶或登顶",
+  "why": "我只顾把眼前这一步做好。路只铺到脚前，这一阶已经够了。",
+  "spec": {
+    "proportion": "头高约占全高 40%，石阶高约占全高 35%、长约占全高 70%，露出的上身约占全高 50%",
+    "outline": "扁圆的上身坐进一截短石阶，侧面看是圆核加一块单级台阶",
+    "volume": "大：这一截短石阶；中：扁圆绒核；小：停在阶上的短钝足",
+    "face": "眼在扁圆头中部，半垂，眼距约一个眼宽，视线落在脚前的阶面，不张嘴",
+    "stance": "只踏出半步，停在这一阶上，没有第二级，也不抬腿再走",
+    "structure": "浅苔绿绒上身和一截哑光灰褐青石阶长在一起，石阶就是下盘，只有一级，不是脚下的底座配件，也不是长阶梯"
+  },
+  "toy_check": "站得住：坐进石阶，足停在阶面。物件长进去：石阶就是下盘。特殊材质只有青石。新组合：只铺一阶就停下。不像绘本。头像需切到石阶上沿。做得成。姿态：半步停下，不是登顶或赶路。",
+  "crop": "记忆点在只有一级的短石阶，头像需切到阶沿。",
+  "collide": "不同于走在台阶上的小人或长长的登云梯：石阶就是下半身，只有一级，脸看着眼前，不做攀登。",
+  "pose": "只踏出半步，停在这一阶上",
+  "zh": "原创潮玩角色，一只浅苔绿短绒圆核和一截只铺出一阶的短石阶长在一起：石阶成为它的下盘和下半身，拿掉石阶角色就站不住。横宽扁圆的头和短上身坐进这一阶里，阶面只有一级，没有第二级。半垂小黑豆眼贴在头的中部，极小一字嘴，视线落在脚前的阶面。两枚短钝足只踏出半步，已经停在这一阶上，不再往前。主体是浅苔绿短绒，只有石阶是哑光灰褐青石。配色是浅苔绿配灰褐石。单个角色完整全身，正面略侧，停在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要长阶梯，不要登顶，不要第二级，不要赶路，不要山峰。",
+  "enp": "Original designer toy character: a pale moss-green plush rounded core fused with a short stone step that only extends one tread — the step is the lower body and base, without it the character cannot stand. A wide flat-round head and short upper body sit into this single step, with no second tread. Half-lidded tiny black bean eyes sit mid-head, a tiny straight mouth, gaze on the tread just in front of the feet. Two short blunt feet have taken only a half step and already stopped on this tread, going no farther. Body is pale moss-green plush; only the step is matte grey-brown bluestone. Colors: pale moss green with grey-brown stone. Single character, full body, slight three-quarter front view, resting on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No long staircase, no summit, no second tread, no hurrying walk, no mountain peak."
+}

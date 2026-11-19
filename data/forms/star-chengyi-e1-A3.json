@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-20",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ],
+  "ip": "star-chengyi-e1",
+  "n": 3,
+  "species": "灯筒",
+  "title": "灯筒就是身体，灯泡位空着",
+  "axes": {
+    "archetype": "物件生物，灯筒身",
+    "silhouette": "一只短粗的灯筒立着，上沿是空着的灯口，下面有短足",
+    "mark": "身 · 整只身体就是一截已经关掉的短粗灯筒，顶上灯口空着，没有灯泡",
+    "face": "平视的小黑豆眼贴在灯筒上沿下方，极小一字嘴，眼距正常",
+    "emotion": "内收，灯口已空，人还在原位",
+    "fusion": "物件就是身体：短粗灯筒就是头和身体，拿掉灯筒就没有角色",
+    "material": "主体浅灰短绒，只有灯筒外壳是哑光炭黑铸铁，关上的小开关是一点葱绿",
+    "palette": "浅灰绒配炭黑灯筒，一点葱绿在关上的开关"
+  },
+  "head": "头就是灯筒上半截，圆口朝上，没有颈，口沿是空的",
+  "combo": "短粗铸铁灯筒全身 + 顶上空着的灯口没有灯泡 + 平视小眼 + 炭黑对浅灰，一点葱绿开关",
+  "odd": "灯筒还在，灯泡已经不在；软绒只在接缝里露出，外壳是铸铁，开关是关上的",
+  "why": "聚光灯关掉，我还是个普通人。发光的那一截已经拿掉，筒还站着。",
+  "spec": {
+    "proportion": "头身一体，灯筒全高约一头两，口沿约占全高 8%，短足约占全高 12%",
+    "outline": "竖直短粗圆筒，顶上圆口空着，腹下短钝足",
+    "volume": "大：圆筒身；中：空着的口沿；小：关上的开关和短足",
+    "face": "眼在上沿下方，平视，眼距约一个眼宽，不张嘴，口内不画灯泡和灯丝",
+    "stance": "两枚短钝足左右分开站稳，略侧，像灯关之后仍在原位，不追光",
+    "structure": "浅灰绒核和哑光铸铁灯筒长在一起，筒就是身体，空灯口是结构的一部分，不是手里拿的灯，开关是关上的一小点"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：灯筒就是身体。特殊材质只有铸铁筒。新组合：空灯口而不发光。不像绘本。头像需切到空沿。做得成。姿态：关灯后站住，不是照明道具。",
+  "crop": "记忆点在空着的灯口，头像需切到口沿。",
+  "collide": "不同于手持灯筒或会亮的手电人：灯筒就是身体，口是空的，脸收着，不做光束。",
+  "pose": "略侧站住，像灯关后仍在原位",
+  "zh": "原创潮玩角色，一只浅灰短绒圆核和一截短粗灯筒长在一起：整截灯筒就是它的头和身体，拿掉灯筒就没有角色。身体是竖直短粗的圆筒，顶上圆口空着，没有灯泡，腹下两枚短钝足。平视小黑豆眼贴在口沿下方，极小一字嘴。侧身有一枚已经关上的小开关，只有这一点是葱绿。双足左右分开站稳，像灯已经关掉后还在原位。主体是浅灰短绒，只有灯筒外壳是哑光炭黑铸铁。配色是浅灰配炭黑，一点葱绿在关上的开关。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要灯泡，不要光束，不要发光，不要舞台灯架，不要电线拖在地上。",
+  "enp": "Original designer toy character: a light-grey plush rounded core fused with a short thick lamp cylinder — the cylinder is the head and body, without it there is no character. A vertical short thick tube, the top socket empty with no bulb, two short blunt feet. Level tiny black bean eyes sit just below the rim, a tiny straight mouth. A small switch on the side is already off, and only that spot is scallion green. Feet planted apart, still in place after the light went out. Body is light-grey plush; only the cylinder shell is matte charcoal cast iron. Colors: light grey with charcoal, a single scallion-green mark on the closed switch. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No bulb, no light beam, no glow, no stage lighting rig, no trailing cords."
+}

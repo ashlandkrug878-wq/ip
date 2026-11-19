@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-20",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ],
+  "ip": "star-chengyi-e2",
+  "n": 3,
+  "species": "路牌",
+  "title": "空白路牌就是身体，字还没写上",
+  "axes": {
+    "archetype": "物件生物，路牌身",
+    "silhouette": "一块圆角竖牌就是身体，牌面空白，下面有短足，像字还没来得及写上",
+    "mark": "身 · 整只身体就是一块空白的圆角搪瓷路牌，牌面上没有任何文字",
+    "face": "没有瞳孔细节的小圆眼轻怔地贴在牌面上部，极小一字嘴，眼距略宽",
+    "emotion": "内收轻怔，这一格空着，人还坐在牌下",
+    "fusion": "物件就是身体：竖着的路牌就是头和身体，拿掉路牌就没有角色",
+    "material": "主体奶油白短绒只在侧沿和短足露出，牌面是奶油白搪瓷，只有牌边是青绿",
+    "palette": "奶油白牌配青绿边"
+  },
+  "head": "头就是牌的上半，圆角竖牌，几乎没有颈，牌面空白",
+  "combo": "圆角竖搪瓷路牌全身 + 牌面完全空白无字 + 轻怔小圆眼 + 奶油白对青绿边",
+  "odd": "路牌成立，却故意一字不写；只有牌是搪瓷，不是写满路名的指示牌",
+  "why": "我准备好了，还是会掉线。牌还在，字这一格空着。",
+  "spec": {
+    "proportion": "头身一体，牌高约占全高 80%，宽约占高的 60%，短足约占全高 15%，坐下时全高更短",
+    "outline": "一块圆角竖牌坐着，下沿接两枚短钝足",
+    "volume": "大：空白牌面；中：青绿牌边；小：短足和脸上的小眼",
+    "face": "眼在牌面上部三分之一，小圆眼无瞳孔细节，眼距约一个半眼宽，轻怔，不张嘴，牌上无文字字母",
+    "stance": "坐下，牌面朝前，两枚短钝足在下沿左右分开，已经停住，不走路",
+    "structure": "绒核和奶油白搪瓷路牌长在一起，牌就是身体，边是青绿，牌面空白，不是手里举的牌子，也不是路旁立杆"
+  },
+  "toy_check": "站得住：坐下，足着地。物件长进去：路牌就是身体。特殊材质只有搪瓷牌。新组合：空白而不写字的路牌身。不像绘本。头像即是空白牌。做得成。姿态：坐下停住，不是指路或赶路。",
+  "crop": "记忆点在空白牌面和青绿边，头像即可认出。",
+  "collide": "不同于举着路牌的动物或写满字的指示牌：牌就是身体，一字不写，脸轻怔，不做交通标志。",
+  "pose": "坐下，牌面朝前，已经停住",
+  "zh": "原创潮玩角色，一只圆核和一块圆角竖路牌长在一起：整块路牌就是它的头和身体，拿掉路牌就没有角色。牌面是空白的奶油白，一圈边是青绿，牌上没有任何文字或字母。没有瞳孔细节的小圆眼轻怔地贴在牌面上部，极小一字嘴。身体坐下，下沿两枚短钝足左右分开，已经停住。主体短绒只在侧沿和足上露出，只有牌是奶油白搪瓷。配色是奶油白配青绿边。单个角色完整全身，正面略侧，坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要牌上的文字字母，不要立杆，不要箭头，不要交通符号，不要走路的姿态。",
+  "enp": "Original designer toy character: a rounded core fused with a vertical rounded-corner road sign — the sign is the head and body, without it there is no character. The face of the sign is blank cream, with a scallion-green border, and no letters or words. Small round eyes with no pupil detail sit in a mild daze on the upper sign, a tiny straight mouth. The body sits, two short blunt feet apart at the lower edge, already still. Plush shows only at the side seams and feet; only the sign is cream enamel. Colors: cream with a scallion-green border. Single character, full body, slight three-quarter front view, sitting on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No letters or words on the sign, no post, no arrows, no traffic symbols, no walking pose."
+}

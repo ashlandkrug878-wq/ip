@@ -129,6 +129,9 @@
     "star-chenglei-e1",
     "star-chenglei-e2",
     "star-chenglei-e3",
+    "star-chengyi-e1",
+    "star-chengyi-e2",
+    "star-chengyi-e3",
     "star-dilireba-e1",
     "star-dilireba-e2",
     "star-dilireba-e3",
@@ -215,6 +218,15 @@
     "star-chenglei-e3-A1",
     "star-chenglei-e3-A2",
     "star-chenglei-e3-A3",
+    "star-chengyi-e1-A1",
+    "star-chengyi-e1-A2",
+    "star-chengyi-e1-A3",
+    "star-chengyi-e2-A1",
+    "star-chengyi-e2-A2",
+    "star-chengyi-e2-A3",
+    "star-chengyi-e3-A1",
+    "star-chengyi-e3-A2",
+    "star-chengyi-e3-A3",
     "star-dilireba-e1-A1",
     "star-dilireba-e1-A2",
     "star-dilireba-e1-A3",
@@ -563,6 +575,7 @@
   "stars": [
     "star-bailu",
     "star-chenglei",
+    "star-chengyi",
     "star-dilireba",
     "star-dongsicheng",
     "star-gaoye",
@@ -584,5 +597,5 @@
     "star-zhaoliying",
     "star-zhaolusi"
   ],
-  "updated": "2026-11-18T23:11:19+00:00"
+  "updated": "2026-11-19T23:15:23+00:00"
 }

@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-20",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ],
+  "ip": "star-chengyi-e1",
+  "n": 2,
+  "species": "遮光帘",
+  "title": "厚帘就是披风，把光挡在外面",
+  "axes": {
+    "archetype": "物件生物，遮光帘披风",
+    "silhouette": "圆核坐着，一条厚帘从肩后垂下，把外形收成一口扣上的帘",
+    "mark": "身 · 整条厚遮光帘从肩背长出，垂到地面，成为披风和外轮廓",
+    "face": "轻轻闭成细缝的小眼，极小的嘴，眼距略宽，视线落下",
+    "emotion": "内收，光已经被挡在帘外，人坐着收回来",
+    "fusion": "物件是披风：厚帘从肩背长出并成为外轮廓，拿掉帘角色的外形就不成立",
+    "material": "主体米白短绒，只有帘是炭黑厚毡",
+    "palette": "米白配炭黑帘"
+  },
+  "head": "头是横宽扁圆的绒核，帘从后脑和肩背连着长出，不是别上的布",
+  "combo": "炭黑厚毡帘成为披风和外轮廓 + 米白圆核坐着 + 细缝眼视线落下 + 米白对炭黑",
+  "odd": "帘已经把光挡住，里面却只是一只安静坐下的圆核；只有帘是厚毡",
+  "why": "聚光灯关掉，我还是个普通人。光被挡在外面，人坐回自己。",
+  "spec": {
+    "proportion": "头高约占全高 40%，坐高约一头半，帘长垂到地面，约占全高 70%",
+    "outline": "坐着的圆核加一条垂地的厚帘，侧面看像一口扣上的帘窗",
+    "volume": "大：垂地的帘；中：圆核头身；小：从帘下露出的短钝足",
+    "face": "眼在扁圆头中部，细缝微闭，眼距约一个半眼宽，视线落下，不张嘴",
+    "stance": "坐下，帘披在肩后垂到地面，两枚短钝足从帘下露出，不站立走秀",
+    "structure": "米白绒身体和炭黑厚毡帘长在一起，帘从肩背长出，不是披上的配件，也不是挂帘的杆"
+  },
+  "toy_check": "站得住：坐稳，足从帘下露出。物件长进去：帘就是披风和轮廓。特殊材质只有厚毡帘。新组合：挡光而不发光。不像绘本。头像需切到肩上的帘。做得成。姿态：坐下收回，不是立正开帘。",
+  "crop": "记忆点在肩背垂下的厚帘，头像需切到帘的起端。",
+  "collide": "不同于披着毯子的小人或窗边挂帘：帘从身体长出并成为轮廓，脸收着，不做开幕。",
+  "pose": "坐下，帘垂着，重心落在髋",
+  "zh": "原创潮玩角色，一只米白短绒圆核和一条厚遮光帘长在一起：帘从肩背长出，成为披风和外轮廓，拿掉帘角色的外形就不成立。横宽扁圆的头，身体坐下，帘垂到地面，两枚短钝足从帘下露出。轻轻闭成细缝的小眼，极小的嘴，视线落下。主体是米白短绒，只有帘是炭黑厚毡。配色是米白配炭黑帘。单个角色完整全身，正面略侧，坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要拉开的舞台幕，不要发光，不要挂帘杆，不要走秀披风。",
+  "enp": "Original designer toy character: a warm-white plush rounded core fused with a heavy blackout curtain — the curtain grows from the shoulders and back as a cloak and outer silhouette, without it the character's shape does not exist. A wide flat-round head, the body sits, the curtain hangs to the ground, two short blunt feet peek from under the hem. Eyes closed to thin slits, a tiny mouth, gaze lowered. Body is warm-white plush; only the curtain is charcoal felt. Colors: warm white with a charcoal curtain. Single character, full body, slight three-quarter front view, sitting on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No opening stage curtain, no glowing light, no curtain rod, no runway cape."
+}

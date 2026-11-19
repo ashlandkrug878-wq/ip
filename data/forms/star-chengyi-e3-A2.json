@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-20",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "记忆点被画成普通道具或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一团，主物件不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "细节过多或结构含糊"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉主物件后无法识别"
+    ]
+  ],
+  "ip": "star-chengyi-e3",
+  "n": 2,
+  "species": "盖碗",
+  "title": "盖碗就是头，双手收着扣住盖",
+  "axes": {
+    "archetype": "物件生物，盖碗头",
+    "silhouette": "一只青瓷盖碗成为头，琥珀茶金的短绒身把双手收在碗沿，盖扣着",
+    "mark": "头 · 整只头就是一只扣着盖的青瓷盖碗，盖纽很小，看不见茶",
+    "face": "眯成线的小眼贴在碗壁中部，极小的嘴，眼距正常，视线落在自己扣着的盖上",
+    "emotion": "内收，一次只热这一碗，盖不必揭开",
+    "fusion": "物件就是头：盖碗就是它的头，拿掉盖碗角色就不成立",
+    "material": "主体琥珀茶金短绒，只有盖碗是青瓷釉",
+    "palette": "琥珀茶金配青瓷"
+  },
+  "head": "头就是一只略扁的盖碗，碗沿扣在短颈上，盖在正中，纽很小",
+  "combo": "青瓷釉盖碗头 + 盖扣着看不见茶 + 眯缝眼看着盖 + 双手内收扣在碗沿 + 琥珀茶金对青瓷",
+  "odd": "头是盖碗，双手却收着帮忙扣住盖，而不是揭开；只有碗是青瓷，不做溢出的茶",
+  "why": "我只顾把眼前这一步做好。这一碗热着就够了，盖不必打开。",
+  "spec": {
+    "proportion": "头高约占全高 48%，盖碗宽大于身宽，短身约占全高 40%，内收的短臂约占头宽的 40%",
+    "outline": "上宽的盖碗头，短圆身，双臂收在胸前扣住碗沿",
+    "volume": "大：盖碗头；中：内收的短臂和短身；小：盖纽和短足",
+    "face": "眼在碗壁中部，眯成线，眼距约一个眼宽，视线落在盖上，不张嘴，盖不揭开",
+    "stance": "站住或微坐，双手内收扣在碗沿，像把盖按住，不是揭盖，也不是端茶",
+    "structure": "琥珀茶金绒身体和青瓷釉盖碗长在一起，碗就是头，盖是头部结构，双手是短绒臂收着扣住碗沿，不是端着的茶具，碗里不画出茶汤"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：盖碗就是头。特殊材质只有青瓷碗。新组合：双手扣盖而不揭开。不像绘本。头像即是盖碗。做得成。姿态：双臂内收扣盖，不是端茶敬茶。",
+  "crop": "记忆点在头部的盖碗和扣着盖的短臂，头像需切到碗沿。",
+  "collide": "不同于手里端盖碗的茶人偶：盖碗就是头，手在扣盖不是端茶，脸眯着，不做茶席。",
+  "pose": "双臂内收扣住盖沿，站住",
+  "zh": "原创潮玩角色，一只琥珀茶金短绒圆核和一只青瓷盖碗长在一起：整只盖碗就是它的头，拿掉盖碗就没有角色。略扁的碗扣在短颈上，盖在正中轻轻盖着，纽很小，看不见里面的茶。眯成线的小眼贴在碗壁中部，极小的嘴，视线落在盖上。短圆身，两枚短钝足站住，两只短绒臂收在胸前，手是粗短圆钝的，扣住碗沿，像把盖按住，并不揭开。主体是琥珀茶金短绒，只有盖碗是青瓷釉。配色是琥珀茶金配青瓷。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要揭开的盖，不要溢出的茶，不要茶席，不要端杯，不要细长手指。",
+  "enp": "Original designer toy character: an amber-tea-gold plush rounded core fused with a celadon gaiwan — the lidded bowl is the head, without it there is no character. A slightly flattened bowl sits on a short neck, the lid closed in the center with a tiny knob, the tea inside not visible. Eyes narrowed to lines on the mid-bowl, a tiny mouth, gaze on the lid. A short round body, two short blunt feet planted, two short plush arms held in at the chest, hands thick, short and rounded, resting on the rim as if keeping the lid down, not lifting it. Body is amber-tea-gold plush; only the gaiwan is celadon glaze. Colors: amber tea gold with celadon. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No lifted lid, no spilled tea, no tea table, no offering cup, no thin long fingers."
+}
