@@ -22,8 +22,8 @@
   ],
   "tier": "standard",
   "status": "partial",
-  "cutoff_date": "2026-11-19",
-  "updated": "2026-11-19",
+  "cutoff_date": "2026-11-20",
+  "updated": "2026-11-20",
   "summary": "森林日常由被窝、衣装、手作与群像分工落到产品；官方功能证据清楚，近期讨论可核，规模与增长因果未知。",
   "owner": {
     "creator": null,
@@ -450,6 +450,15 @@
       "sources": [
         "AH02"
       ]
+    },
+    {
+      "claim": "节日购买用途与实际使用满意须分开检验",
+      "type": "inference",
+      "evidence": "AI02单条用户自述为圣诞购买但未拆封，现有内容尚不能验证收到后反应",
+      "boundary": "日本店铺首页单例、订单未独立审计；不推送礼占比或用户满意",
+      "sources": [
+        "AI02"
+      ]
     }
   ],
   "counterexamples": "一条独立线程同时有成员偏好和眼熟意见；作者合作说法后来说明是听闻，不用其消除所有争议。未找到已核失败SKU/退坑调查；未找到不等于不存在。 11/3补充：第三方历史发售追踪标背包Cancelled，官方详情仍可读；没有直接官方取消公告，不把此认定为停售或失败。 11/8发现TikTok Shop用户瑕疵/不愿退货的搜索摘要，但正文Security Check，日期与订单未核；仅待验证反例，不算已确认瑕疵或新增直接用户样本（K09）。；11/19新增AH02：喜爱系列也会被不喜欢的随机角色阻碍购买；自述购买后满意不消除盲抽风险，单例不能推总体。",
@@ -479,7 +488,8 @@
     "11/18浏览器返回Unknown tool(browser.js)，小红书两组未执行、实读0页；未新增独立用户样本。",
     "V39/V40为英文V04+旧V2双图编辑，未过；V40鼻亮点/高光/缝线改善，但新增纽扣底片，额脸、嘴形、比例与渐层仍偏离。旧V2仅有限身份近似，不证明纯文字/中文/稳定性，不进3D或毛绒。",
     "11/17报道增加互动场景文字；未开图或播放视频，稿源/商业合作性质未核，独立到访、人数、订单、销售与因果仍未知。",
-    "2026-11-19：V41/V42均未过，继续同一V04；英文双图编辑依赖V40→V2→V04，不等于单附官方图、纯文字或中文通过。小红书连接Unknown tool，固定两组查询未执行，实读0页。"
+    "2026-11-19：V41/V42均未过，继续同一V04；英文双图编辑依赖V40→V2→V04，不等于单附官方图、纯文字或中文通过。小红书连接Unknown tool，固定两组查询未执行，实读0页。",
+    "2026-11-20：仅官方V04输入的V43/V44仍未过额脸、五官、比例及平涂关卡；不换目标。小红书fresh bootstrap Unknown tool，固定两组查询未执行，实读0页。"
   ],
   "sources": [
     {
@@ -2402,22 +2412,123 @@
       ],
       "access": "partial",
       "notes": "实读情绪妖精群像和11/27—29 DDP参展计划。30天窗口，非本周新发布；站头日期不是发表日，无独立需求，图片未打开。"
+    },
+    {
+      "id": "AI01",
+      "title": "品牌人偶见面会计划复核",
+      "url": "https://www.sina.cn/news/detail/5364007042288159.html",
+      "publisher": "www.sina.cn",
+      "published": "2026-11-11",
+      "observed": "2026-11-20",
+      "event_date": [
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "access": "partial",
+      "notes": "认证品牌主帖实读：11/20—22于静安大悦城北座1F中庭的见面会安排。到计划日不等于实际举行或成交；未开海报图，无场次逐图断言。推荐流中其他IP内容不作Ribo用户证据。"
+    },
+    {
+      "id": "AI02",
+      "title": "日本店铺展示新增未拆封评价",
+      "url": "https://www.rakuten.co.jp/pop-mart-japan/",
+      "publisher": "www.rakuten.co.jp",
+      "published": null,
+      "observed": "2026-11-20",
+      "event_date": "2026-11-19",
+      "access": "partial",
+      "notes": "首页明确链接RiboDiary挂件的一条评价：可见11/19、账号仅「購入者」、平台标订单日11/17；自述为圣诞购买，尚未拆封，期待看内容。只支持用途与未使用状态自述，不证明送出/收礼反应、质量满意或订单审计。单条动态展示目的样本，有渠道筛选偏差，不代表中国总体；不把其他IP评价算进来。旧11/15样本保留原采集日，不重复计新样本。当前榜位未核，不沿用旧榜作今日值。"
+    },
+    {
+      "id": "AI03",
+      "title": "Nommi手机挂饰预告正文新可读",
+      "url": "https://gotoptoy.com/ja/collections/nommi/NOMMI",
+      "publisher": "gotoptoy.com",
+      "published": null,
+      "observed": "2026-11-20",
+      "event_date": "2026-11-20",
+      "access": "partial",
+      "notes": "本日正文可见Upcoming/Releasing Nov 20、Gummy Plan Mini Figure Phone Charm Limited Edition、10USD起。与16.99USD起Mini Figures Surprise Bag是不同标题SKU，不合并。修正昨日仅缓存错位的访问状态，不抹去历史。此为站点自述商品计划，不证明实际开售或中国价；站点自称TOPTOY合作，不证明站点授权、版权买断或MINISO自有IP。销量/需求未知。"
+    },
+    {
+      "id": "AI04",
+      "title": "三丽鸥圣诞赠品官方更新",
+      "url": "https://www.sanrio.co.jp/news/shop/mx-xmas-novelty-20261113/",
+      "publisher": "www.sanrio.co.jp",
+      "published": "2026-11-13",
+      "observed": "2026-11-20",
+      "event_date": "2026-11-20",
+      "access": "partial",
+      "notes": "正文标11/20更新维护结束、10:00计划配付；满5500JPY门槛，7种角色。供给/促销规则不是销量或效果。已有角色不因赠品重复立项，三丽鸥小红书按用户要求跳过；图片未打开。"
+    },
+    {
+      "id": "AI05",
+      "title": "PUPPET SUNSUN常设店媒体内览复核",
+      "url": "https://news.mynavi.jp/article/20261116-5336683/",
+      "publisher": "news.mynavi.jp",
+      "published": "2026-11-16",
+      "observed": "2026-11-20",
+      "event_date": [
+        "2026-11-20",
+        "2026-11-24"
+      ],
+      "access": "partial",
+      "notes": "11/17更新；实读媒体先行内览文字与东京11/20、大阪11/24计划。到日期不等于核实开幕/排队/销量，记者自述不等于普通消费者随机样本。日本IP跨韩销售不重复；图片未开。"
+    },
+    {
+      "id": "AI06",
+      "title": "MINITEEN快闪韩国报道",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202611160218",
+      "publisher": "www.bntnews.co.kr",
+      "published": "2026-11-16",
+      "observed": "2026-11-20",
+      "event_date": [
+        "2026-11-20",
+        "2026-11-30"
+      ],
+      "access": "partial",
+      "notes": "实读11/20—30圣水冬季快闪、11/17预约、12类主题周边等计划；图供PLEDIS，媒体供给/宣传不作独立消费者需求。未播放视频、未开图，不把报道当现场观察。"
+    },
+    {
+      "id": "AI07",
+      "title": "MINITEEN官方入场规则",
+      "url": "https://weverse.io/seventeen/notice/40906",
+      "publisher": "weverse.io",
+      "published": null,
+      "observed": "2026-11-20",
+      "event_date": [
+        "2026-11-20",
+        "2026-11-30"
+      ],
+      "access": "partial",
+      "notes": "HYBE官方通知正文可访问：11/20—30、11—21时KST，Square Portal；11/17 11时预约；30分钟停留及QR入场购买规则。发布日期本页未见，填null。仅公开通知，无登录预约、无读取个人账号。与AI06共享活动信源家族，不能充作第二种独立需求。"
+    },
+    {
+      "id": "AI08",
+      "title": "美国手办官方规格复核",
+      "url": "https://www.popmart.com/us/products/9420/ribodiary-forest-gathering-day-series-figures",
+      "publisher": "www.popmart.com",
+      "published": null,
+      "observed": "2026-11-20",
+      "event_date": "2026-10-29",
+      "access": "partial",
+      "notes": "正文实读官方线上10/29/2026 5PM(PST)原文、8—10cm、PVC/Nylon/Polyester/PU。仅此SKU，不套挂件。实时本品价格/库存选项未取得；推荐栏其他商品价不作本品价。图像链接未逐张打开，不增逐图断言。"
     }
   ],
-  "archive": "research/ribodiary/2026-11-19/index.html",
-  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-19/",
-  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-19/",
+  "archive": "research/ribodiary/2026-11-20/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-20/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-20/",
   "prompt_validation": {
     "status": "partial",
-    "mode": "旧V2英文附图有限身份近似；本日V41/V42英文V04+V40双图编辑仍revise",
+    "mode": "旧V2英文附图有限身份近似；本日V43/V44英文仅附官方V04仍revise",
     "scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
     "strict_flat_fill": "not_passed",
     "text_only": "English V10/V11 tested_not_passed",
     "stability": "one_repeat_observed_differences_not_validated",
-    "tests": "research/ribodiary/2026-11-19/prompt-tests.json",
-    "checkpoint": "research/ribodiary/2026-11-19/selection-and-progress.json",
+    "tests": "research/ribodiary/2026-11-20/prompt-tests.json",
+    "checkpoint": "research/ribodiary/2026-11-20/selection-and-progress.json",
     "usable_prior_test": "ribodiary-bearibo-flat-ref-v2",
     "chinese_reference": "V6/V7/V17/V18/V37/V38 tested_not_passed",
-    "reference_latest": "English V41/V42 V04+V40 edit revise; Chinese V37/V38 revise"
+    "reference_latest": "English V43/V44 single V04 revise; Chinese V37/V38 revise"
   }
 }

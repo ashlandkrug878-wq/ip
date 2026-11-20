@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-20",
+  "queries": [
+    "RiboDiary 瑞宝 2026 11月20日 森林 欢聚",
+    "名创优品 TOP TOY Nommi 2026 11月20日",
+    "サンリオ パペットスンスン 2026 11月20日 新商品",
+    "한국 캐릭터 2026 11월20일 팝업",
+    "RiboDiary Forest Gathering Day November 2026 review",
+    "site.weverse.io seventeen SNOW with MINITEEN 2026",
+    "site.sanrio.co.jp 2026 11月20日 オリジナル 新商品"
+  ],
+  "windows": [
+    [
+      "2026-11-14",
+      "2026-11-20"
+    ],
+    [
+      "2026-10-22",
+      "2026-11-20"
+    ]
+  ],
+  "excluded": [
+    "2025/11/21旧年Q3非本轮近期",
+    "8月财报集团数字不移作IP销量",
+    "同通稿多转载/同活动多语种不重复计独立",
+    "韩语介绍日本IP不自动归为韩国原创"
+  ],
+  "xiaohongshu": {
+    "queries": [
+      {
+        "query": "RiboDiary 品牌介绍",
+        "status": "blocked",
+        "executed": false
+      },
+      {
+        "query": "RiboDiary 产品汇总",
+        "status": "blocked",
+        "executed": false
+      }
+    ],
+    "reason": "fresh browser bootstrap Unknown tool(browser.js)，停止依赖，不绕过",
+    "read_pages": 0,
+    "accounts": []
+  },
+  "sanrio_xiaohongshu": "skipped_by_user",
+  "new_user_sample": {
+    "source": "AI02",
+    "count": 1,
+    "visible_account": "購入者",
+    "review_date": "2026-11-19",
+    "platform_order_date": "2026-11-17",
+    "order_verified": false,
+    "sampling": "官方店首页动态展示单条目的样本",
+    "limitation": "未拆封，不能判断品质/满意/收礼结果；日本单例非中国整体"
+  }
+}
