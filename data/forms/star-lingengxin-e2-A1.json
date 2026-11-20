@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-21",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "烤叉被画成手里拿的道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩叉子"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "叉尖画得太锐会疼"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通手臂"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉叉子后无法识别"
+    ]
+  ],
+  "ip": "star-lingengxin-e2",
+  "n": 1,
+  "species": "烤叉",
+  "title": "一条烤叉长成前伸的臂，脸还很淡",
+  "axes": {
+    "archetype": "物件生物，烤叉臂",
+    "silhouette": "短圆身体，一条加长的扁铜叉从右肩长出，明显长过另一侧短臂",
+    "mark": "臂 · 右臂就是一条扁铜烤叉，前伸一截，叉尖圆钝，不穿刺",
+    "face": "平视略睁的小黑豆眼，极小一字嘴，表情淡，不笑不怒",
+    "emotion": "自嘲：手已经伸出去，嘴还很淡",
+    "fusion": "物件长成右臂：扁铜烤叉就是它的一条臂，拿掉叉子角色就不成立",
+    "material": "主体炭黑陶土短绒质感，只有那条叉是圆钝的亮铜",
+    "palette": "炭黑配亮铜，腹前一点暖米"
+  },
+  "head": "头是略扁的短圆，几乎没有颈，和炭黑身连在一起",
+  "combo": "长成右臂的扁铜烤叉 + 圆钝不穿刺的叉尖 + 淡着的平视小眼 + 炭黑对亮铜",
+  "odd": "叉已经伸出去，脸上却像什么都没发生",
+  "why": "手已经伸出去了，嘴还在说无所谓。想赢的那一下落在叉上，脸仍很淡。",
+  "spec": {
+    "proportion": "头约占全高 38%，叉臂前伸约占身宽的 1.2 倍，左臂短钝，足高约占 12%",
+    "outline": "短圆身，右侧重心被一条前伸的扁叉拉开，叉尖圆钝上翘一点点",
+    "volume": "大：短圆身；中：铜叉臂；小：头和短左臂",
+    "face": "眼平视略睁，眼距正常，不张嘴，脸上没有笑或争抢",
+    "stance": "双足站稳，身体微微被叉带着前倾，不是奔跑",
+    "structure": "炭黑陶绒身体和亮铜扁叉长在一起，叉从右肩长出就是手臂，不是握着的工具；叉尖必须圆钝"
+  },
+  "toy_check": "站得住。叉长进身体。特殊材质只有铜叉。新组合：一条臂是烤叉。不像绘本。剪影能看见长叉。做得成。姿态：一臂前探，不是立正。",
+  "crop": "记忆点在侧伸的铜叉臂，头像需带肩叉才完整。",
+  "collide": "不同于手里拿刀叉的厨师公仔：叉就是右臂，尖是钝的，脸淡，不做烹饪场面。",
+  "pose": "一臂前探，微前倾，脚仍在原地",
+  "zh": "原创潮玩角色，一只炭黑、带陶土短绒质感的短圆身，右肩长出一条扁铜烤叉作为它的右臂：拿掉这条叉就没有角色。头是略扁的短圆，几乎没有颈，左臂短钝，腹下两枚短钝足。铜叉前伸，长度约等于身宽的一点二倍，叉尖圆钝，微微上翘，绝不尖锐。平视略睁的小黑豆眼，极小一字嘴，表情淡，不笑不怒。身体微微被叉带着前倾，双足仍站在原地。主体是炭黑陶绒，只有那条叉是圆钝的亮铜，腹前有一小块暖米。配色是炭黑配亮铜，加一点暖米。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要尖锐叉尖，不要穿刺，不要手握工具，不要烧烤场景，不要食物堆，不要争抢表情，不要奖杯。",
+  "enp": "Original designer toy character: a charcoal ceramic-plush short rounded body whose right arm is a flat copper skewer growing from the shoulder — without the skewer there is no character. Slightly flattened round head, almost no neck, a short blunt left arm, two short blunt feet. The copper skewer reaches forward about 1.2 times the body width; the tip is rounded and slightly upturned, never sharp. Slightly open tiny black bean eyes look level, a tiny straight mouth, expression calm, not smiling or angry. The body leans a little with the skewer, feet still planted. Body is charcoal ceramic-plush; only the skewer is blunt bright copper, with a small warm-ivory patch on the belly. Colors: charcoal with bright copper and a warm-ivory accent. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No sharp tines, no piercing, no handheld tool, no barbecue scene, no piles of food, no competitive expression, no trophy."
+}

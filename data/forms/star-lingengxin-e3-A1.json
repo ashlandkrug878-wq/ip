@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-21",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "烤炉被画成头上的锅或身后的灶"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩炉子"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "画成冒火烹饪场面"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通锅脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉炉体后无法识别"
+    ]
+  ],
+  "ip": "star-lingengxin-e3",
+  "n": 1,
+  "species": "烤肉炉",
+  "title": "身子就是烤炉，盖是头，热留在里面",
+  "axes": {
+    "archetype": "物件生物，烤炉身",
+    "silhouette": "圆鼓炉身，一枚微微掀起一线的炉盖扣成头，不冒火",
+    "mark": "身和头 · 整只身体就是一只圆烤炉，炉盖就是头，盖缝只留一线，热在里面",
+    "face": "半垂小黑豆眼贴在炉盖前沿，极小嘴，表情稳，不炫",
+    "emotion": "反差：热留给里面，人不把自己端出去",
+    "fusion": "物件就是身体：圆烤炉就是它的胸腹，炉盖就是头，拿掉炉角色就不成立",
+    "material": "主体暖焦糖短绒，只有炉身和盖是哑光炭黑铸铁",
+    "palette": "焦糖绒配炭黑铸铁，盖缝一线柿红，并不向外喷火"
+  },
+  "head": "头就是微弧的炉盖，盖沿扣到肩，几乎没有颈，前沿只掀起一线",
+  "combo": "圆铸铁烤炉身 + 只掀一线的炉盖头 + 半垂稳着的小眼 + 焦糖对炭黑，缝里一线柿红",
+  "odd": "炉是热的，盖却几乎扣着，并不把自己当成盘里的菜",
+  "why": "梦是他们的，串是我烤的。热留在炉里，人站在炉这一侧。",
+  "spec": {
+    "proportion": "炉身约占全高 55%，盖头约占 30%，短足约占 12%，盖缝只掀起很窄一线",
+    "outline": "下鼓上收的圆炉，两侧短耳状提手是身体的一部分，不是可拆配件",
+    "volume": "大：鼓炉身；中：盖头；小：提手和足",
+    "face": "眼在盖沿前侧，半垂，不张嘴，不画火焰，不画食物",
+    "stance": "短足左右站稳，立定，重心很低",
+    "structure": "焦糖绒核心和炭黑铸铁炉壳长在一起，炉就是身体，不是身前的灶；盖就是头；盖缝一线柿红只表示里面有热，不喷火、不冒烟"
+  },
+  "toy_check": "站得住，重心低。炉就是身体。特殊材质只有铸铁壳。新组合：热在盖缝里的炉人。不像绘本。头像可见炉盖。做得成。姿态：立定稳住。",
+  "crop": "记忆点在炉盖头和鼓炉身，头像即可认出。",
+  "collide": "不同于烤肉店吉祥物或冒火的炉子摆件：炉就是身体，几乎扣着，不冒火，脸收着，不把食物当成头。",
+  "pose": "立定站稳，重心很低",
+  "zh": "原创潮玩角色，一只暖焦糖短绒核心和一只圆烤炉长在一起：整只炉就是它的身体，炉盖就是头，拿掉炉就没有角色。盖沿扣到肩，几乎没有颈，前沿只掀起很窄一线。腹下两枚短钝足，两侧短耳状提手长在炉身上，不是可拆配件。半垂小黑豆眼贴在炉盖前沿，极小一字嘴，表情稳，不笑不炫。盖缝里只有一线柿红，表示热在里面，不喷火，不冒烟，也不画出食物。主体是暖焦糖短绒，只有炉身和盖是哑光炭黑铸铁。配色是焦糖配炭黑，加一线柿红。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要喷火，不要冒烟，不要食物堆，不要把角色画成盘里的肉，不要厨师帽，不要店招，不要品牌。",
+  "enp": "Original designer toy character: a warm caramel plush core fused with a round grill — the grill is the body and the lid is the head, without the grill there is no character. The lid sits down to the shoulders, almost no neck, the front rim lifted only a narrow slit. Two short blunt feet, and short ear-like handles growing from the body, not detachable parts. Half-lidded tiny black bean eyes sit on the front rim of the lid, a tiny straight mouth, expression steady, not showing off. Only a thin persimmon-red line in the lid slit suggests heat inside; no flames, no smoke, no food drawn. Body core is warm caramel plush; only the shell and lid are matte charcoal cast iron. Colors: caramel with charcoal and a thin persimmon slit. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No flames, no smoke, no piles of food, no character plated as meat, no chef hat, no shop sign, no brand names."
+}

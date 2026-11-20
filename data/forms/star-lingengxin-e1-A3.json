@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-21",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "车灯被画成头顶灯具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩圆灯"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "灯还在发光"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉灯罩后无法识别"
+    ]
+  ],
+  "ip": "star-lingengxin-e1",
+  "n": 3,
+  "species": "回程车灯",
+  "title": "头就是回程车灯，里面已经不太亮",
+  "axes": {
+    "archetype": "物件生物，车灯头",
+    "silhouette": "圆钝车灯扣在前倾很浅的短身上，像骑完一段路后停住",
+    "mark": "头 · 整只头就是一枚圆钝车灯，罩里微暗，并不发光",
+    "face": "轻轻闭上一点的小黑豆眼贴在灯罩中部，极小嘴，视线平视",
+    "emotion": "内收，路已经走完，灯不必再亮",
+    "fusion": "物件就是头：圆车灯就是它的头和脸壳，拿掉车灯角色就不成立",
+    "material": "主体青灰短绒，只有灯罩是半透的暗琥珀釉玻璃，内里不亮",
+    "palette": "青灰绒配暗琥珀灯罩，灯圈一圈浅铜"
+  },
+  "head": "头是略扁的圆灯罩，前唇微微探出，几乎没有颈",
+  "combo": "圆钝车灯头 + 罩里微暗不发光 + 轻闭一点的小眼 + 青灰对暗琥珀",
+  "odd": "它是灯，却已经不太亮；路停了，人还坐在灯后面",
+  "why": "旅行停了，不必再点亮一次。名可以轻，灯可以暗，人还在。",
+  "spec": {
+    "proportion": "灯头约占全高 45%，身短圆，足高约占 12%",
+    "outline": "前圆后收的灯形，灯圈一圈浅铜边，腹下短足，可微微坐下",
+    "volume": "大：灯头；中：短身；小：灯圈和足",
+    "face": "眼在灯罩中部，轻轻闭上一点，不张嘴，罩内不画灯丝，不发光",
+    "stance": "短足收回，略坐下靠着，像刚停住，不骑行",
+    "structure": "青灰绒身体和暗琥珀釉玻璃灯罩长在一起，灯就是头，不是戴上的头灯；罩内空着，微暗"
+  },
+  "toy_check": "站得住或坐稳。灯就是头。特殊材质只有釉玻璃罩。新组合：不太亮的回程灯头。不像绘本。头像即是灯。做得成。姿态：略坐下，不是立正。",
+  "crop": "记忆点在头部的车灯罩，头像即可认出。",
+  "collide": "不同于会亮的自行车灯或头灯动物：灯就是头，里面不亮，脸收着，不做骑行。",
+  "pose": "略坐下停住，像路已经走完",
+  "zh": "原创潮玩角色，一只青灰短绒短圆身和一枚圆钝车灯长在一起：整枚车灯就是它的头和脸壳，拿掉车灯就没有角色。灯罩略扁，前唇微微探出，几乎没有颈，短足收回，略坐下停住。罩里空着，微暗，不发光，也没有灯丝。轻轻闭上一点的小黑豆眼贴在灯罩中部，极小一字嘴，视线平视。主体是青灰短绒，只有灯罩是半透的暗琥珀釉玻璃，灯圈一圈浅铜。配色是青灰配暗琥珀，加一圈浅铜。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要发光，不要灯丝，不要骑行，不要车轮场景，不要把灯画成头顶配件，不要公路背景。",
+  "enp": "Original designer toy character: a teal-grey plush short rounded body fused with a blunt round bicycle lamp — the lamp is the head and face shell, without it there is no character. The slightly flattened shade has a soft front lip, almost no neck; short feet tucked, slightly sitting, as if just stopped. The inside of the shade is empty and dim, unlit, with no filament. Slightly closed tiny black bean eyes sit mid-shade, a tiny straight mouth, gaze level. Body is teal-grey plush; only the shade is translucent dark-amber glazed glass, with a pale copper rim. Colors: teal-grey with dark amber and a pale copper ring. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No glowing light, no filament, no cycling, no wheel scene, no lamp worn as a head accessory, no road background."
+}

@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-21",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "车把被画成头上的装饰或手里的车"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩把横杆"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "画成骑行场面"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通臂"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉车把后无法识别"
+    ]
+  ],
+  "ip": "star-lingengxin-e2",
+  "n": 3,
+  "species": "车把铃",
+  "title": "两臂就是车把，头顶一只还没响的铃",
+  "axes": {
+    "archetype": "物件生物，车把臂",
+    "silhouette": "短身张开一对横向的车把臂，头顶一只圆铃，像刚停住还握着",
+    "mark": "臂和顶 · 一对铬钢车把就是它的两臂，圆铃长在头顶，铃锤不动",
+    "face": "平视小黑豆眼，极小嘴，表情淡，铃不挡脸",
+    "emotion": "自嘲：把还握着，铃还没响，人已经站住",
+    "fusion": "物件长成两臂和顶：车把就是手臂，铃就是顶上的结构，拿掉车把角色就不成立",
+    "material": "主体暖黄短绒，只有车把和铃是亮铬钢",
+    "palette": "暖黄绒配亮铬钢，铃顶一点墨绿"
+  },
+  "head": "头是短圆，几乎没有颈，顶上长着一只小圆铃，铃不大于头宽的三分之一",
+  "combo": "横向铬钢车把双臂 + 头顶未响的小圆铃 + 淡着的平视小眼 + 暖黄对铬钢",
+  "odd": "把已经张开，像还要往前，铃却安静地停着",
+  "why": "手已经伸出去了，结果仍很淡。把还在手里，铃不必响。",
+  "spec": {
+    "proportion": "头约占全高 36%，左右车把总宽约为身宽的 2.2 倍，铃很小，足高约占 12%",
+    "outline": "短圆身，双臂平展成车把弧线，把套圆钝，顶铃很小",
+    "volume": "大：张开的车把；中：短身和头；小：顶铃和足",
+    "face": "眼平视，不张嘴，铃在头顶后上方，不盖住眼睛",
+    "stance": "双足站稳，双臂平展如握把，不是骑行，没有车轮",
+    "structure": "暖黄绒身体和铬钢车把长在一起，把就是手臂，不是握着的车；铃从头顶长出，很小，锤是静止的；不出现车轮和车架"
+  },
+  "toy_check": "站得住。车把长进身体。特殊材质只有铬钢把和铃。新组合：双臂是车把、顶上一只未响的铃。不像绘本。剪影能看见横把。做得成。姿态：张臂，不是立正。",
+  "crop": "记忆点在横向车把和头顶小铃，头像需带部分把才完整。",
+  "collide": "不同于自行车吉祥物或铃铛动物：没有车轮，把就是手臂，铃很小且不响，脸淡。",
+  "pose": "双臂平展如握把，脚站在原地",
+  "zh": "原创潮玩角色，一只暖黄短绒短圆身，两臂就是一对横向的铬钢车把：拿掉车把就没有角色。头是短圆，几乎没有颈，头顶后上方长着一只很小的圆铃，铃不大于头宽的三分之一，铃锤静止，不挡脸。把套圆钝，左右总宽约是身宽的两倍多。平视小黑豆眼，极小一字嘴，表情淡。双足站稳，没有车轮，也没有车架，像刚停住还握着把。主体是暖黄短绒，只有车把和铃是亮铬钢，铃顶一点墨绿。配色是暖黄配铬钢，加一点墨绿。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要车轮，不要车架，不要骑行，不要铃响的振动线，不要公路背景，不要运动残影。",
+  "enp": "Original designer toy character: a warm-yellow plush short rounded body whose arms are a pair of horizontal chrome handlebars — without the bars there is no character. Short round head, almost no neck; a very small bell grows from the upper back of the head, no larger than one-third of the head width, clapper still, not covering the face. Bar grips are blunt; the total arm span is a little over twice the body width. Level tiny black bean eyes, a tiny straight mouth, expression calm. Feet planted, no wheels and no frame, as if just stopped still holding the bars. Body is warm-yellow plush; only the bars and bell are bright chrome, with a hint of dark green on the bell cap. Colors: warm yellow with chrome and a dark-green accent. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No wheels, no bicycle frame, no cycling, no vibration lines of a ringing bell, no road background, no motion blur."
+}

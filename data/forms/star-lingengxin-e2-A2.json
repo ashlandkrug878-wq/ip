@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-21",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "按钮被画成头上的帽子或开关墙"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩圆饼"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "按钮画成已完全按到底"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通圆脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉按钮后无法识别"
+    ]
+  ],
+  "ip": "star-lingengxin-e2",
+  "n": 2,
+  "species": "按钮",
+  "title": "头就是圆按钮，按到一半还没到底",
+  "axes": {
+    "archetype": "物件生物，按钮头",
+    "silhouette": "高大的圆按钮扣在矮梯形身上，钮面微微下陷一格，还没有按死",
+    "mark": "头 · 整只头就是一枚圆形按钮，顶面下陷一格，没有文字",
+    "face": "略睁的小黑豆眼贴在钮面下沿，极小嘴，表情淡",
+    "emotion": "自嘲：手指已经按下，结果还空着",
+    "fusion": "物件就是头：圆按钮就是它的头和脸壳，拿掉按钮角色就不成立",
+    "material": "主体墨绿软胶，只有按钮顶面是厚瓷釉白",
+    "palette": "墨绿软胶配瓷釉白钮，下陷边缘一条芥末黄"
+  },
+  "head": "头是厚圆按钮，直径大于身宽，钮面比边缘低一格",
+  "combo": "下陷一格的瓷釉白按钮头 + 没有文字的钮面 + 淡着的略睁小眼 + 墨绿对白",
+  "odd": "它是按钮，却只按到一半，像还没决定要得到什么",
+  "why": "不自觉地想赢，也不知道赢了能干吗。手已经按下去，结果这一格还空着。",
+  "spec": {
+    "proportion": "钮头约占全高 48%，身是矮梯形，足高约占 10%",
+    "outline": "上圆下收，钮面中央浅浅凹一格，身体微微前倾",
+    "volume": "大：按钮头；中：矮身；小：凹边和足",
+    "face": "眼在钮面下沿，略睁，不张嘴，钮面不写字、不画图标",
+    "stance": "短足站稳，整个身子微前倾，像按到一半停住，没有弹起",
+    "structure": "墨绿软胶身体和厚瓷釉白钮面长在一起，钮就是头，不是墙上的开关；下陷只有一格，没有按到底"
+  },
+  "toy_check": "站得住。钮就是头。特殊材质只有瓷釉顶面。新组合：按到一半的按钮头。不像绘本。头像即是大钮。做得成。姿态：微前倾，不是立正。",
+  "crop": "记忆点在头部下陷一格的大按钮，头像即可认出。",
+  "collide": "不同于按键公仔或开关墙摆件：按钮就是头，只下陷一格，脸淡，不做成游戏机。",
+  "pose": "微前倾站住，像按到一半停住",
+  "zh": "原创潮玩角色，一只墨绿软胶矮梯形身和一枚高大圆按钮长在一起：整枚按钮就是它的头和脸壳，拿掉按钮就没有角色。头直径大于身宽，钮面中央比边缘低一格，还没有按到底，钮面没有文字和图标。略睁的小黑豆眼贴在钮面下沿，极小一字嘴，表情淡。身体微微前倾，两枚短钝足站稳，像按到一半停住。主体是墨绿软胶，只有按钮顶面是厚瓷釉白，下陷边缘一条芥末黄。配色是墨绿配瓷釉白，加一点芥末黄。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要把按钮画成墙上的开关，不要按到底，不要文字图标，不要游戏界面，不要发光指示灯，不要弹跳。",
+  "enp": "Original designer toy character: a dark-green soft-rubber trapezoid body fused with a tall round button — the button is the head and face shell, without it there is no character. The head is wider than the body; the button face sits one step lower than its rim, not fully depressed, with no text or icons. Slightly open tiny black bean eyes sit on the lower edge of the face, a tiny straight mouth, expression calm. The body leans slightly forward, two short blunt feet planted, as if paused halfway through a press. Body is dark-green soft rubber; only the button top is thick white glaze, with a mustard-yellow crease. Colors: dark green with glazed white and a mustard edge. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No wall switch, no fully depressed button, no text or icons, no game UI, no indicator light, no bouncing."
+}

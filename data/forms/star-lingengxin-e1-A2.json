@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-21",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "旋钮被画成头上的帽子"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩圆球"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "刻度含糊或字太多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通圆脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉旋钮后无法识别"
+    ]
+  ],
+  "ip": "star-lingengxin-e1",
+  "n": 2,
+  "species": "音量旋钮",
+  "title": "头就是旋钮，刻度已经拧到低位",
+  "axes": {
+    "archetype": "物件生物，旋钮头",
+    "silhouette": "大圆钮扣在短圆柱身上，侧面一条刻度停在偏低的位置",
+    "mark": "头 · 整只头就是一枚圆形音量旋钮，指针停在低位，没有数字文字",
+    "face": "小黑豆眼视线落下，极小嘴，眼距略宽，旋钮帽檐不挡眼",
+    "emotion": "内收，把声音拧低了，人还在",
+    "fusion": "物件就是头：圆旋钮就是它的头和脸壳，拿掉旋钮角色就不成立",
+    "material": "主体雾面青灰橡胶，只有旋钮顶面是拉丝银灰金属",
+    "palette": "青灰橡胶配拉丝银灰，指针一条柿橙"
+  },
+  "head": "头是扁平的大圆钮，直径大于身宽，几乎没有颈",
+  "combo": "扁平大圆旋钮头 + 停在低位的柿橙指针 + 落下的小眼 + 青灰橡胶对拉丝银",
+  "odd": "它是一只会发声的钮，却把自己拧到几乎不出声",
+  "why": "被记住要看得很轻。把音量拧低，人还站在原处。",
+  "spec": {
+    "proportion": "头直径约占全高 50%，身是短圆柱，足高约占 10%",
+    "outline": "上大下收的钮形，侧面一条短指针停在七点钟方向",
+    "volume": "大：旋钮头；中：短圆柱身；小：指针和短足",
+    "face": "眼在钮面下三分之一，视线落下，不张嘴，钮面不写数字和字母",
+    "stance": "短足站稳，微微侧一点头，让指针可见，不旋转动作",
+    "structure": "青灰橡胶身体和拉丝金属钮面长在一起，钮就是头，不是戴上的帽子"
+  },
+  "toy_check": "站得住。钮就是头。特殊材质只有拉丝金属顶面。新组合：拧到低位的旋钮头。不像绘本。头像即是大钮。做得成。姿态：微侧，不是立正呆站。",
+  "crop": "记忆点在头部的大旋钮和低位指针，头像即可认出。",
+  "collide": "不同于音响吉祥物或按钮公仔：旋钮就是头，刻度在低位，脸收着，不做成正在响的音响。",
+  "pose": "微侧头站住，让低位指针可见",
+  "zh": "原创潮玩角色，一只雾面青灰橡胶短圆柱身和一枚扁平大圆旋钮长在一起：整枚旋钮就是它的头和脸壳，拿掉旋钮就没有角色。头直径大于身宽，几乎没有颈，腹下两枚短钝足。钮侧面一条柿橙短指针停在偏低的七点钟位置，钮面没有数字和字母。小黑豆眼贴在钮面下三分之一，视线落下，极小一字嘴。身体微微侧一点，让指针被看见，双足站稳。主体是雾面青灰橡胶，只有旋钮顶面是拉丝银灰金属。配色是青灰配拉丝银，加一条柿橙。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要音响发光，不要音符，不要写着音量数字，不要把旋钮画成帽子，不要旋转动作的残影。",
+  "enp": "Original designer toy character: a matte teal-grey rubber short cylinder fused with a large flat round knob — the knob is the head and face shell, without it there is no character. The head is wider than the body, almost no neck, two short blunt feet. A short persimmon-orange pointer on the knob's side rests at a low seven-o'clock position; no numbers or letters on the face. Tiny black bean eyes sit on the lower third of the knob, gaze lowered, a tiny straight mouth. The body is slightly turned so the pointer is visible, feet planted. Body is matte teal-grey rubber; only the knob top is brushed silver metal. Colors: teal-grey with brushed silver and a persimmon pointer. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No glowing speaker, no musical notes, no volume numbers, no knob worn as a hat, no motion blur of spinning."
+}

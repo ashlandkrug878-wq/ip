@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-21",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "签被画成背后的武器或手里的串"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一撮签"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "签尖过锐或画出食物"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通背"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉背脊签后无法识别"
+    ]
+  ],
+  "ip": "star-lingengxin-e3",
+  "n": 3,
+  "species": "烤签",
+  "title": "一排圆钝烤签从背脊长出，自己不叼串",
+  "axes": {
+    "archetype": "物件生物，背脊签",
+    "silhouette": "横宽短身，一排五根圆钝金属签从背脊斜向上长出，侧站",
+    "mark": "背 · 一排五根圆钝烤签从背脊长出，签上没有食物，前胸是空的",
+    "face": "半垂小黑豆眼，极小嘴，侧脸可见，不叼东西",
+    "emotion": "反差：签已经长好，可以递出去，自己并不站到串上",
+    "fusion": "物件长成背脊：一排烤签就是它的背结构，拿掉签排角色就不成立",
+    "material": "主体焦糖釉陶，只有那排签是圆钝的银白金属",
+    "palette": "焦糖釉配银白签，腹下一圈墨绿"
+  },
+  "head": "头是横宽的短椭圆，几乎没有颈，不比身宽",
+  "combo": "背脊一排五根圆钝银签 + 签上没有食物 + 半垂侧脸小眼 + 焦糖釉对银白",
+  "odd": "它是用来烤肉的签，背上却是空的，像只把工具变成身体",
+  "why": "串是我烤的，梦不是我。把签长在身上，不必把自己串上去。",
+  "spec": {
+    "proportion": "头约占全高 34%，身横宽，签长约占全高 40%，斜向上不超过头顶太多，足高约占 12%",
+    "outline": "横宽扁椭圆，侧站，背上一排平行的钝签如短脊",
+    "volume": "大：横宽身；中：签排；小：头和足",
+    "face": "眼半垂，侧视可见，不张嘴，口中不叼签或食物",
+    "stance": "侧站，双足前后略分开，重心稳住，不是行走",
+    "structure": "焦糖釉陶身体和银白金属签长在一起，签从背脊长出，圆钝不锐，签上不穿食物；不是手持的一串"
+  },
+  "toy_check": "站得住。签长进背脊。特殊材质只有金属签。新组合：空着的背脊烤签。不像绘本。侧剪影能看见签排。做得成。姿态：侧站，不是立正。",
+  "crop": "记忆点在背脊签排，纯正面头像较弱，侧脸或过肩才完整。",
+  "collide": "不同于烧烤串公仔或背上插旗的动物：签是身体的一部分，尖是钝的，没有食物，脸收着。",
+  "pose": "侧站，背脊签斜向上，脚稳住",
+  "zh": "原创潮玩角色，一只焦糖釉陶、横宽短圆的身体，背脊长出一排五根圆钝的银白金属烤签：拿掉这排签就没有角色。头是横宽的短椭圆，几乎没有颈。签斜向上，长度约占全高四成，签尖圆钝，签上没有食物。半垂小黑豆眼，极小一字嘴，侧脸可见，口中不叼东西。身体侧站，两枚短钝足前后略分开，重心稳住。主体是焦糖釉陶，只有那排签是圆钝的银白金属，腹下一圈墨绿。配色是焦糖配银白，加一圈墨绿。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要尖锐签尖，不要穿食物，不要手持一串，不要烧烤烟雾，不要把自己画成肉串，不要武器感的背刺。",
+  "enp": "Original designer toy character: a caramel glazed-ceramic wide short body with a row of five blunt silver-metal skewers growing from the spine — without the row of skewers there is no character. The head is a wide short oval, almost no neck. The skewers angle upward to about 40 percent of the total height, tips rounded, with no food on them. Half-lidded tiny black bean eyes, a tiny straight mouth, visible in three-quarter view, nothing held in the mouth. The body stands in a slight side stance, two short blunt feet set a little apart, weight steady. Body is caramel glaze ceramic; only the skewers are blunt silver metal, with a dark-green band around the belly. Colors: caramel with silver and a dark-green band. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No sharp points, no food on the skewers, no handheld skewer, no grill smoke, no character depicted as meat, no weapon-like back spikes."
+}

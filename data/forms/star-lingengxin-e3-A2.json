@@ -1,0 +1,81 @@
+{
+  "parent": "",
+  "round": "A",
+  "stage": "concept",
+  "source": "grok-star",
+  "render": "concept",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-21",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "价签被画成挂牌或手持菜单"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩卡片"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "写出真实价格或文字过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通方脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉价签后无法识别"
+    ]
+  ],
+  "ip": "star-lingengxin-e3",
+  "n": 2,
+  "species": "菜单价签",
+  "title": "脸壳就是一张价签，数字位空着",
+  "axes": {
+    "archetype": "物件生物，价签脸",
+    "silhouette": "竖向圆角卡片成为整个头脸，下面是短圆身，像微微低头出示",
+    "mark": "头 · 整张脸就是一张竖向圆角价签，中间数字格是空的",
+    "face": "小黑豆眼贴在空格下方，视线微低，极小嘴",
+    "emotion": "反差：把价格亮出来，自己并不上台",
+    "fusion": "物件就是头脸：价签就是它的脸壳，拿掉价签角色就不成立",
+    "material": "主体米卡其棉绒，只有脸壳是层压浅牙菜单板",
+    "palette": "米卡其配浅牙菜单板，边条一条翠绿，空格是暖灰"
+  },
+  "head": "头是竖向圆角卡片，高度大于宽度，几乎没有颈，微微前倾",
+  "combo": "竖向价签脸壳 + 空着的数字格 + 微低的小眼 + 米卡其对翠绿边",
+  "odd": "它是价签，却把数字留空，像只出示规则，不叫卖",
+  "why": "活可以标价，人不必把自己卖成一场梦。把签递出去就好。",
+  "spec": {
+    "proportion": "签脸约占全高 46%，身短圆，足高约占 12%",
+    "outline": "上长下圆，头是竖卡片，身是短圆，微低头",
+    "volume": "大：价签头；中：短身；小：足和边条",
+    "face": "眼在空格下方，视线微低，不张嘴，空格里不写数字字母",
+    "stance": "短足站稳，身子微低头出示，不是鞠躬讨好",
+    "structure": "米卡其棉绒身体和层压菜单板脸壳长在一起，签就是脸，不是手里拿的菜单；空格是暖灰凹面，保持空白"
+  },
+  "toy_check": "站得住。价签就是脸。特殊材质只有层压板。新组合：数字位空着的价签头。不像绘本。头像即是卡片脸。做得成。姿态：微低头，不是立正。",
+  "crop": "记忆点在头部的空格价签，头像即可认出。",
+  "collide": "不同于菜单公仔或超市标签：价签就是脸，数字是空的，脸收着，不做叫卖。",
+  "pose": "微低头站住，像出示一张空白价签",
+  "zh": "原创潮玩角色，一只米卡其棉绒短圆身和一张竖向圆角价签长在一起：整张价签就是它的头和脸壳，拿掉价签就没有角色。头高大于宽，几乎没有颈，中间一块暖灰空格保持空白，不写数字和字母。小黑豆眼贴在空格下方，视线微低，极小一字嘴。身体微微低头，两枚短钝足站稳，像出示，而不是鞠躬。主体是米卡其棉绒，只有脸壳是层压浅牙菜单板，边条一条翠绿。配色是米卡其配浅牙板，加翠绿边和暖灰空格。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要写出价格数字，不要字母，不要手里拿菜单，不要商店货架，不要条形码特写，不要叫卖姿态。",
+  "enp": "Original designer toy character: a beige cotton-plush short rounded body fused with a vertical rounded price tag — the tag is the head and face shell, without it there is no character. The head is taller than it is wide, almost no neck; a warm-grey blank panel in the middle stays empty, with no numbers or letters. Tiny black bean eyes sit below the blank, gaze slightly down, a tiny straight mouth. The body tips the head a little, two short blunt feet planted, as if presenting, not bowing. Body is beige cotton plush; only the face shell is laminated ivory menu board, with an emerald-green edge. Colors: beige with ivory board, emerald edge and a warm-grey blank. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No written prices, no letters, no handheld menu, no shop shelves, no barcode close-up, no hawking pose."
+}
