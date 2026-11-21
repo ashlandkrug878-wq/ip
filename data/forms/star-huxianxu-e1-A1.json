@@ -1,0 +1,78 @@
+{
+  "render": "concept",
+  "source": "grok-star",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-22",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "指针被画成普通装饰针或挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩圆盘，刻度不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "盘面写满数字或细节过多"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉秤后无法识别"
+    ]
+  ],
+  "ip": "star-huxianxu-e1",
+  "n": 1,
+  "species": "校准秤",
+  "title": "秤就是身体，指针停在中格，没有被拧满",
+  "axes": {
+    "archetype": "物件生物，台秤身",
+    "silhouette": "扁秤盘立着，短足分开，一根指针停在刻度中格，像量到能承担的那一档就不再走",
+    "mark": "身 · 整只身体就是一台指针停在中格的台秤，刻度环在胸腹，指针没有拉到头",
+    "face": "半垂小黑豆眼贴在秤盘中下部，极小一字嘴，眼距正常，视线落下",
+    "emotion": "内收，刻度已经停住，不必再亮一档",
+    "fusion": "物件就是身体：扁台秤就是它的胸腹和头盘，拿掉秤角色就不成立",
+    "material": "主体暖沙短绒，只有秤盘和刻度环是硬质米白釉面陶",
+    "palette": "暖沙绒配米白釉面，指针一截用应援色候选 #1677B3"
+  },
+  "head": "上半是微微隆起的圆秤盘，盘沿扣到肩线，几乎没有颈",
+  "combo": "停在中格的扁台秤身 + 没有拉满的蓝指针 + 半垂落下的小眼 + 暖沙对米白釉面",
+  "odd": "秤已经在称，指针却停在中格，像真实接到能承担的那一档就不再被拧",
+  "why": "真实可以要，不必拉到绝对。刻度停住，人还站得稳。",
+  "spec": {
+    "proportion": "头盘约占全高 35%，盘宽略大于头，两枚短钝足约占全高 12%，指针外伸不超过头宽",
+    "outline": "立着的扁圆盘，顶盘微弧，胸腹是秤体和刻度环，腹下短钝足",
+    "volume": "大：秤盘和秤身；中：刻度环；小：短足和那截指针",
+    "face": "眼在秤盘中下部，半垂，眼距约一个眼宽，不张嘴，盘面不写字母、品牌和数字文字",
+    "stance": "两枚短钝足左右分开站稳，微侧，不迈步，不鞠躬",
+    "structure": "暖沙绒核心和米白釉面秤盘长在一起，秤就是身体，不是手里的工具；指针从胸前刻度环长出，是身体的一部分"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：秤就是身体。特殊材质只有釉面陶盘。新组合：指针停在中格的秤人。不像绘本。头像可见秤盘。做得成。姿态：刻度停住，不是称满。",
+  "crop": "记忆点在秤盘头和胸前停住的指针，头像即可认出。",
+  "collide": "不同于会跳动的厨房秤吉祥物或测量工具人：秤就是身体，指针停在中格，脸收着，不做称满或报数。",
+  "pose": "立定微侧，重心稳住，指针停在中格",
+  "zh": "原创潮玩角色，一只暖沙短绒圆核和一台扁圆台秤长在一起：整只秤就是它的身体和头盘，拿掉秤就没有角色。上半是微微隆起的圆秤盘，盘沿扣到肩线，几乎没有颈，腹下两枚短钝足，胸前刻度环上伸出一截指针，停在中格，并不拉到头。半垂小黑豆眼贴在秤盘中下部，极小一字嘴，视线落下。双足左右分开站稳，微微侧过身，像真实已经停在能承担的那一档。主体是暖沙短绒，只有秤盘和刻度环是硬质米白釉面陶，指针是一截蓝。配色是暖沙配米白釉面，加一点蓝。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要把指针拉到满格，不要写成电子屏，不要数字文字，不要把秤当成手里的工具，不要揭开或打碎的盘面，不要发光。",
+  "enp": "Original designer toy character: a warm-sand plush rounded core fused with a flat round platform scale — the scale is the body and disc-head, without it there is no character. The slightly domed disc sits down to the shoulders, almost no neck, two short blunt feet, a short pointer on the chest dial stops at the middle mark and is not pushed to the end. Half-lidded tiny black bean eyes sit on the lower mid-disc, a tiny straight mouth, gaze lowered. Feet planted apart, standing still and slightly turned, as if honesty has stopped at a bearable mark. Body is warm-sand plush; only the disc and dial ring are hard cream enamel; the pointer is a stump of blue. Colors: warm sand with cream enamel and a blue accent. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No pointer pushed to the maximum, no digital screen, no numerals or letters, no handheld scale used as a tool, no cracked or peeled-open disc, no glowing light."
+}

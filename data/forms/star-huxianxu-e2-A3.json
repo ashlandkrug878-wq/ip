@@ -1,0 +1,78 @@
+{
+  "render": "concept",
+  "source": "grok-star",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-22",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "橡皮被画成手里的文具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩长方头，看不出纸身"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "被画成把纸擦穿或满地碎屑"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通粉红脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉橡皮后无法识别"
+    ]
+  ],
+  "ip": "star-huxianxu-e2",
+  "n": 3,
+  "species": "橡皮",
+  "title": "橡皮就是头，底下的纸还在，字只擦掉一截",
+  "axes": {
+    "archetype": "物件生物，橡皮头",
+    "silhouette": "一块圆角长橡皮当头，压在一片还连着的墨灰纸身上，身体微微前倾，纸边没有被擦穿",
+    "mark": "头 · 整只头就是一块圆角长橡皮，底下的纸身还在，只擦掉一小截痕迹",
+    "face": "半垂小黑豆眼，眼距略宽，贴在橡皮中下部，极小一字嘴，视线落下",
+    "emotion": "内收，改掉一截，底下的纸还留着",
+    "fusion": "物件就是头：长橡皮就是它的头，拿掉橡皮角色就不成立；纸是连着的身体，不是身下的垫子",
+    "material": "主体墨灰短绒纸身，只有头是软质浅粉橡皮",
+    "palette": "浅粉橡皮头配墨灰纸身，擦痕一点浅米"
+  },
+  "head": "头就是一块横宽的圆角长橡皮，略宽于肩，几乎没有颈",
+  "combo": "圆角长橡皮头 + 还连着的墨灰纸身 + 一截浅米擦痕 + 宽距半垂小眼",
+  "odd": "头已经在擦，只去掉一截字痕，底下的纸并没有被擦穿",
+  "why": "上一秒可以推翻，地基先留着。改的是这一截，纸还在。",
+  "spec": {
+    "proportion": "橡皮头约占全高 36%，头宽大于肩，纸身扁而稳，两枚短钝足约占全高 12%",
+    "outline": "横宽橡皮头压在扁纸身上，微微前倾，纸的下缘着地成短足",
+    "volume": "大：橡皮头；中：扁纸身；小：短足和一截擦痕",
+    "face": "眼在橡皮中下部，半垂，眼距略宽，不张嘴，橡皮和纸面不写字母和品牌",
+    "stance": "短足分开站稳，身体微微前倾但不迈步，不像正在用力擦",
+    "structure": "墨灰绒纸身和浅粉橡皮头长在一起，橡皮就是头，不是手里的文具；纸是身体，不是垫在下面的一张纸"
+  },
+  "toy_check": "站得住：纸缘短足着地。物件长进去：橡皮就是头，纸就是身体。特殊材质只有浅粉橡皮。新组合：只擦一截、纸还在的橡皮人。不像绘本。头像可见橡皮头。做得成。姿态：微前倾，不是用力擦。",
+  "crop": "记忆点在长橡皮头和肩下还连着的纸，头像即可认出。",
+  "collide": "不同于文具吉祥物或手里拿橡皮的小人：橡皮就是头，纸就是身体，只擦一截，脸收着，不做把纸擦穿。",
+  "pose": "立定微微前倾，擦痕停在一截，纸身还在",
+  "zh": "原创潮玩角色，一片墨灰短绒扁纸身和一块圆角长橡皮长在一起：橡皮就是它的头，纸就是它的身体，拿掉橡皮就没有角色。头是一块略宽于肩的横宽橡皮，几乎没有颈，纸身下缘分成两枚短钝足。半垂小黑豆眼贴在橡皮中下部，眼距略宽，极小一字嘴，视线落下。它站稳，身体微微前倾，只留下一截浅米擦痕，底下的纸没有被擦穿。主体是墨灰短绒，只有头是软质浅粉橡皮。配色是浅粉配墨灰，加一点浅米擦痕。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要把橡皮画成手里的文具，不要把纸擦穿，不要满地碎屑，不要写字和作业本格子，不要品牌橡皮字样。",
+  "enp": "Original designer toy character: a ink-grey plush sheet-body fused with a rounded oblong eraser — the eraser is the head and the sheet is the body, without the eraser there is no character. The head is a wide eraser slightly broader than the shoulders, almost no neck, the lower edge of the sheet splits into two short blunt feet. Half-lidded tiny black bean eyes sit on the lower mid-eraser, slightly wide-set, a tiny straight mouth, gaze lowered. It stands, body tilted a little forward, only a short cream rub mark left, the sheet not worn through. Body is ink-grey plush; only the head is soft pale-pink eraser. Colors: pale pink with ink grey and a cream rub accent. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No handheld eraser, no sheet worn through, no crumbs everywhere, no writing or notebook lines, no branded eraser lettering."
+}

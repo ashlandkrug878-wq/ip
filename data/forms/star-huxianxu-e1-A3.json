@@ -1,0 +1,78 @@
+{
+  "render": "concept",
+  "source": "grok-star",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-22",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "刻度冠被画成普通帽子"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩圆柱，看不出旋钮"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "被画成正在猛拧的动作"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通圆柱"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉旋钮后无法识别"
+    ]
+  ],
+  "ip": "star-huxianxu-e1",
+  "n": 3,
+  "species": "旋钮",
+  "title": "旋钮就是头，刻度冠长出来，停在未满的一格",
+  "axes": {
+    "archetype": "物件生物，旋钮头，一圈刻度冠长出来",
+    "silhouette": "竖高的旋钮头压在短身上，一圈刻度从头顶长出，旋钮停在未满的一格",
+    "mark": "头 · 头就是一枚未拧满的旋钮，一圈刻度冠从顶上长出，指针停在中低格",
+    "face": "眯成线的小眼贴在旋钮中腹，极小嘴，眼距窄，视线平视",
+    "emotion": "内收，手扶着，却不再往满格拧",
+    "fusion": "物件是长出来的结构：刻度冠从旋钮头上长出，旋钮就是头，拿掉旋钮角色就不成立",
+    "material": "主体豆绿短绒，只有旋钮头和刻度冠是氧化铜",
+    "palette": "豆绿绒配氧化铜旋钮，刻度缝里一点暗赭"
+  },
+  "head": "头就是一枚竖高圆柱旋钮，顶上长出一圈浅刻度冠，几乎没有颈",
+  "combo": "未拧满的铜旋钮头 + 长出的刻度冠 + 眯成线的窄距小眼 + 豆绿对氧化铜",
+  "odd": "手已经扶上旋钮，刻度却停在未满的一格，并不拧到头",
+  "why": "真实可以要，不必拉到绝对。手可以放上去，不必把这一圈拧满。",
+  "spec": {
+    "proportion": "旋钮头约占全高 38%，头高大于头宽，短身，两臂短而钝，足约占全高 12%",
+    "outline": "竖高圆柱头加一圈浅冠，短身，双臂抬到头侧却不把旋钮拧走",
+    "volume": "大：旋钮头；中：刻度冠和短身；小：短臂短足",
+    "face": "眼在旋钮中腹，眯成线，眼距窄，不张嘴，旋钮面不写字母和品牌",
+    "stance": "站稳，双臂轻轻扶在头侧旋钮边缘，像要调又停住，不转动，不跳跃",
+    "structure": "豆绿绒短身和氧化铜旋钮头长在一起，旋钮就是头；刻度冠从头顶长出，是身体的一部分，不是戴上的帽子"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：旋钮就是头，刻度冠长在头上。特殊材质只有氧化铜。新组合：扶着却不拧满的旋钮人。不像绘本。头像可见旋钮和冠。做得成。姿态：手扶着，停在未满格。",
+  "crop": "记忆点在旋钮头和长出的刻度冠，头像即可认出。",
+  "collide": "不同于音响旋钮吉祥物或调节阀人：旋钮就是头，冠长出来，停在未满格，脸收着，不做拧爆或音量最大。",
+  "pose": "站稳，双臂轻轻扶住头侧，旋钮停在未满的一格",
+  "zh": "原创潮玩角色，一只豆绿短绒短身和一枚竖高旋钮长在一起：旋钮就是它的头，一圈刻度冠从头顶长出，拿掉旋钮就没有角色。头是竖高圆柱，顶上浅浅一圈刻度冠，几乎没有颈，腹下两枚短钝足。眯成线的小眼贴在旋钮中腹，极小一字嘴，眼距窄，视线平视。它站稳，双臂轻轻扶在头侧旋钮边缘，像要调又停住，刻度停在未满的一格，并不拧到头。主体是豆绿短绒，只有旋钮头和刻度冠是氧化铜。配色是豆绿配氧化铜，刻度缝里一点暗赭。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要把旋钮拧到满格或拧飞，不要音响或电器品牌，不要字母刻字，不要做成帽子配件，不要发光。",
+  "enp": "Original designer toy character: a bean-green plush short body fused with a tall knob — the knob is the head, a shallow dial crown grows from the top, without the knob there is no character. The head is a vertical cylinder with a low crown of marks, almost no neck, two short blunt feet. Line-squinted tiny eyes sit on the mid-knob, a tiny straight mouth, close-set, gaze level. It stands, short arms lightly holding the sides of the head, as if about to turn and then stopping, the mark left below full. Body is bean-green plush; only the knob-head and crown are oxidized copper. Colors: bean green with oxidized copper and a dark ochre accent in the marks. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No knob turned to maximum or spun off, no audio or appliance brands, no lettering, no crown worn as a hat accessory, no glowing light."
+}

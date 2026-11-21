@@ -1,0 +1,78 @@
+{
+  "render": "concept",
+  "source": "grok-star",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-22",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "卡纸被画成手里拿着的卡片"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩三角形，看不出翻面"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "被画成撕碎或掉落的纸"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通坐姿团子"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉卡纸后无法识别"
+    ]
+  ],
+  "ip": "star-huxianxu-e2",
+  "n": 2,
+  "species": "翻面卡片",
+  "title": "硬卡纸壳是身体的外翻面，里面还连着",
+  "axes": {
+    "archetype": "物件生物，翻面卡片壳",
+    "silhouette": "一张对折硬卡纸成为壳和披风，一面翻开，坐着靠住，内里的团身还连在折缝上",
+    "mark": "壳 · 硬卡纸对折壳从背到头翻开一面，折缝还连着，不是撕下来的纸",
+    "face": "小黑点眼，几乎面无表情，贴在未被翻开的那一面中下部，极小嘴，眼距正常",
+    "emotion": "面无表情，翻开一层，里面还在",
+    "fusion": "物件是壳或披风：对折硬卡纸就是它的外壳和一部分头形，拿掉这张纸角色就不成立",
+    "material": "主体浅杏短绒，只有翻开的外壳是硬质深蓝卡纸",
+    "palette": "浅杏绒配深蓝卡纸，折边一点米白"
+  },
+  "head": "头的一侧就是翻开的卡纸斜面，另一侧是还连着的绒核，几乎没有颈",
+  "combo": "对折翻开的深蓝卡纸壳 + 还连着的浅杏绒核 + 面无表情的小点眼 + 深蓝对浅杏",
+  "odd": "壳已经翻开一面，像改了这一页，折缝却没有撕开",
+  "why": "上一秒可以推翻，地基先留着。翻开的是这一面，里面还连着。",
+  "spec": {
+    "proportion": "翻开的卡纸斜面约占全高 45%，坐高较低，绒核藏在折缝里，短足约占坐高 15%",
+    "outline": "对折卡片打开成一个浅V，坐着，一边是硬壳斜面，一边是圆绒核",
+    "volume": "大：翻开的卡纸壳；中：浅杏绒核；小：短足",
+    "face": "眼在未翻开那一面中下部，小黑点，面无表情，不张嘴，纸面不写字母和品牌",
+    "stance": "坐下靠着，身体倚在翻开的壳上，不站起来，不把纸撕掉",
+    "structure": "浅杏绒核和深蓝硬卡纸壳长在一起，纸壳就是身体的外翻面，不是手里的卡片；折缝连着，不是撕下来的零件"
+  },
+  "toy_check": "站得住：坐下时臀和足着地，壳撑住。物件长进去：卡纸壳就是外翻的身体。特殊材质只有硬卡纸。新组合：翻开一面还连着的纸壳人。不像绘本。头像可见翻开的斜面。做得成。姿态：坐下靠着，不是把纸扔掉。",
+  "crop": "记忆点在翻开的卡纸头侧和折缝，头像即可认出。",
+  "collide": "不同于贺卡吉祥物或手里拿着的纸片人：纸壳就是身体的外翻面，折缝还连着，脸收着，不做撕碎或写信。",
+  "pose": "坐下靠着，一面卡纸翻开定格，折缝仍连着",
+  "zh": "原创潮玩角色，一只浅杏短绒圆核和一张对折硬卡纸长在一起：这张卡纸就是它的外壳和一部分头形，拿掉纸就没有角色。纸对折打开成一个浅V，一面翻开仍连着折缝，绒核靠在未翻开的那一面。小黑点眼几乎面无表情，贴在未翻开那一面中下部，极小一字嘴。它坐下靠着，身体倚在翻开的壳上，折缝没有撕开。主体是浅杏短绒，只有翻开的外壳是硬质深蓝卡纸。配色是浅杏配深蓝，折边一点米白。单个角色完整全身，正面略侧，坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要把纸画成手里的卡片，不要撕碎或掉落，不要写字和品牌，不要信封邮戳，不要做成披风配件。",
+  "enp": "Original designer toy character: a light-apricot plush core fused with a folded rigid card — the card is the shell and part of the head, without it there is no character. The card opens into a shallow V, one face flipped up but still joined at the fold, the plush core leaning on the unflipped side. Tiny black dot eyes, nearly expressionless, sit on the lower mid of the unflipped face, a tiny straight mouth. It sits leaning against the opened shell, the fold not torn. Body is light-apricot plush; only the opened shell is hard deep-blue card. Colors: apricot with deep blue and a cream fold edge. Single character, full body, slight three-quarter front view, sitting on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No handheld card, no torn or falling paper, no writing or brand marks, no envelope stamps, no cape worn as an accessory."
+}

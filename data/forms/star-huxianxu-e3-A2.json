@@ -1,0 +1,78 @@
+{
+  "render": "concept",
+  "source": "grok-star",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-22",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "软片被画成披肩或墙贴"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩弯板，看不出角色"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "被画成张开倾诉或摊平的垫子"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通灰团"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉软片后无法识别"
+    ]
+  ],
+  "ip": "star-huxianxu-e3",
+  "n": 2,
+  "species": "吸音软片",
+  "title": "吸音软片就是身体，双手收在胸前，把声音留下",
+  "axes": {
+    "archetype": "物件生物，吸音软片身",
+    "silhouette": "一片厚软的吸音片弯成身体，边缘微微内卷，双臂收在胸前，像把一声收下",
+    "mark": "身 · 整只身体就是一片内卷的厚吸音软片，边缘一圈皮革包边，不是墙上的挂件",
+    "face": "眯成线的小眼贴在软片中上部，极小嘴，眼距正常，视线落下",
+    "emotion": "内收，把声音留下，不必再倒出去",
+    "fusion": "物件就是身体：厚吸音软片就是它的胸腹和头弧，拿掉软片角色就不成立",
+    "material": "主体烟灰针织绒，只有一圈包边是皮革",
+    "palette": "烟灰针织配一点亮橙皮革包边，内里一点深灰"
+  },
+  "head": "头是软片上端向内卷的弧，几乎没有颈，五官贴在弧面中上部",
+  "combo": "内卷的烟灰吸音片身 + 亮橙皮革包边 + 收在胸前的短臂 + 眯成线落下的小眼",
+  "odd": "身体是用来收下声音的软片，双臂却收着，不像要把里面再倒给谁",
+  "why": "你讲讲就好，我不必假装完全懂。声音可以留下，不必当众倒空。",
+  "spec": {
+    "proportion": "头弧约占全高 32%，片身宽大于头，双臂短而内收，两枚短钝足约占全高 12%",
+    "outline": "厚软片站成一个内卷的浅C，上端是头弧，双臂抱在胸前，腹下短钝足",
+    "volume": "大：吸音片身；中：头弧和包边；小：短臂短足",
+    "face": "眼在头弧中上部，眯成线，眼距正常，不张嘴，片面不写字母和品牌",
+    "stance": "短足分开站稳，双手内收抱在胸前，不张开，不把身体摊平",
+    "structure": "烟灰针织绒软片就是身体，皮革只做一圈包边；软片不是墙上的挂饰，也不是披在肩上的毯子"
+  },
+  "toy_check": "站得住：短足着地，片身有厚度。物件长进去：吸音片就是身体。特殊材质只有皮革包边。新组合：收下声音、双臂内收的软片人。不像绘本。头像可见内卷头弧和包边。做得成。姿态：双手内收，不是张开倾诉。",
+  "crop": "记忆点在内卷的头弧和亮橙包边，头像即可认出。",
+  "collide": "不同于隔音棉吉祥物或毯子披风人：软片就是身体，双臂收着，脸收着，不做把声音再倒出去。",
+  "pose": "立定，双手内收抱在胸前，片身微微内卷",
+  "zh": "原创潮玩角色，一片烟灰针织绒的厚吸音软片自己站起来成为身体：整片软片就是它，拿掉软片就没有角色。上端向内卷成头弧，几乎没有颈，腹下两枚短钝足，双臂短而钝，收在胸前。眯成线的小眼贴在头弧中上部，极小一字嘴，视线落下。它站稳，身体微微内卷，像把一声留下，并不再倒出去。主体是烟灰针织绒，只有一圈包边是皮革。配色是烟灰配一点亮橙包边，内里一点深灰。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要把软片画成披肩、毯子或墙上的挂饰，不要张开双臂倾诉，不要把身体摊成垫子，不要音符图标，不要品牌。",
+  "enp": "Original designer toy character: a thick soot-grey knitted acoustic sheet that is the body itself — without the sheet there is no character. The upper edge curls inward into a head arc, almost no neck, two short blunt feet, short blunt arms held in at the chest. Line-squinted tiny eyes sit on the upper mid-arc, a tiny straight mouth, gaze lowered. It stands, body slightly curled in, keeping a sound rather than pouring it back out. Body is soot-grey knitted plush; only the rim is leather piping. Colors: soot grey with a bright orange leather rim and a darker grey interior. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No sheet worn as a cape, blanket or wall panel, no arms spread in confession, no body flattened into a cushion, no music-note icons, no brand marks."
+}

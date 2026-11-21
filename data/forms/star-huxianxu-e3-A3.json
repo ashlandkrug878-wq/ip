@@ -1,0 +1,78 @@
+{
+  "render": "concept",
+  "source": "grok-star",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-22",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "枯枝被画成手里的道具或背景"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一根棍子，看不出头节"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "被画成正在爬行或张开的昆虫标本"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通树枝"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉枯枝后无法识别"
+    ]
+  ],
+  "ip": "star-huxianxu-e3",
+  "n": 3,
+  "species": "竹节虫",
+  "title": "枯枝就是身体，竹节停在那里，并不把自己摊开",
+  "axes": {
+    "archetype": "动物，枯枝就是身体的竹节虫",
+    "silhouette": "一段带节的枯枝趴成身体，细长却收着，一节铜绿关节在中段，像停在那里，并不爬走",
+    "mark": "身 · 整只身体就是一段带节的枯枝，中段一节铜绿关节，头藏在枝端",
+    "face": "很小的黑点眼贴在枝端下侧，几乎面无表情，眼距窄，视线落下",
+    "emotion": "面无表情，在场，却不把自己摊开",
+    "fusion": "物件就是身体：枯枝就是它的胸腹和头端，竹节虫的节长在枝里，拿掉枯枝角色就不成立",
+    "material": "主体枯枝褐短绒，只有中段一节关节是铜绿金属",
+    "palette": "枯枝褐绒配一节铜绿，枝端一点浅苔"
+  },
+  "head": "头是枝端微微隆起的一节，几乎没有颈，五官藏在下侧",
+  "combo": "带节枯枝身 + 中段一节铜绿关节 + 藏在枝端下侧的小点眼 + 枯褐对铜绿",
+  "odd": "它是会藏的竹节虫，却停在明处，并不把自己摊开给人看完",
+  "why": "你讲讲就好，我不必假装完全懂。在场就够了，不必把结构全打开。",
+  "spec": {
+    "proportion": "头节约占全长 20%，枝身长大于高，低伏，足短而钝，中段铜关节明显但不刺人",
+    "outline": "一段微弯的带节枯枝低伏着，头节略隆，中段一节金属关节，短足贴地",
+    "volume": "大：枯枝身；中：头节和铜关节；小：短足",
+    "face": "眼在枝端下侧，很小的黑点，几乎面无表情，不张嘴，枝面不写字母和品牌",
+    "stance": "低伏停住，短足着地，不爬行，不飞起，不把身体拉成一条直线炫耀",
+    "structure": "枯枝褐绒就是身体，铜绿只做中段一节关节；枯枝不是手里拿着的树枝，也不是背景道具"
+  },
+  "toy_check": "站得住：低伏时短足和枝腹着地。物件长进去：枯枝就是身体。特殊材质只有一节铜绿关节。新组合：停住、不摊开的枯枝竹节虫。不像绘本。头像可见枝端头节和铜关节。做得成。姿态：低伏停住，不是爬行。",
+  "crop": "记忆点在枝端头节和中段铜关节，头像可见节与铜。",
+  "collide": "不同于普通仿真昆虫或手里拿树枝的动物：枯枝就是身体，只停住，脸藏着，不做爬行或完全拟人站立。",
+  "pose": "低伏停住，短足着地，不爬行",
+  "zh": "原创潮玩角色，一段枯枝褐短绒的带节枯枝就是身体，一只竹节虫的结构长在枝里：拿掉枯枝就没有角色。头是枝端微微隆起的一节，几乎没有颈，中段有一节铜绿金属关节，腹下短钝足贴地。很小的黑点眼贴在枝端下侧，几乎面无表情，视线落下。它低伏停住，不爬行，也不把自己摊开。主体是枯枝褐短绒，只有中段那一节关节是铜绿金属。配色是枯枝褐配一节铜绿，枝端一点浅苔。单个角色完整全身，正面略侧，停在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要画成正在爬行或飞起，不要昆虫标本针，不要把枯枝当成手里的道具，不要尖刺关节，不要写学名和品牌。",
+  "enp": "Original designer toy character: a section of knotty dry-branch plush that is the body, with stick-insect joints grown into the branch — without the branch there is no character. The head is a slightly raised end segment, almost no neck, a patinated copper joint at mid-body, short blunt feet on the ground. Tiny black dot eyes sit on the underside of the end, nearly expressionless, gaze lowered. It stays low and still, not crawling, not unfolding itself. Body is dry-branch brown plush; only the mid joint is patinated copper. Colors: dry-branch brown with one copper-green joint and a hint of moss at the tip. Single character, full body, slight three-quarter front view, paused on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No crawling or flying pose, no specimen pins, no branch held as a prop, no sharp spiky joints, no scientific names or brand marks."
+}
