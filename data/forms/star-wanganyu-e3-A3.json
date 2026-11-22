@@ -1,0 +1,78 @@
+{
+  "render": "concept",
+  "source": "grok-star",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-23",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "ip": "star-wanganyu-e3",
+  "n": 3,
+  "species": "留着钥匙的锁",
+  "title": "锁孔就是头，钥匙还插着没有拔走，身体是柔软的空壳",
+  "axes": {
+    "archetype": "物件生物，锁孔头空壳身",
+    "silhouette": "一枚圆锁头当头，钥匙还留在孔里没有拔走，下面是柔软短绒空壳身",
+    "mark": "头 · 整颗头就是一枚圆锁，钥匙留在正中，像门还为自己开着",
+    "face": "半垂小黑豆眼贴在锁面两侧，极小一字嘴在锁孔下方，视线落下",
+    "emotion": "内收，门还开着给自己回来，钥匙没有被拿走",
+    "fusion": "物件就是身体：圆锁是头，空壳是胸腹，拿掉锁只剩无头的壳，角色不成立",
+    "material": "主体暖沙短绒空壳身，只有圆锁面和钥匙是硬质米白金属釉，钥匙齿一点签名蓝 #15559A",
+    "palette": "暖沙绒配米白锁面，钥匙一点蓝"
+  },
+  "head": "米白圆锁面扣到肩线，几乎没有颈，钥匙留在正中略偏，没有拔出",
+  "combo": "钥匙还留着的圆锁头 + 柔软空壳身 + 落下的小眼 + 暖沙对米白加蓝齿",
+  "odd": "锁是头，钥匙却没有被拔走，像允许被带走一会儿，回家的路还开着",
+  "why": "壳留给自己回家。钥匙还在。",
+  "spec": {
+    "proportion": "锁头约占全高 36%，锁面圆径略大于肩，钥匙外伸不超过头宽 30%，空壳身约占全高 52%，短足约占全高 12%",
+    "outline": "圆锁头，柔软略瘪的短绒壳身，钥匙留在孔里，短足",
+    "volume": "大：圆锁头和壳身；中：留着的钥匙；小：短足",
+    "face": "眼在锁面中线两侧，半垂，不张嘴，锁面不写品牌文字和数字",
+    "stance": "短足分开站稳，微侧，钥匙停在孔里，不转动",
+    "structure": "绒壳和硬锁面长在一起，锁就是头，不是挂在胸前的锁；钥匙是头的一部分，没有拔走"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：锁就是头。特殊材质只有金属釉锁和钥匙。新组合：钥匙还留着的锁头壳身。不像绘本。头像可见锁孔和钥匙。做得成。姿态：钥匙留着，不是开锁动作。",
+  "crop": "记忆点在留着钥匙的圆锁头，头像即可认出。",
+  "collide": "不同于会开合的锁头吉祥物或钥匙人：锁就是头，钥匙还留着，下面是空壳身，脸收着，不做打开炫耀。",
+  "pose": "立定微侧，钥匙留在孔里不转",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "锁被画成胸前挂件"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "钥匙在剪影里消失"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "锁面写品牌或钥匙飞出"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通圆头"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉锁后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一枚圆锁和一截暖沙短绒空壳身长在一起：圆锁就是它的头，拿掉锁就没有角色。米白锁面扣到肩线，几乎没有颈，一把短钥匙还留在锁孔里，没有被拔走，也不转动。锁面两侧是半垂小黑豆眼，锁孔下方极小一字嘴，视线落下。下面是柔软略瘪的短绒壳身，腹下两枚短钝足。双足分开站稳，微侧，像回家的路还开着。主体是暖沙短绒，只有锁面和钥匙是硬质米白金属釉，钥匙齿一点蓝。配色是暖沙配米白，加一点蓝。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要把锁画成胸前挂件，不要把钥匙拔出或飞走，不要转动开锁的动作，不要品牌文字和数字，不要链条锁人，不要发光。",
+  "enp": "Original designer toy character: a round lock fused with a soft warm-sand plush hollow-shell body — the lock is the head, without it there is no character. A cream lock face sits down to the shoulders, almost no neck, a short key is still left in the keyhole, not pulled out and not turning. Half-lidded tiny black bean eyes sit on either side of the face, a tiny straight mouth below the hole, gaze lowered. Below is a soft slightly slack plush shell, two short blunt feet. Feet planted apart, slightly turned, as if the way home is still open. Body is warm-sand plush; only the lock face and key are hard cream metal glaze; a small blue accent sits on the key bit. Colors: warm sand with cream and a blue accent. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No lock used as a chest pendant, no key pulled out or flying away, no turning-to-unlock pose, no brand lettering or numerals, no chain-lock person, no glowing light."
+}

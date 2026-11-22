@@ -1,0 +1,78 @@
+{
+  "render": "concept",
+  "source": "grok-star",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-23",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "ip": "star-wanganyu-e2",
+  "n": 3,
+  "species": "导游的路线图壳",
+  "title": "折叠路线图就是外壳，一角扣住，不是手里的手册",
+  "axes": {
+    "archetype": "物件生物，地图壳",
+    "silhouette": "一张折叠地图扣成短身外壳，一角微微掀起又扣住，里面是暖沙绒核",
+    "mark": "身 · 整张折叠图就是外壳和披背，折线清楚，一角扣住并不打开",
+    "face": "半垂小黑豆眼从折页缝里露出，极小一字嘴，视线落下",
+    "emotion": "内收，图已经折好，人可以走，不必再摊开给人看",
+    "fusion": "物件就是身体：折叠路线图就是外壳，拿掉图只剩绒核，角色不成立",
+    "material": "主体暖沙短绒核，只有折叠图壳是硬质米白厚纸，折痕处一点签名蓝 #15559A",
+    "palette": "暖沙绒配米白厚纸壳，折痕一点蓝"
+  },
+  "head": "图壳上沿扣到头顶，几乎没有颈，折页形成浅弧头顶",
+  "combo": "扣住一角的折叠图壳 + 缝里露出的小眼 + 暖沙绒核 + 米白纸对折痕蓝",
+  "odd": "地图是身体的壳，却不摊开，像事可以做完，不必一直展开给人指路",
+  "why": "攻略可以写完，出发还是我一辆。图折上了。",
+  "spec": {
+    "proportion": "图壳身高约占全高 85%，头胸被壳扣住，掀起的一角不超过头宽 20%，短足约占全高 12%",
+    "outline": "扁矩形折叠壳立着，上沿扣头，一角微掀又扣，腹下短足",
+    "volume": "大：折叠图壳；中：内里绒核；小：掀起又扣住的一角和短足",
+    "face": "眼从中上折缝露出，半垂，不张嘴，图面只有抽象折线，不写地名文字和路线符号文字",
+    "stance": "短足分开，身体微蹲在壳里，掀起的一角停住，不继续打开，不立正",
+    "structure": "绒核和厚纸图壳长在一起，图就是外壳，不是手里的手册；一角是壳的一部分"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：图就是壳。特殊材质只有厚纸壳。新组合：一角扣住的地图壳人。不像绘本。头像可见折页和缝里的眼。做得成。姿态：折上微蹲，不是展开讲解。",
+  "crop": "记忆点在扣住头顶的折叠图壳和缝里的小眼，头像即可认出。",
+  "collide": "不同于手持地图的导游公仔：图就是外壳，一角扣住，脸收着，不摊开指路。",
+  "pose": "微蹲，图壳一角扣住，不像讲解站姿",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "地图被画成手里的册子"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "矩形折壳不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "图面写满地名和箭头文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通方块"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉图壳后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一颗暖沙短绒圆核和一张折叠的厚纸路线图长在一起：这张图就是它的外壳，拿掉图就没有角色。图壳扣到头顶，几乎没有颈，折线清楚，只有一角微微掀起又扣住，并不摊开，腹下两枚短钝足。半垂小黑豆眼从折页缝里露出，极小一字嘴，视线落下。短足分开，身体微微蹲在壳里，像图已经折好。主体是暖沙短绒，只有图壳是硬质米白厚纸，折痕处一点蓝。配色是暖沙配米白纸，加一点蓝。图面只有抽象折线，没有可读文字。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要把图画成手里的手册，不要摊开讲解，不要地名、箭头文字和路标，不要完全敞开的壳，不要发光。",
+  "enp": "Original designer toy character: a warm-sand plush rounded core fused with a folded thick-paper route map that is its shell — without the map there is no character. The shell sits down over the head, almost no neck, crisp fold lines, only one corner slightly lifted then fastened, not spread open, two short blunt feet. Half-lidded tiny black bean eyes peek from a fold seam, a tiny straight mouth, gaze lowered. Short feet planted apart, the body slightly squatting inside the shell, as if the map is already folded away. Body is warm-sand plush; only the shell is hard cream thick paper; a small blue accent sits in a crease. Colors: warm sand with cream paper and a blue accent. The surface has abstract folds only, no readable text. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No handheld guidebook, no map spread for a tour, no place names, arrow lettering or road signs, no fully opened shell, no glowing light."
+}

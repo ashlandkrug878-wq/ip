@@ -1,0 +1,78 @@
+{
+  "render": "concept",
+  "source": "grok-star",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-23",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "ip": "star-wanganyu-e2",
+  "n": 1,
+  "species": "共享电瓶车",
+  "title": "电瓶车就是身体，座是单人的，没有后座",
+  "axes": {
+    "archetype": "物件生物，单人电瓶车身",
+    "silhouette": "短车身立着，一个圆座，没有后座，前面一小截车把，两枚短轮足",
+    "mark": "身 · 整只身体就是一辆只坐得下一个人的小电瓶车，后座位置是空的圆弧",
+    "face": "半垂小黑豆眼贴在车头灯位，极小一字嘴，视线平视前方",
+    "emotion": "内收，已经可以走，后座仍空着",
+    "fusion": "物件就是身体：电瓶车就是它的胸腹和座位，拿掉车角色就不成立",
+    "material": "主体暖沙短绒车身，只有车座和一小截车把是硬质米白橡胶质感",
+    "palette": "暖沙绒配米白座，车把末端一点签名蓝 #15559A"
+  },
+  "head": "车头是微微隆起的圆核，灯位是眼睛，没有车牌和屏幕",
+  "combo": "没有后座的单人车身 + 米白圆座 + 平视的小眼 + 暖沙对米白加车把蓝",
+  "odd": "车是身体，却故意没有后座，像事可以做完，仍只坐得下自己",
+  "why": "事可以做完，车还是只坐我一个。",
+  "spec": {
+    "proportion": "车头圆核约占全高 30%，单人座约占身长 40%，没有后座，短轮足约占全高 14%，车把外伸不超过头宽",
+    "outline": "短钝的立式车身，一个圆座，前把短，后弧空着，两枚短轮状足",
+    "volume": "大：车身和单人座；中：车头圆核；小：短把和轮足",
+    "face": "眼在车头中下部，半垂，眼距约一个眼宽，不张嘴，车身不写字母、品牌和数字",
+    "stance": "两枚短轮足左右分开站稳，微侧，不骑行、不倾斜、不载人",
+    "structure": "暖沙绒车身和米白硬座长在一起，车就是身体，不是脚边的道具；座只有一个，后侧是空弧，不是被拆掉的残骸"
+  },
+  "toy_check": "站得住：轮足着地。物件长进去：车就是身体。特殊材质只有硬座和短把。新组合：没有后座的车身人。不像绘本。头像可见车头和座沿。做得成。姿态：停稳，不是行驶。",
+  "crop": "记忆点在车头小脸和单人座，头像可见座沿即可认出。",
+  "collide": "不同于载客的共享单车吉祥物：车就是身体，没有后座，脸收着，不揽客、不骑行。",
+  "pose": "立定微侧，单人座空着，并不载人",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "车被画成脚下的道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "看不出单人座和空着的后弧"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "出现车牌屏幕或品牌文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通圆车"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉车后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只暖沙短绒圆核和一辆小型电瓶车长在一起：整辆车就是它的身体，拿掉车就没有角色。车身短钝，只有一个米白圆座，后侧是空着的弧，没有后座，前面一小截车把，腹下两枚短轮状足。车头中下部是半垂小黑豆眼，极小一字嘴，视线平视。双足分开站稳，微侧，像已经停好，可以走，却只坐得下自己。主体是暖沙短绒，只有车座和短把是硬质米白橡胶质感，车把末端一点蓝。配色是暖沙配米白，加一点蓝。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要后座，不要载人，不要骑行或倾斜，不要车牌、屏幕、品牌和数字文字，不要把车当成脚下的道具，不要车灯发光。",
+  "enp": "Original designer toy character: a warm-sand plush rounded core fused with a small e-bike — the bike is the body, without it there is no character. The body is short and blunt, only one cream round seat, the rear is an empty curve with no passenger seat, a short handlebar in front, two short wheel-like feet. Half-lidded tiny black bean eyes sit on the lower mid-head, a tiny straight mouth, gaze level. Feet planted apart, slightly turned, as if already stopped and ready to go, but only one can sit. Body is warm-sand plush; only the seat and short bar are hard cream rubber; a small blue accent sits at the bar ends. Colors: warm sand with cream and a blue accent. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No rear seat, no passenger, no riding or leaning, no license plate, screen, brand or numerals, no bike used as a prop underfoot, no glowing lamps."
+}

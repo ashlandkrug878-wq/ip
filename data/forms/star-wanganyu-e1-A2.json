@@ -1,0 +1,78 @@
+{
+  "render": "concept",
+  "source": "grok-star",
+  "line": "",
+  "diff": "",
+  "locked": false,
+  "created": "2026-11-23",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：物件长进身体而非挂件。识别：主物件加大对比色。不普通：拿掉物件角色不成立。材质只有一处特殊且讲得通。配色两三色强对比。新组合。特点夸张到物件尺度。不做成会疼的尖刺伤口。",
+  "ip": "star-wanganyu-e1",
+  "n": 2,
+  "species": "两端的天平",
+  "title": "左右两只浅碗就是身体两侧，没有一侧空着",
+  "axes": {
+    "archetype": "物件生物，双碗身",
+    "silhouette": "左右两只浅碗扣在身体两侧，像一对还没分开的秤盘，短身立着",
+    "mark": "身 · 左右两只浅碗就是肋和臂，碗口朝上，两边都盛着一点",
+    "face": "半垂小黑豆眼贴在中间圆核中下部，极小一字嘴，视线微微看向一侧碗沿",
+    "emotion": "内收，两边都还盛着，不必倒掉任何一碗",
+    "fusion": "物件就是身体：两只浅碗长成身体左右，拿掉碗只剩一颗核，角色不成立",
+    "material": "主体暖沙短绒圆核，只有两只浅碗是硬质米白釉面陶",
+    "palette": "暖沙绒配米白釉面碗，碗心一点签名蓝 #15559A"
+  },
+  "head": "中间一颗略扁的暖沙圆核当头胸，碗沿几乎齐肩",
+  "combo": "左右盛着的浅碗身 + 中间扁圆核 + 微看碗沿的小眼 + 暖沙对釉面加碗心蓝",
+  "odd": "两只碗不是餐具，是身体两侧，碗心只有一点点，像两端都放下了仍不倒空",
+  "why": "两端都要。一边倒空，梁就斜了。",
+  "spec": {
+    "proportion": "中间圆核约占全高 40%，左右碗宽各与头核相近，碗沿不超过头顶，短钝足约占全高 12%",
+    "outline": "中核圆扁，左右浅碗对称外扩，碗口朝上，腹下短足",
+    "volume": "大：左右浅碗；中：中间圆核；小：短足和碗心那一点蓝",
+    "face": "眼在中核中下部，半垂，眼距约一个眼宽，不张嘴，碗面不写文字",
+    "stance": "短足分开站稳，微侧，重心仍在两碗之间，不把一碗举高",
+    "structure": "暖沙绒核和两只釉面浅碗长在一起，碗就是左右身体，不是手上的餐具"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：碗就是身体两侧。特殊材质只有釉面碗。新组合：两边都不空的碗身。不像绘本。头像可见碗沿。做得成。姿态：两碗平端，不是敬酒或空碗。",
+  "crop": "记忆点在左右碗沿和中间小脸，头像可见一侧碗沿即可认出。",
+  "collide": "不同于餐具吉祥物或捧碗小人：碗就是身体两侧，两边都还盛着一点，脸收着，不做进食或待客。",
+  "pose": "立定微侧，两碗平端，重心居中",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "碗被画成手持餐具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "左右碗沿不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "碗面写字或盛满食物"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通圆头"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉碗后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一颗暖沙短绒扁圆核和左右两只浅碗长在一起：两只碗就是身体两侧，拿掉碗就没有角色。碗口朝上，两边对称，碗心里各有一点点，没有一侧空着或倾倒，腹下两枚短钝足。中间圆核中下部是半垂小黑豆眼，极小一字嘴，视线微微看向一侧碗沿。双足分开站稳，微侧，像两端都还盛着。主体是暖沙短绒，只有两只浅碗是硬质米白釉面陶，碗心有一点蓝。配色是暖沙配米白釉面，加一点蓝。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要把碗画成手里的餐具，不要食物，不要把一碗倒空或举过头顶，不要文字，不要发光。",
+  "enp": "Original designer toy character: a warm-sand plush flattened core fused with two shallow bowls as the left and right sides of the body — without the bowls there is no character. Bowl mouths face up, both sides even, each holding only a little, neither side empty or tipping, two short blunt feet below. Half-lidded tiny black bean eyes sit on the lower mid-core, a tiny straight mouth, gaze slightly toward one rim. Feet planted apart, slightly turned, as if both sides are still being held. Body is warm-sand plush; only the bowls are hard cream enamel; a small blue accent sits in each bowl. Colors: warm sand with cream enamel and a blue accent. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No handheld dishes, no food, neither bowl emptied or raised overhead, no writing, no glowing light."
+}
