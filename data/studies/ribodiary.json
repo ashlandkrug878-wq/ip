@@ -22,8 +22,8 @@
   ],
   "tier": "standard",
   "status": "partial",
-  "cutoff_date": "2026-11-21",
-  "updated": "2026-11-21",
+  "cutoff_date": "2026-11-22",
+  "updated": "2026-11-22",
   "summary": "森林日常由被窝、衣装、手作与群像分工落到产品；官方功能证据清楚，近期讨论可核，规模与增长因果未知。",
   "owner": {
     "creator": null,
@@ -490,7 +490,8 @@
     "11/17报道增加互动场景文字；未开图或播放视频，稿源/商业合作性质未核，独立到访、人数、订单、销售与因果仍未知。",
     "2026-11-19：V41/V42均未过，继续同一V04；英文双图编辑依赖V40→V2→V04，不等于单附官方图、纯文字或中文通过。小红书连接Unknown tool，固定两组查询未执行，实读0页。",
     "2026-11-20：仅官方V04输入的V43/V44仍未过额脸、五官、比例及平涂关卡；不换目标。小红书fresh bootstrap Unknown tool，固定两组查询未执行，实读0页。",
-    "2026-11-21：V45/V46仍未过，额脸、比例、细节和平涂缺口；不换目标。小红书fresh bootstrap Unknown tool，固定两组查询未执行，实读0页。今日未新增独立用户样本。"
+    "2026-11-21：V45/V46仍未过，额脸、比例、细节和平涂缺口；不换目标。小红书fresh bootstrap Unknown tool，固定两组查询未执行，实读0页。今日未新增独立用户样本。",
+    "2026-11-22：V47/V48中文仅附V04仍未过，额脸、头身裤腿、肢体与渐层有偏差；固定目标不变。小红书fresh bootstrap Unknown tool，固定两组查询未执行、实读0页。本日新增独立用户0。"
   ],
   "sources": [
     {
@@ -2601,22 +2602,140 @@
       ],
       "access": "partial",
       "notes": "韩文公开正文实读：11/20—30、11—21时KST、圣水Square Portal及11/17 11时预约规则。本页发布日期未见；只读公开通知，未登录、预约或读个人账号/满额情况。多语言同一公告只计一个信源家族，无独立需求。"
+    },
+    {
+      "id": "AK01",
+      "title": "品牌见面会计划复核",
+      "url": "https://www.sina.cn/news/detail/5364007042288159.html",
+      "publisher": "www.sina.cn",
+      "published": "2026-11-11",
+      "observed": "2026-11-22",
+      "event_date": [
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "access": "partial",
+      "claim_type": "official_self_report",
+      "notes": "认证品牌主帖计划11/20—22上海静安大悦城北座1F中庭见面会；不据计划确认今日举行、到访或成交。推荐流的IVE等其他IP评论不纳入本IP。图片未开。"
+    },
+    {
+      "id": "AK02",
+      "title": "日本官方店原未拆封评价复核",
+      "url": "https://www.rakuten.co.jp/pop-mart-japan/",
+      "publisher": "www.rakuten.co.jp",
+      "published": null,
+      "observed": "2026-11-22",
+      "event_date": "2026-11-19",
+      "access": "partial",
+      "claim_type": "user_self_report",
+      "notes": "实读首页11/19購入者评价，明确链接本IP挂件，平台显示订单日11/17；自述圣诞用途、未拆封。与AI02/AJ02同条，本日新增样本0，不增订单，不推使用满意或中国客群。动态首页目的样本有偏差；其他IP评价不纳入，当前榜位未知。"
+    },
+    {
+      "id": "AK03",
+      "title": "Nommi集合页商品与权属边界",
+      "url": "https://gotoptoy.com/ja/collections/nommi/NOMMI",
+      "publisher": "gotoptoy.com",
+      "published": null,
+      "observed": "2026-11-22",
+      "event_date": null,
+      "access": "partial",
+      "claim_type": "retailer_claim",
+      "notes": "本次正文见手机挂饰Limited Edition 10USD起与惊喜袋16.99USD起，仍是不同SKU；当前抽取不见昨日Releasing Nov20字样，移除预告不证明开售、支付、补货或售罄。网页标TOPTOY x NOMMI不证明站点授权、MINISO自有、版权买断或中国价格；独立需求及权利链未核。"
+    },
+    {
+      "id": "AK04",
+      "title": "三丽鸥圣诞赠品规则",
+      "url": "https://www.sanrio.co.jp/news/shop/mx-xmas-novelty-20261113/",
+      "publisher": "www.sanrio.co.jp",
+      "published": "2026-11-13",
+      "observed": "2026-11-22",
+      "event_date": "2026-11-20",
+      "access": "partial",
+      "claim_type": "official_self_report",
+      "notes": "正文11/20更新维护结束、同日10时起配付，5500JPY含税门槛、7角色；规则不证明实际成交或剩余库存。已有角色不按渠道/赠品重复立项；三丽鸥按用户要求跳过小红书，图片未开。"
+    },
+    {
+      "id": "AK05",
+      "title": "PUPPET SUNSUN唱歌毛绒厂家规格",
+      "url": "https://toy.bandai.co.jp/ja/item/01_21264/",
+      "publisher": "toy.bandai.co.jp",
+      "published": null,
+      "observed": "2026-11-22",
+      "event_date": "2026-11-21",
+      "access": "partial",
+      "claim_type": "official_self_report",
+      "notes": "厂家页列11/21/2026发售、建议零售7920JPY含税、约240mm、抚头摇摆唱歌两模式、3节AAA另购。发布日期未知；到计划日期不证明到货或销售。文本功能未实际播放或操作，图片未开。"
+    },
+    {
+      "id": "AK06",
+      "title": "MINITEEN韩文公开官方通知",
+      "url": "https://weverse.io/seventeen/notice/40906?hl=ko",
+      "publisher": "weverse.io",
+      "published": null,
+      "observed": "2026-11-22",
+      "event_date": [
+        "2026-11-20",
+        "2026-11-30"
+      ],
+      "access": "partial",
+      "claim_type": "official_self_report",
+      "notes": "韩文通知列11/20—30、11—21时KST、圣水Square Portal、11/17预约及30分钟停留规则；发布日期未见。未登录、预约或核满额/实际开业/成交，多语同公告只计一个家族。"
+    },
+    {
+      "id": "AK07",
+      "title": "品牌11月14日见面会回顾",
+      "url": "https://www.sina.cn/news/detail/5365124480631315.html",
+      "publisher": "www.sina.cn",
+      "published": "2026-11-14",
+      "observed": "2026-11-22",
+      "event_date": null,
+      "access": "partial",
+      "claim_type": "official_self_report",
+      "notes": "认证品牌主帖自述已在上海见面并感谢到场者，属30天扩展窗。可补品牌回顾，与AK01同信源家族；不作独立到场审计、人数、成交或今日场次证据。9张链接图未打开，不做逐图断言。"
+    },
+    {
+      "id": "AK08",
+      "title": "PUPPET SUNSUN地域企划官方发布",
+      "url": "https://prtimes.jp/main/html/rd/p/000000579.000024007.html",
+      "publisher": "prtimes.jp",
+      "published": "2026-11-16",
+      "observed": "2026-11-22",
+      "event_date": [
+        "2026-11-16",
+        "2026-11-22"
+      ],
+      "access": "partial",
+      "claim_type": "official_self_report",
+      "notes": "CHOCOLATE发布SUNSUN meets47计划：47都道府县站内地域海报、27局地域CM；东京名古屋大阪大屏计划11/16—22。与厂家毛绒属不同传播/供给节点，仍无本轮独立用户需求或销售；电击转载不另计。图未开。"
+    },
+    {
+      "id": "AK09",
+      "title": "RiboDiary上海场景报道复核",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34491818",
+      "publisher": "www.thepaper.cn",
+      "published": "2026-11-17",
+      "observed": "2026-11-22",
+      "event_date": null,
+      "access": "partial",
+      "claim_type": "media_report",
+      "notes": "湃客机构上传描述树洞、秋千、床和书四类互动场景；未独立确认现场采访、客流或转化。与品牌活动报道可能同稿源，不新增独立用户证据；视频和图片未开，场景为文本报道而非视觉观察。"
     }
   ],
-  "archive": "research/ribodiary/2026-11-21/index.html",
-  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-21/",
-  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-21/",
+  "archive": "research/ribodiary/2026-11-22/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-22/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-22/",
   "prompt_validation": {
     "status": "partial",
-    "mode": "旧V2英文附图有限身份近似；本日V45/V46英文仅附官方V04仍revise",
+    "mode": "旧V2英文附图有限身份近似；本日V47/V48中文仅附官方V04仍revise",
     "scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
     "strict_flat_fill": "not_passed",
     "text_only": "English V10/V11 tested_not_passed",
     "stability": "one_repeat_observed_differences_not_validated",
-    "tests": "research/ribodiary/2026-11-21/prompt-tests.json",
-    "checkpoint": "research/ribodiary/2026-11-21/selection-and-progress.json",
+    "tests": "research/ribodiary/2026-11-22/prompt-tests.json",
+    "checkpoint": "research/ribodiary/2026-11-22/selection-and-progress.json",
     "usable_prior_test": "ribodiary-bearibo-flat-ref-v2",
-    "chinese_reference": "V6/V7/V17/V18/V37/V38 tested_not_passed",
-    "reference_latest": "English V45/V46 single V04 revise; Chinese V37/V38 revise"
+    "chinese_reference": "V6/V7/V17/V18/V37/V38/V47/V48 tested_not_passed",
+    "reference_latest": "Chinese V47/V48 single V04 revise; English V45/V46 revise"
   }
 }

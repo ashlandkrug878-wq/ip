@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-22",
+  "card_validator": "passed",
+  "json": "parsed",
+  "html": "paired tags unique IDs anchors PASS",
+  "index": "all IDs retained including species; build_index unchanged",
+  "test_count": 48,
+  "new_tests": "V47/V48 zh reference_image revise",
+  "images": "768 max WebP q80 <150KB",
+  "prompts": "actual inputs exact in logs/TXT, original V2 text unchanged",
+  "publication": "pending external verification",
+  "aesthetic_approval": false
+}
