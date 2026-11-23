@@ -1,0 +1,77 @@
+{
+  "id": "star-jujingyi-e2-A2",
+  "source": "grok-star",
+  "render": "concept",
+  "created": "2026-11-24",
+  "updated": "2026-11-24",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：电视机长进身体而非背景家电。识别：空白布面屏幕加机顶小头。不普通：拿掉电视机角色不成立。材质只有釉面边框。配色两三色强对比。新组合。特点夸张到机身和布屏。屏幕不发光、不放节目。",
+  "ip": "star-jujingyi-e2",
+  "n": 2,
+  "species": "正在播出的有线电视",
+  "title": "电视机就是身体，屏幕是一块布",
+  "axes": {
+    "archetype": "物件生物，布面屏幕的电视机身",
+    "silhouette": "圆角厚电视机壳当身体，屏幕是一块没有画面的暖布，顶部一颗小圆核头，短足立在机下",
+    "mark": "身 · 整只身体就是一台正在开着、却没有节目画面的电视机，屏幕只是布",
+    "face": "半垂小黑豆眼贴在顶部圆核上，极小一字嘴，视线平视",
+    "emotion": "内收，机子开着，屏幕留白，只留下生活感",
+    "fusion": "物件就是身体：电视机壳就是胸腹，拿掉电视机角色就不成立",
+    "material": "主体暖灰短绒，只有机壳边框是硬质米白釉面",
+    "palette": "暖灰绒配米白釉面边框，旋钮一点签名蓝"
+  },
+  "head": "机顶是一颗暖灰圆核小头，几乎没有颈，头顶光顺，天线不做造型",
+  "combo": "圆角电视机身 + 没有画面的暖布屏幕 + 半垂小眼 + 旋钮一点蓝",
+  "odd": "机子是开着的，屏幕却是一块空白的布，像正在进行，却不播出噱头",
+  "why": "先放下那层壳，我想被记得能力不错。屏幕留白，人不被画面代替。",
+  "spec": {
+    "proportion": "头核约占全高 30%，机身宽约为头宽的 2.0 倍，布面屏幕约占机身正面的 2/3，短钝足约占全高 12%，一个圆旋钮直径约半个眼宽",
+    "outline": "横宽圆角机身，正面一块暖布屏幕，机顶圆核小头，机下两枚短钝足，一侧一枚圆旋钮",
+    "volume": "大：机身和布面屏幕；中：圆核头；小：短足和蓝色旋钮",
+    "face": "眼在圆核中下部，半垂，眼距约一个眼宽，不张嘴，屏幕和机壳不写台标、字母和数字",
+    "stance": "两枚短钝足左右分开站稳，微侧，屏幕保持空白布面，不发光、不放画面",
+    "structure": "暖灰绒核心和米白釉面边框长在一起，电视机就是身体，不是手里的遥控器或背景道具；屏幕是布面，不是玻璃节目窗"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：电视机就是身体。特殊材质只有釉面边框。新组合：布面留白的开着的电视机身。不像绘本。头像可见机壳和布屏。做得成。姿态：开着却无画面，不是关掉或砸坏。",
+  "crop": "记忆点在布面屏幕和机顶圆核头，头像可见边框和布屏即可认出。",
+  "collide": "不同于电视台吉祥物或复古电视玩具：电视就是身体，屏幕是空白布，脸收着，不播节目、不出现台标。",
+  "pose": "立定微侧，布面屏幕朝前，旋钮停着",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "电视被画成手里的遥控器"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩方盒子，头和布屏不清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "屏幕里画出节目或台标文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通方块"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉电视机后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只暖灰短绒圆核和一台圆角电视机长在一起：整台电视机就是它的身体，拿掉电视机就没有角色。横宽的米白釉面边框围成胸腹，正面是一块没有画面的暖布屏幕，不发光，不播出任何节目，机顶一颗暖灰圆核小头，几乎没有颈，没有天线造型，机下两枚短钝足，一侧一枚小圆旋钮。半垂小黑豆眼，极小一字嘴，视线平视。双足左右分开站稳，微微侧过身，像机子还开着，屏幕却把画面留白。主体是暖灰短绒，只有边框是硬质米白釉面，旋钮有一点蓝。配色是暖灰配米白釉面，加一点蓝。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要锁链或被夹痛的造型，不要选美王冠，不要可阅读的文字和数字，不要发光屏幕里的节目画面，不要绷到嵌进肉里的橡皮筋，不要满溢泼溅的汤。",
+  "enp": "Original designer toy character: a warm-grey plush rounded core fused with a rounded television set — the set is the body, without it there is no character. A wide cream enamel bezel forms the torso, the front is a warm cloth screen with no picture and no glow, a warm-grey rounded head sits on top, almost no neck, no antenna, two short blunt feet below, one small round knob at the side. Half-lidded tiny black bean eyes, a tiny straight mouth, gaze level. Feet planted apart, standing still and slightly turned, as if the set is on and the screen has been left blank. Body is warm-grey plush; only the bezel is hard cream enamel; a small blue accent sits on the knob. Colors: warm grey with cream enamel and a blue accent. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No chains or a frame that pinches, no pageant crown, no readable letters or numerals, no TV program playing on a lit screen, no rubber band cutting into the body, no overflowing or splashing broth."
+}

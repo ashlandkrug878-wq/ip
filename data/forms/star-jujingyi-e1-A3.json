@@ -1,0 +1,77 @@
+{
+  "id": "star-jujingyi-e1-A3",
+  "source": "grok-star",
+  "render": "concept",
+  "created": "2026-11-24",
+  "updated": "2026-11-24",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：皮筋长成腰而不是手环饰品。识别：松开一寸的宽皮筋两端。不普通：拿掉皮筋角色不成立。材质只有橡胶圈。配色两三色强对比。新组合。特点夸张到皮筋宽度。不勒进身体，不做成伤口。",
+  "ip": "star-jujingyi-e1",
+  "n": 3,
+  "species": "工作停了才松开的皮筋",
+  "title": "皮筋就是腰，已经松开一寸",
+  "axes": {
+    "archetype": "物件生物，松开一寸的皮筋腰",
+    "silhouette": "蜜橘圆绒身体，腰上横着一圈已经放松的宽皮筋，两端轻轻翘起，短足站稳",
+    "mark": "身 · 腰上那圈宽皮筋就是身体的中段，已经松开一寸，不再绷到极限",
+    "face": "半垂小黑豆眼贴在圆绒头上，极小一字嘴，视线微微落下",
+    "emotion": "内收，刚刚松开，不必再绷着",
+    "fusion": "物件就是身体：宽皮筋就是腰腹中段，拿掉皮筋角色就不成立",
+    "material": "主体蜜橘短绒，只有腰上那圈是砖色橡胶",
+    "palette": "蜜橘绒配砖色橡胶，卡扣一点蓝"
+  },
+  "head": "圆钝蜜橘绒小头，几乎没有颈，头顶光顺，没有发饰",
+  "combo": "松开一寸的砖色宽皮筋腰 + 蜜橘圆绒身 + 半垂落下的小眼 + 卡扣一点蓝",
+  "odd": "皮筋还在腰上，却已经松开一寸，像工作停了，人刚舒展开",
+  "why": "你可以不必一直那么应该。腰上的那圈已经松开了一寸。",
+  "spec": {
+    "proportion": "头约占全高 36%，身体圆钝，宽皮筋带宽约为头高的 1/3，松开后两端各翘起约半个眼宽，短钝足约占全高 12%",
+    "outline": "圆绒头和圆绒身，腰间一圈宽皮筋横过，两端轻翘，下面两枚短钝足",
+    "volume": "大：圆绒身和头；中：宽皮筋；小：短足和卡扣一点蓝",
+    "face": "眼在头中下部，半垂，眼距约一个眼宽，不张嘴，皮筋上不写字母和刻度",
+    "stance": "两枚短钝足左右分开站稳，微侧，皮筋保持松开，不拉直、不弹飞、不勒进身体",
+    "structure": "蜜橘绒身体和砖色橡胶圈长在一起，皮筋就是腰，不是套上去的饰品；松开是形状，不是断裂或伤口"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：皮筋就是腰。特殊材质只有砖色橡胶。新组合：松开一寸的皮筋腰。不像绘本。头像可见宽皮筋两端。做得成。姿态：松开，不是绷紧或弹开。",
+  "crop": "记忆点在腰上松开一寸的宽皮筋和蜜橘圆头，头像可见皮筋两端即可认出。",
+  "collide": "不同于健身皮筋吉祥物或被勒住的娃娃：皮筋就是腰，已经松开，脸收着，不做运动或疼痛。",
+  "pose": "立定微侧，腰上的皮筋松开一寸，重心稳定",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "皮筋被画成手环或头发绳"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩圆身体，皮筋不够宽"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "皮筋写满刻度文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通圆球"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉皮筋后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只蜜橘短绒圆身体和一圈已经松开的宽皮筋长在一起：这圈皮筋就是它的腰，拿掉皮筋就没有角色。蜜橘圆绒头和圆绒身连在一起，几乎没有颈，腰上横着一圈砖色宽橡胶，已经松开一寸，两端轻轻翘起，没有勒进身体，也没有绷断，腹下两枚短钝足。半垂小黑豆眼，极小一字嘴，视线微微落下。双足左右分开站稳，微微侧过身，像刚刚停下来，腰才松开。主体是蜜橘短绒，只有腰上那圈是砖色橡胶，卡扣有一点蓝。配色是蜜橘配砖色橡胶，加一点蓝。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要锁链或被夹痛的造型，不要选美王冠，不要可阅读的文字和数字，不要发光屏幕里的节目画面，不要绷到嵌进肉里的橡皮筋，不要满溢泼溅的汤。",
+  "enp": "Original designer toy character: a honey-tangerine plush rounded body fused with a wide rubber band that has already loosened an inch — the band is the waist, without it there is no character. A tangerine rounded head meets a rounded body, almost no neck, a brick-red wide rubber band sits at the waist already slack, both ends gently lifted, not cutting in and not snapped, two short blunt feet below. Half-lidded tiny black bean eyes, a tiny straight mouth, gaze slightly lowered. Feet planted apart, standing still and slightly turned, as if work has just stopped and the waist has eased. Body is honey-tangerine plush; only the waist band is brick-red rubber; a small blue accent sits on the clasp. Colors: honey tangerine with brick-red rubber and a blue accent. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No chains or a frame that pinches, no pageant crown, no readable letters or numerals, no TV program playing on a lit screen, no rubber band cutting into the body, no overflowing or splashing broth."
+}

@@ -1,0 +1,77 @@
+{
+  "id": "star-jujingyi-e1-A1",
+  "source": "grok-star",
+  "render": "concept",
+  "created": "2026-11-24",
+  "updated": "2026-11-24",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：框长进身体而非套在外面的相框。识别：一门微开的框沿。不普通：拿掉框角色不成立。材质只有深木釉面。配色两三色强对比。新组合。特点夸张到框的尺度。不做成夹痛或锁链。",
+  "ip": "star-jujingyi-e1",
+  "n": 1,
+  "species": "把每件事做成应该的规矩框",
+  "title": "框就是身体，一门微开",
+  "axes": {
+    "archetype": "物件生物，一门微开的规矩框身",
+    "silhouette": "竖长圆角木框当身体，框心一颗暖绒圆核，一侧小门微开一指宽，短钝足立在框下",
+    "mark": "身 · 整只身体就是一只一门微开的规矩框，框心是软核，门没有关死",
+    "face": "半垂小黑豆眼贴在框心圆核上，极小一字嘴，眼距正常，视线平视",
+    "emotion": "内收，框还在，门不必关死",
+    "fusion": "物件就是身体：规矩框就是胸腹和轮廓，拿掉框角色就不成立",
+    "material": "主体暖沙短绒，只有外框是硬质深木釉面",
+    "palette": "暖沙绒配深木釉，框沿一点签名蓝"
+  },
+  "head": "框心是一颗暖沙圆核小头，几乎没有颈，头顶被上框轻轻罩住，不压痛",
+  "combo": "一门微开的深木框身 + 暖沙圆核 + 半垂平视的小眼 + 框沿一点蓝",
+  "odd": "框还站着，门却留了一指宽，像应该的事排好了，人不必被关死",
+  "why": "你可以不必一直那么应该。框还在，门已经开了一点。",
+  "spec": {
+    "proportion": "头核约占全高 34%，外框高约为头高的 2.4 倍，框宽约为头宽的 1.6 倍，微开的门缝约一头宽的 1/6，短钝足约占全高 12%",
+    "outline": "竖长圆角矩形框，一侧小门微开，框心圆核，框下两枚短钝足",
+    "volume": "大：外框；中：圆核头；小：短足和框沿一截蓝",
+    "face": "眼在圆核中下部，半垂，眼距约一个眼宽，不张嘴，框面和门上不写字母、品牌和数字文字",
+    "stance": "两枚短钝足左右分开站稳，微侧，不迈步，门保持微开，不倾倒",
+    "structure": "暖沙绒核心和深木釉面外框长在一起，框就是身体，不是套在外面的相框；门从框的一侧长出，是身体的一部分"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：框就是身体。特殊材质只有深木釉面框。新组合：一门微开的框身人。不像绘本。头像可见框沿和门缝。做得成。姿态：门微开，不是锁死或摔碎。",
+  "crop": "记忆点在框心圆核头和微开的门缝，头像可见框沿与门缝即可认出。",
+  "collide": "不同于被困在相框里的娃娃或 puni 相框吉祥物：框就是身体，门微开，脸收着，不做囚禁。",
+  "pose": "立定微侧，一门微开，重心在框正中",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "门被画成装饰窗花"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩圆头，框不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "框面写满规矩文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉框后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只暖沙短绒圆核和一只一门微开的规矩框长在一起：整只框就是它的身体，拿掉框就没有角色。竖长的深木釉面圆角框围成胸腹，一侧小门只开一指宽，没有锁、没有链条，框下两枚短钝足。框心是一颗暖沙圆核小头，几乎没有颈，半垂小黑豆眼，极小一字嘴，视线平视。双足左右分开站稳，微微侧过身，像应该的事还在，门不必关死。主体是暖沙短绒，只有外框是硬质深木釉面，框沿有一点蓝。配色是暖沙配深木釉，加一点蓝。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要锁链或被夹痛的造型，不要选美王冠，不要可阅读的文字和数字，不要发光屏幕里的节目画面，不要绷到嵌进肉里的橡皮筋，不要满溢泼溅的汤。",
+  "enp": "Original designer toy character: a warm-sand plush rounded core fused with a slightly open rule-frame — the frame is the body, without it there is no character. A tall rounded dark-wood enamel frame forms the torso, a small door leaves a finger-wide gap, no lock and no chain, two short blunt feet below. A warm-sand rounded head sits in the frame, almost no neck, half-lidded tiny black bean eyes, a tiny straight mouth, gaze level. Feet planted apart, standing still and slightly turned, as if the rules remain and the door need not shut tight. Body is warm-sand plush; only the frame is hard dark-wood enamel; a small blue accent sits on the frame edge. Colors: warm sand with dark-wood enamel and a blue accent. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No chains or a frame that pinches, no pageant crown, no readable letters or numerals, no TV program playing on a lit screen, no rubber band cutting into the body, no overflowing or splashing broth."
+}

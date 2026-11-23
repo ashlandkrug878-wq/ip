@@ -1,0 +1,77 @@
+{
+  "id": "star-jujingyi-e1-A2",
+  "source": "grok-star",
+  "render": "concept",
+  "created": "2026-11-24",
+  "updated": "2026-11-24",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：模具壳长进身体而非穿上的盔甲。识别：一线打开的对开壳。不普通：拿掉壳角色不成立。材质只有釉面陶。配色两三色强对比。新组合。特点夸张到壳的尺度。接缝不是伤口。",
+  "ip": "star-jujingyi-e1",
+  "n": 2,
+  "species": "公式壳",
+  "title": "模具壳就是身体，接缝露出软核",
+  "axes": {
+    "archetype": "物件生物，对开模具壳身",
+    "silhouette": "左右两片圆钝模具壳扣成身体，腹前一条细接缝略打开，露出暖沙软核，短足立在壳下",
+    "mark": "身 · 整只身体就是一副对开的公式壳，接缝只开一线，软核还在里面",
+    "face": "半垂小黑豆眼从接缝上方的软核露出，极小一字嘴，视线平视",
+    "emotion": "内收，壳还在，接缝已经留下一口气",
+    "fusion": "物件就是身体：公式模具壳就是胸腹，拿掉壳角色就不成立",
+    "material": "主体暖沙短绒，只有外壳是硬质米白釉面陶",
+    "palette": "暖沙绒配米白釉面，接缝一点蜜橘"
+  },
+  "head": "接缝上方鼓出一颗暖沙软核小头，几乎没有颈，壳的上沿像浅浅的冠，不做成帽子",
+  "combo": "对开米白釉面壳 + 一线接缝露出软核 + 半垂小眼 + 接缝一点蜜橘",
+  "odd": "壳是应该有的形状，接缝却留了一线，像自然的时候终于被看见",
+  "why": "你可以不必一直那么应该。壳还在，接缝已经开了一线。",
+  "spec": {
+    "proportion": "头核约占全高 32%，两片壳合起来宽约为头宽的 1.8 倍，接缝开口约一头宽的 1/8，短钝足约占全高 12%",
+    "outline": "左右对称的圆钝对开壳，腹前一线细开，上沿鼓出圆核头，壳下两枚短钝足",
+    "volume": "大：两片釉面壳；中：软核头；小：短足和接缝一截蜜橘",
+    "face": "眼在软核中下部，半垂，眼距约一个眼宽，不张嘴，壳面不写字母、模具编号和文字",
+    "stance": "两枚短钝足左右分开站稳，微侧，接缝保持一线打开，不裂开、不合死",
+    "structure": "暖沙绒核心和米白釉面壳长在一起，壳就是身体，不是套上的盔甲；接缝是身体上的一条开口，不是伤口"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：壳就是身体。特殊材质只有米白釉面陶壳。新组合：一线打开的公式壳。不像绘本。头像可见接缝和壳沿。做得成。姿态：接缝微开，不是碎裂。",
+  "crop": "记忆点在对开壳和一线接缝里的软核头，头像可见壳沿即可认出。",
+  "collide": "不同于盔甲战士或巧克力模具吉祥物：壳就是身体，只开一线，脸收着，不做战斗或食品商标。",
+  "pose": "立定微侧，接缝一线打开，重心在两片壳之间",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "壳被画成穿着的盔甲"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩圆头，对开壳不清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "壳面写满编号文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉壳后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只暖沙短绒软核和一副对开的公式模具壳长在一起：整副壳就是它的身体，拿掉壳就没有角色。左右两片米白釉面圆钝壳扣成胸腹，腹前一条细接缝只打开一线，没有裂口也没有锁扣，壳下两枚短钝足。接缝上方鼓出一颗暖沙软核小头，几乎没有颈，半垂小黑豆眼，极小一字嘴，视线平视。双足左右分开站稳，微微侧过身，像应该有的形状还在，自然的部分已经露出一线。主体是暖沙短绒，只有外壳是硬质米白釉面陶，接缝有一点蜜橘色。配色是暖沙配米白釉面，加一点蜜橘。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要锁链或被夹痛的造型，不要选美王冠，不要可阅读的文字和数字，不要发光屏幕里的节目画面，不要绷到嵌进肉里的橡皮筋，不要满溢泼溅的汤。",
+  "enp": "Original designer toy character: a warm-sand plush core fused with a two-part mold shell — the shell is the body, without it there is no character. Two blunt cream enamel half-shells form the torso, a thin seam at the front opens only a line, no crack and no latch, two short blunt feet below. A warm-sand core peeks up from the seam as a small head, almost no neck, half-lidded tiny black bean eyes, a tiny straight mouth, gaze level. Feet planted apart, standing still and slightly turned, as if the set shape remains and a natural line is already showing. Body is warm-sand plush; only the shell is hard cream enamel; a small honey-tangerine accent sits on the seam. Colors: warm sand with cream enamel and a honey-tangerine accent. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No chains or a frame that pinches, no pageant crown, no readable letters or numerals, no TV program playing on a lit screen, no rubber band cutting into the body, no overflowing or splashing broth."
+}

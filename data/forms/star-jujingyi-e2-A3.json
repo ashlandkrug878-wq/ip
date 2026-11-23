@@ -1,0 +1,77 @@
+{
+  "id": "star-jujingyi-e2-A3",
+  "source": "grok-star",
+  "render": "concept",
+  "created": "2026-11-24",
+  "updated": "2026-11-24",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：橘子长成身体而非手持水果。识别：打开的瓣和釉叶。不普通：拿掉橘子角色不成立。材质只有釉皮和叶。配色两三色强对比。新组合。特点夸张到分瓣结构。不做成空心或餐盘。",
+  "ip": "star-jujingyi-e2",
+  "n": 3,
+  "species": "实心蜜橘",
+  "title": "橘子就是身体，瓣是打开的结构",
+  "axes": {
+    "archetype": "物件生物，实心分瓣蜜橘身",
+    "silhouette": "一枚放大的实心蜜橘当身体，两三瓣轻轻打开露出乳白瓤绒，顶部一片青绿釉叶，短足立在橘底",
+    "mark": "身 · 整只身体就是一枚实心分瓣的蜜橘，瓣打开是结构，不是手里的水果",
+    "face": "半垂小黑豆眼贴在未打开的橘皮圆顶上，极小一字嘴，视线平视",
+    "emotion": "内收，皮还在，瓣已经打开，心是实的",
+    "fusion": "物件就是身体：蜜橘就是头和胸腹，拿掉橘子角色就不成立",
+    "material": "主体乳白瓤短绒，只有外皮和那片叶是硬质蜜橘釉与青绿釉",
+    "palette": "蜜橘釉皮配乳白瓤绒，一片青绿釉叶"
+  },
+  "head": "未打开的上半是圆钝橘皮顶，当作头，几乎没有颈，叶片从顶侧长出，不是帽子",
+  "combo": "分瓣打开的蜜橘身 + 乳白瓤绒 + 半垂小眼 + 一片青绿釉叶",
+  "odd": "皮还包着，瓣却打开了，像壳还在，里面是实心的，不是空的噱头",
+  "why": "先放下那层壳，我想被记得能力不错。打开的是瓣，心是实的。",
+  "spec": {
+    "proportion": "头部橘顶约占全高 38%，打开的两三瓣各约占头宽的 1/2，叶片长约头宽的 2/3，短钝足约占全高 12%",
+    "outline": "圆钝橘顶作头，下半两三瓣轻轻打开，顶侧一片叶子，橘底两枚短钝足",
+    "volume": "大：橘皮和打开的瓣；中：乳白瓤和头；小：短足和叶片",
+    "face": "眼在橘顶中下部，半垂，眼距约一个眼宽，不张嘴，皮面和叶片不写字母和品牌",
+    "stance": "两枚短钝足左右分开站稳，微侧，瓣保持轻轻打开，不掉瓣、不做成切开的餐盘",
+    "structure": "乳白瓤绒和蜜橘釉皮长在一起，橘子就是身体，不是手里拿的水果或头上的徽章；打开的瓣是身体结构"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：橘子就是身体。特殊材质是釉面橘皮和叶。新组合：分瓣打开的实心橘人。不像绘本。头像可见橘皮和打开的瓣。做得成。姿态：瓣轻轻打开，不是被剥光或摆盘。",
+  "crop": "记忆点在打开的橘瓣和橘皮圆顶上的小眼，头像可见瓣和叶即可认出。",
+  "collide": "不同于水果摊吉祥物或普通拟人橘子：橘子就是身体，瓣是打开的结构，脸收着，不做食品广告。",
+  "pose": "立定微侧，两三瓣轻轻打开，叶子停在顶侧",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "橘子被画成手里的水果或胸针"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩圆球，瓣不够打开"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "皮上写出品牌文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通圆果"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉橘子后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一枚实心蜜橘和乳白瓤绒长在一起：整枚橘子就是它的身体，拿掉橘子就没有角色。上半是圆钝的蜜橘釉皮当作头，几乎没有颈，下半两三瓣轻轻打开，露出乳白短绒瓤，不是空心的，顶侧长出一片青绿釉叶，不是戴上的帽子，橘底两枚短钝足。半垂小黑豆眼贴在橘皮圆顶上，极小一字嘴，视线平视。双足左右分开站稳，微微侧过身，像皮还在，瓣已经打开，心是实的。主体是乳白瓤短绒，只有外皮和那片叶是硬质釉面。配色是蜜橘釉皮配乳白瓤，加一片青绿叶。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要锁链或被夹痛的造型，不要选美王冠，不要可阅读的文字和数字，不要发光屏幕里的节目画面，不要绷到嵌进肉里的橡皮筋，不要满溢泼溅的汤。",
+  "enp": "Original designer toy character: a solid honey tangerine fused with cream pith plush — the tangerine is the body, without it there is no character. The upper half is a blunt honey-tangerine enamel peel serving as the head, almost no neck, two or three lower segments gently open to show cream short-plush pith, not hollow, one teal-green enamel leaf grows from the top side, not a worn hat, two short blunt feet at the base. Half-lidded tiny black bean eyes sit on the peel, a tiny straight mouth, gaze level. Feet planted apart, standing still and slightly turned, as if the peel remains, the segments have opened, and the center is solid. The pith is cream plush; only the peel and the leaf are hard enamel. Colors: honey-tangerine enamel with cream pith and one teal-green leaf. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No chains or a frame that pinches, no pageant crown, no readable letters or numerals, no TV program playing on a lit screen, no rubber band cutting into the body, no overflowing or splashing broth."
+}

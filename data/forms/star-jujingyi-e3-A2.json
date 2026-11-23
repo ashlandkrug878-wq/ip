@@ -1,0 +1,77 @@
+{
+  "id": "star-jujingyi-e3-A2",
+  "source": "grok-star",
+  "render": "concept",
+  "created": "2026-11-24",
+  "updated": "2026-11-24",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：石凳长进身体而非身下家具。识别：横凳面和坐进去的圆核。不普通：拿掉石凳角色不成立。材质只有灰石釉。配色两三色强对比。新组合。特点夸张到凳的宽度。不出现地名指示牌。",
+  "ip": "star-jujingyi-e3",
+  "n": 2,
+  "species": "公园里的石凳",
+  "title": "石凳就是身体，人坐进凳里",
+  "axes": {
+    "archetype": "物件生物，停住的石凳身",
+    "silhouette": "一条短石凳横在腰线当身体，凳面微凹，暖绒圆核坐进凳里，两端凳腿着地",
+    "mark": "身 · 整只身体就是一条公园石凳，圆核已经坐进凳面，不再往前走",
+    "face": "半垂小黑豆眼贴在坐进凳面的圆核上，极小一字嘴，视线落下",
+    "emotion": "内收，走累了，已经在凳上松开",
+    "fusion": "物件就是身体：石凳就是腰和腿，拿掉石凳角色就不成立",
+    "material": "主体苔绿短绒，只有凳面和凳腿是硬质灰石釉",
+    "palette": "苔绿绒配灰石釉，凳沿一点签名蓝"
+  },
+  "head": "坐进凳面的是一颗苔绿圆核小头，几乎没有颈，头顶光顺，不戴帽子",
+  "combo": "横在腰线的灰石凳 + 坐进凳面的苔绿圆核 + 半垂落下的小眼 + 凳沿一点蓝",
+  "odd": "凳还是一条凳，人已经坐进凳里，像绷紧之后终于停在公园",
+  "why": "车我自己推，绷紧了再去公园松开。人已经坐进凳里。",
+  "spec": {
+    "proportion": "头核约占全高 34%，石凳宽约为头宽的 2.3 倍，凳面厚约头高的 1/3，两端凳腿约占全高 20%",
+    "outline": "一条横短石凳，圆核坐进微凹的凳面，两端粗短凳腿着地，没有另生的脚",
+    "volume": "大：石凳面和腿；中：圆核头；小：凳沿一截蓝",
+    "face": "眼在圆核中下部，半垂，眼距约一个眼宽，不张嘴，凳面不写园名、字母和数字",
+    "stance": "两端凳腿左右着地坐稳，微侧，不站起来，不滑下凳面",
+    "structure": "苔绿绒核心和灰石釉凳长在一起，石凳就是身体，不是坐在旁边的家具；圆核坐进凳面，是身体的一部分"
+  },
+  "toy_check": "站得住：凳腿着地。物件长进去：石凳就是身体。特殊材质只有灰石釉。新组合：人坐进凳身里。不像绘本。头像可见凳面和圆核。做得成。姿态：坐稳松开，不是躺倒或奔跑。",
+  "crop": "记忆点在横石凳和坐进凳面的圆核头，头像可见凳沿即可认出。",
+  "collide": "不同于公园吉祥物或长椅上的小人：石凳就是身体，人坐进凳里，脸收着，不出现地名或指示牌。",
+  "pose": "坐稳微侧，圆核陷在凳面，凳腿着地",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "石凳被画成身下的家具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩圆头，凳面不够横"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "凳面写出园名文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通坐姿小人"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉石凳后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只苔绿短绒圆核和一条短石凳长在一起：整条石凳就是它的身体，拿掉石凳就没有角色。一条灰石釉短凳横在腰线，凳面微凹，苔绿圆核小头坐进凳里，几乎没有颈，两端粗短凳腿着地，没有另生的脚。半垂小黑豆眼，极小一字嘴，视线落下。凳腿左右分开坐稳，微微侧过身，像走累了，终于在这里松开。主体是苔绿短绒，只有凳面和凳腿是硬质灰石釉，凳沿有一点蓝。配色是苔绿配灰石釉，加一点蓝。单个角色完整全身，正面略侧，坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要锁链或被夹痛的造型，不要选美王冠，不要可阅读的文字和数字，不要发光屏幕里的节目画面，不要绷到嵌进肉里的橡皮筋，不要满溢泼溅的汤。",
+  "enp": "Original designer toy character: a moss-green plush rounded core fused with a short stone bench — the bench is the body, without it there is no character. A grey-stone enamel bench sits at the waist, the seat is slightly concave, a moss-green rounded head sits down into it, almost no neck, two thick short legs meet the ground, no extra feet. Half-lidded tiny black bean eyes, a tiny straight mouth, gaze lowered. Bench legs planted apart, sitting still and slightly turned, as if the walk has ended and the figure has finally loosened here. Body is moss-green plush; only the seat and legs are hard grey-stone enamel; a small blue accent sits on the bench edge. Colors: moss green with grey-stone enamel and a blue accent. Single character, full body, slight three-quarter front view, sitting on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No chains or a frame that pinches, no pageant crown, no readable letters or numerals, no TV program playing on a lit screen, no rubber band cutting into the body, no overflowing or splashing broth."
+}
