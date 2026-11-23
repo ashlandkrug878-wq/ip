@@ -22,8 +22,8 @@
   ],
   "tier": "standard",
   "status": "partial",
-  "cutoff_date": "2026-11-22",
-  "updated": "2026-11-22",
+  "cutoff_date": "2026-11-23",
+  "updated": "2026-11-23",
   "summary": "森林日常由被窝、衣装、手作与群像分工落到产品；官方功能证据清楚，近期讨论可核，规模与增长因果未知。",
   "owner": {
     "creator": null,
@@ -491,7 +491,8 @@
     "2026-11-19：V41/V42均未过，继续同一V04；英文双图编辑依赖V40→V2→V04，不等于单附官方图、纯文字或中文通过。小红书连接Unknown tool，固定两组查询未执行，实读0页。",
     "2026-11-20：仅官方V04输入的V43/V44仍未过额脸、五官、比例及平涂关卡；不换目标。小红书fresh bootstrap Unknown tool，固定两组查询未执行，实读0页。",
     "2026-11-21：V45/V46仍未过，额脸、比例、细节和平涂缺口；不换目标。小红书fresh bootstrap Unknown tool，固定两组查询未执行，实读0页。今日未新增独立用户样本。",
-    "2026-11-22：V47/V48中文仅附V04仍未过，额脸、头身裤腿、肢体与渐层有偏差；固定目标不变。小红书fresh bootstrap Unknown tool，固定两组查询未执行、实读0页。本日新增独立用户0。"
+    "2026-11-22：V47/V48中文仅附V04仍未过，额脸、头身裤腿、肢体与渐层有偏差；固定目标不变。小红书fresh bootstrap Unknown tool，固定两组查询未执行、实读0页。本日新增独立用户0。",
+    "2026-11-23：V49/V50英文仅附V04仍未过，额脸、比例、肢体与渐层缺口；小红书当前连接Unknown tool，固定两组未执行、实读0页。首页原11/19评价已不在展示区，本日不声称重读，无新增用户样本。"
   ],
   "sources": [
     {
@@ -2720,22 +2721,108 @@
       "access": "partial",
       "claim_type": "media_report",
       "notes": "湃客机构上传描述树洞、秋千、床和书四类互动场景；未独立确认现场采访、客流或转化。与品牌活动报道可能同稿源，不新增独立用户证据；视频和图片未开，场景为文本报道而非视觉观察。"
+    },
+    {
+      "id": "AL01",
+      "title": "上海快闪官方主帖",
+      "url": "https://www.sina.cn/news/detail/5363403062510512.html",
+      "publisher": "www.sina.cn",
+      "published": "2026-11-09",
+      "observed": "2026-11-23",
+      "event_date": [
+        "2026-11-13",
+        "2026-11-26"
+      ],
+      "access": "partial",
+      "notes": "认证品牌主帖计划11/13—26快闪、11/16起非预约；不是今日实际开门或成交证明。11/20—22见面会计划已过，不能称11/23仍有见面会。图片未开。"
+    },
+    {
+      "id": "AL02",
+      "title": "店铺首页动态样本变化",
+      "url": "https://www.rakuten.co.jp/pop-mart-japan/",
+      "publisher": "www.rakuten.co.jp",
+      "published": null,
+      "observed": "2026-11-23",
+      "event_date": null,
+      "access": "partial",
+      "notes": "今日展示3条11/22评价均链接其他IP，不纳入本IP；原11/19未拆封评价不在当前区，不声称本日重读。历史AK02保留原观察日，本轮新用户0。商品条目见3520JPY起及店内第6位，但未见统计期/指标定义，不能对比历史第4位推下降，更非全网销量榜。"
+    },
+    {
+      "id": "AL03",
+      "title": "Nommi集合页复核",
+      "url": "https://gotoptoy.com/ja/collections/nommi/NOMMI",
+      "publisher": "gotoptoy.com",
+      "published": null,
+      "observed": "2026-11-23",
+      "event_date": null,
+      "access": "partial",
+      "notes": "手机挂饰Limited Edition 10USD起与惊喜袋16.99USD起仍不同SKU；不证明开售、支付或销量。站点自称TOPTOY x NOMMI不证明授权、MINISO自有、版权买断或中国SKU。权属与独立需求仍缺。"
+    },
+    {
+      "id": "AL04",
+      "title": "三丽鸥赠品条款复核",
+      "url": "https://www.sanrio.co.jp/news/shop/mx-xmas-novelty-20261113/",
+      "publisher": "www.sanrio.co.jp",
+      "published": "2026-11-13",
+      "observed": "2026-11-23",
+      "event_date": "2026-11-20",
+      "access": "partial",
+      "notes": "11/20更新、5500JPY含税门槛、全7角色；门店一次最多1个，线上11000JPY以上最多2个且随机。条款不证明库存/销量；已有角色去重。三丽鸥小红书按用户要求跳过，图未开。"
+    },
+    {
+      "id": "AL05",
+      "title": "日本唱歌毛绒厂家文本",
+      "url": "https://toy.bandai.co.jp/ja/item/01_21264/",
+      "publisher": "toy.bandai.co.jp",
+      "published": null,
+      "observed": "2026-11-23",
+      "event_date": "2026-11-21",
+      "access": "partial",
+      "notes": "11/21发售、建议零售7920JPY含税、约240mm，抚头摇摆唱歌两模式、3节AAA另购；发布日期未见，不证明到货或实销。未播放/操作，图未开。"
+    },
+    {
+      "id": "AL06",
+      "title": "MINITEEN韩文官方通知",
+      "url": "https://weverse.io/seventeen/notice/40906?hl=ko",
+      "publisher": "weverse.io",
+      "published": null,
+      "observed": "2026-11-23",
+      "event_date": [
+        "2026-11-20",
+        "2026-11-30"
+      ],
+      "access": "partial",
+      "notes": "公开正文计划11/20—30、11—21时KST、圣水Square Portal，11/17预约。未登录/预约，不核满额、客流或实销；发布日期未知，多语言同通知不重复。"
+    },
+    {
+      "id": "AL07",
+      "title": "PUPPET SUNSUN常设店媒体线索",
+      "url": "https://collabo-cafe.com/events/collabo/puppet-sunsun-store-open-goods-2026/",
+      "publisher": "collabo-cafe.com",
+      "published": null,
+      "observed": "2026-11-23",
+      "event_date": [
+        "2026-11-20",
+        "2026-11-24"
+      ],
+      "access": "partial",
+      "notes": "搜索标昨日；本次正文未核发表日期，不强填。摘要称东京11/20及大阪11/24、限定商品；正文仅部分取得，作为媒体供给线索，非实地到访或独立需求。未开图，不作视觉断言。"
     }
   ],
-  "archive": "research/ribodiary/2026-11-22/index.html",
-  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-22/",
-  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-22/",
+  "archive": "research/ribodiary/2026-11-23/index.html",
+  "web_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-23/",
+  "report_url": "https://ashlandkrug878-wq.github.io/ip/research/ribodiary/2026-11-23/",
   "prompt_validation": {
     "status": "partial",
-    "mode": "旧V2英文附图有限身份近似；本日V47/V48中文仅附官方V04仍revise",
+    "mode": "旧V2英文附图有限身份近似；本日V49/V50英文仅附官方V04仍revise",
     "scope": "V04森林欢聚日蓝背带裤瑞宝挂件，可见微侧倾全身的二维身份转绘；排除摄影场景及文字，不证明有官方2D母版",
     "strict_flat_fill": "not_passed",
     "text_only": "English V10/V11 tested_not_passed",
     "stability": "one_repeat_observed_differences_not_validated",
-    "tests": "research/ribodiary/2026-11-22/prompt-tests.json",
-    "checkpoint": "research/ribodiary/2026-11-22/selection-and-progress.json",
+    "tests": "research/ribodiary/2026-11-23/prompt-tests.json",
+    "checkpoint": "research/ribodiary/2026-11-23/selection-and-progress.json",
     "usable_prior_test": "ribodiary-bearibo-flat-ref-v2",
     "chinese_reference": "V6/V7/V17/V18/V37/V38/V47/V48 tested_not_passed",
-    "reference_latest": "Chinese V47/V48 single V04 revise; English V45/V46 revise"
+    "reference_latest": "English V49/V50 single V04 revise; Chinese V47/V48 revise"
   }
 }
