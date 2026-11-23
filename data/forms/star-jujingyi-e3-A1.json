@@ -1,0 +1,77 @@
+{
+  "id": "star-jujingyi-e3-A1",
+  "source": "grok-star",
+  "render": "concept",
+  "created": "2026-11-24",
+  "updated": "2026-11-24",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：手推车长进身体而非手边工具。识别：肩上车把和停住的轮。不普通：拿掉车角色不成立。材质只有青釉。配色两三色强对比。新组合。特点夸张到车把和轮。不做成奔跑或苦力。",
+  "ip": "star-jujingyi-e3",
+  "n": 1,
+  "species": "自己推的车",
+  "title": "手推车就是身体，轮子已经停住",
+  "axes": {
+    "archetype": "物件生物，停稳的手推车身",
+    "silhouette": "小手推车的斗和车把长成身体，两只轮子着地已经停住，圆核头在斗沿上方，车把从肩侧长出",
+    "mark": "身 · 整只身体就是一辆自己推的手推车，轮子停着，没有第二个人的位置",
+    "face": "半垂小黑豆眼贴在圆核上，极小一字嘴，视线微微落下",
+    "emotion": "内收，车已经停稳，人刚刚松开",
+    "fusion": "物件就是身体：车斗和车把就是胸腹和手臂轮廓，拿掉手推车角色就不成立",
+    "material": "主体暖沙短绒，只有车斗边沿和轮圈是硬质青釉",
+    "palette": "暖沙绒配青釉车斗，轮心一点蜜橘"
+  },
+  "head": "斗沿上方是一颗暖沙圆核小头，几乎没有颈，头顶光顺",
+  "combo": "停稳的青釉手推车身 + 从肩侧长出的车把 + 半垂落下的小眼 + 轮心一点蜜橘",
+  "odd": "车把还在肩上，轮子却已经停住，像自己推完了，终于松开",
+  "why": "车我自己推，绷紧了再去公园松开。轮子已经停了。",
+  "spec": {
+    "proportion": "头核约占全高 32%，车斗宽约为头宽的 1.9 倍，车把向外伸出各约头宽的 2/3，轮子直径约占全高 18%，没有后座或第二组把手",
+    "outline": "圆核头，下面是浅斗，肩侧两根短钝车把，左右两只轮子着地，没有脚再踩地面",
+    "volume": "大：车斗和轮子；中：圆核头和车把；小：轮心一点蜜橘",
+    "face": "眼在圆核中下部，半垂，眼距约一个眼宽，不张嘴，车斗和轮上不写字母、品牌和数字",
+    "stance": "两只轮子左右着地站稳，微侧，轮子不转动，车把平举但不前倾，不像还在推",
+    "structure": "暖沙绒核心和青釉车斗、轮圈长在一起，手推车就是身体，不是手里推着的工具；车把从身体长出，没有另一双手"
+  },
+  "toy_check": "站得住：轮子着地。物件长进去：车就是身体。特殊材质只有青釉斗和轮圈。新组合：停稳的自推车身。不像绘本。头像可见车把和斗沿。做得成。姿态：轮子停住，不是奔跑或载货赶路。",
+  "crop": "记忆点在肩上车把和停住的轮子，头像可见斗沿和车把即可认出。",
+  "collide": "不同于搬运工公仔或超市购物车吉祥物：车就是身体，已经停稳，脸收着，不载货、不揽客。",
+  "pose": "立定微侧，轮子停住，车把平停在肩侧",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "车被画成手里推着的工具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩圆头，车把和轮不清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "车斗写满商标文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通车玩具"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉手推车后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只暖沙短绒圆核和一辆小手推车长在一起：整辆车就是它的身体，拿掉手推车就没有角色。浅浅的青釉车斗就是胸腹，肩侧长出两根短钝车把，没有第二个人的位置，左右两只轮子着地已经停住，不转动，斗沿上方是一颗暖沙圆核小头，几乎没有颈，没有另生的脚去踩地。半垂小黑豆眼，极小一字嘴，视线微微落下。轮子左右分开站稳，微微侧过身，像这辆车是自己推的，现在已经松开。主体是暖沙短绒，只有车斗边沿和轮圈是硬质青釉，轮心有一点蜜橘色。配色是暖沙配青釉，加一点蜜橘。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要锁链或被夹痛的造型，不要选美王冠，不要可阅读的文字和数字，不要发光屏幕里的节目画面，不要绷到嵌进肉里的橡皮筋，不要满溢泼溅的汤。",
+  "enp": "Original designer toy character: a warm-sand plush rounded core fused with a small handcart — the cart is the body, without it there is no character. A shallow celadon enamel basin is the torso, two short blunt handles grow from the shoulders, there is no place for a second person, two wheels rest on the ground already stopped, not turning, a warm-sand rounded head sits on the rim, almost no neck, no extra feet. Half-lidded tiny black bean eyes, a tiny straight mouth, gaze slightly lowered. Wheels planted apart, standing still and slightly turned, as if the cart was pushed by itself and has now come to rest. Body is warm-sand plush; only the basin rim and wheel rims are hard celadon enamel; a small honey-tangerine accent sits at the wheel centers. Colors: warm sand with celadon enamel and a honey-tangerine accent. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No chains or a frame that pinches, no pageant crown, no readable letters or numerals, no TV program playing on a lit screen, no rubber band cutting into the body, no overflowing or splashing broth."
+}

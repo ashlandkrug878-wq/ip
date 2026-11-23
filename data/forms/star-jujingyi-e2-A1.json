@@ -1,0 +1,77 @@
+{
+  "id": "star-jujingyi-e2-A1",
+  "source": "grok-star",
+  "render": "concept",
+  "created": "2026-11-24",
+  "updated": "2026-11-24",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：包裹长进身体而非背上的包。识别：没有收死的釉环气口。不普通：拿掉包裹角色不成立。材质只有靛色釉环。配色两三色强对比。新组合。特点夸张到气口。气口不是破洞或伤口。",
+  "ip": "star-jujingyi-e2",
+  "n": 1,
+  "species": "留着气口的包裹",
+  "title": "布包就是身体，留着一个气口",
+  "axes": {
+    "archetype": "物件生物，留着气口的布包身",
+    "silhouette": "暖米布包收成身体，顶部束口环没有收死，留出一个小气口，圆核头从气口露出，短足站在包底",
+    "mark": "身 · 整只身体就是一只没有收死的包裹，气口是故意留下的",
+    "face": "半垂小黑豆眼从气口下的圆核露出，极小一字嘴，视线平视",
+    "emotion": "内收，包裹还在，气口开着，能够呼吸",
+    "fusion": "物件就是身体：布包就是胸腹和轮廓，拿掉包裹角色就不成立",
+    "material": "主体暖米短绒布，只有束口环是硬质靛色釉面",
+    "palette": "暖米布配靛色釉环，气口一点蜜橘"
+  },
+  "head": "气口里是一颗暖米圆核小头，几乎没有颈，束口环像浅浅的圆沿，不压住眼睛",
+  "combo": "没有收死的暖米布包 + 靛色釉面束口环 + 气口里的圆核头 + 一点蜜橘",
+  "odd": "包还裹着，气口却开着，像壳还在，呼吸已经留下",
+  "why": "先放下那层壳，我想被记得能力不错。气口是故意留的。",
+  "spec": {
+    "proportion": "头核约占全高 33%，包身宽约为头宽的 1.7 倍，气口直径约头宽的 3/4，束口环厚约头高的 1/6，短钝足约占全高 12%",
+    "outline": "圆钝布包身，顶部一圈釉环，环心一个气口露出圆核头，包底两枚短钝足",
+    "volume": "大：布包身；中：圆核头和釉环；小：短足和气口一点蜜橘",
+    "face": "眼在圆核中下部，半垂，眼距约一个眼宽，不张嘴，包面和环上不写字母、品牌和文字",
+    "stance": "两枚短钝足左右分开站稳，微侧，气口保持打开，束口不收死、不散开",
+    "structure": "暖米绒布包和靛色釉环长在一起，包裹就是身体，不是背在身上的袋子；气口是身体上的开口，不是破洞"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：包裹就是身体。特殊材质只有靛色釉环。新组合：留着气口的包身。不像绘本。头像可见束口环和气口。做得成。姿态：气口开着，不是被捂住或撕开。",
+  "crop": "记忆点在束口环和气口里的圆核头，头像可见釉环即可认出。",
+  "collide": "不同于旅行背包吉祥物或捆扎袋娃娃：包裹就是身体，气口故意开着，脸收着，不做行李或商标。",
+  "pose": "立定微侧，气口打开，重心在包底",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "包裹被画成背上的背包"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩圆头，布包不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "包面写满文字商标"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉包裹后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只暖米短绒圆核和一只留着气口的布包长在一起：整只包裹就是它的身体，拿掉包裹就没有角色。暖米布包收成胸腹，顶部一圈靛色釉面束口环没有收死，正中留出一个小气口，圆核小头从气口露出，几乎没有颈，包底两枚短钝足。半垂小黑豆眼，极小一字嘴，视线平视。双足左右分开站稳，微微侧过身，像壳还在，呼吸的口已经留下。主体是暖米短绒布，只有束口环是硬质靛色釉面，气口沿有一点蜜橘色。配色是暖米配靛色釉环，加一点蜜橘。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要锁链或被夹痛的造型，不要选美王冠，不要可阅读的文字和数字，不要发光屏幕里的节目画面，不要绷到嵌进肉里的橡皮筋，不要满溢泼溅的汤。",
+  "enp": "Original designer toy character: a warm-rice plush rounded core fused with a cloth wrap that still leaves a vent — the wrap is the body, without it there is no character. A warm-rice cloth bundle forms the torso, an indigo enamel drawstring ring at the top is not pulled shut, a small vent opens in the center, a rounded head comes through, almost no neck, two short blunt feet at the base. Half-lidded tiny black bean eyes, a tiny straight mouth, gaze level. Feet planted apart, standing still and slightly turned, as if the wrap remains and a place to breathe has been left. Body is warm-rice plush cloth; only the ring is hard indigo enamel; a small honey-tangerine accent sits on the vent rim. Colors: warm rice with indigo enamel and a honey-tangerine accent. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No chains or a frame that pinches, no pageant crown, no readable letters or numerals, no TV program playing on a lit screen, no rubber band cutting into the body, no overflowing or splashing broth."
+}
