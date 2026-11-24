@@ -1,0 +1,75 @@
+{
+  "id": "star-yiyangqianxi-e2-A1",
+  "render": "concept",
+  "source": "grok-star",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：话筒长成身体而非手里拿麦。识别：圆麦头扭向一侧的话筒身。不普通：拿掉话筒角色不成立。材质只有金属网罩。配色炭灰配暗红网。新组合。特点夸张到麦头尺度。不做成乞求或被摔坏。",
+  "ip": "star-yiyangqianxi-e2",
+  "n": 1,
+  "species": "被躲开的话筒",
+  "title": "话筒就是身体，头已经扭开",
+  "axes": {
+    "archetype": "物件生物，头已扭开的话筒身",
+    "silhouette": "粗短话筒杆当身，浑圆麦头扭向一侧，尾端一小截线垂着但不拖地，两枚短钝足",
+    "mark": "身 · 整只身体就是一只认真伸着、头已经扭开的话筒",
+    "face": "一侧半垂、一侧略眯的小黑豆眼贴在圆麦头上，极小一字嘴，视线偏向扭开的方向",
+    "emotion": "内收，认真还在，不必被接住",
+    "fusion": "物件就是身体：话筒就是头和胸腹，拿掉话筒角色就不成立",
+    "material": "主体炭灰短绒，只有麦头网罩是硬质细金属网",
+    "palette": "炭灰绒配暗红金属网，杆上一道浅冷灰"
+  },
+  "head": "浑圆麦头就是头，几乎没有颈，整个头扭向左侧约四分之一圈",
+  "combo": "扭向一侧的圆麦头 + 炭灰短杆身 + 一垂一侧眯的小眼 + 暗红金属网罩",
+  "odd": "杆还对着前方，头却已经扭开，像问句停在半空",
+  "why": "认真递出去的话筒，也可以被扭头躲开。问还在，人不必追上去。",
+  "spec": {
+    "proportion": "麦头约占全高 40%，头宽略大于身宽，杆长约为头高的 1.3 倍，线垂约占全高 15%，短钝足约占全高 12%",
+    "outline": "浑圆麦头扭向一侧，粗短杆身，尾端一小截线，两枚短钝足前后略分开",
+    "volume": "大：圆麦头；中：杆身；小：垂线和短足",
+    "face": "眼在麦头中下部，左侧半垂、右侧略眯，眼距约一个眼宽，不张嘴，网罩上不写文字和台标",
+    "stance": "短足一前一后站稳，杆略前伸，头保持扭开，不迈步，垂线不拖地成线团",
+    "structure": "炭灰绒杆和金属网罩麦头长在一起，话筒就是身体，不是手持道具；垂线从杆尾长出，是身体的一小截，不是接线场面"
+  },
+  "toy_check": "站得住：短足着地，重心在杆。物件长进去：话筒就是身体。特殊材质只有金属网罩。新组合：头扭开的话筒身。不像绘本。头像可见圆麦头和网罩。做得成。姿态：头扭开、杆前伸，不是立正。",
+  "crop": "记忆点在扭开的圆麦头和暗红网罩，头像可见即可认出。",
+  "collide": "不同于舞台话筒吉祥物或主持人仔：话筒就是身体，头扭开，脸收着，不做演唱或追访动作。",
+  "pose": "杆略前伸，头向左侧扭开，短足前后分开站稳",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "话筒被画成手持道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "垂线缠成一团或拖地"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "网罩上出现台标文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通圆头"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉话筒后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一颗炭灰短绒圆核和一只头已经扭开的话筒长在一起：整只话筒就是它的身体，拿掉话筒就没有角色。粗短的炭灰杆就是胸腹，浑圆麦头向左侧扭开约四分之一圈，尾端一小截线垂着却不拖地，杆下两枚短钝足一前一后。麦头上是一侧半垂、一侧略眯的小黑豆眼，极小一字嘴，视线跟着扭开的方向。杆还略向前伸，头却已经扭开，像问句停在半空，人不必追上去。主体是炭灰短绒，只有麦头网罩是硬质细金属网，杆上一道浅冷灰。配色是炭灰配暗红金属网，加一道冷灰。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要编制证件或高考试卷，不要锁链或被夹痛的造型，不要可阅读的文字和数字，不要发光屏幕里的节目画面。不要手持话筒，不要台标，不要乞求表情。",
+  "enp": "Original designer toy character: a charcoal plush rounded core fused with a microphone whose head has already turned away — the microphone is the body, without it there is no character. A short thick charcoal stem forms the torso, a round mic head turns about a quarter to the left, a short cable hangs from the tail without touching the ground, two short blunt feet stand one slightly forward. On the mic head, tiny black bean eyes, one half-lidded and one slightly narrowed, a tiny straight mouth, gaze following the turned head. The stem still reaches a little forward, the head already turned, as if the question stays in the air and no one has to chase it. Body is charcoal plush; only the grille is hard fine metal mesh; a cool-grey band on the stem. Colors: charcoal with dark-red metal mesh and a cool-grey accent. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No official appointment papers or exam sheets, no chains or a form that pinches, no readable letters or numerals, no TV program playing on a lit screen. No handheld mic, no station logo, no pleading expression."
+}

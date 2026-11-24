@@ -1,0 +1,75 @@
+{
+  "id": "star-yiyangqianxi-e1-A3",
+  "render": "concept",
+  "source": "grok-star",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：纸条长成身体而非手上传条。识别：一角还空着的折叠纸条身，压着一小块木桌角。不普通：拿掉纸条角色不成立。材质只有一小块硬木桌角。配色原木配墨纸，一点红。新组合。特点夸张到折纸尺度。不做成被揉皱扔掉。",
+  "ip": "star-yiyangqianxi-e1",
+  "n": 3,
+  "species": "隔空递来的课桌纸条",
+  "title": "折叠纸条就是身体，一角还空着",
+  "axes": {
+    "archetype": "物件生物，一角还空着的折叠纸条身",
+    "silhouette": "多层折起的长纸条当身体，最外一折还空着，底部长进一小块原木课桌角，短边当足",
+    "mark": "身 · 整只身体就是一张隔空递来、一角还空着的折叠纸条",
+    "face": "平视小黑豆眼画在最外一折的空白上，极小点嘴，眼距略宽",
+    "emotion": "内收，纸条到了，不必写满",
+    "fusion": "物件就是身体：折叠纸条就是胸腹，课桌角是从身体长出的底座，拿掉纸条角色就不成立",
+    "material": "主体薄软墨灰纸绒，只有底座是一小块硬质原木桌角",
+    "palette": "墨灰纸配浅原木，空白折角一点签名红"
+  },
+  "head": "最外一折的空白方角就是扁头，没有颈，折痕就是顶轮廓",
+  "combo": "一角空白的折叠纸条身 + 长进身体的原木桌角座 + 平视略宽距的小眼 + 折角一点红",
+  "odd": "纸条已经递到桌上，最外一折却还空着，像话不必一次说完",
+  "why": "你可以退一步。纸条到了，空白也是给对方留下的。",
+  "spec": {
+    "proportion": "空白折角头约占全高 28%，折叠纸条身高约为头高的 2.5 倍，原木桌角座宽约为头宽的 1.4 倍、高约占全高 18%",
+    "outline": "层层折起的长纸条立在一小块三角桌角上，最外一折空白翻开，底部两短边着地",
+    "volume": "大：折纸条身；中：空白折角头；小：原木桌角座",
+    "face": "眼在空白折角中下部，平视，眼距约一个半眼宽，不张嘴，纸面不写可阅读文字",
+    "stance": "三角桌角座平稳着地，纸条微向前倾但不倒下，不是迈步",
+    "structure": "墨灰纸绒和原木桌角长在一起，纸条就是身体，桌角是长进去的底座，不是旁边的家具；空白折角是头，不是贴上去的便条"
+  },
+  "toy_check": "站得住：桌角座着地。物件长进去：纸条就是身体。特殊材质只有原木桌角。新组合：空着一角的折纸条身。不像绘本。头像可见空白折角和木座。做得成。姿态：微前倾，不是立正。",
+  "crop": "记忆点在空白折角头和原木桌角座，头像可见折痕与木纹即可认出。",
+  "collide": "不同于便签吉祥物或课桌文具仔：纸条就是身体，一角空白，脸收着，不做写字或传条动作。",
+  "pose": "微前倾立在桌角座上，最外一折空白翻开",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "纸条被画成手里的便条"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "桌角变成完整课桌背景"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "纸面出现字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通折纸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉纸条后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一张一角还空着的折叠纸条和一小块原木课桌角长在一起：整张折叠纸条就是它的身体，拿掉纸条就没有角色。层层折起的墨灰长纸条立起来，最外一折还空着，翻开成扁头，底部长进一小块三角原木桌角当座，短边着地。空白折角上是平视的小黑豆眼，眼距略宽，极小的点嘴。它微微向前倾，稳稳停在桌角上，像纸条已经递到，话却不必一次写完。主体是薄软墨灰纸绒，只有底座是硬质原木桌角，空白折角有一点红。配色是墨灰纸配浅原木，加一点红。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要编制证件或高考试卷，不要锁链或被夹痛的造型，不要可阅读的文字和数字，不要发光屏幕里的节目画面。不要完整课桌背景，不要纸上的字。",
+  "enp": "Original designer toy character: a folded slip of paper with one corner still blank, fused with a small hardwood desk-corner — the folded paper is the body, without it there is no character. Layered ink-grey folds stand upright, the outer fold left blank and opened into a flat head, the base grows into a small triangular hardwood desk corner, short edges on the ground. Tiny black bean eyes sit on the blank fold, slightly wide-set, gaze level, a tiny dot mouth. It leans a little forward, steady on the desk corner, as if the note has arrived and need not be fully written. Body is thin soft ink-grey paper plush; only the base is hard pale hardwood; a small red accent on the blank corner. Colors: ink-grey paper with pale hardwood and a red accent. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No official appointment papers or exam sheets, no chains or a form that pinches, no readable letters or numerals, no TV program playing on a lit screen. No full desk in the background, no writing on the paper."
+}

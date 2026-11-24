@@ -1,0 +1,75 @@
+{
+  "id": "star-yiyangqianxi-e1-A2",
+  "render": "concept",
+  "source": "grok-star",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：信封长成身体而非手里拿信。识别：一封未合死的回信身。不普通：拿掉信封角色不成立。材质只有蜡封印。配色米白配朱红蜡。新组合。特点夸张到信封尺度。不做成被拆碎。",
+  "ip": "star-yiyangqianxi-e1",
+  "n": 2,
+  "species": "未写满的回信",
+  "title": "信就是身体，封口未合死",
+  "axes": {
+    "archetype": "物件生物，未合死的回信身",
+    "silhouette": "竖长圆角信封当身体，翻盖只合到一半，信纸一角空白露出，蜡封印停在沿上，短圆足",
+    "mark": "身 · 整只身体就是一封还没写满、封口未合死的回信",
+    "face": "眯起的小黑豆眼贴在信封上段，极小的嘴，视线平视",
+    "emotion": "内收，信还在，不必写满",
+    "fusion": "物件就是身体：信封就是胸腹和轮廓，拿掉信封角色就不成立",
+    "material": "主体米白棉纸短绒，只有封印是硬质朱红蜡",
+    "palette": "米白棉纸配朱红蜡，沿下一道浅墨灰"
+  },
+  "head": "信封上段翻盖下是一颗米白扁圆小头，几乎没有颈，翻盖像浅檐，不压痛",
+  "combo": "翻盖半合的米白信封身 + 未写满的空白信角 + 眯起平视的小眼 + 一枚朱红蜡封",
+  "odd": "信已经回到手上，盖却只合到一半，还留着一角空白",
+  "why": "路还在走，回信不必写满，封口也不必合死。",
+  "spec": {
+    "proportion": "头约占全高 30%，信封身高约为头高的 2.3 倍，翻盖打开的缺口约一头宽的 1/4，蜡封直径约一头宽的 1/3，短圆足约占全高 12%",
+    "outline": "竖长圆角信封，翻盖半合，一角空白信纸露出，盖沿一枚蜡封，两枚短圆足",
+    "volume": "大：信封身；中：头和翻盖；小：蜡封与短足",
+    "face": "眼在上段中下部，轻轻眯起，眼距约一个眼宽，不张嘴，信纸和封面不写可阅读文字",
+    "stance": "短圆足左右分开坐稳，信封下沿轻抵面，微后倾，不像站岗，不飘起",
+    "structure": "米白棉纸绒和朱红蜡封长在一起，信封就是身体；空白信角从翻盖缺口长出，是身体的一部分，不是手持道具"
+  },
+  "toy_check": "坐得住：下沿和短足着地。物件长进去：信封就是身体。特殊材质只有朱红蜡。新组合：未合死的回信身。不像绘本。头像可见翻盖缺口和蜡封。做得成。姿态：坐着微后倾，不是立正。",
+  "crop": "记忆点在半合翻盖、空白信角和蜡封，头像可见这三处即可认出。",
+  "collide": "不同于邮差娃娃或节日贺卡吉祥物：信就是身体，空白还留着，脸收着，不做拆信或写信动作。",
+  "pose": "坐下微后倾，翻盖半合，空白信角露出",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "信被画成手持道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "坐姿不稳或飘起来"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "信面出现可阅读文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通信封"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉信封后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一颗米白棉纸圆核和一封未写满的回信长在一起：整只信封就是它的身体，拿掉信封就没有角色。竖长的米白圆角信封围成胸腹，翻盖只合到一半，一角空白信纸从缺口露出，没有字，盖沿停着一枚朱红蜡封，两枚短圆足。信封上段是一颗扁圆小头，几乎没有颈，轻轻眯起的小黑豆眼，极小的嘴，视线平视。它坐下，下沿轻抵面，微微后倾，像信已经回来，封口却不必合死。主体是米白棉纸短绒，只有封印是硬质朱红蜡，沿下一道浅墨灰。配色是米白配朱红蜡，加一道墨灰。单个角色完整全身，正面略侧，坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要编制证件或高考试卷，不要锁链或被夹痛的造型，不要可阅读的文字和数字，不要发光屏幕里的节目画面。不要可阅读的文字，不要把信拆碎。",
+  "enp": "Original designer toy character: a rice-white cotton-paper rounded core fused with an unfinished reply letter — the envelope is the body, without it there is no character. A tall rounded rice-white envelope forms the torso, the flap closes only halfway, a blank corner of paper shows through the gap, no writing, a vermilion wax seal rests on the flap edge, two short round feet. A flat rounded head sits under the flap, almost no neck, slightly narrowed tiny black bean eyes, a tiny mouth, gaze level. It sits, lower edge resting on the ground, leaning back a little, as if the letter has returned and the seal need not shut tight. Body is rice-white cotton-paper plush; only the seal is hard vermilion wax; a thin ink-grey edge. Colors: rice white with vermilion wax and an ink-grey accent. Single character, full body, slight three-quarter front view, sitting on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No official appointment papers or exam sheets, no chains or a form that pinches, no readable letters or numerals, no TV program playing on a lit screen. No readable writing, no torn-open letter."
+}
