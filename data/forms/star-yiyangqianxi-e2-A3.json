@@ -1,0 +1,75 @@
+{
+  "id": "star-yiyangqianxi-e2-A3",
+  "render": "concept",
+  "source": "grok-star",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：杯子长成身体而非手里端杯。识别：左右对半冷热釉的杯身。不普通：拿掉杯子角色不成立。材质只有釉面。配色暖陶橙配冷雾蓝。新组合。特点夸张到对半杯身。不做成烫伤或碎裂。",
+  "ip": "star-yiyangqianxi-e2",
+  "n": 3,
+  "species": "一面热一面冷的杯子",
+  "title": "杯身对半，热的一面伸着",
+  "axes": {
+    "archetype": "物件生物，一面热一面冷的对半杯身",
+    "silhouette": "圆肚杯身当身体，左右从杯口一分为二，热侧微倾，冷侧收回，短圈足",
+    "mark": "身 · 整只身体就是一只对半的杯子，热的一面伸着，冷的一面收回",
+    "face": "两只小黑豆眼分落在冷热交界两侧，热侧半开，冷侧略垂，极小的嘴在交界下",
+    "emotion": "内收，热可以伸，冷也可以在",
+    "fusion": "物件就是身体：杯子就是胸腹和头廓，拿掉杯子角色就不成立",
+    "material": "主体暖陶色短绒，只有冷的那一面是硬质冷雾蓝釉",
+    "palette": "暖陶橙配冷雾蓝釉，交界一道浅砂白"
+  },
+  "head": "杯口上沿内收成圆顶小头，几乎没有颈，热侧沿微微探出，冷侧沿收回",
+  "combo": "左右对半的杯身 + 探出的暖陶侧与收回的冷釉侧 + 交界两侧一开一垂的小眼 + 浅砂白交界",
+  "odd": "一只杯子从中间分成冷热两面，热的那面伸着，冷的那面并不躲到看不见",
+  "why": "热脸可以贴过去，冷的那一面也可以成立。",
+  "spec": {
+    "proportion": "头沿约占全高 26%，杯肚最大宽约为头宽的 1.8 倍，杯身约为头高的 2.4 倍，圈足约占全高 12%，冷热交界在正中略偏右",
+    "outline": "圆肚杯，左右对半，热侧沿前探、冷侧沿收回，底下一个矮圈足",
+    "volume": "大：杯肚；中：杯口头沿；小：圈足",
+    "face": "眼在杯口下沿，分列交界两侧，热侧半开、冷侧略垂，眼距略近，不张嘴，杯面不写文字",
+    "stance": "矮圈足平稳坐着，热侧微前倾，冷侧不翻倒，没有倒水动作",
+    "structure": "暖陶短绒和冷雾蓝硬釉长在同一只杯身上，杯子就是身体；交界是一道浅砂白，不是伤口，也不是被砸出的裂纹"
+  },
+  "toy_check": "坐得住：圈足着地。物件长进去：杯子就是身体。特殊材质只有冷面硬釉。新组合：对半冷热的杯身。不像绘本。头像可见对半交界。做得成。姿态：坐着热侧前倾，不是立正。",
+  "crop": "记忆点在左右对半的冷热杯身和交界线，头像可见即可认出。",
+  "collide": "不同于普通杯子拟人仔或破损餐具怪：冷热是同一具身体的两面，交界不是伤口，脸收着，不做倾倒或烫伤。",
+  "pose": "圈足坐稳，热侧微前倾，冷侧收回",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "杯子被画成手持道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "交界被画成伤口裂纹"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "杯面出现文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通圆杯"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉杯子后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一颗圆核和一只一面热一面冷的杯子长在一起：整只杯子就是它的身体，拿掉杯子就没有角色。圆肚杯身从杯口一分为二，暖陶的一面微微前探，冷雾蓝的一面轻轻收回，底下一个矮圈足。杯口内收成小头，两只小黑豆眼分落在交界两侧，热侧半开，冷侧略垂，极小的嘴在交界下。它坐着，热的一面伸着，冷的一面仍在，交界只是一道浅砂白，不是裂纹。主体是暖陶色短绒，只有冷的那一面是硬质冷雾蓝釉。配色是暖陶橙配冷雾蓝，加一道砂白。单个角色完整全身，正面略侧，坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要编制证件或高考试卷，不要锁链或被夹痛的造型，不要可阅读的文字和数字，不要发光屏幕里的节目画面。不要把交界画成伤口，不要倒水或打碎。",
+  "enp": "Original designer toy character: a rounded core fused with a cup that is warm on one side and cool on the other — the cup is the body, without it there is no character. A round belly splits from the rim, the warm-clay side leans a little forward, the mist-blue side draws back, a low ring foot below. The rim gathers into a small head, two tiny black bean eyes sit on either side of the join, the warm eye half-open, the cool eye slightly lowered, a tiny mouth under the join. It sits, the warm side reaching, the cool side still present, the join only a pale sand-white seam, not a crack. Body is warm-clay plush; only the cool side is hard mist-blue glaze. Colors: warm clay orange with mist-blue glaze and a sand-white seam. Single character, full body, slight three-quarter front view, sitting on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No official appointment papers or exam sheets, no chains or a form that pinches, no readable letters or numerals, no TV program playing on a lit screen. No wound-like seam, no pouring or broken cup."
+}

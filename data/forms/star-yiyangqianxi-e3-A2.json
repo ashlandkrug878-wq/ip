@@ -1,0 +1,75 @@
+{
+  "id": "star-yiyangqianxi-e3-A2",
+  "render": "concept",
+  "source": "grok-star",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：泥坯长成身体而非手里捏泥。识别：肩上一处还留着指痕的泥坯身。不普通：拿掉泥坯角色不成立。材质只有未光的湿泥。配色干土黄配湿泥深褐。新组合。特点夸张到未完成的肩。不做成坍塌或残缺伤害。",
+  "ip": "star-yiyangqianxi-e3",
+  "n": 2,
+  "species": "还在收着劲的泥塑坯",
+  "title": "泥坯就是身体，还有一处未光",
+  "axes": {
+    "archetype": "物件生物，还有一处未光的泥塑坯身",
+    "silhouette": "蹲坐的浑圆泥坯当身体，一侧肩还是未抹平的指痕块，头已光圆，短粗下肢收在身下",
+    "mark": "身 · 整只身体就是一座还在收着劲的泥塑坯，大部分已成形，一处肩还没光",
+    "face": "半垂小黑豆眼陷在已光的圆头上，极小的嘴，视线低看自己未光的肩",
+    "emotion": "内收，还没做完，已经站得住",
+    "fusion": "物件就是身体：泥坯就是整个形体，拿掉泥角色就不成立",
+    "material": "主体干土黄短绒，只有未光的肩块是湿润深褐陶泥质",
+    "palette": "干土黄配湿泥深褐，座底一点签名红"
+  },
+  "head": "已抹光的浑圆小头，几乎没有颈，顶上光洁，和未光的肩形成对照",
+  "combo": "已光的圆头泥坯身 + 一侧未抹平的湿泥肩 + 低看未光处的半垂小眼 + 座底一点红",
+  "odd": "头和身体已经成形，偏偏留下一边肩还是湿的指痕，像故意不把它做完",
+  "why": "边界可以一直改写。还没光的那一处，也是它。",
+  "spec": {
+    "proportion": "头约占全高 36%，蹲坐身高，躯干宽约为头宽的 1.5 倍，未光肩块宽约一头宽的 2/3、凸出约头宽的 1/3，下肢收在身下约占全高 20%",
+    "outline": "蹲坐浑圆泥坯，一侧肩未光，头圆，下肢短粗收拢",
+    "volume": "大：泥坯躯干；中：圆头和未光肩；小：收拢的下肢",
+    "face": "眼在圆头中下部，半垂，视线朝向未光的肩，眼距约一个眼宽，不张嘴，坯面没有可阅读刻字",
+    "stance": "蹲坐，下肢收在身下，重心稳，不是工作中的揉捏动作场面，肩上的指痕是定格的形体",
+    "structure": "干土黄绒主体和一处湿润深褐陶泥肩长在一起，整座泥坯就是身体；指痕是未完成的形，不是伤口或残肢"
+  },
+  "toy_check": "坐得住：蹲坐重心低。物件长进去：泥坯就是身体。特殊材质只有未光湿泥肩。新组合：一处未光的泥坯身。不像绘本。头像可见光头与湿肩对照。做得成。姿态：蹲坐，不是立正。",
+  "crop": "记忆点在已光圆头对照未光湿肩，头像可见即可认出。",
+  "collide": "不同于未完成雕塑吉祥物或泥巴小人：泥坯就是身体，只有一处未光，脸收着，不做坍塌、残缺或正在揉泥的劳动场面。",
+  "pose": "蹲坐，视线低看自己未光的肩",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成正在捏泥的劳动场面"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "未光肩被画成伤口残肢"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "坯面出现刻字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通圆泥球"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉泥坯后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一座还在收着劲的泥塑坯自己长成了身体：整座泥坯就是它，拿掉泥就没有角色。蹲坐的浑圆干土黄躯干已经成形，一侧肩却还留着未抹平的湿润指痕，头已经光成圆的。圆头上是半垂的小黑豆眼，极小的嘴，视线低看那处还没光的肩。下肢短粗，收在身下坐稳，像还没做完，却已经站得住。主体是干土黄短绒，只有未光的肩块是湿润深褐陶泥质，座底一点红。配色是干土黄配湿泥深褐，加一点红。单个角色完整全身，正面略侧，坐在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要编制证件或高考试卷，不要锁链或被夹痛的造型，不要可阅读的文字和数字，不要发光屏幕里的节目画面。不要正在揉泥的动作场面，不要把未光处画成残肢或伤口。",
+  "enp": "Original designer toy character: a still-unfinished clay blank that has become the body itself — the clay is the figure, without it there is no character. A squat, rounded dry-earth torso is already formed, one shoulder still holds unsmoothed damp finger marks, the head is already a smooth round. Half-lidded tiny black bean eyes sit on the smooth head, a tiny mouth, the gaze lowered toward the unfinished shoulder. Short thick legs tuck under, sitting steady, as if it is not done and can already hold itself. Body is dry-earth plush; only the unfinished shoulder is damp dark-brown clay; a small red accent at the base. Colors: dry earth yellow with damp clay brown and a red accent. Single character, full body, slight three-quarter front view, sitting on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No official appointment papers or exam sheets, no chains or a form that pinches, no readable letters or numerals, no TV program playing on a lit screen. No clay-kneading action scene, no unfinished area read as a wound or missing limb."
+}

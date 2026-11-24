@@ -1,0 +1,75 @@
+{
+  "id": "star-yiyangqianxi-e3-A3",
+  "render": "concept",
+  "source": "grok-star",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：纸鹤长成身体而非头上折纸。识别：一翼成形、一翼仍是方的纸鹤身。不普通：拿掉纸鹤角色不成立。材质只有一处印泥红。配色宣白配印泥红，一道浅墨。新组合。特点夸张到未折完的方翼。不做成残翼或折断。",
+  "ip": "star-yiyangqianxi-e3",
+  "n": 3,
+  "species": "一只未折完的纸鹤",
+  "title": "鹤就是身体，一翼还是方的",
+  "axes": {
+    "archetype": "物件生物，一翼还是方的未折完纸鹤身",
+    "silhouette": "鹤身三角折，一侧翼已拉开成尖，另一侧仍是未折的方角，短折足",
+    "mark": "身 · 整只身体就是一只未折完的纸鹤，一翼已经成形，一翼还停在方",
+    "face": "尖喙下是平视小黑豆眼，极小的嘴就在喙缝，眼距近",
+    "emotion": "内收，可以先停在半折",
+    "fusion": "物件就是身体：纸鹤折形就是头、胸和翼，拿掉折纸角色就不成立",
+    "material": "主体宣白纸绒，只有翼尖一处是硬质印泥红",
+    "palette": "宣白配印泥红，折棱一道浅墨灰"
+  },
+  "head": "三角折成的小尖头，喙短钝，不是细长尖刺，顶平",
+  "combo": "一翼成形一翼仍方的纸鹤身 + 短钝喙 + 近距平视小眼 + 翼尖一处印泥红",
+  "odd": "鹤已经立住了，一边翅膀却还停在未折的方，像故意把那一步留着",
+  "why": "边界可以一直改写。未折完也可以先立住。",
+  "spec": {
+    "proportion": "头约占全高 28%，已成形的尖翼展约为头宽的 1.6 倍，未折方翼边长约等于头宽，身高约为头高的 2.5 倍，短折足约占全高 14%",
+    "outline": "三角鹤身，一侧尖翼，一侧方角翼，短折足左右分开",
+    "volume": "大：鹤身与两翼；中：尖头；小：短折足和印泥红",
+    "face": "眼在喙后中下部，平视，眼距略近约半个眼宽，不张嘴，纸面不写文字",
+    "stance": "短折足左右分开站稳，尖翼微抬定格，不是飞翔场面，方角翼垂在身侧",
+    "structure": "宣白纸绒折成身体，纸鹤就是它；印泥红只落在已成形的翼尖一处，方角翼是未折完的形，不是断翼"
+  },
+  "toy_check": "站得住：短折足着地。物件长进去：纸鹤就是身体。特殊材质只有翼尖印泥红。新组合：一翼仍方的纸鹤身。不像绘本。头像可见尖翼与方翼对照。做得成。姿态：立定，一翼微抬，不是飞翔。",
+  "crop": "记忆点在一尖一方的两翼和短钝喙，头像可见即可认出。",
+  "collide": "不同于普通折纸鹤吉祥物或残翼鸟：鹤就是身体，一翼未折完仍是方的，脸收着，不做飞翔、残缺或幸运符标语。",
+  "pose": "立定，尖翼微抬定格，方翼垂在身侧",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成会飞的场面"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "方翼被画成断翼残缺"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "纸面出现文字祝福语"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通小鹤"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉折纸后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一只未折完的纸鹤自己长成了身体：整只折纸鹤就是它，拿掉折纸就没有角色。三角折起的宣白鹤身立着，一侧翼已经拉开成尖，另一侧还停在未折的方角，下面两枚短折足。短钝的三角小头上是平视、眼距略近的小黑豆眼，极小的嘴就在喙缝。它站稳，尖翼微微抬起却不飞，方翼垂在身侧，像这一步可以先留着。主体是宣白纸绒，只有已成形的翼尖一处是硬质印泥红，折棱一道浅墨灰。配色是宣白配印泥红，加一道墨灰。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要编制证件或高考试卷，不要锁链或被夹痛的造型，不要可阅读的文字和数字，不要发光屏幕里的节目画面。不要飞翔场面，不要把方翼画成断翼，不要纸上的祝福文字。",
+  "enp": "Original designer toy character: a still-unfinished paper crane that has become the body itself — the folded crane is the figure, without it there is no character. A triangular rice-white crane body stands, one wing already pulled into a point, the other still a square unfixed fold, two short folded feet below. A short blunt triangular head holds close-set tiny black bean eyes, gaze level, a tiny mouth in the beak seam. It stands steady, the pointed wing lifted a little but not flying, the square wing hanging at the side, as if that next fold can wait. Body is rice-white paper plush; only one tip of the finished wing is hard seal-red paste; a thin ink-grey crease. Colors: rice white with seal red and an ink-grey accent. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No official appointment papers or exam sheets, no chains or a form that pinches, no readable letters or numerals, no TV program playing on a lit screen. No flying scene, no square wing read as a broken wing, no blessing text on the paper."
+}

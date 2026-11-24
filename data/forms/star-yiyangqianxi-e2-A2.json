@@ -1,0 +1,75 @@
+{
+  "id": "star-yiyangqianxi-e2-A2",
+  "render": "concept",
+  "source": "grok-star",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：灯箱长成身体而非头上顶灯。识别：三格灯箱只亮一格的身。不普通：拿掉灯箱角色不成立。材质只有一处玻璃灯罩。配色夜灰配一盏暖红。新组合。特点夸张到灯箱尺度。不做成交通指挥或刺眼爆闪。",
+  "ip": "star-yiyangqianxi-e2",
+  "n": 2,
+  "species": "一盏不必全亮的红绿灯",
+  "title": "灯箱就是身体，只亮一盏",
+  "axes": {
+    "archetype": "物件生物，只亮一盏的三格灯箱身",
+    "silhouette": "竖长圆角三格灯箱当身体，上格熄、中格熄、下格只亮一圈暖光，短柱足",
+    "mark": "身 · 整只身体就是一盏不必全亮的红绿灯箱，一格亮，两格歇着",
+    "face": "小黑豆眼贴在中格熄着的罩后，极小的嘴，视线平视，不发光的眼",
+    "emotion": "内收，问可以停，灯不必全亮",
+    "fusion": "物件就是身体：灯箱就是胸腹和头轮廓，拿掉灯箱角色就不成立",
+    "material": "主体夜灰短绒，只有下格是硬质半透暖玻璃灯罩",
+    "palette": "夜灰绒配一圈暖红玻璃光，中格一道冷灰边"
+  },
+  "head": "上格圆罩就是浅顶，中格后面是扁圆小脸，几乎没有颈，灯罩不压痛",
+  "combo": "竖长三格灯箱身 + 只亮下格的暖红玻璃罩 + 熄灯格后的平视小眼 + 夜灰绒身",
+  "odd": "三格都在，却只肯亮最下面一圈，像答案可以先不给",
+  "why": "认真问了，灯也可以不全亮。对象不必回答。",
+  "spec": {
+    "proportion": "头脸约占全高 28%（上格到中格），灯箱身高约为头高的 2.6 倍，箱宽约为头宽的 1.1 倍，下格亮圈直径约一头宽的 2/3，短柱足约占全高 14%",
+    "outline": "竖长圆角矩形三格灯箱，下格一圈暖光，短柱双足",
+    "volume": "大：灯箱身；中：上格顶和下格亮罩；小：短柱足",
+    "face": "眼在中格罩后中下部，平视，眼距约一个眼宽，眼睛本身不发光，不张嘴，箱面不写文字和箭头",
+    "stance": "两枚短柱足左右分开站稳，正面略侧，不举手指挥，不闪烁成动态",
+    "structure": "夜灰绒灯箱和一处硬质半透玻璃罩长在一起，灯箱就是身体；亮着的只有下格一圈，上格中格是熄着的绒面罩，不是电子屏"
+  },
+  "toy_check": "站得住：短柱足着地。物件长进去：灯箱就是身体。特殊材质只有下格玻璃罩。新组合：只亮一盏的灯箱身。不像绘本。头像可见三格和一圈暖光。做得成。姿态：立定微侧，不是指挥交通。",
+  "crop": "记忆点在三格轮廓和只亮的下格，头像可见即可认出。",
+  "collide": "不同于交通安全吉祥物或电子屏角色：灯箱就是身体，只亮一圈，脸收在熄灯格后，不做指挥、爆闪或屏幕画面。",
+  "pose": "立定微侧，下格亮一圈，上两格歇着",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "被画成马路上的真红绿灯"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "三格全亮或爆闪"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "箱面出现文字箭头"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通方盒子"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉灯箱后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一颗夜灰短绒圆核和一盏不必全亮的红绿灯箱长在一起：整只灯箱就是它的身体，拿掉灯箱就没有角色。竖长的圆角三格箱围成头和胸腹，上格和中格歇着，只有下格亮着一圈暖红，箱下两枚短柱足。中格熄着的罩后是平视的小黑豆眼，极小的嘴，眼睛本身不发光。双足左右分开站稳，微微侧过身，像问已经停下，灯不必全亮。主体是夜灰短绒，只有下格是硬质半透暖玻璃灯罩，中格一道冷灰边。配色是夜灰配一圈暖红，加一道冷灰。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要编制证件或高考试卷，不要锁链或被夹痛的造型，不要可阅读的文字和数字，不要发光屏幕里的节目画面。不要指挥交通，不要三格全亮，不要屏幕画面和箭头文字。",
+  "enp": "Original designer toy character: a night-grey plush rounded core fused with a traffic-light box that need not be fully lit — the box is the body, without it there is no character. A tall rounded three-section box forms the head and torso, the top and middle sections rest dark, only the lower section holds a warm-red ring of light, two short post feet below. Behind the dark middle lens sit tiny black bean eyes, gaze level, a tiny mouth, the eyes themselves do not glow. Feet planted apart, standing still and slightly turned, as if the question has stopped and the lights need not all come on. Body is night-grey plush; only the lower lens is hard frosted warm glass; a cool-grey rim on the middle section. Colors: night grey with one warm-red ring and a cool-grey accent. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No official appointment papers or exam sheets, no chains or a form that pinches, no readable letters or numerals, no TV program playing on a lit screen. No traffic directing, no all three lights on, no screen images or arrow lettering."
+}

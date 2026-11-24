@@ -1,0 +1,75 @@
+{
+  "id": "star-yiyangqianxi-e1-A1",
+  "render": "concept",
+  "source": "grok-star",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：石磨长成身体而非手里拿磨。识别：一盘正在慢转的石磨身。不普通：拿掉磨就没有角色。材质只有一处粗石。配色暖浆白配深石灰，一点红。新组合。特点夸张到磨盘尺度。不做成被压扁或空壳。",
+  "ip": "star-yiyangqianxi-e1",
+  "n": 1,
+  "species": "一盏正在磨的豆浆石磨",
+  "title": "石磨就是身体，浆在慢转",
+  "axes": {
+    "archetype": "物件生物，慢转的豆浆石磨身",
+    "silhouette": "横宽圆石磨盘当胸腹，上扇微微错开一指，磨心一颗暖绒圆核，两枚短钝足",
+    "mark": "身 · 整只身体就是一盏正在慢转的石磨，浆在盘沿，没有被榨干",
+    "face": "半垂小黑豆眼贴在磨心圆核上，极小一字嘴，眼距正常，视线低垂",
+    "emotion": "内收，还在转，不必转满",
+    "fusion": "物件就是身体：石磨就是胸腹和轮廓，拿掉磨角色就不成立",
+    "material": "主体暖浆短绒，只有磨盘是粗质深石灰岩面",
+    "palette": "暖浆白配深石灰，盘沿一点签名红"
+  },
+  "head": "磨心是一颗暖浆圆核小头，几乎没有颈，被上扇石沿轻轻罩住，不压痛",
+  "combo": "慢转错开的深石灰磨盘身 + 暖浆圆核 + 半垂低视的小眼 + 盘沿一点红",
+  "odd": "磨还在转，上扇只错开一指，像时间还在走，却不必排满",
+  "why": "你可以退一步，去过真正的生活。磨还在，浆不必一次榨完。",
+  "spec": {
+    "proportion": "头核约占全高 32%，磨盘宽约为头宽的 2.2 倍，上扇错开约一头宽的 1/5，短钝足约占全高 14%",
+    "outline": "横宽圆形双层石磨，上扇微错开，磨心圆核，盘下两枚短钝足",
+    "volume": "大：磨盘；中：圆核头；小：短足和盘沿一点红",
+    "face": "眼在圆核中下部，半垂，眼距约一个眼宽，不张嘴，磨面不写文字和数字",
+    "stance": "两枚短钝足左右分开站稳，微侧，上扇保持微错开，不倾倒，不转动成动作场面",
+    "structure": "暖浆绒核心和深石灰岩磨盘长在一起，磨就是身体，不是旁边放的道具；浆只在盘沿一圈，不泼溅"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：磨就是身体。特殊材质只有深石灰岩盘。新组合：慢转错开的磨身。不像绘本。头像可见磨沿和错开的上扇。做得成。姿态：上扇微错开，不是榨干或打碎。",
+  "crop": "记忆点在磨心圆核和错开的上扇，头像可见磨沿即可认出。",
+  "collide": "不同于厨房用具拟人仔或普通石兽：磨就是身体，浆还在沿上，脸收着，不做劳动场面。",
+  "pose": "立定微侧，上扇错开一指，重心在盘正中",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "磨被画成手里的道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩圆头，磨盘不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "磨面写满文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉磨后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一颗暖浆短绒圆核和一盏正在慢转的豆浆石磨长在一起：整只石磨就是它的身体，拿掉磨就没有角色。横宽的深石灰岩双层圆盘围成胸腹，上扇只错开一指宽，盘沿有一圈浅浆，没有泼溅，盘下两枚短钝足。磨心是一颗暖浆圆核小头，几乎没有颈，半垂小黑豆眼，极小一字嘴，视线低垂。双足左右分开站稳，微微侧过身，像还在转，却不必转满。主体是暖浆短绒，只有磨盘是粗质深石灰岩面，盘沿有一点红。配色是暖浆白配深石灰，加一点红。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要编制证件或高考试卷，不要锁链或被夹痛的造型，不要可阅读的文字和数字，不要发光屏幕里的节目画面。不要泼溅的浆，不要被压扁的造型。",
+  "enp": "Original designer toy character: a warm-soy-milk plush rounded core fused with a slowly turning stone mill — the mill is the body, without it there is no character. A wide dark-limestone double disc forms the torso, the upper stone shifts only a finger's width, a thin ring of slurry sits on the rim, no splash, two short blunt feet below. A warm rounded head sits in the mill eye, almost no neck, half-lidded tiny black bean eyes, a tiny straight mouth, gaze lowered. Feet planted apart, standing still and slightly turned, as if it is still turning and need not finish all at once. Body is warm-soy plush; only the mill is rough dark limestone; a small red accent sits on the rim. Colors: warm soy-white with dark limestone and a red accent. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No official appointment papers or exam sheets, no chains or a form that pinches, no readable letters or numerals, no TV program playing on a lit screen. No splashing slurry, no crushed or flattened form."
+}

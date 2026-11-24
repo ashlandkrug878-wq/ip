@@ -1,0 +1,75 @@
+{
+  "id": "star-yiyangqianxi-e3-A1",
+  "render": "concept",
+  "source": "grok-star",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：地图长成身体而非手持地图。识别：边缘未切齐、一层新皮盖住旧层的地图身。不普通：拿掉地图角色不成立。材质只有一枚铜钉。配色羊皮纸配墨绿层，一点红。新组合。特点夸张到不规则轮廓。不做成撕碎或涂黑。",
+  "ip": "star-yiyangqianxi-e3",
+  "n": 1,
+  "species": "没有规整边界的异形地图",
+  "title": "地图就是身体，边缘还没切齐",
+  "axes": {
+    "archetype": "物件生物，边缘未切齐的异形地图身",
+    "silhouette": "不规则摊开的地图壳当身体，一边卷起，新的一层只盖住旧层的一半，两枚短钝足",
+    "mark": "身 · 整只身体就是一张没有规整边界的地图，旧层还在，新层盖住一半",
+    "face": "平视小黑豆眼贴在未被完全盖住的旧层上，极小一字嘴，视线稳定",
+    "emotion": "内收，还在改写，轮廓仍在",
+    "fusion": "物件就是身体：地图壳就是胸腹和轮廓，拿掉地图角色就不成立",
+    "material": "主体羊皮纸短绒，只有一枚固定新层的钉是硬质暗铜",
+    "palette": "暖羊皮纸配一层墨绿，铜钉旁一点签名红"
+  },
+  "head": "地图上沿自然卷起成浅罩，罩下是一颗扁圆小头，几乎没有颈，边缘不割痛",
+  "combo": "边缘未切齐的地图壳 + 只盖住一半的新墨绿层 + 旧层上的平视小眼 + 一枚暗铜钉",
+  "odd": "新的一层已经盖上来，却只到一半，旧的边界还露在外面，而且切不齐",
+  "why": "边界可以一直改写。旧的一层还在，人不必被一次画死。",
+  "spec": {
+    "proportion": "头约占全高 30%，地图壳高约为头高的 2.2 倍，最宽处约为头宽的 2.0 倍，新层覆盖约一半壳面，铜钉直径约一头宽的 1/5，短钝足约占全高 12%",
+    "outline": "不规则多边形地图壳，一边卷边，新层盖住一半，两枚短钝足",
+    "volume": "大：地图壳；中：头和卷边；小：铜钉与短足",
+    "face": "眼在旧层中上部，平视，眼距约一个眼宽，不张嘴，地图上只有抽象纹理，不出现可阅读的文字、数字和地名",
+    "stance": "短钝足左右分开站稳，壳面微侧，不飘，不卷成一团",
+    "structure": "羊皮纸绒旧层和墨绿新层长在同一具身体上，地图就是身体；铜钉固定新层一角，是身体上的一处硬材质，不是把人钉住"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：地图就是身体。特殊材质只有暗铜钉。新组合：半覆盖的不规则地图身。不像绘本。头像可见未切齐边缘和铜钉。做得成。姿态：立定微侧，不是撕地图。",
+  "crop": "记忆点在未切齐的边缘、半覆盖新层和铜钉，头像可见即可认出。",
+  "collide": "不同于地球仪吉祥物或拼贴地图玩偶：地图就是身体，新旧两层还连着，脸还在，不做撕碎、涂黑或可阅读地图。",
+  "pose": "立定微侧，新层盖住一半，边缘未切齐",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "地图被画成手持道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "边缘被画成撕裂伤口"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "出现可阅读文字地名"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通披风"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉地图后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一颗扁圆绒核和一张没有规整边界的异形地图长在一起：整张地图就是它的身体，拿掉地图就没有角色。不规则摊开的羊皮纸壳围成胸腹，一边轻轻卷起，一层新的墨绿只盖住旧层的一半，一枚暗铜钉固定在新层一角，壳下两枚短钝足。卷边下是一颗扁圆小头，平视小黑豆眼贴在还露着的旧层上，极小一字嘴。双足左右分开站稳，微微侧过身，像边界还没切齐，人不必被一次画死。主体是暖羊皮纸短绒，只有铜钉是硬质暗铜，钉旁一点红。配色是羊皮纸配墨绿，加一点红。地图上只有抽象纹理，没有可阅读的文字和地名。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要编制证件或高考试卷，不要锁链或被夹痛的造型，不要可阅读的文字和数字，不要发光屏幕里的节目画面。不要可阅读的文字和地名，不要把边缘画成撕裂。",
+  "enp": "Original designer toy character: a flat rounded plush core fused with an irregular map whose edges are not yet trimmed — the map is the body, without it there is no character. An uneven parchment shell forms the torso, one edge gently curls, a new moss-green layer covers only half of the old surface, a dark copper tack holds one corner of the new layer, two short blunt feet below. Under the curl sits a small flat head, tiny black bean eyes on the still-visible old layer, gaze level, a tiny straight mouth. Feet planted apart, standing still and slightly turned, as if the border is not yet cut clean and need not be drawn once and for all. Body is warm parchment plush; only the tack is hard dark copper; a small red accent beside it. Colors: parchment with moss green and a red accent. The map shows only abstract texture, no readable letters, numbers or place names. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No official appointment papers or exam sheets, no chains or a form that pinches, no readable letters or numerals, no TV program playing on a lit screen. No readable letters or place names, no torn or wounded edges."
+}
