@@ -1,0 +1,75 @@
+{
+  "id": "star-yangzi-e2-A1",
+  "render": "concept",
+  "source": "grok-star",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：折叠椅长成身体而非角色坐在椅上。识别：侧向收起一半的折椅身，椅面上有一颗圆核。不普通：拿掉椅就没有角色。材质只有一处旧木椅面。配色暖绒米配深柚木，折金处一点紫。新组合。特点夸张到整只身体就是折椅。不做成被叠走或把人关起来。",
+  "ip": "star-yangzi-e2",
+  "n": 1,
+  "species": "角落里的折叠椅",
+  "title": "折椅就是身体，还在场边",
+  "axes": {
+    "archetype": "物件生物，还在场边的折叠椅身",
+    "silhouette": "微侧的折椅侧影当身，椅面平着，一侧椅腿还没有完全展开，椅下两枚短钝足与一侧椅腿重合",
+    "mark": "身 · 整只身体就是一把还在角落的折叠椅，一侧只折起一指，人还在场，椅没有被收走",
+    "face": "半垂小黑豆眼贴在椅背圆核上，极小一字嘴，眼距正常，视线微偏向角落",
+    "emotion": "内收，安静，不是冷，这口气还留着",
+    "fusion": "物件就是身体：折椅就是胸腹和轮廓，拿掉椅角色就不成立",
+    "material": "主体暖米短绒，只有椅面是旧柚木板",
+    "palette": "暖绒米配深柚木，折金处一点应援紫"
+  },
+  "head": "椅背顶端是一颗暖米圆核小头，几乎没有颈，被短椅背轻轻托住，不卡住",
+  "combo": "微侧未完全展开的柚木折椅身 + 暖圆核 + 微偏的半垂小眼 + 折金处一点紫",
+  "odd": "椅还在场边，一侧只折起一指，像人还没离席，只是把位置挪到了角落",
+  "why": "这口气，先留给自己。椅还在场，不必坐满中央。",
+  "spec": {
+    "proportion": "头核约占全高 30%，椅面宽约为头宽的 1.7 倍，一侧椅架折起约一指，短钝足约占全高 16%",
+    "outline": "微侧折椅，平椅面，短椅背圆头，一侧未完全展开，底部短足",
+    "volume": "大：椅面和椅架；中：圆核头；小：折金和一点紫",
+    "face": "眼在圆核中下部，半垂，眼距约一个眼宽，不张嘴，椅面不写文字和号码",
+    "stance": "底部站稳，微侧向角落，一侧椅架保持微折，不倾倒，不收成一块板",
+    "structure": "暖米绒核心和旧柚木椅面长在一起，椅就是身体，不是下面坐的道具；折金是未展平的结构，不是夹痛或残缺"
+  },
+  "toy_check": "站得住：底部着地。物件长进去：椅就是身体。特殊材质只有旧柚木面。新组合：未完全展开的角落折椅身。不像绘本。头像可见椅背和微折的一侧。做得成。姿态：微侧，不是收走或把人夹住。",
+  "crop": "记忆点在平椅面和微折的一侧椅架，头像可见椅背圆核即可认出。",
+  "collide": "不同于坐在椅子上的小人或不礼貌的「请勿打扰」牌：椅就是身体，还在场边，脸收着，不做赶人。",
+  "pose": "微侧站稳，一侧椅架折起一指，重心在椅面下",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "椅被画成角色坐着的道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩一把普通椅子"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "椅面写出姓名或号码"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通座位"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉折椅后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一颗暖米短绒圆核和一把还在角落的折叠椅长在一起：整只折椅就是它的身体，拿掉椅就没有角色。微侧的折椅围成胸腹，椅面平着，一侧椅架只折起一指宽，没有完全收拢，椅背顶端是小头，几乎没有颈，半垂小黑豆眼，极小一字嘴，视线微偏向角落。底部站稳，像人还在场，只是把位置挪到了边上。主体是暖米短绒，只有椅面是旧柚木板，折金处有一点紫。配色是暖绒米配深柚木，加一点紫。椅面没有文字和号码，折金不是夹痛，椅没有被收走。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要可阅读的文字和数字，不要法槌、起诉状或锁链，不要颁奖奖杯，不要皮肤皲裂，不要发光屏幕。",
+  "enp": "Original designer toy character: a warm-rice plush rounded core fused with a folding chair still at the edge of the room — the chair is the body, without it there is no character. A slightly turned folding-chair form makes the torso, the seat is level, one side frame is folded only a finger's width and not fully collapsed, a small head sits at the top of the short back, almost no neck, half-lidded tiny black bean eyes, a tiny straight mouth, gaze tipped toward a corner. It stands steadily, still present, only moved to the side. Body is warm-rice plush; only the seat is old teak; a small purple accent sits at the fold. Colors: warm rice plush with deep teak and a purple accent. No letters or numbers on the seat; the fold is not a pinch; the chair is not packed away. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No readable letters or numerals, no gavel, indictment or chains, no award trophy, no cracked skin, no lit screens."
+}

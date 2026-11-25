@@ -1,0 +1,75 @@
+{
+  "id": "star-yangzi-e2-A3",
+  "render": "concept",
+  "source": "grok-star",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：素色挡板长成身体而非角色躲在板后。识别：一块竖着的圆角矮板，只斜掩过身体一半，板沿露出圆核。不普通：拿掉板就没有角色。材质只有一处磨砂板面。配色暖绒米配浅灰板，板沿一点紫。新组合。特点夸张到挡板就是身体的一半轮廓。不做成把自己关起来或拒绝别人。",
+  "ip": "star-yangzi-e2",
+  "n": 3,
+  "species": "半掩的素色挡板",
+  "title": "挡板就是身体，只掩住一半",
+  "axes": {
+    "archetype": "物件生物，半掩的素色挡板身",
+    "silhouette": "一块竖立圆角矮板斜切过胸腹，板后鼓出暖绒身，板沿下两枚短钝足",
+    "mark": "身 · 整只身体有一半就是半掩的素色挡板，只挡住一侧，另一侧仍敞开，人还在场",
+    "face": "半垂小黑豆眼贴在露出板沿的圆核上，极小一字嘴，眼距正常，视线从板沿旁边看出去",
+    "emotion": "内收，要一块自己想事情的空间，不是把门关上",
+    "fusion": "物件就是身体：挡板长进胸腹和轮廓，拿掉板角色就不成立",
+    "material": "主体暖米短绒，只有挡板是浅灰磨砂板",
+    "palette": "暖绒米配浅灰磨砂，板沿一点应援紫"
+  },
+  "head": "圆核小头从板沿上侧露出大半，几乎没有颈，板只掩到颊边，不把脸盖住",
+  "combo": "斜掩一半的浅灰磨砂板 + 露出的暖圆核 + 从板沿旁看出去的半垂小眼 + 板沿一点紫",
+  "odd": "板只掩住一半，头和一只足仍在外面，像还在场，只是给自己挡出一块空白",
+  "why": "这口气，先留给自己。板在，不必把门关死。",
+  "spec": {
+    "proportion": "头核约占全高 30%，挡板高约占全高 70%、宽约为头宽的 1.4 倍，斜掩过身体约一半，短钝足约占全高 14%",
+    "outline": "竖立圆角矮板斜切过圆鼓绒身，头从板上侧露出，板下两枚短钝足",
+    "volume": "大：挡板和绒身；中：圆核头；小：短足和板沿一点紫",
+    "face": "眼在圆核中部，半垂，一只眼略被板沿切到边缘但不遮住，不张嘴，板面不写文字",
+    "stance": "两枚短钝足左右分开站稳，板微斜，身体仍朝前，不躲到板后，不把门关死",
+    "structure": "暖米绒核心和浅灰磨砂板长在一起，板就是身体的一半，不是旁边立的道具；板只掩一半，不是箱子或牢房"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：板就是身体的一半。特殊材质只有浅灰磨砂板。新组合：只掩一半的挡板身。不像绘本。头像可见板沿和露出的圆核。做得成。姿态：板微斜，不是关起来。",
+  "crop": "记忆点在斜掩的圆角板和露出的圆核，头像可见板沿一点紫即可认出。",
+  "collide": "不同于躲猫猫隔板或请勿打扰门牌：板就是身体，只掩一半，人还在场，脸收着，不做拒绝。",
+  "pose": "立定，板微斜掩过左侧，头从右上侧露出，重心在两足之间",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "板被画成旁边的道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓变成把门关死的箱子"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "板面写出字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩一块普通板"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉挡板后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一颗暖米短绒圆核和一块半掩的素色挡板长在一起：挡板就是身体的一半，拿掉板就没有角色。一块竖立的圆角矮板斜切过圆鼓的绒身，只掩住左侧一半，右侧和头部仍敞开，头从板沿上侧露出大半，几乎没有颈，半垂小黑豆眼，极小一字嘴，视线从板沿旁边看出去。板下两枚短钝足左右分开站稳，人还在场，只是给自己挡出一块空白。主体是暖米短绒，只有挡板是浅灰磨砂板，板沿有一点紫。配色是暖绒米配浅灰，加一点紫。板面没有文字，板不是箱子或门，没有把自己关起来。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要可阅读的文字和数字，不要法槌、起诉状或锁链，不要颁奖奖杯，不要皮肤皲裂，不要发光屏幕。",
+  "enp": "Original designer toy character: a warm-rice plush rounded core fused with a half-drawn plain baffle — the panel is half the body, without it there is no character. A vertical rounded short panel cuts slantwise across a plump plush torso, covering only the left half, the right side and head stay open, most of the head shows above the panel edge, almost no neck, half-lidded tiny black bean eyes, a tiny straight mouth, gaze looking out past the edge. Two short blunt feet plant apart, still present, only keeping a little space for itself. Body is warm-rice plush; only the panel is light-grey frosted board; a small purple accent sits on the edge. Colors: warm rice plush with light grey and a purple accent. No letters on the panel; it is not a box or a door, and it does not shut the character away. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No readable letters or numerals, no gavel, indictment or chains, no award trophy, no cracked skin, no lit screens."
+}
