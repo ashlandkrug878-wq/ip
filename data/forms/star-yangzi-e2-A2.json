@@ -1,0 +1,75 @@
+{
+  "id": "star-yangzi-e2-A2",
+  "render": "concept",
+  "source": "grok-star",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：搪瓷杯长成身体而非手里端杯。识别：圆鼓杯身加一弯短把手，杯口未加盖但热气只是隐隐一层。不普通：拿掉杯就没有角色。材质只有一处搪瓷。配色暖绒米配奶白搪瓷，杯沿一道紫。新组合。特点夸张到整只身体就是杯子。不做成泼洒或空杯倾倒。",
+  "ip": "star-yangzi-e2",
+  "n": 2,
+  "species": "还温着的搪瓷杯",
+  "title": "杯子就是身体，温还留着",
+  "axes": {
+    "archetype": "物件生物，还温着的搪瓷杯身",
+    "silhouette": "短圆搪瓷杯当胸腹，一弯短把手在右侧，杯口平着，杯底两枚短钝足",
+    "mark": "身 · 整只身体就是一只还温着的搪瓷杯，杯口未加盖，温还在，没有倒空",
+    "face": "半垂小黑豆眼贴在杯口圆核上，极小一字嘴，眼距正常，视线微偏",
+    "emotion": "内收，温还留着，不必端给所有人",
+    "fusion": "物件就是身体：杯子就是胸腹和轮廓，拿掉杯角色就不成立",
+    "material": "主体暖米短绒，只有杯壁是奶白搪瓷，沿口一圈细碴不是裂伤",
+    "palette": "暖绒米配奶白搪瓷，杯沿一道应援紫"
+  },
+  "head": "杯口中央是一颗暖米圆核小头，几乎没有颈，略低于杯沿，像把这口气留在杯里",
+  "combo": "还温着的奶白搪瓷杯身 + 短弯把手 + 半垂微偏的小眼 + 杯沿一道紫",
+  "odd": "杯口没有盖，头却略低于沿，像这口气先留在自己这边",
+  "why": "这口气，先留给自己。温还在，不必一次倒空。",
+  "spec": {
+    "proportion": "头核约占全高 28%，杯身宽约为头宽的 1.6 倍，把手外伸约头宽的 1/3，短钝足约占全高 12%",
+    "outline": "短圆杯，右侧短弯把手，平杯口，杯底两枚短钝足",
+    "volume": "大：杯身；中：圆核头和把手；小：短足和杯沿一道紫",
+    "face": "眼在圆核中下部，半垂，眼距约一个眼宽，不张嘴，杯身不写文字和商标",
+    "stance": "两枚短钝足左右分开站稳，杯身微侧，把手朝右，不倾倒，不泼洒",
+    "structure": "暖米绒核心和奶白搪瓷壁长在一起，杯就是身体，不是手里的道具；沿口细碴是搪瓷质感，不是缺口或伤口；没有蒸汽柱，只有隐含的温"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：杯就是身体。特殊材质只有奶白搪瓷。新组合：头略低于沿的温杯身。不像绘本。头像可见杯沿和短把手。做得成。姿态：微侧，不是倾倒或空杯。",
+  "crop": "记忆点在平杯口、低于沿的圆核和短把手，头像可见杯沿一道紫即可认出。",
+  "collide": "不同于咖啡吉祥物或端杯小人：杯就是身体，温还留着，脸收着，不做饮茶场面。",
+  "pose": "立定微侧，把手朝右，重心在杯底正中",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "杯被画成手里的道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩普通圆罐"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "杯身写出商标文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通杯子"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉杯子后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一颗暖米短绒圆核和一只还温着的搪瓷杯长在一起：整只杯子就是它的身体，拿掉杯就没有角色。短圆的杯身围成胸腹，右侧一弯短把手，杯口平着没有盖，圆核小头略低于杯沿，几乎没有颈，半垂小黑豆眼，极小一字嘴，视线微偏。杯底两枚短钝足左右分开站稳，微侧，像这口气还留在杯里，不必一次倒空。主体是暖米短绒，只有杯壁是奶白搪瓷，杯沿有一道紫。配色是暖绒米配奶白搪瓷，加一点紫。杯身没有文字和商标，没有泼洒，没有高高的蒸汽柱，沿口细碴是搪瓷质感，不是缺口。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要可阅读的文字和数字，不要法槌、起诉状或锁链，不要颁奖奖杯，不要皮肤皲裂，不要发光屏幕。",
+  "enp": "Original designer toy character: a warm-rice plush rounded core fused with a still-warm enamel mug — the mug is the body, without it there is no character. A short round cup forms the torso, a short curved handle on the right, the rim is level and uncovered, a rounded head sits just below the rim, almost no neck, half-lidded tiny black bean eyes, a tiny straight mouth, gaze slightly turned. Two short blunt feet plant apart, the cup slightly turned, as if this breath is still kept in the cup and need not be poured out at once. Body is warm-rice plush; only the wall is milk-white enamel; a purple band sits on the rim. Colors: warm rice plush with milk-white enamel and a purple accent. No letters or logos, no spill, no tall steam; any speck on the rim is enamel texture, not a chip. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No readable letters or numerals, no gavel, indictment or chains, no award trophy, no cracked skin, no lit screens."
+}

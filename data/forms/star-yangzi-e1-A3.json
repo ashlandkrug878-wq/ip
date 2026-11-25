@@ -1,0 +1,75 @@
+{
+  "id": "star-yangzi-e1-A3",
+  "render": "concept",
+  "source": "grok-star",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：玉兰骨朵长成身体而非头上插花。识别：鼓胀闭合的骨朵身，只有一瓣轻轻裂开。不普通：拿掉骨朵就没有角色。材质只有一处蜡质花瓣。配色暖米白配浅青萼，裂开的那一瓣内侧一点紫。新组合。特点夸张到整只身体就是骨朵。不做成盛放花束或枯萎。",
+  "ip": "star-yangzi-e1",
+  "n": 3,
+  "species": "只开一瓣的玉兰骨朵",
+  "title": "骨朵就是身体，只开一瓣",
+  "axes": {
+    "archetype": "物件生物，只开一瓣的玉兰骨朵身",
+    "silhouette": "竖立卵形骨朵当身，外瓣还合着，只有右侧一瓣轻轻裂开一指，萼下两枚短钝足",
+    "mark": "身 · 整只身体就是一枚只开一瓣的玉兰骨朵，其余瓣仍合拢，没有盛放",
+    "face": "半睁小黑豆眼贴在骨朵圆顶上，极小一字嘴，眼距正常，视线平视前方",
+    "emotion": "内收，刚起程，不必一次开满",
+    "fusion": "物件就是身体：骨朵就是胸腹和轮廓，拿掉花角色就不成立",
+    "material": "主体暖米短绒，只有裂开的那一瓣是半透明蜡质",
+    "palette": "暖米白配浅青萼，瓣内侧一点应援紫"
+  },
+  "head": "骨朵顶是一颗暖米圆核小头，几乎没有颈，被尚未张开的花瓣轻轻包住，不闷痛",
+  "combo": "仍合拢的卵形骨朵身 + 只裂开一瓣的蜡质瓣 + 平视的半睁小眼 + 瓣内侧一点紫",
+  "odd": "花还没有开满，只有一瓣轻轻裂开，像已经开始，却不必一次盛放",
+  "why": "你可以才刚刚开始。骨朵在，不必一次开满。",
+  "spec": {
+    "proportion": "头核约占全高 28%，骨朵宽约为头宽的 1.5 倍，裂开的一瓣外翻约一头宽的 1/4，短钝足约占全高 12%",
+    "outline": "竖立卵形骨朵，右侧一瓣轻裂，浅青短萼，萼下两枚短钝足",
+    "volume": "大：合拢的骨朵；中：圆顶头和那一瓣；小：短足和瓣内侧一点紫",
+    "face": "眼在圆顶中下部，半睁，眼距约一个眼宽，不张嘴，瓣上不写文字",
+    "stance": "两枚短钝足左右分开站稳，骨朵微侧，裂开的一瓣朝右前，不倾倒，不盛放",
+    "structure": "暖米绒核心和蜡质花瓣长在一起，骨朵就是身体，不是头上戴的花；只有一瓣是蜡质，其余瓣是同一暖米绒，不凋谢"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：骨朵就是身体。特殊材质只有一瓣蜡质。新组合：只开一瓣的骨朵身。不像绘本。头像可见裂开的那一瓣。做得成。姿态：微侧，不是盛放或枯萎。",
+  "crop": "记忆点在仍合拢的骨朵和裂开的那一瓣，头像可见瓣内侧一点紫即可认出。",
+  "collide": "不同于头戴花朵的花精或盛放花瓶拟人：骨朵就是身体，只开一瓣，脸收着，不做花园场面。",
+  "pose": "立定微侧，右侧一瓣轻裂，重心在萼下正中",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "花被画成头上的饰品"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓开成一整朵花"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "瓣上画出花纹文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通圆身"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉骨朵后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一颗暖米短绒圆核和一枚只开一瓣的玉兰骨朵长在一起：整只骨朵就是它的身体，拿掉花就没有角色。竖立的卵形骨朵围成胸腹，外瓣大多还合着，只有右侧一瓣轻轻裂开一指宽，瓣内侧有一点紫，浅青短萼下两枚短钝足。骨朵顶是小头，几乎没有颈，半睁小黑豆眼，极小一字嘴，视线平视前方。双足左右分开站稳，骨朵微侧，像已经开始，却不必一次开满。主体是暖米短绒，只有裂开的那一瓣是半透明蜡质。配色是暖米白配浅青萼，加一点紫。没有盛放，没有凋谢，瓣上没有文字。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要可阅读的文字和数字，不要法槌、起诉状或锁链，不要颁奖奖杯，不要皮肤皲裂，不要发光屏幕。",
+  "enp": "Original designer toy character: a warm-rice plush rounded core fused with a yulan magnolia bud that has opened only one petal — the bud is the body, without it there is no character. A vertical egg-shaped bud forms the torso, most petals still closed, only the right petal splits open a finger's width, a small purple accent on the inner face, two short blunt feet under a short pale-green calyx. A small head sits at the top of the bud, almost no neck, half-open tiny black bean eyes, a tiny straight mouth, gaze level ahead. Feet planted apart, the bud slightly turned, as if it has begun and need not bloom all at once. Body is warm-rice plush; only the opened petal is translucent wax. Colors: warm rice-white with pale-green calyx and a purple accent. No full bloom, no wilting, no marks on the petals. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No readable letters or numerals, no gavel, indictment or chains, no award trophy, no cracked skin, no lit screens."
+}

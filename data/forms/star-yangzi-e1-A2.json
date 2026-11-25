@@ -1,0 +1,75 @@
+{
+  "id": "star-yangzi-e1-A2",
+  "render": "concept",
+  "source": "grok-star",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：里程碑长成身体而非角色站在路牌旁。识别：上端浑圆、躯干是短石碑、腰际一道未走完的凹槽刻度。不普通：拿掉碑就没有角色。材质只有一处凿石。配色暖石膏白配深青灰，一点紫。新组合。特点夸张到碑就是身体。不做成墓碑或终点奖柱，碑面无文字。",
+  "ip": "star-yangzi-e1",
+  "n": 2,
+  "species": "还没走完的里程碑",
+  "title": "路牌就是身体，刻度未满",
+  "axes": {
+    "archetype": "物件生物，还没走完的里程碑身",
+    "silhouette": "短粗石碑当身，上端收成浑圆，腰际一道未走完的横槽，碑下两枚短钝足",
+    "mark": "身 · 整只身体就是一枚还没走完的里程碑，横槽只刻到中段，没有到顶",
+    "face": "半睁小黑豆眼贴在浑圆碑顶上，极小一字嘴，眼距正常，视线平视前方",
+    "emotion": "内收，路还在，刻度不必刻满",
+    "fusion": "物件就是身体：里程碑就是胸腹和轮廓，拿掉碑角色就不成立",
+    "material": "主体暖石膏短绒，只有碑身是粗凿深青灰石面",
+    "palette": "暖石膏白配深青灰，横槽里一点应援紫"
+  },
+  "head": "碑顶是一颗暖石膏圆核小头，几乎没有颈，和碑身连成一根，不切断",
+  "combo": "短粗未满的青灰石碑身 + 暖圆核 + 平视的半睁小眼 + 中段横槽里一点紫",
+  "odd": "路牌还立着，刻度只到中段，像已经走了一截，却仍是开始",
+  "why": "你可以才刚刚开始。碑在，刻度不必刻满。",
+  "spec": {
+    "proportion": "头核约占全高 28%，碑身宽约为头宽的 1.3 倍，横槽在半高处只走完约三分之二，短钝足约占全高 14%",
+    "outline": "短粗竖碑，顶圆，腰际未完横槽，碑下两枚短钝足",
+    "volume": "大：碑身；中：圆顶头；小：短足和横槽里一点紫",
+    "face": "眼在圆顶中下部，半睁，眼距约一个眼宽，不张嘴，碑面不写文字、数字和箭头",
+    "stance": "两枚短钝足左右分开站稳，微微前倾，碑身直立，不倾倒",
+    "structure": "暖石膏绒核心和青灰凿石碑身长在一起，碑就是身体，不是旁边立的道具；横槽是未走完的凹痕，不是裂纹或伤口"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：碑就是身体。特殊材质只有青灰凿石。新组合：刻度未满的里程碑身。不像绘本。头像可见圆顶和横槽。做得成。姿态：微前倾，不是墓碑或终点柱。",
+  "crop": "记忆点在圆顶和未走完的横槽，头像可见槽中一点紫即可认出。",
+  "collide": "不同于路标吉祥物或墓碑拟人：碑就是身体，刻度未满，脸收着，不做旅行场面，碑面无字。",
+  "pose": "立定微前倾，碑身直立，重心在碑底正中",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "碑被画成旁边的道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓变成墓碑尖顶"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "碑面写出公里数或文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通石柱"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉碑后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一颗暖石膏短绒圆核和一枚还没走完的里程碑长在一起：整只石碑就是它的身体，拿掉碑就没有角色。短粗的深青灰石碑围成胸腹，上端收成浑圆小头，腰际有一道只刻到中段的横槽，槽里有一点紫，碑下两枚短钝足。几乎没有颈，半睁小黑豆眼，极小一字嘴，视线平视前方。双足左右分开站稳，微微前倾，像已经走了一截，刻度却还没满。主体是暖石膏短绒，只有碑身是粗凿深青灰石面。配色是暖石膏白配深青灰，加一点紫。碑面没有文字、数字和箭头，横槽是未走完的凹痕，不是裂纹或伤口。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要可阅读的文字和数字，不要法槌、起诉状或锁链，不要颁奖奖杯，不要皮肤皲裂，不要发光屏幕。",
+  "enp": "Original designer toy character: a warm-plaster plush rounded core fused with an unfinished milestone — the stone marker is the body, without it there is no character. A short thick dark-grey stone post forms the torso, the top rounds into a small head, a horizontal groove at the waist is only carved two-thirds of the way, a small purple accent sits in the groove, two short blunt feet below. Almost no neck, half-open tiny black bean eyes, a tiny straight mouth, gaze level ahead. Feet planted apart, standing still and slightly leaning forward, as if part of the way is done and the mark is not yet full. Body is warm-plaster plush; only the post is rough-hewn dark grey stone. Colors: warm plaster-white with dark grey and a purple accent. No letters, numerals or arrows on the stone; the groove is an unfinished mark, not a crack or wound. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No readable letters or numerals, no gavel, indictment or chains, no award trophy, no cracked skin, no lit screens."
+}

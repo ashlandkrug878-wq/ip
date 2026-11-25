@@ -1,0 +1,75 @@
+{
+  "id": "star-yangzi-e3-A3",
+  "render": "concept",
+  "source": "grok-star",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：徽墨锭长成身体而非手里握墨。识别：扁长墨锭身，底部已有一圈浅研痕，锭面无字。不普通：拿掉墨就没有角色。材质只有一处松烟墨面。配色暖米绒配近黑松烟，研痕边一点紫。新组合。特点夸张到整只身体就是墨锭。不做成写字场面、洒墨或残缺断裂。",
+  "ip": "star-yangzi-e3",
+  "n": 3,
+  "species": "一锭还没研完的徽墨",
+  "title": "墨锭就是身体，还没研完",
+  "axes": {
+    "archetype": "物件生物，还没研完的徽墨身",
+    "silhouette": "扁长墨锭立着当身，顶部略圆，底部一圈浅浅的研痕，锭下两枚短钝足",
+    "mark": "身 · 整只身体就是一锭还没研完的徽墨，底部只研出一圈浅痕，锭还是整的",
+    "face": "半睁小黑豆眼贴在锭顶圆核上，极小一字嘴，眼距正常，视线平视",
+    "emotion": "内收，笨功夫还在做，不必一次研完",
+    "fusion": "物件就是身体：墨锭就是胸腹和轮廓，拿掉墨角色就不成立",
+    "material": "主体暖米短绒，只有锭身是近黑细腻松烟墨面，微有光，不是镜面",
+    "palette": "暖米绒配近黑松烟，研痕边一点应援紫"
+  },
+  "head": "锭顶是一颗暖米圆核小头，几乎没有颈，和扁锭连成一体，不切断",
+  "combo": "立着的扁长近黑墨锭 + 底部浅研痕 + 平视的半睁小眼 + 研痕边一点紫",
+  "odd": "墨还是整锭，底部只研出一圈浅痕，像笨功夫已经开始，却还没研完",
+  "why": "没信号的地方，也可以开出春天。墨在，笨功夫不必一次做完。",
+  "spec": {
+    "proportion": "头核约占全高 28%，锭身宽约为头宽的 1.1 倍、厚约为头宽的 0.6 倍，底部研痕约占全高 10%，短钝足约占全高 12%",
+    "outline": "立着的扁长墨锭，顶圆，底缘一圈浅研痕，锭下两枚短钝足",
+    "volume": "大：扁锭；中：圆核头；小：研痕、短足和一点紫",
+    "face": "眼在圆核中下部，半睁，眼距约一个眼宽，不张嘴，锭面不写文字、纹样和年号",
+    "stance": "两枚短钝足左右分开站稳，锭微侧，底部研痕贴着想象中的砚，不倾倒，不磨成细条",
+    "structure": "暖米绒核心和近黑松烟墨面长在一起，墨就是身体，不是手里的道具；研痕是浅浅一圈，不是断裂、缺口或伤口；没有墨汁泼洒"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：墨就是身体。特殊材质只有近黑松烟墨。新组合：底部带浅研痕的扁锭身。不像绘本。头像可见扁锭和顶圆。做得成。姿态：微侧，不是断裂或写字场面。",
+  "crop": "记忆点在立着的扁长墨锭和底部浅研痕，头像可见锭沿一点紫即可认出。",
+  "collide": "不同于文创墨条或书法小人：墨就是身体，还没研完，脸收着，锭面无字，不做写字场面。",
+  "pose": "立定微侧，底部浅研痕朝下，重心在锭底正中",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "墨被画成手里的道具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓变成普通长方块"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "锭面写出文字或年号"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通黑块"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉墨锭后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一颗暖米短绒圆核和一锭还没研完的徽墨长在一起：整只墨锭就是它的身体，拿掉墨就没有角色。扁长的近黑墨锭立着围成胸腹，顶部收成圆核小头，几乎没有颈，底部有一圈浅浅的研痕，痕边有一点紫，锭下两枚短钝足。半睁小黑豆眼，极小一字嘴，视线平视。双足左右分开站稳，微侧，像笨功夫已经开始，却还不必一次研完。主体是暖米短绒，只有锭身是近黑细腻松烟墨面，微有光，不是镜面。配色是暖米绒配近黑松烟，加一点紫。锭面没有文字、纹样和年号，研痕不是断裂或缺口，没有墨汁泼洒。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要可阅读的文字和数字，不要法槌、起诉状或锁链，不要颁奖奖杯，不要皮肤皲裂，不要发光屏幕。",
+  "enp": "Original designer toy character: a warm-rice plush rounded core fused with a stick of Hui ink that is not yet fully ground — the ink stick is the body, without it there is no character. A flat long near-black ink stick stands as the torso, the top rounds into a small head, almost no neck, a shallow grinding ring sits at the base with a small purple accent, two short blunt feet below. Half-open tiny black bean eyes, a tiny straight mouth, gaze level. Feet planted apart, slightly turned, as if the slow work has begun and need not be finished all at once. Body is warm-rice plush; only the stick is fine near-black pine-soot ink with a soft sheen, not a mirror finish. Colors: warm rice plush with near-black ink and a purple accent. No letters, patterns or reign marks on the stick; the ground ring is not a break or chip; no spilled ink. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No readable letters or numerals, no gavel, indictment or chains, no award trophy, no cracked skin, no lit screens."
+}
