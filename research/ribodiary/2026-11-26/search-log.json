@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-26",
+  "queries": [
+    "RiboDiary 瑞宝 2026 11月26日 快闪",
+    "名创优品 TOP TOY NOMMI 2026 11月 新品",
+    "サンリオ パペットスンスン 2026 11月26日",
+    "미니틴 2026 11월 팝업 후기",
+    "site.tennojizoo.jp サンリオ 2026 11月25日",
+    "미니틴 2026 11월 후기",
+    "RiboDiary Forest Gathering Day November 2026 review"
+  ],
+  "windows": [
+    [
+      "2026-11-20",
+      "2026-11-26"
+    ],
+    [
+      "2026-10-28",
+      "2026-11-26"
+    ]
+  ],
+  "excluded": [
+    "旧年财报/8月集团业绩超窗，不挪作本IP数字",
+    "其他IP首页评价不挪用",
+    "搜索相对日期与索引11/24到访标题不作已核正文事实",
+    "媒体与原公告同事件，不重复计独立需求",
+    "辨款页11/19在30天而非7天，视频及封面未看"
+  ],
+  "xiaohongshu": {
+    "queries": [
+      {
+        "query": "RiboDiary 品牌介绍",
+        "status": "blocked",
+        "executed": false
+      },
+      {
+        "query": "RiboDiary 产品汇总",
+        "status": "blocked",
+        "executed": false
+      }
+    ],
+    "reason": "fresh browser bootstrap Unknown tool(browser.js)，停止该依赖，不绕过",
+    "read_pages": 0,
+    "accounts": []
+  },
+  "sanrio_xiaohongshu": "skipped_by_user",
+  "user_sample": {
+    "new_purchase_count": 0,
+    "rechecked_purchase_count": 0,
+    "new_discussion_text_pages": 1,
+    "accounts": [
+      "石头叔叔爱摇盒"
+    ],
+    "published": "2026-11-19",
+    "note": "只读辨款视频落地页文字，视频/封面/评论未看，非购买/真伪/重量证据；历史U02保留原观察日，本日未重读"
+  }
+}
