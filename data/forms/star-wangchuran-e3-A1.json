@@ -1,0 +1,75 @@
+{
+  "id": "star-wangchuran-e3-A1",
+  "render": "concept",
+  "source": "grok-star",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：小船长成身体而非人坐在船上。识别：短而鼓的船体，一叶还没张满的小帆。不普通：拿掉船就没有角色。材质只有一处船漆木。配色浅木白配深青船漆。新组合。特点夸张到整只身体就是还在找风的船。不做成行驶场面或沉船。",
+  "ip": "star-wangchuran-e3",
+  "n": 1,
+  "species": "一只还在找风向的小船",
+  "title": "小船就是身体，帆还没张满",
+  "axes": {
+    "archetype": "物件生物，还在找风向的一只小船",
+    "silhouette": "一艘短而鼓的小船当胸腹，船中一叶还没张满的软帆，船头一颗圆核，船底两枚短钝足像轻轻搁浅",
+    "mark": "身 · 整只身体就是一只还在找风的小船，帆只扬起一半，没有破浪前行",
+    "face": "半睁小黑豆眼贴在船头圆核上，极小一字嘴，眼距正常，视线平视前方",
+    "emotion": "内收，松开，不扛着",
+    "fusion": "物件就是身体：小船就是胸腹和轮廓，拿掉船角色就不成立",
+    "material": "主体浅木短绒，只有船体外侧是一层深青船漆木",
+    "palette": "浅木白配深青船漆，帆是一点更浅的米白"
+  },
+  "head": "船头一颗浅木圆核小头，几乎没有颈，略探出船沿",
+  "combo": "短鼓船体 + 还没张满的软帆 + 深青船漆 + 平视的半睁小眼",
+  "odd": "船已经能站住，帆却只扬起一半，像风还没定，人先不必把事积着",
+  "why": "过了就过了，不必积在心里。风可以再找。",
+  "spec": {
+    "proportion": "头核约占全高 24%，船体长约为头宽的 2.2 倍，帆高约占全高 30%，短足约占全高 12%",
+    "outline": "短鼓船身横着站，船头圆核，半张软帆，船底两枚短钝足",
+    "volume": "大：船体；中：软帆和圆核头；小：短足",
+    "face": "眼在圆核中部，半睁，眼距约一个眼宽，不张嘴，船身和帆上不写文字和数字",
+    "stance": "两枚短钝足左右分开，船体平稳搁着，帆斜向一侧未张满，不倾覆",
+    "structure": "浅木绒核心和小船长在一起，船就是身体，不是脚下的载具；帆软着，没有被风撕破"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：船就是身体。特殊材质只有船漆木。新组合：帆未张满的找风小船。不像绘本。头像可见半张帆和鼓船。做得成。姿态：搁着找风，不是破浪或沉船。",
+  "crop": "记忆点在短鼓船体和还没张满的帆，头像可见半张帆即可认出。",
+  "collide": "不同于航海吉祥物或漂流玩具：船就是身体，帆还没张满，脸收着，不做远航场面。",
+  "pose": "立定，船体搁稳，帆只扬起一半斜向一侧",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "船被画成脚下的载具"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩圆头，船体不够鼓"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "船身写满文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉小船后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一颗浅木圆核和一只还在找风向的小船长在一起：整艘短船就是它的身体，拿掉船就没有角色。一艘短而鼓的小船围成胸腹，船中一叶还没张满的软帆只扬起一半，船底两枚短钝足像轻轻搁浅。船头是一颗浅木圆核小头，几乎没有颈，略探出船沿，半睁小黑豆眼，极小一字嘴，视线平视前方。双足左右分开，船体平稳搁着，帆斜向一侧，像风还没定，先不必把事积着。主体是浅木短绒，只有船体外侧是一层深青船漆木，帆是更浅的米白。配色是浅木白配深青船漆。船没有破浪前行，没有沉没，帆没有被撕破。船身和帆上没有文字或数字。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要可阅读的文字和数字，不要颁奖奖杯，不要发光屏幕，不要锁链或伤口。",
+  "enp": "Original designer toy character: a light-wood rounded core fused with a small boat still feeling for the wind — the boat is the body, without it there is no character. A short, puffed hull forms the torso, a soft sail in the middle raised only halfway, two short blunt feet below as if gently grounded. A light-wood rounded head sits at the bow, almost no neck, slightly over the gunwale, half-open tiny black bean eyes, a tiny straight mouth, gaze level ahead. Feet planted apart, the hull resting steady, the sail angled to one side, as if the wind is not decided yet and nothing has to be stored up. Body is light-wood plush; only the outer hull is deep-teal painted wood, the sail a paler rice-white. Colors: light wood-white with deep teal paint. The boat is not cutting through waves, not sinking, and the sail is not torn. No letters or numerals on the hull or sail. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No readable letters or numerals, no award trophy, no lit screens, no chains or injuries."
+}

@@ -1,0 +1,75 @@
+{
+  "id": "star-wangchuran-e3-A3",
+  "render": "concept",
+  "source": "grok-star",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：冰淇淋球长成身体而非手里举一支甜筒。识别：圆鼓的香草球，底部还连着一只短勺，表面微微融化却没有流成一摊。不普通：拿掉这勺冰就没有角色。材质只有一处冰奶霜表面。配色香草奶白配一处深可可勺。新组合。特点夸张到整只身体就是还没化完的一勺。不做成融化一地或食品广告堆叠。",
+  "ip": "star-wangchuran-e3",
+  "n": 3,
+  "species": "一勺还没化完的香草冰淇淋",
+  "title": "冰勺就是身体，还没化完",
+  "axes": {
+    "archetype": "物件生物，还没化完的一勺香草冰淇淋",
+    "silhouette": "一颗圆鼓的香草球当胸腹，球顶一颗更小的圆核，球底连着一只横着的短钝勺，勺柄两侧像两枚短足撑住",
+    "mark": "身 · 整只身体就是一勺还没化完的香草冰淇淋，表面微微融化，没有流成一摊",
+    "face": "半睁小黑豆眼贴在圆核上，极小一字嘴，眼距正常，视线平视前方",
+    "emotion": "内收，松开，甜而不闹",
+    "fusion": "物件就是身体：这一勺冰淇淋就是胸腹和轮廓，拿掉冰角色就不成立",
+    "material": "主体香草短绒，只有球表面是微微融化的冰奶霜，勺是一处深可可硬质",
+    "palette": "香草奶白配深可可勺，融化边沿一点透明感的浅奶"
+  },
+  "head": "球顶一颗略小的香草圆核小头，几乎没有颈，和冰球连成一朵还没塌的顶",
+  "combo": "圆鼓香草球 + 微微融化却未流走的边沿 + 横着的深可可短勺 + 平视的半睁小眼",
+  "odd": "冰已经能站住，边沿却微微化开，像事情正在过去，不必积成硬块",
+  "why": "过了就过了，不必积在心里。化一点也可以。",
+  "spec": {
+    "proportion": "头核约占全高 24%，冰球直径约为头宽的 1.8 倍，勺柄和短足约占全高 16%",
+    "outline": "圆鼓冰球，顶上小圆核，底部横短勺，勺柄两端着地",
+    "volume": "大：冰球；中：圆核头；小：短勺和融化边沿",
+    "face": "眼在圆核中部，半睁，眼距约一个眼宽，不张嘴，球面和勺面不写文字和数字",
+    "stance": "勺柄两端像短足左右撑住，冰球坐稳在勺上，融化只在边沿，不流成一摊",
+    "structure": "香草绒核心和冰球、短勺长在一起，这一勺就是身体，不是手里的甜品；融化只是边沿发亮，不是化掉的残缺"
+  },
+  "toy_check": "站得住：勺柄着地。物件长进去：这一勺就是身体。特殊材质只有冰奶霜表面。新组合：还没化完的香草勺身。不像绘本。头像可见冰球和勺。做得成。姿态：坐在勺上微融，不是化成一摊。",
+  "crop": "记忆点在圆鼓香草球和底部短勺，头像可见球和勺即可认出。",
+  "collide": "不同于甜点吉祥物或甜筒小人：这一勺就是身体，还没化完，脸收着，不做广告堆叠。",
+  "pose": "坐稳在短勺上，边沿微融，不流走",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "冰被画成手里的甜筒"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩圆头，勺不够清楚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "球面写满文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉冰淇淋和勺后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一颗香草圆核和一勺还没化完的香草冰淇淋长在一起：整勺冰淇淋就是它的身体，拿掉这勺冰就没有角色。一颗圆鼓的香草球围成胸腹，表面微微融化却没有流成一摊，球底连着一只横着的深可可短钝勺，勺柄两端像两枚短足撑住。球顶是一颗略小的香草圆核小头，几乎没有颈，半睁小黑豆眼，极小一字嘴，视线平视前方。冰球坐稳在勺上，边沿只化开一点，像事情正在过去，不必积成硬块。主体是香草短绒，只有球表面是微微融化的冰奶霜，勺是一处深可可硬质。配色是香草奶白配深可可。没有化成一摊，没有堆叠的多层甜品，球面和勺面没有文字或数字。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要可阅读的文字和数字，不要颁奖奖杯，不要发光屏幕，不要锁链或伤口。",
+  "enp": "Original designer toy character: a vanilla rounded core fused with a spoonful of vanilla ice cream that has not yet finished melting — the scoop is the body, without it there is no character. A plump vanilla scoop forms the torso, the surface slightly melting but not running into a puddle, a short blunt dark-cocoa spoon lying under it, the handle ends acting like two short feet. A slightly smaller vanilla rounded head sits on top, almost no neck, half-open tiny black bean eyes, a tiny straight mouth, gaze level ahead. The scoop sits steady on the spoon, only the rim softening, as if something can pass and need not harden in place. Body is vanilla plush; only the surface is slightly melting iced-cream frosting, the spoon a dark cocoa hard accent. Colors: vanilla-white with dark cocoa. It does not melt into a puddle, is not a stacked dessert ad, and has no letters or numerals on the scoop or spoon. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No readable letters or numerals, no award trophy, no lit screens, no chains or injuries."
+}

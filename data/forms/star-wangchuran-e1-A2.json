@@ -1,0 +1,75 @@
+{
+  "id": "star-wangchuran-e1-A2",
+  "render": "concept",
+  "source": "grok-star",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：标签卷长成身体而非胸前贴一张纸。识别：直立的空白卷筒，一层标签翘起还没贴死。不普通：拿掉卷筒就没有角色。材质只有一处半透明胶面。配色暖米白配墨灰。新组合。特点夸张到整只身体就是还能再贴的空白卷。卷面不写任何字。",
+  "ip": "star-wangchuran-e1",
+  "n": 2,
+  "species": "可以继续往上贴的空白标签卷",
+  "title": "标签卷就是身体，空白还没写满",
+  "axes": {
+    "archetype": "物件生物，可以继续往上贴的空白标签卷",
+    "silhouette": "一根直立的粗卷筒当胸腹，外层有一角空白标签轻轻翘起，筒顶一颗圆核，筒底两枚短钝足",
+    "mark": "身 · 整只身体就是一卷还没写满的空白标签，外层翘起一角，下面还能再贴",
+    "face": "半睁小黑豆眼贴在圆核上，极小一字嘴，眼距正常，视线平视前方",
+    "emotion": "内收，还空着，不必已经被写死",
+    "fusion": "物件就是身体：标签卷就是胸腹和轮廓，拿掉卷角色就不成立",
+    "material": "主体暖米短绒，只有卷面是半透明标签胶纸",
+    "palette": "暖米白配墨灰卷芯，翘起的一角是更浅的米白"
+  },
+  "head": "卷芯顶上的暖米圆核小头，几乎没有颈，被空白标签的上沿轻轻围住",
+  "combo": "直立空白卷筒 + 翘起还没贴死的一角 + 墨灰卷芯 + 平视的半睁小眼",
+  "odd": "标签已经绕成身体，最外一角却还空着、还没贴死，像还可以再加一层",
+  "why": "你可以还没被定成一张脸。空白还在。",
+  "spec": {
+    "proportion": "头核约占全高 26%，卷筒高约占全高 60%，筒宽约为头宽的 1.6 倍，短足约占全高 14%",
+    "outline": "立着的粗圆筒，顶上圆核，外层一角轻翘，筒底两枚短钝足",
+    "volume": "大：卷筒身；中：圆核头；小：翘起的一角和短足",
+    "face": "眼在圆核中部，半睁，眼距约一个眼宽，不张嘴，卷面和标签上不写文字和数字",
+    "stance": "两枚短钝足左右分开站稳，卷筒垂直，翘起的一角朝前外侧，不散卷",
+    "structure": "暖米绒核心和标签卷长在一起，卷就是身体，不是贴在身上的贴纸；标签全是空白"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：卷就是身体。特殊材质只有半透明胶面。新组合：还能再贴的空白卷身。不像绘本。头像可见翘起的一角。做得成。姿态：筒立着，不是满身字的贴纸人。",
+  "crop": "记忆点在直立卷筒和翘起的空白一角，头像可见翘角即可认出。",
+  "collide": "不同于普通便签拟人或办公吉祥物：卷就是身体，标签是空白的，脸收着，不做写字场面。",
+  "pose": "立定，卷筒垂直，空白一角轻翘朝前",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "卷被画成手里的胶带"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩圆头，筒身不够粗"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "卷面写满文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉标签卷后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一颗暖米圆核和一卷可以继续往上贴的空白标签长在一起：整根标签卷就是它的身体，拿掉卷就没有角色。一根直立的粗卷筒围成胸腹，外层有一角空白标签轻轻翘起还没贴死，筒底两枚短钝足。筒顶是一颗暖米圆核小头，几乎没有颈，被标签上沿轻轻围住，半睁小黑豆眼，极小一字嘴，视线平视前方。双足左右分开站稳，卷筒垂直，像已经绕成身体，却还可以再加一层。主体是暖米短绒，只有卷面是半透明标签胶纸，卷芯是墨灰。配色是暖米白配墨灰。所有标签都是空白，没有文字、数字或符号。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要可阅读的文字和数字，不要颁奖奖杯，不要发光屏幕，不要锁链或伤口。",
+  "enp": "Original designer toy character: a warm-rice rounded core fused with a roll of still-blank labels that can take more layers — the roll is the body, without it there is no character. An upright thick cylinder forms the torso, one blank label corner gently peeled up and not yet stuck down, two short blunt feet below. A warm rounded head sits at the top of the core, almost no neck, lightly framed by the upper edge of the labels, half-open tiny black bean eyes, a tiny straight mouth, gaze level ahead. Feet planted apart, the cylinder standing vertical, as if already wound into a body that could still take one more layer. Body is warm-rice plush; only the roll surface is translucent label adhesive; the core is ink grey. Colors: warm rice-white with ink grey. Every label is blank, with no letters, numerals or symbols. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No readable letters or numerals, no award trophy, no lit screens, no chains or injuries."
+}

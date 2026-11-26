@@ -1,0 +1,75 @@
+{
+  "id": "star-wangchuran-e2-A2",
+  "render": "concept",
+  "source": "grok-star",
+  "rules": [
+    "avoid-other-ip-shadow",
+    "avoid-low-recognition",
+    "avoid-plain",
+    "avoid-weird-unpleasant",
+    "prefer-unique-texture",
+    "prefer-strong-color",
+    "prefer-unseen-combo",
+    "prefer-more-exaggerated"
+  ],
+  "rules_hit": "避开别的影子：信封长成身体而非手里拿一封信。识别：立着的厚信封，一粒未拆的蜡封。不普通：拿掉信封就没有角色。材质只有一处未干蜡封。配色米白配一粒深绛蜡。新组合。特点夸张到整只身体就是还没寄出的信。信封上不写任何字。",
+  "ip": "star-wangchuran-e2",
+  "n": 2,
+  "species": "一封还想替谁说句话的未寄出的信",
+  "title": "信封就是身体，蜡还没拆",
+  "axes": {
+    "archetype": "物件生物，还想替谁说句话的未寄出的信",
+    "silhouette": "一枚竖立的厚信封当胸腹，正中一粒圆蜡封还没拆，信封上沿一颗圆核，底边两枚短钝足",
+    "mark": "身 · 整只身体就是一封还没寄出的信，蜡封完整，没有打开",
+    "face": "半睁小黑豆眼贴在圆核上，极小一字嘴，眼距正常，视线平视前方",
+    "emotion": "内收，想说还没说，不着急争辩",
+    "fusion": "物件就是身体：信封就是胸腹和轮廓，拿掉信角色就不成立",
+    "material": "主体米白短绒，只有正中那粒蜡封是未干的深绛蜡",
+    "palette": "米白信封配深绛蜡封，折边一点浅灰"
+  },
+  "head": "信封上沿一颗米白圆核小头，几乎没有颈，被信封折口轻轻挡住一点",
+  "combo": "竖立厚信封 + 未拆的深绛蜡封 + 折口挡住一点的圆核 + 平视的半睁小眼",
+  "odd": "信已经折好、蜡已经封上，却还站在这里，像话写完了，还没舍得寄出",
+  "why": "不讨喜的，也可以被接住。有句话还想替谁说。",
+  "spec": {
+    "proportion": "头核约占全高 26%，信封高约占全高 60%，宽约为头宽的 1.8 倍，短足约占全高 14%",
+    "outline": "竖立圆角厚信封，上沿圆核，正中圆蜡封，底边两枚短钝足",
+    "volume": "大：信封身；中：圆核头；小：蜡封和短足",
+    "face": "眼在圆核中部，半睁，眼距约一个眼宽，不张嘴，信封正面不写文字、姓名和地址",
+    "stance": "两枚短钝足左右分开站稳，信封垂直微微前倾，蜡封完整朝前",
+    "structure": "米白绒核心和信封长在一起，信就是身体，不是手里的纸；蜡封是完整的一粒，没有撕开"
+  },
+  "toy_check": "站得住：短足着地。物件长进去：信封就是身体。特殊材质只有未干蜡封。新组合：未寄出的封口信身。不像绘本。头像可见蜡封。做得成。姿态：信封立着，不是拆开的信纸。",
+  "crop": "记忆点在竖立信封和正中蜡封，头像可见蜡封即可认出。",
+  "collide": "不同于普通书信吉祥物或邮差小人：信封就是身体，还没寄出，脸收着，不做演讲。",
+  "pose": "立定微前倾，信封垂直，蜡封朝前完整",
+  "tests": [
+    [
+      "记忆点",
+      "待出图验证",
+      "信被画成手里的纸"
+    ],
+    [
+      "剪影",
+      "待出图验证",
+      "轮廓只剩圆头，信封不够厚"
+    ],
+    [
+      "简化",
+      "待出图验证",
+      "信封写满文字"
+    ],
+    [
+      "缩小",
+      "待出图验证",
+      "缩小时只剩普通脸"
+    ],
+    [
+      "换皮",
+      "待出图验证",
+      "去掉信封后无法识别"
+    ]
+  ],
+  "zh": "原创潮玩角色，一颗米白圆核和一封还想替谁说句话的未寄出的信长在一起：整枚信封就是它的身体，拿掉信就没有角色。一枚竖立的厚信封围成胸腹，正中一粒还没拆的深绛圆蜡封，底边两枚短钝足。信封上沿是一颗米白圆核小头，几乎没有颈，被折口轻轻挡住一点，半睁小黑豆眼，极小一字嘴，视线平视前方。双足左右分开站稳，信封垂直微微前倾，像话已经折好，还没舍得寄出。主体是米白短绒，只有那粒蜡封是未干的深绛蜡。配色是米白配深绛。信封上没有文字、姓名、地址或邮戳，蜡封完整，没有撕开。单个角色完整全身，正面略侧，站在浅灰纯色背景前，柔和棚拍光，像真实的搪胶毛绒或手办产品照。不要儿童绘本或涂色书风格，不要卡通吉祥物，不要闪亮的动漫大眼，不要穿衣服的人类小孩造型，不要奔跑、跳跃或任何动作场景，不要速度线，不要细长的橡皮管式手脚，不要细长的手指，不要张嘴大笑，不要多余的饰品和细节，不要背景物件。不要真人脸发型服装，不要明星姓名，不要现有潮玩或品牌名，不要疾病、伤口或残缺造型，不要整体透明果冻身体。不要可阅读的文字和数字，不要颁奖奖杯，不要发光屏幕，不要锁链或伤口。",
+  "enp": "Original designer toy character: a rice-white rounded core fused with an unsent letter that still wants to speak for someone — the envelope is the body, without it there is no character. A thick standing envelope forms the torso, a deep-crimson round wax seal still unbroken at the center, two short blunt feet below. A rice-white rounded head sits at the top edge, almost no neck, slightly tucked by the fold, half-open tiny black bean eyes, a tiny straight mouth, gaze level ahead. Feet planted apart, the envelope standing vertical and slightly leaning forward, as if the words are already folded and not yet given away. Body is rice-white plush; only the seal is uncured deep-crimson wax. Colors: rice-white with deep crimson. The envelope has no letters, names, addresses or postmarks, and the seal is intact, not torn. Single character, full body, slight three-quarter front view, standing on a plain light grey background, soft studio lighting, looks like a real vinyl-plush or figure product photo. No children's book or coloring page style, no cartoon mascot, no big shiny anime eyes, no clothed human child figure, no running, jumping or action scene, no speed lines, no thin rubber-hose limbs, no thin long fingers, no wide open-mouth grin, no extra accessories or details, no background props. No real person's face, hairstyle or clothing, no celebrity names, no existing toy or brand names, no disease, wounds or disfigurement, no fully transparent jelly body. No readable letters or numerals, no award trophy, no lit screens, no chains or injuries."
+}
