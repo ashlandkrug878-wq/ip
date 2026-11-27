@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-27",
+  "queries": [
+    "RiboDiary 瑞宝 2026 11月27日",
+    "名创优品 TOP TOY NOMMI 2026 11月27 新品",
+    "サンリオ パペットスンスン 2026 11月27日",
+    "미니틴 2026 11월 팝업 후기"
+  ],
+  "windows": [
+    [
+      "2026-11-21",
+      "2026-11-27"
+    ],
+    [
+      "2026-10-29",
+      "2026-11-27"
+    ]
+  ],
+  "excluded": [
+    "2025集团业绩和6月巡展超窗，不移作本IP数字",
+    "其他IP低分缝制评价不挪作本IP反例",
+    "公告转载同家族不重复，限量完售自述不当销量",
+    "历史用户采样保持原日期，本日未重读"
+  ],
+  "xiaohongshu": {
+    "queries": [
+      {
+        "query": "RiboDiary 品牌介绍",
+        "status": "blocked",
+        "executed": false
+      },
+      {
+        "query": "RiboDiary 产品汇总",
+        "status": "blocked",
+        "executed": false
+      }
+    ],
+    "reason": "fresh browser bootstrap Unknown tool(browser.js)，停止该依赖",
+    "read_pages": 0,
+    "accounts": []
+  },
+  "sanrio_xiaohongshu": "skipped_by_user",
+  "user_sample": {
+    "new_purchase_count": 0,
+    "rechecked_purchase_count": 0,
+    "new_discussion_text_pages": 0,
+    "accounts": [],
+    "note": "当前首页三条评价全属其他IP，排除；历史用户证据不冒充本日新读"
+  }
+}
