@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-28",
+  "queries": [
+    "RiboDiary 瑞宝 2026 11月28日",
+    "名创优品 TOP TOY Nommi 2026 11月 新品",
+    "サンリオ パペットスンスン 2026 11月28日",
+    "미니틴 2026 11월 팝업 후기"
+  ],
+  "windows": [
+    [
+      "2026-11-22",
+      "2026-11-28"
+    ],
+    [
+      "2026-10-30",
+      "2026-11-28"
+    ]
+  ],
+  "excluded": [
+    "旧年/8月集团财报及9月评测超窗",
+    "搜索促销摘要与打开正文版本不同，不拼合为现价",
+    "当前首页其他IP评价不挪用",
+    "主办/厂商计划与媒体转载非独立需求",
+    "旧用户证据保留原采样日，不冒充今日重读"
+  ],
+  "xiaohongshu": {
+    "queries": [
+      {
+        "query": "RiboDiary 品牌介绍",
+        "status": "blocked",
+        "executed": false
+      },
+      {
+        "query": "RiboDiary 产品汇总",
+        "status": "blocked",
+        "executed": false
+      }
+    ],
+    "reason": "fresh browser bootstrap Unknown tool(browser.js)，停止该依赖",
+    "read_pages": 0,
+    "accounts": []
+  },
+  "sanrio_xiaohongshu": "skipped_by_user",
+  "user_sample": {
+    "new_purchase_count": 0,
+    "rechecked_purchase_count": 0,
+    "new_discussion_text_pages": 0,
+    "accounts": [],
+    "note": "当前首页Nyota、THE MONSTERS、Hirono评价排除；历史用户未重读"
+  }
+}
